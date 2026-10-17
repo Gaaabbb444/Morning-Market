@@ -1,0 +1,25 @@
+# Réglages généraux de Morning-Market.
+# Les sources, les indicateurs et les modèles d'IA seront ajoutés aux phases 2 et 3.
+
+projet:
+  nom: "Morning-Market"
+  fuseau_horaire: "Europe/Paris"   # toutes les dates affichées sont à l'heure de Paris
+  langue: "fr"
+
+# Les 7 catégories, alignées sur les cours.
+# « id » est le code court utilisé dans les fichiers JSON ; « libelle » est le texte affiché.
+categories:
+  - id: croissance
+    libelle: "Croissance, innovation et transition écologique"
+  - id: mondialisation
+    libelle: "Mondialisation et commerce international"
+  - id: finance
+    libelle: "Finance, marchés et banques centrales"
+  - id: desequilibres
+    libelle: "Déséquilibres : emploi, inflation, inégalités, dette et déficits"
+  - id: ue
+    libelle: "Union européenne"
+  - id: entreprises
+    libelle: "Entreprises et secteurs"
+  - id: epargne
+    libelle: "Épargne et patrimoine"

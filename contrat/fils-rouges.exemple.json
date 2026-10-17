@@ -1,0 +1,26 @@
+{
+  "version_schema": 1,
+  "exemple": "CONTENU FICTIF servant uniquement à décrire le format",
+  "mis_a_jour_le": "2026-10-19T06:12:00+02:00",
+  "fils": [
+    {
+      "id": "identifiant-du-fil",
+      "titre": "Titre du fil rouge",
+      "statut": "actif",
+      "ouvert_le": "2026-10-19",
+      "clos_le": null,
+      "categories": ["desequilibres"],
+      "ou_en_est_on": "Paragraphe mis à jour par l'IA qui résume l'état actuel du sujet.",
+      "ou_en_est_on_maj_le": "2026-10-19",
+      "evenements": [
+        {
+          "date": "2026-10-19",
+          "resume": "Ce qui s'est passé ce jour-là sur ce sujet.",
+          "liens": [
+            { "titre": "Titre original de l'article", "source": "Nom du média", "url": "https://exemple.fr/article-1" }
+          ]
+        }
+      ]
+    }
+  ]
+}

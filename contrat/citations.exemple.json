@@ -1,0 +1,16 @@
+{
+  "version_schema": 1,
+  "exemple": "Format du fichier data/citations.json (citations d'économistes)",
+  "citations": [
+    {
+      "id": "identifiant-de-la-citation",
+      "texte": "Texte de la citation en français.",
+      "texte_original": "Texte dans la langue d'origine, si traduit.",
+      "auteur": "Nom de l'économiste",
+      "oeuvre": "Titre de l'ouvrage ou de l'article",
+      "annee": 1900,
+      "reference": "Chapitre, page et édition précise permettant de retrouver la phrase",
+      "verifiee": false
+    }
+  ]
+}

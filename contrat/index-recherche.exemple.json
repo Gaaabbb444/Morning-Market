@@ -1,0 +1,7 @@
+{
+  "version_schema": 1,
+  "exemple": "Clés courtes volontairement, pour un fichier léger : d=date, i=id, t=titre, r=résumé, c=catégorie, s=source, f=fil rouge",
+  "entrees": [
+    { "d": "2026-10-19", "i": "a1b2c3d4e5f6", "t": "Titre original de l'article", "r": "Une phrase de résumé.", "c": "finance", "s": "Nom du média", "f": "identifiant-du-fil" }
+  ]
+}

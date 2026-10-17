@@ -1,0 +1,16 @@
+{
+  "version_schema": 1,
+  "exemple": "Format du référentiel data/concepts.json (rédigé à l'avance, relu par Gab)",
+  "concepts": [
+    {
+      "id": "identifiant-du-concept",
+      "terme": "Nom du concept",
+      "theme": "desequilibres",
+      "categories": ["desequilibres", "finance"],
+      "definition": "Définition rigoureuse, niveau licence.",
+      "auteurs_associes": ["Auteur (œuvre, année)"],
+      "mots_cles": ["mot-clé servant à relier le concept à l'actualité"],
+      "relu": false
+    }
+  ]
+}

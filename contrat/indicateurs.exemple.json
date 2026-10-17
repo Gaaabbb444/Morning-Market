@@ -1,0 +1,41 @@
+{
+  "version_schema": 1,
+  "exemple": "CONTENU FICTIF servant uniquement à décrire le format",
+  "mis_a_jour_le": "2026-10-19T06:12:00+02:00",
+  "indicateurs": [
+    {
+      "id": "eur-usd",
+      "libelle": "EUR/USD",
+      "unite": "$",
+      "decimales": 4,
+      "frequence": "quotidienne",
+      "source": "BCE",
+      "source_url": "https://data.ecb.europa.eu/",
+      "derniere_valeur": { "periode": "2026-10-16", "valeur": 1.0000 },
+      "variation": { "valeur": -0.0021, "type": "absolue", "periode_reference": "2026-10-15" },
+      "historique": [
+        ["2026-10-15", 1.0021],
+        ["2026-10-16", 1.0000]
+      ],
+      "etat": "ok",
+      "dernier_succes": "2026-10-19T06:12:00+02:00"
+    },
+    {
+      "id": "inflation-france",
+      "libelle": "Inflation France (IPCH, sur un an)",
+      "unite": "%",
+      "decimales": 1,
+      "frequence": "mensuelle",
+      "source": "BCE / Eurostat",
+      "source_url": "https://data.ecb.europa.eu/",
+      "derniere_valeur": { "periode": "2026-09", "valeur": 0.0 },
+      "variation": { "valeur": 0.0, "type": "points", "periode_reference": "2026-08" },
+      "historique": [
+        ["2026-08", 0.0],
+        ["2026-09", 0.0]
+      ],
+      "etat": "perimee",
+      "dernier_succes": "2026-10-17T06:10:00+02:00"
+    }
+  ]
+}

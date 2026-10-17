@@ -1,0 +1,21 @@
+# Environnement Python local
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Secrets locaux (clés API) : ne jamais les publier
+.env
+
+# Outil Tailwind téléchargé localement et CSS compilé (régénéré par le workflow)
+tailwindcss*.exe
+tailwindcss-*
+site/assets/style.css
+
+# Fichiers temporaires de collecte (contiennent les chapôs RSS, à ne pas publier)
+tmp/
+
+# Fichiers système
+Thumbs.db
+desktop.ini
+.DS_Store

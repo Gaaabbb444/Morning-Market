@@ -1,0 +1,68 @@
+{
+  "version_schema": 1,
+  "exemple": "CONTENU FICTIF servant uniquement à décrire le format",
+  "date": "2026-10-19",
+  "genere_le": "2026-10-19T10:31:00+02:00",
+  "passages": [
+    { "heure": "2026-10-19T06:12:00+02:00", "type": "matin", "mode_ia": "github-models", "articles_collectes": 164, "nouvelles_infos": 41 },
+    { "heure": "2026-10-19T10:31:00+02:00", "type": "fin-de-matinee", "mode_ia": "github-models", "articles_collectes": 58, "nouvelles_infos": 9, "top5_modifie": false }
+  ],
+  "essentiel": [
+    "Première phrase de synthèse de la journée (exemple fictif).",
+    "Deuxième phrase de synthèse.",
+    "Troisième phrase de synthèse."
+  ],
+  "top5": [
+    {
+      "id": "a1b2c3d4e5f6",
+      "rang": 1,
+      "titre": "Titre original de l'article, tel que publié par la source",
+      "source": "Nom du média",
+      "url": "https://exemple.fr/article-1",
+      "publie_le": "2026-10-19T05:40:00+02:00",
+      "categorie": "finance",
+      "nb_sources": 5,
+      "autres_sources": [
+        { "source": "Autre média", "titre": "Titre de l'autre article sur le même événement", "url": "https://exemple.fr/article-1b" }
+      ],
+      "faits": "Une à deux phrases : ce qui s'est passé.",
+      "analyse": "Une à deux phrases : mécanismes et enjeux.",
+      "pour_tes_copies": "Une phrase : quel thème de cours ou de dissertation cette info illustre.",
+      "fil_rouge": "identifiant-du-fil"
+    }
+  ],
+  "par_categorie": {
+    "croissance": [
+      {
+        "id": "f6e5d4c3b2a1",
+        "titre": "Titre original d'un autre article",
+        "source": "Nom du média",
+        "url": "https://exemple.fr/article-2",
+        "publie_le": "2026-10-19T07:05:00+02:00",
+        "resume": "Une phrase de résumé.",
+        "nb_sources": 2,
+        "fil_rouge": null
+      }
+    ],
+    "mondialisation": [],
+    "finance": [],
+    "desequilibres": [],
+    "ue": [],
+    "entreprises": [],
+    "epargne": []
+  },
+  "concept": {
+    "id": "effet-d-eviction",
+    "lien_actu": "Pourquoi ce concept éclaire l'actualité du jour.",
+    "usage_copie": "Une phrase sur la façon de le mobiliser dans une copie.",
+    "article_id": "a1b2c3d4e5f6"
+  },
+  "citation_actu": {
+    "texte": "Phrase exacte entre guillemets, présente mot pour mot dans le flux RSS.",
+    "auteur": "Nom et fonction de la personne",
+    "source": "Nom du média",
+    "url": "https://exemple.fr/article-1",
+    "article_id": "a1b2c3d4e5f6"
+  },
+  "citation_economiste_id": "id-d-une-citation-verifiee"
+}

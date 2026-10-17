@@ -1,0 +1,23 @@
+{
+  "version_schema": 1,
+  "exemple": "CONTENU FICTIF servant uniquement à décrire le format",
+  "type": "semaine",
+  "periode": "2026-W42",
+  "du": "2026-10-12",
+  "au": "2026-10-18",
+  "genere_le": "2026-10-18T06:12:00+02:00",
+  "synthese": "Paragraphe de synthèse de la période, rédigé à partir des éditions quotidiennes.",
+  "faits_marquants": [
+    {
+      "date": "2026-10-14",
+      "titre": "Titre original de l'article",
+      "source": "Nom du média",
+      "url": "https://exemple.fr/article-1",
+      "categorie": "finance",
+      "fil_rouge": "identifiant-du-fil"
+    }
+  ],
+  "fils_rouges": [
+    { "id": "identifiant-du-fil", "evolution": "Ce qui a changé sur ce sujet pendant la période." }
+  ]
+}
