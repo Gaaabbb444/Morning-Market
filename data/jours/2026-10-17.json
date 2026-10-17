@@ -1,7 +1,7 @@
 {
   "version_schema": 1,
   "date": "2026-10-17",
-  "genere_le": "2026-10-17T23:41:45+02:00",
+  "genere_le": "2026-10-17T23:44:44+02:00",
   "mode_ia": "ia",
   "passages": [
     {
@@ -18,6 +18,14 @@
       "mode_ia": "ia",
       "articles_collectes": 139,
       "nouvelles_infos": 11,
+      "top5_modifie": false
+    },
+    {
+      "heure": "2026-10-17T23:44:44+02:00",
+      "type": "manuel",
+      "mode_ia": "ia",
+      "articles_collectes": 161,
+      "nouvelles_infos": 0,
       "top5_modifie": false
     }
   ],
