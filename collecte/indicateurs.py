@@ -12,13 +12,14 @@ elle n'en supprime jamais.
 
 import csv
 import io
+import time
 from datetime import date, timedelta
 
 import requests
 
 from .outils import USER_AGENT, horodatage, journal
 
-DELAI = 30
+DELAI = 60
 URL_BCE = "https://data-api.ecb.europa.eu/service/data/{serie}"
 URL_EUROSTAT = "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/{jeu}"
 URL_YAHOO = "https://query1.finance.yahoo.com/v8/finance/chart/{symbole}"
@@ -33,14 +34,23 @@ POINTS_COURBE = {"quotidienne": 30, "mensuelle": 12, "trimestrielle": 12}
 # Les trois fournisseurs : chacun renvoie une liste de (période, valeur)
 # ---------------------------------------------------------------------------
 
+def _telecharger(url: str, parametres: dict) -> requests.Response:
+    """Téléchargement avec un second essai : les API publiques ralentissent parfois quelques secondes."""
+    for tentative in (1, 2):
+        try:
+            reponse = requests.get(url, params=parametres, headers={"User-Agent": USER_AGENT}, timeout=DELAI)
+            reponse.raise_for_status()
+            return reponse
+        except requests.RequestException:
+            if tentative == 2:
+                raise
+            time.sleep(10)
+
+
 def depuis_bce(indicateur: dict) -> list[tuple[str, float]]:
     nombre = 90 if indicateur["frequence"] == "quotidienne" else 36
-    reponse = requests.get(
-        URL_BCE.format(serie=indicateur["serie"]),
-        params={"format": "csvdata", "lastNObservations": nombre},
-        headers={"User-Agent": USER_AGENT}, timeout=DELAI,
-    )
-    reponse.raise_for_status()
+    reponse = _telecharger(URL_BCE.format(serie=indicateur["serie"]),
+                           {"format": "csvdata", "lastNObservations": nombre})
     lignes = csv.DictReader(io.StringIO(reponse.text))
     return [(l["TIME_PERIOD"], float(l["OBS_VALUE"])) for l in lignes if l.get("OBS_VALUE")]
 
@@ -55,12 +65,7 @@ def depuis_eurostat(indicateur: dict) -> list[tuple[str, float]]:
     debut = date.today().year - annees
     parametres = dict(indicateur["filtres"])
     parametres["sinceTimePeriod"] = f"{debut}-01" if indicateur["frequence"] == "mensuelle" else f"{debut}-Q1"
-    reponse = requests.get(
-        URL_EUROSTAT.format(jeu=indicateur["jeu_de_donnees"]),
-        params=parametres, headers={"User-Agent": USER_AGENT}, timeout=DELAI,
-    )
-    reponse.raise_for_status()
-    donnees = reponse.json()
+    donnees = _telecharger(URL_EUROSTAT.format(jeu=indicateur["jeu_de_donnees"]), parametres).json()
     # Format JSON-stat : les valeurs sont indexées par position ; on retrouve la période correspondante.
     position_vers_periode = {pos: per for per, pos in donnees["dimension"]["time"]["category"]["index"].items()}
     return sorted((_periode_eurostat(position_vers_periode[int(pos)]), float(val))

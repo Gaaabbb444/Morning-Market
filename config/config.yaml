@@ -54,7 +54,7 @@ sources:
   - { id: insee,            nom: "INSEE",                 type: institution,   url: "https://www.insee.fr/fr/flux/3" }
   - { id: economie-gouv,    nom: "Ministère de l'Économie", type: institution, url: "https://www.economie.gouv.fr/rss/toutesactualites" }
   - { id: bbc-business,     nom: "BBC",                   type: international, url: "https://feeds.bbci.co.uk/news/business/rss.xml" }
-  - { id: guardian-business, nom: "The Guardian",         type: international, url: "https://www.theguardian.com/business/rss" }
+  - { id: guardian-business, nom: "The Guardian",         type: international, url: "https://www.theguardian.com/uk/business/rss" }  # édition UK forcée : les serveurs GitHub (USA) sont sinon redirigés vers l'édition US
 
 # ---------------------------------------------------------------------------
 # Indicateurs chiffrés (identifiants vérifiés le 17/10/2026)

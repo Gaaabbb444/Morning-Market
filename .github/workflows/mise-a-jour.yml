@@ -32,7 +32,7 @@ concurrency:
 jobs:
   mise-a-jour:
     if: github.event_name != 'push'
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04   # version figée : évite les surprises lors des changements de version de GitHub
     timeout-minutes: 30
     permissions:
       contents: write   # pour enregistrer les nouvelles données dans le dépôt
@@ -90,7 +90,7 @@ jobs:
     needs: mise-a-jour
     # Publie après une mise à jour (même partielle) ou après une modification du site.
     if: ${{ !cancelled() }}
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04   # version figée : évite les surprises lors des changements de version de GitHub
     timeout-minutes: 10
     permissions:
       pages: write
