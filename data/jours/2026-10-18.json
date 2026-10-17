@@ -1,7 +1,7 @@
 {
   "version_schema": 1,
   "date": "2026-10-18",
-  "genere_le": "2026-10-18T00:04:03+02:00",
+  "genere_le": "2026-10-18T00:09:02+02:00",
   "mode_ia": "ia",
   "passages": [
     {
@@ -10,6 +10,14 @@
       "mode_ia": "ia",
       "articles_collectes": 157,
       "nouvelles_infos": 147,
+      "top5_modifie": false
+    },
+    {
+      "heure": "2026-10-18T00:09:02+02:00",
+      "type": "manuel",
+      "mode_ia": "ia",
+      "articles_collectes": 158,
+      "nouvelles_infos": 2,
       "top5_modifie": false
     }
   ],
@@ -600,6 +608,7 @@
     "107fb4fe2617",
     "119fe05c4d25",
     "11fe8ba31e0f",
+    "137809f19e7d",
     "13945e410b3a",
     "14dd5fbb82dc",
     "15441fe0aa07",
@@ -607,6 +616,7 @@
     "190b6caeb432",
     "1f311a251388",
     "1f7a1abfaee5",
+    "1fac0fc5ef81",
     "211c40b42635",
     "223fdf409498",
     "22d26673f7e3",
