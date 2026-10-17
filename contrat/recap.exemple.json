@@ -14,10 +14,15 @@
       "source": "Nom du média",
       "url": "https://exemple.fr/article-1",
       "categorie": "finance",
-      "fil_rouge": "identifiant-du-fil"
+      "fil_rouge": "identifiant-du-fil",
+      "titre_fr": null
     }
   ],
   "fils_rouges": [
-    { "id": "identifiant-du-fil", "evolution": "Ce qui a changé sur ce sujet pendant la période." }
-  ]
+    {
+      "id": "identifiant-du-fil",
+      "evolution": "Ce qui a changé sur ce sujet pendant la période."
+    }
+  ],
+  "libelle": "Semaine du 12 octobre au 18 octobre 2026"
 }

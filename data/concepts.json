@@ -1,0 +1,2302 @@
+{
+  "version_schema": 1,
+  "concepts": [
+    {
+      "id": "croissance-economique",
+      "terme": "Croissance économique",
+      "theme": "croissance",
+      "categories": [
+        "croissance"
+      ],
+      "definition": "Augmentation soutenue, sur une longue période, de la production de biens et services d'une économie. Elle se mesure en général par le taux de variation du PIB en volume, c'est-à-dire corrigé de la hausse des prix.",
+      "auteurs_associes": [
+        "Simon Kuznets"
+      ],
+      "mots_cles": [
+        "croissance",
+        "PIB",
+        "production",
+        "activité"
+      ],
+      "relu": true
+    },
+    {
+      "id": "pib-produit-interieur-brut",
+      "terme": "PIB (produit intérieur brut)",
+      "theme": "croissance",
+      "categories": [
+        "croissance"
+      ],
+      "definition": "Agrégat qui mesure la richesse créée pendant une période par les unités productrices résidentes : somme des valeurs ajoutées, augmentée des impôts sur les produits nets des subventions. Il peut se calculer selon trois optiques : production, demande ou revenus.",
+      "auteurs_associes": [],
+      "mots_cles": [
+        "PIB",
+        "valeur ajoutée",
+        "comptabilité nationale",
+        "trimestre"
+      ],
+      "relu": true
+    },
+    {
+      "id": "investissement-fbcf",
+      "terme": "Investissement (FBCF)",
+      "theme": "croissance",
+      "categories": [
+        "croissance",
+        "entreprises"
+      ],
+      "definition": "Dépense consacrée à l'acquisition de biens durables (équipements, bâtiments, logiciels) utilisés pour produire, mesurée en comptabilité nationale par la formation brute de capital fixe. Il soutient la demande à court terme et accroît les capacités de production à long terme.",
+      "auteurs_associes": [],
+      "mots_cles": [
+        "investissement",
+        "FBCF",
+        "capital",
+        "équipements"
+      ],
+      "relu": true
+    },
+    {
+      "id": "productivite-globale-des-facteurs",
+      "terme": "Productivité globale des facteurs",
+      "theme": "croissance",
+      "categories": [
+        "croissance"
+      ],
+      "definition": "Part de la croissance de la production qui n'est expliquée ni par l'augmentation du travail ni par celle du capital (le « résidu de Solow »). Elle reflète le progrès technique, l'organisation de la production et la qualité des facteurs.",
+      "auteurs_associes": [
+        "Robert Solow (1957)"
+      ],
+      "mots_cles": [
+        "productivité",
+        "progrès technique",
+        "résidu",
+        "efficacité"
+      ],
+      "relu": true
+    },
+    {
+      "id": "modele-de-solow",
+      "terme": "Modèle de Solow",
+      "theme": "croissance",
+      "categories": [
+        "croissance"
+      ],
+      "definition": "Modèle de croissance exogène (1956) dans lequel l'accumulation du capital connaît des rendements décroissants : à long terme, la croissance du revenu par habitant ne dépend que du progrès technique, supposé extérieur au modèle.",
+      "auteurs_associes": [
+        "Robert Solow (1956)"
+      ],
+      "mots_cles": [
+        "Solow",
+        "croissance exogène",
+        "état stationnaire",
+        "accumulation du capital"
+      ],
+      "relu": true
+    },
+    {
+      "id": "croissance-endogene",
+      "terme": "Croissance endogène",
+      "theme": "croissance",
+      "categories": [
+        "croissance"
+      ],
+      "definition": "Ensemble de théories des années 1980-1990 où le progrès technique résulte de choix économiques (recherche-développement, capital humain, infrastructures publiques) qui produisent des externalités positives, ce qui rend possible une croissance durable.",
+      "auteurs_associes": [
+        "Paul Romer (1986, 1990)",
+        "Robert Lucas (1988)",
+        "Robert Barro (1990)"
+      ],
+      "mots_cles": [
+        "croissance endogène",
+        "R&D",
+        "capital humain",
+        "externalités",
+        "recherche"
+      ],
+      "relu": true
+    },
+    {
+      "id": "destruction-creatrice",
+      "terme": "Destruction créatrice",
+      "theme": "croissance",
+      "categories": [
+        "croissance",
+        "entreprises"
+      ],
+      "definition": "Processus par lequel les innovations font disparaître des activités, des entreprises et des emplois anciens tout en en créant de nouveaux. Pour Schumpeter, c'est le moteur de l'évolution du capitalisme.",
+      "auteurs_associes": [
+        "Joseph Schumpeter (Capitalisme, socialisme et démocratie, 1942)",
+        "Philippe Aghion et Peter Howitt (1992)"
+      ],
+      "mots_cles": [
+        "innovation",
+        "Schumpeter",
+        "disruption",
+        "faillites",
+        "start-up",
+        "licenciements"
+      ],
+      "relu": true
+    },
+    {
+      "id": "innovation",
+      "terme": "Innovation",
+      "theme": "croissance",
+      "categories": [
+        "croissance",
+        "entreprises"
+      ],
+      "definition": "Mise en œuvre d'une nouveauté dans le processus économique. Schumpeter en distingue cinq formes : nouveau produit, nouveau procédé, nouveau débouché, nouvelle source de matières premières, nouvelle organisation. On oppose innovations incrémentales et innovations de rupture.",
+      "auteurs_associes": [
+        "Joseph Schumpeter (Théorie de l'évolution économique, 1911)"
+      ],
+      "mots_cles": [
+        "innovation",
+        "rupture",
+        "technologie",
+        "deeptech"
+      ],
+      "relu": true
+    },
+    {
+      "id": "capital-humain",
+      "terme": "Capital humain",
+      "theme": "croissance",
+      "categories": [
+        "croissance",
+        "desequilibres"
+      ],
+      "definition": "Ensemble des connaissances, compétences et capacités (y compris l'état de santé) d'une personne, acquises par l'éducation, la formation et l'expérience. Il accroît sa productivité et ses revenus futurs, et se traite comme un investissement.",
+      "auteurs_associes": [
+        "Theodore Schultz (1961)",
+        "Gary Becker (Human Capital, 1964)"
+      ],
+      "mots_cles": [
+        "éducation",
+        "formation",
+        "compétences",
+        "école",
+        "université"
+      ],
+      "relu": true
+    },
+    {
+      "id": "rendements-d-echelle-croissants",
+      "terme": "Rendements d'échelle croissants",
+      "theme": "croissance",
+      "categories": [
+        "croissance",
+        "entreprises"
+      ],
+      "definition": "Situation où la production augmente plus que proportionnellement à la hausse de l'ensemble des facteurs de production. Ils favorisent la concentration des entreprises et la spécialisation.",
+      "auteurs_associes": [],
+      "mots_cles": [
+        "rendements",
+        "économies d'échelle",
+        "taille",
+        "concentration"
+      ],
+      "relu": true
+    },
+    {
+      "id": "externalite",
+      "terme": "Externalité",
+      "theme": "croissance",
+      "categories": [
+        "croissance"
+      ],
+      "definition": "Effet, positif ou négatif, de l'activité d'un agent sur le bien-être d'un autre, sans compensation monétaire par le marché. C'est une défaillance de marché qui peut justifier une intervention publique (taxe, subvention, norme, marché de droits).",
+      "auteurs_associes": [
+        "Arthur Cecil Pigou (1920)",
+        "Ronald Coase (1960)"
+      ],
+      "mots_cles": [
+        "externalité",
+        "pollution",
+        "défaillance de marché"
+      ],
+      "relu": false
+    },
+    {
+      "id": "bien-public",
+      "terme": "Bien public",
+      "theme": "croissance",
+      "categories": [
+        "croissance"
+      ],
+      "definition": "Bien non rival (sa consommation par l'un ne réduit pas celle des autres) et non excluable (on ne peut empêcher personne d'en profiter). Le marché tend à le produire en quantité insuffisante, à cause du comportement de « passager clandestin ».",
+      "auteurs_associes": [
+        "Paul Samuelson (1954)"
+      ],
+      "mots_cles": [
+        "bien public",
+        "passager clandestin",
+        "défense",
+        "climat"
+      ],
+      "relu": false
+    },
+    {
+      "id": "tragedie-des-communs",
+      "terme": "Tragédie des communs",
+      "theme": "croissance",
+      "categories": [
+        "croissance"
+      ],
+      "definition": "Surexploitation d'une ressource commune en accès libre, chaque utilisateur ayant intérêt à prélever davantage alors que la ressource s'épuise pour tous. Elinor Ostrom a montré que des règles collectives locales peuvent l'éviter.",
+      "auteurs_associes": [
+        "Garrett Hardin (1968)",
+        "Elinor Ostrom (1990)"
+      ],
+      "mots_cles": [
+        "communs",
+        "ressources naturelles",
+        "pêche",
+        "eau",
+        "climat"
+      ],
+      "relu": false
+    },
+    {
+      "id": "developpement-durable",
+      "terme": "Développement durable",
+      "theme": "croissance",
+      "categories": [
+        "croissance"
+      ],
+      "definition": "« Mode de développement qui répond aux besoins des générations présentes sans compromettre la capacité des générations futures de répondre aux leurs ». Il repose sur trois piliers : économique, social et environnemental.",
+      "auteurs_associes": [
+        "Rapport Brundtland (1987)"
+      ],
+      "mots_cles": [
+        "développement durable",
+        "transition",
+        "environnement",
+        "RSE"
+      ],
+      "relu": false
+    },
+    {
+      "id": "soutenabilite-faible-et-soutenabilite-forte",
+      "terme": "Soutenabilité faible et soutenabilité forte",
+      "theme": "croissance",
+      "categories": [
+        "croissance"
+      ],
+      "definition": "La soutenabilité faible admet que le capital naturel peut être remplacé par du capital produit : seul compte le stock total de capital. La soutenabilité forte considère qu'une partie du capital naturel est irremplaçable et doit être préservée.",
+      "auteurs_associes": [
+        "Robert Solow",
+        "John Hartwick (1977)",
+        "Herman Daly"
+      ],
+      "mots_cles": [
+        "soutenabilité",
+        "capital naturel",
+        "substituabilité",
+        "biodiversité"
+      ],
+      "relu": false
+    },
+    {
+      "id": "taxe-pigouvienne-taxe-carbone",
+      "terme": "Taxe pigouvienne (taxe carbone)",
+      "theme": "croissance",
+      "categories": [
+        "croissance"
+      ],
+      "definition": "Prélèvement qui fait payer au pollueur le coût social de sa pollution, afin d'internaliser l'externalité. La taxe carbone en est l'application aux émissions de gaz à effet de serre : elle oriente les choix vers des solutions moins émettrices.",
+      "auteurs_associes": [
+        "Arthur Cecil Pigou (1920)"
+      ],
+      "mots_cles": [
+        "taxe carbone",
+        "pollueur-payeur",
+        "émissions",
+        "CO2"
+      ],
+      "relu": false
+    },
+    {
+      "id": "marche-de-quotas-d-emission",
+      "terme": "Marché de quotas d'émission",
+      "theme": "croissance",
+      "categories": [
+        "croissance",
+        "ue"
+      ],
+      "definition": "Dispositif où l'autorité publique fixe un plafond d'émissions et distribue ou vend des droits échangeables ; le prix du quota résulte de l'offre et de la demande (par exemple le système européen SEQE-UE).",
+      "auteurs_associes": [
+        "Ronald Coase (1960)",
+        "John Dales (1968)"
+      ],
+      "mots_cles": [
+        "quotas",
+        "SEQE",
+        "ETS",
+        "carbone",
+        "droits à polluer"
+      ],
+      "relu": false
+    },
+    {
+      "id": "transition-energetique",
+      "terme": "Transition énergétique",
+      "theme": "croissance",
+      "categories": [
+        "croissance"
+      ],
+      "definition": "Passage d'un système énergétique fondé sur les énergies fossiles à un système plus sobre et décarboné (renouvelables, nucléaire, efficacité énergétique). Elle suppose des investissements massifs et des réallocations entre secteurs.",
+      "auteurs_associes": [],
+      "mots_cles": [
+        "énergie",
+        "renouvelables",
+        "nucléaire",
+        "électrification",
+        "décarbonation",
+        "gaz"
+      ],
+      "relu": false
+    },
+    {
+      "id": "courbe-environnementale-de-kuznets",
+      "terme": "Courbe environnementale de Kuznets",
+      "theme": "croissance",
+      "categories": [
+        "croissance"
+      ],
+      "definition": "Hypothèse d'une relation en U inversé entre revenu par habitant et pollution : la pollution augmenterait aux premiers stades du développement, puis diminuerait au-delà d'un certain niveau de revenu. Sa validité empirique est discutée.",
+      "auteurs_associes": [
+        "Gene Grossman et Alan Krueger (1995)"
+      ],
+      "mots_cles": [
+        "pollution",
+        "développement",
+        "émissions",
+        "pays émergents"
+      ],
+      "relu": false
+    },
+    {
+      "id": "effet-rebond-paradoxe-de-jevons",
+      "terme": "Effet rebond (paradoxe de Jevons)",
+      "theme": "croissance",
+      "categories": [
+        "croissance"
+      ],
+      "definition": "Phénomène par lequel les gains d'efficacité énergétique, en baissant le coût d'usage, stimulent la consommation et annulent tout ou partie des économies attendues.",
+      "auteurs_associes": [
+        "William Stanley Jevons (The Coal Question, 1865)"
+      ],
+      "mots_cles": [
+        "efficacité énergétique",
+        "rebond",
+        "consommation d'énergie"
+      ],
+      "relu": false
+    },
+    {
+      "id": "politique-industrielle",
+      "terme": "Politique industrielle",
+      "theme": "croissance",
+      "categories": [
+        "croissance",
+        "entreprises"
+      ],
+      "definition": "Ensemble des interventions publiques visant à orienter la structure productive vers des secteurs ou technologies jugés stratégiques : subventions, commande publique, aides à la R&D, protection commerciale.",
+      "auteurs_associes": [],
+      "mots_cles": [
+        "industrie",
+        "souveraineté",
+        "subventions",
+        "réindustrialisation",
+        "plan d'investissement"
+      ],
+      "relu": false
+    },
+    {
+      "id": "desindustrialisation-et-reindustrialisation",
+      "terme": "Désindustrialisation et réindustrialisation",
+      "theme": "croissance",
+      "categories": [
+        "croissance",
+        "entreprises"
+      ],
+      "definition": "La désindustrialisation désigne le recul de la part de l'industrie dans l'emploi et la valeur ajoutée. La réindustrialisation vise à inverser ce mouvement par des relocalisations et le développement de nouvelles activités industrielles.",
+      "auteurs_associes": [],
+      "mots_cles": [
+        "industrie",
+        "usines",
+        "relocalisation",
+        "désindustrialisation"
+      ],
+      "relu": false
+    },
+    {
+      "id": "paradoxe-de-solow-paradoxe-de-la-productivite",
+      "terme": "Paradoxe de Solow (paradoxe de la productivité)",
+      "theme": "croissance",
+      "categories": [
+        "croissance"
+      ],
+      "definition": "Constat selon lequel la diffusion massive d'une technologie (l'informatique hier, l'intelligence artificielle aujourd'hui) ne se traduit pas immédiatement par des gains de productivité mesurés, en raison des délais d'adaptation et des difficultés de mesure.",
+      "auteurs_associes": [
+        "Robert Solow (1987)"
+      ],
+      "mots_cles": [
+        "productivité",
+        "IA",
+        "intelligence artificielle",
+        "numérique",
+        "technologie"
+      ],
+      "relu": false
+    },
+    {
+      "id": "stagnation-seculaire",
+      "terme": "Stagnation séculaire",
+      "theme": "croissance",
+      "categories": [
+        "croissance",
+        "finance"
+      ],
+      "definition": "Hypothèse d'un affaiblissement durable de la croissance dans les pays avancés, lié à un excès d'épargne sur l'investissement qui maintiendrait le taux d'intérêt d'équilibre très bas, ou, côté offre, à l'essoufflement du progrès technique.",
+      "auteurs_associes": [
+        "Alvin Hansen (1939)",
+        "Lawrence Summers (2013)",
+        "Robert Gordon (2016)"
+      ],
+      "mots_cles": [
+        "stagnation",
+        "croissance faible",
+        "taux d'intérêt",
+        "productivité"
+      ],
+      "relu": false
+    },
+    {
+      "id": "brevet",
+      "terme": "Brevet",
+      "theme": "croissance",
+      "categories": [
+        "croissance",
+        "entreprises"
+      ],
+      "definition": "Titre de propriété industrielle qui confère à l'inventeur un monopole temporaire d'exploitation (en général 20 ans) en échange de la publication de l'invention. Il incite à innover mais restreint temporairement la diffusion.",
+      "auteurs_associes": [],
+      "mots_cles": [
+        "brevet",
+        "propriété intellectuelle",
+        "innovation",
+        "R&D"
+      ],
+      "relu": false
+    },
+    {
+      "id": "effets-de-reseau-marches-bifaces",
+      "terme": "Effets de réseau (marchés bifaces)",
+      "theme": "croissance",
+      "categories": [
+        "croissance",
+        "entreprises"
+      ],
+      "definition": "Situation où l'utilité d'un service croît avec le nombre de ses utilisateurs. Sur les marchés « bifaces » (plateformes reliant deux groupes d'usagers), ces effets favorisent la concentration autour de quelques acteurs.",
+      "auteurs_associes": [
+        "Jean-Charles Rochet et Jean Tirole (2003)"
+      ],
+      "mots_cles": [
+        "plateformes",
+        "numérique",
+        "GAFAM",
+        "monopole",
+        "réseaux sociaux"
+      ],
+      "relu": false
+    },
+    {
+      "id": "avantage-absolu",
+      "terme": "Avantage absolu",
+      "theme": "mondialisation",
+      "categories": [
+        "mondialisation"
+      ],
+      "definition": "Un pays dispose d'un avantage absolu s'il produit un bien avec moins de ressources que ses partenaires. Smith en déduit l'intérêt de la division internationale du travail : chaque pays se spécialise là où il est le plus efficace.",
+      "auteurs_associes": [
+        "Adam Smith (Recherches sur la nature et les causes de la richesse des nations, 1776)"
+      ],
+      "mots_cles": [
+        "libre-échange",
+        "spécialisation",
+        "division internationale du travail"
+      ],
+      "relu": false
+    },
+    {
+      "id": "avantage-comparatif",
+      "terme": "Avantage comparatif",
+      "theme": "mondialisation",
+      "categories": [
+        "mondialisation"
+      ],
+      "definition": "Un pays a intérêt à se spécialiser dans la production où son coût relatif (coût d'opportunité) est le plus faible par rapport à ses partenaires, même s'il n'a d'avantage absolu dans aucune production : l'échange est alors bénéfique à tous.",
+      "auteurs_associes": [
+        "David Ricardo (Des principes de l'économie politique et de l'impôt, 1817)"
+      ],
+      "mots_cles": [
+        "libre-échange",
+        "spécialisation",
+        "Ricardo",
+        "commerce international"
+      ],
+      "relu": false
+    },
+    {
+      "id": "modele-hos-dotations-factorielles",
+      "terme": "Modèle HOS (dotations factorielles)",
+      "theme": "mondialisation",
+      "categories": [
+        "mondialisation"
+      ],
+      "definition": "Théorie selon laquelle chaque pays se spécialise dans les productions qui utilisent intensivement le facteur de production dont il est relativement le mieux doté (travail, capital, terre).",
+      "auteurs_associes": [
+        "Eli Heckscher (1919)",
+        "Bertil Ohlin (1933)",
+        "Paul Samuelson (1941, 1948)"
+      ],
+      "mots_cles": [
+        "dotations factorielles",
+        "spécialisation",
+        "coût du travail"
+      ],
+      "relu": false
+    },
+    {
+      "id": "nouvelle-theorie-du-commerce-international",
+      "terme": "Nouvelle théorie du commerce international",
+      "theme": "mondialisation",
+      "categories": [
+        "mondialisation"
+      ],
+      "definition": "Courant qui explique le commerce entre pays semblables (commerce intra-branche) par les rendements croissants, la différenciation des produits et le goût des consommateurs pour la variété.",
+      "auteurs_associes": [
+        "Paul Krugman (1979, 1980)"
+      ],
+      "mots_cles": [
+        "commerce intra-branche",
+        "différenciation",
+        "variété"
+      ],
+      "relu": false
+    },
+    {
+      "id": "protectionnisme",
+      "terme": "Protectionnisme",
+      "theme": "mondialisation",
+      "categories": [
+        "mondialisation"
+      ],
+      "definition": "Politique visant à protéger les producteurs nationaux de la concurrence étrangère par des barrières tarifaires (droits de douane) ou non tarifaires (quotas, normes, subventions).",
+      "auteurs_associes": [
+        "Friedrich List (1841)"
+      ],
+      "mots_cles": [
+        "droits de douane",
+        "protectionnisme",
+        "barrières commerciales",
+        "guerre commerciale"
+      ],
+      "relu": false
+    },
+    {
+      "id": "droits-de-douane",
+      "terme": "Droits de douane",
+      "theme": "mondialisation",
+      "categories": [
+        "mondialisation"
+      ],
+      "definition": "Taxe prélevée sur les biens importés. Elle renchérit les importations et protège les producteurs nationaux, mais pèse sur les consommateurs et les entreprises qui utilisent ces biens, et peut entraîner des mesures de représailles.",
+      "auteurs_associes": [],
+      "mots_cles": [
+        "droits de douane",
+        "tarifs",
+        "guerre commerciale",
+        "Trump",
+        "importations"
+      ],
+      "relu": false
+    },
+    {
+      "id": "protectionnisme-educateur",
+      "terme": "Protectionnisme éducateur",
+      "theme": "mondialisation",
+      "categories": [
+        "mondialisation"
+      ],
+      "definition": "Protection temporaire des industries naissantes, le temps qu'elles acquièrent la taille et l'expérience nécessaires pour affronter la concurrence internationale.",
+      "auteurs_associes": [
+        "Friedrich List (Système national d'économie politique, 1841)"
+      ],
+      "mots_cles": [
+        "industries naissantes",
+        "protection temporaire",
+        "industrialisation"
+      ],
+      "relu": false
+    },
+    {
+      "id": "chaine-de-valeur-mondiale",
+      "terme": "Chaîne de valeur mondiale",
+      "theme": "mondialisation",
+      "categories": [
+        "mondialisation",
+        "entreprises"
+      ],
+      "definition": "Fragmentation internationale du processus de production : les différentes étapes de fabrication d'un produit sont réparties entre plusieurs pays selon leurs avantages respectifs.",
+      "auteurs_associes": [],
+      "mots_cles": [
+        "chaînes de valeur",
+        "sous-traitance",
+        "délocalisation",
+        "approvisionnement",
+        "semi-conducteurs"
+      ],
+      "relu": false
+    },
+    {
+      "id": "investissement-direct-a-l-etranger-ide",
+      "terme": "Investissement direct à l'étranger (IDE)",
+      "theme": "mondialisation",
+      "categories": [
+        "mondialisation",
+        "entreprises"
+      ],
+      "definition": "Investissement par lequel une entreprise crée ou acquiert une entité dans un autre pays en y exerçant une influence durable sur la gestion (au moins 10 % des droits de vote selon l'OCDE). C'est le mode d'expansion des firmes multinationales.",
+      "auteurs_associes": [
+        "John Dunning (paradigme OLI, 1977)"
+      ],
+      "mots_cles": [
+        "IDE",
+        "multinationale",
+        "filiale",
+        "rachat",
+        "investissement étranger"
+      ],
+      "relu": false
+    },
+    {
+      "id": "balance-courante",
+      "terme": "Balance courante",
+      "theme": "mondialisation",
+      "categories": [
+        "mondialisation"
+      ],
+      "definition": "Compte de la balance des paiements qui retrace les échanges de biens et de services ainsi que les revenus reçus et versés avec le reste du monde. Un excédent courant signifie que le pays épargne davantage qu'il n'investit.",
+      "auteurs_associes": [],
+      "mots_cles": [
+        "balance commerciale",
+        "excédent commercial",
+        "déficit extérieur",
+        "exportations"
+      ],
+      "relu": false
+    },
+    {
+      "id": "competitivite-prix-et-hors-prix",
+      "terme": "Compétitivité-prix et hors-prix",
+      "theme": "mondialisation",
+      "categories": [
+        "mondialisation",
+        "entreprises"
+      ],
+      "definition": "La compétitivité-prix est la capacité à vendre grâce à des prix plus bas (coûts de production, taux de change). La compétitivité hors-prix repose sur la qualité, l'innovation, l'image de marque et le service.",
+      "auteurs_associes": [],
+      "mots_cles": [
+        "compétitivité",
+        "coût du travail",
+        "qualité",
+        "exportations",
+        "parts de marché"
+      ],
+      "relu": false
+    },
+    {
+      "id": "termes-de-l-echange",
+      "terme": "Termes de l'échange",
+      "theme": "mondialisation",
+      "categories": [
+        "mondialisation"
+      ],
+      "definition": "Rapport entre l'indice des prix à l'exportation et l'indice des prix à l'importation d'un pays. Leur amélioration signifie qu'une même quantité d'exportations permet d'acheter davantage d'importations.",
+      "auteurs_associes": [
+        "Raúl Prebisch et Hans Singer (1950)"
+      ],
+      "mots_cles": [
+        "prix des exportations",
+        "matières premières",
+        "pays producteurs"
+      ],
+      "relu": false
+    },
+    {
+      "id": "dumping",
+      "terme": "Dumping",
+      "theme": "mondialisation",
+      "categories": [
+        "mondialisation"
+      ],
+      "definition": "Pratique qui consiste à vendre à l'étranger à un prix inférieur à celui pratiqué sur le marché national, voire au coût de production. L'OMC autorise des droits antidumping pour y répondre.",
+      "auteurs_associes": [],
+      "mots_cles": [
+        "dumping",
+        "antidumping",
+        "concurrence déloyale",
+        "surcapacités",
+        "Chine"
+      ],
+      "relu": false
+    },
+    {
+      "id": "omc-et-multilateralisme",
+      "terme": "OMC et multilatéralisme",
+      "theme": "mondialisation",
+      "categories": [
+        "mondialisation"
+      ],
+      "definition": "L'Organisation mondiale du commerce (1995), qui a succédé au GATT (1947), fixe les règles du commerce international et règle les différends entre États. Le multilatéralisme repose notamment sur la clause de la nation la plus favorisée.",
+      "auteurs_associes": [],
+      "mots_cles": [
+        "OMC",
+        "GATT",
+        "multilatéralisme",
+        "accords commerciaux"
+      ],
+      "relu": false
+    },
+    {
+      "id": "regionalisation",
+      "terme": "Régionalisation",
+      "theme": "mondialisation",
+      "categories": [
+        "mondialisation",
+        "ue"
+      ],
+      "definition": "Intensification des échanges et de l'intégration entre pays d'une même zone géographique, souvent organisée par des accords : zone de libre-échange, union douanière, marché commun, union économique.",
+      "auteurs_associes": [
+        "Bela Balassa (1961)"
+      ],
+      "mots_cles": [
+        "accords régionaux",
+        "libre-échange",
+        "union douanière",
+        "Mercosur"
+      ],
+      "relu": false
+    },
+    {
+      "id": "trilemme-de-rodrik",
+      "terme": "Trilemme de Rodrik",
+      "theme": "mondialisation",
+      "categories": [
+        "mondialisation"
+      ],
+      "definition": "Selon Dani Rodrik, il est impossible d'avoir simultanément et pleinement l'hypermondialisation économique, la souveraineté nationale et la démocratie : on ne peut combiner que deux des trois.",
+      "auteurs_associes": [
+        "Dani Rodrik (The Globalization Paradox, 2011)"
+      ],
+      "mots_cles": [
+        "mondialisation",
+        "souveraineté",
+        "démocratie"
+      ],
+      "relu": false
+    },
+    {
+      "id": "demondialisation-et-fragmentation-geoeconomique",
+      "terme": "Démondialisation et fragmentation géoéconomique",
+      "theme": "mondialisation",
+      "categories": [
+        "mondialisation"
+      ],
+      "definition": "Ralentissement ou recul de l'intégration économique mondiale sous l'effet des tensions géopolitiques, du protectionnisme et de la recherche de sécurité d'approvisionnement (relocalisations, commerce entre pays alliés ou « friend-shoring »).",
+      "auteurs_associes": [],
+      "mots_cles": [
+        "démondialisation",
+        "relocalisation",
+        "géopolitique",
+        "fragmentation",
+        "blocs"
+      ],
+      "relu": false
+    },
+    {
+      "id": "sanctions-economiques",
+      "terme": "Sanctions économiques",
+      "theme": "mondialisation",
+      "categories": [
+        "mondialisation"
+      ],
+      "definition": "Mesures restrictives (embargos, gels d'avoirs, interdictions d'importer ou d'exporter) prises par un État ou une organisation pour contraindre un autre État à modifier son comportement.",
+      "auteurs_associes": [],
+      "mots_cles": [
+        "sanctions",
+        "embargo",
+        "Russie",
+        "Iran",
+        "gel des avoirs"
+      ],
+      "relu": false
+    },
+    {
+      "id": "choc-petrolier-choc-d-offre",
+      "terme": "Choc pétrolier (choc d'offre)",
+      "theme": "mondialisation",
+      "categories": [
+        "mondialisation",
+        "desequilibres"
+      ],
+      "definition": "Hausse brutale du prix du pétrole qui augmente les coûts de production et réduit le pouvoir d'achat. Pour un pays importateur, c'est un choc d'offre négatif : il provoque à la fois de l'inflation et un ralentissement de l'activité.",
+      "auteurs_associes": [],
+      "mots_cles": [
+        "pétrole",
+        "Brent",
+        "choc d'offre",
+        "Ormuz",
+        "OPEP",
+        "carburants"
+      ],
+      "relu": false
+    },
+    {
+      "id": "globalisation-financiere",
+      "terme": "Globalisation financière",
+      "theme": "globalisation-financiere",
+      "categories": [
+        "finance"
+      ],
+      "definition": "Intégration des marchés de capitaux nationaux en un marché mondial, résultant des « 3 D » : déréglementation, désintermédiation et décloisonnement des marchés.",
+      "auteurs_associes": [
+        "Henri Bourguinat (1992)"
+      ],
+      "mots_cles": [
+        "globalisation financière",
+        "marchés de capitaux",
+        "3D",
+        "flux de capitaux"
+      ],
+      "relu": false
+    },
+    {
+      "id": "desintermediation",
+      "terme": "Désintermédiation",
+      "theme": "globalisation-financiere",
+      "categories": [
+        "finance"
+      ],
+      "definition": "Recul du financement par les banques (finance intermédiée) au profit du financement direct des agents sur les marchés financiers, par l'émission d'actions et d'obligations.",
+      "auteurs_associes": [
+        "John Gurley et Edward Shaw (1960)"
+      ],
+      "mots_cles": [
+        "financement de marché",
+        "banques",
+        "crédit",
+        "private equity"
+      ],
+      "relu": false
+    },
+    {
+      "id": "taux-de-change",
+      "terme": "Taux de change",
+      "theme": "globalisation-financiere",
+      "categories": [
+        "finance",
+        "mondialisation"
+      ],
+      "definition": "Prix d'une monnaie exprimé dans une autre. Il peut être fixe (défini par les autorités monétaires) ou flottant (déterminé par l'offre et la demande sur le marché des changes).",
+      "auteurs_associes": [],
+      "mots_cles": [
+        "euro",
+        "dollar",
+        "change",
+        "dépréciation",
+        "appréciation",
+        "yuan"
+      ],
+      "relu": false
+    },
+    {
+      "id": "triangle-d-incompatibilite-de-mundell",
+      "terme": "Triangle d'incompatibilité de Mundell",
+      "theme": "globalisation-financiere",
+      "categories": [
+        "finance"
+      ],
+      "definition": "Un pays ne peut avoir simultanément un taux de change fixe, une libre circulation des capitaux et une politique monétaire autonome : il doit renoncer à l'un des trois.",
+      "auteurs_associes": [
+        "Robert Mundell (1963)",
+        "Marcus Fleming (1962)"
+      ],
+      "mots_cles": [
+        "change fixe",
+        "capitaux",
+        "politique monétaire",
+        "trilemme"
+      ],
+      "relu": false
+    },
+    {
+      "id": "zone-monetaire-optimale",
+      "terme": "Zone monétaire optimale",
+      "theme": "globalisation-financiere",
+      "categories": [
+        "finance",
+        "ue"
+      ],
+      "definition": "Zone dans laquelle il est avantageux de partager une même monnaie, parce que les chocs y sont symétriques ou parce que d'autres mécanismes (mobilité du travail, transferts budgétaires, flexibilité des prix et salaires) compensent la perte de l'arme du taux de change.",
+      "auteurs_associes": [
+        "Robert Mundell (1961)",
+        "Ronald McKinnon (1963)",
+        "Peter Kenen (1969)"
+      ],
+      "mots_cles": [
+        "zone euro",
+        "union monétaire",
+        "chocs asymétriques"
+      ],
+      "relu": false
+    },
+    {
+      "id": "bulle-speculative",
+      "terme": "Bulle spéculative",
+      "theme": "globalisation-financiere",
+      "categories": [
+        "finance"
+      ],
+      "definition": "Écart durable et croissant entre le prix d'un actif et sa valeur fondamentale, alimenté par des anticipations de hausse qui se réalisent d'elles-mêmes ; elle se termine souvent par un krach.",
+      "auteurs_associes": [
+        "Charles Kindleberger (1978)",
+        "Robert Shiller (2000)"
+      ],
+      "mots_cles": [
+        "bulle",
+        "spéculation",
+        "krach",
+        "euphorie",
+        "valorisation",
+        "IA"
+      ],
+      "relu": false
+    },
+    {
+      "id": "hypothese-d-instabilite-financiere",
+      "terme": "Hypothèse d'instabilité financière",
+      "theme": "globalisation-financiere",
+      "categories": [
+        "finance"
+      ],
+      "definition": "Selon Minsky, les périodes de stabilité incitent les agents à s'endetter et à prendre davantage de risques, ce qui fragilise le système financier et prépare les crises (« moment Minsky »).",
+      "auteurs_associes": [
+        "Hyman Minsky (1986)"
+      ],
+      "mots_cles": [
+        "crise financière",
+        "endettement",
+        "fragilité",
+        "Minsky"
+      ],
+      "relu": false
+    },
+    {
+      "id": "alea-moral",
+      "terme": "Aléa moral",
+      "theme": "globalisation-financiere",
+      "categories": [
+        "finance"
+      ],
+      "definition": "Situation où un agent protégé contre un risque (par une assurance ou une garantie de sauvetage public) adopte un comportement plus risqué, car il n'en supporte pas toutes les conséquences.",
+      "auteurs_associes": [
+        "Kenneth Arrow (1963)"
+      ],
+      "mots_cles": [
+        "aléa moral",
+        "too big to fail",
+        "sauvetage",
+        "assurance"
+      ],
+      "relu": false
+    },
+    {
+      "id": "risque-systemique",
+      "terme": "Risque systémique",
+      "theme": "globalisation-financiere",
+      "categories": [
+        "finance"
+      ],
+      "definition": "Risque qu'une défaillance (d'une banque, d'un marché, d'une infrastructure) se propage par contagion à l'ensemble du système financier puis à l'économie réelle.",
+      "auteurs_associes": [],
+      "mots_cles": [
+        "risque systémique",
+        "contagion",
+        "banques",
+        "faillite bancaire"
+      ],
+      "relu": false
+    },
+    {
+      "id": "regulation-prudentielle-accords-de-bale",
+      "terme": "Régulation prudentielle (accords de Bâle)",
+      "theme": "globalisation-financiere",
+      "categories": [
+        "finance"
+      ],
+      "definition": "Ensemble des règles imposées aux banques pour limiter leurs risques, notamment des exigences minimales de fonds propres et de liquidité définies par le Comité de Bâle (accords de Bâle III).",
+      "auteurs_associes": [
+        "Comité de Bâle sur le contrôle bancaire"
+      ],
+      "mots_cles": [
+        "Bâle III",
+        "fonds propres",
+        "supervision bancaire",
+        "régulation"
+      ],
+      "relu": false
+    },
+    {
+      "id": "preteur-en-dernier-ressort",
+      "terme": "Prêteur en dernier ressort",
+      "theme": "globalisation-financiere",
+      "categories": [
+        "finance"
+      ],
+      "definition": "Rôle de la banque centrale qui fournit des liquidités aux banques solvables mais temporairement à court de liquidités, afin d'éviter qu'une panique bancaire ne se propage.",
+      "auteurs_associes": [
+        "Walter Bagehot (Lombard Street, 1873)"
+      ],
+      "mots_cles": [
+        "banque centrale",
+        "liquidité",
+        "panique bancaire"
+      ],
+      "relu": false
+    },
+    {
+      "id": "creation-monetaire",
+      "terme": "Création monétaire",
+      "theme": "globalisation-financiere",
+      "categories": [
+        "finance"
+      ],
+      "definition": "Les banques commerciales créent de la monnaie en accordant des crédits (« les crédits font les dépôts ») ; la banque centrale encadre ce processus par ses taux directeurs et la fourniture de monnaie centrale.",
+      "auteurs_associes": [],
+      "mots_cles": [
+        "crédit",
+        "monnaie",
+        "banques",
+        "masse monétaire"
+      ],
+      "relu": false
+    },
+    {
+      "id": "politique-monetaire",
+      "terme": "Politique monétaire",
+      "theme": "globalisation-financiere",
+      "categories": [
+        "finance"
+      ],
+      "definition": "Action de la banque centrale sur les conditions de financement de l'économie (taux directeurs, achats de titres) pour atteindre ses objectifs, principalement la stabilité des prix, définie par la BCE comme une inflation de 2 % à moyen terme.",
+      "auteurs_associes": [],
+      "mots_cles": [
+        "BCE",
+        "Fed",
+        "taux directeurs",
+        "banque centrale",
+        "Lagarde"
+      ],
+      "relu": false
+    },
+    {
+      "id": "taux-directeurs",
+      "terme": "Taux directeurs",
+      "theme": "globalisation-financiere",
+      "categories": [
+        "finance"
+      ],
+      "definition": "Taux d'intérêt fixés par la banque centrale, auxquels les banques se refinancent auprès d'elle ou y placent leurs liquidités. Pour la BCE : taux de la facilité de dépôt, des opérations principales de refinancement et de la facilité de prêt marginal.",
+      "auteurs_associes": [],
+      "mots_cles": [
+        "taux directeur",
+        "taux de dépôt",
+        "BCE",
+        "hausse des taux",
+        "baisse des taux"
+      ],
+      "relu": false
+    },
+    {
+      "id": "assouplissement-quantitatif",
+      "terme": "Assouplissement quantitatif",
+      "theme": "globalisation-financiere",
+      "categories": [
+        "finance"
+      ],
+      "definition": "Politique monétaire non conventionnelle par laquelle la banque centrale achète massivement des titres (obligations publiques et privées) afin de faire baisser les taux d'intérêt à long terme.",
+      "auteurs_associes": [],
+      "mots_cles": [
+        "QE",
+        "rachats d'actifs",
+        "bilan de la banque centrale"
+      ],
+      "relu": false
+    },
+    {
+      "id": "independance-de-la-banque-centrale",
+      "terme": "Indépendance de la banque centrale",
+      "theme": "globalisation-financiere",
+      "categories": [
+        "finance"
+      ],
+      "definition": "Principe selon lequel la banque centrale décide de sa politique sans instruction du gouvernement, afin de renforcer la crédibilité de la lutte contre l'inflation face à la tentation des gouvernements de relancer à court terme.",
+      "auteurs_associes": [
+        "Finn Kydland et Edward Prescott (1977)",
+        "Robert Barro et David Gordon (1983)"
+      ],
+      "mots_cles": [
+        "crédibilité",
+        "BCE",
+        "Fed",
+        "indépendance",
+        "Trump"
+      ],
+      "relu": false
+    },
+    {
+      "id": "taxe-tobin",
+      "terme": "Taxe Tobin",
+      "theme": "globalisation-financiere",
+      "categories": [
+        "finance"
+      ],
+      "definition": "Proposition de taxer à un faible taux les transactions de change, afin de « mettre du sable dans les rouages » de marchés financiers jugés trop spéculatifs.",
+      "auteurs_associes": [
+        "James Tobin (1972, 1978)"
+      ],
+      "mots_cles": [
+        "taxe sur les transactions financières",
+        "spéculation"
+      ],
+      "relu": false
+    },
+    {
+      "id": "spread-ecart-de-taux-souverain",
+      "terme": "Spread (écart de taux souverain)",
+      "theme": "globalisation-financiere",
+      "categories": [
+        "finance",
+        "desequilibres"
+      ],
+      "definition": "Différence entre le taux auquel emprunte un État et celui d'un emprunteur de référence jugé plus sûr (pour la France, en général l'Allemagne). Il mesure la prime de risque exigée par les investisseurs.",
+      "auteurs_associes": [],
+      "mots_cles": [
+        "spread",
+        "OAT",
+        "Bund",
+        "prime de risque",
+        "taux à 10 ans"
+      ],
+      "relu": false
+    },
+    {
+      "id": "chomage-definition-du-bit",
+      "terme": "Chômage (définition du BIT)",
+      "theme": "desequilibres",
+      "categories": [
+        "desequilibres"
+      ],
+      "definition": "Selon le Bureau international du travail, est au chômage une personne en âge de travailler qui n'a pas travaillé, même une heure, au cours d'une semaine donnée, est disponible pour travailler dans les deux semaines et a cherché activement un emploi au cours des quatre dernières semaines.",
+      "auteurs_associes": [
+        "Bureau international du travail"
+      ],
+      "mots_cles": [
+        "chômage",
+        "taux de chômage",
+        "emploi",
+        "France Travail"
+      ],
+      "relu": false
+    },
+    {
+      "id": "chomage-classique-et-chomage-keynesien",
+      "terme": "Chômage classique et chômage keynésien",
+      "theme": "desequilibres",
+      "categories": [
+        "desequilibres"
+      ],
+      "definition": "Le chômage classique résulte d'un coût du travail trop élevé par rapport à sa productivité (problème d'offre). Le chômage keynésien résulte d'une demande de biens insuffisante, qui conduit les entreprises à embaucher moins (problème de demande).",
+      "auteurs_associes": [
+        "Edmond Malinvaud (1977)"
+      ],
+      "mots_cles": [
+        "chômage",
+        "coût du travail",
+        "demande",
+        "salaires"
+      ],
+      "relu": false
+    },
+    {
+      "id": "chomage-structurel-et-nairu",
+      "terme": "Chômage structurel et NAIRU",
+      "theme": "desequilibres",
+      "categories": [
+        "desequilibres"
+      ],
+      "definition": "Le chômage structurel persiste indépendamment de la conjoncture (inadéquation des qualifications, fonctionnement du marché du travail). Le NAIRU est le taux de chômage compatible avec une inflation stable.",
+      "auteurs_associes": [
+        "Milton Friedman (1968)",
+        "Edmund Phelps (1967)",
+        "Franco Modigliani et Lucas Papademos (1975)"
+      ],
+      "mots_cles": [
+        "chômage structurel",
+        "NAIRU",
+        "taux naturel",
+        "marché du travail"
+      ],
+      "relu": false
+    },
+    {
+      "id": "courbe-de-phillips",
+      "terme": "Courbe de Phillips",
+      "theme": "desequilibres",
+      "categories": [
+        "desequilibres"
+      ],
+      "definition": "Relation empirique décroissante entre le taux de chômage et la hausse des salaires (puis l'inflation). Friedman et Phelps montrent qu'à long terme cet arbitrage disparaît, une fois que les anticipations d'inflation s'ajustent.",
+      "auteurs_associes": [
+        "Alban W. Phillips (1958)",
+        "Paul Samuelson et Robert Solow (1960)",
+        "Milton Friedman (1968)"
+      ],
+      "mots_cles": [
+        "inflation",
+        "chômage",
+        "arbitrage",
+        "anticipations"
+      ],
+      "relu": false
+    },
+    {
+      "id": "inflation",
+      "terme": "Inflation",
+      "theme": "desequilibres",
+      "categories": [
+        "desequilibres"
+      ],
+      "definition": "Hausse générale et durable du niveau des prix, qui réduit le pouvoir d'achat de la monnaie. Elle est mesurée en France par l'indice des prix à la consommation (IPC) et, dans la zone euro, par l'indice des prix à la consommation harmonisé (IPCH).",
+      "auteurs_associes": [],
+      "mots_cles": [
+        "inflation",
+        "prix",
+        "IPC",
+        "IPCH",
+        "hausse des prix"
+      ],
+      "relu": false
+    },
+    {
+      "id": "inflation-par-la-demande-et-par-les-couts",
+      "terme": "Inflation par la demande et par les coûts",
+      "theme": "desequilibres",
+      "categories": [
+        "desequilibres"
+      ],
+      "definition": "L'inflation par la demande naît d'une demande supérieure aux capacités de production. L'inflation par les coûts provient de la hausse des coûts de production (énergie, matières premières, salaires) répercutée dans les prix de vente.",
+      "auteurs_associes": [],
+      "mots_cles": [
+        "inflation",
+        "énergie",
+        "coûts de production",
+        "demande",
+        "carburants"
+      ],
+      "relu": false
+    },
+    {
+      "id": "theorie-quantitative-de-la-monnaie",
+      "terme": "Théorie quantitative de la monnaie",
+      "theme": "desequilibres",
+      "categories": [
+        "desequilibres",
+        "finance"
+      ],
+      "definition": "Relation MV = PY selon laquelle, à vitesse de circulation et production données, une hausse de la masse monétaire se traduit par une hausse des prix. Friedman en tire la formule « l'inflation est toujours et partout un phénomène monétaire ».",
+      "auteurs_associes": [
+        "Irving Fisher (1911)",
+        "Milton Friedman (1970)"
+      ],
+      "mots_cles": [
+        "monétarisme",
+        "masse monétaire",
+        "inflation"
+      ],
+      "relu": false
+    },
+    {
+      "id": "boucle-prix-salaires",
+      "terme": "Boucle prix-salaires",
+      "theme": "desequilibres",
+      "categories": [
+        "desequilibres"
+      ],
+      "definition": "Mécanisme d'auto-entretien de l'inflation : la hausse des prix entraîne des revendications salariales, dont la satisfaction augmente les coûts des entreprises, puis les prix.",
+      "auteurs_associes": [],
+      "mots_cles": [
+        "salaires",
+        "indexation",
+        "inflation",
+        "négociations salariales"
+      ],
+      "relu": false
+    },
+    {
+      "id": "desinflation-et-deflation",
+      "terme": "Désinflation et déflation",
+      "theme": "desequilibres",
+      "categories": [
+        "desequilibres"
+      ],
+      "definition": "La désinflation est un ralentissement de la hausse des prix. La déflation est une baisse générale et durable des prix : elle incite à différer les achats et alourdit le poids réel des dettes.",
+      "auteurs_associes": [
+        "Irving Fisher (1933)"
+      ],
+      "mots_cles": [
+        "déflation",
+        "désinflation",
+        "dette",
+        "baisse des prix"
+      ],
+      "relu": false
+    },
+    {
+      "id": "stagflation",
+      "terme": "Stagflation",
+      "theme": "desequilibres",
+      "categories": [
+        "desequilibres"
+      ],
+      "definition": "Situation qui combine stagnation ou recul de l'activité, hausse du chômage et forte inflation, comme après les chocs pétroliers des années 1970.",
+      "auteurs_associes": [],
+      "mots_cles": [
+        "stagflation",
+        "choc pétrolier",
+        "récession",
+        "inflation"
+      ],
+      "relu": false
+    },
+    {
+      "id": "pouvoir-d-achat",
+      "terme": "Pouvoir d'achat",
+      "theme": "desequilibres",
+      "categories": [
+        "desequilibres"
+      ],
+      "definition": "Quantité de biens et de services qu'un revenu permet d'acheter. Il progresse lorsque le revenu augmente plus vite que les prix.",
+      "auteurs_associes": [],
+      "mots_cles": [
+        "pouvoir d'achat",
+        "vie chère",
+        "salaires",
+        "revenus",
+        "ménages"
+      ],
+      "relu": false
+    },
+    {
+      "id": "mesure-des-inegalites",
+      "terme": "Mesure des inégalités",
+      "theme": "desequilibres",
+      "categories": [
+        "desequilibres"
+      ],
+      "definition": "Les inégalités de revenus et de patrimoine se mesurent notamment par le coefficient de Gini (de 0, égalité parfaite, à 1, inégalité maximale), le rapport interdécile (D9/D1) et la part du revenu ou du patrimoine détenue par les 1 % ou 10 % les plus aisés.",
+      "auteurs_associes": [
+        "Corrado Gini (1912)"
+      ],
+      "mots_cles": [
+        "inégalités",
+        "Gini",
+        "déciles",
+        "riches",
+        "pauvreté"
+      ],
+      "relu": false
+    },
+    {
+      "id": "r-g",
+      "terme": "r > g",
+      "theme": "desequilibres",
+      "categories": [
+        "desequilibres",
+        "epargne"
+      ],
+      "definition": "Selon Piketty, lorsque le rendement du capital (r) dépasse durablement le taux de croissance de l'économie (g), les patrimoines, notamment hérités, progressent plus vite que les revenus du travail, ce qui accroît la concentration des patrimoines.",
+      "auteurs_associes": [
+        "Thomas Piketty (Le Capital au XXIe siècle, 2013)"
+      ],
+      "mots_cles": [
+        "patrimoine",
+        "héritage",
+        "inégalités",
+        "Piketty",
+        "capital"
+      ],
+      "relu": false
+    },
+    {
+      "id": "redistribution",
+      "terme": "Redistribution",
+      "theme": "desequilibres",
+      "categories": [
+        "desequilibres"
+      ],
+      "definition": "Action des pouvoirs publics qui modifie la répartition primaire des revenus par les prélèvements (impôts, cotisations) et les prestations sociales, afin de réduire les inégalités et de couvrir les risques sociaux.",
+      "auteurs_associes": [],
+      "mots_cles": [
+        "redistribution",
+        "prestations sociales",
+        "protection sociale",
+        "impôts"
+      ],
+      "relu": false
+    },
+    {
+      "id": "progressivite-de-l-impot",
+      "terme": "Progressivité de l'impôt",
+      "theme": "desequilibres",
+      "categories": [
+        "desequilibres"
+      ],
+      "definition": "Un impôt est progressif lorsque son taux moyen augmente avec la base imposable : les plus aisés paient alors une part plus élevée de leur revenu ou de leur patrimoine.",
+      "auteurs_associes": [],
+      "mots_cles": [
+        "impôt progressif",
+        "fiscalité",
+        "barème",
+        "taxe Zucman",
+        "hauts revenus"
+      ],
+      "relu": false
+    },
+    {
+      "id": "courbe-de-laffer",
+      "terme": "Courbe de Laffer",
+      "theme": "desequilibres",
+      "categories": [
+        "desequilibres"
+      ],
+      "definition": "Relation selon laquelle, au-delà d'un certain taux d'imposition, une hausse du taux réduit les recettes fiscales, parce qu'elle décourage l'activité ou encourage l'évasion fiscale (« trop d'impôt tue l'impôt »).",
+      "auteurs_associes": [
+        "Arthur Laffer (1974)"
+      ],
+      "mots_cles": [
+        "fiscalité",
+        "recettes fiscales",
+        "taux d'imposition"
+      ],
+      "relu": false
+    },
+    {
+      "id": "deficit-public-et-solde-primaire",
+      "terme": "Déficit public et solde primaire",
+      "theme": "desequilibres",
+      "categories": [
+        "desequilibres"
+      ],
+      "definition": "Le déficit public est l'excédent des dépenses sur les recettes de l'ensemble des administrations publiques sur une année. Le solde primaire est ce solde hors charges d'intérêts de la dette.",
+      "auteurs_associes": [],
+      "mots_cles": [
+        "déficit",
+        "budget",
+        "solde primaire",
+        "3 %",
+        "finances publiques"
+      ],
+      "relu": false
+    },
+    {
+      "id": "dette-publique",
+      "terme": "Dette publique",
+      "theme": "desequilibres",
+      "categories": [
+        "desequilibres"
+      ],
+      "definition": "Ensemble des emprunts contractés par les administrations publiques et non encore remboursés. Dans l'UE, elle se mesure « au sens de Maastricht » et s'exprime en pourcentage du PIB.",
+      "auteurs_associes": [],
+      "mots_cles": [
+        "dette publique",
+        "ratio d'endettement",
+        "Maastricht",
+        "OAT"
+      ],
+      "relu": false
+    },
+    {
+      "id": "effet-boule-de-neige",
+      "terme": "Effet boule de neige",
+      "theme": "desequilibres",
+      "categories": [
+        "desequilibres"
+      ],
+      "definition": "La dette publique augmente mécaniquement en proportion du PIB lorsque le taux d'intérêt apparent sur la dette dépasse le taux de croissance nominal de l'économie, sauf si l'État dégage un excédent primaire suffisant.",
+      "auteurs_associes": [],
+      "mots_cles": [
+        "dette",
+        "taux d'intérêt",
+        "croissance",
+        "charge de la dette"
+      ],
+      "relu": false
+    },
+    {
+      "id": "soutenabilite-de-la-dette-publique",
+      "terme": "Soutenabilité de la dette publique",
+      "theme": "desequilibres",
+      "categories": [
+        "desequilibres",
+        "finance"
+      ],
+      "definition": "Capacité d'un État à honorer ses engagements sans défaut ni ajustement budgétaire irréaliste. Elle dépend de l'écart entre taux d'intérêt et croissance, du solde primaire et de la confiance des créanciers.",
+      "auteurs_associes": [
+        "Olivier Blanchard (2019)"
+      ],
+      "mots_cles": [
+        "dette",
+        "défaut",
+        "confiance",
+        "FMI",
+        "marchés"
+      ],
+      "relu": false
+    },
+    {
+      "id": "politique-budgetaire",
+      "terme": "Politique budgétaire",
+      "theme": "desequilibres",
+      "categories": [
+        "desequilibres"
+      ],
+      "definition": "Utilisation du budget de l'État (dépenses, impôts) pour agir sur l'activité économique. Elle peut être expansionniste (relance) ou restrictive (consolidation, austérité).",
+      "auteurs_associes": [],
+      "mots_cles": [
+        "budget",
+        "relance",
+        "austérité",
+        "dépenses publiques",
+        "loi de finances"
+      ],
+      "relu": false
+    },
+    {
+      "id": "multiplicateur-keynesien",
+      "terme": "Multiplicateur keynésien",
+      "theme": "desequilibres",
+      "categories": [
+        "desequilibres"
+      ],
+      "definition": "Mécanisme par lequel une hausse initiale de la dépense (publique ou d'investissement) entraîne une hausse plus que proportionnelle de la production, chaque revenu distribué étant en partie dépensé à son tour.",
+      "auteurs_associes": [
+        "Richard Kahn (1931)",
+        "John Maynard Keynes (1936)"
+      ],
+      "mots_cles": [
+        "multiplicateur",
+        "relance",
+        "Keynes",
+        "demande"
+      ],
+      "relu": false
+    },
+    {
+      "id": "stabilisateurs-automatiques",
+      "terme": "Stabilisateurs automatiques",
+      "theme": "desequilibres",
+      "categories": [
+        "desequilibres"
+      ],
+      "definition": "Mécanismes budgétaires qui amortissent les fluctuations sans décision nouvelle : en récession, les recettes fiscales baissent et les dépenses sociales (indemnisation du chômage) augmentent, ce qui soutient la demande.",
+      "auteurs_associes": [],
+      "mots_cles": [
+        "stabilisateurs",
+        "cycle",
+        "déficit conjoncturel"
+      ],
+      "relu": false
+    },
+    {
+      "id": "deficit-structurel-et-deficit-conjoncturel",
+      "terme": "Déficit structurel et déficit conjoncturel",
+      "theme": "desequilibres",
+      "categories": [
+        "desequilibres"
+      ],
+      "definition": "Le déficit conjoncturel est la part du déficit due à la position de l'économie dans le cycle. Le déficit structurel est celui qui subsisterait si l'économie fonctionnait à son niveau potentiel.",
+      "auteurs_associes": [],
+      "mots_cles": [
+        "déficit structurel",
+        "PIB potentiel",
+        "règles budgétaires"
+      ],
+      "relu": false
+    },
+    {
+      "id": "effet-d-eviction",
+      "terme": "Effet d'éviction",
+      "theme": "desequilibres",
+      "categories": [
+        "desequilibres",
+        "finance"
+      ],
+      "definition": "Mécanisme par lequel la hausse des dépenses ou de l'endettement public réduit les dépenses privées, notamment par la hausse des taux d'intérêt qu'elle provoque. Par extension, il désigne une dépense publique qui en réduit une autre.",
+      "auteurs_associes": [],
+      "mots_cles": [
+        "éviction",
+        "taux d'intérêt",
+        "dette publique",
+        "investissement privé"
+      ],
+      "relu": false
+    },
+    {
+      "id": "equivalence-ricardienne",
+      "terme": "Équivalence ricardienne",
+      "theme": "desequilibres",
+      "categories": [
+        "desequilibres"
+      ],
+      "definition": "Thèse selon laquelle une relance financée par l'emprunt est inefficace : les ménages anticipent les impôts futurs nécessaires au remboursement et épargnent davantage.",
+      "auteurs_associes": [
+        "Robert Barro (1974), d'après David Ricardo"
+      ],
+      "mots_cles": [
+        "dette",
+        "épargne",
+        "relance",
+        "anticipations"
+      ],
+      "relu": false
+    },
+    {
+      "id": "retraite-par-repartition",
+      "terme": "Retraite par répartition",
+      "theme": "desequilibres",
+      "categories": [
+        "desequilibres",
+        "epargne"
+      ],
+      "definition": "Système où les cotisations des actifs financent immédiatement les pensions des retraités. Son équilibre dépend du rapport entre le nombre de cotisants et le nombre de retraités, donc de la démographie et de l'emploi.",
+      "auteurs_associes": [],
+      "mots_cles": [
+        "retraites",
+        "répartition",
+        "cotisations",
+        "démographie",
+        "pensions"
+      ],
+      "relu": false
+    },
+    {
+      "id": "retraite-par-capitalisation",
+      "terme": "Retraite par capitalisation",
+      "theme": "desequilibres",
+      "categories": [
+        "desequilibres",
+        "epargne"
+      ],
+      "definition": "Système où chaque actif épargne pour sa propre retraite dans des fonds placés sur les marchés financiers : sa pension dépend des sommes versées et des rendements obtenus.",
+      "auteurs_associes": [],
+      "mots_cles": [
+        "retraites",
+        "capitalisation",
+        "fonds de pension",
+        "épargne retraite",
+        "PER"
+      ],
+      "relu": false
+    },
+    {
+      "id": "cycle-economique-et-recession",
+      "terme": "Cycle économique et récession",
+      "theme": "desequilibres",
+      "categories": [
+        "desequilibres",
+        "croissance"
+      ],
+      "definition": "Alternance de phases d'expansion et de contraction de l'activité. On parle conventionnellement de récession après deux trimestres consécutifs de baisse du PIB.",
+      "auteurs_associes": [
+        "Clément Juglar (1862)"
+      ],
+      "mots_cles": [
+        "récession",
+        "cycle",
+        "conjoncture",
+        "ralentissement"
+      ],
+      "relu": false
+    },
+    {
+      "id": "defaillances-d-entreprises",
+      "terme": "Défaillances d'entreprises",
+      "theme": "desequilibres",
+      "categories": [
+        "desequilibres",
+        "entreprises"
+      ],
+      "definition": "Ouvertures de procédures judiciaires (sauvegarde, redressement, liquidation) lorsqu'une entreprise est en cessation de paiements. Leur nombre est un indicateur des difficultés économiques et un signal pour l'emploi.",
+      "auteurs_associes": [],
+      "mots_cles": [
+        "faillites",
+        "défaillances",
+        "liquidations",
+        "entreprises en difficulté"
+      ],
+      "relu": false
+    },
+    {
+      "id": "marche-unique",
+      "terme": "Marché unique",
+      "theme": "ue",
+      "categories": [
+        "ue"
+      ],
+      "definition": "Espace sans frontières intérieures où sont garanties les quatre libertés de circulation : biens, services, capitaux et personnes. Prévu par l'Acte unique européen (1986), il est en place depuis 1993.",
+      "auteurs_associes": [
+        "Jacques Delors"
+      ],
+      "mots_cles": [
+        "marché unique",
+        "quatre libertés",
+        "Acte unique",
+        "marché intérieur"
+      ],
+      "relu": false
+    },
+    {
+      "id": "union-economique-et-monetaire",
+      "terme": "Union économique et monétaire",
+      "theme": "ue",
+      "categories": [
+        "ue",
+        "finance"
+      ],
+      "definition": "Étape de l'intégration européenne qui a conduit à la monnaie unique (l'euro, en 1999) et à une politique monétaire commune confiée à la BCE, accompagnée d'une coordination des politiques budgétaires nationales.",
+      "auteurs_associes": [
+        "Rapport Delors (1989)",
+        "traité de Maastricht (1992)"
+      ],
+      "mots_cles": [
+        "UEM",
+        "euro",
+        "zone euro",
+        "BCE"
+      ],
+      "relu": false
+    },
+    {
+      "id": "criteres-de-convergence-de-maastricht",
+      "terme": "Critères de convergence de Maastricht",
+      "theme": "ue",
+      "categories": [
+        "ue",
+        "desequilibres"
+      ],
+      "definition": "Conditions pour adopter l'euro : inflation et taux d'intérêt à long terme proches des pays les plus performants, stabilité du change, déficit public inférieur à 3 % du PIB et dette publique inférieure à 60 % du PIB.",
+      "auteurs_associes": [
+        "Traité de Maastricht (1992)"
+      ],
+      "mots_cles": [
+        "3 %",
+        "60 %",
+        "Maastricht",
+        "euro",
+        "convergence"
+      ],
+      "relu": false
+    },
+    {
+      "id": "pacte-de-stabilite-et-de-croissance",
+      "terme": "Pacte de stabilité et de croissance",
+      "theme": "ue",
+      "categories": [
+        "ue",
+        "desequilibres"
+      ],
+      "definition": "Règles budgétaires européennes qui encadrent les déficits et les dettes des États membres. Réformées en 2024, elles reposent désormais sur des trajectoires pluriannuelles de dépenses nettes propres à chaque pays.",
+      "auteurs_associes": [],
+      "mots_cles": [
+        "pacte de stabilité",
+        "règles budgétaires",
+        "procédure de déficit excessif",
+        "Commission"
+      ],
+      "relu": false
+    },
+    {
+      "id": "budget-de-l-union-europeenne",
+      "terme": "Budget de l'Union européenne",
+      "theme": "ue",
+      "categories": [
+        "ue"
+      ],
+      "definition": "Budget d'environ 1 % du revenu national brut européen, encadré par un cadre financier pluriannuel de sept ans et financé par des ressources propres et des contributions des États membres.",
+      "auteurs_associes": [],
+      "mots_cles": [
+        "budget européen",
+        "cadre financier pluriannuel",
+        "contribution nationale",
+        "ressources propres"
+      ],
+      "relu": false
+    },
+    {
+      "id": "politique-agricole-commune",
+      "terme": "Politique agricole commune",
+      "theme": "ue",
+      "categories": [
+        "ue"
+      ],
+      "definition": "Première politique commune de la CEE (1962). Elle soutient le revenu des agriculteurs et organise les marchés agricoles ; elle reste l'un des premiers postes du budget européen.",
+      "auteurs_associes": [],
+      "mots_cles": [
+        "PAC",
+        "agriculteurs",
+        "subventions agricoles",
+        "FNSEA"
+      ],
+      "relu": false
+    },
+    {
+      "id": "politique-europeenne-de-concurrence",
+      "terme": "Politique européenne de concurrence",
+      "theme": "ue",
+      "categories": [
+        "ue",
+        "entreprises"
+      ],
+      "definition": "Compétence exclusive de l'UE exercée par la Commission : contrôle des ententes, des abus de position dominante, des concentrations et des aides d'État.",
+      "auteurs_associes": [],
+      "mots_cles": [
+        "concurrence",
+        "Commission européenne",
+        "aides d'État",
+        "fusions",
+        "amendes"
+      ],
+      "relu": false
+    },
+    {
+      "id": "emprunt-commun-europeen-nextgenerationeu",
+      "terme": "Emprunt commun européen (NextGenerationEU)",
+      "theme": "ue",
+      "categories": [
+        "ue",
+        "desequilibres"
+      ],
+      "definition": "Plan de relance européen adopté en 2020 (environ 750 milliards d'euros), financé pour la première fois par un emprunt commun de la Commission sur les marchés financiers.",
+      "auteurs_associes": [],
+      "mots_cles": [
+        "plan de relance",
+        "emprunt commun",
+        "mutualisation des dettes"
+      ],
+      "relu": false
+    },
+    {
+      "id": "autonomie-strategique-europeenne",
+      "terme": "Autonomie stratégique européenne",
+      "theme": "ue",
+      "categories": [
+        "ue",
+        "croissance"
+      ],
+      "definition": "Capacité de l'UE à agir de manière autonome dans des domaines stratégiques (défense, énergie, technologies, matières premières critiques) en réduisant ses dépendances vis-à-vis de puissances extérieures.",
+      "auteurs_associes": [],
+      "mots_cles": [
+        "souveraineté",
+        "dépendances",
+        "défense européenne",
+        "IA",
+        "Starlink"
+      ],
+      "relu": false
+    },
+    {
+      "id": "mecanisme-d-ajustement-carbone-aux-frontieres",
+      "terme": "Mécanisme d'ajustement carbone aux frontières",
+      "theme": "ue",
+      "categories": [
+        "ue",
+        "croissance",
+        "mondialisation"
+      ],
+      "definition": "Dispositif européen qui applique aux importations de certains produits (acier, ciment, aluminium, engrais…) un prix du carbone équivalent à celui payé par les producteurs européens, pour éviter les « fuites de carbone ».",
+      "auteurs_associes": [],
+      "mots_cles": [
+        "MACF",
+        "CBAM",
+        "carbone",
+        "importations",
+        "acier"
+      ],
+      "relu": false
+    },
+    {
+      "id": "politique-commerciale-commune",
+      "terme": "Politique commerciale commune",
+      "theme": "ue",
+      "categories": [
+        "ue",
+        "mondialisation"
+      ],
+      "definition": "Compétence exclusive de l'UE : la Commission négocie les accords commerciaux au nom des États membres et peut adopter des mesures de défense commerciale (droits antidumping, antisubventions).",
+      "auteurs_associes": [],
+      "mots_cles": [
+        "accords commerciaux",
+        "Mercosur",
+        "antidumping",
+        "Chine"
+      ],
+      "relu": false
+    },
+    {
+      "id": "federalisme-budgetaire",
+      "terme": "Fédéralisme budgétaire",
+      "theme": "ue",
+      "categories": [
+        "ue"
+      ],
+      "definition": "Existence d'un budget central important qui opère des transferts entre les régions d'une union monétaire pour amortir les chocs asymétriques ; il reste très limité dans la zone euro.",
+      "auteurs_associes": [
+        "Peter Kenen (1969)"
+      ],
+      "mots_cles": [
+        "budget fédéral",
+        "transferts",
+        "zone euro"
+      ],
+      "relu": false
+    },
+    {
+      "id": "union-bancaire",
+      "terme": "Union bancaire",
+      "theme": "ue",
+      "categories": [
+        "ue",
+        "finance"
+      ],
+      "definition": "Ensemble de mécanismes adoptés après la crise de la zone euro : supervision unique des grandes banques par la BCE (depuis 2014) et mécanisme de résolution unique des défaillances bancaires.",
+      "auteurs_associes": [],
+      "mots_cles": [
+        "union bancaire",
+        "supervision bancaire",
+        "résolution",
+        "BCE"
+      ],
+      "relu": false
+    },
+    {
+      "id": "subsidiarite",
+      "terme": "Subsidiarité",
+      "theme": "ue",
+      "categories": [
+        "ue"
+      ],
+      "definition": "Principe selon lequel l'UE n'intervient, dans les domaines qui ne relèvent pas de sa compétence exclusive, que si l'objectif ne peut pas être atteint de manière suffisante par les États membres et peut l'être mieux au niveau européen.",
+      "auteurs_associes": [
+        "Traité de Maastricht (1992)"
+      ],
+      "mots_cles": [
+        "subsidiarité",
+        "compétences",
+        "souveraineté"
+      ],
+      "relu": false
+    },
+    {
+      "id": "action",
+      "terme": "Action",
+      "theme": "marches",
+      "categories": [
+        "finance",
+        "epargne"
+      ],
+      "definition": "Titre de propriété représentant une fraction du capital d'une société, qui donne droit à des dividendes et à un droit de vote. Son cours dépend des anticipations de bénéfices futurs.",
+      "auteurs_associes": [],
+      "mots_cles": [
+        "actions",
+        "Bourse",
+        "dividendes",
+        "CAC 40",
+        "capitalisation"
+      ],
+      "relu": false
+    },
+    {
+      "id": "obligation",
+      "terme": "Obligation",
+      "theme": "marches",
+      "categories": [
+        "finance",
+        "epargne"
+      ],
+      "definition": "Titre de créance représentant un prêt à un État ou à une entreprise, rémunéré par un intérêt (le coupon). Son prix évolue en sens inverse des taux d'intérêt du marché.",
+      "auteurs_associes": [],
+      "mots_cles": [
+        "obligations",
+        "OAT",
+        "taux",
+        "coupon",
+        "emprunt"
+      ],
+      "relu": false
+    },
+    {
+      "id": "indice-boursier",
+      "terme": "Indice boursier",
+      "theme": "marches",
+      "categories": [
+        "finance"
+      ],
+      "definition": "Indicateur qui mesure l'évolution des cours d'un panier d'actions représentatif d'un marché : le CAC 40 pour les quarante grandes valeurs de la Bourse de Paris, le S&P 500 pour les États-Unis.",
+      "auteurs_associes": [],
+      "mots_cles": [
+        "CAC 40",
+        "S&P 500",
+        "Euro Stoxx 50",
+        "Bourse",
+        "Wall Street"
+      ],
+      "relu": false
+    },
+    {
+      "id": "efficience-des-marches",
+      "terme": "Efficience des marchés",
+      "theme": "marches",
+      "categories": [
+        "finance"
+      ],
+      "definition": "Hypothèse selon laquelle le prix des actifs reflète à tout moment toute l'information disponible, de sorte qu'il est impossible de battre durablement le marché.",
+      "auteurs_associes": [
+        "Eugene Fama (1970)"
+      ],
+      "mots_cles": [
+        "efficience",
+        "information",
+        "marchés financiers"
+      ],
+      "relu": false
+    },
+    {
+      "id": "valeur-refuge",
+      "terme": "Valeur refuge",
+      "theme": "marches",
+      "categories": [
+        "finance",
+        "epargne"
+      ],
+      "definition": "Actif (or, obligations d'États jugés sûrs, franc suisse) vers lequel les investisseurs se tournent en période d'incertitude, ce qui fait monter son prix.",
+      "auteurs_associes": [],
+      "mots_cles": [
+        "or",
+        "valeur refuge",
+        "incertitude",
+        "aversion au risque"
+      ],
+      "relu": false
+    },
+    {
+      "id": "courbe-des-taux",
+      "terme": "Courbe des taux",
+      "theme": "marches",
+      "categories": [
+        "finance"
+      ],
+      "definition": "Représentation des taux d'intérêt en fonction de la durée des emprunts. Une courbe inversée (taux courts supérieurs aux taux longs) est souvent considérée comme un signal avant-coureur de récession.",
+      "auteurs_associes": [],
+      "mots_cles": [
+        "courbe des taux",
+        "taux longs",
+        "inversion",
+        "obligations"
+      ],
+      "relu": false
+    },
+    {
+      "id": "notation-souveraine",
+      "terme": "Notation souveraine",
+      "theme": "marches",
+      "categories": [
+        "finance",
+        "desequilibres"
+      ],
+      "definition": "Évaluation, par des agences (S&P, Moody's, Fitch), du risque qu'un État ne rembourse pas sa dette. Une dégradation de la note peut renchérir le coût de ses emprunts.",
+      "auteurs_associes": [],
+      "mots_cles": [
+        "notation",
+        "agences de notation",
+        "Moody's",
+        "Fitch",
+        "dégradation"
+      ],
+      "relu": false
+    },
+    {
+      "id": "taux-d-epargne",
+      "terme": "Taux d'épargne",
+      "theme": "marches",
+      "categories": [
+        "epargne"
+      ],
+      "definition": "Part du revenu disponible des ménages qui n'est pas consommée. L'épargne finance l'investissement et constitue une précaution face à l'incertitude (épargne de précaution).",
+      "auteurs_associes": [
+        "John Maynard Keynes (1936)"
+      ],
+      "mots_cles": [
+        "épargne",
+        "taux d'épargne",
+        "épargne de précaution",
+        "ménages"
+      ],
+      "relu": false
+    },
+    {
+      "id": "hypothese-du-cycle-de-vie",
+      "terme": "Hypothèse du cycle de vie",
+      "theme": "marches",
+      "categories": [
+        "epargne"
+      ],
+      "definition": "Modèle selon lequel les ménages épargnent pendant leur vie active et désépargnent à la retraite afin de lisser leur consommation sur l'ensemble de leur vie.",
+      "auteurs_associes": [
+        "Franco Modigliani et Richard Brumberg (1954)"
+      ],
+      "mots_cles": [
+        "épargne",
+        "retraite",
+        "patrimoine",
+        "consommation"
+      ],
+      "relu": false
+    },
+    {
+      "id": "assurance-vie",
+      "terme": "Assurance-vie",
+      "theme": "marches",
+      "categories": [
+        "epargne"
+      ],
+      "definition": "Contrat par lequel un assureur s'engage à verser un capital ou une rente ; c'est le placement préféré des Français. Il bénéficie d'une fiscalité avantageuse en cas de rachat après huit ans et lors de la transmission au décès.",
+      "auteurs_associes": [],
+      "mots_cles": [
+        "assurance-vie",
+        "fonds en euros",
+        "unités de compte",
+        "fiscalité de l'épargne"
+      ],
+      "relu": false
+    },
+    {
+      "id": "epargne-reglementee",
+      "terme": "Épargne réglementée",
+      "theme": "marches",
+      "categories": [
+        "epargne"
+      ],
+      "definition": "Produits d'épargne dont le taux, le plafond et la fiscalité sont fixés par l'État (Livret A, LDDS, LEP). Une partie des sommes collectées est centralisée à la Caisse des dépôts pour financer le logement social.",
+      "auteurs_associes": [],
+      "mots_cles": [
+        "Livret A",
+        "LEP",
+        "LDDS",
+        "Caisse des dépôts",
+        "taux du livret"
+      ],
+      "relu": false
+    },
+    {
+      "id": "effet-de-levier",
+      "terme": "Effet de levier",
+      "theme": "marches",
+      "categories": [
+        "finance",
+        "entreprises"
+      ],
+      "definition": "Utilisation de l'endettement pour accroître la rentabilité des capitaux propres d'un investissement, au prix d'un risque accru si le rendement obtenu devient inférieur au coût de la dette.",
+      "auteurs_associes": [],
+      "mots_cles": [
+        "levier",
+        "endettement",
+        "rentabilité",
+        "LBO",
+        "private equity"
+      ],
+      "relu": false
+    },
+    {
+      "id": "diversification-du-portefeuille",
+      "terme": "Diversification du portefeuille",
+      "theme": "marches",
+      "categories": [
+        "epargne",
+        "finance"
+      ],
+      "definition": "Principe selon lequel répartir un placement entre des actifs dont les rendements ne sont pas parfaitement corrélés réduit le risque global, pour un rendement espéré donné.",
+      "auteurs_associes": [
+        "Harry Markowitz (1952)"
+      ],
+      "mots_cles": [
+        "diversification",
+        "portefeuille",
+        "risque",
+        "rendement",
+        "ETF"
+      ],
+      "relu": false
+    },
+    {
+      "id": "droits-de-succession-et-de-donation",
+      "terme": "Droits de succession et de donation",
+      "theme": "marches",
+      "categories": [
+        "epargne",
+        "desequilibres"
+      ],
+      "definition": "Impôts prélevés sur les biens transmis au décès ou par donation, calculés selon un barème progressif après des abattements qui dépendent du lien de parenté.",
+      "auteurs_associes": [],
+      "mots_cles": [
+        "succession",
+        "donation",
+        "héritage",
+        "droits de mutation",
+        "transmission"
+      ],
+      "relu": false
+    },
+    {
+      "id": "demembrement-de-propriete",
+      "terme": "Démembrement de propriété",
+      "theme": "marches",
+      "categories": [
+        "epargne"
+      ],
+      "definition": "Séparation de la pleine propriété d'un bien entre l'usufruit (droit d'utiliser le bien et d'en percevoir les revenus) et la nue-propriété. C'est un outil courant de transmission du patrimoine.",
+      "auteurs_associes": [],
+      "mots_cles": [
+        "usufruit",
+        "nue-propriété",
+        "transmission",
+        "patrimoine"
+      ],
+      "relu": false
+    }
+  ]
+}

@@ -1,5 +1,4 @@
 # Réglages généraux de Morning-Market.
-# Les modèles d'IA seront ajoutés à la phase 3.
 
 projet:
   nom: "Morning-Market"
@@ -189,3 +188,55 @@ indicateurs:
     filtres: { geo: "FR", s_adj: "SCA", na_item: "B1GQ", unit: "CLV_PCH_PRE" }
     source: "Eurostat"
     source_url: "https://ec.europa.eu/eurostat/databrowser/view/namq_10_gdp/default/table"
+
+# ---------------------------------------------------------------------------
+# Intelligence artificielle (vérifié le 17/10/2026)
+# GitHub Models, prévu au départ, a été fermé par GitHub le 30/07/2026.
+# Tous les fournisseurs ci-dessous parlent le même « langage » (format compatible OpenAI) :
+# en changer revient à modifier ces lignes, sans toucher au code.
+# Un fournisseur dont la clé est absente est simplement ignoré. Sans aucune clé :
+# mode dégradé (classement par mots-clés, aucun texte rédigé).
+# ---------------------------------------------------------------------------
+ia:
+  fournisseurs:
+    gemini:
+      url: "https://generativelanguage.googleapis.com/v1beta/openai/chat/completions"
+      variable_cle: GEMINI_API_KEY
+      pause_secondes: 5          # palier gratuit : environ 15 requêtes par minute
+      parametres: { reasoning_effort: "low" }
+    groq:
+      url: "https://api.groq.com/openai/v1/chat/completions"
+      variable_cle: GROQ_API_KEY
+      pause_secondes: 10         # palier gratuit : 8 000 jetons par minute
+      parametres: { reasoning_effort: "low" }
+  # Ordre d'essai pour chaque niveau : « high » pour la rédaction, « low » pour le classement.
+  niveaux:
+    high:
+      - { fournisseur: gemini, modele: "gemini-3.8-flash" }
+      - { fournisseur: groq,   modele: "openai/gpt-oss-120b" }
+      - { fournisseur: gemini, modele: "gemini-3.5-flash-lite" }
+    low:
+      - { fournisseur: gemini, modele: "gemini-3.5-flash-lite" }
+      - { fournisseur: groq,   modele: "openai/gpt-oss-20b" }
+      - { fournisseur: gemini, modele: "gemini-3.8-flash" }
+  attente_max_429_secondes: 65   # si on nous demande d'attendre plus longtemps, on passe au fournisseur suivant
+  delai_reseau_secondes: 120
+  budget_requetes: 30            # plafond par exécution (garde-fou contre une boucle)
+  taille_lot_classement: 20      # nombre d'événements envoyés par requête de classement
+  candidats_top5: 20
+  importance_min_remplacement: 8 # au 2e passage, seuil pour bousculer le Top 5
+  articles_par_categorie: 4
+  fils_actifs_max: 15
+  jours_sans_repetition_concept: 30
+  jours_sans_repetition_citation: 60
+
+# Mode dégradé (sans IA) : mots-clés qui rattachent un article à une catégorie.
+# Un article sans aucun mot-clé est considéré hors sujet.
+mots_cles_categories:
+  croissance: [croissance, pib, innovation, productivité, recherche, climat, transition, énergie, renouvelable, nucléaire, carbone, émissions, industrie, investissement, start-up, deeptech, intelligence artificielle, " ia ", numérique, growth, gdp, innovation, climate, energy]
+  mondialisation: [commerce, douane, droits de douane, exportations, importations, mondialisation, chine, états-unis, sanctions, pétrole, brent, opep, ormuz, guerre commerciale, omc, trade, tariff, tariffs, exports, oil, sanctions]
+  finance: [bce, fed, banque centrale, taux, bourse, cac 40, marchés, obligations, banque, banques, lagarde, inflation, monétaire, dollar, euro, spread, krach, ecb, rates, stocks, markets, bank, bond]
+  desequilibres: [chômage, emploi, inflation, prix, pouvoir d'achat, inégalités, pauvreté, dette, déficit, budget, impôt, impôts, fiscalité, retraite, retraites, sécurité sociale, salaires, smic, défaillances, unemployment, debt, deficit, wages, budget]
+  ue: [union européenne, européen, européenne, bruxelles, commission, parlement européen, conseil européen, zone euro, ue, eu, european]
+  entreprises: [entreprise, entreprises, groupe, rachat, fusion, acquisition, résultats, chiffre d'affaires, licenciement, usine, pdg, automobile, stellantis, renault, airbus, lvmh, totalenergies, company, merger, profits, ceo]
+  epargne: [épargne, livret, assurance-vie, placement, patrimoine, immobilier, crédit immobilier, succession, donation, scpi, pea, per, retraite, savings, pension]

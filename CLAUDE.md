@@ -12,11 +12,15 @@ Tableau de bord économique quotidien (GitHub Pages + GitHub Actions). Brief com
 - Droit de la presse : on stocke uniquement titre, source, date, lien et résumé IA. Les chapôs RSS ne sont **jamais** écrits dans le dépôt (public).
 - Aucune citation inventée : citation d'actu vérifiée mot pour mot dans le flux ; citation d'économiste affichée seulement si `verifiee: true`.
 - Toute forme de données JSON est décrite dans `contrat/` : la mettre à jour avant de changer un format.
+- Sources sans chapô (Les Echos via Google News, BCE) : aucun texte IA au-delà du titre (traduit si anglais), jamais au Top 5 sans confirmation par une source avec chapô. Appliqué par `collecte/regles.py`, couvert par `tests/test_regle_sans_chapo.py`.
+- Neutralité politique dans tous les prompts (`config/prompts/regles-communes.md`) : positions de chaque camp, jamais de jugement.
+- IA : GitHub Models est fermé depuis le 30/07/2026. Fournisseurs compatibles OpenAI configurés dans `config.yaml` (Gemini, Groq) ; clés dans les secrets GitHub et, en local, dans `.env` (jamais commité). Sans clé : mode dégradé.
 
 ## Structure
 ```
 config/        réglages (catégories, sources, modèles IA) + prompts/ (consignes IA)
-collecte/      scripts Python : collecte, dédoublonnage, IA, écriture des JSON
+collecte/      scripts Python : flux, indicateurs, dédoublonnage, ia (client), regles (garde-fous éditoriaux),
+               edition (Top 5, catégories, concept, citations), fils_rouges, memoire (récaps, index), principal
 data/          mémoire du site (JSON commités) : jours/, recaps/, indicateurs, fils rouges, statut
 contrat/       exemples de référence de chaque fichier JSON + description des champs
 site/          HTML + JS natif (modules ES) + Tailwind v4 compilé
@@ -27,7 +31,7 @@ tests/         tests automatiques (garde-fous)
 ## Commandes utiles
 - Dépôt GitHub : `Gaaabbb444/Morning-Market` (le dossier local s'appelle `Morning-dashboard`).
 - Installer : `python -m venv .venv` puis `.venv\Scripts\python -m pip install -r requirements.txt`
-- Lancer une mise à jour : `.venv\Scripts\python -m collecte.principal` (option `--type matin|fin-de-matinee|manuel`)
+- Lancer une mise à jour : `.venv\Scripts\python -m collecte.principal` (options `--type matin|fin-de-matinee|manuel`, `--refaire` pour reconstruire l'édition du jour au lieu de la compléter)
 - Tests : `.venv\Scripts\python -m pytest -q`
 - `tmp/collecte-AAAA-MM-JJ.json` : articles regroupés du jour, avec chapôs → jamais commité.
 - Sous Windows, lancer Python avec `-X utf8` pour les scripts ponctuels (sinon erreurs d'accents dans la console).

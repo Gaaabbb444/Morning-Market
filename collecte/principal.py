@@ -1,29 +1,53 @@
-"""Chef d'orchestre d'une exécution : collecte, dédoublonnage, indicateurs, bilan.
+"""Chef d'orchestre d'une exécution : collecte, indicateurs, édition, fils rouges, récaps, bilan.
 
 Lancement (depuis le dossier du projet) :
     .venv\\Scripts\\python -m collecte.principal
 
-Phase 2 : pas encore d'IA. Les articles regroupés sont écrits dans tmp/ (fichier de
-travail jamais publié, car il contient les chapôs) ; les indicateurs et le bilan
-d'exécution sont écrits dans data/.
+Les articles regroupés (avec chapôs) sont écrits dans tmp/, jamais publié. Tout le reste va dans data/.
+Les clés d'IA sont lues dans les variables d'environnement (secrets GitHub en ligne)
+ou, sur un PC, dans le fichier .env (jamais publié).
 """
 
 import argparse
+import os
 import sys
+from datetime import date
 
-from . import stockage
+from . import fils_rouges, memoire, stockage
 from .dedoublonnage import regrouper
+from .edition import construire_edition
 from .flux import collecter_articles
+from .ia import ClientIA
 from .indicateurs import mettre_a_jour_indicateurs
-from .outils import DOSSIER_DATA, DOSSIER_TMP, charger_config, configurer_journal, horodatage, journal, maintenant_paris
+from .outils import (DOSSIER_DATA, DOSSIER_TMP, RACINE, charger_config, configurer_journal, horodatage, journal,
+                     maintenant_paris)
 
 
-def executer(type_execution: str) -> int:
+def lire_environnement() -> dict:
+    """Variables d'environnement, complétées par le fichier .env local s'il existe."""
+    environnement = dict(os.environ)
+    fichier = RACINE / ".env"
+    if fichier.exists():
+        for ligne in fichier.read_text(encoding="utf-8-sig").splitlines():
+            if "=" in ligne and not ligne.lstrip().startswith("#"):
+                nom, valeur = ligne.split("=", 1)
+                environnement.setdefault(nom.strip(), valeur.strip().strip('"'))
+    return environnement
+
+
+def executer(type_execution: str, refaire: bool = False) -> int:
     debut = horodatage()
     config = charger_config()
     aujourd_hui = maintenant_paris().date().isoformat()
     ancien_statut = stockage.lire_json(DOSSIER_DATA / "statut.json", {}) or {}
     ecritures = []
+
+    def ecrire(nom_affiche, chemin, donnees, validateur):
+        ecrit, raison = stockage.ecrire_json_securise(chemin, donnees, validateur)
+        ecritures.append({"fichier": nom_affiche, "ecrit": ecrit, "raison": raison})
+        if not ecrit:
+            journal.warning("Non écrit (ancienne version conservée) : %s — %s", nom_affiche, raison)
+        return ecrit
 
     # 1. Articles : collecte puis regroupement par événement
     journal.info("— Collecte des flux RSS —")
@@ -33,12 +57,9 @@ def executer(type_execution: str) -> int:
                  len(articles), len(groupes), sum(1 for g in groupes if g["nb_sources"] > 1))
     collecte = {"date": aujourd_hui, "genere_le": horodatage(), "type": type_execution,
                 "nb_articles": len(articles), "groupes": groupes}
-    ecrit, raison = stockage.ecrire_json_securise(
-        DOSSIER_TMP / f"collecte-{aujourd_hui}.json", collecte,
-        lambda d: stockage.valider_collecte(d, config["collecte"]["minimum_articles"]))
-    ecritures.append({"fichier": f"tmp/collecte-{aujourd_hui}.json", "ecrit": ecrit, "raison": raison})
+    collecte_valide = ecrire(f"tmp/collecte-{aujourd_hui}.json", DOSSIER_TMP / f"collecte-{aujourd_hui}.json", collecte,
+                             lambda d: stockage.valider_collecte(d, config["collecte"]["minimum_articles"]))
 
-    # On garde la date du dernier succès de chaque source (utile pour repérer un flux mort)
     anciens_succes = {s["id"]: s.get("dernier_succes") for s in ancien_statut.get("sources", [])}
     for etat in etats_sources:
         etat["dernier_succes"] = horodatage() if etat["etat"] != "erreur" else anciens_succes.get(etat["id"])
@@ -47,30 +68,62 @@ def executer(type_execution: str) -> int:
     journal.info("— Indicateurs —")
     fichier_indicateurs = DOSSIER_DATA / "indicateurs.json"
     indicateurs, etats_indicateurs = mettre_a_jour_indicateurs(config, stockage.lire_json(fichier_indicateurs))
-    ecrit, raison = stockage.ecrire_json_securise(fichier_indicateurs, indicateurs, stockage.valider_indicateurs)
-    ecritures.append({"fichier": "indicateurs.json", "ecrit": ecrit, "raison": raison})
+    ecrire("indicateurs.json", fichier_indicateurs, indicateurs, stockage.valider_indicateurs)
 
-    # 3. Bilan de l'exécution
-    tout_refuse = not any(e["ecrit"] for e in ecritures)
+    # 3. Édition du jour, fils rouges et récapitulatifs
+    client = ClientIA(config["ia"], lire_environnement())
+    journal.info("— Édition (IA : %s) —", ", ".join(client.resume_pour_statut()["fournisseurs_configures"]) or "aucune clé, mode dégradé")
+    derniere_edition = ancien_statut.get("derniere_edition")
+    modes = {}
+    if collecte_valide:
+        fichier_jour = DOSSIER_DATA / "jours" / f"{aujourd_hui}.json"
+        edition_existante = None if refaire else stockage.lire_json(fichier_jour)
+        fichier_fils = stockage.lire_json(DOSSIER_DATA / "fils-rouges.json")
+        fils_actifs = [f for f in fichier_fils["fils"] if f["statut"] == "actif"]
+        concepts = stockage.lire_json(DOSSIER_DATA / "concepts.json", {"concepts": []})["concepts"]
+        citations = stockage.lire_json(DOSSIER_DATA / "citations.json", {"citations": []})["citations"]
+
+        edition, classements, modes = construire_edition(groupes, client, config, fils_actifs, concepts, citations,
+                                                         edition_existante, aujourd_hui, type_execution)
+        if ecrire(f"jours/{aujourd_hui}.json", fichier_jour, edition, stockage.valider_edition):
+            derniere_edition = aujourd_hui
+            index = stockage.lire_json(DOSSIER_DATA / "index-recherche.json")
+            ecrire("index-recherche.json", DOSSIER_DATA / "index-recherche.json",
+                   memoire.mettre_a_jour_index(index, edition), memoire.valider_index(index))
+            ecrire("jours/index.json", DOSSIER_DATA / "jours" / "index.json",
+                   memoire.mettre_a_jour_liste_editions(stockage.lire_json(DOSSIER_DATA / "jours" / "index.json"), aujourd_hui),
+                   lambda d: None if d.get("dates") else "liste vide")
+
+        journal.info("— Fils rouges —")
+        nouveaux_fils, modes["fils_rouges"] = fils_rouges.mettre_a_jour(fichier_fils, groupes, classements, client,
+                                                                        config, aujourd_hui)
+        if nouveaux_fils is not fichier_fils:
+            ecrire("fils-rouges.json", DOSSIER_DATA / "fils-rouges.json", nouveaux_fils,
+                   fils_rouges.valider_sans_perte(fichier_fils))
+
+        journal.info("— Récapitulatifs —")
+        ecritures.extend(memoire.rattraper_recaps(date.fromisoformat(aujourd_hui), client,
+                                                  stockage.lire_json(DOSSIER_DATA / "fils-rouges.json")["fils"]))
+
+    # 4. Bilan de l'exécution
+    essentiels = [e for e in ecritures if e["fichier"] in ("indicateurs.json", f"jours/{aujourd_hui}.json")]
+    tout_refuse = not any(e["ecrit"] for e in essentiels)
     incident = (any(not e["ecrit"] for e in ecritures)
                 or any(s["etat"] == "erreur" for s in etats_sources)
-                or any(i["etat"] != "ok" for i in etats_indicateurs))
+                or any(i["etat"] != "ok" for i in etats_indicateurs)
+                or any(m in ("sans-ia", "partiel") for m in modes.values()))
     resultat = "echec" if tout_refuse else ("partiel" if incident else "ok")
     statut = {
         "version_schema": 1,
         "derniere_execution": {"debut": debut, "fin": horodatage(), "type": type_execution, "resultat": resultat},
-        "derniere_edition": ancien_statut.get("derniere_edition"),
+        "derniere_edition": derniere_edition,
         "sources": etats_sources,
         "indicateurs": etats_indicateurs,
-        "ia": None,
+        "ia": dict(client.resume_pour_statut(), etapes=modes),
         "ecritures": ecritures,
     }
     stockage.ecrire_json_securise(DOSSIER_DATA / "statut.json", statut, stockage.valider_statut)
-
-    for e in ecritures:
-        if not e["ecrit"]:
-            journal.warning("Non écrit (ancienne version conservée) : %s — %s", e["fichier"], e["raison"])
-    journal.info("Résultat : %s", resultat.upper())
+    journal.info("Résultat : %s (IA : %d requêtes, étapes : %s)", resultat.upper(), client.requetes, modes)
     return 1 if resultat == "echec" else 0
 
 
@@ -81,7 +134,10 @@ def main() -> None:
     analyseur = argparse.ArgumentParser(description="Mise à jour des données de Morning-Market")
     analyseur.add_argument("--type", default="manuel", choices=["matin", "fin-de-matinee", "manuel"],
                            help="passage planifié du matin, de fin de matinée, ou lancement manuel")
-    sys.exit(executer(analyseur.parse_args().type))
+    analyseur.add_argument("--refaire", action="store_true",
+                           help="reconstruit l'édition du jour depuis zéro au lieu de la compléter")
+    arguments = analyseur.parse_args()
+    sys.exit(executer(arguments.type, arguments.refaire))
 
 
 if __name__ == "__main__":
