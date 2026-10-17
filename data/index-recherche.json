@@ -1,7 +1,286 @@
 {
   "version_schema": 1,
-  "mis_a_jour_le": "2026-10-17T23:44:44+02:00",
+  "mis_a_jour_le": "2026-10-18T00:04:03+02:00",
   "entrees": [
+    {
+      "d": "2026-10-18",
+      "i": "407de030d746",
+      "t": "Donald Trump suspend les sanctions contre Moscou pour sauver les élections des midterms à la pompe",
+      "r": "Donald Trump a suspendu l'application des sanctions et droits de douane prévus par le Graham Act sur les hydrocarbures russes, invoquant l'intérêt national américain afin de contenir les prix des carburants à l'approche des élections de mi-mandat.",
+      "c": "mondialisation",
+      "s": "La Tribune",
+      "f": "ukraine-sanctions"
+    },
+    {
+      "d": "2026-10-18",
+      "i": "2ee92d888755",
+      "t": "L’accord franco-allemand sur l’automobile ménage Stellantis mais n’épargne pas Renault",
+      "r": "La France et l'Allemagne ont conclu un accord prévoyant un assouplissement de la trajectoire d'émissions de CO2 pour l'automobile et conditionnant les subventions à un seuil d'au moins 70 % de composants produits dans l'Union européenne.",
+      "c": "mondialisation",
+      "s": "Le Monde",
+      "f": null
+    },
+    {
+      "d": "2026-10-18",
+      "i": "d83268752359",
+      "t": "Budget de la Sécu 2027 : en commission, les députés font exploser le déficit à plus de 21 milliards d’euros",
+      "r": "Les députés ont rejeté en commission le projet de budget de la Sécurité sociale pour 2027 après avoir modifié plusieurs volets, faisant passer le déficit estimé de 12,7 à 21,4 milliards d'euros selon le rapporteur général.",
+      "c": "desequilibres",
+      "s": "Capital",
+      "f": "budget-2027"
+    },
+    {
+      "d": "2026-10-18",
+      "i": "788865f1f5bf",
+      "t": "Détroit d'Ormuz : deux pétroliers visés par une attaque au large de l'Arabie saoudite",
+      "r": "Deux pétroliers ont été pris pour cible au large d'un port saoudien par un projectile et des tirs de roquettes, déplaçant le risque sécuritaire à plusieurs centaines de kilomètres du détroit d'Ormuz.",
+      "c": "mondialisation",
+      "s": "La Tribune",
+      "f": "choc-petrolier-ormuz"
+    },
+    {
+      "d": "2026-10-18",
+      "i": "2c6e089e66e6",
+      "t": "Mouvement du 17 octobre : le cortège s'est élancé à Paris, où des tensions sont à noter, ainsi qu'à Lyon et Marseille",
+      "r": "Des mobilisations contre la vie chère organisées le 17 octobre ont rassemblé entre 550 000 personnes (selon le ministère de l'Intérieur) et 800 000 (selon les organisateurs), donnant lieu à des pillages de commerces et plusieurs centaines d'interpellations dans plusieurs grandes villes.",
+      "c": "desequilibres",
+      "s": "L'Opinion",
+      "f": "conjoncture-france"
+    },
+    {
+      "d": "2026-10-18",
+      "i": "80e7366cf2b0",
+      "t": "L'Inde, malgré une situation politique troublée, devrait s'imposer en 2027 comme la quatrième économie mondiale",
+      "r": "Selon le FMI, l'Inde devrait s'imposer en 2027 comme la quatrième économie mondiale, dépassant le Japon et le Royaume-Uni.",
+      "c": "croissance",
+      "s": "franceinfo",
+      "f": null
+    },
+    {
+      "d": "2026-10-18",
+      "i": "7333fdccc97b",
+      "t": "\"Un superpétrolier a heurté une mine\": l'Iran intensifie ses attaques dans le détroit d'Ormuz, alors que le baril de pétrole frôle à nouveau les 110 dollars",
+      "r": "Les attaques se multiplient dans le détroit d'Ormuz, contribuant à faire frôler les 110 dollars au baril de pétrole.",
+      "c": "croissance",
+      "s": "BFM Business",
+      "f": "choc-petrolier-ormuz"
+    },
+    {
+      "d": "2026-10-18",
+      "i": "8409631cf7e2",
+      "t": "Une entreprise russe sur trois déficitaire, pas de prime à Noël pour les salariés, moins d'1% de croissance... Étouffée par des taux d'intérêt à 20%, la Russie touche aux limites d'une économie de guerre",
+      "r": "Confrontée à des taux d'intérêt à 20 %, à des hausses d'impôts et à des coûts d'emprunt élevés, l'économie de guerre russe montre des signes de ralentissement avec une hausse des entreprises déficitaires.",
+      "c": "croissance",
+      "s": "BFM Business",
+      "f": null
+    },
+    {
+      "d": "2026-10-18",
+      "i": "ac4539d01b2f",
+      "t": "« L’économie du Brésil est en croissance grâce au niveau élevé des cours mondiaux des matières premières plus qu’à un succès du gouvernement Lula »",
+      "r": "La croissance économique brésilienne est attribuée aux cours mondiaux élevés des matières premières plutôt qu'à la politique du gouvernement Lula.",
+      "c": "croissance",
+      "s": "Le Monde",
+      "f": null
+    },
+    {
+      "d": "2026-10-18",
+      "i": "84f5ce95fb8a",
+      "t": "Pourquoi la Grande-Bretagne devrait rejeter l'attrait d'une IA chinoise bon marché et inquiétante",
+      "r": "Un article met en garde contre les risques sécuritaires liés à l'utilisation par les pays occidentaux d'intelligences artificielles développées en Chine.",
+      "c": "mondialisation",
+      "s": "The Guardian",
+      "f": "intelligence-artificielle"
+    },
+    {
+      "d": "2026-10-18",
+      "i": "f5f1b4205845",
+      "t": "Downing Street laisse ouverte l'option d'imposer des tarifs sur les VE chinois si le Royaume-Uni rejoint le programme de l'UE",
+      "r": "Le gouvernement britannique n'exclut pas des droits de douane sur les véhicules électriques chinois, suscitant des avertissements de Pékin.",
+      "c": "mondialisation",
+      "s": "The Guardian",
+      "f": "automobile-europe-chine"
+    },
+    {
+      "d": "2026-10-18",
+      "i": "3b87d0b10121",
+      "t": "Accord avec la France sur l’automobile européenne : l’Allemagne se satisfait de cette «bonne nouvelle» pour sa compétitivité et sa prospérité",
+      "r": "L'Allemagne salue l'accord avec la France sur l'automobile européenne et appelle les constructeurs à préserver l'emploi.",
+      "c": "mondialisation",
+      "s": "Le Figaro",
+      "f": "automobile-europe-chine"
+    },
+    {
+      "d": "2026-10-18",
+      "i": "746965f2559d",
+      "t": "Face à la multiplication des barrières commerciales, la Chine ne peut pas se permettre de perdre l'Europe",
+      "r": "Confrontée à des barrières commerciales croissantes, la Chine fait des concessions sur les véhicules hybrides pour préserver ses débouchés en Europe.",
+      "c": "mondialisation",
+      "s": "L'Opinion",
+      "f": "automobile-europe-chine"
+    },
+    {
+      "d": "2026-10-18",
+      "i": "755465d5b212",
+      "t": "De François Mitterrand à Emmanuel Macron, le triomphe de la finance sur l’économie française",
+      "r": "Une nouvelle enquête retrace l'évolution et la domination croissante de la sphère financière sur le capitalisme français depuis les années 1980.",
+      "c": "finance",
+      "s": "Le Monde",
+      "f": null
+    },
+    {
+      "d": "2026-10-18",
+      "i": "5c71d088eddd",
+      "t": "Le gouverneur de la Banque d'Angleterre quitte le sommet du FMI pour protester contre la Russie",
+      "r": "Andrew Bailey et d'autres responsables financiers ont quitté une réunion du FMI à Bangkok lors de l'intervention du ministre russe des Finances.",
+      "c": "finance",
+      "s": "The Guardian",
+      "f": null
+    },
+    {
+      "d": "2026-10-18",
+      "i": "a956a2cd7b31",
+      "t": "CAC 40, L’Oréal, Orange, Engie, Renault, Kering… les actions en Bourse au programme de Momentum",
+      "r": "La sélection d'actions de Momentum a progressé plus vite que le CAC 40, favorisée par une accalmie sur les taux à long terme.",
+      "c": "finance",
+      "s": "Capital",
+      "f": null
+    },
+    {
+      "d": "2026-10-18",
+      "i": "edbe000ee3fc",
+      "t": "L'éditorial du Guardian sur les banques : « trop grandes pour faire faillite » ne peut signifier « trop grandes pour être taxées »",
+      "r": "Face aux profits records des banques portés par la hausse des taux, le gouvernement britannique envisage de taxer davantage le secteur malgré le lobbying.",
+      "c": "finance",
+      "s": "The Guardian",
+      "f": null
+    },
+    {
+      "d": "2026-10-18",
+      "i": "586f0940ed13",
+      "t": "17 octobre : entre 550 000 et 800 000 manifestants partout en France",
+      "r": "La journée de mobilisation du 17 octobre a rassemblé entre 550 000 et 800 000 manifestants en France, émaillée d'incidents et de violences.",
+      "c": "desequilibres",
+      "s": "franceinfo",
+      "f": "conjoncture-france"
+    },
+    {
+      "d": "2026-10-18",
+      "i": "411fec6ae749",
+      "t": "Le ministre de l'Intérieur annonce 400 interpellations dans toute la France",
+      "r": "Le ministère de l'Intérieur a dénombré 400 interpellations et estimé entre 550 000 et 800 000 le nombre de manifestants mobilisés.",
+      "c": "desequilibres",
+      "s": "franceinfo",
+      "f": "conjoncture-france"
+    },
+    {
+      "d": "2026-10-18",
+      "i": "654db39f0678",
+      "t": "\"Faire converger les luttes pour obtenir quelque chose\" : plusieurs centaines de milliers de Français dans la rue ce 17 octobre",
+      "r": "Une journée de mobilisation sociale protéiforme contre la vie chère a rassemblé plusieurs centaines de milliers de personnes en France.",
+      "c": "desequilibres",
+      "s": "franceinfo",
+      "f": "conjoncture-france"
+    },
+    {
+      "d": "2026-10-18",
+      "i": "da039a52a2c7",
+      "t": "Manifestations du 17 octobre : des mairies et bâtiments publics pris pour cible",
+      "r": "Les manifestations du 17 octobre contre la vie chère ont conduit à des attaques contre plusieurs mairies et bâtiments publics en France.",
+      "c": "desequilibres",
+      "s": "franceinfo",
+      "f": "conjoncture-france"
+    },
+    {
+      "d": "2026-10-18",
+      "i": "e443e64cb868",
+      "t": "Des lobbyistes d'entreprises américaines ont mené une offensive pour affaiblir la législation européenne historique contre la déforestation, selon un rapport",
+      "r": "Une enquête révèle un effort de lobbying de deux ans mené par des intérêts américains pour reporter et affaiblir la réglementation européenne sur la déforestation.",
+      "c": "ue",
+      "s": "The Guardian",
+      "f": null
+    },
+    {
+      "d": "2026-10-18",
+      "i": "61cda2be327e",
+      "t": "Fin de l’ère Orban en Hongrie : « Le niveau de vie est aujourd’hui une préoccupation majeure de la population »",
+      "r": "En Hongrie, la question du niveau de vie demeure une préoccupation majeure pour la population six mois après l'élection de Péter Magyar.",
+      "c": "ue",
+      "s": "Le Monde",
+      "f": null
+    },
+    {
+      "d": "2026-10-18",
+      "i": "afc7ed152b2d",
+      "t": "Un modèle pourrait être bloqué s'il risque de tuer 50 personnes: faute de loi fédérale, Anthropic propose son propre texte pour encadrer l'IA",
+      "r": "En l'absence de loi fédérale, l'entreprise Anthropic propose son propre cadre de régulation pour encadrer les risques liés aux modèles d'intelligence artificielle.",
+      "c": "entreprises",
+      "s": "BFM Business",
+      "f": "intelligence-artificielle"
+    },
+    {
+      "d": "2026-10-18",
+      "i": "749c58c87831",
+      "t": "Elle promet des pertes de poids de 30%: cette nouvelle molécule, surnommée le “King Kong” de l'anti-obésité, est déjà revendue en masse sur le marché noir par les influenceurs",
+      "r": "Le rétatrutide, une molécule anti-obésité développée par Eli Lilly promettant une perte de poids importante, fait l'objet d'un marché noir en ligne avant sa commercialisation.",
+      "c": "entreprises",
+      "s": "BFM Business",
+      "f": null
+    },
+    {
+      "d": "2026-10-18",
+      "i": "ac0a6f73b5e2",
+      "t": "La cyberattaque des frigos de supermarché, un signal d’alarme pour tous les industriels et un rappel à la loi européenne pour la France",
+      "r": "La cyberattaque de frigos de supermarchés met en lumière la vulnérabilité des équipements connectés et le retard de la France dans la transposition de directives européennes.",
+      "c": "entreprises",
+      "s": "Le Monde",
+      "f": null
+    },
+    {
+      "d": "2026-10-18",
+      "i": "09ef9e9ddb0f",
+      "t": "Remaniement spectaculaire à la direction, postes supprimés : les grandes manœuvres de Netflix, fragilisé par la concurrence",
+      "r": "Face à la concurrence, Netflix annonce un plan de départs et un remaniement majeur de sa direction des contenus pour rassurer ses investisseurs.",
+      "c": "entreprises",
+      "s": "Le Figaro",
+      "f": null
+    },
+    {
+      "d": "2026-10-18",
+      "i": "483585e854bb",
+      "t": "Assurance-vie, pourquoi la tentation de taxer ses avantages revient avant la présidentielle",
+      "r": "L'idée de taxer davantage l'assurance-vie revient dans le débat à l'approche de la présidentielle 2027 pour réduire le déficit ou financer les grands investissements.",
+      "c": "epargne",
+      "s": "Capital",
+      "f": "fiscalite-epargne-patrimoine"
+    },
+    {
+      "d": "2026-10-18",
+      "i": "b2e04499979f",
+      "t": "Épargne : en quoi consiste le «livret B», que Jean-Luc Mélenchon veut créer pour concurrencer l'assurance-vie ?",
+      "r": "La France Insoumise propose la création d'un livret B destiné à financer des investissements prioritaires pour concurrencer l'assurance-vie.",
+      "c": "epargne",
+      "s": "Le Figaro",
+      "f": "fiscalite-epargne-patrimoine"
+    },
+    {
+      "d": "2026-10-18",
+      "i": "cddd72356dc5",
+      "t": "L'université d'Harvard a gagné 68 milliards de dollars avec ses placements financiers",
+      "r": "",
+      "c": "epargne",
+      "s": "Les Echos",
+      "f": null
+    },
+    {
+      "d": "2026-10-18",
+      "i": "5bb4c0f58acb",
+      "t": "C'était la crainte des chefs d'entreprise: la réforme de \"l'apport-cession\" adoptée in extremis à l'Assemblée",
+      "r": "L'Assemblée a adopté in extremis une version assouplie de la réforme du dispositif d'apport-cession pour les entrepreneurs.",
+      "c": "epargne",
+      "s": "BFM Business",
+      "f": null
+    },
     {
       "d": "2026-10-17",
       "i": "407de030d746",

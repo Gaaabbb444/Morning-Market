@@ -1,6 +1,6 @@
 {
   "version_schema": 1,
-  "mis_a_jour_le": "2026-10-17T20:58:39+02:00",
+  "mis_a_jour_le": "2026-10-18T00:04:16+02:00",
   "fils": [
     {
       "id": "budget-2027",
@@ -17,6 +17,22 @@
         {
           "date": "2026-10-17",
           "resume": "En commission, les députés ont rejeté plusieurs mesures d'économies du budget de la Sécurité sociale, portant le déficit prévisionnel à 21,4 milliards d'euros, tout en adoptant une mesure ciblant l'optimisation fiscale.",
+          "liens": [
+            {
+              "titre": "Budget de la Sécu 2027 : en commission, les députés font exploser le déficit à plus de 21 milliards d’euros",
+              "source": "Capital",
+              "url": "https://www.capital.fr/economie-politique/budget-de-la-secu-2027-en-commission-les-deputes-font-exploser-le-deficit-a-plus-de-21-milliards-deuros-1531056"
+            },
+            {
+              "titre": "Budget 2027 : une mesure limitant l'optimisation fiscale des plus fortunés votée par les députés",
+              "source": "L'Opinion",
+              "url": "https://www.lopinion.fr/economie/budget-2027-une-mesure-limitant-loptimisation-fiscale-des-plus-fortunes-votee-par-les-deputes"
+            }
+          ]
+        },
+        {
+          "date": "2026-10-18",
+          "resume": "En commission, les députés ont rejeté le projet de budget de la Sécurité sociale tout en adoptant une mesure ciblant l'optimisation fiscale des plus hauts patrimoines.",
           "liens": [
             {
               "titre": "Budget de la Sécu 2027 : en commission, les députés font exploser le déficit à plus de 21 milliards d’euros",
@@ -74,6 +90,22 @@
               "url": "https://www.latribune.fr/article/entreprises-finance/energie-environnement/85900589526098/detroit-dormuz-deux-petroliers-vises-par-une-attaque-au-large-de-larabie-saoudite"
             }
           ]
+        },
+        {
+          "date": "2026-10-18",
+          "resume": "De nouvelles attaques ont touché des pétroliers dans le détroit d'Ormuz et au large de l'Arabie saoudite, maintenant les cours du brut proches des 110 dollars le baril.",
+          "liens": [
+            {
+              "titre": "Détroit d'Ormuz : deux pétroliers visés par une attaque au large de l'Arabie saoudite",
+              "source": "La Tribune",
+              "url": "https://www.latribune.fr/article/entreprises-finance/energie-environnement/85900589526098/detroit-dormuz-deux-petroliers-vises-par-une-attaque-au-large-de-larabie-saoudite"
+            },
+            {
+              "titre": "\"Un superpétrolier a heurté une mine\": l'Iran intensifie ses attaques dans le détroit d'Ormuz, alors que le baril de pétrole frôle à nouveau les 110 dollars",
+              "source": "BFM Business",
+              "url": "https://www.bfmtv.com/economie/international/un-superpetrolier-a-heurte-une-mine-l-iran-intensifie-ses-attaques-dans-le-detroit-d-ormuz-alors-que-le-baril-de-petrole-frole-a-nouveau-les-110-dollars_AV-202610170153.html"
+            }
+          ]
         }
       ]
     },
@@ -119,6 +151,17 @@
               "url": "https://www.latribune.fr/article/la-tribune-dimanche/dans-le-monde/1182715388918114/renseignement-coupure-de-starshield-les-dangers-du-divorce-trump-zelensky"
             }
           ]
+        },
+        {
+          "date": "2026-10-18",
+          "resume": "Donald Trump a décidé d'exonérer les hydrocarbures russes des sanctions votées par le Congrès pour tenter d'enrayer la hausse des prix du carburant.",
+          "liens": [
+            {
+              "titre": "Donald Trump suspend les sanctions contre Moscou pour sauver les élections des midterms à la pompe",
+              "source": "La Tribune",
+              "url": "https://www.latribune.fr/article/entreprises-finance/energie-environnement/96167758957597/donald-trump-suspend-les-sanctions-contre-moscou-pour-sauver-les-elections-des-midterms-a-la-pompe"
+            }
+          ]
         }
       ]
     },
@@ -146,8 +189,8 @@
         "mondialisation",
         "croissance"
       ],
-      "ou_en_est_on": "Face à la concurrence internationale, notamment chinoise, Paris et Berlin ont trouvé un terrain d'entente pour soutenir les constructeurs européens. L'accord prévoit d'assouplir l'échéance de l'interdiction des moteurs thermiques prévue pour 2035 et de conditionner les aides publiques à un plancher de 70 % de composants produits dans l'Union européenne. Ce compromis suscite néanmoins des réserves sur ses impacts contrastés selon les groupes automobiles.",
-      "ou_en_est_on_maj_le": "2026-10-17",
+      "ou_en_est_on": "L'Europe et ses partenaires réorganisent leur riposte face à la concurrence automobile chinoise. Après l'accord franco-allemand assouplissant l'interdiction des moteurs thermiques pour 2035 et fixant un seuil de composants locaux pour les subventions, Berlin a salué une avancée pour sa compétitivité. Le Royaume-Uni n'exclut pas d'appliquer des droits de douane sur les véhicules électriques chinois dans le cadre de ce dispositif européen. Face à la multiplication des barrières commerciales, Pékin tente d'ouvrir des concessions sur les modèles hybrides pour préserver son accès au marché continental.",
+      "ou_en_est_on_maj_le": "2026-10-18",
       "evenements": [
         {
           "date": "2026-10-17",
@@ -162,6 +205,27 @@
               "titre": "La France et l’Allemagne trouvent un accord sur l’avenir d’une industrie automobile \"made in Europe\", au prix de concessions environnementales",
               "source": "Toute l'Europe",
               "url": "https://www.touteleurope.eu/economie-et-social/la-france-et-l-allemagne-trouvent-un-accord-sur-l-avenir-d-une-industrie-automobile-made-in-europe-au-prix-de-concessions-environnementales/"
+            }
+          ]
+        },
+        {
+          "date": "2026-10-18",
+          "resume": "Alors que l'Allemagne salue l'accord conclu avec la France, Londres n'exclut pas de taxer les véhicules électriques chinois et Pékin consent des ouvertures sur les hybrides.",
+          "liens": [
+            {
+              "titre": "Accord avec la France sur l’automobile européenne : l’Allemagne se satisfait de cette «bonne nouvelle» pour sa compétitivité et sa prospérité",
+              "source": "Le Figaro",
+              "url": "https://www.lefigaro.fr/conjoncture/accord-avec-la-france-sur-l-automobile-europeenne-l-allemagne-se-satisfait-de-cette-bonne-nouvelle-pour-sa-competitivite-et-sa-prosperite-20261016"
+            },
+            {
+              "titre": "No 10 leaves option open to impose Chinese EV tariffs if UK joins EU scheme",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/politics/2026/oct/16/uk-chinese-electric-vehicle-ev-tariffs-eu-made-in-europe-scheme"
+            },
+            {
+              "titre": "Face à la multiplication des barrières commerciales, la Chine ne peut pas se permettre de perdre l'Europe",
+              "source": "L'Opinion",
+              "url": "https://www.lopinion.fr/economie/face-a-la-multiplication-des-barrieres-commerciales-la-chine-ne-peut-pas-se-permettre-de-perdre-leurope"
             }
           ]
         }
@@ -189,8 +253,8 @@
       "categories": [
         "epargne"
       ],
-      "ou_en_est_on": "La fiscalité du capital fait l'objet de vives discussions dans le cadre des arbitrages budgétaires. Les députés ont validé un aménagement du régime de l'apport-cession, réduisant l'ampleur du durcissement initialement redouté par les chefs d'entreprise pour le report d'imposition des plus-values. Dans le même temps, les encours de l'assurance-vie attirent l'attention des responsables politiques comme source potentielle de recettes ou de réorientation de l'épargne.",
-      "ou_en_est_on_maj_le": "2026-10-17",
+      "ou_en_est_on": "L'encours de plus de 2 100 milliards d'euros de l'assurance-vie revient au centre des débats budgétaires et politiques. Certains responsables envisagent d'alourdir sa fiscalité pour contribuer à la réduction du déficit public ou financer des investissements d'avenir. De son côté, La France insoumise propose de créer un « livret B » dédié à des investissements ciblés, en prévoyant de réduire l'attractivité des autres produits si nécessaire. Parallèlement, les parlementaires ont validé l'assouplissement du dispositif d'apport-cession.",
+      "ou_en_est_on_maj_le": "2026-10-18",
       "evenements": [
         {
           "date": "2026-10-17",
@@ -207,6 +271,22 @@
               "url": "https://www.bfmtv.com/economie/entreprises/les-chefs-d-entreprise-la-redoutent-particulierement-la-reforme-de-l-apport-cession-adoptee-in-extremis-a-l-assemblee_AV-202610170173.html"
             }
           ]
+        },
+        {
+          "date": "2026-10-18",
+          "resume": "Le débat politique s'intensifie autour de l'assurance-vie, La France insoumise suggérant notamment de créer un « livret B » pour réorienter l'épargne vers des investissements prioritaires.",
+          "liens": [
+            {
+              "titre": "Assurance-vie, pourquoi la tentation de taxer ses avantages revient avant la présidentielle",
+              "source": "Capital",
+              "url": "https://www.capital.fr/votre-argent/assurance-vie-pourquoi-la-tentation-de-taxer-ses-avantages-revient-avant-la-presidentielle-1531054"
+            },
+            {
+              "titre": "Épargne : en quoi consiste le «livret B», que Jean-Luc Mélenchon veut créer pour concurrencer l'assurance-vie ?",
+              "source": "Le Figaro",
+              "url": "https://www.lefigaro.fr/conso/epargne-en-quoi-consiste-le-livret-b-que-jean-luc-melenchon-veut-creer-pour-concurrencer-l-assurance-vie-20261016"
+            }
+          ]
         }
       ]
     },
@@ -221,8 +301,8 @@
         "desequilibres",
         "entreprises"
       ],
-      "ou_en_est_on": "La situation économique et sociale française est sous forte tension, marquée par une baisse du pouvoir d'achat des ménages due au coût de la vie et à l'énergie. Cette dégradation pèse lourdement sur la consommation, notamment dans le textile, et alimente un mouvement social d'ampleur avec des manifestations rassemblant plusieurs centaines de milliers de personnes le 17 octobre. Les secteurs productifs signalent également des difficultés à l'export, notamment dans l'agroalimentaire.",
-      "ou_en_est_on_maj_le": "2026-10-17",
+      "ou_en_est_on": "Le climat social traverse une phase de vive contestation alimentée par les pertes de pouvoir d'achat et la cherté de la vie. La journée d'action du 17 octobre a mobilisé 550 000 personnes selon le ministère de l'Intérieur, 800 000 selon les organisateurs. Les cortèges ont rassemblé des profils variés, incluant lycéens, enseignants et Gilets jaunes. La mobilisation a cependant été marquée par d'importantes violences urbaines, des pillages de commerces et l'attaque de plusieurs mairies, conduisant à environ 400 interpellations.",
+      "ou_en_est_on_maj_le": "2026-10-18",
       "evenements": [
         {
           "date": "2026-10-17",
@@ -274,6 +354,37 @@
               "url": "https://www.bfmtv.com/economie/entreprises/industries/l-etat-s-interroge-sur-sa-gestion-des-forges-de-tarbes-et-a-saisi-la-justice-europlasma-dit-se-tenir-a-la-disposition-des-autorites-competentes_AD-202610170140.html"
             }
           ]
+        },
+        {
+          "date": "2026-10-18",
+          "resume": "La journée de mobilisation du 17 octobre contre la vie chère a réuni entre 550 000 et 800 000 manifestants et a donné lieu à 400 interpellations ainsi qu'à des dégradations de bâtiments publics.",
+          "liens": [
+            {
+              "titre": "Mouvement du 17 octobre : le cortège s'est élancé à Paris, où des tensions sont à noter, ainsi qu'à Lyon et Marseille",
+              "source": "L'Opinion",
+              "url": "https://www.lopinion.fr/politique/mouvement-du-17-octobre-deux-corteges-sauvages-et-61-interpellations-a-paris-un-commissariat-attaque-a-marseille"
+            },
+            {
+              "titre": "17 octobre : entre 550 000 et 800 000 manifestants partout en France",
+              "source": "franceinfo",
+              "url": "https://www.franceinfo.fr/economie/greve/17-octobre-entre-550-000-et-800-000-manifestants-partout-en-france_8242129.html#xtor=RSS-3-%5Bgeneral%5D"
+            },
+            {
+              "titre": "Le ministre de l'Intérieur annonce 400 interpellations dans toute la France",
+              "source": "franceinfo",
+              "url": "https://www.franceinfo.fr/economie/greve/le-ministre-de-l-interieur-annonce-400-interpellations-dans-toute-la-france_8242126.html#xtor=RSS-3-%5Bgeneral%5D"
+            },
+            {
+              "titre": "\"Faire converger les luttes pour obtenir quelque chose\" : plusieurs centaines de milliers de Français dans la rue ce 17 octobre",
+              "source": "franceinfo",
+              "url": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/faire-converger-les-luttes-pour-obtenir-quelque-chose-plusieurs-centaines-de-milliers-de-francais-dans-la-rue-ce-17-octobre_8242072.html#xtor=RSS-3-%5Bgeneral%5D"
+            },
+            {
+              "titre": "Manifestations du 17 octobre : des mairies et bâtiments publics pris pour cible",
+              "source": "franceinfo",
+              "url": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/manifestations-du-17-octobre-des-mairies-et-batiments-publics-pris-pour-cible_8242105.html#xtor=RSS-3-%5Bgeneral%5D"
+            }
+          ]
         }
       ]
     },
@@ -311,6 +422,27 @@
               "url": "https://www.theguardian.com/business/2026/oct/17/why-britain-should-reject-the-lure-of-cheap-and-scary-chinese-ai"
             }
           ]
+        },
+        {
+          "date": "2026-10-18",
+          "resume": "Pékin entend restreindre les exportations de ses modèles avancés, tandis qu'Anthropic propose un texte réglementaire autorisant un juge à bloquer des IA présentant un risque imminent.",
+          "liens": [
+            {
+              "titre": "Why Britain should reject the lure of cheap – and scary – Chinese AI",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/business/2026/oct/17/why-britain-should-reject-the-lure-of-cheap-and-scary-chinese-ai"
+            },
+            {
+              "titre": "Un modèle pourrait être bloqué s'il risque de tuer 50 personnes: faute de loi fédérale, Anthropic propose son propre texte pour encadrer l'IA",
+              "source": "BFM Business",
+              "url": "https://www.bfmtv.com/economie/entreprises/un-modele-pourrait-etre-bloque-s-il-risque-de-tuer-50-personnes-faute-de-loi-federale-anthropic-propose-son-propre-texte-pour-encadrer-l-ia_AD-202610170224.html"
+            },
+            {
+              "titre": "La Chine veut contrôler la sortie de ses IA à l’étranger",
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/economie/article/2026/10/17/la-chine-veut-controler-la-sortie-de-ses-ia-a-l-etranger_6796167_3234.html"
+            }
+          ]
         }
       ]
     },
@@ -330,6 +462,17 @@
         {
           "date": "2026-10-17",
           "resume": "Le projet de barème forfaitaire pour la majoration de pension liée aux familles de trois enfants créerait des pertes pour les retraités percevant plus de 1 100 euros par mois.",
+          "liens": [
+            {
+              "titre": "Pension majorée de 10% pour trois enfants, le forfait de 2027 ferait des perdants dès 1 100 euros",
+              "source": "Capital",
+              "url": "https://www.capital.fr/votre-retraite/pension-majoree-de-10-pour-trois-enfants-le-forfait-de-2027-ferait-des-perdants-des-1-100-euros-1531025"
+            }
+          ]
+        },
+        {
+          "date": "2026-10-18",
+          "resume": "Le projet d'instaurer un montant forfaitaire pour la majoration accordée aux parents de trois enfants entraînerait des baisses de pension dès 1 100 euros de pension de base.",
           "liens": [
             {
               "titre": "Pension majorée de 10% pour trois enfants, le forfait de 2027 ferait des perdants dès 1 100 euros",
