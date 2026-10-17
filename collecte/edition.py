@@ -162,8 +162,42 @@ def _texte(valeur, longueur_max: int = 500) -> str | None:
 # 3. Top 5 et « L'essentiel »
 # ---------------------------------------------------------------------------
 
+NOMBRE_NOTIONS_PROPOSEES = 40
+
+
+def _texte_source(groupe: dict) -> str:
+    """Tout ce que les articles d'un événement disent (titres + chapôs) : la seule base autorisée."""
+    return " ".join(f"{a['titre']} {a.get('chapo') or ''}" for a in groupe["articles"])
+
+
+def notions_pertinentes(groupes: list[dict], concepts: list[dict]) -> list[dict]:
+    """Les notions du référentiel les plus proches de l'actualité (pour ne pas tout envoyer à l'IA)."""
+    texte = _mots(" ".join(_texte_source(g) for g in groupes))
+
+    def proximite(concept):
+        return len(_mots(" ".join(concept["mots_cles"]) + " " + concept["terme"]) & texte)
+    return sorted(concepts, key=proximite, reverse=True)[:NOMBRE_NOTIONS_PROPOSEES]
+
+
+def _rediger_info(groupe: dict, classement: dict, t: dict, notions: dict, themes: dict, rang: int) -> dict:
+    """Fiche du Top 5 à partir du texte de l'IA, après les contrôles de regles.py."""
+    source = _texte_source(groupe)
+    textes = {}
+    for champ in ("faits", "analyse"):
+        valeur = _texte(t.get(champ))
+        if valeur and regles.chiffres_absents(valeur, source):
+            journal.warning("« %s » rejeté (chiffres absents de l'article) : %s", champ, groupe["titre"][:60])
+            valeur = None
+        textes[champ] = valeur
+    copies, raison = regles.verifier_pour_tes_copies(t.get("pour_tes_copies"), notions, themes, source)
+    if raison:
+        journal.warning("« Pour tes copies » rejeté (%s) : %s", raison, groupe["titre"][:60])
+    return dict(element(groupe, classement), rang=rang, pour_tes_copies=copies, **textes)
+
+
 def rediger_top5(candidats: list[dict], classements: dict, client, config: dict,
-                 edition_existante: dict | None) -> tuple[list[dict], list[str] | None, bool, str]:
+                 edition_existante: dict | None, concepts: list[dict] | None = None
+                 ) -> tuple[list[dict], list[str] | None, bool, str]:
     """Renvoie (top5, essentiel, top5_modifie, mode)."""
     par_id = {g["id"]: g for g in candidats}
     eligibles = sorted((g for g in candidats if regles.eligible_top5(g) and classements[g["id"]]["pertinent"]),
@@ -187,6 +221,13 @@ def rediger_top5(candidats: list[dict], classements: dict, client, config: dict,
         donnees = {"candidats": [dict(fiche_evenement(g, 3), categorie=classements[g["id"]]["categorie"],
                                       importance=classements[g["id"]]["importance"]) for g in retenus]}
         autorises = {g["id"] for g in retenus}
+
+    # Thèmes de TEJM et notions du référentiel proposés pour « Pour tes copies »
+    themes = {th["id"]: th["libelle"] for th in config["themes_tejm"]}
+    proposees = notions_pertinentes([par_id[i] for i in autorises if i in par_id], concepts or [])
+    notions = {c["id"]: c for c in proposees}
+    donnees["themes_tejm"] = [{"id": i, "intitule": l} for i, l in themes.items()]
+    donnees["notions"] = [{"id": c["id"], "terme": c["terme"], "theme": c["theme"]} for c in proposees]
 
     def valider(r):
         top5 = r.get("top5")
@@ -230,11 +271,8 @@ def rediger_top5(candidats: list[dict], classements: dict, client, config: dict,
         if identifiant in anciens:  # info conservée : on garde ses textes d'origine
             top5.append(dict(anciens[identifiant], rang=len(top5) + 1))
             continue
-        groupe = par_id[identifiant]
-        t = textes[identifiant]
-        top5.append(dict(element(groupe, classements[identifiant]), rang=len(top5) + 1,
-                         faits=_texte(t.get("faits")), analyse=_texte(t.get("analyse")),
-                         pour_tes_copies=_texte(t.get("pour_tes_copies"), 300)))
+        top5.append(_rediger_info(par_id[identifiant], classements[identifiant], textes[identifiant],
+                                  notions, themes, rang=len(top5) + 1))
     # Si l'IA en a proposé moins de 5, on complète avec les suivants (sans texte rédigé)
     for groupe in eligibles:
         if len(top5) >= 5:
@@ -397,7 +435,8 @@ def construire_edition(groupes: list[dict], client, config: dict, fils: list[dic
                  len(nouveaux), len(groupes) - len(nouveaux))
 
     classements, mode_classement = classer(nouveaux, client, config, fils)
-    top5, essentiel, top5_modifie, mode_top5 = rediger_top5(nouveaux, classements, client, config, edition_existante)
+    top5, essentiel, top5_modifie, mode_top5 = rediger_top5(nouveaux, classements, client, config, edition_existante,
+                                                            concepts)
     ids_top5 = {t["id"] for t in top5}
     categories = par_categorie(nouveaux, classements, ids_top5, config["ia"]["articles_par_categorie"],
                                (edition_existante or {}).get("par_categorie"))

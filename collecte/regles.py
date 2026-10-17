@@ -87,3 +87,54 @@ def verifier_citation(citation: str, auteur: str, texte_source: str) -> str | No
     if len(nom_de_famille) < 2 or _sans_accents_minuscules(nom_de_famille) not in _sans_accents_minuscules(texte_source):
         return "l'auteur n'est pas nommé dans le texte source"
     return None
+
+
+# ---------------------------------------------------------------------------
+# Règle 3 : aucun chiffre absent des articles sources
+# ---------------------------------------------------------------------------
+
+# Un nombre isolé (« 21,4 », « 1 000 », « 70 % ») ; on ignore ceux collés à des lettres (CO2, G7, A320, 1er).
+MOTIF_NOMBRE = re.compile(r"(?<![\w])\d+(?:[   .,]\d+)*(?![\w])")
+
+
+def _empreintes_nombres(texte: str) -> set[str]:
+    """Chiffres d'un texte, réduits à leurs seuls caractères numériques (« 21,4 » et « 21.4 » → « 214 »)."""
+    return {re.sub(r"\D", "", n) for n in MOTIF_NOMBRE.findall(texte or "")}
+
+
+def chiffres_absents(texte: str, texte_source: str) -> set[str]:
+    """Nombres présents dans `texte` mais introuvables dans `texte_source`."""
+    return _empreintes_nombres(texte) - _empreintes_nombres(texte_source)
+
+
+# ---------------------------------------------------------------------------
+# Règle 4 : « Pour tes copies » rattaché à un thème de TEJM et à une notion du référentiel
+# ---------------------------------------------------------------------------
+
+USAGES = {"illustrer", "nuancer", "contredire"}
+
+
+def verifier_pour_tes_copies(brut, notions: dict[str, dict], themes: dict[str, str],
+                             texte_source: str) -> tuple[dict | None, str | None]:
+    """Contrôle la proposition de l'IA. Renvoie (objet publiable, None) ou (None, raison du rejet).
+
+    `notions` : {id: concept} autorisés ; `themes` : {id: libellé} des thèmes de TEJM.
+    """
+    if not isinstance(brut, dict):
+        return None, "format inattendu"
+    if brut.get("theme") not in themes:
+        return None, f"thème inconnu : {brut.get('theme')}"
+    if brut.get("notion_id") not in notions:
+        return None, f"notion absente du référentiel : {brut.get('notion_id')}"
+    if brut.get("usage") not in USAGES:
+        return None, f"usage invalide : {brut.get('usage')}"
+    texte = brut.get("texte")
+    if not isinstance(texte, str) or not texte.strip():
+        return None, "texte vide"
+    if re.search(r"[«»“”\"]", texte):
+        return None, "texte entre guillemets (risque d'intitulé de sujet inventé)"
+    if chiffres_absents(texte, texte_source):
+        return None, f"chiffres absents de l'article : {sorted(chiffres_absents(texte, texte_source))}"
+    notion = notions[brut["notion_id"]]
+    return {"theme": brut["theme"], "theme_libelle": themes[brut["theme"]], "notion_id": notion["id"],
+            "notion_terme": notion["terme"], "usage": brut["usage"], "texte": texte.strip()[:400]}, None

@@ -240,3 +240,11 @@ mots_cles_categories:
   ue: [union européenne, européen, européenne, bruxelles, commission, parlement européen, conseil européen, zone euro, ue, eu, european]
   entreprises: [entreprise, entreprises, groupe, rachat, fusion, acquisition, résultats, chiffre d'affaires, licenciement, usine, pdg, automobile, stellantis, renault, airbus, lvmh, totalenergies, company, merger, profits, ceo]
   epargne: [épargne, livret, assurance-vie, placement, patrimoine, immobilier, crédit immobilier, succession, donation, scpi, pea, per, retraite, savings, pension]
+
+# Les 5 thèmes du cours de TEJM, utilisés pour « Pour tes copies » (mêmes identifiants que les thèmes de concepts.json)
+themes_tejm:
+  - { id: croissance,               libelle: "Croissance, innovation et développement durable" }
+  - { id: mondialisation,           libelle: "Mondialisation" }
+  - { id: globalisation-financiere, libelle: "Globalisation financière" }
+  - { id: desequilibres,            libelle: "Déséquilibres : chômage, inflation, inégalités, dette" }
+  - { id: ue,                       libelle: "Union européenne" }

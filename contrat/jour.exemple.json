@@ -5,8 +5,22 @@
   "genere_le": "2026-10-19T10:31:00+02:00",
   "mode_ia": "ia",
   "passages": [
-    { "heure": "2026-10-19T06:12:00+02:00", "type": "matin", "mode_ia": "ia", "articles_collectes": 164, "nouvelles_infos": 141, "top5_modifie": false },
-    { "heure": "2026-10-19T10:31:00+02:00", "type": "fin-de-matinee", "mode_ia": "ia", "articles_collectes": 190, "nouvelles_infos": 22, "top5_modifie": false }
+    {
+      "heure": "2026-10-19T06:12:00+02:00",
+      "type": "matin",
+      "mode_ia": "ia",
+      "articles_collectes": 164,
+      "nouvelles_infos": 141,
+      "top5_modifie": false
+    },
+    {
+      "heure": "2026-10-19T10:31:00+02:00",
+      "type": "fin-de-matinee",
+      "mode_ia": "ia",
+      "articles_collectes": 190,
+      "nouvelles_infos": 22,
+      "top5_modifie": false
+    }
   ],
   "essentiel": [
     "Première phrase de synthèse de la journée (exemple fictif).",
@@ -25,7 +39,11 @@
       "categorie": "finance",
       "nb_sources": 5,
       "autres_sources": [
-        { "source": "Autre média", "titre": "Titre de l'autre article sur le même événement", "url": "https://exemple.fr/article-1b" }
+        {
+          "source": "Autre média",
+          "titre": "Titre de l'autre article sur le même événement",
+          "url": "https://exemple.fr/article-1b"
+        }
       ],
       "resume": "Une phrase de résumé.",
       "documente": true,
@@ -33,7 +51,14 @@
       "fil_rouge": "inflation-bce",
       "faits": "Une à deux phrases : ce qui s'est passé.",
       "analyse": "Une à deux phrases : mécanismes et enjeux.",
-      "pour_tes_copies": "Une phrase : quel thème de cours ou de dissertation cette info illustre."
+      "pour_tes_copies": {
+        "theme": "globalisation-financiere",
+        "theme_libelle": "Globalisation financière",
+        "notion_id": "politique-monetaire",
+        "notion_terme": "Politique monétaire",
+        "usage": "nuancer",
+        "texte": "Exemple qui nuance l'efficacité de la politique monétaire face à un choc d'offre, à placer dans un sujet sur les limites de l'action des banques centrales."
+      }
     }
   ],
   "par_categorie": {
@@ -91,5 +116,8 @@
     "article_id": "a1b2c3d4e5f6"
   },
   "citation_economiste_id": "keynes-1923-long-terme",
-  "ids_traites": ["a1b2c3d4e5f6", "f6e5d4c3b2a1"]
+  "ids_traites": [
+    "a1b2c3d4e5f6",
+    "f6e5d4c3b2a1"
+  ]
 }
