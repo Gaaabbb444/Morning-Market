@@ -33,5 +33,10 @@ tests/         tests automatiques (garde-fous)
 - Installer : `python -m venv .venv` puis `.venv\Scripts\python -m pip install -r requirements.txt`
 - Lancer une mise à jour : `.venv\Scripts\python -m collecte.principal` (options `--type matin|fin-de-matinee|manuel`, `--refaire` pour reconstruire l'édition du jour au lieu de la compléter)
 - Tests : `.venv\Scripts\python -m pytest -q`
+- Site : https://gaaabbb444.github.io/Morning-Market/ (GitHub Pages, source « GitHub Actions »).
+- Workflow `.github/workflows/mise-a-jour.yml` : 4:07 et 8:23 UTC + manuel ; commit des données par le bot, puis publication. Lancer : `gh workflow run mise-a-jour.yml` ; suivre : `gh run list --limit 3`. Toujours `git pull` avant de travailler (le bot commite `data/`).
+- Runner figé **temporairement** sur `ubuntu-24.04` (migration ubuntu-latest → Ubuntu 26 le 19/10/2026) : à mettre à jour avant le retrait annoncé de 24.04 (surveiller github.com/actions/runner-images et les avertissements des exécutions). Noté aussi dans le README.
+- Passage « matin » : reconstruit l'édition du jour si elle n'a été créée que par un lancement manuel ; les articles de l'édition précédente ne sont jamais republiés.
+- Les serveurs GitHub sont aux USA : vérifier toute nouvelle source depuis une exécution en ligne (ex. le Guardian redirigeait vers l'édition US).
 - `tmp/collecte-AAAA-MM-JJ.json` : articles regroupés du jour, avec chapôs → jamais commité.
 - Sous Windows, lancer Python avec `-X utf8` pour les scripts ponctuels (sinon erreurs d'accents dans la console).

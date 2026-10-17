@@ -48,11 +48,20 @@ def _ajouter_evenement(fil: dict, jour: str, resume: str, liens: list[dict]) -> 
 
 
 def mettre_a_jour(fichier_fils: dict, groupes: list[dict], classements: dict, client, config: dict,
-                  aujourd_hui: str) -> tuple[dict, str]:
-    """Renvoie (nouveau contenu de fils-rouges.json, mode)."""
-    if not client.disponible:
-        return fichier_fils, "sans-ia"
+                  aujourd_hui: str, reconstruire: bool = False) -> tuple[dict, str]:
+    """Renvoie (nouveau contenu de fils-rouges.json, mode).
+
+    `reconstruire` : l'édition du jour est refaite, donc les événements du jour aussi (ceux des jours
+    précédents ne sont jamais touchés).
+    """
     fils = [dict(f, evenements=[dict(e, liens=list(e["liens"])) for e in f["evenements"]]) for f in fichier_fils["fils"]]
+    if reconstruire:
+        fils = [f for f in fils if not (f.get("ouvert_par") == "ia" and f["ouvert_le"] == aujourd_hui)]
+        for fil in fils:
+            fil["evenements"] = [e for e in fil["evenements"] if e["date"] != aujourd_hui]
+    nettoye = dict(fichier_fils, fils=fils) if reconstruire else fichier_fils
+    if not client.disponible:
+        return nettoye, "sans-ia"
     actifs = {f["id"]: f for f in fils if f["statut"] == "actif"}
 
     candidats = sorted(
@@ -61,7 +70,7 @@ def mettre_a_jour(fichier_fils: dict, groupes: list[dict], classements: dict, cl
         key=lambda g: (classements[g["id"]]["fil_rouge"] is not None, classements[g["id"]]["importance"]), reverse=True,
     )[:NOMBRE_ACTUALITES_MAX]
     if not candidats:
-        return fichier_fils, "inchange"
+        return nettoye, "inchange"
     groupes_par_id = {g["id"]: g for g in candidats}
 
     donnees = {
@@ -83,7 +92,7 @@ def mettre_a_jour(fichier_fils: dict, groupes: list[dict], classements: dict, cl
     except BudgetEpuise:
         reponse = None
     if reponse is None:
-        return fichier_fils, "sans-ia"
+        return nettoye, "sans-ia"
 
     modifies = 0
     for maj in reponse["mises_a_jour"]:
@@ -136,14 +145,21 @@ def valider_fichier(donnees) -> str | None:
     return None
 
 
-def valider_sans_perte(ancien: dict):
-    """Fabrique un validateur qui refuse toute version ayant perdu des fils ou des événements."""
+def valider_sans_perte(ancien: dict, aujourd_hui: str | None = None):
+    """Fabrique un validateur qui refuse toute version ayant perdu des fils ou des événements passés.
+
+    Seuls les événements (et les fils ouverts par l'IA) du jour même peuvent être refaits.
+    """
+    def passes(fil):
+        return sum(1 for e in fil["evenements"] if e["date"] != aujourd_hui)
+
     def valider(nouveau):
         probleme = valider_fichier(nouveau)
         if probleme:
             return probleme
-        anciens = {f["id"]: len(f["evenements"]) for f in ancien.get("fils", [])}
-        nouveaux = {f["id"]: len(f["evenements"]) for f in nouveau["fils"]}
+        anciens = {f["id"]: passes(f) for f in ancien.get("fils", [])
+                   if not (f.get("ouvert_par") == "ia" and f.get("ouvert_le") == aujourd_hui)}
+        nouveaux = {f["id"]: passes(f) for f in nouveau["fils"]}
         for identifiant, nombre in anciens.items():
             if nouveaux.get(identifiant, -1) < nombre:
                 return f"le fil {identifiant} perdrait des événements"

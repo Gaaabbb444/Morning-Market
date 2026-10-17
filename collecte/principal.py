@@ -77,15 +77,31 @@ def executer(type_execution: str, refaire: bool = False) -> int:
     modes = {}
     if collecte_valide:
         fichier_jour = DOSSIER_DATA / "jours" / f"{aujourd_hui}.json"
-        edition_existante = None if refaire else stockage.lire_json(fichier_jour)
+        edition_existante = stockage.lire_json(fichier_jour)
+        # Le passage du matin refait l'édition si elle n'a été créée que par un lancement manuel
+        # (par exemple juste après minuit) : c'est lui qui fixe le vrai Top 5 de la journée.
+        passages_planifies = [p for p in (edition_existante or {}).get("passages", [])
+                              if p["type"] in ("matin", "fin-de-matinee")]
+        reconstruire = refaire or (type_execution == "matin" and edition_existante is not None and not passages_planifies)
+        if reconstruire:
+            journal.info("Reconstruction complète de l'édition du jour")
+            edition_existante = None
+
+        # Les articles déjà traités dans l'édition précédente ne sont jamais republiés.
+        dates_precedentes = [d for d in (stockage.lire_json(DOSSIER_DATA / "jours" / "index.json") or {}).get("dates", [])
+                             if d < aujourd_hui]
+        precedente = stockage.lire_json(DOSSIER_DATA / "jours" / f"{max(dates_precedentes)}.json") if dates_precedentes else None
+        ids_precedents = set((precedente or {}).get("ids_traites", []))
+
         fichier_fils = stockage.lire_json(DOSSIER_DATA / "fils-rouges.json")
         fils_actifs = [f for f in fichier_fils["fils"] if f["statut"] == "actif"]
         concepts = stockage.lire_json(DOSSIER_DATA / "concepts.json", {"concepts": []})["concepts"]
         citations = stockage.lire_json(DOSSIER_DATA / "citations.json", {"citations": []})["citations"]
 
         edition, classements, modes = construire_edition(groupes, client, config, fils_actifs, concepts, citations,
-                                                         edition_existante, aujourd_hui, type_execution)
-        if ecrire(f"jours/{aujourd_hui}.json", fichier_jour, edition, stockage.valider_edition):
+                                                         edition_existante, aujourd_hui, type_execution, ids_precedents)
+        edition_ecrite = ecrire(f"jours/{aujourd_hui}.json", fichier_jour, edition, stockage.valider_edition)
+        if edition_ecrite:
             derniere_edition = aujourd_hui
             index = stockage.lire_json(DOSSIER_DATA / "index-recherche.json")
             ecrire("index-recherche.json", DOSSIER_DATA / "index-recherche.json",
@@ -96,10 +112,10 @@ def executer(type_execution: str, refaire: bool = False) -> int:
 
         journal.info("— Fils rouges —")
         nouveaux_fils, modes["fils_rouges"] = fils_rouges.mettre_a_jour(fichier_fils, groupes, classements, client,
-                                                                        config, aujourd_hui)
+                                                                        config, aujourd_hui, reconstruire and edition_ecrite)
         if nouveaux_fils is not fichier_fils:
             ecrire("fils-rouges.json", DOSSIER_DATA / "fils-rouges.json", nouveaux_fils,
-                   fils_rouges.valider_sans_perte(fichier_fils))
+                   fils_rouges.valider_sans_perte(fichier_fils, aujourd_hui))
 
         journal.info("— Récapitulatifs —")
         ecritures.extend(memoire.rattraper_recaps(date.fromisoformat(aujourd_hui), client,

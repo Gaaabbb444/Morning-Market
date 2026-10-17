@@ -383,14 +383,18 @@ def choisir_citation_economiste(citations: list[dict], deja_vues: set[str], cate
 
 def construire_edition(groupes: list[dict], client, config: dict, fils: list[dict], concepts: list[dict],
                        citations: list[dict], edition_existante: dict | None, aujourd_hui: str,
-                       type_execution: str) -> tuple[dict, dict[str, dict], dict]:
+                       type_execution: str, ids_edition_precedente: set[str] | None = None
+                       ) -> tuple[dict, dict[str, dict], dict]:
     """Construit (ou complète) l'édition du jour.
 
+    `ids_edition_precedente` : articles déjà traités dans l'édition de la veille, jamais republiés.
     Renvoie (édition, classements des nouveaux groupes, modes par étape).
     """
     deja_traites = set((edition_existante or {}).get("ids_traites", []))
-    nouveaux = [g for g in groupes if not any(a["id"] in deja_traites for a in g["articles"])]
-    journal.info("%d événements à traiter (%d déjà traités ce matin)", len(nouveaux), len(groupes) - len(nouveaux))
+    deja_vus = deja_traites | (ids_edition_precedente or set())
+    nouveaux = [g for g in groupes if not any(a["id"] in deja_vus for a in g["articles"])]
+    journal.info("%d événements à traiter (%d déjà traités aujourd'hui ou dans l'édition précédente)",
+                 len(nouveaux), len(groupes) - len(nouveaux))
 
     classements, mode_classement = classer(nouveaux, client, config, fils)
     top5, essentiel, top5_modifie, mode_top5 = rediger_top5(nouveaux, classements, client, config, edition_existante)

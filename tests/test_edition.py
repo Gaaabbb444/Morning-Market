@@ -49,3 +49,18 @@ def test_reponse_ia_invalide_bascule_en_mode_degrade():
 
 def test_edition_trop_maigre_refusee():
     assert "articles publiables" in stockage.valider_edition({"date": "2026-10-19", "top5": [], "par_categorie": {}})
+
+
+def test_articles_de_l_edition_precedente_jamais_republies():
+    client = FauxClient(disponible=False)
+    veille, _, _ = edition.construire_edition(groupes_du_jour(), client, CONFIG, FILS, [], [], None, "2026-10-17", "matin")
+    nouveaux = [groupe_documente(f"neuf{i}", t) for i, t in enumerate([
+        "Le Japon publie ses chiffres du commerce extérieur", "La production industrielle allemande recule",
+        "Le prix du gaz européen repart à la hausse", "Les défaillances d'entreprises atteignent un record",
+        "La Fed laisse ses taux inchangés", "Le chômage recule en Espagne"])]
+
+    jour, _, _ = edition.construire_edition(groupes_du_jour() + nouveaux, client, CONFIG, FILS, [], [], None,
+                                            "2026-10-18", "matin", set(veille["ids_traites"]))
+
+    publies = {t["id"] for t in jour["top5"]} | {e["id"] for l in jour["par_categorie"].values() for e in l}
+    assert publies and publies <= {g["id"] for g in nouveaux}

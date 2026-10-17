@@ -29,3 +29,17 @@ def test_fils_rouges_ne_peuvent_pas_perdre_d_evenements():
     perte = {"fils": [{"id": "budget", "titre": "Budget", "statut": "actif", "evenements": []}]}
     assert "perdrait" in fils_rouges.valider_sans_perte(ancien)(perte)
     assert fils_rouges.valider_sans_perte(ancien)(ancien) is None
+
+
+def test_reconstruction_ne_refait_que_les_evenements_du_jour():
+    ancien = {"fils": [{"id": "budget", "titre": "Budget", "statut": "actif", "evenements": [
+        {"date": "2026-10-17", "resume": "hier", "liens": []}, {"date": "2026-10-18", "resume": "doublon", "liens": []}]}]}
+
+    class SansIA:
+        disponible = False
+
+    nettoye, _ = fils_rouges.mettre_a_jour(ancien, [], {}, SansIA(), {}, "2026-10-18", reconstruire=True)
+    assert [e["date"] for e in nettoye["fils"][0]["evenements"]] == ["2026-10-17"]
+    assert fils_rouges.valider_sans_perte(ancien, "2026-10-18")(nettoye) is None   # le doublon du jour peut partir
+    sans_hier = {"fils": [dict(ancien["fils"][0], evenements=[])]}
+    assert "perdrait" in fils_rouges.valider_sans_perte(ancien, "2026-10-18")(sans_hier)  # le passé, jamais
