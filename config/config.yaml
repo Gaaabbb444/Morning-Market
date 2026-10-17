@@ -1,5 +1,5 @@
 # Réglages généraux de Morning-Market.
-# Les sources, les indicateurs et les modèles d'IA seront ajoutés aux phases 2 et 3.
+# Les modèles d'IA seront ajoutés à la phase 3.
 
 projet:
   nom: "Morning-Market"
@@ -23,3 +23,169 @@ categories:
     libelle: "Entreprises et secteurs"
   - id: epargne
     libelle: "Épargne et patrimoine"
+
+# ---------------------------------------------------------------------------
+# Collecte des articles
+# ---------------------------------------------------------------------------
+collecte:
+  fenetre_heures: 30          # on garde les articles publiés depuis moins de 30 h
+  delai_reseau_secondes: 20   # temps d'attente maximal pour chaque flux
+  minimum_articles: 30        # en dessous, la collecte est jugée en échec (données précédentes conservées)
+  longueur_min_titre: 15      # les titres plus courts (vides, « Tir groupé »…) ne sont pas informatifs
+
+# Flux testés le 17/10/2026. « type » : presse, institution, international ou agregateur.
+# « agregateur » = flux Google News limité à un site : titre seul, pas de chapô.
+# « categorie_probable » aide le classement quand l'IA est indisponible.
+sources:
+  - { id: lemonde-eco,      nom: "Le Monde",              type: presse,        url: "https://www.lemonde.fr/economie/rss_full.xml" }
+  - { id: lemonde-argent,   nom: "Le Monde",              type: presse,        url: "https://www.lemonde.fr/argent/rss_full.xml", categorie_probable: epargne }
+  - { id: figaro-eco,       nom: "Le Figaro",             type: presse,        url: "https://www.lefigaro.fr/rss/figaro_economie.xml" }
+  - { id: figaro-placement, nom: "Le Figaro",             type: presse,        url: "https://www.lefigaro.fr/rss/figaro_placement.xml", categorie_probable: epargne }
+  - { id: franceinfo-eco,   nom: "franceinfo",            type: presse,        url: "https://www.francetvinfo.fr/economie.rss" }
+  # Les Echos : flux natifs bloqués (erreur 403). « www. » écarte les annonces légales et les fiches Investir.
+  - { id: lesechos,         nom: "Les Echos",             type: agregateur,    url: "https://news.google.com/rss/search?q=site:www.lesechos.fr+when:1d&hl=fr&gl=FR&ceid=FR:fr" }
+  - { id: latribune,        nom: "La Tribune",            type: presse,        url: "https://www.latribune.fr/feed.xml" }
+  # BFM : on écarte les rediffusions d'émissions TV, qui forment la moitié du flux.
+  - { id: bfm-business,     nom: "BFM Business",          type: presse,        url: "https://www.bfmtv.com/rss/economie/", exclure_si_lien_contient: ["/replay-emissions/"] }
+  - { id: capital,          nom: "Capital",               type: presse,        url: "https://feed.prismamediadigital.com/v1/cap/rss?sources=capital", categorie_probable: epargne }
+  - { id: alternatives-eco, nom: "Alternatives Économiques", type: presse,      url: "https://www.alternatives-economiques.fr/rss.xml" }
+  - { id: lopinion,         nom: "L'Opinion",             type: presse,        url: "https://www.lopinion.fr/index.rss" }
+  - { id: toute-l-europe,   nom: "Toute l'Europe",        type: presse,        url: "https://www.touteleurope.eu/feed/", categorie_probable: ue }
+  - { id: bce,              nom: "BCE",                   type: institution,   url: "https://www.ecb.europa.eu/rss/press.html", categorie_probable: finance }
+  - { id: insee,            nom: "INSEE",                 type: institution,   url: "https://www.insee.fr/fr/flux/3" }
+  - { id: economie-gouv,    nom: "Ministère de l'Économie", type: institution, url: "https://www.economie.gouv.fr/rss/toutesactualites" }
+  - { id: bbc-business,     nom: "BBC",                   type: international, url: "https://feeds.bbci.co.uk/news/business/rss.xml" }
+  - { id: guardian-business, nom: "The Guardian",         type: international, url: "https://www.theguardian.com/business/rss" }
+
+# ---------------------------------------------------------------------------
+# Indicateurs chiffrés (identifiants vérifiés le 17/10/2026)
+# fournisseur : bce, eurostat ou marche (Yahoo Finance via yfinance, puis accès direct en secours)
+# variation : « pourcent » (évolution en %) ou « points » (écart de points de %)
+# ---------------------------------------------------------------------------
+indicateurs:
+  - id: cac40
+    libelle: "CAC 40"
+    unite: "pts"
+    decimales: 0
+    frequence: quotidienne
+    variation: pourcent
+    fournisseur: marche
+    symbole: "^FCHI"
+    source: "Euronext (via Yahoo Finance)"
+    source_url: "https://fr.finance.yahoo.com/quote/%5EFCHI/"
+  - id: eurostoxx50
+    libelle: "Euro Stoxx 50"
+    unite: "pts"
+    decimales: 0
+    frequence: quotidienne
+    variation: pourcent
+    fournisseur: marche
+    symbole: "^STOXX50E"
+    source: "STOXX (via Yahoo Finance)"
+    source_url: "https://fr.finance.yahoo.com/quote/%5ESTOXX50E/"
+  - id: sp500
+    libelle: "S&P 500"
+    unite: "pts"
+    decimales: 0
+    frequence: quotidienne
+    variation: pourcent
+    fournisseur: marche
+    symbole: "^GSPC"
+    source: "S&P (via Yahoo Finance)"
+    source_url: "https://fr.finance.yahoo.com/quote/%5EGSPC/"
+  - id: brent
+    libelle: "Pétrole Brent"
+    unite: "$/baril"
+    decimales: 2
+    frequence: quotidienne
+    variation: pourcent
+    fournisseur: marche
+    symbole: "BZ=F"
+    source: "ICE (via Yahoo Finance)"
+    source_url: "https://fr.finance.yahoo.com/quote/BZ%3DF/"
+  - id: or
+    libelle: "Or"
+    unite: "$/once"
+    decimales: 0
+    frequence: quotidienne
+    variation: pourcent
+    fournisseur: marche
+    symbole: "GC=F"
+    source: "COMEX (via Yahoo Finance)"
+    source_url: "https://fr.finance.yahoo.com/quote/GC%3DF/"
+  - id: eur-usd
+    libelle: "EUR/USD"
+    unite: "$"
+    decimales: 4
+    frequence: quotidienne
+    variation: pourcent
+    fournisseur: bce
+    serie: "EXR/D.USD.EUR.SP00.A"
+    source: "BCE (taux de référence)"
+    source_url: "https://data.ecb.europa.eu/data/datasets/EXR/EXR.D.USD.EUR.SP00.A"
+  - id: taux-depot-bce
+    libelle: "Taux de dépôt de la BCE"
+    unite: "%"
+    decimales: 2
+    frequence: quotidienne
+    variation: points
+    fournisseur: bce
+    serie: "FM/D.U2.EUR.4F.KR.DFR.LEV"
+    source: "BCE"
+    source_url: "https://data.ecb.europa.eu/data/datasets/FM/FM.D.U2.EUR.4F.KR.DFR.LEV"
+  - id: taux-10-ans-france
+    libelle: "Taux à 10 ans de la France"
+    unite: "%"
+    decimales: 2
+    frequence: mensuelle
+    variation: points
+    fournisseur: bce
+    serie: "IRS/M.FR.L.L40.CI.0000.EUR.N.Z"
+    source: "BCE (moyenne mensuelle)"
+    source_url: "https://data.ecb.europa.eu/data/datasets/IRS/IRS.M.FR.L.L40.CI.0000.EUR.N.Z"
+  # Inflation : depuis 2026, la nomenclature des prix a changé (ECOICOP 2) et l'ancienne
+  # série de la BCE (ICP…ANR) s'arrête en décembre 2025. On utilise donc Eurostat.
+  - id: inflation-zone-euro
+    libelle: "Inflation zone euro (IPCH, sur un an)"
+    unite: "%"
+    decimales: 1
+    frequence: mensuelle
+    variation: points
+    fournisseur: eurostat
+    jeu_de_donnees: "prc_hicp_minr"
+    filtres: { geo: "EA", unit: "RCH_A", coicop18: "TOTAL" }
+    source: "Eurostat"
+    source_url: "https://ec.europa.eu/eurostat/databrowser/view/prc_hicp_minr/default/table"
+  - id: inflation-france
+    libelle: "Inflation France (IPCH, sur un an)"
+    unite: "%"
+    decimales: 1
+    frequence: mensuelle
+    variation: points
+    fournisseur: eurostat
+    jeu_de_donnees: "prc_hicp_minr"
+    filtres: { geo: "FR", unit: "RCH_A", coicop18: "TOTAL" }
+    source: "Eurostat"
+    source_url: "https://ec.europa.eu/eurostat/databrowser/view/prc_hicp_minr/default/table"
+  - id: chomage-france
+    libelle: "Chômage France (BIT)"
+    unite: "%"
+    decimales: 1
+    frequence: mensuelle
+    variation: points
+    fournisseur: eurostat
+    jeu_de_donnees: "une_rt_m"
+    filtres: { geo: "FR", s_adj: "SA", age: "TOTAL", sex: "T", unit: "PC_ACT" }
+    source: "Eurostat"
+    source_url: "https://ec.europa.eu/eurostat/databrowser/view/une_rt_m/default/table"
+  - id: pib-france
+    libelle: "Croissance du PIB France (trimestre)"
+    unite: "%"
+    decimales: 1
+    frequence: trimestrielle
+    variation: points
+    fournisseur: eurostat
+    jeu_de_donnees: "namq_10_gdp"
+    filtres: { geo: "FR", s_adj: "SCA", na_item: "B1GQ", unit: "CLV_PCH_PRE" }
+    source: "Eurostat"
+    source_url: "https://ec.europa.eu/eurostat/databrowser/view/namq_10_gdp/default/table"

@@ -9,10 +9,11 @@
       "unite": "$",
       "decimales": 4,
       "frequence": "quotidienne",
+      "points_courbe": 30,
       "source": "BCE",
       "source_url": "https://data.ecb.europa.eu/",
       "derniere_valeur": { "periode": "2026-10-16", "valeur": 1.0000 },
-      "variation": { "valeur": -0.0021, "type": "absolue", "periode_reference": "2026-10-15" },
+      "variation": { "valeur": -0.0021, "type": "pourcent", "periode_reference": "2026-10-15" },
       "historique": [
         ["2026-10-15", 1.0021],
         ["2026-10-16", 1.0000]
@@ -26,6 +27,7 @@
       "unite": "%",
       "decimales": 1,
       "frequence": "mensuelle",
+      "points_courbe": 12,
       "source": "BCE / Eurostat",
       "source_url": "https://data.ecb.europa.eu/",
       "derniere_valeur": { "periode": "2026-09", "valeur": 0.0 },

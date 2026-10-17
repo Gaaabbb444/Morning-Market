@@ -13,8 +13,8 @@
     { "id": "lesechos", "nom": "Les Echos", "etat": "erreur", "articles": 0, "message": "Délai dépassé", "dernier_succes": "2026-10-18T10:25:00+02:00" }
   ],
   "indicateurs": [
-    { "id": "cac40", "etat": "ok", "source_utilisee": "principale", "dernier_succes": "2026-10-19T06:09:00+02:00" },
-    { "id": "brent", "etat": "derniere-valeur", "source_utilisee": "aucune", "dernier_succes": "2026-10-18T06:09:00+02:00" }
+    { "id": "cac40", "etat": "ok", "source_utilisee": "principale", "message": null, "dernier_succes": "2026-10-19T06:09:00+02:00" },
+    { "id": "brent", "etat": "derniere-valeur", "source_utilisee": "aucune", "message": "Délai dépassé", "dernier_succes": "2026-10-18T06:09:00+02:00" }
   ],
   "ia": {
     "fournisseur_utilise": "github-models",

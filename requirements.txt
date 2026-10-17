@@ -1,0 +1,8 @@
+# Bibliothèques Python du projet (versions figées pour que tout se comporte pareil partout)
+feedparser==6.0.14   # lecture des flux RSS
+requests==2.34.2     # téléchargements (API BCE, Eurostat…)
+rapidfuzz==3.14.6    # comparaison de titres pour le dédoublonnage
+PyYAML==6.0.3        # lecture de config/config.yaml
+yfinance==1.7.0      # cours de marché (source non officielle, avec secours)
+tzdata==2026.5       # fuseaux horaires (heure de Paris), indispensable sous Windows
+pytest==9.1.1        # tests automatiques

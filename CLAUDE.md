@@ -25,5 +25,9 @@ tests/         tests automatiques (garde-fous)
 ```
 
 ## Commandes utiles
-(complétées au fil des phases)
 - Dépôt GitHub : `Gaaabbb444/Morning-Market` (le dossier local s'appelle `Morning-dashboard`).
+- Installer : `python -m venv .venv` puis `.venv\Scripts\python -m pip install -r requirements.txt`
+- Lancer une mise à jour : `.venv\Scripts\python -m collecte.principal` (option `--type matin|fin-de-matinee|manuel`)
+- Tests : `.venv\Scripts\python -m pytest -q`
+- `tmp/collecte-AAAA-MM-JJ.json` : articles regroupés du jour, avec chapôs → jamais commité.
+- Sous Windows, lancer Python avec `-X utf8` pour les scripts ponctuels (sinon erreurs d'accents dans la console).
