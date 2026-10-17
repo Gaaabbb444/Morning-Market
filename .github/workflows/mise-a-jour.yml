@@ -1,0 +1,118 @@
+# Mise à jour automatique de Morning-Market, puis publication du site sur GitHub Pages.
+#
+# Déclenchements :
+# - deux fois par jour (heures en UTC, volontairement à des minutes « non rondes ») :
+#     7 4 * * *   ≈ 5 h 07 à Paris l'hiver, 6 h 07 l'été  → passage du matin
+#     23 8 * * *  ≈ 9 h 23 à Paris l'hiver, 10 h 23 l'été → passage de fin de matinée
+# - à la main, depuis l'onglet Actions de GitHub (bouton « Run workflow ») ou avec
+#   `gh workflow run mise-a-jour.yml` ;
+# - à chaque modification du site (dossier site/) : publication seule, sans nouvelle collecte.
+
+name: Mise à jour et publication
+
+on:
+  schedule:
+    - cron: "7 4 * * *"
+    - cron: "23 8 * * *"
+  workflow_dispatch:
+    inputs:
+      refaire:
+        description: "Reconstruire l'édition du jour depuis zéro"
+        type: boolean
+        default: false
+  push:
+    branches: [main]
+    paths: ["site/**", ".github/workflows/mise-a-jour.yml"]
+
+# Une seule exécution à la fois : deux mises à jour ne peuvent jamais écrire en même temps.
+concurrency:
+  group: mise-a-jour
+  cancel-in-progress: false
+
+jobs:
+  mise-a-jour:
+    if: github.event_name != 'push'
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    permissions:
+      contents: write   # pour enregistrer les nouvelles données dans le dépôt
+      actions: write    # pour le garde-fou anti-mise en veille (voir plus bas)
+    steps:
+      - uses: actions/checkout@v7
+
+      - uses: actions/setup-python@v7
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Installer les bibliothèques
+        run: pip install -r requirements.txt
+
+      - name: Collecte, indicateurs, IA et mémoire
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+          TZ: Europe/Paris
+        run: |
+          case "${{ github.event.schedule }}" in
+            "7 4 * * *")  TYPE=matin ;;
+            "23 8 * * *") TYPE=fin-de-matinee ;;
+            *)            TYPE=manuel ;;
+          esac
+          OPTIONS=""
+          if [ "${{ inputs.refaire }}" = "true" ]; then OPTIONS="--refaire"; fi
+          python -m collecte.principal --type "$TYPE" $OPTIONS
+
+      # Même si l'étape précédente a échoué, on enregistre ce qui a été validé (dont statut.json).
+      - name: Enregistrer les nouvelles données
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/
+          if git diff --cached --quiet; then
+            echo "Aucune donnée nouvelle."
+          else
+            git commit -m "Données du $(TZ=Europe/Paris date '+%d/%m/%Y %H:%M')"
+            git pull --rebase origin main
+            git push
+          fi
+
+      # Garde-fou : GitHub met en veille les tâches planifiées d'un dépôt public après 60 jours
+      # sans activité. Réactiver explicitement le workflow remet ce compteur à zéro.
+      - name: Garde-fou anti-mise en veille
+        if: always()
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh api -X PUT "repos/${{ github.repository }}/actions/workflows/mise-a-jour.yml/enable" || true
+
+  publication:
+    needs: mise-a-jour
+    # Publie après une mise à jour (même partielle) ou après une modification du site.
+    if: ${{ !cancelled() }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deploiement.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          ref: main   # la version qui contient les données qui viennent d'être enregistrées
+
+      - name: Assembler le site (pages + données)
+        run: |
+          mkdir -p _site
+          cp -r site/. _site/
+          cp -r data _site/data
+          touch _site/.nojekyll
+
+      - uses: actions/upload-pages-artifact@v5
+        with:
+          path: _site
+
+      - id: deploiement
+        uses: actions/deploy-pages@v5

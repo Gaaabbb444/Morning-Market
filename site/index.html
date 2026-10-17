@@ -1,0 +1,89 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="robots" content="noindex">
+  <title>Morning-Market</title>
+  <!-- Page provisoire (phase 4) : elle sera remplacée par le vrai design en phase 5. -->
+  <style>
+    :root { color-scheme: light dark; --fond: #f5f5f4; --texte: #1c1917; --doux: #57534e; --carte: #ffffff; --bord: #e7e5e4; }
+    @media (prefers-color-scheme: dark) {
+      :root { --fond: #0c0a09; --texte: #f5f5f4; --doux: #a8a29e; --carte: #1c1917; --bord: #292524; }
+    }
+    body { margin: 0; background: var(--fond); color: var(--texte); font: 16px/1.55 system-ui, -apple-system, "Segoe UI", sans-serif; }
+    main { max-width: 760px; margin: 0 auto; padding: 32px 16px 64px; }
+    h1 { margin: 0; font-size: 1.6rem; }
+    .doux { color: var(--doux); font-size: .9rem; }
+    .carte { background: var(--carte); border: 1px solid var(--bord); border-radius: 16px; padding: 20px; margin-top: 20px; }
+    h2 { font-size: 1rem; margin: 0 0 12px; }
+    ol, ul { margin: 0; padding-left: 1.2rem; }
+    li { margin-bottom: 10px; }
+    a { color: inherit; }
+  </style>
+</head>
+<body>
+  <main>
+    <h1>Morning-Market</h1>
+    <p class="doux">Site en construction : la version complète arrive bientôt. La collecte quotidienne, elle, tourne déjà.</p>
+    <p id="maj" class="doux">Chargement…</p>
+
+    <section class="carte" id="bloc-essentiel" hidden>
+      <h2>L'essentiel</h2>
+      <ul id="essentiel"></ul>
+    </section>
+
+    <section class="carte" id="bloc-top5" hidden>
+      <h2>Top 5 du jour</h2>
+      <ol id="top5"></ol>
+    </section>
+
+    <p id="memoire" class="doux"></p>
+  </main>
+
+  <script type="module">
+    // Lit les fichiers JSON produits par la collecte (voir contrat/) et remplit la page.
+    const charger = (chemin) => fetch(chemin, { cache: "no-cache" }).then((r) => (r.ok ? r.json() : null)).catch(() => null);
+    const element = (balise, texte) => Object.assign(document.createElement(balise), { textContent: texte });
+
+    const statut = await charger("data/statut.json");
+    const zoneMaj = document.getElementById("maj");
+    if (!statut) {
+      zoneMaj.textContent = "Données momentanément indisponibles.";
+    } else {
+      const fin = new Date(statut.derniere_execution.fin);
+      zoneMaj.textContent = "Dernière mise à jour : " + fin.toLocaleString("fr-FR", { dateStyle: "full", timeStyle: "short" });
+
+      const edition = statut.derniere_edition ? await charger(`data/jours/${statut.derniere_edition}.json`) : null;
+      if (edition) {
+        const aujourdHui = new Date().toLocaleDateString("sv-SE", { timeZone: "Europe/Paris" });
+        if (edition.date !== aujourdHui) {
+          const [a, m, j] = edition.date.split("-");
+          zoneMaj.textContent += ` — données du ${j}/${m}`;
+        }
+        if (edition.essentiel) {
+          edition.essentiel.forEach((phrase) => document.getElementById("essentiel").append(element("li", phrase)));
+          document.getElementById("bloc-essentiel").hidden = false;
+        }
+        edition.top5.forEach((info) => {
+          const ligne = document.createElement("li");
+          const lien = element("a", info.titre_fr || info.titre);
+          lien.href = info.url;
+          lien.target = "_blank";
+          lien.rel = "noopener";
+          ligne.append(lien, element("div", `${info.source}${info.nb_sources > 1 ? ` · ${info.nb_sources} sources` : ""}`));
+          ligne.lastChild.className = "doux";
+          document.getElementById("top5").append(ligne);
+        });
+        document.getElementById("bloc-top5").hidden = false;
+      }
+    }
+
+    const liste = await charger("data/jours/index.json");
+    if (liste) {
+      const n = liste.dates.length;
+      document.getElementById("memoire").textContent = `Mémoire de l'année : ${n} édition${n > 1 ? "s" : ""} archivée${n > 1 ? "s" : ""}.`;
+    }
+  </script>
+</body>
+</html>
