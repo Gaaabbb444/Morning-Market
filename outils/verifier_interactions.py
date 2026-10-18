@@ -189,6 +189,81 @@ def main() -> int:
         verifier("Lot 3 : aucune erreur dans la console", not erreurs, erreurs[:3])
         contexte.close()
 
+        # 4 bis. Lot 4 : glossaire, archives, éditions archivées, rétrospective
+        contexte, page, erreurs = nouvelle_page(navigateur)
+        jeu_retro = apercu.JEUX / "retrospective" / "recaps"
+        # Rétrospective : récap de test (bâti sur les vrais Top 5) ; calendrier : un jour de septembre sans fichier
+        page.route("**/data/recaps/**", lambda route: route.fulfill(path=str(jeu_retro / route.request.url.split("/recaps/")[1].split("?")[0])))
+        page.route("**/data/jours/index.json", lambda route: route.fulfill(content_type="application/json",
+                   body='{"version_schema": 1, "dates": ["2026-10-18", "2026-10-17", "2026-09-30"]}'))
+        page.goto(ADRESSE + "#/glossaire"); page.wait_for_timeout(1200)
+        fiche = lambda: page.inner_text("#titre-concept")
+        verifier("Glossaire : fiche du concept du jour par défaut", "Inflation par la demande" in fiche())
+        visible = page.evaluate("""() => { const l = document.getElementById('liste-concepts'), a = l.querySelector('[aria-current]');
+          const bl = l.getBoundingClientRect(), ba = a.getBoundingClientRect(); return ba.top >= bl.top && ba.bottom <= bl.bottom; }""")
+        verifier("Glossaire : le concept choisi est visible dans la liste", visible)
+        page.fill("#recherche-concept", "phillips"); page.wait_for_timeout(300)
+        verifier("Glossaire : recherche dans la liste", page.locator("#liste-concepts a").count() == 1 and page.inner_text("#compte-concepts") == "1 concept")
+        page.locator("#liste-concepts a").first.click(); page.wait_for_timeout(500)
+        verifier("Glossaire : clic → fiche sur place", fiche() == "Courbe de Phillips" and page.url.endswith("#/glossaire/courbe-de-phillips")
+                 and page.locator("h1").inner_text() == "Glossaire")
+        page.fill("#recherche-concept", ""); page.click('[data-action="filtrer-theme"][data-theme="ue"]'); page.wait_for_timeout(300)
+        n_ue = page.locator("#liste-concepts a").count()
+        verifier("Glossaire : filtre par thème", 0 < n_ue < 122 and page.get_attribute('[data-theme="ue"]', "aria-pressed") == "true", f"{n_ue} concepts")
+        page.click('[data-action="filtrer-theme"][data-theme="tous"]')
+        page.goto(ADRESSE + "#/glossaire/inflation-par-la-demande-et-par-les-couts"); page.wait_for_timeout(800)
+        if page.locator('[data-action="ouvrir-usage"]').count():
+            page.locator('[data-action="ouvrir-usage"]').first.click(); page.wait_for_timeout(700)
+            verifier("Glossaire : « Ouvrir » un usage → modale de l'info", page.locator('[role="dialog"]').is_visible())
+            page.keyboard.press("Escape"); page.wait_for_timeout(400)
+        page.goto(ADRESSE + "#/"); page.wait_for_timeout(1200)
+        page.click('a:has-text("Ouvrir la fiche")'); page.wait_for_timeout(800)
+        verifier("Accueil : carte concept → fiche du glossaire", page.locator("#titre-concept").count() == 1)
+        page.goto(ADRESSE + "#/"); page.wait_for_timeout(1200)
+        page.locator("#liste-top5 [data-k]").first.click(); page.wait_for_timeout(700)
+        notion = page.locator('[role="dialog"] a[href^="#/glossaire/"]')
+        if notion.count():
+            terme = notion.first.inner_text(); notion.first.click(); page.wait_for_timeout(900)
+            verifier("Modale : la notion mène à sa fiche", page.locator('[role="dialog"]').count() == 0 and fiche() == terme, terme)
+        page.goto(ADRESSE + "#/"); page.wait_for_timeout(1200)
+        page.click('[data-action="rechercher"]'); page.fill("[data-champ]", "phillips"); page.wait_for_timeout(600)
+        verifier("Recherche : groupe « Glossaire »", "Glossaire" in page.inner_text('[aria-label="Recherche"]'))
+        page.locator('[data-resultat="aller"][data-adresse^="#/glossaire/"]').first.click(); page.wait_for_timeout(900)
+        verifier("Recherche : concept → fiche", fiche() == "Courbe de Phillips")
+
+        page.click('#navigation a[href="#/archives"]'); page.wait_for_timeout(900)
+        verifier("Archives : calendrier du mois", "Octobre 2026" in page.inner_text("#panneau-archives")
+                 and page.locator('#panneau-archives a[href="#/edition/2026-10-17"]').count() == 1)
+        page.click('a[aria-label="Mois précédent"]'); page.wait_for_timeout(500)
+        verifier("Archives : mois précédent sur place", "Septembre 2026" in page.inner_text("#panneau-archives"))
+        page.click('#panneau-archives a[href="#/edition/2026-09-30"]'); page.wait_for_timeout(900)
+        verifier("Édition introuvable : message", "introuvable" in page.inner_text("#contenu"))
+        erreurs.clear()  # le fichier du 30/09 manque exprès : son erreur 404 est attendue
+        page.goto(ADRESSE + "#/archives"); page.wait_for_timeout(900)
+        page.click('#panneau-archives a[href="#/edition/2026-10-17"]'); page.wait_for_timeout(1200)
+        texte = page.inner_text("#contenu")
+        verifier("Édition archivée : bandeau et Top 5 du 17", "tu consultes une archive" in texte and "Top 5 du 17 octobre" in texte
+                 and page.locator("#liste-top5 [data-k]").count() == 5)
+        verifier("Édition archivée : repère sur « Archives »", page.get_attribute('#navigation a[href="#/archives"]', "aria-current") == "page")
+        page.locator("#liste-top5 [data-k]").first.click(); page.wait_for_timeout(700)
+        verifier("Édition archivée : l'info du 17 s'ouvre", "Trump" in page.inner_text('[role="dialog"]'))
+        page.keyboard.press("Escape"); page.wait_for_timeout(400)
+        page.click('#pastilles [data-categorie="desequilibres"]'); page.wait_for_timeout(700)
+        verifier("Édition archivée : filtre des catégories", page.locator("#liste-top5 [data-k]").count() == 3)
+        page.click('a:has-text("Revenir à aujourd\'hui")'); page.wait_for_timeout(1200)
+        verifier("« Revenir à aujourd'hui » → édition du jour", "Top 5 du jour" in page.inner_text("#entete-top5")
+                 and "tu consultes une archive" not in page.inner_text("#contenu"))
+        page.click('a:has-text("Lire le récap")'); page.wait_for_timeout(1000)
+        verifier("Accueil : carte récap → rétrospective", "L'année 2026 en 10 événements" in page.inner_text("#panneau-archives"))
+        page.click('[data-action="filtrer-retro"][data-categorie="desequilibres"]'); page.wait_for_timeout(400)
+        verifier("Rétrospective : filtre par catégorie", "en 5 événements" in page.inner_text("#panneau-archives")
+                 and page.get_attribute('[data-categorie="desequilibres"][data-action="filtrer-retro"]', "aria-pressed") == "true")
+        page.click('[data-onglet-archives="calendrier"]'); page.wait_for_timeout(500)
+        verifier("Onglet « Calendrier » sur place", page.get_attribute('[data-onglet-archives="calendrier"]', "aria-selected") == "true"
+                 and "Octobre 2026" in page.inner_text("#panneau-archives"))
+        verifier("Lot 4 : aucune erreur dans la console", not erreurs, erreurs[:3])
+        contexte.close()
+
         # 5. Mémoire du navigateur bloquée (navigation privée stricte) : le site doit s'afficher quand même
         contexte, page, erreurs = nouvelle_page(navigateur)
         page.add_init_script("Object.defineProperty(window, 'localStorage', { get() { throw new Error('bloqué'); } });")
@@ -226,7 +301,7 @@ def main() -> int:
         boite = page.locator('[role="dialog"]').bounding_box()
         verifier("Téléphone : la modale tient dans l'écran", boite and boite["x"] >= 0 and boite["x"] + boite["width"] <= 390, boite)
         page.screenshot(path=str(apercu.RACINE / "tmp" / "captures" / "telephone-modale.png"))
-        for vue in ("marches", "fils/budget-2027"):
+        for vue in ("marches", "fils/budget-2027", "glossaire", "archives", "edition/2026-10-17"):
             page.keyboard.press("Escape"); page.goto(ADRESSE + f"#/{vue}"); page.wait_for_timeout(1200)
             largeur = page.evaluate("document.getElementById('contenu').scrollWidth")
             verifier(f"Téléphone : {vue} sans débordement", largeur <= 390 - 32 + 1, f"{largeur} px")

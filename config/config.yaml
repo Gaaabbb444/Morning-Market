@@ -317,10 +317,11 @@ mots_cles_categories:
   entreprises: [entreprise, entreprises, groupe, rachat, fusion, acquisition, résultats, chiffre d'affaires, licenciement, usine, pdg, automobile, stellantis, renault, airbus, lvmh, totalenergies, company, merger, profits, ceo]
   epargne: [épargne, livret, assurance-vie, placement, patrimoine, immobilier, crédit immobilier, succession, donation, scpi, pea, per, retraite, savings, pension]
 
-# Les 5 thèmes du cours de TEJM, utilisés pour « Pour tes copies » (mêmes identifiants que les thèmes de concepts.json)
+# Les 5 thèmes du cours de TEJM, utilisés pour « Pour tes copies » (mêmes identifiants que les thèmes de concepts.json).
+# Le glossaire y ajoute le thème « marches » (Marchés et épargne).
 themes_tejm:
-  - { id: croissance,               libelle: "Croissance, innovation et développement durable" }
-  - { id: mondialisation,           libelle: "Mondialisation" }
-  - { id: globalisation-financiere, libelle: "Globalisation financière" }
-  - { id: desequilibres,            libelle: "Déséquilibres : chômage, inflation, inégalités, dette" }
-  - { id: ue,                       libelle: "Union européenne" }
+  - { id: croissance,               libelle: "Croissance, innovation et développement durable", libelle_court: "Croissance" }
+  - { id: mondialisation,           libelle: "Mondialisation", libelle_court: "Mondialisation" }
+  - { id: globalisation-financiere, libelle: "Globalisation financière", libelle_court: "Globalisation financière" }
+  - { id: desequilibres,            libelle: "Déséquilibres : chômage, inflation, inégalités, dette", libelle_court: "Déséquilibres" }
+  - { id: ue,                       libelle: "Union européenne", libelle_court: "Union européenne" }

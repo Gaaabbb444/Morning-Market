@@ -6,10 +6,18 @@
       "id": "identifiant-du-concept",
       "terme": "Nom du concept",
       "theme": "desequilibres",
-      "categories": ["desequilibres", "finance"],
+      "categories": [
+        "desequilibres",
+        "finance"
+      ],
       "definition": "Définition rigoureuse, niveau licence.",
-      "auteurs_associes": ["Auteur (œuvre, année)"],
-      "mots_cles": ["mot-clé servant à relier le concept à l'actualité"],
+      "dans_une_copie": "Une à deux phrases : à quoi sert la notion dans un raisonnement et dans quel type de sujet la placer.",
+      "auteurs_associes": [
+        "Auteur (œuvre, année)"
+      ],
+      "mots_cles": [
+        "mot-clé servant à relier le concept à l'actualité"
+      ],
       "relu": false
     }
   ]

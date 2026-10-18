@@ -21,7 +21,10 @@ def produire(config: dict) -> dict:
             # Seuls les prix de marché sont colorés en vert ou rouge (les variations en %)
             "prix_de_marche": i["variation"] == "pourcent",
         })
-    return {"version_schema": 1, "categories": categories, "themes_tejm": config["themes_tejm"],
+    # Thèmes du glossaire : les 5 thèmes de TEJM + les notions de marchés et d'épargne
+    themes_glossaire = [{"id": th["id"], "libelle": th["libelle"], "libelle_court": th["libelle_court"]} for th in config["themes_tejm"]]
+    themes_glossaire.append({"id": "marches", "libelle": "Marchés et épargne", "libelle_court": "Marchés et épargne"})
+    return {"version_schema": 1, "categories": categories, "themes_tejm": config["themes_tejm"], "themes_glossaire": themes_glossaire,
             "indicateurs": indicateurs, "groupes_indicateurs": GROUPES_INDICATEURS}
 
 

@@ -6,6 +6,7 @@ Un récapitulatif manquant (exécution ratée) est rattrapé à l'exécution sui
 
 from datetime import date, timedelta
 
+from . import regles
 from .ia import BudgetEpuise
 from .outils import DOSSIER_DATA, horodatage, journal
 from .stockage import ecrire_json_securise, lire_json
@@ -59,8 +60,11 @@ def generer_recap(type_recap: str, periode: str, du: date, au: date, client, fil
         return None
 
     articles = {}  # (date, id) → fiche, pour reconstituer les liens à partir des identifiants
+    textes = {}    # date → tout ce que l'édition affiche (pour vérifier les chiffres de « À retenir »)
     jours = []
     for edition in editions:
+        textes[edition["date"]] = " ".join([*(edition.get("essentiel") or []),
+                                            *(f"{t['titre']} {t.get('faits') or ''} {t.get('analyse') or ''}" for t in edition.get("top5", []))])
         for t in edition.get("top5", []):
             articles[(edition["date"], t["id"])] = t
         jours.append({"date": edition["date"], "essentiel": edition.get("essentiel"),
@@ -99,9 +103,14 @@ def generer_recap(type_recap: str, periode: str, du: date, au: date, client, fil
     for fait in reponse["faits_marquants"]:
         fiche = articles.get((fait.get("date"), fait.get("article_id"))) if isinstance(fait, dict) else None
         if fiche and len(faits) < NOMBRE_FAITS[type_recap]:
+            a_retenir = fait.get("a_retenir")
+            if isinstance(a_retenir, str) and regles.chiffres_absents(a_retenir, textes.get(fait["date"], "")):
+                journal.warning("« À retenir » rejeté (chiffres absents des éditions) : %s", fiche["titre"][:60])
+                a_retenir = None
             faits.append({"date": fait["date"], "titre": fiche["titre"], "titre_fr": fiche.get("titre_fr"),
                           "source": fiche["source"], "url": fiche["url"], "categorie": fiche["categorie"],
-                          "fil_rouge": fiche.get("fil_rouge")})
+                          "fil_rouge": fiche.get("fil_rouge"), "article_id": fiche["id"],
+                          "a_retenir": a_retenir.strip() if isinstance(a_retenir, str) and a_retenir.strip() else None})
     faits.sort(key=lambda f: f["date"])
     evolutions = [{"id": f["id"], "evolution": f["evolution"].strip()} for f in reponse.get("fils_rouges") or []
                   if isinstance(f, dict) and f.get("id") in ids_fils and isinstance(f.get("evolution"), str)]
@@ -109,8 +118,10 @@ def generer_recap(type_recap: str, periode: str, du: date, au: date, client, fil
         libelle = f"Semaine du {du.day} {NOMS_MOIS[du.month - 1]} au {au.day} {NOMS_MOIS[au.month - 1]} {au.year}"
     else:
         libelle = f"{NOMS_MOIS[du.month - 1].capitalize()} {du.year}"
+    accroche = reponse.get("accroche")
     return {"version_schema": 1, "type": type_recap, "periode": periode, "libelle": libelle,
             "du": du.isoformat(), "au": au.isoformat(), "genere_le": horodatage(),
+            "accroche": accroche.strip()[:200] if isinstance(accroche, str) and accroche.strip() else None,
             "synthese": reponse["synthese"].strip(), "faits_marquants": faits, "fils_rouges": evolutions}
 
 
@@ -185,6 +196,30 @@ def valider_index(ancien: dict | None, jour: str | None = None):
             return "l'index perdrait des entrées des jours passés"
         return None
     return valider
+
+
+def usages_glossaire() -> dict:
+    """Pour chaque notion du référentiel, les infos qui l'ont mobilisée (« Pour tes copies » ou concept du jour).
+
+    Reconstruit à chaque exécution à partir de toutes les éditions : rien ne peut se perdre.
+    """
+    notions: dict[str, list] = {}
+    for chemin in sorted((DOSSIER_DATA / "jours").glob("????-??-??.json"), reverse=True):
+        edition = lire_json(chemin)
+        if not edition:
+            continue
+        top5 = {t["id"]: t for t in edition.get("top5", [])}
+        for info in edition.get("top5", []):
+            copies = info.get("pour_tes_copies")
+            if isinstance(copies, dict) and copies.get("notion_id"):
+                notions.setdefault(copies["notion_id"], []).append(
+                    {"date": edition["date"], "id": info["id"], "titre": info["titre"], "source": info["source"], "contexte": "Top 5 du jour"})
+        concept = edition.get("concept") or {}
+        article = top5.get(concept.get("article_id"))
+        if concept.get("id") and article and not any(u["date"] == edition["date"] and u["id"] == article["id"] for u in notions.get(concept["id"], [])):
+            notions.setdefault(concept["id"], []).append(
+                {"date": edition["date"], "id": article["id"], "titre": article["titre"], "source": article["source"], "contexte": "Concept du jour"})
+    return {"version_schema": 1, "notions": notions}
 
 
 def mettre_a_jour_liste_editions(liste_actuelle: dict | None, jour: str) -> dict:

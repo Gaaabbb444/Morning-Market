@@ -128,6 +128,9 @@ def executer(type_execution: str, refaire: bool = False) -> int:
             ecrire("fils-rouges.json", DOSSIER_DATA / "fils-rouges.json", nouveaux_fils,
                    fils_rouges.valider_sans_perte(fichier_fils, aujourd_hui))
 
+        ecrire("glossaire-usages.json", DOSSIER_DATA / "glossaire-usages.json", memoire.usages_glossaire(),
+               lambda d: None if isinstance(d.get("notions"), dict) else "structure inattendue")
+
         journal.info("— Récapitulatifs —")
         ecritures.extend(memoire.rattraper_recaps(date.fromisoformat(aujourd_hui), client,
                                                   stockage.lire_json(DOSSIER_DATA / "fils-rouges.json")["fils"]))

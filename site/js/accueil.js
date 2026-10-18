@@ -32,8 +32,28 @@ export function etatEdition(donnees, maintenant) {
   };
 }
 
-/** Les 5 indicateurs du bandeau, avec leurs états (normal ou indisponible). */
-export function indicateursBandeau(reglages, indicateurs) {
+/** Fin d'une période sous forme « AAAA-MM » ou date complète, pour la comparer à une date d'édition. */
+function finDePeriode(periode) {
+  if (periode.includes("-T")) return `${periode.slice(0, 4)}-${String(Number(periode.slice(-1)) * 3).padStart(2, "0")}`;
+  return periode;
+}
+
+/** Valeur d'un indicateur telle qu'elle était connue à une date passée (édition archivée) : une donnée
+ *  quotidienne jusqu'à ce jour inclus, une donnée mensuelle ou trimestrielle dont la période était achevée. */
+function valeurALaDate(donnee, date) {
+  const connu = ([periode]) => (periode.length === 10 ? periode <= date : finDePeriode(periode) < date.slice(0, 7));
+  const points = (donnee.historique || []).filter(connu);
+  if (!points.length) return null;
+  const [periode, valeur] = points[points.length - 1];
+  const precedent = points[points.length - 2];
+  const type = donnee.variation?.type || "points";
+  const ecart = precedent ? (type === "pourcent" ? (valeur / precedent[1] - 1) * 100 : valeur - precedent[1]) : null;
+  return { periode, valeur, ecart, type };
+}
+
+/** Les 5 indicateurs du bandeau, avec leurs états (normal ou indisponible).
+ *  dateArchive : pour une édition passée, on affiche les valeurs connues ce jour-là. */
+export function indicateursBandeau(reglages, indicateurs, dateArchive = null) {
   const valeurs = Object.fromEntries((indicateurs?.indicateurs || []).map((i) => [i.id, i]));
   return (reglages?.indicateurs || [])
     .filter((r) => r.ordre_bandeau)
@@ -44,6 +64,15 @@ export function indicateursBandeau(reglages, indicateurs) {
       if (!donnee?.derniere_valeur) {
         return { nom: r.nom_court, info: `${r.libelle} : donnée indisponible pour le moment.`, valeur: "—",
           couleurValeur: "var(--muted)", ecart: "Indisponible", couleurEcart: "var(--ink3)", graisseEcart: 600 };
+      }
+      if (dateArchive) {
+        const passe = valeurALaDate(donnee, dateArchive);
+        if (!passe) return { nom: r.nom_court, info: `${r.libelle} : pas de donnée à cette date.`, valeur: "—",
+          couleurValeur: "var(--muted)", ecart: "Indisponible", couleurEcart: "var(--ink3)", graisseEcart: 600 };
+        const couleurPasse = r.prix_de_marche && passe.ecart > 0 ? "var(--up)" : r.prix_de_marche && passe.ecart < 0 ? "var(--down)" : "var(--ink2)";
+        return { nom: r.nom_court, info: `${r.libelle} : valeur connue le ${dateLongue(dateArchive)} (${periodeCourte(passe.periode)})`,
+          valeur: valeurAvecSymbole(passe.valeur, donnee.decimales, symbole), couleurValeur: "var(--ink)",
+          ecart: passe.ecart === null ? "—" : variation(Math.round(passe.ecart * 100) / 100, passe.type), couleurEcart: couleurPasse, graisseEcart: 700 };
       }
       const { valeur, periode } = donnee.derniere_valeur;
       const texteValeur = valeurAvecSymbole(valeur, donnee.decimales, symbole);
@@ -61,8 +90,8 @@ export function indicateursBandeau(reglages, indicateurs) {
 }
 
 /** Contenu des trois cartes « Approfondir ». */
-export function cartesApprofondir(donnees) {
-  const { edition, filsRouges, citations, recap } = donnees;
+export function cartesApprofondir(donnees, edition, recap) {
+  const { filsRouges, citations } = donnees;
   const jour = edition?.date;
 
   // Fils rouges : sujets qui ont reçu un événement daté du jour de l'édition
@@ -83,12 +112,12 @@ export function cartesApprofondir(donnees) {
   const economiste = (citations?.citations || []).find((c) => c.id === edition?.citation_economiste_id && c.verifiee === true);
   if (economiste) lignes.push(`« ${economiste.texte} » — ${economiste.auteur}, ${economiste.oeuvre} (${economiste.annee})`);
   if (!lignes.length && edition?.concept?.lien_actu) lignes.push(edition.concept.lien_actu);
-  const carteConcept = { titre: edition?.concept?.terme || "Concept du jour à venir", lignes };
+  const carteConcept = { titre: edition?.concept?.terme || "Concept du jour à venir", lignes, id: edition?.concept?.id || null };
 
   // Récap de la semaine (rédigé chaque dimanche)
   let carteRecap;
   if (recap) {
-    carteRecap = { titre: titrePeriode(recap.du, recap.au), texte: recap.accroche || premierePhrase(recap.synthese) };
+    carteRecap = { titre: titrePeriode(recap.du, recap.au), texte: recap.accroche || premierePhrase(recap.synthese), lien: true };
   } else {
     // Pas de récap pour la semaine en cours : le prochain sera rédigé le dimanche suivant
     const dimanche = jour ? prochainDimanche(jour) : null;
@@ -122,6 +151,11 @@ const icone = (chemin, taille, epaisseur, extra = "") => html`<svg width="${tail
 export function vueAccueil(m) {
   return html`
   <div class="flex flex-col gap-[36px]">
+    ${m.archive ? html`
+    <div role="status" class="bandeau-archive flex items-center justify-between gap-6 py-2.5 pr-2.5 pl-6 rounded-full bg-accent-fond border border-accent-fond2">
+      <span class="text-[16px] font-extrabold">Édition du ${m.dateLongueEdition} <span class="font-medium text-[15px] text-encre2">· tu consultes une archive</span></span>
+      <a href="#/" class="presse shrink-0 inline-flex items-center h-10 px-[18px] rounded-full text-[14.5px] font-bold text-sur-accent bg-accent">Revenir à aujourd'hui</a>
+    </div>` : ""}
     <header class="en-tete apparition flex items-center justify-between gap-6 min-h-[44px]">
       <span class="min-w-0 text-[15px] font-bold"><span class="whitespace-nowrap">${m.titreDate}</span> <span class="whitespace-nowrap font-medium text-encre2">${m.mention}</span></span>
       <div class="shrink-0 flex items-center gap-5">
@@ -222,6 +256,13 @@ function approfondir(m) {
       <span class="text-[22px] font-extrabold leading-[1.3] tracking-[-0.02em]">${titre}</span>
       ${lignes.map((l) => html`<span class="text-[15px] leading-[1.55] text-encre2 line-clamp-3">${l}</span>`)}
     </div>`;
+  const carteLien = (adresse, etiquette, titre, lignes, appel) => html`
+    <a href="${adresse}" class="carte flex flex-col gap-3.5 p-8 rounded-carte calme text-left">
+      <span class="text-[15px] font-bold text-accent">${etiquette}</span>
+      <span class="text-[22px] font-extrabold leading-[1.3] tracking-[-0.02em]">${titre}</span>
+      ${lignes.map((l) => html`<span class="text-[15px] leading-[1.55] text-encre2 line-clamp-3">${l}</span>`)}
+      <span class="mt-2 text-[15px] font-bold">${appel} <span class="fleche">→</span></span>
+    </a>`;
   return html`
   <section aria-labelledby="appro" class="apparition mt-10 flex flex-col gap-6" style="animation-delay:220ms">
     <div class="flex items-baseline gap-[18px] flex-wrap">
@@ -235,8 +276,10 @@ function approfondir(m) {
         <span class="text-[15px] leading-[1.55] text-encre2 line-clamp-3">${m.cartes.fils.texte}</span>
         <span class="mt-2 text-[15px] font-bold">Voir les fils rouges <span class="fleche">→</span></span>
       </a>
-      ${carte("Concept et citation du jour", m.cartes.concept.titre, m.cartes.concept.lignes)}
-      ${carte("Récap de la semaine", m.cartes.recap.titre, [m.cartes.recap.texte])}
+      ${m.cartes.concept.id ? carteLien(`#/glossaire/${m.cartes.concept.id}`, "Concept et citation du jour", m.cartes.concept.titre, m.cartes.concept.lignes, "Ouvrir la fiche")
+        : carte("Concept et citation du jour", m.cartes.concept.titre, m.cartes.concept.lignes)}
+      ${m.cartes.recap.lien ? carteLien("#/archives/retro", "Récap de la semaine", m.cartes.recap.titre, [m.cartes.recap.texte], "Lire le récap")
+        : carte("Récap de la semaine", m.cartes.recap.titre, [m.cartes.recap.texte])}
     </div>
   </section>`;
 }

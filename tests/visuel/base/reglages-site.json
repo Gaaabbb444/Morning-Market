@@ -47,23 +47,60 @@
   "themes_tejm": [
     {
       "id": "croissance",
-      "libelle": "Croissance, innovation et développement durable"
+      "libelle": "Croissance, innovation et développement durable",
+      "libelle_court": "Croissance"
     },
     {
       "id": "mondialisation",
-      "libelle": "Mondialisation"
+      "libelle": "Mondialisation",
+      "libelle_court": "Mondialisation"
     },
     {
       "id": "globalisation-financiere",
-      "libelle": "Globalisation financière"
+      "libelle": "Globalisation financière",
+      "libelle_court": "Globalisation financière"
     },
     {
       "id": "desequilibres",
-      "libelle": "Déséquilibres : chômage, inflation, inégalités, dette"
+      "libelle": "Déséquilibres : chômage, inflation, inégalités, dette",
+      "libelle_court": "Déséquilibres"
     },
     {
       "id": "ue",
-      "libelle": "Union européenne"
+      "libelle": "Union européenne",
+      "libelle_court": "Union européenne"
+    }
+  ],
+  "themes_glossaire": [
+    {
+      "id": "croissance",
+      "libelle": "Croissance, innovation et développement durable",
+      "libelle_court": "Croissance"
+    },
+    {
+      "id": "mondialisation",
+      "libelle": "Mondialisation",
+      "libelle_court": "Mondialisation"
+    },
+    {
+      "id": "globalisation-financiere",
+      "libelle": "Globalisation financière",
+      "libelle_court": "Globalisation financière"
+    },
+    {
+      "id": "desequilibres",
+      "libelle": "Déséquilibres : chômage, inflation, inégalités, dette",
+      "libelle_court": "Déséquilibres"
+    },
+    {
+      "id": "ue",
+      "libelle": "Union européenne",
+      "libelle_court": "Union européenne"
+    },
+    {
+      "id": "marches",
+      "libelle": "Marchés et épargne",
+      "libelle_court": "Marchés et épargne"
     }
   ],
   "indicateurs": [

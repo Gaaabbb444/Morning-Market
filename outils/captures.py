@@ -49,6 +49,9 @@ ECRANS = {
     "favoris-vide": (21, "base", "adresse:#/favoris"),
     "recherche": (25, "base", "rechercher:inflation"),
     "recherche-vide": (27, "base", "rechercher:cryptomonnaie"),
+    "glossaire": (17, "base", "adresse:#/glossaire"),
+    "archives": (13, "base", "adresse:#/archives"),
+    "retrospective": (15, "retrospective", "adresse:#/archives/retro"),
 }
 
 

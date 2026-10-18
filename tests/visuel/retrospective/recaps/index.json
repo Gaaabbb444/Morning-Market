@@ -1,0 +1,13 @@
+{
+ "version_schema": 1,
+ "recaps": [
+  {
+   "fichier": "recaps/semaine-2026-W42.json",
+   "type": "semaine",
+   "periode": "2026-W42",
+   "libelle": "Semaine du 12 au 18 octobre 2026",
+   "du": "2026-10-12",
+   "au": "2026-10-18"
+  }
+ ]
+}

@@ -1,5 +1,5 @@
 // Recherche : panneau ouvert depuis l'en-tête de l'accueil. Elle porte sur les infos publiées (index de
-// toutes les éditions), les indicateurs et les fils rouges ; résultats groupés, terme surligné.
+// toutes les éditions), les indicateurs, le glossaire et les fils rouges ; résultats groupés, terme surligné.
 import { html, MOIS_COURTS, valeurAvecSymbole, periodeCourte, animationsReduites, COURBE } from "./outils.js";
 
 const LOUPE = "M11 4a7 7 0 1 0 0 14a7 7 0 1 0 0-14zM20 20l-3.5-3.5";
@@ -48,6 +48,13 @@ export function chercher(terme, sources) {
   }).filter(Boolean).slice(0, PAR_GROUPE);
   if (indicateurs.length) groupes.push({ titre: "Indicateurs", resultats: indicateurs });
 
+  const themes = Object.fromEntries((sources.reglages?.themes_glossaire || []).map((th) => [th.id, th.libelle]));
+  const concepts = (sources.concepts?.concepts || []).map((c) => {
+    const morceaux = decouper(c.terme, q);
+    return morceaux && { ...morceaux, sous: themes[c.theme] || "Glossaire", action: "aller", adresse: `#/glossaire/${c.id}` };
+  }).filter(Boolean).slice(0, PAR_GROUPE);
+  if (concepts.length) groupes.push({ titre: "Glossaire", resultats: concepts });
+
   const fils = (sources.filsRouges?.fils || []).map((f) => {
     const morceaux = decouper(f.titre, q);
     const dernier = f.evenements.map((e) => e.date).sort().pop();
@@ -60,12 +67,13 @@ export function chercher(terme, sources) {
 
 function resultats(r, terme) {
   if (r.indication) {
-    return html`<p class="m-0 pt-[22px] px-7 pb-[26px] text-[15px] leading-[1.55] text-encre2">Tape au moins deux lettres : la recherche porte sur les infos publiées, les fils rouges et les indicateurs.</p>`;
+    return html`<p class="m-0 pt-[22px] px-7 pb-[26px] text-[15px] leading-[1.55] text-encre2">Tape au moins deux lettres : la recherche porte sur les infos publiées, les fils rouges, les indicateurs et le glossaire.</p>`;
   }
   if (!r.total) {
     return html`<div role="status" class="py-10 px-12 flex flex-col items-center text-center gap-3">
       <h2 class="m-0 text-[22px] font-extrabold tracking-[-0.02em]">Aucun résultat pour « ${terme.trim()} »</h2>
-      <p class="m-0 max-w-[500px] text-[16px] leading-[1.6] text-encre2">La recherche porte sur les infos publiées, les fils rouges et les indicateurs. Essaie un terme plus général, par exemple « inflation » ou « marchés ».</p>
+      <p class="m-0 max-w-[500px] text-[16px] leading-[1.6] text-encre2">La recherche porte sur les infos publiées, les fils rouges, les indicateurs et le glossaire. Essaie un terme plus général, par exemple « monnaie » ou « marchés ».</p>
+      <button type="button" data-resultat="aller" data-adresse="#/glossaire" class="presse mt-2 h-11 px-5 border-0 rounded-full cursor-pointer text-[15px] font-bold text-accent bg-accent-fond">Parcourir le glossaire</button>
     </div>`;
   }
   return html`<div class="pt-3 px-3 pb-4 flex flex-col gap-1">
@@ -98,7 +106,7 @@ export async function ouvrirRecherche(origine, contexte) {
       <label class="flex items-center gap-3 h-16 pr-4 pl-6 border-b border-sep">
         <svg width="20" height="20" viewBox="0 0 24 24" aria-hidden="true" style="fill:none;stroke:var(--acc);stroke-width:2;stroke-linecap:round;flex-shrink:0"><path d="${LOUPE}"></path></svg>
         <span class="sr-only">Rechercher</span>
-        <input type="search" data-champ placeholder="Une info, un indicateur, un fil rouge…" autocomplete="off"
+        <input type="search" data-champ placeholder="Une info, un concept, un indicateur…" autocomplete="off"
           class="flex-1 min-w-0 bg-transparent border-0 outline-none text-encre text-[18px] font-semibold">
         <span data-compte class="text-[14px] font-semibold text-encre2 whitespace-nowrap"></span>
         <button type="button" data-fermer aria-label="Fermer la recherche" class="w-11 h-11 rounded-xl border-0 bg-transparent flex items-center justify-center cursor-pointer">

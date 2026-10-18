@@ -221,6 +221,10 @@
   .bandeau { grid-template-columns: 1fr !important; row-gap: 16px; }
   .bandeau-colonnes { grid-template-columns: repeat(2, minmax(0, 1fr)) !important; row-gap: 16px; }
   .cartes3 { grid-template-columns: 1fr !important; }
+  .grille-glossaire { grid-template-columns: 1fr !important; row-gap: 20px; }
+  .bandeau-archive { flex-direction: column; align-items: flex-start !important; border-radius: 22px !important; padding: 14px 16px !important; gap: 12px !important; }
+  .case-calendrier { height: 56px !important; padding: 6px 8px !important; }
+  .case-calendrier span:last-child { font-size: 0 !important; }
   .panneau-onglet { padding: 24px 20px 18px !important; }
   .panneau-onglet h2 { font-size: 22px !important; }
   .ligne-marche, .ligne-tableau { grid-template-columns: 1fr 1fr !important; row-gap: 10px; }

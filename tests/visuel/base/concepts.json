@@ -9,6 +9,7 @@
         "croissance"
       ],
       "definition": "Augmentation soutenue, sur une longue période, de la production de biens et services d'une économie. Elle se mesure en général par le taux de variation du PIB en volume, c'est-à-dire corrigé de la hausse des prix.",
+      "dans_une_copie": "Notion de départ de tout sujet sur les sources et les limites de la croissance : la définir précisément permet ensuite de discuter ce que le PIB mesure mal (qualité de vie, environnement, répartition).",
       "auteurs_associes": [
         "Simon Kuznets"
       ],
@@ -28,6 +29,7 @@
         "croissance"
       ],
       "definition": "Agrégat qui mesure la richesse créée pendant une période par les unités productrices résidentes : somme des valeurs ajoutées, augmentée des impôts sur les produits nets des subventions. Il peut se calculer selon trois optiques : production, demande ou revenus.",
+      "dans_une_copie": "À mobiliser pour chiffrer un raisonnement et pour en montrer les limites dans un sujet sur la mesure de la richesse ou du bien-être.",
       "auteurs_associes": [],
       "mots_cles": [
         "PIB",
@@ -46,6 +48,7 @@
         "entreprises"
       ],
       "definition": "Dépense consacrée à l'acquisition de biens durables (équipements, bâtiments, logiciels) utilisés pour produire, mesurée en comptabilité nationale par la formation brute de capital fixe. Il soutient la demande à court terme et accroît les capacités de production à long terme.",
+      "dans_une_copie": "Utile pour articuler court terme et long terme : l'investissement soutient la demande aujourd'hui et la capacité de production demain, ce qui en fait un levier central des politiques de relance.",
       "auteurs_associes": [],
       "mots_cles": [
         "investissement",
@@ -63,6 +66,7 @@
         "croissance"
       ],
       "definition": "Part de la croissance de la production qui n'est expliquée ni par l'augmentation du travail ni par celle du capital (le « résidu de Solow »). Elle reflète le progrès technique, l'organisation de la production et la qualité des facteurs.",
+      "dans_une_copie": "Permet de distinguer croissance extensive (plus de facteurs) et croissance intensive (meilleure efficacité) dans une dissertation sur les sources de la croissance de long terme.",
       "auteurs_associes": [
         "Robert Solow (1957)"
       ],
@@ -82,6 +86,7 @@
         "croissance"
       ],
       "definition": "Modèle de croissance exogène (1956) dans lequel l'accumulation du capital connaît des rendements décroissants : à long terme, la croissance du revenu par habitant ne dépend que du progrès technique, supposé extérieur au modèle.",
+      "dans_une_copie": "Sert de référence pour montrer qu'accumuler du capital ne suffit pas à croître durablement, puis pour introduire le rôle central du progrès technique.",
       "auteurs_associes": [
         "Robert Solow (1956)"
       ],
@@ -101,6 +106,7 @@
         "croissance"
       ],
       "definition": "Ensemble de théories des années 1980-1990 où le progrès technique résulte de choix économiques (recherche-développement, capital humain, infrastructures publiques) qui produisent des externalités positives, ce qui rend possible une croissance durable.",
+      "dans_une_copie": "À mobiliser pour justifier l'intervention publique (éducation, recherche, infrastructures) dans un sujet sur les sources de la croissance ou le rôle de l'État.",
       "auteurs_associes": [
         "Paul Romer (1986, 1990)",
         "Robert Lucas (1988)",
@@ -124,6 +130,7 @@
         "entreprises"
       ],
       "definition": "Processus par lequel les innovations font disparaître des activités, des entreprises et des emplois anciens tout en en créant de nouveaux. Pour Schumpeter, c'est le moteur de l'évolution du capitalisme.",
+      "dans_une_copie": "Permet d'analyser les effets ambivalents de l'innovation sur l'emploi, notamment à propos du numérique, de l'intelligence artificielle ou de la transition écologique.",
       "auteurs_associes": [
         "Joseph Schumpeter (Capitalisme, socialisme et démocratie, 1942)",
         "Philippe Aghion et Peter Howitt (1992)"
@@ -147,6 +154,7 @@
         "entreprises"
       ],
       "definition": "Mise en œuvre d'une nouveauté dans le processus économique. Schumpeter en distingue cinq formes : nouveau produit, nouveau procédé, nouveau débouché, nouvelle source de matières premières, nouvelle organisation. On oppose innovations incrémentales et innovations de rupture.",
+      "dans_une_copie": "Utile pour relier progrès technique, compétitivité et croissance, et pour distinguer innovations incrémentales et innovations de rupture selon le sujet traité.",
       "auteurs_associes": [
         "Joseph Schumpeter (Théorie de l'évolution économique, 1911)"
       ],
@@ -167,6 +175,7 @@
         "desequilibres"
       ],
       "definition": "Ensemble des connaissances, compétences et capacités (y compris l'état de santé) d'une personne, acquises par l'éducation, la formation et l'expérience. Il accroît sa productivité et ses revenus futurs, et se traite comme un investissement.",
+      "dans_une_copie": "À mobiliser dans un sujet sur la croissance, les inégalités ou le chômage, pour montrer qu'éducation et formation sont un investissement aux effets durables.",
       "auteurs_associes": [
         "Theodore Schultz (1961)",
         "Gary Becker (Human Capital, 1964)"
@@ -189,6 +198,7 @@
         "entreprises"
       ],
       "definition": "Situation où la production augmente plus que proportionnellement à la hausse de l'ensemble des facteurs de production. Ils favorisent la concentration des entreprises et la spécialisation.",
+      "dans_une_copie": "Permet d'expliquer la concentration des entreprises et le commerce entre pays semblables, ainsi que les justifications de certaines politiques industrielles.",
       "auteurs_associes": [],
       "mots_cles": [
         "rendements",
@@ -206,6 +216,7 @@
         "croissance"
       ],
       "definition": "Effet, positif ou négatif, de l'activité d'un agent sur le bien-être d'un autre, sans compensation monétaire par le marché. C'est une défaillance de marché qui peut justifier une intervention publique (taxe, subvention, norme, marché de droits).",
+      "dans_une_copie": "Notion clé pour justifier l'intervention publique en matière d'environnement ou d'innovation ; elle introduit naturellement la discussion entre taxe, norme et marché de droits.",
       "auteurs_associes": [
         "Arthur Cecil Pigou (1920)",
         "Ronald Coase (1960)"
@@ -225,6 +236,7 @@
         "croissance"
       ],
       "definition": "Bien non rival (sa consommation par l'un ne réduit pas celle des autres) et non excluable (on ne peut empêcher personne d'en profiter). Le marché tend à le produire en quantité insuffisante, à cause du comportement de « passager clandestin ».",
+      "dans_une_copie": "À mobiliser pour expliquer pourquoi le marché produit trop peu de défense, de recherche fondamentale ou de protection du climat, et pourquoi la coopération est nécessaire.",
       "auteurs_associes": [
         "Paul Samuelson (1954)"
       ],
@@ -244,6 +256,7 @@
         "croissance"
       ],
       "definition": "Surexploitation d'une ressource commune en accès libre, chaque utilisateur ayant intérêt à prélever davantage alors que la ressource s'épuise pour tous. Elinor Ostrom a montré que des règles collectives locales peuvent l'éviter.",
+      "dans_une_copie": "Utile dans un sujet sur l'environnement ou les ressources naturelles ; les travaux d'Ostrom permettent de nuancer l'alternative entre marché et État.",
       "auteurs_associes": [
         "Garrett Hardin (1968)",
         "Elinor Ostrom (1990)"
@@ -265,6 +278,7 @@
         "croissance"
       ],
       "definition": "« Mode de développement qui répond aux besoins des générations présentes sans compromettre la capacité des générations futures de répondre aux leurs ». Il repose sur trois piliers : économique, social et environnemental.",
+      "dans_une_copie": "Sert de cadre à toute dissertation qui confronte croissance et environnement ; les trois piliers aident à structurer l'analyse.",
       "auteurs_associes": [
         "Rapport Brundtland (1987)"
       ],
@@ -284,6 +298,7 @@
         "croissance"
       ],
       "definition": "La soutenabilité faible admet que le capital naturel peut être remplacé par du capital produit : seul compte le stock total de capital. La soutenabilité forte considère qu'une partie du capital naturel est irremplaçable et doit être préservée.",
+      "dans_une_copie": "Permet de structurer un débat sur la compatibilité entre croissance et préservation de l'environnement, en opposant deux conceptions du capital naturel.",
       "auteurs_associes": [
         "Robert Solow",
         "John Hartwick (1977)",
@@ -305,6 +320,7 @@
         "croissance"
       ],
       "definition": "Prélèvement qui fait payer au pollueur le coût social de sa pollution, afin d'internaliser l'externalité. La taxe carbone en est l'application aux émissions de gaz à effet de serre : elle oriente les choix vers des solutions moins émettrices.",
+      "dans_une_copie": "À mobiliser pour comparer les instruments de la politique climatique, en discutant leur efficacité et leurs effets redistributifs.",
       "auteurs_associes": [
         "Arthur Cecil Pigou (1920)"
       ],
@@ -325,6 +341,7 @@
         "ue"
       ],
       "definition": "Dispositif où l'autorité publique fixe un plafond d'émissions et distribue ou vend des droits échangeables ; le prix du quota résulte de l'offre et de la demande (par exemple le système européen SEQE-UE).",
+      "dans_une_copie": "Utile pour illustrer une solution de marché à une externalité et pour la comparer à la taxe carbone (certitude sur les quantités ou sur le prix).",
       "auteurs_associes": [
         "Ronald Coase (1960)",
         "John Dales (1968)"
@@ -346,6 +363,7 @@
         "croissance"
       ],
       "definition": "Passage d'un système énergétique fondé sur les énergies fossiles à un système plus sobre et décarboné (renouvelables, nucléaire, efficacité énergétique). Elle suppose des investissements massifs et des réallocations entre secteurs.",
+      "dans_une_copie": "Permet de traiter les coûts et les bénéfices de la décarbonation, ses effets sur la croissance, l'emploi et la dépendance énergétique.",
       "auteurs_associes": [],
       "mots_cles": [
         "énergie",
@@ -365,6 +383,7 @@
         "croissance"
       ],
       "definition": "Hypothèse d'une relation en U inversé entre revenu par habitant et pollution : la pollution augmenterait aux premiers stades du développement, puis diminuerait au-delà d'un certain niveau de revenu. Sa validité empirique est discutée.",
+      "dans_une_copie": "À présenter avec prudence pour discuter l'idée que la croissance finirait par réduire la pollution ; sa validité empirique contestée nourrit la nuance.",
       "auteurs_associes": [
         "Gene Grossman et Alan Krueger (1995)"
       ],
@@ -384,6 +403,7 @@
         "croissance"
       ],
       "definition": "Phénomène par lequel les gains d'efficacité énergétique, en baissant le coût d'usage, stimulent la consommation et annulent tout ou partie des économies attendues.",
+      "dans_une_copie": "Utile pour nuancer l'idée que le progrès technique suffit à réduire la consommation d'énergie, dans un sujet sur la croissance verte.",
       "auteurs_associes": [
         "William Stanley Jevons (The Coal Question, 1865)"
       ],
@@ -403,6 +423,7 @@
         "entreprises"
       ],
       "definition": "Ensemble des interventions publiques visant à orienter la structure productive vers des secteurs ou technologies jugés stratégiques : subventions, commande publique, aides à la R&D, protection commerciale.",
+      "dans_une_copie": "À mobiliser dans un sujet sur le rôle de l'État, la souveraineté économique ou la concurrence internationale, en discutant ses succès et ses risques (choix des secteurs, coût budgétaire).",
       "auteurs_associes": [],
       "mots_cles": [
         "industrie",
@@ -422,6 +443,7 @@
         "entreprises"
       ],
       "definition": "La désindustrialisation désigne le recul de la part de l'industrie dans l'emploi et la valeur ajoutée. La réindustrialisation vise à inverser ce mouvement par des relocalisations et le développement de nouvelles activités industrielles.",
+      "dans_une_copie": "Permet d'analyser les effets de la mondialisation et du progrès technique sur l'emploi industriel, puis les politiques de relocalisation.",
       "auteurs_associes": [],
       "mots_cles": [
         "industrie",
@@ -439,6 +461,7 @@
         "croissance"
       ],
       "definition": "Constat selon lequel la diffusion massive d'une technologie (l'informatique hier, l'intelligence artificielle aujourd'hui) ne se traduit pas immédiatement par des gains de productivité mesurés, en raison des délais d'adaptation et des difficultés de mesure.",
+      "dans_une_copie": "Utile pour nuancer l'effet immédiat des nouvelles technologies sur la croissance, par exemple à propos de l'intelligence artificielle.",
       "auteurs_associes": [
         "Robert Solow (1987)"
       ],
@@ -460,6 +483,7 @@
         "finance"
       ],
       "definition": "Hypothèse d'un affaiblissement durable de la croissance dans les pays avancés, lié à un excès d'épargne sur l'investissement qui maintiendrait le taux d'intérêt d'équilibre très bas, ou, côté offre, à l'essoufflement du progrès technique.",
+      "dans_une_copie": "À mobiliser dans un sujet sur le ralentissement de la croissance dans les pays avancés, en confrontant les explications par la demande et par l'offre.",
       "auteurs_associes": [
         "Alvin Hansen (1939)",
         "Lawrence Summers (2013)",
@@ -482,6 +506,7 @@
         "entreprises"
       ],
       "definition": "Titre de propriété industrielle qui confère à l'inventeur un monopole temporaire d'exploitation (en général 20 ans) en échange de la publication de l'invention. Il incite à innover mais restreint temporairement la diffusion.",
+      "dans_une_copie": "Permet de discuter l'arbitrage entre incitation à innover et diffusion du progrès technique, dans un sujet sur l'innovation ou la concurrence.",
       "auteurs_associes": [],
       "mots_cles": [
         "brevet",
@@ -500,6 +525,7 @@
         "entreprises"
       ],
       "definition": "Situation où l'utilité d'un service croît avec le nombre de ses utilisateurs. Sur les marchés « bifaces » (plateformes reliant deux groupes d'usagers), ces effets favorisent la concentration autour de quelques acteurs.",
+      "dans_une_copie": "Utile pour expliquer la domination des grandes plateformes numériques et les enjeux de la régulation de la concurrence.",
       "auteurs_associes": [
         "Jean-Charles Rochet et Jean Tirole (2003)"
       ],
@@ -520,6 +546,7 @@
         "mondialisation"
       ],
       "definition": "Un pays dispose d'un avantage absolu s'il produit un bien avec moins de ressources que ses partenaires. Smith en déduit l'intérêt de la division internationale du travail : chaque pays se spécialise là où il est le plus efficace.",
+      "dans_une_copie": "Point de départ historique d'un sujet sur les gains de l'échange, à dépasser rapidement par l'avantage comparatif.",
       "auteurs_associes": [
         "Adam Smith (Recherches sur la nature et les causes de la richesse des nations, 1776)"
       ],
@@ -538,6 +565,7 @@
         "mondialisation"
       ],
       "definition": "Un pays a intérêt à se spécialiser dans la production où son coût relatif (coût d'opportunité) est le plus faible par rapport à ses partenaires, même s'il n'a d'avantage absolu dans aucune production : l'échange est alors bénéfique à tous.",
+      "dans_une_copie": "Référence classique pour défendre les gains du libre-échange, à nuancer ensuite par la répartition des gains et les coûts d'ajustement.",
       "auteurs_associes": [
         "David Ricardo (Des principes de l'économie politique et de l'impôt, 1817)"
       ],
@@ -557,6 +585,7 @@
         "mondialisation"
       ],
       "definition": "Théorie selon laquelle chaque pays se spécialise dans les productions qui utilisent intensivement le facteur de production dont il est relativement le mieux doté (travail, capital, terre).",
+      "dans_une_copie": "Permet d'expliquer la spécialisation par les dotations en facteurs et d'introduire les effets du commerce sur les inégalités de revenus.",
       "auteurs_associes": [
         "Eli Heckscher (1919)",
         "Bertil Ohlin (1933)",
@@ -577,6 +606,7 @@
         "mondialisation"
       ],
       "definition": "Courant qui explique le commerce entre pays semblables (commerce intra-branche) par les rendements croissants, la différenciation des produits et le goût des consommateurs pour la variété.",
+      "dans_une_copie": "Utile pour expliquer le commerce entre pays semblables et le rôle des firmes et des économies d'échelle dans la mondialisation.",
       "auteurs_associes": [
         "Paul Krugman (1979, 1980)"
       ],
@@ -595,6 +625,7 @@
         "mondialisation"
       ],
       "definition": "Politique visant à protéger les producteurs nationaux de la concurrence étrangère par des barrières tarifaires (droits de douane) ou non tarifaires (quotas, normes, subventions).",
+      "dans_une_copie": "À mobiliser dans tout sujet sur le libre-échange pour en discuter les justifications (industries naissantes, sécurité, réponse à des distorsions) et les coûts.",
       "auteurs_associes": [
         "Friedrich List (1841)"
       ],
@@ -614,6 +645,7 @@
         "mondialisation"
       ],
       "definition": "Taxe prélevée sur les biens importés. Elle renchérit les importations et protège les producteurs nationaux, mais pèse sur les consommateurs et les entreprises qui utilisent ces biens, et peut entraîner des mesures de représailles.",
+      "dans_une_copie": "Permet d'analyser concrètement les effets d'une hausse des tarifs : protection des producteurs, coût pour les consommateurs, risque de représailles.",
       "auteurs_associes": [],
       "mots_cles": [
         "droits de douane",
@@ -632,6 +664,7 @@
         "mondialisation"
       ],
       "definition": "Protection temporaire des industries naissantes, le temps qu'elles acquièrent la taille et l'expérience nécessaires pour affronter la concurrence internationale.",
+      "dans_une_copie": "Utile pour nuancer l'opposition entre libre-échange et protection, en montrant qu'une protection temporaire peut accompagner l'industrialisation.",
       "auteurs_associes": [
         "Friedrich List (Système national d'économie politique, 1841)"
       ],
@@ -651,6 +684,7 @@
         "entreprises"
       ],
       "definition": "Fragmentation internationale du processus de production : les différentes étapes de fabrication d'un produit sont réparties entre plusieurs pays selon leurs avantages respectifs.",
+      "dans_une_copie": "À mobiliser pour expliquer l'interdépendance des économies et leur vulnérabilité aux chocs d'approvisionnement.",
       "auteurs_associes": [],
       "mots_cles": [
         "chaînes de valeur",
@@ -670,6 +704,7 @@
         "entreprises"
       ],
       "definition": "Investissement par lequel une entreprise crée ou acquiert une entité dans un autre pays en y exerçant une influence durable sur la gestion (au moins 10 % des droits de vote selon l'OCDE). C'est le mode d'expansion des firmes multinationales.",
+      "dans_une_copie": "Utile pour analyser les stratégies des multinationales (accès aux marchés, coûts, ressources) et l'attractivité des territoires.",
       "auteurs_associes": [
         "John Dunning (paradigme OLI, 1977)"
       ],
@@ -690,6 +725,7 @@
         "mondialisation"
       ],
       "definition": "Compte de la balance des paiements qui retrace les échanges de biens et de services ainsi que les revenus reçus et versés avec le reste du monde. Un excédent courant signifie que le pays épargne davantage qu'il n'investit.",
+      "dans_une_copie": "Permet de relier déséquilibres extérieurs, épargne et investissement, dans un sujet sur les déséquilibres mondiaux ou la compétitivité.",
       "auteurs_associes": [],
       "mots_cles": [
         "balance commerciale",
@@ -708,6 +744,7 @@
         "entreprises"
       ],
       "definition": "La compétitivité-prix est la capacité à vendre grâce à des prix plus bas (coûts de production, taux de change). La compétitivité hors-prix repose sur la qualité, l'innovation, l'image de marque et le service.",
+      "dans_une_copie": "Indispensable pour analyser les performances à l'exportation d'un pays et discuter les politiques de baisse du coût du travail ou de montée en gamme.",
       "auteurs_associes": [],
       "mots_cles": [
         "compétitivité",
@@ -726,6 +763,7 @@
         "mondialisation"
       ],
       "definition": "Rapport entre l'indice des prix à l'exportation et l'indice des prix à l'importation d'un pays. Leur amélioration signifie qu'une même quantité d'exportations permet d'acheter davantage d'importations.",
+      "dans_une_copie": "Utile pour analyser l'effet d'une variation du prix des matières premières sur un pays importateur ou exportateur.",
       "auteurs_associes": [
         "Raúl Prebisch et Hans Singer (1950)"
       ],
@@ -744,6 +782,7 @@
         "mondialisation"
       ],
       "definition": "Pratique qui consiste à vendre à l'étranger à un prix inférieur à celui pratiqué sur le marché national, voire au coût de production. L'OMC autorise des droits antidumping pour y répondre.",
+      "dans_une_copie": "Permet d'illustrer les tensions commerciales et les instruments de défense commerciale, notamment entre l'Union européenne et la Chine.",
       "auteurs_associes": [],
       "mots_cles": [
         "dumping",
@@ -762,6 +801,7 @@
         "mondialisation"
       ],
       "definition": "L'Organisation mondiale du commerce (1995), qui a succédé au GATT (1947), fixe les règles du commerce international et règle les différends entre États. Le multilatéralisme repose notamment sur la clause de la nation la plus favorisée.",
+      "dans_une_copie": "À mobiliser dans un sujet sur la régulation de la mondialisation, et pour discuter la crise actuelle du multilatéralisme.",
       "auteurs_associes": [],
       "mots_cles": [
         "OMC",
@@ -780,6 +820,7 @@
         "ue"
       ],
       "definition": "Intensification des échanges et de l'intégration entre pays d'une même zone géographique, souvent organisée par des accords : zone de libre-échange, union douanière, marché commun, union économique.",
+      "dans_une_copie": "Utile pour montrer que la mondialisation s'organise aussi en blocs régionaux, et pour discuter l'articulation entre accords régionaux et multilatéralisme.",
       "auteurs_associes": [
         "Bela Balassa (1961)"
       ],
@@ -799,6 +840,7 @@
         "mondialisation"
       ],
       "definition": "Selon Dani Rodrik, il est impossible d'avoir simultanément et pleinement l'hypermondialisation économique, la souveraineté nationale et la démocratie : on ne peut combiner que deux des trois.",
+      "dans_une_copie": "Permet de structurer une réflexion sur les limites de la mondialisation et les arbitrages politiques qu'elle impose.",
       "auteurs_associes": [
         "Dani Rodrik (The Globalization Paradox, 2011)"
       ],
@@ -817,6 +859,7 @@
         "mondialisation"
       ],
       "definition": "Ralentissement ou recul de l'intégration économique mondiale sous l'effet des tensions géopolitiques, du protectionnisme et de la recherche de sécurité d'approvisionnement (relocalisations, commerce entre pays alliés ou « friend-shoring »).",
+      "dans_une_copie": "Utile dans un sujet sur l'avenir de la mondialisation, pour analyser l'effet des tensions géopolitiques sur le commerce et les investissements.",
       "auteurs_associes": [],
       "mots_cles": [
         "démondialisation",
@@ -835,6 +878,7 @@
         "mondialisation"
       ],
       "definition": "Mesures restrictives (embargos, gels d'avoirs, interdictions d'importer ou d'exporter) prises par un État ou une organisation pour contraindre un autre État à modifier son comportement.",
+      "dans_une_copie": "Permet d'analyser l'usage de l'économie comme instrument de puissance et de discuter l'efficacité des sanctions.",
       "auteurs_associes": [],
       "mots_cles": [
         "sanctions",
@@ -854,6 +898,7 @@
         "desequilibres"
       ],
       "definition": "Hausse brutale du prix du pétrole qui augmente les coûts de production et réduit le pouvoir d'achat. Pour un pays importateur, c'est un choc d'offre négatif : il provoque à la fois de l'inflation et un ralentissement de l'activité.",
+      "dans_une_copie": "À mobiliser dans un sujet sur l'inflation ou les fluctuations, pour expliquer comment un choc d'offre combine hausse des prix et ralentissement de l'activité.",
       "auteurs_associes": [],
       "mots_cles": [
         "pétrole",
@@ -873,6 +918,7 @@
         "finance"
       ],
       "definition": "Intégration des marchés de capitaux nationaux en un marché mondial, résultant des « 3 D » : déréglementation, désintermédiation et décloisonnement des marchés.",
+      "dans_une_copie": "Point d'entrée d'un sujet sur l'intégration financière mondiale, pour en discuter les bénéfices (financement) et les risques (contagion, instabilité).",
       "auteurs_associes": [
         "Henri Bourguinat (1992)"
       ],
@@ -892,6 +938,7 @@
         "finance"
       ],
       "definition": "Recul du financement par les banques (finance intermédiée) au profit du financement direct des agents sur les marchés financiers, par l'émission d'actions et d'obligations.",
+      "dans_une_copie": "Utile pour décrire l'évolution des modes de financement de l'économie et la place croissante des marchés.",
       "auteurs_associes": [
         "John Gurley et Edward Shaw (1960)"
       ],
@@ -912,6 +959,7 @@
         "mondialisation"
       ],
       "definition": "Prix d'une monnaie exprimé dans une autre. Il peut être fixe (défini par les autorités monétaires) ou flottant (déterminé par l'offre et la demande sur le marché des changes).",
+      "dans_une_copie": "Permet d'analyser les effets d'une dépréciation ou d'une appréciation sur la compétitivité, l'inflation importée et la balance courante.",
       "auteurs_associes": [],
       "mots_cles": [
         "euro",
@@ -931,6 +979,7 @@
         "finance"
       ],
       "definition": "Un pays ne peut avoir simultanément un taux de change fixe, une libre circulation des capitaux et une politique monétaire autonome : il doit renoncer à l'un des trois.",
+      "dans_une_copie": "Utile pour expliquer les choix de régime de change et la perte d'autonomie monétaire au sein d'une union monétaire.",
       "auteurs_associes": [
         "Robert Mundell (1963)",
         "Marcus Fleming (1962)"
@@ -952,6 +1001,7 @@
         "ue"
       ],
       "definition": "Zone dans laquelle il est avantageux de partager une même monnaie, parce que les chocs y sont symétriques ou parce que d'autres mécanismes (mobilité du travail, transferts budgétaires, flexibilité des prix et salaires) compensent la perte de l'arme du taux de change.",
+      "dans_une_copie": "À mobiliser dans un sujet sur la zone euro, pour discuter ses fragilités face aux chocs asymétriques et les mécanismes qui les compensent.",
       "auteurs_associes": [
         "Robert Mundell (1961)",
         "Ronald McKinnon (1963)",
@@ -972,6 +1022,7 @@
         "finance"
       ],
       "definition": "Écart durable et croissant entre le prix d'un actif et sa valeur fondamentale, alimenté par des anticipations de hausse qui se réalisent d'elles-mêmes ; elle se termine souvent par un krach.",
+      "dans_une_copie": "Permet d'analyser l'instabilité des marchés financiers et d'illustrer les crises par des exemples historiques ou récents.",
       "auteurs_associes": [
         "Charles Kindleberger (1978)",
         "Robert Shiller (2000)"
@@ -994,6 +1045,7 @@
         "finance"
       ],
       "definition": "Selon Minsky, les périodes de stabilité incitent les agents à s'endetter et à prendre davantage de risques, ce qui fragilise le système financier et prépare les crises (« moment Minsky »).",
+      "dans_une_copie": "Utile pour montrer que les crises financières peuvent naître de la stabilité elle-même, dans un sujet sur la régulation financière.",
       "auteurs_associes": [
         "Hyman Minsky (1986)"
       ],
@@ -1013,6 +1065,7 @@
         "finance"
       ],
       "definition": "Situation où un agent protégé contre un risque (par une assurance ou une garantie de sauvetage public) adopte un comportement plus risqué, car il n'en supporte pas toutes les conséquences.",
+      "dans_une_copie": "À mobiliser pour discuter les effets pervers des sauvetages bancaires et justifier la régulation prudentielle.",
       "auteurs_associes": [
         "Kenneth Arrow (1963)"
       ],
@@ -1032,6 +1085,7 @@
         "finance"
       ],
       "definition": "Risque qu'une défaillance (d'une banque, d'un marché, d'une infrastructure) se propage par contagion à l'ensemble du système financier puis à l'économie réelle.",
+      "dans_une_copie": "Permet de justifier la supervision des grandes banques et l'intervention des banques centrales en cas de crise.",
       "auteurs_associes": [],
       "mots_cles": [
         "risque systémique",
@@ -1049,6 +1103,7 @@
         "finance"
       ],
       "definition": "Ensemble des règles imposées aux banques pour limiter leurs risques, notamment des exigences minimales de fonds propres et de liquidité définies par le Comité de Bâle (accords de Bâle III).",
+      "dans_une_copie": "Utile pour présenter les réponses apportées après la crise de 2008 et discuter leur efficacité.",
       "auteurs_associes": [
         "Comité de Bâle sur le contrôle bancaire"
       ],
@@ -1068,6 +1123,7 @@
         "finance"
       ],
       "definition": "Rôle de la banque centrale qui fournit des liquidités aux banques solvables mais temporairement à court de liquidités, afin d'éviter qu'une panique bancaire ne se propage.",
+      "dans_une_copie": "À mobiliser pour analyser le rôle des banques centrales dans les crises financières et le risque d'aléa moral associé.",
       "auteurs_associes": [
         "Walter Bagehot (Lombard Street, 1873)"
       ],
@@ -1086,6 +1142,7 @@
         "finance"
       ],
       "definition": "Les banques commerciales créent de la monnaie en accordant des crédits (« les crédits font les dépôts ») ; la banque centrale encadre ce processus par ses taux directeurs et la fourniture de monnaie centrale.",
+      "dans_une_copie": "Permet d'expliquer d'où vient la monnaie et comment la politique monétaire agit sur le crédit.",
       "auteurs_associes": [],
       "mots_cles": [
         "crédit",
@@ -1103,6 +1160,7 @@
         "finance"
       ],
       "definition": "Action de la banque centrale sur les conditions de financement de l'économie (taux directeurs, achats de titres) pour atteindre ses objectifs, principalement la stabilité des prix, définie par la BCE comme une inflation de 2 % à moyen terme.",
+      "dans_une_copie": "Notion centrale de tout sujet sur l'inflation, la croissance ou les banques centrales, pour en analyser les canaux de transmission et les limites.",
       "auteurs_associes": [],
       "mots_cles": [
         "BCE",
@@ -1121,6 +1179,7 @@
         "finance"
       ],
       "definition": "Taux d'intérêt fixés par la banque centrale, auxquels les banques se refinancent auprès d'elle ou y placent leurs liquidités. Pour la BCE : taux de la facilité de dépôt, des opérations principales de refinancement et de la facilité de prêt marginal.",
+      "dans_une_copie": "Utile pour expliquer concrètement comment une banque centrale agit sur le crédit, la demande et l'inflation.",
       "auteurs_associes": [],
       "mots_cles": [
         "taux directeur",
@@ -1139,6 +1198,7 @@
         "finance"
       ],
       "definition": "Politique monétaire non conventionnelle par laquelle la banque centrale achète massivement des titres (obligations publiques et privées) afin de faire baisser les taux d'intérêt à long terme.",
+      "dans_une_copie": "Permet d'analyser les politiques monétaires menées après les crises de 2008 et de 2020, et leurs effets sur les prix des actifs.",
       "auteurs_associes": [],
       "mots_cles": [
         "QE",
@@ -1155,6 +1215,7 @@
         "finance"
       ],
       "definition": "Principe selon lequel la banque centrale décide de sa politique sans instruction du gouvernement, afin de renforcer la crédibilité de la lutte contre l'inflation face à la tentation des gouvernements de relancer à court terme.",
+      "dans_une_copie": "À mobiliser dans un débat sur la légitimité et la crédibilité des banques centrales, et sur leurs relations avec les gouvernements.",
       "auteurs_associes": [
         "Finn Kydland et Edward Prescott (1977)",
         "Robert Barro et David Gordon (1983)"
@@ -1176,6 +1237,7 @@
         "finance"
       ],
       "definition": "Proposition de taxer à un faible taux les transactions de change, afin de « mettre du sable dans les rouages » de marchés financiers jugés trop spéculatifs.",
+      "dans_une_copie": "Utile pour illustrer les propositions de régulation de la finance internationale et en discuter la faisabilité.",
       "auteurs_associes": [
         "James Tobin (1972, 1978)"
       ],
@@ -1194,6 +1256,7 @@
         "desequilibres"
       ],
       "definition": "Différence entre le taux auquel emprunte un État et celui d'un emprunteur de référence jugé plus sûr (pour la France, en général l'Allemagne). Il mesure la prime de risque exigée par les investisseurs.",
+      "dans_une_copie": "Permet d'illustrer les contraintes que les marchés font peser sur les finances publiques et la confiance dans la signature d'un État.",
       "auteurs_associes": [],
       "mots_cles": [
         "spread",
@@ -1212,6 +1275,7 @@
         "desequilibres"
       ],
       "definition": "Selon le Bureau international du travail, est au chômage une personne en âge de travailler qui n'a pas travaillé, même une heure, au cours d'une semaine donnée, est disponible pour travailler dans les deux semaines et a cherché activement un emploi au cours des quatre dernières semaines.",
+      "dans_une_copie": "À poser en introduction de tout sujet sur le chômage, avant d'en discuter les limites (halo du chômage, sous-emploi).",
       "auteurs_associes": [
         "Bureau international du travail"
       ],
@@ -1231,6 +1295,7 @@
         "desequilibres"
       ],
       "definition": "Le chômage classique résulte d'un coût du travail trop élevé par rapport à sa productivité (problème d'offre). Le chômage keynésien résulte d'une demande de biens insuffisante, qui conduit les entreprises à embaucher moins (problème de demande).",
+      "dans_une_copie": "Permet de structurer un sujet sur les causes du chômage et les politiques à mener, selon que le problème vient de l'offre ou de la demande.",
       "auteurs_associes": [
         "Edmond Malinvaud (1977)"
       ],
@@ -1250,6 +1315,7 @@
         "desequilibres"
       ],
       "definition": "Le chômage structurel persiste indépendamment de la conjoncture (inadéquation des qualifications, fonctionnement du marché du travail). Le NAIRU est le taux de chômage compatible avec une inflation stable.",
+      "dans_une_copie": "Utile pour distinguer le chômage lié à la conjoncture de celui lié au fonctionnement du marché du travail, et pour discuter les réformes structurelles.",
       "auteurs_associes": [
         "Milton Friedman (1968)",
         "Edmund Phelps (1967)",
@@ -1271,6 +1337,7 @@
         "desequilibres"
       ],
       "definition": "Relation empirique décroissante entre le taux de chômage et la hausse des salaires (puis l'inflation). Friedman et Phelps montrent qu'à long terme cet arbitrage disparaît, une fois que les anticipations d'inflation s'ajustent.",
+      "dans_une_copie": "À présenter avec ses critiques dans un sujet sur l'arbitrage entre inflation et chômage.",
       "auteurs_associes": [
         "Alban W. Phillips (1958)",
         "Paul Samuelson et Robert Solow (1960)",
@@ -1292,6 +1359,7 @@
         "desequilibres"
       ],
       "definition": "Hausse générale et durable du niveau des prix, qui réduit le pouvoir d'achat de la monnaie. Elle est mesurée en France par l'indice des prix à la consommation (IPC) et, dans la zone euro, par l'indice des prix à la consommation harmonisé (IPCH).",
+      "dans_une_copie": "À définir précisément en introduction de tout sujet sur les prix, avant d'en analyser les causes et les effets redistributifs.",
       "auteurs_associes": [],
       "mots_cles": [
         "inflation",
@@ -1310,6 +1378,7 @@
         "desequilibres"
       ],
       "definition": "L'inflation par la demande naît d'une demande supérieure aux capacités de production. L'inflation par les coûts provient de la hausse des coûts de production (énergie, matières premières, salaires) répercutée dans les prix de vente.",
+      "dans_une_copie": "Permet de structurer l'analyse des causes de l'inflation et d'en déduire la politique adaptée, notamment face à un choc énergétique.",
       "auteurs_associes": [],
       "mots_cles": [
         "inflation",
@@ -1329,6 +1398,7 @@
         "finance"
       ],
       "definition": "Relation MV = PY selon laquelle, à vitesse de circulation et production données, une hausse de la masse monétaire se traduit par une hausse des prix. Friedman en tire la formule « l'inflation est toujours et partout un phénomène monétaire ».",
+      "dans_une_copie": "Utile pour présenter l'approche monétariste de l'inflation, à confronter aux explications par les coûts et par la demande.",
       "auteurs_associes": [
         "Irving Fisher (1911)",
         "Milton Friedman (1970)"
@@ -1348,6 +1418,7 @@
         "desequilibres"
       ],
       "definition": "Mécanisme d'auto-entretien de l'inflation : la hausse des prix entraîne des revendications salariales, dont la satisfaction augmente les coûts des entreprises, puis les prix.",
+      "dans_une_copie": "Permet d'expliquer comment une inflation peut s'auto-entretenir et pourquoi les banques centrales surveillent les salaires.",
       "auteurs_associes": [],
       "mots_cles": [
         "salaires",
@@ -1365,6 +1436,7 @@
         "desequilibres"
       ],
       "definition": "La désinflation est un ralentissement de la hausse des prix. La déflation est une baisse générale et durable des prix : elle incite à différer les achats et alourdit le poids réel des dettes.",
+      "dans_une_copie": "Utile pour distinguer ralentissement et baisse des prix, et pour expliquer les dangers de la déflation (report des achats, poids des dettes).",
       "auteurs_associes": [
         "Irving Fisher (1933)"
       ],
@@ -1384,6 +1456,7 @@
         "desequilibres"
       ],
       "definition": "Situation qui combine stagnation ou recul de l'activité, hausse du chômage et forte inflation, comme après les chocs pétroliers des années 1970.",
+      "dans_une_copie": "À mobiliser pour analyser les dilemmes de politique économique face à un choc d'offre, en référence aux années 1970.",
       "auteurs_associes": [],
       "mots_cles": [
         "stagflation",
@@ -1401,6 +1474,7 @@
         "desequilibres"
       ],
       "definition": "Quantité de biens et de services qu'un revenu permet d'acheter. Il progresse lorsque le revenu augmente plus vite que les prix.",
+      "dans_une_copie": "Permet de relier inflation, salaires et consommation, dans un sujet sur les inégalités ou sur les effets de l'inflation sur les ménages.",
       "auteurs_associes": [],
       "mots_cles": [
         "pouvoir d'achat",
@@ -1419,6 +1493,7 @@
         "desequilibres"
       ],
       "definition": "Les inégalités de revenus et de patrimoine se mesurent notamment par le coefficient de Gini (de 0, égalité parfaite, à 1, inégalité maximale), le rapport interdécile (D9/D1) et la part du revenu ou du patrimoine détenue par les 1 % ou 10 % les plus aisés.",
+      "dans_une_copie": "À poser en introduction d'un sujet sur les inégalités, pour préciser ce que l'on mesure (revenus ou patrimoine) et avec quels indicateurs.",
       "auteurs_associes": [
         "Corrado Gini (1912)"
       ],
@@ -1440,6 +1515,7 @@
         "epargne"
       ],
       "definition": "Selon Piketty, lorsque le rendement du capital (r) dépasse durablement le taux de croissance de l'économie (g), les patrimoines, notamment hérités, progressent plus vite que les revenus du travail, ce qui accroît la concentration des patrimoines.",
+      "dans_une_copie": "Utile dans un sujet sur les inégalités de patrimoine et la transmission, à présenter comme une thèse discutée.",
       "auteurs_associes": [
         "Thomas Piketty (Le Capital au XXIe siècle, 2013)"
       ],
@@ -1460,6 +1536,7 @@
         "desequilibres"
       ],
       "definition": "Action des pouvoirs publics qui modifie la répartition primaire des revenus par les prélèvements (impôts, cotisations) et les prestations sociales, afin de réduire les inégalités et de couvrir les risques sociaux.",
+      "dans_une_copie": "Permet d'analyser le rôle de l'État dans la réduction des inégalités et de discuter son efficacité et son coût.",
       "auteurs_associes": [],
       "mots_cles": [
         "redistribution",
@@ -1477,6 +1554,7 @@
         "desequilibres"
       ],
       "definition": "Un impôt est progressif lorsque son taux moyen augmente avec la base imposable : les plus aisés paient alors une part plus élevée de leur revenu ou de leur patrimoine.",
+      "dans_une_copie": "À mobiliser dans un sujet sur la justice fiscale ou les inégalités, en présentant les arguments des différents camps.",
       "auteurs_associes": [],
       "mots_cles": [
         "impôt progressif",
@@ -1495,6 +1573,7 @@
         "desequilibres"
       ],
       "definition": "Relation selon laquelle, au-delà d'un certain taux d'imposition, une hausse du taux réduit les recettes fiscales, parce qu'elle décourage l'activité ou encourage l'évasion fiscale (« trop d'impôt tue l'impôt »).",
+      "dans_une_copie": "Utile pour discuter les limites d'une hausse des prélèvements, en soulignant que le niveau du seuil reste débattu.",
       "auteurs_associes": [
         "Arthur Laffer (1974)"
       ],
@@ -1513,6 +1592,7 @@
         "desequilibres"
       ],
       "definition": "Le déficit public est l'excédent des dépenses sur les recettes de l'ensemble des administrations publiques sur une année. Le solde primaire est ce solde hors charges d'intérêts de la dette.",
+      "dans_une_copie": "Permet de raisonner avec précision sur les finances publiques et de distinguer l'effort budgétaire de la charge des intérêts.",
       "auteurs_associes": [],
       "mots_cles": [
         "déficit",
@@ -1531,6 +1611,7 @@
         "desequilibres"
       ],
       "definition": "Ensemble des emprunts contractés par les administrations publiques et non encore remboursés. Dans l'UE, elle se mesure « au sens de Maastricht » et s'exprime en pourcentage du PIB.",
+      "dans_une_copie": "Notion centrale d'un sujet sur les finances publiques, à relier à sa soutenabilité et à ses usages (investissement ou dépenses courantes).",
       "auteurs_associes": [],
       "mots_cles": [
         "dette publique",
@@ -1548,6 +1629,7 @@
         "desequilibres"
       ],
       "definition": "La dette publique augmente mécaniquement en proportion du PIB lorsque le taux d'intérêt apparent sur la dette dépasse le taux de croissance nominal de l'économie, sauf si l'État dégage un excédent primaire suffisant.",
+      "dans_une_copie": "Utile pour montrer mécaniquement pourquoi la hausse des taux d'intérêt rend plus difficile la stabilisation de la dette.",
       "auteurs_associes": [],
       "mots_cles": [
         "dette",
@@ -1566,6 +1648,7 @@
         "finance"
       ],
       "definition": "Capacité d'un État à honorer ses engagements sans défaut ni ajustement budgétaire irréaliste. Elle dépend de l'écart entre taux d'intérêt et croissance, du solde primaire et de la confiance des créanciers.",
+      "dans_une_copie": "À mobiliser dans tout sujet sur les finances publiques, pour discuter les conditions dans lesquelles une dette reste supportable.",
       "auteurs_associes": [
         "Olivier Blanchard (2019)"
       ],
@@ -1586,6 +1669,7 @@
         "desequilibres"
       ],
       "definition": "Utilisation du budget de l'État (dépenses, impôts) pour agir sur l'activité économique. Elle peut être expansionniste (relance) ou restrictive (consolidation, austérité).",
+      "dans_une_copie": "Notion centrale pour analyser les choix entre relance et consolidation, et leurs effets sur la croissance et la dette.",
       "auteurs_associes": [],
       "mots_cles": [
         "budget",
@@ -1604,6 +1688,7 @@
         "desequilibres"
       ],
       "definition": "Mécanisme par lequel une hausse initiale de la dépense (publique ou d'investissement) entraîne une hausse plus que proportionnelle de la production, chaque revenu distribué étant en partie dépensé à son tour.",
+      "dans_une_copie": "Permet de justifier une politique de relance, à nuancer ensuite par l'effet d'éviction et l'ouverture de l'économie.",
       "auteurs_associes": [
         "Richard Kahn (1931)",
         "John Maynard Keynes (1936)"
@@ -1624,6 +1709,7 @@
         "desequilibres"
       ],
       "definition": "Mécanismes budgétaires qui amortissent les fluctuations sans décision nouvelle : en récession, les recettes fiscales baissent et les dépenses sociales (indemnisation du chômage) augmentent, ce qui soutient la demande.",
+      "dans_une_copie": "Utile pour montrer que le budget amortit les cycles sans décision nouvelle, et pour interpréter l'évolution du déficit en récession.",
       "auteurs_associes": [],
       "mots_cles": [
         "stabilisateurs",
@@ -1640,6 +1726,7 @@
         "desequilibres"
       ],
       "definition": "Le déficit conjoncturel est la part du déficit due à la position de l'économie dans le cycle. Le déficit structurel est celui qui subsisterait si l'économie fonctionnait à son niveau potentiel.",
+      "dans_une_copie": "Permet de distinguer ce qui relève de la conjoncture et ce qui relève des choix budgétaires, au cœur des règles européennes.",
       "auteurs_associes": [],
       "mots_cles": [
         "déficit structurel",
@@ -1657,6 +1744,7 @@
         "finance"
       ],
       "definition": "Mécanisme par lequel la hausse des dépenses ou de l'endettement public réduit les dépenses privées, notamment par la hausse des taux d'intérêt qu'elle provoque. Par extension, il désigne une dépense publique qui en réduit une autre.",
+      "dans_une_copie": "Utile pour nuancer l'efficacité d'une relance budgétaire ou pour analyser le poids d'une dépense publique qui en réduit une autre.",
       "auteurs_associes": [],
       "mots_cles": [
         "éviction",
@@ -1674,6 +1762,7 @@
         "desequilibres"
       ],
       "definition": "Thèse selon laquelle une relance financée par l'emprunt est inefficace : les ménages anticipent les impôts futurs nécessaires au remboursement et épargnent davantage.",
+      "dans_une_copie": "Permet de discuter l'efficacité d'une relance financée par la dette, en soulignant les hypothèses fortes de cette thèse.",
       "auteurs_associes": [
         "Robert Barro (1974), d'après David Ricardo"
       ],
@@ -1694,6 +1783,7 @@
         "epargne"
       ],
       "definition": "Système où les cotisations des actifs financent immédiatement les pensions des retraités. Son équilibre dépend du rapport entre le nombre de cotisants et le nombre de retraités, donc de la démographie et de l'emploi.",
+      "dans_une_copie": "Indispensable pour analyser les réformes des retraites et l'effet du vieillissement démographique sur leur équilibre.",
       "auteurs_associes": [],
       "mots_cles": [
         "retraites",
@@ -1713,6 +1803,7 @@
         "epargne"
       ],
       "definition": "Système où chaque actif épargne pour sa propre retraite dans des fonds placés sur les marchés financiers : sa pension dépend des sommes versées et des rendements obtenus.",
+      "dans_une_copie": "Utile pour comparer les systèmes de retraite et discuter leurs avantages et leurs risques respectifs.",
       "auteurs_associes": [],
       "mots_cles": [
         "retraites",
@@ -1732,6 +1823,7 @@
         "croissance"
       ],
       "definition": "Alternance de phases d'expansion et de contraction de l'activité. On parle conventionnellement de récession après deux trimestres consécutifs de baisse du PIB.",
+      "dans_une_copie": "Permet de situer un événement dans la conjoncture et d'analyser les politiques contracycliques.",
       "auteurs_associes": [
         "Clément Juglar (1862)"
       ],
@@ -1752,6 +1844,7 @@
         "entreprises"
       ],
       "definition": "Ouvertures de procédures judiciaires (sauvegarde, redressement, liquidation) lorsqu'une entreprise est en cessation de paiements. Leur nombre est un indicateur des difficultés économiques et un signal pour l'emploi.",
+      "dans_une_copie": "Utile pour illustrer les difficultés conjoncturelles et leurs effets sur l'emploi, ou la destruction créatrice à l'œuvre.",
       "auteurs_associes": [],
       "mots_cles": [
         "faillites",
@@ -1769,6 +1862,7 @@
         "ue"
       ],
       "definition": "Espace sans frontières intérieures où sont garanties les quatre libertés de circulation : biens, services, capitaux et personnes. Prévu par l'Acte unique européen (1986), il est en place depuis 1993.",
+      "dans_une_copie": "Sert de socle à toute analyse de l'intégration économique européenne et de ses effets sur la concurrence et les échanges.",
       "auteurs_associes": [
         "Jacques Delors"
       ],
@@ -1789,6 +1883,7 @@
         "finance"
       ],
       "definition": "Étape de l'intégration européenne qui a conduit à la monnaie unique (l'euro, en 1999) et à une politique monétaire commune confiée à la BCE, accompagnée d'une coordination des politiques budgétaires nationales.",
+      "dans_une_copie": "À mobiliser dans un sujet sur la zone euro, pour en présenter les étapes, les institutions et les fragilités.",
       "auteurs_associes": [
         "Rapport Delors (1989)",
         "traité de Maastricht (1992)"
@@ -1810,6 +1905,7 @@
         "desequilibres"
       ],
       "definition": "Conditions pour adopter l'euro : inflation et taux d'intérêt à long terme proches des pays les plus performants, stabilité du change, déficit public inférieur à 3 % du PIB et dette publique inférieure à 60 % du PIB.",
+      "dans_une_copie": "Utile pour expliquer les règles budgétaires européennes et leur origine, dans un sujet sur la coordination des politiques.",
       "auteurs_associes": [
         "Traité de Maastricht (1992)"
       ],
@@ -1831,6 +1927,7 @@
         "desequilibres"
       ],
       "definition": "Règles budgétaires européennes qui encadrent les déficits et les dettes des États membres. Réformées en 2024, elles reposent désormais sur des trajectoires pluriannuelles de dépenses nettes propres à chaque pays.",
+      "dans_une_copie": "Incontournable pour discuter les marges de manœuvre budgétaires des États membres et la réforme de ces règles.",
       "auteurs_associes": [],
       "mots_cles": [
         "pacte de stabilité",
@@ -1848,6 +1945,7 @@
         "ue"
       ],
       "definition": "Budget d'environ 1 % du revenu national brut européen, encadré par un cadre financier pluriannuel de sept ans et financé par des ressources propres et des contributions des États membres.",
+      "dans_une_copie": "Permet de discuter les moyens limités de l'Union et les débats sur les ressources propres et les contributions nationales.",
       "auteurs_associes": [],
       "mots_cles": [
         "budget européen",
@@ -1865,6 +1963,7 @@
         "ue"
       ],
       "definition": "Première politique commune de la CEE (1962). Elle soutient le revenu des agriculteurs et organise les marchés agricoles ; elle reste l'un des premiers postes du budget européen.",
+      "dans_une_copie": "Utile pour illustrer une politique commune ancienne, ses objectifs, son coût et les tensions qu'elle suscite.",
       "auteurs_associes": [],
       "mots_cles": [
         "PAC",
@@ -1883,6 +1982,7 @@
         "entreprises"
       ],
       "definition": "Compétence exclusive de l'UE exercée par la Commission : contrôle des ententes, des abus de position dominante, des concentrations et des aides d'État.",
+      "dans_une_copie": "À mobiliser dans un sujet sur la régulation des marchés ou des grandes entreprises, notamment du numérique.",
       "auteurs_associes": [],
       "mots_cles": [
         "concurrence",
@@ -1902,6 +2002,7 @@
         "desequilibres"
       ],
       "definition": "Plan de relance européen adopté en 2020 (environ 750 milliards d'euros), financé pour la première fois par un emprunt commun de la Commission sur les marchés financiers.",
+      "dans_une_copie": "Permet d'illustrer une avancée de l'intégration budgétaire européenne et le débat sur la mutualisation des dettes.",
       "auteurs_associes": [],
       "mots_cles": [
         "plan de relance",
@@ -1919,6 +2020,7 @@
         "croissance"
       ],
       "definition": "Capacité de l'UE à agir de manière autonome dans des domaines stratégiques (défense, énergie, technologies, matières premières critiques) en réduisant ses dépendances vis-à-vis de puissances extérieures.",
+      "dans_une_copie": "Utile dans un sujet sur la souveraineté économique, pour analyser les dépendances de l'Union et les politiques qui visent à les réduire.",
       "auteurs_associes": [],
       "mots_cles": [
         "souveraineté",
@@ -1939,6 +2041,7 @@
         "mondialisation"
       ],
       "definition": "Dispositif européen qui applique aux importations de certains produits (acier, ciment, aluminium, engrais…) un prix du carbone équivalent à celui payé par les producteurs européens, pour éviter les « fuites de carbone ».",
+      "dans_une_copie": "Permet d'articuler politique climatique et commerce international, et de discuter le risque de fuites de carbone.",
       "auteurs_associes": [],
       "mots_cles": [
         "MACF",
@@ -1958,6 +2061,7 @@
         "mondialisation"
       ],
       "definition": "Compétence exclusive de l'UE : la Commission négocie les accords commerciaux au nom des États membres et peut adopter des mesures de défense commerciale (droits antidumping, antisubventions).",
+      "dans_une_copie": "À mobiliser dans un sujet sur l'Union face à la mondialisation, pour analyser l'arbitrage entre ouverture et protection.",
       "auteurs_associes": [],
       "mots_cles": [
         "accords commerciaux",
@@ -1975,6 +2079,7 @@
         "ue"
       ],
       "definition": "Existence d'un budget central important qui opère des transferts entre les régions d'une union monétaire pour amortir les chocs asymétriques ; il reste très limité dans la zone euro.",
+      "dans_une_copie": "Utile pour discuter ce qui manque à la zone euro pour amortir les chocs asymétriques.",
       "auteurs_associes": [
         "Peter Kenen (1969)"
       ],
@@ -1994,6 +2099,7 @@
         "finance"
       ],
       "definition": "Ensemble de mécanismes adoptés après la crise de la zone euro : supervision unique des grandes banques par la BCE (depuis 2014) et mécanisme de résolution unique des défaillances bancaires.",
+      "dans_une_copie": "Permet de présenter les réponses européennes à la crise de la zone euro et le lien entre banques et États.",
       "auteurs_associes": [],
       "mots_cles": [
         "union bancaire",
@@ -2011,6 +2117,7 @@
         "ue"
       ],
       "definition": "Principe selon lequel l'UE n'intervient, dans les domaines qui ne relèvent pas de sa compétence exclusive, que si l'objectif ne peut pas être atteint de manière suffisante par les États membres et peut l'être mieux au niveau européen.",
+      "dans_une_copie": "Utile pour discuter la répartition des compétences entre l'Union et les États membres.",
       "auteurs_associes": [
         "Traité de Maastricht (1992)"
       ],
@@ -2030,6 +2137,7 @@
         "epargne"
       ],
       "definition": "Titre de propriété représentant une fraction du capital d'une société, qui donne droit à des dividendes et à un droit de vote. Son cours dépend des anticipations de bénéfices futurs.",
+      "dans_une_copie": "Permet d'expliquer le financement des entreprises par les marchés et le lien entre anticipations de profits et cours de Bourse.",
       "auteurs_associes": [],
       "mots_cles": [
         "actions",
@@ -2049,6 +2157,7 @@
         "epargne"
       ],
       "definition": "Titre de créance représentant un prêt à un État ou à une entreprise, rémunéré par un intérêt (le coupon). Son prix évolue en sens inverse des taux d'intérêt du marché.",
+      "dans_une_copie": "Utile pour expliquer le financement des États et des entreprises par la dette, et la relation inverse entre prix des obligations et taux d'intérêt.",
       "auteurs_associes": [],
       "mots_cles": [
         "obligations",
@@ -2067,6 +2176,7 @@
         "finance"
       ],
       "definition": "Indicateur qui mesure l'évolution des cours d'un panier d'actions représentatif d'un marché : le CAC 40 pour les quarante grandes valeurs de la Bourse de Paris, le S&P 500 pour les États-Unis.",
+      "dans_une_copie": "Permet d'illustrer l'évolution des marchés et de relier valorisations boursières et conjoncture.",
       "auteurs_associes": [],
       "mots_cles": [
         "CAC 40",
@@ -2085,6 +2195,7 @@
         "finance"
       ],
       "definition": "Hypothèse selon laquelle le prix des actifs reflète à tout moment toute l'information disponible, de sorte qu'il est impossible de battre durablement le marché.",
+      "dans_une_copie": "À mobiliser dans un débat sur la rationalité des marchés financiers, à confronter aux bulles et aux crises.",
       "auteurs_associes": [
         "Eugene Fama (1970)"
       ],
@@ -2104,6 +2215,7 @@
         "epargne"
       ],
       "definition": "Actif (or, obligations d'États jugés sûrs, franc suisse) vers lequel les investisseurs se tournent en période d'incertitude, ce qui fait monter son prix.",
+      "dans_une_copie": "Utile pour expliquer les mouvements de capitaux en période d'incertitude, par exemple la hausse de l'or.",
       "auteurs_associes": [],
       "mots_cles": [
         "or",
@@ -2121,6 +2233,7 @@
         "finance"
       ],
       "definition": "Représentation des taux d'intérêt en fonction de la durée des emprunts. Une courbe inversée (taux courts supérieurs aux taux longs) est souvent considérée comme un signal avant-coureur de récession.",
+      "dans_une_copie": "Permet de relier anticipations des marchés, politique monétaire et conjoncture.",
       "auteurs_associes": [],
       "mots_cles": [
         "courbe des taux",
@@ -2139,6 +2252,7 @@
         "desequilibres"
       ],
       "definition": "Évaluation, par des agences (S&P, Moody's, Fitch), du risque qu'un État ne rembourse pas sa dette. Une dégradation de la note peut renchérir le coût de ses emprunts.",
+      "dans_une_copie": "Utile pour illustrer la contrainte que les marchés font peser sur les États endettés et le coût de leur financement.",
       "auteurs_associes": [],
       "mots_cles": [
         "notation",
@@ -2157,6 +2271,7 @@
         "epargne"
       ],
       "definition": "Part du revenu disponible des ménages qui n'est pas consommée. L'épargne finance l'investissement et constitue une précaution face à l'incertitude (épargne de précaution).",
+      "dans_une_copie": "Permet d'analyser les comportements des ménages face à l'incertitude et leurs effets sur la demande.",
       "auteurs_associes": [
         "John Maynard Keynes (1936)"
       ],
@@ -2176,6 +2291,7 @@
         "epargne"
       ],
       "definition": "Modèle selon lequel les ménages épargnent pendant leur vie active et désépargnent à la retraite afin de lisser leur consommation sur l'ensemble de leur vie.",
+      "dans_une_copie": "Utile pour expliquer les comportements d'épargne selon l'âge et les effets du vieillissement sur l'épargne et les retraites.",
       "auteurs_associes": [
         "Franco Modigliani et Richard Brumberg (1954)"
       ],
@@ -2195,6 +2311,7 @@
         "epargne"
       ],
       "definition": "Contrat par lequel un assureur s'engage à verser un capital ou une rente ; c'est le placement préféré des Français. Il bénéficie d'une fiscalité avantageuse en cas de rachat après huit ans et lors de la transmission au décès.",
+      "dans_une_copie": "À mobiliser dans un sujet sur l'orientation de l'épargne des ménages vers le financement de l'économie ou sur la fiscalité du patrimoine.",
       "auteurs_associes": [],
       "mots_cles": [
         "assurance-vie",
@@ -2212,6 +2329,7 @@
         "epargne"
       ],
       "definition": "Produits d'épargne dont le taux, le plafond et la fiscalité sont fixés par l'État (Livret A, LDDS, LEP). Une partie des sommes collectées est centralisée à la Caisse des dépôts pour financer le logement social.",
+      "dans_une_copie": "Permet d'illustrer le rôle de l'État dans l'orientation de l'épargne, notamment vers le logement social.",
       "auteurs_associes": [],
       "mots_cles": [
         "Livret A",
@@ -2231,6 +2349,7 @@
         "entreprises"
       ],
       "definition": "Utilisation de l'endettement pour accroître la rentabilité des capitaux propres d'un investissement, au prix d'un risque accru si le rendement obtenu devient inférieur au coût de la dette.",
+      "dans_une_copie": "Utile pour expliquer la prise de risque financière et la fragilité qu'engendre un endettement élevé.",
       "auteurs_associes": [],
       "mots_cles": [
         "levier",
@@ -2250,6 +2369,7 @@
         "finance"
       ],
       "definition": "Principe selon lequel répartir un placement entre des actifs dont les rendements ne sont pas parfaitement corrélés réduit le risque global, pour un rendement espéré donné.",
+      "dans_une_copie": "Permet de présenter les principes de base de la gestion du risque financier et de la gestion de patrimoine.",
       "auteurs_associes": [
         "Harry Markowitz (1952)"
       ],
@@ -2271,6 +2391,7 @@
         "desequilibres"
       ],
       "definition": "Impôts prélevés sur les biens transmis au décès ou par donation, calculés selon un barème progressif après des abattements qui dépendent du lien de parenté.",
+      "dans_une_copie": "À mobiliser dans un sujet sur les inégalités de patrimoine ou la fiscalité, en présentant les positions en débat.",
       "auteurs_associes": [],
       "mots_cles": [
         "succession",
@@ -2289,6 +2410,7 @@
         "epargne"
       ],
       "definition": "Séparation de la pleine propriété d'un bien entre l'usufruit (droit d'utiliser le bien et d'en percevoir les revenus) et la nue-propriété. C'est un outil courant de transmission du patrimoine.",
+      "dans_une_copie": "Utile pour illustrer les outils de transmission du patrimoine dans un sujet sur l'épargne et la fiscalité.",
       "auteurs_associes": [],
       "mots_cles": [
         "usufruit",

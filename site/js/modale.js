@@ -83,7 +83,7 @@ function blocCopies(copies) {
     <h3 id="copies" class="m-0 text-[15px] font-bold text-accent">Pour tes copies</h3>
     <p class="m-0 flex flex-wrap gap-x-[22px] gap-y-1.5 text-[15px] leading-[1.5]">
       <span><span class="text-encre2">Thème :</span> <strong class="font-bold">${copies.theme_libelle}</strong></span>
-      <span><span class="text-encre2">Notion :</span> <strong class="font-bold text-accent">${copies.notion_terme}</strong></span>
+      <span><span class="text-encre2">Notion :</span> <a href="#/glossaire/${copies.notion_id}" class="font-bold text-accent underline underline-offset-4 decoration-1">${copies.notion_terme}</a></span>
       <span><span class="text-encre2">Usage :</span> <strong class="font-bold">${copies.usage}</strong></span>
     </p>
     <p class="m-0 text-[16px] leading-[1.6] text-pretty">${copies.texte}</p>

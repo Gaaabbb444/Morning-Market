@@ -1,0 +1,114 @@
+{
+ "version_schema": 1,
+ "type": "semaine",
+ "periode": "2026-W42",
+ "du": "2026-10-12",
+ "au": "2026-10-18",
+ "genere_le": "2026-10-18T13:30:00+02:00",
+ "accroche": "L'industrie allemande révise sa position en faveur d'une protection commerciale européenne face à la concurrence chinoise et aux pertes d'emplois.",
+ "synthese": "L'industrie allemande révise sa position en faveur d'une protection commerciale européenne face à la concurrence chinoise et aux pertes d'emplois. En France, l'inflation a atteint 3,1 % sur un an en septembre selon l'Insee, tirée principalement par les hausses de prix de l'énergie et de l'alimentation. Alors que la Cour des comptes met en garde contre le risque d'étouffement financier de l'État, les retombées de l'intelligence artificielle sur la croissance demeurent limitées dans l'Hexagone.",
+ "faits_marquants": [
+  {
+   "date": "2026-10-17",
+   "titre": "Donald Trump suspend les sanctions contre Moscou pour sauver les élections des midterms à la pompe",
+   "source": "La Tribune",
+   "url": "https://www.latribune.fr/article/entreprises-finance/energie-environnement/96167758957597/donald-trump-suspend-les-sanctions-contre-moscou-pour-sauver-les-elections-des-midterms-a-la-pompe",
+   "categorie": "mondialisation",
+   "fil_rouge": "ukraine-sanctions",
+   "titre_fr": null,
+   "a_retenir": "Donald Trump a annoncé la suspension des sanctions et droits de douane votés par le Congrès contre les hydrocarbures russes au nom de l'intérêt national américain."
+  },
+  {
+   "date": "2026-10-17",
+   "titre": "Budget de la Sécu 2027 : en commission, les députés font exploser le déficit à plus de 21 milliards d’euros",
+   "source": "Capital",
+   "url": "https://www.capital.fr/economie-politique/budget-de-la-secu-2027-en-commission-les-deputes-font-exploser-le-deficit-a-plus-de-21-milliards-deuros-1531056",
+   "categorie": "desequilibres",
+   "fil_rouge": "budget-2027",
+   "titre_fr": null,
+   "a_retenir": "En commission à l'Assemblée nationale, les députés ont rejeté le budget de la Sécurité sociale 2027 après avoir refusé la désindexation des pensions de retraite et l'effort sur les retraités."
+  },
+  {
+   "date": "2026-10-17",
+   "titre": "\"Un superpétrolier a heurté une mine\": l'Iran intensifie ses attaques dans le détroit d'Ormuz, alors que le baril de pétrole frôle à nouveau les 110 dollars",
+   "source": "BFM Business",
+   "url": "https://www.bfmtv.com/economie/international/un-superpetrolier-a-heurte-une-mine-l-iran-intensifie-ses-attaques-dans-le-detroit-d-ormuz-alors-que-le-baril-de-petrole-frole-a-nouveau-les-110-dollars_AV-202610170153.html",
+   "categorie": "desequilibres",
+   "fil_rouge": "choc-petrolier-ormuz",
+   "titre_fr": null,
+   "a_retenir": "Un superpétrolier a pris feu après avoir heurté une mine dans le détroit d'Ormuz selon les Gardiens de la Révolution iraniens, sur fond de multiplication des attaques maritimes dans la zone."
+  },
+  {
+   "date": "2026-10-17",
+   "titre": "L’accord franco-allemand sur l’automobile ménage Stellantis mais n’épargne pas Renault",
+   "source": "Le Monde",
+   "url": "https://www.lemonde.fr/economie/article/2026/10/16/l-accord-franco-allemand-sur-l-automobile-menage-stellantis-mais-n-epargne-pas-renault_6795636_3234.html",
+   "categorie": "ue",
+   "fil_rouge": "automobile-europe-chine",
+   "titre_fr": null,
+   "a_retenir": "La France et l'Allemagne ont conclu un accord sur l'automobile européenne prévoyant un assouplissement de la trajectoire d'émissions de CO2."
+  },
+  {
+   "date": "2026-10-17",
+   "titre": "Mouvement du 17 octobre : le cortège s'est élancé à Paris, où des tensions sont à noter, ainsi qu'à Lyon et Marseille",
+   "source": "L'Opinion",
+   "url": "https://www.lopinion.fr/politique/mouvement-du-17-octobre-deux-corteges-sauvages-et-61-interpellations-a-paris-un-commissariat-attaque-a-marseille",
+   "categorie": "desequilibres",
+   "fil_rouge": "conjoncture-france",
+   "titre_fr": null,
+   "a_retenir": "La journée de mobilisation du 17 octobre contre la vie chère a réuni des cortèges à Paris, Marseille, Lyon et Lille, marquée par des dégradations et des commerces pillés."
+  },
+  {
+   "date": "2026-10-18",
+   "titre": "Comment l’industrie allemande a changé de position face à la Chine",
+   "source": "Le Monde",
+   "url": "https://www.lemonde.fr/idees/article/2026/10/18/comment-l-industrie-allemande-a-change-de-position-face-a-la-chine_6797048_3232.html",
+   "categorie": "mondialisation",
+   "fil_rouge": "automobile-europe-chine",
+   "titre_fr": null,
+   "a_retenir": "Confrontée à des pertes massives d'emplois, l'industrie allemande a fait évoluer sa position sur le libre-échange et a soutenu des accords entre Paris et Berlin pour protéger le marché européen de la concurrence jugée déloyale de Pékin."
+  },
+  {
+   "date": "2026-10-18",
+   "titre": "Dans les rayons, la hausse des prix des produits frais risque de se poursuivre",
+   "source": "BFM Business",
+   "url": "https://www.bfmtv.com/economie/video-dans-les-rayons-la-hausse-des-prix-des-produits-frais-risque-de-se-poursuivre_VN-202610180050.html",
+   "categorie": "desequilibres",
+   "fil_rouge": "conjoncture-france",
+   "titre_fr": null,
+   "a_retenir": "Selon les chiffres définitifs de l'Insee, l'inflation française a atteint 3,1 % sur un an en septembre, son plus haut niveau depuis janvier 2024, portée par la hausse des prix alimentaires et de l'énergie, notamment du gazole (+44,1 %)."
+  },
+  {
+   "date": "2026-10-18",
+   "titre": "\"Nous on se pose la question de freiner...\": l'IA génère déjà un tiers de la croissance américaine, presque rien en France: pourquoi les milliards investis dans les data centers ne rapportent pas encore",
+   "source": "BFM Business",
+   "url": "https://www.bfmtv.com/economie/economie-social/france/nous-on-se-pose-la-question-de-freiner-l-ia-genere-deja-un-tiers-de-la-croissance-americaine-presque-rien-en-france-pourquoi-les-milliards-investis-dans-les-data-centers-ne-rapportent-pas-encore_AV-202610180122.html",
+   "categorie": "croissance",
+   "fil_rouge": "intelligence-artificielle",
+   "titre_fr": null,
+   "a_retenir": "Bien que la France accueille environ 350 centres de données et se situe au quatrième rang européen, les investissements dans ces infrastructures ne génèrent pour le moment que des gains de croissance réduits par rapport à ceux observés aux États-Unis."
+  },
+  {
+   "date": "2026-10-18",
+   "titre": "Amélie de Montchalin, première présidente de la Cour des comptes : « Nous menons la bataille de la vérité »",
+   "source": "La Tribune",
+   "url": "https://www.latribune.fr/article/la-tribune-dimanche/dimanche-eco/129388125080514/amelie-de-montchalin-premiere-presidente-de-la-cour-des-comptes-nous-menons-la-bataille-de-la-verite",
+   "categorie": "desequilibres",
+   "fil_rouge": "budget-2027",
+   "titre_fr": null,
+   "a_retenir": "Dans un entretien, la première présidente de la Cour des comptes, Amélie de Montchalin, met en garde contre le risque d'un étouffement financier de la France."
+  },
+  {
+   "date": "2026-10-18",
+   "titre": "Il a tout appris chez Audi en Allemagne et puis il est devenu le \"père de la voiture électrique en Chine\": qui est Wan Gang, l'ingénieur dont une lettre à Pékin a déclenché la déferlante chinoise?",
+   "source": "BFM Business",
+   "url": "https://www.bfmtv.com/economie/entreprises/industries/il-a-tout-appris-chez-audi-en-allemagne-et-puis-il-est-devenu-le-pere-de-la-voiture-electrique-chinoise-qui-est-wan-gang-l-ingenieur-dont-une-lettre-a-pekin-a-declenche-la-deferlante-chinoise_GN-202610180032.html",
+   "categorie": "mondialisation",
+   "fil_rouge": null,
+   "titre_fr": null,
+   "a_retenir": "La trajectoire de l'industrie automobile chinoise s'est appuyée dès le début des années 2000 sur les orientations stratégiques portées par l'ingénieur Wan Gang, qui a convaincu les autorités de Pékin d'investir massivement dans le secteur des véhicules électriques."
+  }
+ ],
+ "fils_rouges": [],
+ "libelle": "Semaine du 12 au 18 octobre 2026"
+}
