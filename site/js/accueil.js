@@ -171,7 +171,7 @@ export function vueAccueil(m) {
       Données du ${m.dateChiffres} : la mise à jour de ce matin n'a pas abouti
     </p>` : ""}
     ${m.sansIA ? top5SansIA(m) : html`
-    <main class="grille-accueil grid grid-cols-12 gap-x-12 items-start">
+    <div class="grille-accueil grid grid-cols-12 gap-x-12 items-start">
       <section aria-labelledby="ess" class="essentiel apparition col-span-7 tuile py-[42px] px-[44px] flex flex-col gap-7">
         <h1 id="ess" class="m-0 text-[16px] font-bold text-accent">L'essentiel</h1>
         <ol class="m-0 p-0 list-none flex flex-col gap-6">
@@ -182,7 +182,7 @@ export function vueAccueil(m) {
         <div id="entete-top5" class="flex items-baseline justify-between gap-3 mb-1 ml-3.5 min-h-6">${enteteTop5(m)}</div>
         <div id="liste-top5" class="flex flex-col gap-0.5">${lignesTop5(m)}</div>
       </section>
-    </main>`}
+    </div>`}
     ${bandeau(m)}
     ${approfondir(m)}
   </div>`;

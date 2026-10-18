@@ -12,6 +12,7 @@ import { modeleFavoris, vueFavoris, listeFavoris } from "./vue-favoris.js";
 import { tousLesFavoris, retirerFavori, fichierExport, importer } from "./favoris.js";
 import { ouvrirRecherche, fermerRecherche, rechercheOuverte } from "./recherche.js";
 import { filtresGlossaire, modeleGlossaire, vueGlossaire, listeConcepts, ficheConcept, boutonsThemes } from "./glossaire.js";
+import { modeleMethodologie, vueMethodologie, sommaire, SECTIONS } from "./methodologie.js";
 import { filtreRetro, modeleCalendrier, modeleRetro, vueArchives, panneauArchives, ongletsArchives } from "./archives.js";
 import { html, dateTitre, dateChiffres, dateLongue, maintenantParis, animationsReduites, COURBE } from "./outils.js";
 import { lire, ecrire } from "./stockage.js";
@@ -36,14 +37,16 @@ const VUES = [
   { cle: "marches", libelle: "Marchés", adresse: "#/marches", titre: "Marchés · Morning Market", icone: "M3 17l5-5 4 4 8-8M14 8h6v6" },
   { cle: "fils", libelle: "Fils rouges", adresse: "#/fils", titre: "Fils rouges · Morning Market",
     icone: "M12 3v2.5M12 10.5v3M12 18.5V21M12 5.5a2.5 2.5 0 1 0 0 5a2.5 2.5 0 1 0 0-5zM12 13.5a2.5 2.5 0 1 0 0 5a2.5 2.5 0 1 0 0-5z" },
-  { cle: "categories", libelle: "Catégories", adresse: "#/categories", titre: "Catégories · Morning Market",
+  { cle: "categories", libelle: "Catégories", adresse: "#/categories", titre: "Catégories · Morning Market", secondaire: true,
     icone: "M4 4h6.5v6.5H4zM13.5 4H20v6.5h-6.5zM4 13.5h6.5V20H4zM13.5 13.5H20V20h-6.5z" },
   { cle: "glossaire", libelle: "Glossaire", adresse: "#/glossaire", titre: "Glossaire · Morning Market",
     icone: "M5 4h11a3 3 0 0 1 3 3v13H8a3 3 0 0 1-3-3zM5 17a3 3 0 0 1 3-3h11" },
-  { cle: "archives", libelle: "Archives", adresse: "#/archives", titre: "Archives · Morning Market",
+  { cle: "archives", libelle: "Archives", adresse: "#/archives", titre: "Archives · Morning Market", secondaire: true,
     icone: "M3 5.5A1.5 1.5 0 0 1 4.5 4h15A1.5 1.5 0 0 1 21 5.5v2A1.5 1.5 0 0 1 19.5 9h-15A1.5 1.5 0 0 1 3 7.5zM5 9v10h14V9M10 13h4" },
-  { cle: "favoris", libelle: "Favoris", adresse: "#/favoris", titre: "Favoris · Morning Market",
+  { cle: "favoris", libelle: "Favoris", adresse: "#/favoris", titre: "Favoris · Morning Market", secondaire: true,
     icone: "M12 3.5l2.6 5.3 5.9.9-4.25 4.1 1 5.85L12 16.9l-5.25 2.75 1-5.85L3.5 9.7l5.9-.9z" },
+  { cle: "methodologie", libelle: "Méthodologie", adresse: "#/methodologie", titre: "Méthodologie · Morning Market", secondaire: true, pied: true,
+    icone: "M12 3a9 9 0 1 0 0 18a9 9 0 1 0 0-18zM12 11v6M12 7.5v.5" },
 ];
 
 /** « #/fils/budget-2027 » → { vue: "fils", parametre: "budget-2027" } */
@@ -53,25 +56,46 @@ function lireAdresse() {
   return VUES.some((v) => v.cle === vue) ? { vue, parametre } : { vue: "accueil", parametre: null };
 }
 
+const lienNavigation = (v) => `
+    <a href="${v.adresse}" data-vue="${v.cle}" ${v.secondaire ? "data-secondaire" : ""} class="lien-nav relative flex items-center gap-3.5 h-[46px] px-3.5 rounded-nav text-[15px] whitespace-nowrap">
+      <svg width="19" height="19" viewBox="0 0 24 24" aria-hidden="true" style="fill:none;stroke-width:1.8;stroke-linecap:round;stroke-linejoin:round;flex-shrink:0"><path d="${v.icone}"></path></svg>${v.libelle}</a>`;
+
 function construireNavigation() {
-  const nav = document.getElementById("navigation");
-  nav.insertAdjacentHTML("beforeend", VUES.map((v) => `
-    <a href="${v.adresse}" data-vue="${v.cle}" class="lien-nav relative flex items-center gap-3.5 h-[46px] px-3.5 rounded-nav text-[15px] whitespace-nowrap">
-      <svg width="19" height="19" viewBox="0 0 24 24" aria-hidden="true" style="fill:none;stroke-width:1.8;stroke-linecap:round;stroke-linejoin:round;flex-shrink:0"><path d="${v.icone}"></path></svg>${v.libelle}</a>`).join(""));
+  document.getElementById("navigation").insertAdjacentHTML("beforeend", VUES.filter((v) => !v.pied).map(lienNavigation).join(""));
+  document.getElementById("bouton-theme").insertAdjacentHTML("beforebegin", VUES.filter((v) => v.pied).map(lienNavigation).join(""));
+  // Menu « Plus » du téléphone : les rubriques secondaires et le thème
+  document.getElementById("menu-plus").innerHTML = `<nav aria-label="Autres rubriques" class="flex flex-col gap-0.5">${VUES.filter((v) => v.secondaire).map(lienNavigation).join("")}</nav>
+    <button type="button" data-bouton-theme class="lien-nav presse flex items-center gap-3.5 h-[46px] px-3.5 border-0 rounded-nav bg-transparent cursor-pointer text-[15px] font-semibold text-left text-encre2">
+      <svg width="19" height="19" viewBox="0 0 24 24" aria-hidden="true" style="fill:none;stroke:currentColor;stroke-width:1.8;stroke-linecap:round;flex-shrink:0"><path d=""></path></svg><span data-libelle></span></button>`;
+  appliquerTheme(themeActuel());
 }
+
+/** Menu « Plus » (téléphone) : ouverture, fermeture par Échap ou clic à l'extérieur. */
+function basculerMenuPlus(ouvrir = document.getElementById("menu-plus").hidden, rendreFocus = false) {
+  const menu = document.getElementById("menu-plus");
+  const bouton = document.getElementById("bouton-plus");
+  menu.hidden = !ouvrir;
+  bouton.setAttribute("aria-expanded", String(ouvrir));
+  if (ouvrir) menu.querySelector("a, button").focus();
+  else if (rendreFocus) bouton.focus();
+}
+const menuPlusOuvert = () => !document.getElementById("menu-plus").hidden;
 
 /** Élément actif de la barre latérale : graisse, couleur, et repère qui glisse (50 px par élément). */
 function marquerNavigation(vue) {
   const cle = vue === "edition" ? "archives" : vue; // une édition archivée se consulte depuis les Archives
-  const index = VUES.findIndex((v) => v.cle === cle);
-  for (const lien of document.querySelectorAll("#navigation [data-vue]")) {
+  const index = VUES.filter((v) => !v.pied).findIndex((v) => v.cle === cle);
+  for (const lien of document.querySelectorAll(".barre-laterale [data-vue], #menu-plus [data-vue]")) {
     const actif = lien.dataset.vue === cle;
     lien.toggleAttribute("aria-current", actif);
     if (actif) lien.setAttribute("aria-current", "page");
     lien.classList.toggle("font-bold", actif); lien.classList.toggle("text-encre", actif);
     lien.classList.toggle("font-semibold", !actif); lien.classList.toggle("text-encre2", !actif);
+    // Hors de la liste principale (Méthodologie, menu « Plus »), pas de repère qui glisse : fond direct
+    if (!lien.closest("#navigation")) lien.classList.toggle("bg-accent-fond", actif);
     lien.querySelector("svg").style.stroke = actif ? "var(--acc)" : "currentColor";
   }
+  document.getElementById("bouton-plus").classList.toggle("actif", Boolean(VUES.find((v) => v.cle === cle)?.secondaire));
   const repere = document.querySelector("#navigation .repere-nav");
   repere.style.transform = `translateY(${Math.max(0, index) * 50}px)`;
   repere.style.opacity = index < 0 ? "0" : "1";
@@ -87,10 +111,11 @@ function appliquerTheme(theme) {
   const racine = document.documentElement;
   racine.classList.toggle("mm-dark", theme === "dark");
   racine.classList.toggle("mm-light", theme === "light");
-  const bouton = document.getElementById("bouton-theme");
-  bouton.querySelector("[data-libelle]").textContent = theme === "dark" ? "Mode clair" : "Mode sombre";
-  bouton.setAttribute("aria-label", theme === "dark" ? "Passer en mode clair" : "Passer en mode sombre");
-  bouton.querySelector("path").setAttribute("d", theme === "dark" ? SOLEIL : LUNE);
+  for (const bouton of document.querySelectorAll("[data-bouton-theme]")) {
+    bouton.querySelector("[data-libelle]").textContent = theme === "dark" ? "Mode clair" : "Mode sombre";
+    bouton.setAttribute("aria-label", theme === "dark" ? "Passer en mode clair" : "Passer en mode sombre");
+    bouton.querySelector("path").setAttribute("d", theme === "dark" ? SOLEIL : LUNE);
+  }
 }
 
 function themeActuel() {
@@ -181,6 +206,7 @@ function modeleArchives(parametre) {
 }
 
 function rendreVue({ vue, parametre }, prepare = {}) {
+  if (vue === "methodologie") return String(vueMethodologie(modeleMethodologie(donnees.reglages, maintenantParis().date), parametre || SECTIONS[0].id));
   if (vue === "glossaire") return String(vueGlossaire(modeleGlossaire(donnees, parametre)));
   if (vue === "archives") return String(vueArchives(modeleArchives(parametre)));
   if (vue === "edition") {
@@ -210,6 +236,8 @@ function afficher(adresse, animer = true) {
   if (adresse.vue === "categories" && vueActuelle?.startsWith("categories/")) return changerOnglet(adresse.parametre, cle);
   if (adresse.vue === "glossaire" && vueActuelle?.startsWith("glossaire/")) return changerConcept(adresse.parametre, cle);
   if (adresse.vue === "archives" && vueActuelle?.startsWith("archives/")) return changerPanneauArchives(adresse.parametre, cle);
+  if (adresse.vue === "methodologie" && vueActuelle?.startsWith("methodologie/")) { vueActuelle = cle; return allerALaPartie(adresse.parametre, true); }
+  if (menuPlusOuvert()) basculerMenuPlus(false);
   const reduit = animationsReduites();
   const preparation = preparerVue(adresse);
   const appliquer = async () => {
@@ -219,7 +247,10 @@ function afficher(adresse, animer = true) {
     marquerNavigation(adresse.vue);
     document.title = adresse.vue === "edition" ? `Édition du ${dateLongue(adresse.parametre)} · Morning Market` : VUES.find((v) => v.cle === adresse.vue).titre;
     zonePrincipale.scrollTop = 0;
+    suiviSommaire?.disconnect();
     if (adresse.vue === "glossaire") montrerConceptActif();
+    if (adresse.vue === "methodologie") { allerALaPartie(adresse.parametre, false); suivreLaLecture(); }
+    if (animer) contenu.focus({ preventScroll: true }); // les lecteurs d'écran annoncent la nouvelle page
     navigationEnCours = false;
     if (animer) contenu.animate([{ opacity: 0, transform: reduit ? "none" : "translateY(10px)" }, { opacity: 1, transform: "none" }], { duration: reduit ? 250 : 320, easing: COURBE });
     contenu.classList.add("sans-apparition"); // l'arrivée animée de l'accueil ne se rejoue pas
@@ -264,6 +295,32 @@ function changerConcept(id, cle) {
   // Sur téléphone, la fiche est sous la liste : on l'amène à l'écran
   if (matchMedia("(max-width: 900px)").matches) fiche.scrollIntoView({ behavior: animationsReduites() ? "auto" : "smooth", block: "start" });
   vueActuelle = cle;
+}
+
+/** Méthodologie : fait défiler jusqu'à une partie (lien du sommaire ou adresse partagée). */
+function allerALaPartie(id, doucement) {
+  const titre = id && document.getElementById(id);
+  if (!titre) return;
+  titre.scrollIntoView({ behavior: doucement && !animationsReduites() ? "smooth" : "auto", block: "start" });
+  marquerPartie(id);
+}
+
+function marquerPartie(id) {
+  const conteneur = document.getElementById("sommaire-methodo");
+  if (conteneur) conteneur.innerHTML = String(sommaire(id));
+}
+
+/** Le sommaire met en avant la partie en cours de lecture (sans changer l'adresse). */
+let suiviSommaire = null;
+function suivreLaLecture() {
+  const titres = SECTIONS.map((s) => document.getElementById(s.id)).filter(Boolean);
+  if (!titres.length || !("IntersectionObserver" in window)) return;
+  suiviSommaire = new IntersectionObserver(() => {
+    const haut = zonePrincipale.getBoundingClientRect().top;
+    const passes = titres.filter((t) => t.getBoundingClientRect().top - haut < zonePrincipale.clientHeight * 0.35);
+    marquerPartie((passes[passes.length - 1] || titres[0]).id);
+  }, { root: zonePrincipale, rootMargin: "0px 0px -60% 0px", threshold: [0, 1] });
+  titres.forEach((t) => suiviSommaire.observe(t));
 }
 
 /** La liste des concepts défile (elle seule) jusqu'au concept affiché dans la fiche. */
@@ -457,18 +514,26 @@ contenu.addEventListener("change", (e) => {
 document.addEventListener("keydown", (e) => {
   if (e.key === "Escape" && modaleOuverte()) fermerModale();
   else if (e.key === "Escape" && rechercheOuverte()) fermerRecherche();
+  else if (e.key === "Escape" && menuPlusOuvert()) basculerMenuPlus(false, true);
 });
 window.addEventListener("hashchange", () => { if (donnees) afficher(lireAdresse()); }); // rien avant le chargement des données
-document.getElementById("bouton-theme").addEventListener("click", basculerTheme);
+document.addEventListener("click", (e) => {
+  // Lien d'évitement : donne le focus au contenu sans toucher à l'adresse (qui sert à la navigation)
+  if (e.target.closest("#lien-evitement")) { e.preventDefault(); contenu.focus(); return; }
+  if (e.target.closest("[data-bouton-theme]")) basculerTheme();
+  if (e.target.closest("#bouton-plus")) basculerMenuPlus();
+  else if (menuPlusOuvert() && !e.target.closest("#menu-plus")) basculerMenuPlus(false);
+});
 
 // ---------------------------------------------------------------------------
 // Démarrage
 // ---------------------------------------------------------------------------
 async function demarrer() {
   appliquerTheme(new URLSearchParams(location.search).get("theme") || lire("theme", "dark"));
-  donnees = await chargerAccueil();
-  donnees.indexRecaps = (await charger("data/recaps/index.json"))?.recaps || [];
   construireNavigation();
+  const chargees = await chargerAccueil();
+  chargees.indexRecaps = (await charger("data/recaps/index.json"))?.recaps || [];
+  donnees = chargees; // seulement maintenant : un changement d'adresse plus tôt attend ce premier affichage
   afficher(lireAdresse(), false);
   contenu.classList.remove("sans-apparition"); // premier affichage : l'accueil arrive avec son animation
 }

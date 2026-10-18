@@ -5,7 +5,33 @@ des thèmes de TEJM et la présentation des indicateurs, pour qu'aucun libellé 
 écrit en dur dans le code du site.
 """
 
+import re
+from pathlib import Path
+
 GROUPES_INDICATEURS = ["Marchés", "Change", "Taux", "Économie"]
+WORKFLOW = Path(__file__).resolve().parent.parent / ".github" / "workflows" / "mise-a-jour.yml"
+
+
+def passages_utc(chemin: Path = WORKFLOW) -> list[str]:
+    """Heures (UTC) des mises à jour planifiées, lues dans le workflow : « 7 4 * * * » → « 04:07 »."""
+    try:
+        texte = chemin.read_text(encoding="utf-8")
+    except OSError:
+        return []
+    return sorted(f"{int(h):02d}:{int(m):02d}" for m, h in re.findall(r'cron:\s*"(\d+) (\d+) \* \* \*"', texte))
+
+
+def methodologie(config: dict) -> dict:
+    """Faits affichés par la page Méthodologie : médias suivis, modèles d'IA, horaires des passages."""
+    sources, vus = [], set()
+    for s in config["sources"]:
+        if s["nom"] not in vus:
+            vus.add(s["nom"])
+            sources.append({"nom": s["nom"], "type": s["type"]})
+    noms = config["ia"].get("noms_affiches", {})
+    modeles = lambda niveau: list(dict.fromkeys(noms.get(m["modele"], m["modele"]) for m in config["ia"]["niveaux"][niveau]))
+    return {"sources": sources, "modeles_redaction": modeles("high"), "modeles_classement": modeles("low"),
+            "passages_utc": passages_utc(), "fenetre_heures": config["collecte"]["fenetre_heures"]}
 
 
 def produire(config: dict) -> dict:
@@ -25,7 +51,7 @@ def produire(config: dict) -> dict:
     themes_glossaire = [{"id": th["id"], "libelle": th["libelle"], "libelle_court": th["libelle_court"]} for th in config["themes_tejm"]]
     themes_glossaire.append({"id": "marches", "libelle": "Marchés et épargne", "libelle_court": "Marchés et épargne"})
     return {"version_schema": 1, "categories": categories, "themes_tejm": config["themes_tejm"], "themes_glossaire": themes_glossaire,
-            "indicateurs": indicateurs, "groupes_indicateurs": GROUPES_INDICATEURS}
+            "indicateurs": indicateurs, "groupes_indicateurs": GROUPES_INDICATEURS, "methodologie": methodologie(config)}
 
 
 def valider(donnees) -> str | None:

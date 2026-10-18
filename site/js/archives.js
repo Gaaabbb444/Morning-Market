@@ -124,7 +124,7 @@ export function contenuRetro(r) {
     </div>
     <section aria-label="Frise de l'année" class="tuile pt-6 px-9 pb-2.5 flex flex-col">
       ${r.mois.length ? r.mois.map((m, j) => html`
-      <div class="ligne-tableau grid grid-cols-[132px_minmax(0,1fr)] gap-x-7 py-3.5 border-t" style="border-top-color:${j === 0 ? "transparent" : "var(--sep)"}">
+      <div class="ligne-tableau ligne-mois grid grid-cols-[132px_minmax(0,1fr)] gap-x-7 py-3.5 border-t" style="border-top-color:${j === 0 ? "transparent" : "var(--sep)"}">
         <h3 class="m-0 pt-3 text-[20px] font-extrabold tracking-[-0.02em]">${m.nom}</h3>
         <ol class="m-0 p-0 list-none flex flex-col gap-0.5">
           ${m.evenements.map((e) => html`

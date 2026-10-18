@@ -52,6 +52,7 @@ ECRANS = {
     "glossaire": (17, "base", "adresse:#/glossaire"),
     "archives": (13, "base", "adresse:#/archives"),
     "retrospective": (15, "retrospective", "adresse:#/archives/retro"),
+    "methodologie": (23, "base", "adresse:#/methodologie"),
 }
 
 

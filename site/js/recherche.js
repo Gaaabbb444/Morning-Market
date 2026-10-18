@@ -48,7 +48,7 @@ export function chercher(terme, sources) {
   }).filter(Boolean).slice(0, PAR_GROUPE);
   if (indicateurs.length) groupes.push({ titre: "Indicateurs", resultats: indicateurs });
 
-  const themes = Object.fromEntries((sources.reglages?.themes_glossaire || []).map((th) => [th.id, th.libelle]));
+  const themes = Object.fromEntries((sources.reglages?.themes_glossaire || []).map((th) => [th.id, th.libelle_court || th.libelle]));
   const concepts = (sources.concepts?.concepts || []).map((c) => {
     const morceaux = decouper(c.terme, q);
     return morceaux && { ...morceaux, sous: themes[c.theme] || "Glossaire", action: "aller", adresse: `#/glossaire/${c.id}` };

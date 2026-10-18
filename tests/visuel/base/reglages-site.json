@@ -266,5 +266,84 @@
     "Change",
     "Taux",
     "Économie"
-  ]
+  ],
+  "methodologie": {
+    "sources": [
+      {
+        "nom": "Le Monde",
+        "type": "presse"
+      },
+      {
+        "nom": "Le Figaro",
+        "type": "presse"
+      },
+      {
+        "nom": "franceinfo",
+        "type": "presse"
+      },
+      {
+        "nom": "Les Echos",
+        "type": "agregateur"
+      },
+      {
+        "nom": "La Tribune",
+        "type": "presse"
+      },
+      {
+        "nom": "BFM Business",
+        "type": "presse"
+      },
+      {
+        "nom": "Capital",
+        "type": "presse"
+      },
+      {
+        "nom": "Alternatives Économiques",
+        "type": "presse"
+      },
+      {
+        "nom": "L'Opinion",
+        "type": "presse"
+      },
+      {
+        "nom": "Toute l'Europe",
+        "type": "presse"
+      },
+      {
+        "nom": "BCE",
+        "type": "institution"
+      },
+      {
+        "nom": "INSEE",
+        "type": "institution"
+      },
+      {
+        "nom": "Ministère de l'Économie",
+        "type": "institution"
+      },
+      {
+        "nom": "BBC",
+        "type": "international"
+      },
+      {
+        "nom": "The Guardian",
+        "type": "international"
+      }
+    ],
+    "modeles_redaction": [
+      "Gemini 3.8 Flash (Google)",
+      "gpt-oss-120b (OpenAI, servi par Groq)",
+      "Gemini 3.5 Flash-Lite (Google)"
+    ],
+    "modeles_classement": [
+      "Gemini 3.5 Flash-Lite (Google)",
+      "gpt-oss-20b (OpenAI, servi par Groq)",
+      "Gemini 3.8 Flash (Google)"
+    ],
+    "passages_utc": [
+      "04:07",
+      "08:23"
+    ],
+    "fenetre_heures": 30
+  }
 }

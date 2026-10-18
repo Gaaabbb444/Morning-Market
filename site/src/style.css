@@ -176,6 +176,22 @@
   .apparition { animation: apparition 0.42s var(--ease-mm) both; }
 
   .defilement { scrollbar-width: thin; }
+
+  /* Texte long de la page Méthodologie (règles .prose de la maquette) */
+  .prose-methodo { font-size: 18px; line-height: 1.75; color: var(--ink); }
+  .prose-methodo p { margin: 0 0 22px; opacity: 0.88; }
+  .prose-methodo h2 { margin: 60px 0 18px; font-size: 27px; font-weight: 800; letter-spacing: -0.025em; line-height: 1.25; color: var(--ink); scroll-margin-top: 24px; }
+  .prose-methodo ul { margin: 0 0 22px; padding: 0; list-style: none; display: flex; flex-direction: column; gap: 14px; opacity: 0.88; }
+  .prose-methodo li { position: relative; padding-left: 26px; }
+  .prose-methodo li::before { content: ""; position: absolute; left: 4px; top: 13px; width: 7px; height: 7px; border-radius: 999px; background: var(--acc); }
+  .prose-methodo strong { color: var(--ink); font-weight: 700; }
+  .sommaire-methodo a { transition: color 0.2s ease, border-color 0.2s ease; }
+  .sommaire-methodo a:hover { color: var(--ink); }
+
+  /* Lien d'évitement : invisible tant qu'il n'a pas le focus clavier */
+  .lien-evitement { position: absolute; left: 16px; top: -60px; z-index: 50; transition: transform 0.2s ease; }
+  .lien-evitement:focus { transform: translateY(76px); }
+
 }
 
 /* Courbes de Marchés : tracé (stroke-dashoffset), aire en fondu, barres qui montent depuis l'axe */
@@ -206,15 +222,37 @@
   ::view-transition-old(root), ::view-transition-new(root) { animation-duration: 0.25s; }
 }
 
+/* Bouton « Plus » et son menu : utilisés seulement sur téléphone (hors couche, pour que la règle téléphone l'emporte) */
+.bouton-plus, .menu-plus { display: none; }
+
 /* Téléphone et petites fenêtres (règles reprises du prototype ; barre de navigation en bas) */
 @media (max-width: 900px) {
   .coque { flex-direction: column; }
+  /* Barre du bas : 4 rubriques principales + « Plus » (les autres rubriques et le thème) */
   .barre-laterale {
-    order: 2; width: auto !important; flex-direction: row !important; align-items: center; overflow-x: auto;
-    padding: 8px 12px !important; gap: 8px !important; border-right: 0 !important; border-top: 1px solid var(--sep);
+    order: 2; width: auto !important; flex-direction: row !important; align-items: stretch;
+    padding: 6px 8px calc(6px + env(safe-area-inset-bottom)) !important; gap: 0 !important;
+    border-right: 0 !important; border-top: 1px solid var(--sep);
   }
-  .barre-laterale .marque, .repere-nav { display: none; }
-  .barre-laterale nav, .barre-laterale .pied-barre { flex-direction: row !important; margin-top: 0 !important; }
+  .barre-laterale .marque, .repere-nav, .barre-laterale .pied-barre, #navigation [data-secondaire] { display: none !important; }
+  #navigation { flex: 1; flex-direction: row !important; justify-content: space-around; gap: 0 !important; }
+  #navigation .lien-nav {
+    flex: 1 1 0; min-width: 0; flex-direction: column; justify-content: center; gap: 3px !important;
+    height: 54px !important; padding: 0 2px !important; font-size: 11.5px !important; border-radius: 14px;
+  }
+  #navigation [aria-current] { background: var(--accbg); }
+  .bouton-plus { display: flex !important; }
+  .bouton-plus.actif { background: var(--accbg); color: var(--ink) !important; font-weight: 700; }
+  .menu-plus:not([hidden]) {
+    display: flex !important; flex-direction: column; gap: 2px; position: fixed; z-index: 30;
+    left: 12px; right: 12px; bottom: calc(76px + env(safe-area-inset-bottom)); padding: 8px; border-radius: 24px;
+    animation: apparition 0.2s var(--ease-mm) both;
+  }
+  .menu-plus [aria-current] { background: var(--accbg); }
+  .grille-methodo { display: block !important; padding-top: 0 !important; }
+  .article-methodo { width: auto !important; }
+  .article-methodo h1 { font-size: 32px !important; }
+  .sommaire-methodo { display: none !important; }
   .zone-principale { padding: 24px 16px 48px !important; }
   .grille-accueil { display: flex !important; flex-direction: column; gap: 24px; }
   .grille-accueil > * { width: auto !important; }
@@ -228,6 +266,12 @@
   .panneau-onglet { padding: 24px 20px 18px !important; }
   .panneau-onglet h2 { font-size: 22px !important; }
   .ligne-marche, .ligne-tableau { grid-template-columns: 1fr 1fr !important; row-gap: 10px; }
+  /* Fils rouges : le titre sur toute la largeur, puis la date et le statut (le nombre d'événements est dans le détail) */
+  .entete-fils, .ligne-fil > :nth-child(2) { display: none !important; }
+  .ligne-fil { grid-template-columns: minmax(0, 1fr) auto !important; padding: 14px 12px !important; }
+  .ligne-fil > :first-child { grid-column: 1 / -1; }
+  .ligne-mois { grid-template-columns: 1fr !important; row-gap: 0; }
+  .ligne-mois h3 { padding-top: 4px !important; }
   .en-tete { flex-direction: column; align-items: flex-start !important; height: auto !important; }
   .en-tete > div { flex-shrink: 1 !important; max-width: 100%; }
   #pastilles { flex-wrap: wrap; }

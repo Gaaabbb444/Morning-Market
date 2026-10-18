@@ -53,11 +53,11 @@ export function vueListeFils(m) {
       <p class="m-0 text-[16px] font-medium text-encre2">${m.sousTitre}</p>
     </header>
     <section aria-label="Liste des fils rouges" class="tuile pt-4 px-6 pb-4">
-      <div class="ligne-tableau grid ${colonnes} gap-x-6 pt-2.5 px-5 pb-3 text-[13.5px] font-bold text-encre3" aria-hidden="true">
+      <div class="ligne-tableau entete-fils grid ${colonnes} gap-x-6 pt-2.5 px-5 pb-3 text-[13.5px] font-bold text-encre3" aria-hidden="true">
         <span>Sujet</span><span class="text-right">Événements</span><span>Dernière évolution</span><span>Statut</span>
       </div>
       ${m.lignes.map((f, j) => html`
-      <a href="#/fils/${f.id}" class="survol ligne-tableau w-full grid ${colonnes} gap-x-6 items-center py-[15px] px-5 border-t rounded-[20px] text-left" style="border-top-color:${j === 0 ? "transparent" : "var(--sep)"}">
+      <a href="#/fils/${f.id}" class="survol ligne-tableau ligne-fil w-full grid ${colonnes} gap-x-6 items-center py-[15px] px-5 border-t rounded-[20px] text-left" style="border-top-color:${j === 0 ? "transparent" : "var(--sep)"}">
         <span class="flex flex-col gap-1 min-w-0">
           <span class="souligne text-[17px] font-bold leading-[1.4]" style="color:${f.couleurTitre}">${f.titre}</span>
           <span class="text-[14px] font-medium text-encre3">${f.categorie}</span>

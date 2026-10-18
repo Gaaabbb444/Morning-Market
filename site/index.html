@@ -21,20 +21,24 @@
 <body>
   <div class="coque relative flex w-full h-screen min-h-[640px] overflow-hidden bg-fond text-encre font-sans">
     <div class="fond-anime" aria-hidden="true"></div>
+    <a href="#contenu" id="lien-evitement" class="lien-evitement h-11 px-5 inline-flex items-center rounded-full text-[15px] font-bold text-sur-accent bg-accent">Aller au contenu</a>
 
     <aside class="barre-laterale relative z-[1] w-[232px] shrink-0 box-border pt-10 px-5 pb-7 flex flex-col gap-11 bg-cote border-r border-cote-bord">
       <span class="marque px-3.5 text-[20px] font-extrabold tracking-[-0.03em]">Morning Market</span>
       <nav id="navigation" aria-label="Navigation principale" class="relative flex flex-col gap-1">
         <span aria-hidden="true" class="repere-nav absolute inset-x-0 top-0 h-[46px] rounded-nav bg-accent-fond"></span>
       </nav>
+      <button type="button" id="bouton-plus" class="bouton-plus lien-nav presse flex-col items-center justify-center gap-[3px] flex-1 min-w-0 h-[54px] px-0.5 border-0 rounded-[14px] bg-transparent cursor-pointer text-[11.5px] font-semibold text-encre2" aria-expanded="false" aria-controls="menu-plus">
+        <svg width="19" height="19" viewBox="0 0 24 24" aria-hidden="true" style="fill:none;stroke:currentColor;stroke-width:3;stroke-linecap:round"><path d="M5 12h.01M12 12h.01M19 12h.01"></path></svg>Plus</button>
+      <div id="menu-plus" class="menu-plus fenetre" hidden></div>
       <div class="pied-barre mt-auto flex flex-col gap-1">
-        <button type="button" id="bouton-theme" class="lien-nav presse flex items-center gap-3.5 h-[46px] px-3.5 border-0 rounded-nav bg-transparent cursor-pointer text-[15px] font-semibold whitespace-nowrap text-left text-encre2" aria-label="Passer en mode clair">
+        <button type="button" id="bouton-theme" data-bouton-theme class="lien-nav presse flex items-center gap-3.5 h-[46px] px-3.5 border-0 rounded-nav bg-transparent cursor-pointer text-[15px] font-semibold whitespace-nowrap text-left text-encre2" aria-label="Passer en mode clair">
           <svg width="19" height="19" viewBox="0 0 24 24" aria-hidden="true" style="fill:none;stroke:currentColor;stroke-width:1.8;stroke-linecap:round;flex-shrink:0"><path d=""></path></svg><span data-libelle>Mode clair</span></button>
       </div>
     </aside>
 
-    <div id="zone-principale" class="zone-principale defilement relative z-[1] flex-1 min-w-0 overflow-y-auto box-border pt-10 pr-[72px] pb-[72px] pl-16">
-      <div id="contenu" class="max-w-[1180px]" aria-live="polite"></div>
+    <div id="zone-principale" tabindex="0" aria-label="Contenu de la page" class="zone-principale defilement focus-visible:outline-offset-[-3px] relative z-[1] flex-1 min-w-0 overflow-y-auto box-border pt-10 pr-[72px] pb-[72px] pl-16">
+      <main id="contenu" class="max-w-[1180px] outline-none" tabindex="-1"></main>
     </div>
 
     <div id="couche-modale"></div>

@@ -295,6 +295,12 @@ ia:
       - { fournisseur: gemini, modele: "gemini-3.5-flash-lite" }
       - { fournisseur: groq,   modele: "openai/gpt-oss-20b" }
       - { fournisseur: gemini, modele: "gemini-3.8-flash" }
+  # Noms lisibles des modèles, pour la page Méthodologie du site
+  noms_affiches:
+    "gemini-3.8-flash": "Gemini 3.8 Flash (Google)"
+    "gemini-3.5-flash-lite": "Gemini 3.5 Flash-Lite (Google)"
+    "openai/gpt-oss-120b": "gpt-oss-120b (OpenAI, servi par Groq)"
+    "openai/gpt-oss-20b": "gpt-oss-20b (OpenAI, servi par Groq)"
   attente_max_429_secondes: 65   # si on nous demande d'attendre plus longtemps, on passe au fournisseur suivant
   delai_reseau_secondes: 120
   budget_requetes: 30            # plafond par exécution (garde-fou contre une boucle)

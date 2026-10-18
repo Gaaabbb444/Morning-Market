@@ -2,3 +2,4 @@
 -r requirements.txt
 playwright==1.64.0   # captures d'écran automatiques pour comparer le site à la maquette
 pillow==11.3.0       # assemblage des captures côte à côte
+axe-playwright-python==0.1.8   # audit d'accessibilité automatique (axe-core) des pages du site

@@ -264,6 +264,31 @@ def main() -> int:
         verifier("Lot 4 : aucune erreur dans la console", not erreurs, erreurs[:3])
         contexte.close()
 
+        # 4 ter. Lot 5 : Méthodologie et clavier
+        contexte, page, erreurs = nouvelle_page(navigateur)
+        page.goto(ADRESSE + "#/"); page.wait_for_timeout(1200)
+        page.keyboard.press("Tab"); page.wait_for_timeout(400)  # le lien glisse à l'écran en 0,2 s
+        verifier("Clavier : le premier Tab montre « Aller au contenu »", page.evaluate("document.activeElement.id") == "lien-evitement"
+                 and page.locator("#lien-evitement").bounding_box()["y"] >= 0)
+        page.keyboard.press("Enter"); page.wait_for_timeout(300)
+        verifier("« Aller au contenu » : focus sur le contenu, page inchangée", page.evaluate("document.activeElement.id") == "contenu"
+                 and page.url.endswith("#/") and page.locator("#liste-top5").count() == 1)
+        page.click('.pied-barre a[data-vue="methodologie"]'); page.wait_for_timeout(1000)
+        verifier("Barre latérale → Méthodologie", page.title().startswith("Méthodologie") and "Gabriel Tillet" in page.inner_text("#contenu")
+                 and page.get_attribute('.pied-barre a[data-vue="methodologie"]', "aria-current") == "page")
+        verifier("Après un changement de page, le focus est sur le contenu", page.evaluate("document.activeElement.id") == "contenu")
+        verifier("Méthodologie : aucun texte provisoire ni adresse e-mail",
+                 not any(m in page.inner_text("#contenu") for m in ("[", "provisoire", "@")))
+        page.click('#sommaire-methodo a[data-section="ia"]'); page.wait_for_timeout(1200)
+        position = page.evaluate("document.getElementById('ia').getBoundingClientRect().top")
+        verifier("Sommaire : « Le rôle de l'IA » amené en haut", page.url.endswith("#/methodologie/ia") and 0 <= position < 200, f"{round(position)} px")
+        verifier("Sommaire : partie en cours mise en avant", page.get_attribute('#sommaire-methodo [data-section="ia"]', "aria-current") == "location")
+        page.goto("about:blank"); page.goto(ADRESSE + "#/methodologie/limites"); page.wait_for_timeout(1300)
+        position = page.evaluate("document.getElementById('limites').getBoundingClientRect().top")
+        verifier("Adresse partagée d'une partie : ouverte au bon endroit", 0 <= position < 200, f"{round(position)} px")
+        verifier("Lot 5 : aucune erreur dans la console", not erreurs, erreurs[:3])
+        contexte.close()
+
         # 5. Mémoire du navigateur bloquée (navigation privée stricte) : le site doit s'afficher quand même
         contexte, page, erreurs = nouvelle_page(navigateur)
         page.add_init_script("Object.defineProperty(window, 'localStorage', { get() { throw new Error('bloqué'); } });")
@@ -301,11 +326,32 @@ def main() -> int:
         boite = page.locator('[role="dialog"]').bounding_box()
         verifier("Téléphone : la modale tient dans l'écran", boite and boite["x"] >= 0 and boite["x"] + boite["width"] <= 390, boite)
         page.screenshot(path=str(apercu.RACINE / "tmp" / "captures" / "telephone-modale.png"))
-        for vue in ("marches", "fils/budget-2027", "glossaire", "archives", "edition/2026-10-17"):
+        for vue in ("marches", "fils", "fils/budget-2027", "categories/mondialisation", "glossaire", "archives", "archives/retro",
+                    "edition/2026-10-17", "favoris", "methodologie"):
             page.keyboard.press("Escape"); page.goto(ADRESSE + f"#/{vue}"); page.wait_for_timeout(1200)
             largeur = page.evaluate("document.getElementById('contenu').scrollWidth")
             verifier(f"Téléphone : {vue} sans débordement", largeur <= 390 - 32 + 1, f"{largeur} px")
             page.screenshot(path=str(apercu.RACINE / "tmp" / "captures" / f"telephone-{vue.split('/')[0]}.png"))
+        # Barre du bas : 4 rubriques + « Plus »
+        visibles = page.evaluate("[...document.querySelectorAll('#navigation [data-vue]')].filter(a => a.offsetParent).map(a => a.dataset.vue)")
+        verifier("Téléphone : barre du bas = 4 rubriques + « Plus »", visibles == ["accueil", "marches", "fils", "glossaire"]
+                 and page.locator("#bouton-plus").is_visible(), visibles)
+        page.click("#bouton-plus"); page.wait_for_timeout(300)
+        liens = page.locator("#menu-plus a:visible").count()
+        verifier("Menu « Plus » : 4 rubriques et le thème, focus dedans", liens == 4 and page.locator("#menu-plus [data-bouton-theme]").is_visible()
+                 and page.get_attribute("#bouton-plus", "aria-expanded") == "true"
+                 and page.evaluate("Boolean(document.activeElement.closest('#menu-plus'))"), f"{liens} liens")
+        page.keyboard.press("Escape"); page.wait_for_timeout(200)
+        verifier("Échap ferme le menu, focus sur « Plus »", page.locator("#menu-plus").is_hidden()
+                 and page.evaluate("document.activeElement.id") == "bouton-plus")
+        page.click("#bouton-plus"); page.click('#menu-plus a[data-vue="archives"]'); page.wait_for_timeout(1000)
+        verifier("Menu « Plus » → Archives, menu refermé", page.locator("h1").inner_text() == "Archives" and page.locator("#menu-plus").is_hidden()
+                 and "actif" in page.get_attribute("#bouton-plus", "class"))
+        page.click("#bouton-plus"); page.click("#menu-plus [data-bouton-theme]"); page.wait_for_timeout(600)
+        verifier("Menu « Plus » : bascule du thème", "mm-light" in page.get_attribute("html", "class"))
+        page.mouse.click(200, 300); page.wait_for_timeout(200)
+        verifier("Clic à l'extérieur ferme le menu", page.locator("#menu-plus").is_hidden())
+        verifier("Téléphone : aucune erreur dans la console", not erreurs, erreurs[:3])
         contexte.close()
 
         navigateur.close()
