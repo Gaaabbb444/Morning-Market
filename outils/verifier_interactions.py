@@ -95,7 +95,7 @@ def main() -> int:
         verifier("Aucune erreur dans la console", not erreurs, erreurs[:3])
         contexte.close()
 
-        # 4 bis. Navigation entre les vues (lot 2)
+        # 5. Navigation entre les vues (Marchés, fils rouges)
         contexte, page, erreurs = nouvelle_page(navigateur)
         page.goto(ADRESSE); page.wait_for_timeout(1200)
         page.click('#navigation [data-vue="marches"]'); page.wait_for_timeout(700)
@@ -124,7 +124,7 @@ def main() -> int:
         verifier("Navigation : aucune erreur dans la console", not erreurs, erreurs[:3])
         contexte.close()
 
-        # 4 ter. Catégories, favoris, recherche (lot 3)
+        # 6. Catégories, favoris, recherche
         contexte, page, erreurs = nouvelle_page(navigateur, accept_downloads=True)
         page.goto(ADRESSE + "#/categories/mondialisation"); page.wait_for_timeout(1200)
         verifier("Catégories : 7 onglets", page.locator('[role="tab"]').count() == 7)
@@ -186,10 +186,10 @@ def main() -> int:
         page.click('[data-action="rechercher"]'); page.fill("[data-champ]", "Montchalin"); page.wait_for_timeout(600)
         page.locator('[data-resultat="info"]').first.click(); page.wait_for_timeout(800)
         verifier("Résultat « info » → modale de l'info", page.locator('[role="dialog"]').is_visible() and "Montchalin" in page.inner_text('[role="dialog"]'))
-        verifier("Lot 3 : aucune erreur dans la console", not erreurs, erreurs[:3])
+        verifier("Catégories, favoris, recherche : aucune erreur dans la console", not erreurs, erreurs[:3])
         contexte.close()
 
-        # 4 bis. Lot 4 : glossaire, archives, éditions archivées, rétrospective
+        # 7. Glossaire, archives, éditions archivées, rétrospective
         contexte, page, erreurs = nouvelle_page(navigateur)
         jeu_retro = apercu.JEUX / "retrospective" / "recaps"
         # Rétrospective : récap de test (bâti sur les vrais Top 5) ; calendrier : un jour de septembre sans fichier
@@ -261,10 +261,10 @@ def main() -> int:
         page.click('[data-onglet-archives="calendrier"]'); page.wait_for_timeout(500)
         verifier("Onglet « Calendrier » sur place", page.get_attribute('[data-onglet-archives="calendrier"]', "aria-selected") == "true"
                  and "Octobre 2026" in page.inner_text("#panneau-archives"))
-        verifier("Lot 4 : aucune erreur dans la console", not erreurs, erreurs[:3])
+        verifier("Glossaire et archives : aucune erreur dans la console", not erreurs, erreurs[:3])
         contexte.close()
 
-        # 4 ter. Lot 5 : Méthodologie et clavier
+        # 8. Méthodologie et clavier
         contexte, page, erreurs = nouvelle_page(navigateur)
         page.goto(ADRESSE + "#/"); page.wait_for_timeout(1200)
         page.keyboard.press("Tab"); page.wait_for_timeout(400)  # le lien glisse à l'écran en 0,2 s
@@ -286,10 +286,10 @@ def main() -> int:
         page.goto("about:blank"); page.goto(ADRESSE + "#/methodologie/limites"); page.wait_for_timeout(1300)
         position = page.evaluate("document.getElementById('limites').getBoundingClientRect().top")
         verifier("Adresse partagée d'une partie : ouverte au bon endroit", 0 <= position < 200, f"{round(position)} px")
-        verifier("Lot 5 : aucune erreur dans la console", not erreurs, erreurs[:3])
+        verifier("Méthodologie : aucune erreur dans la console", not erreurs, erreurs[:3])
         contexte.close()
 
-        # 5. Mémoire du navigateur bloquée (navigation privée stricte) : le site doit s'afficher quand même
+        # 9. Mémoire du navigateur bloquée (navigation privée stricte) : le site doit s'afficher quand même
         contexte, page, erreurs = nouvelle_page(navigateur)
         page.add_init_script("Object.defineProperty(window, 'localStorage', { get() { throw new Error('bloqué'); } });")
         page.goto(ADRESSE); page.wait_for_timeout(1200)
@@ -299,14 +299,14 @@ def main() -> int:
         verifier("Mémoire bloquée : favori et fermeture sans erreur", not [e for e in erreurs if "bloqué" not in e], erreurs[:3])
         contexte.close()
 
-        # 6. Données introuvables : message de repli
+        # 10. Données introuvables : message de repli
         contexte, page, erreurs = nouvelle_page(navigateur)
         page.route("**/data/statut.json", lambda route: route.fulfill(status=404, body=""))
         page.goto(ADRESSE); page.wait_for_timeout(1000)
         verifier("Données absentes : message de repli", "Données momentanément indisponibles" in page.inner_text("#contenu"))
         contexte.close()
 
-        # 7. « Réduire les animations »
+        # 11. « Réduire les animations »
         contexte, page, erreurs = nouvelle_page(navigateur, reduced_motion="reduce")
         page.goto(ADRESSE); page.wait_for_timeout(800)
         page.click('#pastilles [data-categorie="desequilibres"]'); page.wait_for_timeout(500)
@@ -316,7 +316,7 @@ def main() -> int:
         verifier("Animations réduites : fond immobile", animation_fond == "none", animation_fond)
         contexte.close()
 
-        # 8. Téléphone : pas de débordement horizontal
+        # 12. Téléphone : pas de débordement horizontal
         contexte, page, erreurs = nouvelle_page(navigateur, viewport={"width": 390, "height": 844}, is_mobile=True, has_touch=True)
         page.goto(ADRESSE); page.wait_for_timeout(1200)
         largeur = page.evaluate("document.getElementById('contenu').scrollWidth")

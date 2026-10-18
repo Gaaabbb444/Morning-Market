@@ -29,7 +29,7 @@ const recaps = new Map();   // récapitulatifs déjà chargés, par fichier
 let editionAffichee = null; // édition montrée par l'accueil : celle du jour, ou une édition archivée
 
 // ---------------------------------------------------------------------------
-// Vues disponibles (les autres s'ajouteront au fil des lots) et navigation par l'adresse (#/marches…)
+// Vues du site et navigation par l'adresse (#/marches…)
 // ---------------------------------------------------------------------------
 const VUES = [
   { cle: "accueil", libelle: "Aujourd'hui", adresse: "#/", titre: "Morning Market",

@@ -18,13 +18,13 @@ Tableau de bord économique quotidien (GitHub Pages + GitHub Actions). Brief com
 
 ## Plan des phases
 1–4 terminées (fondations, collecte, IA et mémoire, mise en ligne automatique).
-**Phase 5 (en cours) — site final d'après la maquette validée**, qui absorbe les anciennes phases 6 (interactions) et 7 (pages mémoire). Livraison par lots (1 à 4 en ligne) ; chaque lot : captures Playwright côte à côte maquette/site (1280 et 1440 px, sombre et clair), validation de Gab, puis mise en ligne.
+**Phase 5 (terminée, en ligne) — site final d'après la maquette validée**, qui absorbe les anciennes phases 6 (interactions) et 7 (pages mémoire). Livrée en 5 lots ; chaque lot : captures Playwright côte à côte maquette/site (1280 et 1440 px, sombre et clair), validation de Gab, puis mise en ligne.
 - Lot 1 : fondations (jetons Tailwind, Manrope auto-hébergée, composants) + accueil + modale + états (données anciennes, indicateur indisponible, sans IA) + thème.
 - Lot 2 : Marchés (courbes) + Fils rouges (liste, détail).
 - Lot 3 : Catégories + Recherche + Favoris (export/import, état vide).
 - Lot 4 : Glossaire (+ « Dans une copie » pour 122 concepts, `glossaire-usages.json`) + Archives (calendrier, édition passée, rétrospective) + accroche des récaps.
 - Lot 5 : Méthodologie (auteur « Gabriel Tillet », aucun e-mail ; lien LinkedIn seulement si Gab le fournit) + passe mobile et accessibilité.
-Phase 8 : README pédagogique et relecture générale.
+**Phase 8 (en cours)** : README pédagogique (guide de fonctionnement, relance manuelle, dépannage) et relecture générale.
 
 Référence visuelle : `Maquette/Morning Market.html` (pages emboîtées : prototype, « Spécifications », 34 écrans à 1440 px). Les Spécifications priment ; aucune valeur d'exemple écrite en dur ; animations sur transform et opacity uniquement, pas de flou d'arrière-plan, respect de prefers-reduced-motion.
 Décisions validées (phase 5) : filtres de l'accueil = Tout + catégories ayant au moins une info ce jour-là (masquer les vides, une seule ligne à 1280 px) ; glossaire filtré par thèmes de TEJM + « Marchés et épargne » ; rétrospective alimentée par les faits marquants des récaps (aucun événement inventé) ; citation d'économiste sous la citation de l'actu si vérifiée ; modale d'un article hors Top 5 = résumé + autres sources ; mobile = barre de navigation en bas. Relecture des concepts : d'abord ceux déjà utilisés dans « Pour tes copies », par lots de 10.

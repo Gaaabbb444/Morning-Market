@@ -9,21 +9,77 @@
   },
   "derniere_edition": "2026-10-19",
   "sources": [
-    { "id": "lemonde-eco", "nom": "Le Monde Économie", "etat": "ok", "articles": 23, "message": null, "dernier_succes": "2026-10-19T06:08:00+02:00" },
-    { "id": "lesechos", "nom": "Les Echos", "etat": "erreur", "articles": 0, "message": "Délai dépassé", "dernier_succes": "2026-10-18T10:25:00+02:00" }
+    {
+      "id": "lemonde-eco",
+      "nom": "Le Monde Économie",
+      "etat": "ok",
+      "articles": 23,
+      "message": null,
+      "dernier_succes": "2026-10-19T06:08:00+02:00"
+    },
+    {
+      "id": "lesechos",
+      "nom": "Les Echos",
+      "etat": "erreur",
+      "articles": 0,
+      "message": "Délai dépassé",
+      "dernier_succes": "2026-10-18T10:25:00+02:00"
+    }
   ],
   "indicateurs": [
-    { "id": "cac40", "etat": "ok", "source_utilisee": "principale", "message": null, "dernier_succes": "2026-10-19T06:09:00+02:00" },
-    { "id": "brent", "etat": "derniere-valeur", "source_utilisee": "aucune", "message": "Délai dépassé", "dernier_succes": "2026-10-18T06:09:00+02:00" }
+    {
+      "id": "cac40",
+      "etat": "ok",
+      "source_utilisee": "principale",
+      "message": null,
+      "dernier_succes": "2026-10-19T06:09:00+02:00"
+    },
+    {
+      "id": "brent",
+      "etat": "derniere-valeur",
+      "source_utilisee": "aucune",
+      "message": "Délai dépassé",
+      "dernier_succes": "2026-10-18T06:09:00+02:00"
+    }
   ],
   "ia": {
-    "fournisseur_utilise": "github-models",
-    "modeles": { "high": "nom-du-modele-high", "low": "nom-du-modele-low" },
+    "fournisseurs_configures": [
+      "gemini",
+      "groq"
+    ],
     "requetes": 14,
-    "erreurs": [ { "fournisseur": "github-models", "code": 429, "action": "nouvel essai réussi" } ]
+    "requetes_par_modele": {
+      "gemini/nom-du-modele-high": 6,
+      "groq/nom-du-modele-secours": 2,
+      "gemini/nom-du-modele-low": 6
+    },
+    "erreurs": [
+      {
+        "tache": "edition",
+        "fournisseur": "gemini",
+        "modele": "nom-du-modele-high",
+        "nature": "quota",
+        "detail": "429 : trop de requêtes"
+      }
+    ],
+    "etapes": {
+      "classement": "ia",
+      "top5": "ia",
+      "concept": "ia",
+      "citation_actu": "ia",
+      "fils_rouges": "partiel"
+    }
   },
   "ecritures": [
-    { "fichier": "jours/2026-10-19.json", "ecrit": true, "raison": null },
-    { "fichier": "fils-rouges.json", "ecrit": false, "raison": "Réponse de l'IA invalide : version précédente conservée" }
+    {
+      "fichier": "jours/2026-10-19.json",
+      "ecrit": true,
+      "raison": null
+    },
+    {
+      "fichier": "fils-rouges.json",
+      "ecrit": false,
+      "raison": "Réponse de l'IA invalide : version précédente conservée"
+    }
   ]
 }
