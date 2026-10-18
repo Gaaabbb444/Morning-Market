@@ -40,6 +40,10 @@ ECRANS = {
     "donnees-anciennes": (29, "donnees-anciennes", None),
     "indicateur-indisponible": (31, "indicateur-indisponible", None),
     "sans-ia": (33, "sans-ia", None),
+    "marches": (5, "base", "adresse:#/marches"),
+    "marches-bas": (5, "base", "adresse:#/marches|defiler-en-bas"),
+    "fils-liste": (7, "base", "adresse:#/fils"),
+    "fil-detail": (9, "base", "adresse:#/fils/budget-2027"),
 }
 
 
@@ -81,9 +85,12 @@ def page_maquette(fichier: Path, largeur: int) -> str:
 
 def capturer(page, adresse: str, largeur: int, action: str | None, est_site: bool) -> Image.Image:
     page.set_viewport_size({"width": largeur, "height": HAUTEUR})
+    actions = (action or "").split("|")
+    if est_site and actions[0].startswith("adresse:"):
+        adresse += actions[0].split(":", 1)[1]  # vue du site à ouvrir (ex. #/marches)
     page.goto(adresse)
-    page.wait_for_timeout(2500 if not est_site else 1200)  # décompression de la maquette / animations d'arrivée
-    if action == "defiler-en-bas":
+    page.wait_for_timeout(2500 if not est_site else 1600)  # décompression de la maquette / animations d'arrivée
+    if "defiler-en-bas" in actions:
         # La zone principale défile seule (la barre latérale reste fixe), sur la maquette comme sur le site
         page.evaluate("""() => { for (const el of document.querySelectorAll('.main, #zone-principale')) el.scrollTop = el.scrollHeight; }""")
         page.wait_for_timeout(300)

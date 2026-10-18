@@ -15,8 +15,9 @@ def produire(config: dict) -> dict:
     for i in config["indicateurs"]:
         indicateurs.append({
             "id": i["id"], "libelle": i["libelle"], "nom": i["nom"], "nom_court": i.get("nom_court"),
-            "note": i["note"], "groupe": i["groupe"], "unite": i["unite_affichee"],
+            "note": i["note"], "groupe": i["groupe"], "unite": i["unite_affichee"], "source": i["source"],
             "ordre_bandeau": i.get("ordre_bandeau"),
+            "prefixe_periode": i.get("prefixe_periode", "Période :"),
             # Seuls les prix de marché sont colorés en vert ou rouge (les variations en %)
             "prix_de_marche": i["variation"] == "pourcent",
         })

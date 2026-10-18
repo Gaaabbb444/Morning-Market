@@ -208,7 +208,7 @@ function bandeau(m) {
         <span class="text-[14px] leading-5 whitespace-nowrap" style="font-weight:${k.graisseEcart};color:${k.couleurEcart}">${k.ecart}</span>
       </div>`)}
     </div>
-    <span></span>
+    <a href="#/marches" class="py-2.5 text-[15px] font-bold text-accent whitespace-nowrap">Voir les ${m.nombreIndicateurs} indicateurs →</a>
   </section>`;
 }
 
@@ -226,7 +226,12 @@ function approfondir(m) {
       <span class="text-[16px] font-medium text-encre2">Le reste de l'édition, à un clic</span>
     </div>
     <div class="cartes3 grid grid-cols-3 gap-7">
-      ${carte("Fils rouges", m.cartes.fils.titre, [m.cartes.fils.texte])}
+      <a href="#/fils" class="carte flex flex-col gap-3.5 p-8 rounded-carte calme text-left">
+        <span class="text-[15px] font-bold text-accent">Fils rouges</span>
+        <span class="text-[22px] font-extrabold leading-[1.3] tracking-[-0.02em]">${m.cartes.fils.titre}</span>
+        <span class="text-[15px] leading-[1.55] text-encre2 line-clamp-3">${m.cartes.fils.texte}</span>
+        <span class="mt-2 text-[15px] font-bold">Voir les fils rouges <span class="fleche">→</span></span>
+      </a>
       ${carte("Concept et citation du jour", m.cartes.concept.titre, m.cartes.concept.lignes)}
       ${carte("Récap de la semaine", m.cartes.recap.titre, [m.cartes.recap.texte])}
     </div>

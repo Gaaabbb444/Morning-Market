@@ -75,7 +75,9 @@
       "note": "Bourse de Paris",
       "groupe": "Marchés",
       "unite": "",
+      "source": "Euronext, via Yahoo Finance",
       "ordre_bandeau": 1,
+      "prefixe_periode": "Période :",
       "prix_de_marche": true
     },
     {
@@ -86,7 +88,9 @@
       "note": "Grandes valeurs de la zone euro",
       "groupe": "Marchés",
       "unite": "",
+      "source": "STOXX, via Yahoo Finance",
       "ordre_bandeau": null,
+      "prefixe_periode": "Période :",
       "prix_de_marche": true
     },
     {
@@ -97,7 +101,9 @@
       "note": "Bourse de New York",
       "groupe": "Marchés",
       "unite": "",
+      "source": "S&P, via Yahoo Finance",
       "ordre_bandeau": null,
+      "prefixe_periode": "Période :",
       "prix_de_marche": true
     },
     {
@@ -108,7 +114,9 @@
       "note": "En dollars par baril",
       "groupe": "Marchés",
       "unite": "$",
+      "source": "ICE, via Yahoo Finance",
       "ordre_bandeau": 3,
+      "prefixe_periode": "Période :",
       "prix_de_marche": true
     },
     {
@@ -119,7 +127,9 @@
       "note": "En dollars par once",
       "groupe": "Marchés",
       "unite": "$",
+      "source": "COMEX, via Yahoo Finance",
       "ordre_bandeau": null,
+      "prefixe_periode": "Période :",
       "prix_de_marche": true
     },
     {
@@ -130,7 +140,9 @@
       "note": "Dollars pour un euro",
       "groupe": "Change",
       "unite": "$",
+      "source": "BCE, taux de référence",
       "ordre_bandeau": 2,
+      "prefixe_periode": "Période :",
       "prix_de_marche": true
     },
     {
@@ -141,7 +153,9 @@
       "note": "Taux directeur",
       "groupe": "Taux",
       "unite": "%",
+      "source": "BCE",
       "ordre_bandeau": 4,
+      "prefixe_periode": "Période :",
       "prix_de_marche": false
     },
     {
@@ -152,18 +166,9 @@
       "note": "Moyenne mensuelle (OAT)",
       "groupe": "Taux",
       "unite": "%",
+      "source": "BCE",
       "ordre_bandeau": null,
-      "prix_de_marche": false
-    },
-    {
-      "id": "inflation-zone-euro",
-      "libelle": "Inflation zone euro (IPCH, sur un an)",
-      "nom": "Inflation zone euro",
-      "nom_court": null,
-      "note": "IPCH, glissement sur un an",
-      "groupe": "Économie",
-      "unite": "%",
-      "ordre_bandeau": null,
+      "prefixe_periode": "Moyenne de",
       "prix_de_marche": false
     },
     {
@@ -174,7 +179,22 @@
       "note": "IPCH, glissement sur un an",
       "groupe": "Économie",
       "unite": "%",
+      "source": "Eurostat",
       "ordre_bandeau": 5,
+      "prefixe_periode": "Période :",
+      "prix_de_marche": false
+    },
+    {
+      "id": "inflation-zone-euro",
+      "libelle": "Inflation zone euro (IPCH, sur un an)",
+      "nom": "Inflation zone euro",
+      "nom_court": null,
+      "note": "IPCH, glissement sur un an",
+      "groupe": "Économie",
+      "unite": "%",
+      "source": "Eurostat",
+      "ordre_bandeau": null,
+      "prefixe_periode": "Période :",
       "prix_de_marche": false
     },
     {
@@ -185,7 +205,9 @@
       "note": "Taux au sens du BIT",
       "groupe": "Économie",
       "unite": "%",
+      "source": "Eurostat",
       "ordre_bandeau": null,
+      "prefixe_periode": "Période :",
       "prix_de_marche": false
     },
     {
@@ -196,7 +218,9 @@
       "note": "Variation sur un trimestre",
       "groupe": "Économie",
       "unite": "%",
+      "source": "Eurostat",
       "ordre_bandeau": null,
+      "prefixe_periode": "Période :",
       "prix_de_marche": false
     }
   ],

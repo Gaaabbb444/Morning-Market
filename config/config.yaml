@@ -93,7 +93,7 @@ indicateurs:
     variation: pourcent
     fournisseur: marche
     symbole: "^FCHI"
-    source: "Euronext (via Yahoo Finance)"
+    source: "Euronext, via Yahoo Finance"
     source_url: "https://fr.finance.yahoo.com/quote/%5EFCHI/"
   - id: eurostoxx50
     libelle: "Euro Stoxx 50"
@@ -107,7 +107,7 @@ indicateurs:
     variation: pourcent
     fournisseur: marche
     symbole: "^STOXX50E"
-    source: "STOXX (via Yahoo Finance)"
+    source: "STOXX, via Yahoo Finance"
     source_url: "https://fr.finance.yahoo.com/quote/%5ESTOXX50E/"
   - id: sp500
     libelle: "S&P 500"
@@ -121,7 +121,7 @@ indicateurs:
     variation: pourcent
     fournisseur: marche
     symbole: "^GSPC"
-    source: "S&P (via Yahoo Finance)"
+    source: "S&P, via Yahoo Finance"
     source_url: "https://fr.finance.yahoo.com/quote/%5EGSPC/"
   - id: brent
     libelle: "Pétrole Brent"
@@ -137,7 +137,7 @@ indicateurs:
     variation: pourcent
     fournisseur: marche
     symbole: "BZ=F"
-    source: "ICE (via Yahoo Finance)"
+    source: "ICE, via Yahoo Finance"
     source_url: "https://fr.finance.yahoo.com/quote/BZ%3DF/"
   - id: or
     libelle: "Or"
@@ -151,7 +151,7 @@ indicateurs:
     variation: pourcent
     fournisseur: marche
     symbole: "GC=F"
-    source: "COMEX (via Yahoo Finance)"
+    source: "COMEX, via Yahoo Finance"
     source_url: "https://fr.finance.yahoo.com/quote/GC%3DF/"
   - id: eur-usd
     libelle: "EUR/USD"
@@ -167,7 +167,7 @@ indicateurs:
     variation: pourcent
     fournisseur: bce
     serie: "EXR/D.USD.EUR.SP00.A"
-    source: "BCE (taux de référence)"
+    source: "BCE, taux de référence"
     source_url: "https://data.ecb.europa.eu/data/datasets/EXR/EXR.D.USD.EUR.SP00.A"
   - id: taux-depot-bce
     libelle: "Taux de dépôt de la BCE"
@@ -189,6 +189,7 @@ indicateurs:
     libelle: "Taux à 10 ans de la France"
     nom: "Taux à 10 ans de la France"
     note: "Moyenne mensuelle (OAT)"
+    prefixe_periode: "Moyenne de"   # au lieu de « Période : » (donnée mensuelle moyenne)
     groupe: "Taux"
     unite_affichee: "%"
     unite: "%"
@@ -197,25 +198,10 @@ indicateurs:
     variation: points
     fournisseur: bce
     serie: "IRS/M.FR.L.L40.CI.0000.EUR.N.Z"
-    source: "BCE (moyenne mensuelle)"
+    source: "BCE"
     source_url: "https://data.ecb.europa.eu/data/datasets/IRS/IRS.M.FR.L.L40.CI.0000.EUR.N.Z"
   # Inflation : depuis 2026, la nomenclature des prix a changé (ECOICOP 2) et l'ancienne
   # série de la BCE (ICP…ANR) s'arrête en décembre 2025. On utilise donc Eurostat.
-  - id: inflation-zone-euro
-    libelle: "Inflation zone euro (IPCH, sur un an)"
-    nom: "Inflation zone euro"
-    note: "IPCH, glissement sur un an"
-    groupe: "Économie"
-    unite_affichee: "%"
-    unite: "%"
-    decimales: 1
-    frequence: mensuelle
-    variation: points
-    fournisseur: eurostat
-    jeu_de_donnees: "prc_hicp_minr"
-    filtres: { geo: "EA", unit: "RCH_A", coicop18: "TOTAL" }
-    source: "Eurostat"
-    source_url: "https://ec.europa.eu/eurostat/databrowser/view/prc_hicp_minr/default/table"
   - id: inflation-france
     libelle: "Inflation France (IPCH, sur un an)"
     nom: "Inflation France"
@@ -231,6 +217,21 @@ indicateurs:
     fournisseur: eurostat
     jeu_de_donnees: "prc_hicp_minr"
     filtres: { geo: "FR", unit: "RCH_A", coicop18: "TOTAL" }
+    source: "Eurostat"
+    source_url: "https://ec.europa.eu/eurostat/databrowser/view/prc_hicp_minr/default/table"
+  - id: inflation-zone-euro
+    libelle: "Inflation zone euro (IPCH, sur un an)"
+    nom: "Inflation zone euro"
+    note: "IPCH, glissement sur un an"
+    groupe: "Économie"
+    unite_affichee: "%"
+    unite: "%"
+    decimales: 1
+    frequence: mensuelle
+    variation: points
+    fournisseur: eurostat
+    jeu_de_donnees: "prc_hicp_minr"
+    filtres: { geo: "EA", unit: "RCH_A", coicop18: "TOTAL" }
     source: "Eurostat"
     source_url: "https://ec.europa.eu/eurostat/databrowser/view/prc_hicp_minr/default/table"
   - id: chomage-france

@@ -57,6 +57,7 @@ function contenu(info, contexte) {
     <section aria-labelledby="fil" class="flex flex-col gap-0.5">
       <div class="flex items-baseline justify-between gap-4">
         <h3 id="fil" class="m-0 text-[15px] font-bold text-encre2">Dans le même fil rouge : <span class="text-encre">${fil.titre}</span></h3>
+        <a href="#/fils/${fil.id}" class="py-1 text-[14.5px] font-bold text-accent whitespace-nowrap">Voir le fil →</a>
       </div>
       ${evenements.map((e) => html`<div class="grid grid-cols-[96px_minmax(0,1fr)] gap-3.5 py-2.5 border-t border-sep">
         <span class="text-[14.5px] font-bold text-accent tabular-nums">${dateCourte(e.date)}</span>

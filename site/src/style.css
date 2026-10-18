@@ -176,6 +176,16 @@
   .defilement { scrollbar-width: thin; }
 }
 
+/* Courbes de Marchés : tracé (stroke-dashoffset), aire en fondu, barres qui montent depuis l'axe */
+.trace { stroke-dasharray: 1; stroke-dashoffset: 1; animation: trace 0.7s cubic-bezier(0.3, 0.7, 0.2, 1) forwards; }
+.aire { animation: fondu 0.45s ease-out both; }
+.barres { transform-box: view-box; animation: monte 0.55s var(--ease-mm) both; }
+@keyframes trace { to { stroke-dashoffset: 0; } }
+@keyframes monte { from { transform: scaleY(0); } to { transform: scaleY(1); } }
+
+/* L'arrivée animée de l'accueil ne se joue qu'au premier affichage */
+.sans-apparition .apparition { animation: none; }
+
 @keyframes derive { from { transform: translate3d(0, 0, 0) scale(1); } to { transform: translate3d(-3%, 2%, 0) scale(1.06); } }
 @keyframes apparition { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: none; } }
 @keyframes fondu { from { opacity: 0; } to { opacity: 1; } }
@@ -185,7 +195,8 @@
 
 /* « Réduire les animations » : tout devient un simple fondu de 250 ms, sans déplacement */
 @media (prefers-reduced-motion: reduce) {
-  .apparition { animation: fondu 0.25s ease both; }
+  .apparition, .aire, .barres { animation: fondu 0.25s ease both; }
+  .trace { animation: none; stroke-dasharray: none; stroke-dashoffset: 0; }
   .carte:hover { transform: none; }
   .fond-anime { animation: none; }
   .repere-nav { transition: opacity 0.2s ease; }
@@ -208,6 +219,7 @@
   .bandeau { grid-template-columns: 1fr !important; row-gap: 16px; }
   .bandeau-colonnes { grid-template-columns: repeat(2, minmax(0, 1fr)) !important; row-gap: 16px; }
   .cartes3 { grid-template-columns: 1fr !important; }
+  .ligne-marche, .ligne-tableau { grid-template-columns: 1fr 1fr !important; row-gap: 10px; }
   .en-tete { flex-direction: column; align-items: flex-start !important; height: auto !important; }
   .en-tete > div { flex-shrink: 1 !important; max-width: 100%; }
   #pastilles { flex-wrap: wrap; }
