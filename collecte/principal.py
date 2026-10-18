@@ -112,7 +112,7 @@ def executer(type_execution: str, refaire: bool = False) -> int:
             derniere_edition = aujourd_hui
             index = stockage.lire_json(DOSSIER_DATA / "index-recherche.json")
             ecrire("index-recherche.json", DOSSIER_DATA / "index-recherche.json",
-                   memoire.mettre_a_jour_index(index, edition), memoire.valider_index(index))
+                   memoire.mettre_a_jour_index(index, edition), memoire.valider_index(index, aujourd_hui))
             ecrire("jours/index.json", DOSSIER_DATA / "jours" / "index.json",
                    memoire.mettre_a_jour_liste_editions(stockage.lire_json(DOSSIER_DATA / "jours" / "index.json"), aujourd_hui),
                    lambda d: None if d.get("dates") else "liste vide")

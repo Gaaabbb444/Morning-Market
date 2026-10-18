@@ -158,12 +158,15 @@ def mettre_a_jour_index(index_actuel: dict | None, edition: dict) -> dict:
     return {"version_schema": 1, "mis_a_jour_le": horodatage(), "entrees": entrees}
 
 
-def valider_index(ancien: dict | None):
+def valider_index(ancien: dict | None, jour: str | None = None):
+    """Refuse un index qui perdrait des entrées des jours passés (celles du jour reconstruit peuvent changer)."""
     def valider(nouveau):
         if not isinstance(nouveau, dict) or not isinstance(nouveau.get("entrees"), list):
             return "structure inattendue"
-        if ancien and len(nouveau["entrees"]) < len(ancien.get("entrees", [])) * 0.9:
-            return "l'index perdrait des entrées"
+        passes_avant = sum(1 for e in (ancien or {}).get("entrees", []) if e["d"] != jour)
+        passes_apres = sum(1 for e in nouveau["entrees"] if e["d"] != jour)
+        if passes_apres < passes_avant:
+            return "l'index perdrait des entrées des jours passés"
         return None
     return valider
 

@@ -43,3 +43,10 @@ def test_reconstruction_ne_refait_que_les_evenements_du_jour():
     assert fils_rouges.valider_sans_perte(ancien, "2026-10-18")(nettoye) is None   # le doublon du jour peut partir
     sans_hier = {"fils": [dict(ancien["fils"][0], evenements=[])]}
     assert "perdrait" in fils_rouges.valider_sans_perte(ancien, "2026-10-18")(sans_hier)  # le passé, jamais
+
+
+def test_index_peut_reduire_le_jour_reconstruit_mais_pas_les_jours_passes():
+    ancien = {"entrees": [{"d": "2026-10-17", "i": "a"}] + [{"d": "2026-10-18", "i": f"x{n}"} for n in range(9)]}
+    reconstruit = {"entrees": [{"d": "2026-10-17", "i": "a"}, {"d": "2026-10-18", "i": "nouveau"}]}
+    assert memoire.valider_index(ancien, "2026-10-18")(reconstruit) is None
+    assert "jours passés" in memoire.valider_index(ancien, "2026-10-18")({"entrees": [{"d": "2026-10-18", "i": "n"}]})
