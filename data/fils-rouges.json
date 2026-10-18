@@ -1,6 +1,6 @@
 {
   "version_schema": 1,
-  "mis_a_jour_le": "2026-10-18T13:29:48+02:00",
+  "mis_a_jour_le": "2026-10-18T13:33:33+02:00",
   "fils": [
     {
       "id": "budget-2027",
@@ -123,8 +123,8 @@
         "mondialisation",
         "ue"
       ],
-      "ou_en_est_on": "La politique américaine vis-à-vis de la Russie connaît une inflexion majeure. Donald Trump a décidé d'exonérer les hydrocarbures russes des sanctions votées par le Congrès afin d'atténuer la hausse des prix à la pompe avant les élections de mi-mandat. Ce rapprochement avec Moscou s'accompagne de vives inquiétudes quant à la pérennité de l'appui diplomatique, technique et financier américain à l'Ukraine.",
-      "ou_en_est_on_maj_le": "2026-10-17",
+      "ou_en_est_on": "La politique américaine vis-à-vis de la Russie connaît une inflexion majeure. Donald Trump a décidé d'exonérer les hydrocarbures russes des sanctions afin d'atténuer la hausse des prix du carburant avant les élections de mi-mandat. Dans ce cadre, Moscou a annoncé des livraisons de 2 millions de barils de diesel sous quinze à vingt jours, bien que les contrats fassent encore l'objet de négociations. Ce rapprochement énergétique continue de susciter de vives inquiétudes quant au maintien du soutien américain à l'Ukraine.",
+      "ou_en_est_on_maj_le": "2026-10-18",
       "evenements": [
         {
           "date": "2026-10-17",
@@ -139,6 +139,17 @@
               "titre": "Renseignement, coupure de Starshield... Les dangers du divorce Trump-Zelensky",
               "source": "La Tribune",
               "url": "https://www.latribune.fr/article/la-tribune-dimanche/dans-le-monde/1182715388918114/renseignement-coupure-de-starshield-les-dangers-du-divorce-trump-zelensky"
+            }
+          ]
+        },
+        {
+          "date": "2026-10-18",
+          "resume": "Moscou prévoit de livrer 2 millions de barils de diesel aux États-Unis d'ici quinze à vingt jours pour apaiser les prix à la pompe, bien que les termes des contrats soient encore en négociation.",
+          "liens": [
+            {
+              "titre": "Après l'accord avec Trump sur le gazole, Moscou annonce des livraisons de carburant sous \"15 à 20 jours\", mais les contrats restent à signer",
+              "source": "BFM Business",
+              "url": "https://www.bfmtv.com/economie/entreprises/energie/apres-l-accord-avec-trump-sur-le-gazole-moscou-annonce-des-livraisons-de-carburant-sous-15-a-20-jours-mais-les-contrats-restent-a-signer_AD-202610180202.html"
             }
           ]
         }

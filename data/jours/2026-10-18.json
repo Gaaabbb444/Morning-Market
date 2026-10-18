@@ -1,7 +1,7 @@
 {
   "version_schema": 1,
   "date": "2026-10-18",
-  "genere_le": "2026-10-18T13:29:17+02:00",
+  "genere_le": "2026-10-18T13:32:31+02:00",
   "mode_ia": "ia",
   "passages": [
     {
@@ -10,6 +10,14 @@
       "mode_ia": "ia",
       "articles_collectes": 147,
       "nouvelles_infos": 73,
+      "top5_modifie": false
+    },
+    {
+      "heure": "2026-10-18T13:32:31+02:00",
+      "type": "manuel",
+      "mode_ia": "ia",
+      "articles_collectes": 147,
+      "nouvelles_infos": 1,
       "top5_modifie": false
     }
   ],
@@ -213,7 +221,23 @@
         "fil_rouge": null
       }
     ],
-    "mondialisation": [],
+    "mondialisation": [
+      {
+        "id": "b864320fd2c3",
+        "titre": "Après l'accord avec Trump sur le gazole, Moscou annonce des livraisons de carburant sous \"15 à 20 jours\", mais les contrats restent à signer",
+        "titre_fr": null,
+        "source": "BFM Business",
+        "url": "https://www.bfmtv.com/economie/entreprises/energie/apres-l-accord-avec-trump-sur-le-gazole-moscou-annonce-des-livraisons-de-carburant-sous-15-a-20-jours-mais-les-contrats-restent-a-signer_AD-202610180202.html",
+        "publie_le": "2026-10-18T13:28:05+02:00",
+        "categorie": "mondialisation",
+        "nb_sources": 1,
+        "autres_sources": [],
+        "resume": "Moscou annonce des livraisons de diesel à destination des États-Unis sous quinze à vingt jours, mais les contrats restent en cours de négociation.",
+        "documente": true,
+        "importance": 6,
+        "fil_rouge": null
+      }
+    ],
     "finance": [],
     "desequilibres": [
       {
@@ -465,6 +489,7 @@
     "b57fbd9854d5",
     "b74f3a33790f",
     "b78008cbeb50",
+    "b864320fd2c3",
     "b90346a2f706",
     "b960c3770ec9",
     "bef52c06f1ee",
