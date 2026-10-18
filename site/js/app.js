@@ -7,6 +7,10 @@ import {
 import { ouvrirModale, fermerModale, modaleOuverte } from "./modale.js";
 import { modeleMarches, vueMarches } from "./marches.js";
 import { modeleListeFils, vueListeFils, modeleFil, vueFil } from "./fils.js";
+import { articlesParCategorie, modeleCategories, vueCategories, panneauCategorie } from "./categories.js";
+import { modeleFavoris, vueFavoris, listeFavoris } from "./vue-favoris.js";
+import { tousLesFavoris, retirerFavori, fichierExport, importer } from "./favoris.js";
+import { ouvrirRecherche, fermerRecherche, rechercheOuverte } from "./recherche.js";
 import { dateTitre, dateChiffres, dateLongue, maintenantParis, animationsReduites, COURBE } from "./outils.js";
 import { lire, ecrire } from "./stockage.js";
 
@@ -17,6 +21,7 @@ let categorieActive = "tout";
 let animationsEnCours = [];
 let vueActuelle = null;
 let navigationEnCours = false;
+const editions = new Map(); // éditions déjà chargées, par date (favoris et recherche ouvrent des éditions passées)
 
 // ---------------------------------------------------------------------------
 // Vues disponibles (les autres s'ajouteront au fil des lots) et navigation par l'adresse (#/marches…)
@@ -27,6 +32,10 @@ const VUES = [
   { cle: "marches", libelle: "Marchés", adresse: "#/marches", titre: "Marchés · Morning Market", icone: "M3 17l5-5 4 4 8-8M14 8h6v6" },
   { cle: "fils", libelle: "Fils rouges", adresse: "#/fils", titre: "Fils rouges · Morning Market",
     icone: "M12 3v2.5M12 10.5v3M12 18.5V21M12 5.5a2.5 2.5 0 1 0 0 5a2.5 2.5 0 1 0 0-5zM12 13.5a2.5 2.5 0 1 0 0 5a2.5 2.5 0 1 0 0-5z" },
+  { cle: "categories", libelle: "Catégories", adresse: "#/categories", titre: "Catégories · Morning Market",
+    icone: "M4 4h6.5v6.5H4zM13.5 4H20v6.5h-6.5zM4 13.5h6.5V20H4zM13.5 13.5H20V20h-6.5z" },
+  { cle: "favoris", libelle: "Favoris", adresse: "#/favoris", titre: "Favoris · Morning Market",
+    icone: "M12 3.5l2.6 5.3 5.9.9-4.25 4.1 1 5.85L12 16.9l-5.25 2.75 1-5.85L3.5 9.7l5.9-.9z" },
 ];
 
 /** « #/fils/budget-2027 » → { vue: "fils", parametre: "budget-2027" } */
@@ -125,6 +134,8 @@ function rendreVue({ vue, parametre }) {
   if (!donnees?.edition && vue === "accueil") return String(vueIndisponible());
   if (vue === "marches") return String(vueMarches(modeleMarches(donnees)));
   if (vue === "fils") return String(parametre ? vueFil(modeleFil(donnees, decodeURIComponent(parametre))) : vueListeFils(modeleListeFils(donnees)));
+  if (vue === "categories") return String(vueCategories(modeleCategories(donnees, parametre)));
+  if (vue === "favoris") return String(vueFavoris(modeleFavoris(donnees)));
   categorieActive = "tout";
   return String(vueAccueil(modeleAccueil()));
 }
@@ -134,6 +145,9 @@ function afficher(adresse, animer = true) {
   const cle = `${adresse.vue}/${adresse.parametre || ""}`;
   if (cle === vueActuelle || navigationEnCours) return;
   if (modaleOuverte()) fermerModale(true);
+  if (rechercheOuverte()) fermerRecherche(true);
+  // Changement d'onglet dans Catégories : seul le panneau change, en fondu (pas toute la vue)
+  if (adresse.vue === "categories" && vueActuelle?.startsWith("categories/")) return changerOnglet(adresse.parametre, cle);
   const reduit = animationsReduites();
   const appliquer = () => {
     contenu.innerHTML = rendreVue(adresse);
@@ -150,6 +164,102 @@ function afficher(adresse, animer = true) {
   const sortie = contenu.animate([{ opacity: 1, transform: "none" }, { opacity: 0, transform: reduit ? "none" : "translateY(-6px)" }],
     { duration: 140, easing: "cubic-bezier(.4,0,1,1)", fill: "forwards" });
   sortie.onfinish = () => { appliquer(); sortie.cancel(); };
+}
+
+function changerOnglet(categorie, cle) {
+  const modele = modeleCategories(donnees, categorie);
+  for (const onglet of contenu.querySelectorAll("[data-onglet]")) {
+    const o = modele.onglets.find((x) => x.id === onglet.dataset.onglet);
+    onglet.setAttribute("aria-selected", o.actif ? "true" : "false");
+    for (const [classe, actif] of [["font-bold", o.actif], ["text-encre", o.actif], ["bg-accent-fond2", o.actif], ["font-semibold", !o.actif], ["text-encre2", !o.actif]]) onglet.classList.toggle(classe, actif);
+    onglet.querySelector("span").style.color = o.actif ? "var(--acc)" : "var(--ink3)";
+  }
+  const panneau = document.getElementById("panneau-categorie");
+  panneau.setAttribute("aria-label", modele.titre);
+  panneau.innerHTML = String(panneauCategorie(modele));
+  fondu(panneau);
+  vueActuelle = cle;
+}
+
+/** Changement d'onglet ou de liste : opacité 0,25 → 1 et léger glissement (220 ms). */
+function fondu(element) {
+  element.animate([{ opacity: 0.25, transform: animationsReduites() ? "none" : "translateY(4px)" }, { opacity: 1, transform: "none" }], { duration: 220, easing: COURBE });
+}
+
+// ---------------------------------------------------------------------------
+// Ouverture d'une info (Top 5, catégories, favoris, recherche)
+// ---------------------------------------------------------------------------
+async function chargerEdition(date) {
+  if (date === donnees.edition?.date) return donnees.edition;
+  if (!editions.has(date)) editions.set(date, await charger(`data/jours/${date}.json`));
+  return editions.get(date);
+}
+
+/** Cherche une info dans une édition ; à défaut (édition introuvable), utilise la copie gardée dans les favoris. */
+async function ouvrirInfo(date, id, origine = null) {
+  const edition = await chargerEdition(date);
+  const toutes = edition ? Object.values(articlesParCategorie(edition)).flat() : [];
+  const copie = tousLesFavoris()[id];
+  const info = toutes.find((x) => x.id === id) || (copie && { nb_sources: 1, ...copie });
+  if (!info) return;
+  ouvrirModale(info, origine, { categories: categoriesParId(donnees.reglages), filsRouges: donnees.filsRouges, dateEdition: date },
+    () => { if (vueActuelle === "favoris/") rafraichirFavoris(); });
+}
+
+// ---------------------------------------------------------------------------
+// Favoris : retrait animé, tri, export et import
+// ---------------------------------------------------------------------------
+function rafraichirFavoris() {
+  const modele = modeleFavoris(donnees);
+  const liste = document.getElementById("liste-favoris");
+  if (modele.aucun || !liste) { contenu.innerHTML = String(vueFavoris(modele)); return; }
+  document.getElementById("compte-favoris").textContent = modele.compte;
+  liste.innerHTML = String(listeFavoris(modele));
+}
+
+function retirer(bouton) {
+  const ligne = bouton.closest("[data-f]");
+  const reduit = animationsReduites();
+  const fin = () => { retirerFavori(bouton.dataset.id); rafraichirFavoris(); };
+  ligne.animate([{ opacity: 1, transform: "none" }, { opacity: 0, transform: reduit ? "none" : "translateX(12px)" }],
+    { duration: 180, easing: "ease-in", fill: "forwards" }).onfinish = fin;
+}
+
+function trierFavoris(tri) {
+  ecrire("tri-favoris", tri);
+  contenu.innerHTML = String(vueFavoris(modeleFavoris(donnees)));
+  fondu(document.getElementById("liste-favoris"));
+}
+
+function exporterFavoris() {
+  const { nom, blob } = fichierExport(maintenantParis().date);
+  const lien = document.createElement("a");
+  lien.href = URL.createObjectURL(blob);
+  lien.download = nom;
+  document.body.append(lien);
+  lien.click();
+  lien.remove();
+  setTimeout(() => URL.revokeObjectURL(lien.href), 1000);
+}
+
+async function importerFavoris(fichier) {
+  const resultat = importer(await fichier.text());
+  contenu.innerHTML = String(vueFavoris(modeleFavoris(donnees)));
+  const message = document.getElementById("message-favoris");
+  message.textContent = resultat.message;
+  message.style.color = resultat.ok ? "" : "var(--down)";
+}
+
+// ---------------------------------------------------------------------------
+// Recherche
+// ---------------------------------------------------------------------------
+function lancerRecherche(origine) {
+  ouvrirRecherche(origine, {
+    sources: () => ({ index: donnees.index, indicateurs: donnees.indicateurs, reglages: donnees.reglages, filsRouges: donnees.filsRouges }),
+    chargerIndex: async () => { if (!donnees.index) donnees.index = await charger("data/index-recherche.json"); },
+    ouvrirInfo: (date, id) => ouvrirInfo(date, id),
+    aller: (adresse) => { location.hash = adresse; },
+  });
 }
 
 // ---------------------------------------------------------------------------
@@ -203,14 +313,25 @@ function filtrer(categorie) {
 contenu.addEventListener("click", (e) => {
   const cible = e.target.closest("[data-action]");
   if (!cible) return;
-  if (cible.dataset.action === "filtrer") filtrer(cible.dataset.categorie);
-  if (cible.dataset.action === "ouvrir") {
-    const info = donnees.edition.top5.find((t) => t.id === cible.dataset.id);
-    if (info) ouvrirModale(info, cible, { categories: categoriesParId(donnees.reglages), filsRouges: donnees.filsRouges, dateEdition: donnees.edition.date });
-  }
+  const { action, id } = cible.dataset;
+  if (action === "filtrer") filtrer(cible.dataset.categorie);
+  if (action === "ouvrir" || action === "ouvrir-article") ouvrirInfo(donnees.edition.date, id, cible);
+  if (action === "ouvrir-favori") ouvrirInfo(tousLesFavoris()[id]?.edition, id, cible);
+  if (action === "retirer-favori") retirer(cible);
+  if (action === "trier") trierFavoris(cible.dataset.tri);
+  if (action === "exporter") exporterFavoris();
+  if (action === "importer") document.getElementById("fichier-import").click();
+  if (action === "rechercher") lancerRecherche(cible);
 });
 
-document.addEventListener("keydown", (e) => { if (e.key === "Escape" && modaleOuverte()) fermerModale(); });
+contenu.addEventListener("change", (e) => {
+  if (e.target.id === "fichier-import" && e.target.files[0]) importerFavoris(e.target.files[0]);
+});
+
+document.addEventListener("keydown", (e) => {
+  if (e.key === "Escape" && modaleOuverte()) fermerModale();
+  else if (e.key === "Escape" && rechercheOuverte()) fermerRecherche();
+});
 window.addEventListener("hashchange", () => afficher(lireAdresse()));
 document.getElementById("bouton-theme").addEventListener("click", basculerTheme);
 

@@ -126,6 +126,9 @@ export function vueAccueil(m) {
       <span class="min-w-0 text-[15px] font-bold"><span class="whitespace-nowrap">${m.titreDate}</span> <span class="whitespace-nowrap font-medium text-encre2">${m.mention}</span></span>
       <div class="shrink-0 flex items-center gap-5">
         ${m.sansIA ? "" : pastilles(m)}
+        <button type="button" data-action="rechercher" aria-label="Rechercher" class="survol presse w-11 h-11 rounded-full border border-champ-bord bg-champ flex items-center justify-center cursor-pointer">
+          <svg width="18" height="18" viewBox="0 0 24 24" aria-hidden="true" style="fill:none;stroke:currentColor;stroke-width:2;stroke-linecap:round"><path d="M11 4a7 7 0 1 0 0 14a7 7 0 1 0 0-14zM20 20l-3.5-3.5"></path></svg>
+        </button>
       </div>
     </header>
     ${m.ancienne ? html`

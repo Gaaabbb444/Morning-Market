@@ -120,6 +120,8 @@
   button { font: inherit; color: inherit; }
   input::placeholder { color: var(--ink3); }
   mark { background: var(--mark); color: inherit; border-radius: 4px; padding: 0 2px; }
+  /* Pas de croix d'effacement automatique dans le champ de recherche (absente de la maquette) */
+  input[type="search"]::-webkit-search-cancel-button { appearance: none; }
   :focus-visible { outline: 2px solid var(--acc); outline-offset: 2px; }
 }
 
@@ -219,12 +221,15 @@
   .bandeau { grid-template-columns: 1fr !important; row-gap: 16px; }
   .bandeau-colonnes { grid-template-columns: repeat(2, minmax(0, 1fr)) !important; row-gap: 16px; }
   .cartes3 { grid-template-columns: 1fr !important; }
+  .panneau-onglet { padding: 24px 20px 18px !important; }
+  .panneau-onglet h2 { font-size: 22px !important; }
   .ligne-marche, .ligne-tableau { grid-template-columns: 1fr 1fr !important; row-gap: 10px; }
   .en-tete { flex-direction: column; align-items: flex-start !important; height: auto !important; }
   .en-tete > div { flex-shrink: 1 !important; max-width: 100%; }
   #pastilles { flex-wrap: wrap; }
   .fenetre-info { left: 12px !important; right: 12px !important; width: auto !important; margin-left: 0 !important; }
   .fenetre-info { padding: 22px 22px 26px !important; }
+  .panneau-recherche { top: 12px !important; left: 12px !important; right: 12px !important; width: auto !important; }
   .fenetre-info h2 { font-size: 24px !important; }
   .essentiel { padding: 28px 24px !important; }
   .essentiel li { font-size: 19px !important; }

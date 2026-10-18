@@ -8,7 +8,7 @@ const CROIX = "M6 6l12 12M18 6L6 18";
 const LIEN = "M7 17L17 7M9 7h8v8";
 const NB_EVENEMENTS_LIES = 3;
 
-let ouverte = null; // { couche, fenetre, voile, origine, info, dateEdition }
+let ouverte = null; // { couche, fenetre, voile, origine, info, dateEdition, surFermeture }
 
 function contenu(info, contexte) {
   const { categories, filsRouges, dateEdition } = contexte;
@@ -105,7 +105,8 @@ function trajet(origine, fenetre) {
   return `translate(${dx}px,${dy}px) scale(${s})`;
 }
 
-export function ouvrirModale(info, origine, contexte) {
+/** surFermeture : fonction appelée une fois la fenêtre fermée (ex. actualiser la liste des favoris). */
+export function ouvrirModale(info, origine, contexte, surFermeture = null) {
   if (ouverte) fermerModale(true);
   const couche = document.getElementById("couche-modale");
   couche.innerHTML = String(html`
@@ -116,7 +117,7 @@ export function ouvrirModale(info, origine, contexte) {
     </div>`);
   const voile = couche.querySelector('[data-role="voile"]');
   const fenetre = couche.querySelector('[data-role="fenetre"]');
-  ouverte = { couche, fenetre, voile, origine, info, dateEdition: contexte.dateEdition, contexte };
+  ouverte = { couche, fenetre, voile, origine, info, dateEdition: contexte.dateEdition, contexte, surFermeture };
 
   voile.addEventListener("click", () => fermerModale());
   fenetre.addEventListener("click", (e) => {
@@ -138,9 +139,13 @@ export function ouvrirModale(info, origine, contexte) {
 
 export function fermerModale(immediat = false) {
   if (!ouverte) return;
-  const { couche, fenetre, voile, origine } = ouverte;
+  const { couche, fenetre, voile, origine, surFermeture } = ouverte;
   ouverte = null;
-  const finir = () => { couche.innerHTML = ""; if (origine?.isConnected) origine.focus({ preventScroll: true }); };
+  const finir = () => {
+    couche.innerHTML = "";
+    if (origine?.isConnected) origine.focus({ preventScroll: true });
+    surFermeture?.();
+  };
   if (immediat) return finir();
   const reduit = animationsReduites();
   const retour = origine?.isConnected && !reduit;

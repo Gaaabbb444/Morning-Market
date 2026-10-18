@@ -124,6 +124,71 @@ def main() -> int:
         verifier("Navigation : aucune erreur dans la console", not erreurs, erreurs[:3])
         contexte.close()
 
+        # 4 ter. Catégories, favoris, recherche (lot 3)
+        contexte, page, erreurs = nouvelle_page(navigateur, accept_downloads=True)
+        page.goto(ADRESSE + "#/categories/mondialisation"); page.wait_for_timeout(1200)
+        verifier("Catégories : 7 onglets", page.locator('[role="tab"]').count() == 7)
+        verifier("Onglet demandé sélectionné", page.get_attribute('[data-onglet="mondialisation"]', "aria-selected") == "true")
+        avant = page.locator("#panneau-categorie h2").inner_text()
+        page.click('[data-onglet="finance"]'); page.wait_for_timeout(500)
+        verifier("Changement d'onglet sur place", page.locator("#panneau-categorie h2").inner_text() != avant
+                 and page.get_attribute('[data-onglet="finance"]', "aria-selected") == "true" and page.locator("h1").inner_text() == "Catégories")
+        page.click('[data-onglet="mondialisation"]'); page.wait_for_timeout(500)
+        article = page.locator('#panneau-categorie [data-action="ouvrir-article"]').last
+        if article.count():
+            article.click(); page.wait_for_timeout(700)
+            verifier("Article d'une catégorie : modale ouverte", page.locator('[role="dialog"]').is_visible())
+            page.click('[data-action="favori"]'); page.wait_for_timeout(200)
+            page.keyboard.press("Escape"); page.wait_for_timeout(400)
+
+        page.goto(ADRESSE + "#/"); page.wait_for_timeout(1000)
+        page.locator("#liste-top5 [data-k]").first.click(); page.wait_for_timeout(600)
+        page.click('[data-action="favori"]'); page.keyboard.press("Escape"); page.wait_for_timeout(400)
+        page.click('#navigation [data-vue="favoris"]'); page.wait_for_timeout(800)
+        n = page.locator("[data-f]").count()
+        verifier("Favoris : les infos ajoutées apparaissent", n == 2, f"{n} favori(s)")
+        page.click('[data-tri="categorie"]'); page.wait_for_timeout(400)
+        verifier("Tri par catégorie", page.get_attribute('[data-tri="categorie"]', "aria-pressed") == "true")
+        with page.expect_download() as telechargement:
+            page.click('[data-action="exporter"]')
+        chemin = telechargement.value.path()
+        import json as _json
+        export = _json.loads(Path(chemin).read_text(encoding="utf-8"))
+        verifier("Export : fichier JSON des favoris", export.get("format") == "morning-market-favoris" and len(export["favoris"]) == 2,
+                 telechargement.value.suggested_filename)
+        page.locator("[data-f] [data-action=\"retirer-favori\"]").first.click(); page.wait_for_timeout(500)
+        verifier("Retrait d'un favori", page.locator("[data-f]").count() == 1)
+        page.locator("[data-f] [data-action=\"retirer-favori\"]").first.click(); page.wait_for_timeout(500)
+        verifier("Dernier favori retiré : état vide", "Aucun favori pour l'instant" in page.inner_text("#contenu")
+                 and page.locator('[data-action="exporter"]').is_disabled())
+        page.set_input_files("#fichier-import", chemin); page.wait_for_timeout(500)
+        verifier("Import : favoris restaurés", page.locator("[data-f]").count() == 2 and "2 favoris importés" in page.inner_text("#message-favoris"))
+        page.set_input_files("#fichier-import", files=[{"name": "faux.json", "mimeType": "application/json", "buffer": b'{"bonjour": 1}'}]); page.wait_for_timeout(500)
+        verifier("Import d'un mauvais fichier : refusé avec message", "n'est pas un export" in page.inner_text("#message-favoris")
+                 and page.locator("[data-f]").count() == 2)
+
+        page.goto(ADRESSE + "#/"); page.wait_for_timeout(1000)
+        page.click('[data-action="rechercher"]'); page.wait_for_timeout(400)
+        verifier("Recherche : focus dans le champ", page.evaluate("document.activeElement.hasAttribute('data-champ')"))
+        verifier("Recherche : aide sous deux lettres", "au moins deux lettres" in page.inner_text('[aria-label="Recherche"]'))
+        page.fill("[data-champ]", "inflation"); page.wait_for_timeout(400)
+        verifier("Recherche « inflation » : résultats groupés et surlignés",
+                 page.locator('[aria-label="Recherche"] mark').count() >= 3 and "Indicateurs" in page.inner_text('[aria-label="Recherche"]'))
+        page.fill("[data-champ]", "cryptomonnaie"); page.wait_for_timeout(300)
+        verifier("Recherche sans résultat : message", "Aucun résultat pour" in page.inner_text('[aria-label="Recherche"]'))
+        page.keyboard.press("Escape"); page.wait_for_timeout(300)
+        verifier("Échap ferme la recherche, focus sur la loupe",
+                 page.locator('[aria-label="Recherche"]').count() == 0 and page.evaluate("document.activeElement.dataset.action") == "rechercher")
+        page.click('[data-action="rechercher"]'); page.fill("[data-champ]", "zone euro"); page.wait_for_timeout(300)
+        page.click('[data-resultat="aller"]'); page.wait_for_timeout(800)
+        verifier("Résultat « indicateur » → Marchés", page.locator(".ligne-marche").count() == 12)
+        page.goto(ADRESSE + "#/"); page.wait_for_timeout(1000)
+        page.click('[data-action="rechercher"]'); page.fill("[data-champ]", "Montchalin"); page.wait_for_timeout(600)
+        page.locator('[data-resultat="info"]').first.click(); page.wait_for_timeout(800)
+        verifier("Résultat « info » → modale de l'info", page.locator('[role="dialog"]').is_visible() and "Montchalin" in page.inner_text('[role="dialog"]'))
+        verifier("Lot 3 : aucune erreur dans la console", not erreurs, erreurs[:3])
+        contexte.close()
+
         # 5. Mémoire du navigateur bloquée (navigation privée stricte) : le site doit s'afficher quand même
         contexte, page, erreurs = nouvelle_page(navigateur)
         page.add_init_script("Object.defineProperty(window, 'localStorage', { get() { throw new Error('bloqué'); } });")

@@ -44,6 +44,11 @@ ECRANS = {
     "marches-bas": (5, "base", "adresse:#/marches|defiler-en-bas"),
     "fils-liste": (7, "base", "adresse:#/fils"),
     "fil-detail": (9, "base", "adresse:#/fils/budget-2027"),
+    "categories": (11, "base", "adresse:#/categories/mondialisation"),
+    "favoris": (19, "base", "adresse:#/favoris|favoris-exemple"),
+    "favoris-vide": (21, "base", "adresse:#/favoris"),
+    "recherche": (25, "base", "rechercher:inflation"),
+    "recherche-vide": (27, "base", "rechercher:cryptomonnaie"),
 }
 
 
@@ -83,13 +88,35 @@ def page_maquette(fichier: Path, largeur: int) -> str:
     return copie.as_uri()
 
 
+def favoris_exemple() -> dict:
+    """5 favoris comme dans la maquette : 3 infos du Top 5 du 18/10 et 2 infos du 17/10."""
+    base = RACINE / "tests" / "visuel" / "base" / "jours"
+    j18 = json.loads((base / "2026-10-18.json").read_text(encoding="utf-8"))
+    j17 = json.loads((base / "2026-10-17.json").read_text(encoding="utf-8"))
+    choix = [(j18["top5"][i], "2026-10-18") for i in (0, 2, 3)] + [(info, "2026-10-17") for info in j17["top5"][1:3]]
+    return {info["id"]: {"id": info["id"], "titre": info["titre"], "titre_fr": None, "source": info["source"], "url": info["url"],
+                         "categorie": info["categorie"], "edition": date, "ajoute_le": f"{date}T08:00:0{n}Z"} for n, (info, date) in enumerate(choix)}
+
+
 def capturer(page, adresse: str, largeur: int, action: str | None, est_site: bool) -> Image.Image:
     page.set_viewport_size({"width": largeur, "height": HAUTEUR})
     actions = (action or "").split("|")
     if est_site and actions[0].startswith("adresse:"):
         adresse += actions[0].split(":", 1)[1]  # vue du site à ouvrir (ex. #/marches)
     page.goto(adresse)
+    if est_site:
+        # Mémoire du navigateur : favoris d'exemple pour l'écran Favoris, vide pour tous les autres
+        if "favoris-exemple" in actions:
+            page.evaluate("(f) => localStorage.setItem('morning-market:favoris', JSON.stringify(f))", favoris_exemple())
+            page.reload()
+        elif page.evaluate("localStorage.length"):
+            page.evaluate("localStorage.clear()")
+            page.reload()
     page.wait_for_timeout(2500 if not est_site else 1600)  # décompression de la maquette / animations d'arrivée
+    if est_site and actions[0].startswith("rechercher:"):
+        page.click('[data-action="rechercher"]')
+        page.fill("[data-champ]", actions[0].split(":", 1)[1])
+        page.wait_for_timeout(700)
     if "defiler-en-bas" in actions:
         # La zone principale défile seule (la barre latérale reste fixe), sur la maquette comme sur le site
         page.evaluate("""() => { for (const el of document.querySelectorAll('.main, #zone-principale')) el.scrollTop = el.scrollHeight; }""")
