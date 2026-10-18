@@ -135,7 +135,23 @@ def rattraper_recaps(aujourd_hui: date, client, fils: list[dict]) -> list[dict]:
         ecritures.append({"fichier": f"recaps/{chemin.name}", "ecrit": ecrit, "raison": raison})
         if ecrit:
             journal.info("Récapitulatif écrit : %s", chemin.name)
+    # Liste des récaps disponibles, toujours présente (même vide) : le site sait ainsi quoi demander
+    ecrit, raison = ecrire_json_securise(DOSSIER_DATA / "recaps" / "index.json", liste_recaps(),
+                                         lambda d: None if isinstance(d.get("recaps"), list) else "structure inattendue")
+    ecritures.append({"fichier": "recaps/index.json", "ecrit": ecrit, "raison": raison})
     return ecritures
+
+
+def liste_recaps() -> dict:
+    """Inventaire des récapitulatifs écrits (du plus récent au plus ancien)."""
+    recaps = []
+    for chemin in (DOSSIER_DATA / "recaps").glob("*-*.json"):
+        contenu = lire_json(chemin)
+        if contenu and contenu.get("type") in ("semaine", "mois"):
+            recaps.append({"fichier": f"recaps/{chemin.name}", "type": contenu["type"], "periode": contenu["periode"],
+                           "libelle": contenu.get("libelle"), "du": contenu["du"], "au": contenu["au"]})
+    recaps.sort(key=lambda r: r["au"], reverse=True)
+    return {"version_schema": 1, "recaps": recaps}
 
 
 # ---------------------------------------------------------------------------

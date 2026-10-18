@@ -13,7 +13,7 @@ import os
 import sys
 from datetime import date
 
-from . import fils_rouges, memoire, stockage
+from . import fils_rouges, memoire, reglages_site, stockage
 from .dedoublonnage import regrouper
 from .edition import construire_edition
 from .flux import collecter_articles
@@ -74,6 +74,10 @@ def executer(type_execution: str, refaire: bool = False) -> int:
     anciens_succes = {s["id"]: s.get("dernier_succes") for s in ancien_statut.get("sources", [])}
     for etat in etats_sources:
         etat["dernier_succes"] = horodatage() if etat["etat"] != "erreur" else anciens_succes.get(etat["id"])
+
+    # Libellés pour le site (catégories, thèmes, présentation des indicateurs)
+    ecrire("reglages-site.json", DOSSIER_DATA / "reglages-site.json", reglages_site.produire(config),
+           reglages_site.valider)
 
     # 2. Indicateurs chiffrés
     journal.info("— Indicateurs —")

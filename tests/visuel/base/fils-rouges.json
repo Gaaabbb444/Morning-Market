@@ -1,0 +1,428 @@
+{
+  "version_schema": 1,
+  "mis_a_jour_le": "2026-10-18T13:33:33+02:00",
+  "fils": [
+    {
+      "id": "budget-2027",
+      "titre": "Budget 2027 de la France (État et Sécurité sociale)",
+      "statut": "actif",
+      "ouvert_le": "2026-10-17",
+      "clos_le": null,
+      "categories": [
+        "desequilibres"
+      ],
+      "ou_en_est_on": "L'examen du budget 2027 s'avère particulièrement conflictuel à l'Assemblée nationale. Les députés ont largement modifié le projet de budget de la Sécurité sociale en commission, ce qui porterait le déficit prévisionnel à plus de 21 milliards d'euros selon le rapporteur général. En parallèle, des mesures fiscales ciblées, notamment contre l'optimisation des plus hauts patrimoines, ont été adoptées. Les textes devront toutefois faire l'objet d'un nouveau vote lors des débats en séance publique.",
+      "ou_en_est_on_maj_le": "2026-10-17",
+      "evenements": [
+        {
+          "date": "2026-10-17",
+          "resume": "En commission, les députés ont rejeté plusieurs mesures d'économies du budget de la Sécurité sociale, portant le déficit prévisionnel à 21,4 milliards d'euros, tout en adoptant une mesure ciblant l'optimisation fiscale.",
+          "liens": [
+            {
+              "titre": "Budget de la Sécu 2027 : en commission, les députés font exploser le déficit à plus de 21 milliards d’euros",
+              "source": "Capital",
+              "url": "https://www.capital.fr/economie-politique/budget-de-la-secu-2027-en-commission-les-deputes-font-exploser-le-deficit-a-plus-de-21-milliards-deuros-1531056"
+            },
+            {
+              "titre": "Budget 2027 : une mesure limitant l'optimisation fiscale des plus fortunés votée par les députés",
+              "source": "L'Opinion",
+              "url": "https://www.lopinion.fr/economie/budget-2027-une-mesure-limitant-loptimisation-fiscale-des-plus-fortunes-votee-par-les-deputes"
+            }
+          ]
+        },
+        {
+          "date": "2026-10-18",
+          "resume": "La première présidente de la Cour des comptes, Amélie de Montchalin, met en garde contre le risque d'un étouffement financier de la France.",
+          "liens": [
+            {
+              "titre": "Amélie de Montchalin, première présidente de la Cour des comptes : « Nous menons la bataille de la vérité »",
+              "source": "La Tribune",
+              "url": "https://www.latribune.fr/article/la-tribune-dimanche/dimanche-eco/129388125080514/amelie-de-montchalin-premiere-presidente-de-la-cour-des-comptes-nous-menons-la-bataille-de-la-verite"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dette-marches",
+      "titre": "Dette française et confiance des marchés",
+      "statut": "actif",
+      "ouvert_le": "2026-10-17",
+      "clos_le": null,
+      "categories": [
+        "desequilibres",
+        "finance"
+      ],
+      "ou_en_est_on": null,
+      "ou_en_est_on_maj_le": null,
+      "evenements": []
+    },
+    {
+      "id": "choc-petrolier-ormuz",
+      "titre": "Choc pétrolier : détroit d'Ormuz et carburants",
+      "statut": "actif",
+      "ouvert_le": "2026-10-17",
+      "clos_le": null,
+      "categories": [
+        "mondialisation",
+        "desequilibres"
+      ],
+      "ou_en_est_on": "Au Moyen-Orient, les menaces sur le trafic maritime dans le détroit d'Ormuz maintiennent une forte pression sur les cours mondiaux du pétrole brut. En France, les tensions sur les approvisionnements se concrétisent à la pompe : près d'une station-service sur six fait face à des pénuries de carburant, en particulier dans le réseau TotalEnergies où s'applique un plafonnement des prix. Cette crise de l'offre aggrave les difficultés économiques et alimente les revendications sur le pouvoir d'achat.",
+      "ou_en_est_on_maj_le": "2026-10-18",
+      "evenements": [
+        {
+          "date": "2026-10-17",
+          "resume": "La multiplication des attaques contre des pétroliers dans le détroit d'Ormuz et au large de l'Arabie saoudite pousse les cours du brut vers les 110 dollars le baril.",
+          "liens": [
+            {
+              "titre": "\"Un superpétrolier a heurté une mine\": l'Iran intensifie ses attaques dans le détroit d'Ormuz, alors que le baril de pétrole frôle à nouveau les 110 dollars",
+              "source": "BFM Business",
+              "url": "https://www.bfmtv.com/economie/international/un-superpetrolier-a-heurte-une-mine-l-iran-intensifie-ses-attaques-dans-le-detroit-d-ormuz-alors-que-le-baril-de-petrole-frole-a-nouveau-les-110-dollars_AV-202610170153.html"
+            },
+            {
+              "titre": "Détroit d'Ormuz : deux pétroliers visés par une attaque au large de l'Arabie saoudite",
+              "source": "La Tribune",
+              "url": "https://www.latribune.fr/article/entreprises-finance/energie-environnement/85900589526098/detroit-dormuz-deux-petroliers-vises-par-une-attaque-au-large-de-larabie-saoudite"
+            }
+          ]
+        },
+        {
+          "date": "2026-10-18",
+          "resume": "Près d'une station-service sur six subit des ruptures de carburant en France, les difficultés se concentrant notamment chez TotalEnergies dont les prix plafonnés attirent les clients.",
+          "liens": [
+            {
+              "titre": "Carburants : près de 600 stations à sec, le Grand Est particulièrement touché",
+              "source": "La Tribune",
+              "url": "https://www.latribune.fr/article/entreprises-finance/energie-environnement/3682903016799114/carburants-pres-de-600-stations-a-sec-le-grand-est-particulierement-touche"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "inflation-bce",
+      "titre": "Inflation et politique monétaire de la BCE",
+      "statut": "actif",
+      "ouvert_le": "2026-10-17",
+      "clos_le": null,
+      "categories": [
+        "finance",
+        "desequilibres"
+      ],
+      "ou_en_est_on": null,
+      "ou_en_est_on_maj_le": null,
+      "evenements": []
+    },
+    {
+      "id": "ukraine-sanctions",
+      "titre": "Guerre en Ukraine : sanctions et revirement américain",
+      "statut": "actif",
+      "ouvert_le": "2026-10-17",
+      "clos_le": null,
+      "categories": [
+        "mondialisation",
+        "ue"
+      ],
+      "ou_en_est_on": "La politique américaine vis-à-vis de la Russie connaît une inflexion majeure. Donald Trump a décidé d'exonérer les hydrocarbures russes des sanctions afin d'atténuer la hausse des prix du carburant avant les élections de mi-mandat. Dans ce cadre, Moscou a annoncé des livraisons de 2 millions de barils de diesel sous quinze à vingt jours, bien que les contrats fassent encore l'objet de négociations. Ce rapprochement énergétique continue de susciter de vives inquiétudes quant au maintien du soutien américain à l'Ukraine.",
+      "ou_en_est_on_maj_le": "2026-10-18",
+      "evenements": [
+        {
+          "date": "2026-10-17",
+          "resume": "Donald Trump a suspendu les sanctions sur les hydrocarbures russes pour tenter de freiner les prix des carburants, accentuant les craintes d'un désengagement américain envers Kiev.",
+          "liens": [
+            {
+              "titre": "Donald Trump suspend les sanctions contre Moscou pour sauver les élections des midterms à la pompe",
+              "source": "La Tribune",
+              "url": "https://www.latribune.fr/article/entreprises-finance/energie-environnement/96167758957597/donald-trump-suspend-les-sanctions-contre-moscou-pour-sauver-les-elections-des-midterms-a-la-pompe"
+            },
+            {
+              "titre": "Renseignement, coupure de Starshield... Les dangers du divorce Trump-Zelensky",
+              "source": "La Tribune",
+              "url": "https://www.latribune.fr/article/la-tribune-dimanche/dans-le-monde/1182715388918114/renseignement-coupure-de-starshield-les-dangers-du-divorce-trump-zelensky"
+            }
+          ]
+        },
+        {
+          "date": "2026-10-18",
+          "resume": "Moscou prévoit de livrer 2 millions de barils de diesel aux États-Unis d'ici quinze à vingt jours pour apaiser les prix à la pompe, bien que les termes des contrats soient encore en négociation.",
+          "liens": [
+            {
+              "titre": "Après l'accord avec Trump sur le gazole, Moscou annonce des livraisons de carburant sous \"15 à 20 jours\", mais les contrats restent à signer",
+              "source": "BFM Business",
+              "url": "https://www.bfmtv.com/economie/entreprises/energie/apres-l-accord-avec-trump-sur-le-gazole-moscou-annonce-des-livraisons-de-carburant-sous-15-a-20-jours-mais-les-contrats-restent-a-signer_AD-202610180202.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "presidentielle-2027",
+      "titre": "Présidentielle 2027 : les programmes économiques",
+      "statut": "actif",
+      "ouvert_le": "2026-10-17",
+      "clos_le": null,
+      "categories": [
+        "desequilibres"
+      ],
+      "ou_en_est_on": null,
+      "ou_en_est_on_maj_le": null,
+      "evenements": []
+    },
+    {
+      "id": "automobile-europe-chine",
+      "titre": "L'automobile européenne face à la Chine",
+      "statut": "actif",
+      "ouvert_le": "2026-10-17",
+      "clos_le": null,
+      "categories": [
+        "entreprises",
+        "mondialisation",
+        "croissance"
+      ],
+      "ou_en_est_on": "L'Europe réorganise sa stratégie face à la concurrence automobile chinoise. Après l'accord franco-allemand sur les règles environnementales et les composants locaux, l'industrie d'outre-Rhin soutient ces mesures de protection face aux pertes d'emplois et aux limites du libre-échange. Parallèlement, le Royaume-Uni envisage des barrières douanières, tandis que la Chine tente des concessions sur les hybrides pour maintenir son accès au marché.",
+      "ou_en_est_on_maj_le": "2026-10-18",
+      "evenements": [
+        {
+          "date": "2026-10-17",
+          "resume": "La France et l'Allemagne ont conclu un accord prévoyant des assouplissements environnementaux et l'exigence d'au moins 70 % de composants européens pour les subventions automobiles.",
+          "liens": [
+            {
+              "titre": "L’accord franco-allemand sur l’automobile ménage Stellantis mais n’épargne pas Renault",
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/economie/article/2026/10/16/l-accord-franco-allemand-sur-l-automobile-menage-stellantis-mais-n-epargne-pas-renault_6795636_3234.html"
+            },
+            {
+              "titre": "La France et l’Allemagne trouvent un accord sur l’avenir d’une industrie automobile \"made in Europe\", au prix de concessions environnementales",
+              "source": "Toute l'Europe",
+              "url": "https://www.touteleurope.eu/economie-et-social/la-france-et-l-allemagne-trouvent-un-accord-sur-l-avenir-d-une-industrie-automobile-made-in-europe-au-prix-de-concessions-environnementales/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "budget-ue",
+      "titre": "Budget de l'Union européenne et contribution française",
+      "statut": "actif",
+      "ouvert_le": "2026-10-17",
+      "clos_le": null,
+      "categories": [
+        "ue"
+      ],
+      "ou_en_est_on": null,
+      "ou_en_est_on_maj_le": null,
+      "evenements": []
+    },
+    {
+      "id": "fiscalite-epargne-patrimoine",
+      "titre": "Fiscalité de l'épargne et du patrimoine",
+      "statut": "actif",
+      "ouvert_le": "2026-10-17",
+      "clos_le": null,
+      "categories": [
+        "epargne"
+      ],
+      "ou_en_est_on": "L'encours de plus de 2 100 milliards d'euros de l'assurance-vie revient au centre des débats budgétaires et politiques. Certains responsables envisagent d'alourdir sa fiscalité pour contribuer à la réduction du déficit public ou financer des investissements d'avenir. De son côté, La France insoumise propose de créer un « livret B » dédié à des investissements ciblés, en prévoyant de réduire l'attractivité des autres produits si nécessaire. Parallèlement, les parlementaires ont validé l'assouplissement du dispositif d'apport-cession.",
+      "ou_en_est_on_maj_le": "2026-10-18",
+      "evenements": [
+        {
+          "date": "2026-10-17",
+          "resume": "L'Assemblée nationale a assoupli et adopté la réforme de l'apport-cession, tandis que la perspective d'une hausse de la fiscalité sur l'assurance-vie resurgit dans le débat politique.",
+          "liens": [
+            {
+              "titre": "Assurance-vie, pourquoi la tentation de taxer ses avantages revient avant la présidentielle",
+              "source": "Capital",
+              "url": "https://www.capital.fr/votre-argent/assurance-vie-pourquoi-la-tentation-de-taxer-ses-avantages-revient-avant-la-presidentielle-1531054"
+            },
+            {
+              "titre": "C'était la crainte des chefs d'entreprise: la réforme de \"l'apport-cession\" adoptée in extremis à l'Assemblée",
+              "source": "BFM Business",
+              "url": "https://www.bfmtv.com/economie/entreprises/les-chefs-d-entreprise-la-redoutent-particulierement-la-reforme-de-l-apport-cession-adoptee-in-extremis-a-l-assemblee_AV-202610170173.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "conjoncture-france",
+      "titre": "Conjoncture française : croissance, emploi, entreprises",
+      "statut": "actif",
+      "ouvert_le": "2026-10-17",
+      "clos_le": null,
+      "categories": [
+        "croissance",
+        "desequilibres",
+        "entreprises"
+      ],
+      "ou_en_est_on": "L'inflation s'est établie à 3,1 % sur un an en septembre selon l'Insee, portée par la hausse de l'énergie et des produits alimentaires. Ce contexte pèse sur le climat social après la journée d'action contre la vie chère du 17 octobre, qui a réuni entre 550 000 et 800 000 personnes. Au lendemain des pillages et des dégradations, les organisations professionnelles de la distribution et de la restauration chiffrent les dégâts en centaines de millions d'euros et somment l'exécutif d'accélérer les indemnisations. Une cellule de crise ministérielle doit se réunir pour répondre aux inquiétudes du secteur économique.",
+      "ou_en_est_on_maj_le": "2026-10-18",
+      "evenements": [
+        {
+          "date": "2026-10-17",
+          "resume": "D'importantes manifestations contre la vie chère ont réuni entre 550 000 et 800 000 personnes en France, sur fond de baisse de la consommation et d'érosion du pouvoir d'achat.",
+          "liens": [
+            {
+              "titre": "Mouvement du 17 octobre : le cortège s'est élancé à Paris, où des tensions sont à noter, ainsi qu'à Lyon et Marseille",
+              "source": "L'Opinion",
+              "url": "https://www.lopinion.fr/politique/mouvement-du-17-octobre-deux-corteges-sauvages-et-61-interpellations-a-paris-un-commissariat-attaque-a-marseille"
+            },
+            {
+              "titre": "\"Nous ne nous laisserons pas intimider\", prévient Sébastien Lecornu, dénonçant les violences en marge des manifestations du 17 octobre",
+              "source": "franceinfo",
+              "url": "https://www.franceinfo.fr/economie/greve/nous-ne-nous-laisserons-pas-intimider-previent-sebastien-lecornu-denoncant-les-violences-en-marge-des-manifestations-du-17-octobre_8242030.html#xtor=RSS-3-%5Bgeneral%5D"
+            },
+            {
+              "titre": "\"Je m'attendais à pouvoir faire un peu plus d'activités\" : des vacances de la Toussaint au budget serré",
+              "source": "franceinfo",
+              "url": "https://www.franceinfo.fr/societe/religion/toussaint/je-m-attendais-a-pouvoir-faire-un-peu-plus-d-activites-des-vacances-de-la-toussaint-au-budget-serre_8241772.html#xtor=RSS-3-%5Bgeneral%5D"
+            },
+            {
+              "titre": "\"Faire converger les luttes pour obtenir quelque chose\" : plusieurs centaines de milliers de Français dans la rue ce 17 octobre",
+              "source": "franceinfo",
+              "url": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/faire-converger-les-luttes-pour-obtenir-quelque-chose-plusieurs-centaines-de-milliers-de-francais-dans-la-rue-ce-17-octobre_8242072.html#xtor=RSS-3-%5Bgeneral%5D"
+            },
+            {
+              "titre": "Mobilisation du 17 octobre : 800 000 personnes ont manifesté dans toute la France, selon les organisateurs, 550 000 selon le ministre de l'Intérieur",
+              "source": "franceinfo",
+              "url": "https://www.franceinfo.fr/economie/greve/mobilisation-du-17-octobre-800-000-personnes-ont-manifeste-dans-toute-la-france-selon-les-organisateurs-550-000-selon-le-ministre-de-l-interieur_8242081.html#xtor=RSS-3-%5Bgeneral%5D"
+            },
+            {
+              "titre": "REPORTAGE. A Paris, une foule compacte et une multitude de \"ras-le-bol\" dans la manifestation du 17 octobre",
+              "source": "franceinfo",
+              "url": "https://www.franceinfo.fr/economie/greve/reportage-a-paris-une-foule-compacte-et-une-multitude-de-ras-le-bol-dans-la-manifestation-du-17-octobre_8241868.html#xtor=RSS-3-%5Bgeneral%5D"
+            },
+            {
+              "titre": "Trop chaud, trop cher : le marché français de l’habillement s’enfonce dans la crise",
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/economie/article/2026/10/16/trop-chaud-trop-cher-le-marche-francais-de-l-habillement-s-enfonce-dans-la-crise_6795583_3234.html"
+            },
+            {
+              "titre": "\"La France n’est pas au rang auquel elle devrait être\": Jean-François Loiseau, patron des industriels de l’agroalimentaire, alerte sur le décrochage français face à l’Italie et à l’Espagne",
+              "source": "BFM Business",
+              "url": "https://www.bfmtv.com/economie/en-france-on-n-accepte-pas-l-inflation-on-est-en-train-de-tuer-l-agroalimentaire-le-patron-des-industriels-repond-a-leclerc-et-alerte-sur-le-decrochage-francais-face-a-l-italie-et-l-espagne_AN-202610170044.html"
+            },
+            {
+              "titre": "L'État s'interroge sur sa gestion des Forges de Tarbes et a saisi la justice: Europlasma dit se tenir \"à la disposition des autorités compétentes\"",
+              "source": "BFM Business",
+              "url": "https://www.bfmtv.com/economie/entreprises/industries/l-etat-s-interroge-sur-sa-gestion-des-forges-de-tarbes-et-a-saisi-la-justice-europlasma-dit-se-tenir-a-la-disposition-des-autorites-competentes_AD-202610170140.html"
+            }
+          ]
+        },
+        {
+          "date": "2026-10-18",
+          "resume": "Après les manifestations du 17 octobre, commerçants et restaurateurs évaluent les dégradations à des centaines de millions d'euros et réclament des indemnisations rapides, tandis que l'inflation s'établit à 3,1 % sur un an en septembre selon l'Insee.",
+          "liens": [
+            {
+              "titre": "Manifestation du 17 octobre: Alexandre Bompard, PDG de Carrefour annonce une \"vingtaine de magasins pillés et saccagés\"",
+              "source": "BFM Business",
+              "url": "https://www.bfmtv.com/economie/video-manifestation-du-17-octobre-alexandre-bompard-pdg-de-carrefour-annonce-une-vingtaine-de-magasins-pilles-et-saccages_VN-202610180184.html"
+            },
+            {
+              "titre": "\"Pour nombre d'entreprises, ces dégradations peuvent être le coup de trop\": le gouvernement sommé d'agir vite après les pillages du 17 octobre",
+              "source": "BFM Business",
+              "url": "https://www.bfmtv.com/economie/entreprises/pour-nombre-d-entreprises-ces-degradations-peuvent-etre-le-coup-de-trop-le-gouvernement-somme-d-agir-vite-apres-les-pillages-du-17-octobre_AV-202610180173.html"
+            },
+            {
+              "titre": "Dans les rayons, la hausse des prix des produits frais risque de se poursuivre",
+              "source": "BFM Business",
+              "url": "https://www.bfmtv.com/economie/video-dans-les-rayons-la-hausse-des-prix-des-produits-frais-risque-de-se-poursuivre_VN-202610180050.html"
+            },
+            {
+              "titre": "\"Cela se chiffrera en centaines de millions d'euros\": restaurateurs et grande distribution s'indignent de devoir \"payer la facture des violences\" du 17 octobre",
+              "source": "BFM Business",
+              "url": "https://www.bfmtv.com/economie/entreprises/ce-que-l-on-a-vecu-est-inacceptable-restaurateurs-et-grande-distribution-s-indignent-de-devoir-payer-la-facture-des-violences-du-17-octobre_AD-202610180131.html"
+            },
+            {
+              "titre": "« Nos établissements ne sont pas des défouloirs » : hôteliers et restaurateurs ne veulent pas être les « victimes collatérales » des violences",
+              "source": "Le Figaro",
+              "url": "https://www.lefigaro.fr/conso/nos-etablissements-ne-sont-pas-des-defouloirs-hoteliers-et-restaurateurs-ne-veulent-pas-etre-les-victimes-collaterales-des-violences-20261018"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "intelligence-artificielle",
+      "titre": "Intelligence artificielle : économie, régulation et souveraineté européenne",
+      "statut": "actif",
+      "ouvert_le": "2026-10-17",
+      "clos_le": null,
+      "categories": [
+        "croissance",
+        "entreprises",
+        "ue"
+      ],
+      "ou_en_est_on": "Le secteur de l'intelligence artificielle est marqué par des écarts importants de retombées économiques entre les puissances mondiales. Alors que l'IA génère un tiers de la croissance aux États-Unis, les investissements réalisés en France, notamment dans ses 350 centres de données, tardent à produire des effets macroéconomiques tangibles. En parallèle, les débats internationaux se poursuivent sur l'encadrement des modèles à haut risque et les restrictions aux exportations.",
+      "ou_en_est_on_maj_le": "2026-10-18",
+      "evenements": [
+        {
+          "date": "2026-10-17",
+          "resume": "Pékin envisage de limiter les exportations de ses technologies d'intelligence artificielle avancées, tandis qu'aux États-Unis l'entreprise Anthropic propose un cadre légal pour suspendre les modèles jugés dangereux.",
+          "liens": [
+            {
+              "titre": "La Chine veut contrôler la sortie de ses IA à l’étranger",
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/economie/article/2026/10/17/la-chine-veut-controler-la-sortie-de-ses-ia-a-l-etranger_6796167_3234.html"
+            },
+            {
+              "titre": "Un modèle pourrait être bloqué s'il risque de tuer 50 personnes: faute de loi fédérale, Anthropic propose son propre texte pour encadrer l'IA",
+              "source": "BFM Business",
+              "url": "https://www.bfmtv.com/economie/entreprises/un-modele-pourrait-etre-bloque-s-il-risque-de-tuer-50-personnes-faute-de-loi-federale-anthropic-propose-son-propre-texte-pour-encadrer-l-ia_AD-202610170224.html"
+            },
+            {
+              "titre": "Why Britain should reject the lure of cheap – and scary – Chinese AI",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/business/2026/oct/17/why-britain-should-reject-the-lure-of-cheap-and-scary-chinese-ai"
+            }
+          ]
+        },
+        {
+          "date": "2026-10-18",
+          "resume": "La Banque mondiale recommande aux pays en développement d'adopter des modèles de « petite IA » sur téléphone mobile pour accélérer leur trajectoire économique.",
+          "liens": [
+            {
+              "titre": "World Bank says ‘small AI’ could transform developing countries",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/technology/2026/oct/18/world-bank-artificial-intelligence-developing-economies"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "retraites",
+      "titre": "Retraites",
+      "statut": "actif",
+      "ouvert_le": "2026-10-17",
+      "clos_le": null,
+      "categories": [
+        "desequilibres",
+        "epargne"
+      ],
+      "ou_en_est_on": "Le régime des retraites fait l'objet de plusieurs pistes d'économies budgétaires pour 2027. Outre la réforme de la majoration de pension pour les familles de trois enfants, l'hypothèse d'une sous-indexation des pensions est évoquée, ce qui réduirait les montants perçus par de nombreux retraités. Ces projets alimentent le débat sur l'équité des efforts demandés selon le montant des pensions versées.",
+      "ou_en_est_on_maj_le": "2026-10-18",
+      "evenements": [
+        {
+          "date": "2026-10-17",
+          "resume": "Le projet de barème forfaitaire pour la majoration de pension liée aux familles de trois enfants créerait des pertes pour les retraités percevant plus de 1 100 euros par mois.",
+          "liens": [
+            {
+              "titre": "Pension majorée de 10% pour trois enfants, le forfait de 2027 ferait des perdants dès 1 100 euros",
+              "source": "Capital",
+              "url": "https://www.capital.fr/votre-retraite/pension-majoree-de-10-pour-trois-enfants-le-forfait-de-2027-ferait-des-perdants-des-1-100-euros-1531025"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "reserve": [
+    {
+      "id": "crise-sociale-vie-chere",
+      "titre": "Crise sociale et vie chère",
+      "categories": [
+        "desequilibres"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,209 @@
+{
+  "version_schema": 1,
+  "categories": [
+    {
+      "id": "croissance",
+      "libelle": "Croissance, innovation et transition écologique",
+      "libelle_pastille": "Croissance",
+      "libelle_onglet": "Croissance"
+    },
+    {
+      "id": "mondialisation",
+      "libelle": "Mondialisation et commerce international",
+      "libelle_pastille": "Mondialisation",
+      "libelle_onglet": "Mondialisation"
+    },
+    {
+      "id": "finance",
+      "libelle": "Finance, marchés et banques centrales",
+      "libelle_pastille": "Finance",
+      "libelle_onglet": "Finance"
+    },
+    {
+      "id": "desequilibres",
+      "libelle": "Déséquilibres : emploi, inflation, inégalités, dette et déficits",
+      "libelle_pastille": "Déséquilibres",
+      "libelle_onglet": "Déséquilibres"
+    },
+    {
+      "id": "ue",
+      "libelle": "Union européenne",
+      "libelle_pastille": "UE",
+      "libelle_onglet": "Union européenne"
+    },
+    {
+      "id": "entreprises",
+      "libelle": "Entreprises et secteurs",
+      "libelle_pastille": "Entreprises",
+      "libelle_onglet": "Entreprises"
+    },
+    {
+      "id": "epargne",
+      "libelle": "Épargne et patrimoine",
+      "libelle_pastille": "Épargne",
+      "libelle_onglet": "Épargne et patrimoine"
+    }
+  ],
+  "themes_tejm": [
+    {
+      "id": "croissance",
+      "libelle": "Croissance, innovation et développement durable"
+    },
+    {
+      "id": "mondialisation",
+      "libelle": "Mondialisation"
+    },
+    {
+      "id": "globalisation-financiere",
+      "libelle": "Globalisation financière"
+    },
+    {
+      "id": "desequilibres",
+      "libelle": "Déséquilibres : chômage, inflation, inégalités, dette"
+    },
+    {
+      "id": "ue",
+      "libelle": "Union européenne"
+    }
+  ],
+  "indicateurs": [
+    {
+      "id": "cac40",
+      "libelle": "CAC 40",
+      "nom": "CAC 40",
+      "nom_court": "CAC 40",
+      "note": "Bourse de Paris",
+      "groupe": "Marchés",
+      "unite": "",
+      "ordre_bandeau": 1,
+      "prix_de_marche": true
+    },
+    {
+      "id": "eurostoxx50",
+      "libelle": "Euro Stoxx 50",
+      "nom": "Euro Stoxx 50",
+      "nom_court": null,
+      "note": "Grandes valeurs de la zone euro",
+      "groupe": "Marchés",
+      "unite": "",
+      "ordre_bandeau": null,
+      "prix_de_marche": true
+    },
+    {
+      "id": "sp500",
+      "libelle": "S&P 500",
+      "nom": "S&P 500",
+      "nom_court": null,
+      "note": "Bourse de New York",
+      "groupe": "Marchés",
+      "unite": "",
+      "ordre_bandeau": null,
+      "prix_de_marche": true
+    },
+    {
+      "id": "brent",
+      "libelle": "Pétrole Brent",
+      "nom": "Pétrole Brent",
+      "nom_court": "Brent",
+      "note": "En dollars par baril",
+      "groupe": "Marchés",
+      "unite": "$",
+      "ordre_bandeau": 3,
+      "prix_de_marche": true
+    },
+    {
+      "id": "or",
+      "libelle": "Or",
+      "nom": "Or",
+      "nom_court": null,
+      "note": "En dollars par once",
+      "groupe": "Marchés",
+      "unite": "$",
+      "ordre_bandeau": null,
+      "prix_de_marche": true
+    },
+    {
+      "id": "eur-usd",
+      "libelle": "EUR/USD",
+      "nom": "EUR/USD",
+      "nom_court": "EUR/USD",
+      "note": "Dollars pour un euro",
+      "groupe": "Change",
+      "unite": "$",
+      "ordre_bandeau": 2,
+      "prix_de_marche": true
+    },
+    {
+      "id": "taux-depot-bce",
+      "libelle": "Taux de dépôt de la BCE",
+      "nom": "Taux de dépôt de la BCE",
+      "nom_court": "Taux BCE",
+      "note": "Taux directeur",
+      "groupe": "Taux",
+      "unite": "%",
+      "ordre_bandeau": 4,
+      "prix_de_marche": false
+    },
+    {
+      "id": "taux-10-ans-france",
+      "libelle": "Taux à 10 ans de la France",
+      "nom": "Taux à 10 ans de la France",
+      "nom_court": null,
+      "note": "Moyenne mensuelle (OAT)",
+      "groupe": "Taux",
+      "unite": "%",
+      "ordre_bandeau": null,
+      "prix_de_marche": false
+    },
+    {
+      "id": "inflation-zone-euro",
+      "libelle": "Inflation zone euro (IPCH, sur un an)",
+      "nom": "Inflation zone euro",
+      "nom_court": null,
+      "note": "IPCH, glissement sur un an",
+      "groupe": "Économie",
+      "unite": "%",
+      "ordre_bandeau": null,
+      "prix_de_marche": false
+    },
+    {
+      "id": "inflation-france",
+      "libelle": "Inflation France (IPCH, sur un an)",
+      "nom": "Inflation France",
+      "nom_court": "Inflation FR",
+      "note": "IPCH, glissement sur un an",
+      "groupe": "Économie",
+      "unite": "%",
+      "ordre_bandeau": 5,
+      "prix_de_marche": false
+    },
+    {
+      "id": "chomage-france",
+      "libelle": "Chômage France (BIT)",
+      "nom": "Chômage France",
+      "nom_court": null,
+      "note": "Taux au sens du BIT",
+      "groupe": "Économie",
+      "unite": "%",
+      "ordre_bandeau": null,
+      "prix_de_marche": false
+    },
+    {
+      "id": "pib-france",
+      "libelle": "Croissance du PIB France (trimestre)",
+      "nom": "Croissance du PIB France",
+      "nom_court": null,
+      "note": "Variation sur un trimestre",
+      "groupe": "Économie",
+      "unite": "%",
+      "ordre_bandeau": null,
+      "prix_de_marche": false
+    }
+  ],
+  "groupes_indicateurs": [
+    "Marchés",
+    "Change",
+    "Taux",
+    "Économie"
+  ]
+}

@@ -103,10 +103,23 @@ jobs:
         with:
           ref: main   # la version qui contient les données qui viennent d'être enregistrées
 
+      # Feuille de style : compilée avec l'outil officiel de Tailwind (version figée, empreinte vérifiée)
+      - name: Compiler la feuille de style (Tailwind CSS)
+        env:
+          TAILWIND_VERSION: v4.3.3
+        run: |
+          mkdir -p outils && cd outils
+          curl -fsSL -o tailwindcss-linux-x64 "https://github.com/tailwindlabs/tailwindcss/releases/download/${TAILWIND_VERSION}/tailwindcss-linux-x64"
+          curl -fsSL -o sha256sums.txt "https://github.com/tailwindlabs/tailwindcss/releases/download/${TAILWIND_VERSION}/sha256sums.txt"
+          grep " ./tailwindcss-linux-x64$" sha256sums.txt | sha256sum -c -
+          chmod +x tailwindcss-linux-x64 && cd ..
+          ./outils/tailwindcss-linux-x64 -i site/src/style.css -o site/assets/style.css --minify
+
       - name: Assembler le site (pages + données)
         run: |
           mkdir -p _site
           cp -r site/. _site/
+          rm -rf _site/src
           cp -r data _site/data
           touch _site/.nojekyll
 

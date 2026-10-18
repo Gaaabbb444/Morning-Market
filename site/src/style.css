@@ -1,0 +1,219 @@
+/*
+ * Feuille de style de Morning Market (Tailwind CSS v4).
+ * Toutes les valeurs viennent de la page « Spécifications » de la maquette (Maquette/Morning Market.html) :
+ * elles sont définies UNE SEULE FOIS ici, puis utilisées partout via les classes Tailwind.
+ * Compilation : outils\tailwindcss-windows-x64.exe -i site\src\style.css -o site\assets\style.css --minify
+ */
+@import "tailwindcss";
+@source "../js";
+@source "../index.html";
+
+/* Le thème se règle avec la classe .mm-dark / .mm-light posée sur <html>. */
+@custom-variant clair (&:where(.mm-light, .mm-light *));
+
+/* ---------------------------------------------------------------------------
+   Police : Manrope (licence OFL), hébergée avec le site. Un seul fichier « variable »
+   couvre les graisses 400 à 800 et l'alphabet latin (accents, espace fine, signe moins).
+   --------------------------------------------------------------------------- */
+@font-face {
+  font-family: "Manrope";
+  font-style: normal;
+  font-weight: 200 800;
+  font-display: swap;
+  src: url("../polices/manrope-latin.woff2") format("woff2");
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329,
+    U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+/* ---------------------------------------------------------------------------
+   1. Couleurs des deux modes (Spécifications, section 1 ; valeurs exactes du prototype)
+   --------------------------------------------------------------------------- */
+.mm-dark {
+  --bg: #0b0913; --ink: #f2eff9; --ink2: rgba(232, 226, 246, 0.74); --ink3: rgba(232, 226, 246, 0.68);
+  --acc: #b4a5ff; --onacc: #14101f; --accbg: rgba(180, 165, 255, 0.14); --accbg2: rgba(180, 165, 255, 0.2);
+  --tile: linear-gradient(180deg, rgba(255, 255, 255, 0.085), rgba(255, 255, 255, 0.045));
+  --tileb: rgba(255, 255, 255, 0.13);
+  --tiles: inset 0 1px 0 rgba(255, 255, 255, 0.11), 0 40px 80px -40px rgba(0, 0, 0, 0.7);
+  --calm: rgba(255, 255, 255, 0.035); --calmb: transparent; --hov: rgba(255, 255, 255, 0.06);
+  --sep: rgba(255, 255, 255, 0.08); --up: #43d88e; --down: #ff7a86;
+  --side: rgba(255, 255, 255, 0.02); --sideb: transparent;
+  --modal: linear-gradient(180deg, #27213b, #18142a); --modalb: rgba(255, 255, 255, 0.14);
+  --scrim: rgba(6, 4, 12, 0.62); --cardsh: 0 34px 60px -26px rgba(0, 0, 0, 0.75);
+  --fup: rgba(67, 216, 142, 0.1); --fdown: rgba(255, 122, 134, 0.1); --facc: rgba(180, 165, 255, 0.12);
+  --base: rgba(255, 255, 255, 0.1); --mark: rgba(180, 165, 255, 0.3); --tint: rgba(180, 165, 255, 0.09);
+  --field: rgba(255, 255, 255, 0.06); --fieldb: rgba(255, 255, 255, 0.12); --muted: rgba(232, 226, 246, 0.52);
+  --glow: radial-gradient(1100px 700px at 100% 0%, rgba(150, 120, 255, 0.22), transparent 60%),
+    radial-gradient(900px 700px at 0% 45%, rgba(60, 110, 230, 0.13), transparent 62%),
+    radial-gradient(1100px 800px at 30% 110%, rgba(110, 90, 230, 0.13), transparent 62%);
+  color-scheme: dark;
+}
+.mm-light {
+  --bg: #f4f2fa; --ink: #16122a; --ink2: rgba(22, 18, 42, 0.72); --ink3: rgba(22, 18, 42, 0.68);
+  --acc: #5b45d6; --onacc: #ffffff; --accbg: rgba(91, 69, 214, 0.1); --accbg2: rgba(91, 69, 214, 0.14);
+  --tile: linear-gradient(180deg, rgba(255, 255, 255, 0.86), rgba(255, 255, 255, 0.7));
+  --tileb: rgba(22, 18, 42, 0.08);
+  --tiles: inset 0 1px 0 #ffffff, 0 40px 80px -40px rgba(60, 40, 140, 0.28);
+  --calm: rgba(255, 255, 255, 0.62); --calmb: rgba(22, 18, 42, 0.06); --hov: rgba(22, 18, 42, 0.045);
+  --sep: rgba(22, 18, 42, 0.08); --up: #0a6e44; --down: #b02633;
+  --side: rgba(255, 255, 255, 0.45); --sideb: rgba(22, 18, 42, 0.06);
+  --modal: linear-gradient(180deg, #ffffff, #f8f6fd); --modalb: rgba(22, 18, 42, 0.1);
+  --scrim: rgba(22, 18, 42, 0.34); --cardsh: 0 34px 60px -26px rgba(60, 40, 140, 0.3);
+  --fup: rgba(10, 110, 68, 0.1); --fdown: rgba(176, 38, 51, 0.1); --facc: rgba(91, 69, 214, 0.1);
+  --base: rgba(22, 18, 42, 0.14); --mark: rgba(91, 69, 214, 0.18); --tint: rgba(91, 69, 214, 0.07);
+  --field: rgba(255, 255, 255, 0.75); --fieldb: rgba(22, 18, 42, 0.1); --muted: rgba(22, 18, 42, 0.48);
+  --glow: radial-gradient(1100px 700px at 100% 0%, rgba(150, 120, 255, 0.22), transparent 60%),
+    radial-gradient(900px 700px at 0% 45%, rgba(80, 130, 240, 0.1), transparent 62%),
+    radial-gradient(1100px 800px at 30% 110%, rgba(170, 140, 255, 0.14), transparent 62%);
+  color-scheme: light;
+}
+
+/* Branchement des couleurs, de la police, des arrondis et des courbes dans Tailwind :
+   « text-encre2 », « bg-accent-fond », « rounded-tuile », « ease-mm »… */
+@theme inline {
+  --font-sans: "Manrope", ui-sans-serif, system-ui, sans-serif;
+  --color-fond: var(--bg);
+  --color-encre: var(--ink);
+  --color-encre2: var(--ink2);
+  --color-encre3: var(--ink3);
+  --color-accent: var(--acc);
+  --color-sur-accent: var(--onacc);
+  --color-accent-fond: var(--accbg);
+  --color-accent-fond2: var(--accbg2);
+  --color-hausse: var(--up);
+  --color-baisse: var(--down);
+  --color-grise: var(--muted);
+  --color-calme: var(--calm);
+  --color-calme-bord: var(--calmb);
+  --color-survol: var(--hov);
+  --color-sep: var(--sep);
+  --color-champ: var(--field);
+  --color-champ-bord: var(--fieldb);
+  --color-teinte: var(--tint);
+  --color-surlignage: var(--mark);
+  --color-voile: var(--scrim);
+  --color-tuile-bord: var(--tileb);
+  --color-modale-bord: var(--modalb);
+  --color-cote: var(--side);
+  --color-cote-bord: var(--sideb);
+  /* 3. Arrondis (Spécifications) */
+  --radius-tuile: 36px;
+  --radius-modale: 34px;
+  --radius-bloc: 32px;
+  --radius-carte: 30px;
+  --radius-bandeau: 26px;
+  --radius-copies: 22px;
+  --radius-ligne: 18px;
+  --radius-nav: 14px;
+  /* 5. Courbes d'animation */
+  --ease-mm: cubic-bezier(0.2, 0.9, 0.25, 1);
+  --ease-sortie: cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+/* ---------------------------------------------------------------------------
+   Base
+   --------------------------------------------------------------------------- */
+@layer base {
+  /* Interligne « normal » de la police, comme dans la maquette (Tailwind impose 1,5 par défaut) */
+  html, body { margin: 0; height: 100%; background: var(--bg); line-height: normal; }
+  body { color: var(--ink); font-family: var(--font-sans); -webkit-font-smoothing: antialiased; }
+  a { color: inherit; text-decoration: none; }
+  button { font: inherit; color: inherit; }
+  input::placeholder { color: var(--ink3); }
+  mark { background: var(--mark); color: inherit; border-radius: 4px; padding: 0 2px; }
+  :focus-visible { outline: 2px solid var(--acc); outline-offset: 2px; }
+}
+
+/* ---------------------------------------------------------------------------
+   4. Effet de verre et fonds (composants réutilisables)
+   Pas de flou d'arrière-plan : la version finale l'a retiré (voir Spécifications, section 4).
+   --------------------------------------------------------------------------- */
+@layer components {
+  /* Tuile en verre : L'essentiel, listes, fiches */
+  .tuile { background: var(--tile); border: 1px solid var(--tileb); box-shadow: var(--tiles); border-radius: 36px; }
+  /* Fond calme : bandeau d'indicateurs, cartes, blocs Marchés */
+  .calme { background: var(--calm); border: 1px solid var(--calmb); }
+  /* Fenêtre modale et panneau de recherche */
+  .fenetre { background: var(--modal); border: 1px solid var(--modalb); box-shadow: 0 60px 120px -30px rgba(0, 0, 0, 0.55); }
+
+  /* Calque de survol : seule son opacité varie (180 ms) */
+  .survol { position: relative; isolation: isolate; }
+  .survol::before {
+    content: ""; position: absolute; inset: 0; border-radius: inherit; background: var(--hov);
+    opacity: 0; transition: opacity 0.18s ease; pointer-events: none; z-index: -1;
+  }
+  .survol:hover::before { opacity: 1; }
+  .survol:hover .souligne { text-decoration: underline; text-underline-offset: 4px; text-decoration-thickness: 1px; }
+
+  /* Élément de navigation latérale */
+  .lien-nav { transition: color 0.2s ease; }
+  .lien-nav:hover { color: var(--ink) !important; }
+  .repere-nav { transition: transform 0.38s var(--ease-mm), opacity 0.2s ease; }
+
+  /* Carte « Approfondir » : légère montée et ombre au survol */
+  .carte { position: relative; isolation: isolate; transition: transform 0.22s var(--ease-mm); }
+  .carte::after {
+    content: ""; position: absolute; inset: 0; border-radius: inherit; box-shadow: var(--cardsh);
+    opacity: 0; transition: opacity 0.22s ease; pointer-events: none; z-index: -1;
+  }
+  .carte:hover { transform: translateY(-2px) scale(1.015); }
+  .carte:hover::after { opacity: 1; }
+  .carte:hover .fleche { transform: translateX(4px); }
+  .fleche { display: inline-block; transition: transform 0.2s var(--ease-mm); }
+
+  /* Pression d'un bouton */
+  .presse { transition: transform 0.15s ease; }
+  .presse:active { transform: scale(0.97); }
+
+  /* Fond en dégradé, animé très lentement */
+  .fond-anime {
+    position: absolute; inset: -12%; background: var(--glow); pointer-events: none; will-change: transform;
+    animation: derive 50s ease-in-out infinite alternate;
+  }
+
+  /* Arrivée sur l'accueil */
+  .apparition { animation: apparition 0.42s var(--ease-mm) both; }
+
+  .defilement { scrollbar-width: thin; }
+}
+
+@keyframes derive { from { transform: translate3d(0, 0, 0) scale(1); } to { transform: translate3d(-3%, 2%, 0) scale(1.06); } }
+@keyframes apparition { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: none; } }
+@keyframes fondu { from { opacity: 0; } to { opacity: 1; } }
+
+/* Bascule clair / sombre : fondu enchaîné de toute la page */
+::view-transition-old(root), ::view-transition-new(root) { animation-duration: 0.36s; animation-timing-function: var(--ease-mm); }
+
+/* « Réduire les animations » : tout devient un simple fondu de 250 ms, sans déplacement */
+@media (prefers-reduced-motion: reduce) {
+  .apparition { animation: fondu 0.25s ease both; }
+  .carte:hover { transform: none; }
+  .fond-anime { animation: none; }
+  .repere-nav { transition: opacity 0.2s ease; }
+  .presse:active { transform: none; }
+  ::view-transition-old(root), ::view-transition-new(root) { animation-duration: 0.25s; }
+}
+
+/* Téléphone et petites fenêtres (règles reprises du prototype ; barre de navigation en bas) */
+@media (max-width: 900px) {
+  .coque { flex-direction: column; }
+  .barre-laterale {
+    order: 2; width: auto !important; flex-direction: row !important; align-items: center; overflow-x: auto;
+    padding: 8px 12px !important; gap: 8px !important; border-right: 0 !important; border-top: 1px solid var(--sep);
+  }
+  .barre-laterale .marque, .repere-nav { display: none; }
+  .barre-laterale nav, .barre-laterale .pied-barre { flex-direction: row !important; margin-top: 0 !important; }
+  .zone-principale { padding: 24px 16px 48px !important; }
+  .grille-accueil { display: flex !important; flex-direction: column; gap: 24px; }
+  .grille-accueil > * { width: auto !important; }
+  .bandeau { grid-template-columns: 1fr !important; row-gap: 16px; }
+  .bandeau-colonnes { grid-template-columns: repeat(2, minmax(0, 1fr)) !important; row-gap: 16px; }
+  .cartes3 { grid-template-columns: 1fr !important; }
+  .en-tete { flex-direction: column; align-items: flex-start !important; height: auto !important; }
+  .en-tete > div { flex-shrink: 1 !important; max-width: 100%; }
+  #pastilles { flex-wrap: wrap; }
+  .fenetre-info { left: 12px !important; right: 12px !important; width: auto !important; margin-left: 0 !important; }
+  .fenetre-info { padding: 22px 22px 26px !important; }
+  .fenetre-info h2 { font-size: 24px !important; }
+  .essentiel { padding: 28px 24px !important; }
+  .essentiel li { font-size: 19px !important; }
+}

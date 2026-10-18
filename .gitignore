@@ -19,3 +19,6 @@ tmp/
 Thumbs.db
 desktop.ini
 .DS_Store
+
+# Outils de développement téléchargés localement
+outils/sha256sums.txt

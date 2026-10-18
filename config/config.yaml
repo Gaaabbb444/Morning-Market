@@ -6,22 +6,37 @@ projet:
   langue: "fr"
 
 # Les 7 catégories, alignées sur les cours.
-# « id » est le code court utilisé dans les fichiers JSON ; « libelle » est le texte affiché.
+# « id » est le code court utilisé dans les fichiers JSON ; « libelle » est le texte affiché en entier,
+# « libelle_pastille » dans les filtres et les lignes du Top 5, « libelle_onglet » dans les onglets de Catégories.
 categories:
   - id: croissance
     libelle: "Croissance, innovation et transition écologique"
+    libelle_pastille: "Croissance"
+    libelle_onglet: "Croissance"
   - id: mondialisation
     libelle: "Mondialisation et commerce international"
+    libelle_pastille: "Mondialisation"
+    libelle_onglet: "Mondialisation"
   - id: finance
     libelle: "Finance, marchés et banques centrales"
+    libelle_pastille: "Finance"
+    libelle_onglet: "Finance"
   - id: desequilibres
     libelle: "Déséquilibres : emploi, inflation, inégalités, dette et déficits"
+    libelle_pastille: "Déséquilibres"
+    libelle_onglet: "Déséquilibres"
   - id: ue
     libelle: "Union européenne"
+    libelle_pastille: "UE"
+    libelle_onglet: "Union européenne"
   - id: entreprises
     libelle: "Entreprises et secteurs"
+    libelle_pastille: "Entreprises"
+    libelle_onglet: "Entreprises"
   - id: epargne
     libelle: "Épargne et patrimoine"
+    libelle_pastille: "Épargne"
+    libelle_onglet: "Épargne et patrimoine"
 
 # ---------------------------------------------------------------------------
 # Collecte des articles
@@ -60,10 +75,18 @@ sources:
 # Indicateurs chiffrés (identifiants vérifiés le 17/10/2026)
 # fournisseur : bce, eurostat ou marche (Yahoo Finance via yfinance, puis accès direct en secours)
 # variation : « pourcent » (évolution en %) ou « points » (écart de points de %)
+# Affichage sur le site : nom, note (sous-titre), groupe (bloc de la vue Marchés), unite_affichee après la valeur ;
+# nom_court et ordre_bandeau pour les 5 indicateurs du bandeau de l'accueil.
 # ---------------------------------------------------------------------------
 indicateurs:
   - id: cac40
     libelle: "CAC 40"
+    nom: "CAC 40"
+    note: "Bourse de Paris"
+    groupe: "Marchés"
+    unite_affichee: ""
+    nom_court: "CAC 40"
+    ordre_bandeau: 1
     unite: "pts"
     decimales: 0
     frequence: quotidienne
@@ -74,6 +97,10 @@ indicateurs:
     source_url: "https://fr.finance.yahoo.com/quote/%5EFCHI/"
   - id: eurostoxx50
     libelle: "Euro Stoxx 50"
+    nom: "Euro Stoxx 50"
+    note: "Grandes valeurs de la zone euro"
+    groupe: "Marchés"
+    unite_affichee: ""
     unite: "pts"
     decimales: 0
     frequence: quotidienne
@@ -84,6 +111,10 @@ indicateurs:
     source_url: "https://fr.finance.yahoo.com/quote/%5ESTOXX50E/"
   - id: sp500
     libelle: "S&P 500"
+    nom: "S&P 500"
+    note: "Bourse de New York"
+    groupe: "Marchés"
+    unite_affichee: ""
     unite: "pts"
     decimales: 0
     frequence: quotidienne
@@ -94,6 +125,12 @@ indicateurs:
     source_url: "https://fr.finance.yahoo.com/quote/%5EGSPC/"
   - id: brent
     libelle: "Pétrole Brent"
+    nom: "Pétrole Brent"
+    note: "En dollars par baril"
+    groupe: "Marchés"
+    unite_affichee: "$"
+    nom_court: "Brent"
+    ordre_bandeau: 3
     unite: "$/baril"
     decimales: 2
     frequence: quotidienne
@@ -104,6 +141,10 @@ indicateurs:
     source_url: "https://fr.finance.yahoo.com/quote/BZ%3DF/"
   - id: or
     libelle: "Or"
+    nom: "Or"
+    note: "En dollars par once"
+    groupe: "Marchés"
+    unite_affichee: "$"
     unite: "$/once"
     decimales: 0
     frequence: quotidienne
@@ -114,6 +155,12 @@ indicateurs:
     source_url: "https://fr.finance.yahoo.com/quote/GC%3DF/"
   - id: eur-usd
     libelle: "EUR/USD"
+    nom: "EUR/USD"
+    note: "Dollars pour un euro"
+    groupe: "Change"
+    unite_affichee: "$"
+    nom_court: "EUR/USD"
+    ordre_bandeau: 2
     unite: "$"
     decimales: 4
     frequence: quotidienne
@@ -124,6 +171,12 @@ indicateurs:
     source_url: "https://data.ecb.europa.eu/data/datasets/EXR/EXR.D.USD.EUR.SP00.A"
   - id: taux-depot-bce
     libelle: "Taux de dépôt de la BCE"
+    nom: "Taux de dépôt de la BCE"
+    note: "Taux directeur"
+    groupe: "Taux"
+    unite_affichee: "%"
+    nom_court: "Taux BCE"
+    ordre_bandeau: 4
     unite: "%"
     decimales: 2
     frequence: quotidienne
@@ -134,6 +187,10 @@ indicateurs:
     source_url: "https://data.ecb.europa.eu/data/datasets/FM/FM.D.U2.EUR.4F.KR.DFR.LEV"
   - id: taux-10-ans-france
     libelle: "Taux à 10 ans de la France"
+    nom: "Taux à 10 ans de la France"
+    note: "Moyenne mensuelle (OAT)"
+    groupe: "Taux"
+    unite_affichee: "%"
     unite: "%"
     decimales: 2
     frequence: mensuelle
@@ -146,6 +203,10 @@ indicateurs:
   # série de la BCE (ICP…ANR) s'arrête en décembre 2025. On utilise donc Eurostat.
   - id: inflation-zone-euro
     libelle: "Inflation zone euro (IPCH, sur un an)"
+    nom: "Inflation zone euro"
+    note: "IPCH, glissement sur un an"
+    groupe: "Économie"
+    unite_affichee: "%"
     unite: "%"
     decimales: 1
     frequence: mensuelle
@@ -157,6 +218,12 @@ indicateurs:
     source_url: "https://ec.europa.eu/eurostat/databrowser/view/prc_hicp_minr/default/table"
   - id: inflation-france
     libelle: "Inflation France (IPCH, sur un an)"
+    nom: "Inflation France"
+    note: "IPCH, glissement sur un an"
+    groupe: "Économie"
+    unite_affichee: "%"
+    nom_court: "Inflation FR"
+    ordre_bandeau: 5
     unite: "%"
     decimales: 1
     frequence: mensuelle
@@ -168,6 +235,10 @@ indicateurs:
     source_url: "https://ec.europa.eu/eurostat/databrowser/view/prc_hicp_minr/default/table"
   - id: chomage-france
     libelle: "Chômage France (BIT)"
+    nom: "Chômage France"
+    note: "Taux au sens du BIT"
+    groupe: "Économie"
+    unite_affichee: "%"
     unite: "%"
     decimales: 1
     frequence: mensuelle
@@ -179,6 +250,10 @@ indicateurs:
     source_url: "https://ec.europa.eu/eurostat/databrowser/view/une_rt_m/default/table"
   - id: pib-france
     libelle: "Croissance du PIB France (trimestre)"
+    nom: "Croissance du PIB France"
+    note: "Variation sur un trimestre"
+    groupe: "Économie"
+    unite_affichee: "%"
     unite: "%"
     decimales: 1
     frequence: trimestrielle
