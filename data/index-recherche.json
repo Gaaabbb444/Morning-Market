@@ -1,6 +1,6 @@
 {
   "version_schema": 1,
-  "mis_a_jour_le": "2026-10-18T00:09:02+02:00",
+  "mis_a_jour_le": "2026-10-18T10:47:14+02:00",
   "entrees": [
     {
       "d": "2026-10-18",
@@ -85,6 +85,15 @@
     },
     {
       "d": "2026-10-18",
+      "i": "11308ac14c50",
+      "t": "\"Nous on se pose la question de freiner...\": l'IA génère déjà un tiers de la croissance américaine, presque rien en France: pourquoi les milliards investis dans les data centers ne rapportent pas encore",
+      "r": "Malgré de nombreux data centers, les investissements dans l'intelligence artificielle en France pèsent encore peu sur la croissance comparée aux États-Unis.",
+      "c": "croissance",
+      "s": "BFM Business",
+      "f": "intelligence-artificielle"
+    },
+    {
+      "d": "2026-10-18",
       "i": "84f5ce95fb8a",
       "t": "Pourquoi la Grande-Bretagne devrait rejeter l'attrait d'une IA chinoise bon marché et inquiétante",
       "r": "Un article met en garde contre les risques sécuritaires liés à l'utilisation par les pays occidentaux d'intelligences artificielles développées en Chine.",
@@ -117,6 +126,15 @@
       "r": "Confrontée à des barrières commerciales croissantes, la Chine fait des concessions sur les véhicules hybrides pour préserver ses débouchés en Europe.",
       "c": "mondialisation",
       "s": "L'Opinion",
+      "f": "automobile-europe-chine"
+    },
+    {
+      "d": "2026-10-18",
+      "i": "f94cfe6471fd",
+      "t": "Comment l’industrie allemande a changé de position face à la Chine",
+      "r": "Confrontée à la perte d'emplois et aux limites du libre-échange, l'industrie allemande a favorisé les accords européens face à la concurrence chinoise.",
+      "c": "mondialisation",
+      "s": "Le Monde",
       "f": "automobile-europe-chine"
     },
     {
@@ -193,6 +211,15 @@
     },
     {
       "d": "2026-10-18",
+      "i": "75f21c305c1e",
+      "t": "Sous-indexation des retraites : qui perdrait le plus en 2027 ?",
+      "r": "La sous-indexation des retraites en 2027 vise à réaliser des économies tout en posant la question de la répartition de l'effort.",
+      "c": "desequilibres",
+      "s": "Capital",
+      "f": "retraites"
+    },
+    {
+      "d": "2026-10-18",
       "i": "e443e64cb868",
       "t": "Des lobbyistes d'entreprises américaines ont mené une offensive pour affaiblir la législation européenne historique contre la déforestation, selon un rapport",
       "r": "Une enquête révèle un effort de lobbying de deux ans mené par des intérêts américains pour reporter et affaiblir la réglementation européenne sur la déforestation.",
@@ -243,6 +270,15 @@
       "r": "Face à la concurrence, Netflix annonce un plan de départs et un remaniement majeur de sa direction des contenus pour rassurer ses investisseurs.",
       "c": "entreprises",
       "s": "Le Figaro",
+      "f": null
+    },
+    {
+      "d": "2026-10-18",
+      "i": "6ab1290f30bd",
+      "t": "Devant l'ampleur des dégâts dans la capitale, la fédération des associations de commerçants parisiens déplore \"une situation dramatique\" et demande un soutien financier au gouvernement",
+      "r": "La fédération des associations de commerçants parisiens déplore des dégâts importants et demande un soutien financier au gouvernement après les manifestations.",
+      "c": "entreprises",
+      "s": "franceinfo",
       "f": null
     },
     {

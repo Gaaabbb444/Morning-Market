@@ -1,6 +1,6 @@
 {
   "version_schema": 1,
-  "mis_a_jour_le": "2026-10-18T00:04:16+02:00",
+  "mis_a_jour_le": "2026-10-18T10:47:24+02:00",
   "fils": [
     {
       "id": "budget-2027",
@@ -32,7 +32,7 @@
         },
         {
           "date": "2026-10-18",
-          "resume": "En commission, les députés ont rejeté le projet de budget de la Sécurité sociale tout en adoptant une mesure ciblant l'optimisation fiscale des plus hauts patrimoines.",
+          "resume": "La première présidente de la Cour des comptes, Amélie de Montchalin, alerte sur le risque d'un étouffement financier de la France.",
           "liens": [
             {
               "titre": "Budget de la Sécu 2027 : en commission, les députés font exploser le déficit à plus de 21 milliards d’euros",
@@ -43,6 +43,11 @@
               "titre": "Budget 2027 : une mesure limitant l'optimisation fiscale des plus fortunés votée par les députés",
               "source": "L'Opinion",
               "url": "https://www.lopinion.fr/economie/budget-2027-une-mesure-limitant-loptimisation-fiscale-des-plus-fortunes-votee-par-les-deputes"
+            },
+            {
+              "titre": "Amélie de Montchalin, première présidente de la Cour des comptes : « Nous menons la bataille de la vérité »",
+              "source": "La Tribune",
+              "url": "https://www.latribune.fr/article/la-tribune-dimanche/dimanche-eco/129388125080514/amelie-de-montchalin-premiere-presidente-de-la-cour-des-comptes-nous-menons-la-bataille-de-la-verite"
             }
           ]
         }
@@ -189,7 +194,7 @@
         "mondialisation",
         "croissance"
       ],
-      "ou_en_est_on": "L'Europe et ses partenaires réorganisent leur riposte face à la concurrence automobile chinoise. Après l'accord franco-allemand assouplissant l'interdiction des moteurs thermiques pour 2035 et fixant un seuil de composants locaux pour les subventions, Berlin a salué une avancée pour sa compétitivité. Le Royaume-Uni n'exclut pas d'appliquer des droits de douane sur les véhicules électriques chinois dans le cadre de ce dispositif européen. Face à la multiplication des barrières commerciales, Pékin tente d'ouvrir des concessions sur les modèles hybrides pour préserver son accès au marché continental.",
+      "ou_en_est_on": "L'Europe réorganise sa stratégie face à la concurrence automobile chinoise. Après l'accord franco-allemand sur les règles environnementales et les composants locaux, l'industrie d'outre-Rhin soutient ces mesures de protection face aux pertes d'emplois et aux limites du libre-échange. Parallèlement, le Royaume-Uni envisage des barrières douanières, tandis que la Chine tente des concessions sur les hybrides pour maintenir son accès au marché.",
       "ou_en_est_on_maj_le": "2026-10-18",
       "evenements": [
         {
@@ -210,7 +215,7 @@
         },
         {
           "date": "2026-10-18",
-          "resume": "Alors que l'Allemagne salue l'accord conclu avec la France, Londres n'exclut pas de taxer les véhicules électriques chinois et Pékin consent des ouvertures sur les hybrides.",
+          "resume": "Confrontée à des pertes massives d'emplois, l'industrie allemande a révisé sa position sur le libre-échange et soutenu les récents accords franco-allemands face à la concurrence chinoise.",
           "liens": [
             {
               "titre": "Accord avec la France sur l’automobile européenne : l’Allemagne se satisfait de cette «bonne nouvelle» pour sa compétitivité et sa prospérité",
@@ -226,6 +231,11 @@
               "titre": "Face à la multiplication des barrières commerciales, la Chine ne peut pas se permettre de perdre l'Europe",
               "source": "L'Opinion",
               "url": "https://www.lopinion.fr/economie/face-a-la-multiplication-des-barrieres-commerciales-la-chine-ne-peut-pas-se-permettre-de-perdre-leurope"
+            },
+            {
+              "titre": "Comment l’industrie allemande a changé de position face à la Chine",
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/idees/article/2026/10/18/comment-l-industrie-allemande-a-change-de-position-face-a-la-chine_6797048_3232.html"
             }
           ]
         }
@@ -301,7 +311,7 @@
         "desequilibres",
         "entreprises"
       ],
-      "ou_en_est_on": "Le climat social traverse une phase de vive contestation alimentée par les pertes de pouvoir d'achat et la cherté de la vie. La journée d'action du 17 octobre a mobilisé 550 000 personnes selon le ministère de l'Intérieur, 800 000 selon les organisateurs. Les cortèges ont rassemblé des profils variés, incluant lycéens, enseignants et Gilets jaunes. La mobilisation a cependant été marquée par d'importantes violences urbaines, des pillages de commerces et l'attaque de plusieurs mairies, conduisant à environ 400 interpellations.",
+      "ou_en_est_on": "Le climat social et économique reste sous tension après la journée d'action contre la vie chère du 17 octobre, qui a réuni entre 550 000 et 800 000 personnes. Au lendemain des dégradations et des pillages constatés, les organisations du commerce, de l'hôtellerie et de la restauration demandent une aide financière à l'État pour réparer les dégâts. Les revendications des manifestants continuent de porter sur la cherté des carburants, l'inflation et les services publics.",
       "ou_en_est_on_maj_le": "2026-10-18",
       "evenements": [
         {
@@ -357,7 +367,7 @@
         },
         {
           "date": "2026-10-18",
-          "resume": "La journée de mobilisation du 17 octobre contre la vie chère a réuni entre 550 000 et 800 000 manifestants et a donné lieu à 400 interpellations ainsi qu'à des dégradations de bâtiments publics.",
+          "resume": "Au lendemain des manifestations du 17 octobre, les représentants des commerçants, des hôteliers et de la grande distribution dénoncent les dégradations et sollicitent un soutien financier face aux violences.",
           "liens": [
             {
               "titre": "Mouvement du 17 octobre : le cortège s'est élancé à Paris, où des tensions sont à noter, ainsi qu'à Lyon et Marseille",
@@ -399,8 +409,8 @@
         "entreprises",
         "ue"
       ],
-      "ou_en_est_on": "L'encadrement de l'intelligence artificielle se durcit tant sur le plan géopolitique que réglementaire. La Chine prépare des restrictions sur l'exportation de ses modèles les plus performants, marquant un tournant vers une protection accrue de sa technologie souveraine. Aux États-Unis, en l'absence de législation fédérale globale, les acteurs privés comme Anthropic soumettent leurs propres propositions de régulation judiciaire pour prévenir les risques majeurs.",
-      "ou_en_est_on_maj_le": "2026-10-17",
+      "ou_en_est_on": "Le secteur de l'intelligence artificielle est marqué par des écarts importants de retombées économiques entre les puissances mondiales. Alors que l'IA génère un tiers de la croissance aux États-Unis, les investissements réalisés en France, notamment dans ses 350 centres de données, tardent à produire des effets macroéconomiques tangibles. En parallèle, les débats internationaux se poursuivent sur l'encadrement des modèles à haut risque et les restrictions aux exportations.",
+      "ou_en_est_on_maj_le": "2026-10-18",
       "evenements": [
         {
           "date": "2026-10-17",
@@ -425,7 +435,7 @@
         },
         {
           "date": "2026-10-18",
-          "resume": "Pékin entend restreindre les exportations de ses modèles avancés, tandis qu'Anthropic propose un texte réglementaire autorisant un juge à bloquer des IA présentant un risque imminent.",
+          "resume": "Alors que l'intelligence artificielle soutient un tiers de la croissance américaine, les investissements dans les 350 centres de données en France peinent encore à produire des effets économiques comparables.",
           "liens": [
             {
               "titre": "Why Britain should reject the lure of cheap – and scary – Chinese AI",
@@ -441,6 +451,11 @@
               "titre": "La Chine veut contrôler la sortie de ses IA à l’étranger",
               "source": "Le Monde",
               "url": "https://www.lemonde.fr/economie/article/2026/10/17/la-chine-veut-controler-la-sortie-de-ses-ia-a-l-etranger_6796167_3234.html"
+            },
+            {
+              "titre": "\"Nous on se pose la question de freiner...\": l'IA génère déjà un tiers de la croissance américaine, presque rien en France: pourquoi les milliards investis dans les data centers ne rapportent pas encore",
+              "source": "BFM Business",
+              "url": "https://www.bfmtv.com/economie/economie-social/france/nous-on-se-pose-la-question-de-freiner-l-ia-genere-deja-un-tiers-de-la-croissance-americaine-presque-rien-en-france-pourquoi-les-milliards-investis-dans-les-data-centers-ne-rapportent-pas-encore_AV-202610180122.html"
             }
           ]
         }
@@ -456,8 +471,8 @@
         "desequilibres",
         "epargne"
       ],
-      "ou_en_est_on": "Le régime des retraites continue de susciter des controverses techniques et financières. La piste d'un forfait remplaçant la majoration de pension de 10 % pour les parents de trois enfants vise à soutenir les plus petites pensions, mais réduirait les montants versés au-delà de 1 100 euros de pension de base. Cette mesure s'inscrit dans un climat de fortes réticences parlementaires à demander des efforts financiers supplémentaires aux retraités.",
-      "ou_en_est_on_maj_le": "2026-10-17",
+      "ou_en_est_on": "Le régime des retraites fait l'objet de plusieurs pistes d'économies budgétaires pour 2027. Outre la réforme de la majoration de pension pour les familles de trois enfants, l'hypothèse d'une sous-indexation des pensions est évoquée, ce qui réduirait les montants perçus par de nombreux retraités. Ces projets alimentent le débat sur l'équité des efforts demandés selon le montant des pensions versées.",
+      "ou_en_est_on_maj_le": "2026-10-18",
       "evenements": [
         {
           "date": "2026-10-17",
@@ -472,12 +487,17 @@
         },
         {
           "date": "2026-10-18",
-          "resume": "Le projet d'instaurer un montant forfaitaire pour la majoration accordée aux parents de trois enfants entraînerait des baisses de pension dès 1 100 euros de pension de base.",
+          "resume": "Les discussions sur les économies envisagées pour 2027 mettent en avant la piste d'une sous-indexation des retraites, soulevant la question de la répartition des pertes financières selon le niveau des pensions.",
           "liens": [
             {
               "titre": "Pension majorée de 10% pour trois enfants, le forfait de 2027 ferait des perdants dès 1 100 euros",
               "source": "Capital",
               "url": "https://www.capital.fr/votre-retraite/pension-majoree-de-10-pour-trois-enfants-le-forfait-de-2027-ferait-des-perdants-des-1-100-euros-1531025"
+            },
+            {
+              "titre": "Sous-indexation des retraites : qui perdrait le plus en 2027 ?",
+              "source": "Capital",
+              "url": "https://www.capital.fr/votre-retraite/sous-indexation-des-retraites-qui-perdrait-le-plus-en-2027-1531020"
             }
           ]
         }
