@@ -35,6 +35,17 @@ def lire_environnement() -> dict:
     return environnement
 
 
+def doit_reconstruire(type_execution: str, edition_existante: dict | None, refaire: bool) -> bool:
+    """Un passage planifié refait l'édition du jour si elle n'a été créée que par des lancements manuels
+    (par exemple juste après minuit) : ce sont les passages planifiés qui fixent le vrai Top 5 de la journée.
+    Le passage de fin de matinée prend le relais si celui du matin n'a pas pu écrire (trop peu de nouveautés)."""
+    if refaire:
+        return True
+    if edition_existante is None or type_execution not in ("matin", "fin-de-matinee"):
+        return False
+    return not any(p["type"] in ("matin", "fin-de-matinee") for p in edition_existante.get("passages", []))
+
+
 def executer(type_execution: str, refaire: bool = False) -> int:
     debut = horodatage()
     config = charger_config()
@@ -78,11 +89,7 @@ def executer(type_execution: str, refaire: bool = False) -> int:
     if collecte_valide:
         fichier_jour = DOSSIER_DATA / "jours" / f"{aujourd_hui}.json"
         edition_existante = stockage.lire_json(fichier_jour)
-        # Le passage du matin refait l'édition si elle n'a été créée que par un lancement manuel
-        # (par exemple juste après minuit) : c'est lui qui fixe le vrai Top 5 de la journée.
-        passages_planifies = [p for p in (edition_existante or {}).get("passages", [])
-                              if p["type"] in ("matin", "fin-de-matinee")]
-        reconstruire = refaire or (type_execution == "matin" and edition_existante is not None and not passages_planifies)
+        reconstruire = doit_reconstruire(type_execution, edition_existante, refaire)
         if reconstruire:
             journal.info("Reconstruction complète de l'édition du jour")
             edition_existante = None

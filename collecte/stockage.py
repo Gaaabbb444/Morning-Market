@@ -76,7 +76,9 @@ def valider_statut(donnees) -> str | None:
 
 
 def valider_edition(donnees) -> str | None:
-    """Une édition doit contenir au moins 5 articles publiables et un « essentiel » bien formé (ou absent)."""
+    """Une édition doit contenir au moins 3 articles publiables et un « essentiel » bien formé (ou absent).
+
+    (La panne de collecte, elle, est détectée en amont par le minimum de 30 articles collectés.)"""
     if not isinstance(donnees, dict) or not donnees.get("date"):
         return "structure inattendue"
     top5 = donnees.get("top5")
@@ -86,7 +88,7 @@ def valider_edition(donnees) -> str | None:
         if not all(element.get(champ) for champ in ("id", "titre", "url", "source")):
             return f"article incomplet : {element.get('id')}"
     total = len(top5) + sum(len(liste) for liste in donnees.get("par_categorie", {}).values())
-    if total < 5:
+    if total < 3:
         return f"seulement {total} articles publiables"
     essentiel = donnees.get("essentiel")
     if essentiel is not None and not (isinstance(essentiel, list) and len(essentiel) == 3):

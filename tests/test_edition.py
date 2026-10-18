@@ -64,3 +64,15 @@ def test_articles_de_l_edition_precedente_jamais_republies():
 
     publies = {t["id"] for t in jour["top5"]} | {e["id"] for l in jour["par_categorie"].values() for e in l}
     assert publies and publies <= {g["id"] for g in nouveaux}
+
+
+def test_passages_planifies_reconstruisent_une_edition_seulement_manuelle():
+    from collecte.principal import doit_reconstruire
+    manuelle = {"passages": [{"type": "manuel"}]}
+    deja_planifiee = {"passages": [{"type": "manuel"}, {"type": "matin"}]}
+    assert doit_reconstruire("matin", manuelle, False)
+    assert doit_reconstruire("fin-de-matinee", manuelle, False)  # relais si le matin n'a pas pu écrire
+    assert not doit_reconstruire("fin-de-matinee", deja_planifiee, False)
+    assert not doit_reconstruire("manuel", manuelle, False)
+    assert not doit_reconstruire("matin", None, False)
+    assert doit_reconstruire("manuel", deja_planifiee, True)
