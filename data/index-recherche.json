@@ -1,6 +1,6 @@
 {
   "version_schema": 1,
-  "mis_a_jour_le": "2026-10-19T06:33:51+02:00",
+  "mis_a_jour_le": "2026-10-19T10:58:08+02:00",
   "entrees": [
     {
       "d": "2026-10-19",
@@ -85,6 +85,15 @@
     },
     {
       "d": "2026-10-19",
+      "i": "f47e1f50dd89",
+      "t": "Des exportations robustes soutiennent la croissance économique de la Chine ; de violentes manifestations en France pèsent sur l'euro, les actions et les obligations",
+      "r": "La Chine est en bonne voie pour atteindre son objectif de croissance, tandis que les troubles en France font chuter les obligations et actions françaises.",
+      "c": "croissance",
+      "s": "The Guardian",
+      "f": "dette-marches"
+    },
+    {
+      "d": "2026-10-19",
       "i": "8294376ada50",
       "t": "La croissance chinoise s'accélère alors que le boom des exportations liées à l'IA compense la faiblesse de la demande intérieure",
       "r": "Les exportations chinoises ont permis de compenser la faiblesse de la consommation intérieure malgré des tensions commerciales persistantes.",
@@ -118,6 +127,15 @@
       "c": "mondialisation",
       "s": "BBC",
       "f": "ukraine-sanctions"
+    },
+    {
+      "d": "2026-10-19",
+      "i": "9aac1b11ab51",
+      "t": "Le Qatar, pris au piège du détroit d’Ormuz, cherche une sortie de crise",
+      "r": "La guerre au Moyen-Orient perturbe le modèle économique du Qatar, fondé sur le gaz naturel liquéfié, en raison de sa dépendance au détroit d'Ormuz.",
+      "c": "mondialisation",
+      "s": "Le Monde",
+      "f": "choc-petrolier-ormuz"
     },
     {
       "d": "2026-10-19",
@@ -157,6 +175,15 @@
     },
     {
       "d": "2026-10-19",
+      "i": "f1f7e21e7c96",
+      "t": "Les violences du 17 octobre en France sont-elles de nature à inquiéter les marchés financiers ?",
+      "r": "Les violences sociales en France s'ajoutent aux tensions existantes sur le remboursement de la dette publique et interrogent les marchés financiers.",
+      "c": "finance",
+      "s": "franceinfo",
+      "f": "dette-marches"
+    },
+    {
+      "d": "2026-10-19",
       "i": "d286a0bddfb5",
       "t": "Pour Jean-Marc Daniel, la dette publique pénalisera en premier les pauvres",
       "r": "L'économiste Jean-Marc Daniel analyse comment un État surendetté pénalise les plus modestes à travers l'impôt pour verser des intérêts aux riches.",
@@ -193,12 +220,30 @@
     },
     {
       "d": "2026-10-19",
+      "i": "b1b9ecc5e24b",
+      "t": "« La crise politique et l’image d’une France quasi insurrectionnelle risquent de contaminer les tensions budgétaires »",
+      "r": "Les dégradations et pillages lors des manifestations risquent d'aggraver les tensions budgétaires et la crise politique en France.",
+      "c": "desequilibres",
+      "s": "Le Monde",
+      "f": "budget-2027"
+    },
+    {
+      "d": "2026-10-19",
       "i": "dc1e59e43022",
       "t": "« La France ne peut pas demander à bénéficier de la puissance collective de l’Europe quand ça l’arrange, sans en assumer les contraintes »",
       "r": "Certains partis politiques appellent à l'aide de l'UE et de la BCE pour redresser les finances publiques tout en contestant leurs exigences.",
       "c": "ue",
       "s": "Le Monde",
       "f": "budget-2027"
+    },
+    {
+      "d": "2026-10-19",
+      "i": "8de88a8c4f07",
+      "t": "L'agenda européen : quels sont les principaux événements prévus du 19 au 25 octobre 2026 ?",
+      "r": "L'agenda européen se focalise sur la simplification environnementale, les matières premières, la lutte contre le sans-abrisme et les finances publiques.",
+      "c": "ue",
+      "s": "Toute l'Europe",
+      "f": "budget-ue"
     },
     {
       "d": "2026-10-19",
@@ -235,6 +280,15 @@
       "c": "entreprises",
       "s": "The Guardian",
       "f": null
+    },
+    {
+      "d": "2026-10-19",
+      "i": "3cd84eaa57d6",
+      "t": "Stellantis suspend temporairement la production automobile dans quatre usines françaises, notamment en raison d'une pénurie de batteries",
+      "r": "Stellantis suspend temporairement la production dans quatre usines françaises, plaçant des milliers de salariés au chômage partiel ou technique en raison d'une pénurie de batteries.",
+      "c": "entreprises",
+      "s": "franceinfo",
+      "f": "conjoncture-france"
     },
     {
       "d": "2026-10-19",

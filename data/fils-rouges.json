@@ -1,6 +1,6 @@
 {
   "version_schema": 1,
-  "mis_a_jour_le": "2026-10-19T06:34:07+02:00",
+  "mis_a_jour_le": "2026-10-19T10:58:18+02:00",
   "fils": [
     {
       "id": "budget-2027",
@@ -11,7 +11,7 @@
       "categories": [
         "desequilibres"
       ],
-      "ou_en_est_on": "L'examen des projets budgétaires pour 2027 aborde la séance plénière après de vives contestations en commission des affaires sociales. Les députés y ont détricoté plusieurs pistes d'économies voulues par le Premier ministre Sébastien Lecornu sur les dépenses sociales et de santé, comme le transfert du remboursement des cures thermales estimé à 200 millions d'euros. En parallèle, les débats fiscaux se poursuivent, incluant des projets de réduction des avantages liés à la location meublée.",
+      "ou_en_est_on": "L'examen des projets budgétaires pour 2027 aborde la séance plénière après de vives contestations en commission des affaires sociales, où plusieurs pistes d'économies sur les dépenses de santé et de protection sociale ont été rejetées. Les violences et pillages survenus lors des manifestations du 17 octobre viennent aggraver la crise politique et risquent de compliquer davantage la tenue des objectifs budgétaires. En parallèle, les débats fiscaux se poursuivent, incluant des projets de réduction des avantages liés à la location meublée.",
       "ou_en_est_on_maj_le": "2026-10-19",
       "evenements": [
         {
@@ -43,7 +43,7 @@
         },
         {
           "date": "2026-10-19",
-          "resume": "Avant l'examen en séance publique, les députés ont largement modifié en commission les mesures d'économies sociales du gouvernement, qui prévoyait notamment de réduire les dépenses de santé et de transférer 200 millions d'euros de remboursements de cures thermales aux complémentaires.",
+          "resume": "Les dégradations et pillages survenus lors des manifestations du 17 octobre font peser des incertitudes supplémentaires sur la crise politique et les trajectoires budgétaires françaises.",
           "liens": [
             {
               "titre": "Retraite, santé : la protection sociale, principal poste de dépenses de l’État",
@@ -84,12 +84,12 @@
         "desequilibres",
         "finance"
       ],
-      "ou_en_est_on": "La dette publique française s'établit à 3 600 milliards d'euros dans un contexte de surveillance accrue par les marchés. Face à ce passif, le stock d'épargne privée des Français, évalué à 6 600 milliards d'euros, constitue un facteur rassurant pour les créanciers. Le débat économique s'intensifie autour de la charge d'intérêts et des mécanismes de redistribution fiscale nécessaires pour faire face à ce niveau d'endettement.",
+      "ou_en_est_on": "Alors que la dette publique française s'établit à 3 600 milliards d'euros, les marchés financiers réagissent négativement aux violences sociales du 17 octobre. Les actions et les obligations françaises font l'objet de ventes, ce qui pèse également sur le cours de l'euro. Ces tensions politiques et sociales s'ajoutent aux inquiétudes préexistantes des investisseurs quant à la trajectoire de remboursement de la dette souveraine.",
       "ou_en_est_on_maj_le": "2026-10-19",
       "evenements": [
         {
           "date": "2026-10-19",
-          "resume": "Alors que la dette publique française atteint 3 600 milliards d'euros, les analystes soulignent le rôle stabilisateur des 6 600 milliards d'euros d'épargne des ménages face aux marchés, tandis que des économistes rappellent les effets redistributifs de la charge de la dette.",
+          "resume": "Les violences lors des manifestations en France pèsent sur les actions et obligations françaises, accentuant les tensions sur le coût de la dette souveraine et sur l'euro.",
           "liens": [
             {
               "titre": "Pour Jean-Marc Daniel, la dette publique pénalisera en premier les pauvres",
@@ -100,6 +100,16 @@
               "titre": "Anne de Guigné : « L’épargne des Français bientôt à la rescousse du désendettement ? »",
               "source": "Le Figaro",
               "url": "https://www.lefigaro.fr/conjoncture/anne-de-guigne-l-epargne-des-francais-bientot-a-la-rescousse-du-desendettement-20261018"
+            },
+            {
+              "titre": "Roaring exports lift China’s economic growth; violent French protests put pressure on euro, stocks and bonds – business live",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/business/live/2026/oct/19/exports-lift-china-economic-growth-french-protests-pressure-euro-bonds-latest-business-live-updates"
+            },
+            {
+              "titre": "Les violences du 17 octobre en France sont-elles de nature à inquiéter les marchés financiers ?",
+              "source": "franceinfo",
+              "url": "https://www.franceinfo.fr/replay-radio/le-brief-eco/les-violences-du-17-octobre-en-france-sont-elles-de-nature-a-inquieter-les-marches-financiers_8222707.html#xtor=RSS-3-%5Bgeneral%5D"
             }
           ]
         }
@@ -115,8 +125,8 @@
         "mondialisation",
         "desequilibres"
       ],
-      "ou_en_est_on": "Au Moyen-Orient, les menaces sur le trafic maritime dans le détroit d'Ormuz maintiennent une forte pression sur les cours mondiaux du pétrole brut. En France, les tensions sur les approvisionnements se concrétisent à la pompe : près d'une station-service sur six fait face à des pénuries de carburant, en particulier dans le réseau TotalEnergies où s'applique un plafonnement des prix. Cette crise de l'offre aggrave les difficultés économiques et alimente les revendications sur le pouvoir d'achat.",
-      "ou_en_est_on_maj_le": "2026-10-18",
+      "ou_en_est_on": "Au Moyen-Orient, les menaces pesant sur le détroit d'Ormuz continuent de déstabiliser les marchés de l'énergie et frappent directement le Qatar en affectant ses exportations de gaz naturel liquéfié. En France, les perturbations d'approvisionnement se traduisent par des pénuries de carburant touchant près d'une station sur six, notamment au sein du réseau TotalEnergies. Ces blocages logistiques mondiaux maintiennent une pression soutenue sur les cours et les approvisionnements énergétiques.",
+      "ou_en_est_on_maj_le": "2026-10-19",
       "evenements": [
         {
           "date": "2026-10-17",
@@ -142,6 +152,17 @@
               "titre": "Carburants : près de 600 stations à sec, le Grand Est particulièrement touché",
               "source": "La Tribune",
               "url": "https://www.latribune.fr/article/entreprises-finance/energie-environnement/3682903016799114/carburants-pres-de-600-stations-a-sec-le-grand-est-particulierement-touche"
+            }
+          ]
+        },
+        {
+          "date": "2026-10-19",
+          "resume": "Les tensions militaires liées au détroit d'Ormuz perturbent l'économie du Qatar, dont le modèle repose sur les exportations de gaz naturel liquéfié.",
+          "liens": [
+            {
+              "titre": "Le Qatar, pris au piège du détroit d’Ormuz, cherche une sortie de crise",
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/economie/article/2026/10/19/pris-au-piege-du-detroit-d-ormuz-le-qatar-cherche-une-sortie-de-crise_6797486_3234.html"
             }
           ]
         }
@@ -314,7 +335,7 @@
         "desequilibres",
         "entreprises"
       ],
-      "ou_en_est_on": "L'impact économique de la journée de mobilisation du 17 octobre se précise, avec environ 1 500 commerces endommagés ou pillés selon les premières évaluations. Le gouvernement a promis une aide de l'État aux artisans et commerçants, tandis que le secteur de l'hôtellerie et de la restauration s'inquiète des répercussions sur les réservations de fin d'année. Cette crise s'ajoute à une inflation annuelle mesurée à 3,1 % en septembre par l'Insee.",
+      "ou_en_est_on": "L'impact des violences du 17 octobre s'alourdit, avec au moins 2 000 commerces directement touchés, poussant la Fédération du commerce à redouter des faillites en cascade et à réclamer l'accélération des indemnisations et du chômage partiel. Commerçants, assureurs et banques se réunissent à Bercy alors que le gouvernement promet de faciliter la remise en état. Parallèlement, l'industrie subit un coup d'arrêt avec la suspension temporaire de quatre usines Stellantis, plaçant plus de 10 000 salariés et intérimaires au chômage partiel ou technique en raison d'un manque de batteries.",
       "ou_en_est_on_maj_le": "2026-10-19",
       "evenements": [
         {
@@ -401,7 +422,7 @@
         },
         {
           "date": "2026-10-19",
-          "resume": "Le Premier ministre Sébastien Lecornu et le ministre du Commerce Serge Papin ont promis des aides publiques aux commerçants touchés par les dégradations du 17 octobre, qui ont affecté 1 500 commerces et inquiètent le secteur du tourisme.",
+          "resume": "Face aux dégradations touchant au moins 2 000 commerces, le gouvernement, les banques et les assureurs se concertent à Bercy, tandis que Stellantis suspend temporairement l'activité de quatre usines en France.",
           "liens": [
             {
               "titre": "Violences du 17-octobre: \"On ne peut plus laisser [faire] les casseurs\", s'alarme Thierry Véron, président de la Fédération des commerçants et artisans parisiens",
@@ -480,7 +501,7 @@
         },
         {
           "date": "2026-10-19",
-          "resume": "Microsoft a renoncé à son projet de mégacentre de données et de supercalculateur développé avec Nscale au Royaume-Uni en raison de contraintes d'approvisionnement en électricité.",
+          "resume": "La hausse des taux d'intérêt et des coûts d'emprunt fragilise les acteurs les plus risqués de l'intelligence artificielle, illustrée par les difficultés boursières de CoreWeave.",
           "liens": [
             {
               "titre": "Électricité indisponible : Microsoft abandonne un mégaprojet d'IA au Royaume-Uni",
@@ -491,6 +512,11 @@
               "titre": "Microsoft pulls out of AI datacentre project in Essex over power supply concerns",
               "source": "The Guardian",
               "url": "https://www.theguardian.com/uk-news/2026/oct/18/microsoft-drops-huge-ai-datacentre-project-in-essex-over-power-supply-concerns"
+            },
+            {
+              "titre": "Le secteur le plus risqué du marché de l'IA est fragilisé par la hausse des taux",
+              "source": "L'Opinion",
+              "url": "https://www.lopinion.fr/economie/le-secteur-le-plus-risque-du-marche-de-lia-est-fragilise-par-la-hausse-des-taux"
             }
           ]
         }
