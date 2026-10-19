@@ -1,7 +1,277 @@
 {
   "version_schema": 1,
-  "mis_a_jour_le": "2026-10-18T13:32:31+02:00",
+  "mis_a_jour_le": "2026-10-19T06:33:51+02:00",
   "entrees": [
+    {
+      "d": "2026-10-19",
+      "i": "6825d2c17a9c",
+      "t": "Retraite, santé : la protection sociale, principal poste de dépenses de l’État",
+      "r": "Le premier ministre Sébastien Lecornu a proposé de réduire plusieurs dépenses sociales et de santé dans le projet de loi de financement de la Sécurité sociale pour 2027 déposé à l'Assemblée nationale.",
+      "c": "desequilibres",
+      "s": "Le Figaro",
+      "f": "budget-2027"
+    },
+    {
+      "d": "2026-10-19",
+      "i": "b09456b32b0d",
+      "t": "Anne de Guigné : « L’épargne des Français bientôt à la rescousse du désendettement ? »",
+      "r": "La dette publique de la France atteint 3 600 milliards d'euros, face à un encours d'épargne des ménages français évalué à 6 600 milliards d'euros.",
+      "c": "epargne",
+      "s": "Le Figaro",
+      "f": "dette-marches"
+    },
+    {
+      "d": "2026-10-19",
+      "i": "beb98fa83f9b",
+      "t": "Électricité indisponible : Microsoft abandonne un mégaprojet d'IA au Royaume-Uni",
+      "r": "Microsoft a annoncé l'abandon d'un projet de supercalculateur d'intelligence artificielle au Royaume-Uni avec la start-up Nscale en raison de difficultés d'approvisionnement électrique.",
+      "c": "croissance",
+      "s": "La Tribune",
+      "f": "intelligence-artificielle"
+    },
+    {
+      "d": "2026-10-19",
+      "i": "4acc28984b86",
+      "t": "Kristen Michal, Premier ministre estonien : « Zelensky a le soutien des Européens »",
+      "r": "Le Premier ministre estonien Kristen Michal a déclaré que les pays de l'Union européenne devront probablement recourir à un nouvel emprunt commun l'an prochain pour soutenir financièrement l'Ukraine.",
+      "c": "ue",
+      "s": "L'Opinion",
+      "f": "budget-ue"
+    },
+    {
+      "d": "2026-10-19",
+      "i": "aeaf62698138",
+      "t": "Après l'accord franco-allemand sur la voiture, le « made in Europe » avance à pas comptés",
+      "r": "Un pacte franco-allemand a été conclu sur l'avenir du secteur automobile, sans pour autant marquer une adhésion définitive de Berlin au principe de préférence européenne.",
+      "c": "ue",
+      "s": "L'Opinion",
+      "f": "automobile-europe-chine"
+    },
+    {
+      "d": "2026-10-19",
+      "i": "9a711f2315f5",
+      "t": "« Plus proche d’un chef religieux que d’un PDG » : Dario Amodei, l’idéaliste patron d’Anthropic, rattrapé par les marchés financiers",
+      "r": "Dario Amodei, cofondateur et directeur général de la start-up américaine Anthropic, concilie la recherche de la sécurité en IA et sa position de leader sur le marché.",
+      "c": "croissance",
+      "s": "Le Figaro",
+      "f": "intelligence-artificielle"
+    },
+    {
+      "d": "2026-10-19",
+      "i": "f80fe1c068c5",
+      "t": "Data centers, entreprises, chauffage : la France accélère tous azimuts son électrification",
+      "r": "La France accélère son électrification face à la crise énergétique persistante, avec un nouveau plan étatique et une réorganisation du réseau par RTE.",
+      "c": "croissance",
+      "s": "L'Opinion",
+      "f": null
+    },
+    {
+      "d": "2026-10-19",
+      "i": "02b8790878e1",
+      "t": "Microsoft se retire d'un projet de centre de données pour l'intelligence artificielle dans l'Essex en raison de préoccupations liées à l'approvisionnement en électricité",
+      "r": "Microsoft a abandonné son projet de centre de données pour l'intelligence artificielle au Royaume-Uni en raison d'inquiétudes concernant l'approvisionnement en électricité.",
+      "c": "croissance",
+      "s": "The Guardian",
+      "f": "intelligence-artificielle"
+    },
+    {
+      "d": "2026-10-19",
+      "i": "8127710ab715",
+      "t": "Mirage ou panacée ? Les promesses du stockage de carbone",
+      "r": "Le stockage de carbone est présenté comme un outil pour atteindre l'équilibre entre émissions et absorption fixé par l'accord de Paris.",
+      "c": "croissance",
+      "s": "Alternatives Économiques",
+      "f": null
+    },
+    {
+      "d": "2026-10-19",
+      "i": "8294376ada50",
+      "t": "La croissance chinoise s'accélère alors que le boom des exportations liées à l'IA compense la faiblesse de la demande intérieure",
+      "r": "Les exportations chinoises ont permis de compenser la faiblesse de la consommation intérieure malgré des tensions commerciales persistantes.",
+      "c": "mondialisation",
+      "s": "BBC",
+      "f": null
+    },
+    {
+      "d": "2026-10-19",
+      "i": "429160ea8a03",
+      "t": "Face à «un contexte de volatilité persistante de l’économie mondiale», le Vietnam signe un accord commercial avec plusieurs pays européens",
+      "r": "Quatre pays européens ont conclu un accord commercial avec le Vietnam pour favoriser les échanges dans un contexte de volatilité économique mondiale.",
+      "c": "mondialisation",
+      "s": "Le Figaro",
+      "f": null
+    },
+    {
+      "d": "2026-10-19",
+      "i": "6f9461e79f5d",
+      "t": "«On a réussi à les arrêter» : comment les producteurs européens de tomates ont résisté face à l’ogre chinois",
+      "r": "Les importations de concentré de tomates chinois en Europe occidentale s'effondrent, marquant la résistance des producteurs européens face à cette concurrence.",
+      "c": "mondialisation",
+      "s": "Le Figaro",
+      "f": null
+    },
+    {
+      "d": "2026-10-19",
+      "i": "5987fe721f68",
+      "t": "Les tarifs douaniers de l'UE visant la Chine pénalisent l'Ukraine, selon un patron de la sidérurgie",
+      "r": "L'industrie sidérurgique ukrainienne pâtit des mesures européennes destinées à limiter les importations bon marché.",
+      "c": "mondialisation",
+      "s": "BBC",
+      "f": "ukraine-sanctions"
+    },
+    {
+      "d": "2026-10-19",
+      "i": "0cebb09d6e41",
+      "t": "Bourse : dans quels placements actions investir, avec des taux plus hauts et une économie résiliente ?",
+      "r": "Les investisseurs s'interrogent sur les secteurs et placements en actions à privilégier en Bourse face à des taux d'intérêt plus hauts.",
+      "c": "finance",
+      "s": "Capital",
+      "f": null
+    },
+    {
+      "d": "2026-10-19",
+      "i": "a6346b040c1f",
+      "t": "Les dirigeants mondiaux doivent prendre conscience de la menace des cyberattaques, sous peine de voir des frigos pirates devenir le moindre de leurs soucis",
+      "r": "La coopération mondiale reste difficile malgré l'augmentation des risques de fraude numérique liés à l'intelligence artificielle et la protection financière.",
+      "c": "finance",
+      "s": "The Guardian",
+      "f": null
+    },
+    {
+      "d": "2026-10-19",
+      "i": "4eb03e617f3b",
+      "t": "La Bourse chinoise, le casse-tête des investisseurs étrangers",
+      "r": "",
+      "c": "finance",
+      "s": "Les Echos",
+      "f": null
+    },
+    {
+      "d": "2026-10-19",
+      "i": "47a0c0de8f6f",
+      "t": "Les craintes sur l'IA soulagent les marchés obligataires",
+      "r": "",
+      "c": "finance",
+      "s": "Les Echos",
+      "f": "intelligence-artificielle"
+    },
+    {
+      "d": "2026-10-19",
+      "i": "d286a0bddfb5",
+      "t": "Pour Jean-Marc Daniel, la dette publique pénalisera en premier les pauvres",
+      "r": "L'économiste Jean-Marc Daniel analyse comment un État surendetté pénalise les plus modestes à travers l'impôt pour verser des intérêts aux riches.",
+      "c": "desequilibres",
+      "s": "Le Figaro",
+      "f": "dette-marches"
+    },
+    {
+      "d": "2026-10-19",
+      "i": "dcc2c937ce58",
+      "t": "Budget de la Sécurité sociale : les pistes d’économies du gouvernement déjà détricotées par l’Assemblée nationale",
+      "r": "Les députés modifient en commission les pistes d'économies du gouvernement concernant le budget de la Sécurité sociale.",
+      "c": "desequilibres",
+      "s": "Le Figaro",
+      "f": "budget-2027"
+    },
+    {
+      "d": "2026-10-19",
+      "i": "202d0a387583",
+      "t": "Violences du 17-octobre: \"On ne peut plus laisser [faire] les casseurs\", s'alarme Thierry Véron, président de la Fédération des commerçants et artisans parisiens",
+      "r": "La journée de mobilisation contre la vie chère a entraîné des dégradations de commerces à Paris et dans le reste de la France.",
+      "c": "desequilibres",
+      "s": "BFM Business",
+      "f": "conjoncture-france"
+    },
+    {
+      "d": "2026-10-19",
+      "i": "2ffaaf75d379",
+      "t": "\"Des dizaines de milliers d'emplois\": les villes thermales vent debout contre le projet de déremboursement des cures par la Sécu",
+      "r": "Le gouvernement prévoit d'économiser 200 millions d'euros en transférant le remboursement des cures thermales aux complémentaires santé, provoquant l'opposition du secteur.",
+      "c": "desequilibres",
+      "s": "BFM Business",
+      "f": "budget-2027"
+    },
+    {
+      "d": "2026-10-19",
+      "i": "dc1e59e43022",
+      "t": "« La France ne peut pas demander à bénéficier de la puissance collective de l’Europe quand ça l’arrange, sans en assumer les contraintes »",
+      "r": "Certains partis politiques appellent à l'aide de l'UE et de la BCE pour redresser les finances publiques tout en contestant leurs exigences.",
+      "c": "ue",
+      "s": "Le Monde",
+      "f": "budget-2027"
+    },
+    {
+      "d": "2026-10-19",
+      "i": "a8bcd354ab2c",
+      "t": "Les coûts de l'électricité placent les sidérurgistes britanniques dans la pire position depuis trois ans face à leurs rivaux de l'UE",
+      "r": "La hausse des prix du gaz a aggravé l'écart de compétitivité sur les coûts de l'électricité entre les sidérurgistes britanniques et européens.",
+      "c": "entreprises",
+      "s": "The Guardian",
+      "f": null
+    },
+    {
+      "d": "2026-10-19",
+      "i": "96224e9f73c2",
+      "t": "Un dirigeable drone, conçu par une start-up française, pour surveiller les réseaux critiques",
+      "r": "La start-up française Hylight commercialise un dirigeable drone pour inspecter les réseaux critiques, comptant Enedis et la SNCF parmi ses clients.",
+      "c": "entreprises",
+      "s": "Le Figaro",
+      "f": "conjoncture-france"
+    },
+    {
+      "d": "2026-10-19",
+      "i": "97afdec0ad0b",
+      "t": "«Quelle image renvoyons-nous au monde ?» : les professionnels du tourisme craignent le contrecoup des manifestations du 17 octobre",
+      "r": "Les professionnels du tourisme craignent un impact négatif des récentes manifestations sur les réservations hôtelières et de restauration pour les fêtes.",
+      "c": "entreprises",
+      "s": "Le Figaro",
+      "f": "conjoncture-france"
+    },
+    {
+      "d": "2026-10-19",
+      "i": "009f0ebde59c",
+      "t": "Les propriétaires de petites entreprises se portent bien, mais cela aidera-t-il Trump à surmonter ses faibles taux d'approbation ?",
+      "r": "Les petites entreprises américaines affichent une bonne confiance économique globale malgré des indicateurs d'approbation présidentielle faibles.",
+      "c": "entreprises",
+      "s": "The Guardian",
+      "f": null
+    },
+    {
+      "d": "2026-10-19",
+      "i": "8354e0772175",
+      "t": "Les fonds responsables offrent-ils vraiment de mauvais rendements ?",
+      "r": "Les fonds intégrant des critères ESG ne subissent pas de sous-performance chronique, bien que la réalité de leur impact écologique reste incertaine.",
+      "c": "epargne",
+      "s": "Le Monde",
+      "f": "fiscalite-epargne-patrimoine"
+    },
+    {
+      "d": "2026-10-19",
+      "i": "3aba807b586c",
+      "t": "Placements : la remontée des taux d’intérêt rebat les cartes de l’épargne",
+      "r": "La remontée récente des taux d'intérêt modifie l'environnement des placements et crée de nouvelles opportunités pour les épargnants.",
+      "c": "epargne",
+      "s": "Le Monde",
+      "f": null
+    },
+    {
+      "d": "2026-10-19",
+      "i": "06060bf139e4",
+      "t": "Projet de loi de finances : peur sur la location meublée",
+      "r": "Le projet de loi de finances pour 2027 prévoit de réduire l'avantage fiscal de la location meublée, suscitant des réactions contrastées.",
+      "c": "epargne",
+      "s": "L'Opinion",
+      "f": "budget-2027"
+    },
+    {
+      "d": "2026-10-19",
+      "i": "27483565aba9",
+      "t": "Les vendeurs immobiliers réduisent leurs prix demandés sur 3 000 propriétés par jour",
+      "r": "Le marché immobilier enregistre un nombre record de baisses de prix affichés par les vendeurs depuis quinze ans.",
+      "c": "epargne",
+      "s": "BBC",
+      "f": null
+    },
     {
       "d": "2026-10-18",
       "i": "f94cfe6471fd",

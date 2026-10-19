@@ -1,6 +1,6 @@
 {
   "version_schema": 1,
-  "mis_a_jour_le": "2026-10-18T13:32:19+02:00",
+  "mis_a_jour_le": "2026-10-19T06:33:09+02:00",
   "indicateurs": [
     {
       "id": "cac40",
@@ -9,7 +9,7 @@
       "decimales": 0,
       "frequence": "quotidienne",
       "points_courbe": 30,
-      "source": "Euronext (via Yahoo Finance)",
+      "source": "Euronext, via Yahoo Finance",
       "source_url": "https://fr.finance.yahoo.com/quote/%5EFCHI/",
       "derniere_valeur": {
         "periode": "2026-10-16",
@@ -291,7 +291,7 @@
         ]
       ],
       "etat": "ok",
-      "dernier_succes": "2026-10-18T13:32:14+02:00"
+      "dernier_succes": "2026-10-19T06:33:06+02:00"
     },
     {
       "id": "eurostoxx50",
@@ -300,7 +300,7 @@
       "decimales": 0,
       "frequence": "quotidienne",
       "points_courbe": 30,
-      "source": "STOXX (via Yahoo Finance)",
+      "source": "STOXX, via Yahoo Finance",
       "source_url": "https://fr.finance.yahoo.com/quote/%5ESTOXX50E/",
       "derniere_valeur": {
         "periode": "2026-10-16",
@@ -582,7 +582,7 @@
         ]
       ],
       "etat": "ok",
-      "dernier_succes": "2026-10-18T13:32:14+02:00"
+      "dernier_succes": "2026-10-19T06:33:06+02:00"
     },
     {
       "id": "sp500",
@@ -591,7 +591,7 @@
       "decimales": 0,
       "frequence": "quotidienne",
       "points_courbe": 30,
-      "source": "S&P (via Yahoo Finance)",
+      "source": "S&P, via Yahoo Finance",
       "source_url": "https://fr.finance.yahoo.com/quote/%5EGSPC/",
       "derniere_valeur": {
         "periode": "2026-10-16",
@@ -865,7 +865,7 @@
         ]
       ],
       "etat": "ok",
-      "dernier_succes": "2026-10-18T13:32:14+02:00"
+      "dernier_succes": "2026-10-19T06:33:06+02:00"
     },
     {
       "id": "brent",
@@ -874,16 +874,16 @@
       "decimales": 2,
       "frequence": "quotidienne",
       "points_courbe": 30,
-      "source": "ICE (via Yahoo Finance)",
+      "source": "ICE, via Yahoo Finance",
       "source_url": "https://fr.finance.yahoo.com/quote/BZ%3DF/",
       "derniere_valeur": {
-        "periode": "2026-10-16",
-        "valeur": 109.86
+        "periode": "2026-10-19",
+        "valeur": 107.88
       },
       "variation": {
-        "valeur": 3.72,
+        "valeur": -1.8,
         "type": "pourcent",
-        "periode_reference": "2026-10-15"
+        "periode_reference": "2026-10-16"
       },
       "historique": [
         [
@@ -1145,10 +1145,14 @@
         [
           "2026-10-16",
           109.86
+        ],
+        [
+          "2026-10-19",
+          107.88
         ]
       ],
       "etat": "ok",
-      "dernier_succes": "2026-10-18T13:32:14+02:00"
+      "dernier_succes": "2026-10-19T06:33:06+02:00"
     },
     {
       "id": "or",
@@ -1157,16 +1161,16 @@
       "decimales": 0,
       "frequence": "quotidienne",
       "points_courbe": 30,
-      "source": "COMEX (via Yahoo Finance)",
+      "source": "COMEX, via Yahoo Finance",
       "source_url": "https://fr.finance.yahoo.com/quote/GC%3DF/",
       "derniere_valeur": {
-        "periode": "2026-10-16",
-        "valeur": 4181.1
+        "periode": "2026-10-19",
+        "valeur": 4197.7
       },
       "variation": {
-        "valeur": 0.26,
+        "valeur": 0.4,
         "type": "pourcent",
-        "periode_reference": "2026-10-15"
+        "periode_reference": "2026-10-16"
       },
       "historique": [
         [
@@ -1428,10 +1432,14 @@
         [
           "2026-10-16",
           4181.1
+        ],
+        [
+          "2026-10-19",
+          4197.7
         ]
       ],
       "etat": "ok",
-      "dernier_succes": "2026-10-18T13:32:15+02:00"
+      "dernier_succes": "2026-10-19T06:33:06+02:00"
     },
     {
       "id": "eur-usd",
@@ -1440,7 +1448,7 @@
       "decimales": 4,
       "frequence": "quotidienne",
       "points_courbe": 30,
-      "source": "BCE (taux de référence)",
+      "source": "BCE, taux de référence",
       "source_url": "https://data.ecb.europa.eu/data/datasets/EXR/EXR.D.USD.EUR.SP00.A",
       "derniere_valeur": {
         "periode": "2026-10-16",
@@ -1814,7 +1822,7 @@
         ]
       ],
       "etat": "ok",
-      "dernier_succes": "2026-10-18T13:32:16+02:00"
+      "dernier_succes": "2026-10-19T06:33:07+02:00"
     },
     {
       "id": "taux-depot-bce",
@@ -1826,13 +1834,13 @@
       "source": "BCE",
       "source_url": "https://data.ecb.europa.eu/data/datasets/FM/FM.D.U2.EUR.4F.KR.DFR.LEV",
       "derniere_valeur": {
-        "periode": "2026-10-18",
+        "periode": "2026-10-19",
         "valeur": 2.5
       },
       "variation": {
         "valeur": 0.0,
         "type": "points",
-        "periode_reference": "2026-10-17"
+        "periode_reference": "2026-10-18"
       },
       "historique": [
         [
@@ -2198,10 +2206,14 @@
         [
           "2026-10-18",
           2.5
+        ],
+        [
+          "2026-10-19",
+          2.5
         ]
       ],
       "etat": "ok",
-      "dernier_succes": "2026-10-18T13:32:17+02:00"
+      "dernier_succes": "2026-10-19T06:33:08+02:00"
     },
     {
       "id": "taux-10-ans-france",
@@ -2210,7 +2222,7 @@
       "decimales": 2,
       "frequence": "mensuelle",
       "points_courbe": 12,
-      "source": "BCE (moyenne mensuelle)",
+      "source": "BCE",
       "source_url": "https://data.ecb.europa.eu/data/datasets/IRS/IRS.M.FR.L.L40.CI.0000.EUR.N.Z",
       "derniere_valeur": {
         "periode": "2026-09",
@@ -2368,210 +2380,7 @@
         ]
       ],
       "etat": "ok",
-      "dernier_succes": "2026-10-18T13:32:17+02:00"
-    },
-    {
-      "id": "inflation-zone-euro",
-      "libelle": "Inflation zone euro (IPCH, sur un an)",
-      "unite": "%",
-      "decimales": 1,
-      "frequence": "mensuelle",
-      "points_courbe": 12,
-      "source": "Eurostat",
-      "source_url": "https://ec.europa.eu/eurostat/databrowser/view/prc_hicp_minr/default/table",
-      "derniere_valeur": {
-        "periode": "2026-09",
-        "valeur": 3.8
-      },
-      "variation": {
-        "valeur": 0.6,
-        "type": "points",
-        "periode_reference": "2026-08"
-      },
-      "historique": [
-        [
-          "2023-01",
-          8.6
-        ],
-        [
-          "2023-02",
-          8.5
-        ],
-        [
-          "2023-03",
-          6.9
-        ],
-        [
-          "2023-04",
-          6.9
-        ],
-        [
-          "2023-05",
-          6.1
-        ],
-        [
-          "2023-06",
-          5.5
-        ],
-        [
-          "2023-07",
-          5.3
-        ],
-        [
-          "2023-08",
-          5.2
-        ],
-        [
-          "2023-09",
-          4.3
-        ],
-        [
-          "2023-10",
-          2.9
-        ],
-        [
-          "2023-11",
-          2.4
-        ],
-        [
-          "2023-12",
-          2.9
-        ],
-        [
-          "2024-01",
-          2.8
-        ],
-        [
-          "2024-02",
-          2.6
-        ],
-        [
-          "2024-03",
-          2.4
-        ],
-        [
-          "2024-04",
-          2.4
-        ],
-        [
-          "2024-05",
-          2.6
-        ],
-        [
-          "2024-06",
-          2.5
-        ],
-        [
-          "2024-07",
-          2.6
-        ],
-        [
-          "2024-08",
-          2.2
-        ],
-        [
-          "2024-09",
-          1.7
-        ],
-        [
-          "2024-10",
-          2.0
-        ],
-        [
-          "2024-11",
-          2.2
-        ],
-        [
-          "2024-12",
-          2.4
-        ],
-        [
-          "2025-01",
-          2.5
-        ],
-        [
-          "2025-02",
-          2.3
-        ],
-        [
-          "2025-03",
-          2.2
-        ],
-        [
-          "2025-04",
-          2.2
-        ],
-        [
-          "2025-05",
-          1.9
-        ],
-        [
-          "2025-06",
-          2.0
-        ],
-        [
-          "2025-07",
-          2.0
-        ],
-        [
-          "2025-08",
-          2.0
-        ],
-        [
-          "2025-09",
-          2.2
-        ],
-        [
-          "2025-10",
-          2.1
-        ],
-        [
-          "2025-11",
-          2.1
-        ],
-        [
-          "2025-12",
-          2.0
-        ],
-        [
-          "2026-01",
-          1.7
-        ],
-        [
-          "2026-02",
-          1.9
-        ],
-        [
-          "2026-03",
-          2.6
-        ],
-        [
-          "2026-04",
-          3.0
-        ],
-        [
-          "2026-05",
-          3.2
-        ],
-        [
-          "2026-06",
-          2.8
-        ],
-        [
-          "2026-07",
-          2.9
-        ],
-        [
-          "2026-08",
-          3.2
-        ],
-        [
-          "2026-09",
-          3.8
-        ]
-      ],
-      "etat": "ok",
-      "dernier_succes": "2026-10-18T13:32:18+02:00"
+      "dernier_succes": "2026-10-19T06:33:08+02:00"
     },
     {
       "id": "inflation-france",
@@ -2774,7 +2583,210 @@
         ]
       ],
       "etat": "ok",
-      "dernier_succes": "2026-10-18T13:32:18+02:00"
+      "dernier_succes": "2026-10-19T06:33:08+02:00"
+    },
+    {
+      "id": "inflation-zone-euro",
+      "libelle": "Inflation zone euro (IPCH, sur un an)",
+      "unite": "%",
+      "decimales": 1,
+      "frequence": "mensuelle",
+      "points_courbe": 12,
+      "source": "Eurostat",
+      "source_url": "https://ec.europa.eu/eurostat/databrowser/view/prc_hicp_minr/default/table",
+      "derniere_valeur": {
+        "periode": "2026-09",
+        "valeur": 3.8
+      },
+      "variation": {
+        "valeur": 0.6,
+        "type": "points",
+        "periode_reference": "2026-08"
+      },
+      "historique": [
+        [
+          "2023-01",
+          8.6
+        ],
+        [
+          "2023-02",
+          8.5
+        ],
+        [
+          "2023-03",
+          6.9
+        ],
+        [
+          "2023-04",
+          6.9
+        ],
+        [
+          "2023-05",
+          6.1
+        ],
+        [
+          "2023-06",
+          5.5
+        ],
+        [
+          "2023-07",
+          5.3
+        ],
+        [
+          "2023-08",
+          5.2
+        ],
+        [
+          "2023-09",
+          4.3
+        ],
+        [
+          "2023-10",
+          2.9
+        ],
+        [
+          "2023-11",
+          2.4
+        ],
+        [
+          "2023-12",
+          2.9
+        ],
+        [
+          "2024-01",
+          2.8
+        ],
+        [
+          "2024-02",
+          2.6
+        ],
+        [
+          "2024-03",
+          2.4
+        ],
+        [
+          "2024-04",
+          2.4
+        ],
+        [
+          "2024-05",
+          2.6
+        ],
+        [
+          "2024-06",
+          2.5
+        ],
+        [
+          "2024-07",
+          2.6
+        ],
+        [
+          "2024-08",
+          2.2
+        ],
+        [
+          "2024-09",
+          1.7
+        ],
+        [
+          "2024-10",
+          2.0
+        ],
+        [
+          "2024-11",
+          2.2
+        ],
+        [
+          "2024-12",
+          2.4
+        ],
+        [
+          "2025-01",
+          2.5
+        ],
+        [
+          "2025-02",
+          2.3
+        ],
+        [
+          "2025-03",
+          2.2
+        ],
+        [
+          "2025-04",
+          2.2
+        ],
+        [
+          "2025-05",
+          1.9
+        ],
+        [
+          "2025-06",
+          2.0
+        ],
+        [
+          "2025-07",
+          2.0
+        ],
+        [
+          "2025-08",
+          2.0
+        ],
+        [
+          "2025-09",
+          2.2
+        ],
+        [
+          "2025-10",
+          2.1
+        ],
+        [
+          "2025-11",
+          2.1
+        ],
+        [
+          "2025-12",
+          2.0
+        ],
+        [
+          "2026-01",
+          1.7
+        ],
+        [
+          "2026-02",
+          1.9
+        ],
+        [
+          "2026-03",
+          2.6
+        ],
+        [
+          "2026-04",
+          3.0
+        ],
+        [
+          "2026-05",
+          3.2
+        ],
+        [
+          "2026-06",
+          2.8
+        ],
+        [
+          "2026-07",
+          2.9
+        ],
+        [
+          "2026-08",
+          3.2
+        ],
+        [
+          "2026-09",
+          3.8
+        ]
+      ],
+      "etat": "ok",
+      "dernier_succes": "2026-10-19T06:33:09+02:00"
     },
     {
       "id": "chomage-france",
@@ -2973,7 +2985,7 @@
         ]
       ],
       "etat": "ok",
-      "dernier_succes": "2026-10-18T13:32:19+02:00"
+      "dernier_succes": "2026-10-19T06:33:09+02:00"
     },
     {
       "id": "pib-france",
@@ -3084,7 +3096,7 @@
         ]
       ],
       "etat": "ok",
-      "dernier_succes": "2026-10-18T13:32:19+02:00"
+      "dernier_succes": "2026-10-19T06:33:09+02:00"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "version_schema": 1,
-  "mis_a_jour_le": "2026-10-18T13:33:33+02:00",
+  "mis_a_jour_le": "2026-10-19T06:34:07+02:00",
   "fils": [
     {
       "id": "budget-2027",
@@ -11,8 +11,8 @@
       "categories": [
         "desequilibres"
       ],
-      "ou_en_est_on": "L'examen du budget 2027 s'avère particulièrement conflictuel à l'Assemblée nationale. Les députés ont largement modifié le projet de budget de la Sécurité sociale en commission, ce qui porterait le déficit prévisionnel à plus de 21 milliards d'euros selon le rapporteur général. En parallèle, des mesures fiscales ciblées, notamment contre l'optimisation des plus hauts patrimoines, ont été adoptées. Les textes devront toutefois faire l'objet d'un nouveau vote lors des débats en séance publique.",
-      "ou_en_est_on_maj_le": "2026-10-17",
+      "ou_en_est_on": "L'examen des projets budgétaires pour 2027 aborde la séance plénière après de vives contestations en commission des affaires sociales. Les députés y ont détricoté plusieurs pistes d'économies voulues par le Premier ministre Sébastien Lecornu sur les dépenses sociales et de santé, comme le transfert du remboursement des cures thermales estimé à 200 millions d'euros. En parallèle, les débats fiscaux se poursuivent, incluant des projets de réduction des avantages liés à la location meublée.",
+      "ou_en_est_on_maj_le": "2026-10-19",
       "evenements": [
         {
           "date": "2026-10-17",
@@ -40,6 +40,37 @@
               "url": "https://www.latribune.fr/article/la-tribune-dimanche/dimanche-eco/129388125080514/amelie-de-montchalin-premiere-presidente-de-la-cour-des-comptes-nous-menons-la-bataille-de-la-verite"
             }
           ]
+        },
+        {
+          "date": "2026-10-19",
+          "resume": "Avant l'examen en séance publique, les députés ont largement modifié en commission les mesures d'économies sociales du gouvernement, qui prévoyait notamment de réduire les dépenses de santé et de transférer 200 millions d'euros de remboursements de cures thermales aux complémentaires.",
+          "liens": [
+            {
+              "titre": "Retraite, santé : la protection sociale, principal poste de dépenses de l’État",
+              "source": "Le Figaro",
+              "url": "https://www.lefigaro.fr/conjoncture/retraite-sante-la-protection-sociale-principal-poste-de-depenses-de-l-etat-20261018"
+            },
+            {
+              "titre": "Budget de la Sécurité sociale : les pistes d’économies du gouvernement déjà détricotées par l’Assemblée nationale",
+              "source": "Le Figaro",
+              "url": "https://www.lefigaro.fr/conjoncture/budget-de-la-securite-sociale-les-pistes-d-economies-du-gouvernement-deja-detricotees-par-l-assemblee-nationale-20261018"
+            },
+            {
+              "titre": "Projet de loi de finances : peur sur la location meublée",
+              "source": "L'Opinion",
+              "url": "https://www.lopinion.fr/economie/projet-de-loi-de-finances-peur-sur-la-location-meublee"
+            },
+            {
+              "titre": "\"Des dizaines de milliers d'emplois\": les villes thermales vent debout contre le projet de déremboursement des cures par la Sécu",
+              "source": "BFM Business",
+              "url": "https://www.bfmtv.com/economie/economie-social/finances-publiques/des-dizaines-de-milliers-d-emplois-les-villes-thermales-vent-debout-contre-le-projet-de-deremboursement-des-cures-par-la-secu_AD-202610180213.html"
+            },
+            {
+              "titre": "Budget de la Sécu : les villes thermales craignent une chute de leur fréquentation et de leur chiffre d’affaires",
+              "source": "Le Figaro",
+              "url": "https://www.lefigaro.fr/social/budget-de-la-secu-les-villes-thermales-craignent-une-chute-de-leur-frequentation-et-de-leur-chiffre-d-affaires-20261018"
+            }
+          ]
         }
       ]
     },
@@ -53,9 +84,26 @@
         "desequilibres",
         "finance"
       ],
-      "ou_en_est_on": null,
-      "ou_en_est_on_maj_le": null,
-      "evenements": []
+      "ou_en_est_on": "La dette publique française s'établit à 3 600 milliards d'euros dans un contexte de surveillance accrue par les marchés. Face à ce passif, le stock d'épargne privée des Français, évalué à 6 600 milliards d'euros, constitue un facteur rassurant pour les créanciers. Le débat économique s'intensifie autour de la charge d'intérêts et des mécanismes de redistribution fiscale nécessaires pour faire face à ce niveau d'endettement.",
+      "ou_en_est_on_maj_le": "2026-10-19",
+      "evenements": [
+        {
+          "date": "2026-10-19",
+          "resume": "Alors que la dette publique française atteint 3 600 milliards d'euros, les analystes soulignent le rôle stabilisateur des 6 600 milliards d'euros d'épargne des ménages face aux marchés, tandis que des économistes rappellent les effets redistributifs de la charge de la dette.",
+          "liens": [
+            {
+              "titre": "Pour Jean-Marc Daniel, la dette publique pénalisera en premier les pauvres",
+              "source": "Le Figaro",
+              "url": "https://www.lefigaro.fr/conjoncture/pour-jean-marc-daniel-la-dette-publique-penalisera-en-premier-les-pauvres-20261018"
+            },
+            {
+              "titre": "Anne de Guigné : « L’épargne des Français bientôt à la rescousse du désendettement ? »",
+              "source": "Le Figaro",
+              "url": "https://www.lefigaro.fr/conjoncture/anne-de-guigne-l-epargne-des-francais-bientot-a-la-rescousse-du-desendettement-20261018"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "choc-petrolier-ormuz",
@@ -209,9 +257,21 @@
       "categories": [
         "ue"
       ],
-      "ou_en_est_on": null,
-      "ou_en_est_on_maj_le": null,
-      "evenements": []
+      "ou_en_est_on": "Le financement des engagements européens fait l'objet de nouvelles discussions budgétaires. Le Premier ministre estonien Kristen Michal a souligné qu'un emprunt commun des Vingt-Sept serait probablement nécessaire pour assurer le soutien financier à l'Ukraine en 2027. Ce type de mécanisme ravive le débat au sein de l'UE sur le recours à de la dette mutualisée face aux dépenses géopolitiques et de sécurité.",
+      "ou_en_est_on_maj_le": "2026-10-19",
+      "evenements": [
+        {
+          "date": "2026-10-19",
+          "resume": "Le Premier ministre estonien Kristen Michal a estimé que les Vingt-Sept devront probablement souscrire un nouvel emprunt commun l'an prochain afin de poursuivre l'aide financière à l'Ukraine.",
+          "liens": [
+            {
+              "titre": "Kristen Michal, Premier ministre estonien : « Zelensky a le soutien des Européens »",
+              "source": "L'Opinion",
+              "url": "https://www.lopinion.fr/international/kristen-michal-premier-ministre-estonien-zelensky-a-le-soutien-des-europeens"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "fiscalite-epargne-patrimoine",
@@ -254,8 +314,8 @@
         "desequilibres",
         "entreprises"
       ],
-      "ou_en_est_on": "L'inflation s'est établie à 3,1 % sur un an en septembre selon l'Insee, portée par la hausse de l'énergie et des produits alimentaires. Ce contexte pèse sur le climat social après la journée d'action contre la vie chère du 17 octobre, qui a réuni entre 550 000 et 800 000 personnes. Au lendemain des pillages et des dégradations, les organisations professionnelles de la distribution et de la restauration chiffrent les dégâts en centaines de millions d'euros et somment l'exécutif d'accélérer les indemnisations. Une cellule de crise ministérielle doit se réunir pour répondre aux inquiétudes du secteur économique.",
-      "ou_en_est_on_maj_le": "2026-10-18",
+      "ou_en_est_on": "L'impact économique de la journée de mobilisation du 17 octobre se précise, avec environ 1 500 commerces endommagés ou pillés selon les premières évaluations. Le gouvernement a promis une aide de l'État aux artisans et commerçants, tandis que le secteur de l'hôtellerie et de la restauration s'inquiète des répercussions sur les réservations de fin d'année. Cette crise s'ajoute à une inflation annuelle mesurée à 3,1 % en septembre par l'Insee.",
+      "ou_en_est_on_maj_le": "2026-10-19",
       "evenements": [
         {
           "date": "2026-10-17",
@@ -338,6 +398,37 @@
               "url": "https://www.lefigaro.fr/conso/nos-etablissements-ne-sont-pas-des-defouloirs-hoteliers-et-restaurateurs-ne-veulent-pas-etre-les-victimes-collaterales-des-violences-20261018"
             }
           ]
+        },
+        {
+          "date": "2026-10-19",
+          "resume": "Le Premier ministre Sébastien Lecornu et le ministre du Commerce Serge Papin ont promis des aides publiques aux commerçants touchés par les dégradations du 17 octobre, qui ont affecté 1 500 commerces et inquiètent le secteur du tourisme.",
+          "liens": [
+            {
+              "titre": "Violences du 17-octobre: \"On ne peut plus laisser [faire] les casseurs\", s'alarme Thierry Véron, président de la Fédération des commerçants et artisans parisiens",
+              "source": "BFM Business",
+              "url": "https://www.bfmtv.com/economie/video-violences-du-17-octobre-on-ne-peut-plus-laisser-faire-les-casseurs-s-alarme-thierry-veron-president-de-la-federation-des-commercants-et-artisans-parisiens_VN-202610180238.html"
+            },
+            {
+              "titre": "L'ÉDITO ÉCO - Violences du 17-octobre: quel coût pour la France?",
+              "source": "BFM Business",
+              "url": "https://www.bfmtv.com/economie/video-l-edito-eco-violences-du-17-octobre-quel-cout-pour-la-france_VN-202610190072.html"
+            },
+            {
+              "titre": "«Derrière chaque boutique saccagée, il y a une personne»: la très lourde facture du 17 octobre pour ces commerçants qui «n’en peuvent plus»",
+              "source": "Le Figaro",
+              "url": "https://www.lefigaro.fr/social/derriere-chaque-boutique-saccagee-il-y-a-une-personne-la-tres-lourde-facture-du-17-octobre-pour-ces-commercants-qui-n-en-peuvent-plus-20261018"
+            },
+            {
+              "titre": "«Quelle image renvoyons-nous au monde ?» : les professionnels du tourisme craignent le contrecoup des manifestations du 17 octobre",
+              "source": "Le Figaro",
+              "url": "https://www.lefigaro.fr/conso/quelle-image-renvoyons-nous-au-monde-les-professionnels-du-tourisme-craignent-le-contrecoup-des-manifestations-du-17-octobre-20261018"
+            },
+            {
+              "titre": "« Nous sommes mobilisés pour vous aider » : le gouvernement veut rassurer les commerçants après les saccages du 17 octobre",
+              "source": "Le Figaro",
+              "url": "https://www.lefigaro.fr/conso/nous-sommes-mobilises-pour-vous-aider-le-gouvernement-veut-rassurer-les-commercants-apres-les-saccages-du-17-octobre-20261018"
+            }
+          ]
         }
       ]
     },
@@ -352,8 +443,8 @@
         "entreprises",
         "ue"
       ],
-      "ou_en_est_on": "Le secteur de l'intelligence artificielle est marqué par des écarts importants de retombées économiques entre les puissances mondiales. Alors que l'IA génère un tiers de la croissance aux États-Unis, les investissements réalisés en France, notamment dans ses 350 centres de données, tardent à produire des effets macroéconomiques tangibles. En parallèle, les débats internationaux se poursuivent sur l'encadrement des modèles à haut risque et les restrictions aux exportations.",
-      "ou_en_est_on_maj_le": "2026-10-18",
+      "ou_en_est_on": "Le développement des infrastructures d'intelligence artificielle se heurte désormais à des limites matérielles majeures en Europe. Le retrait de Microsoft d'un grand projet de centre de données au Royaume-Uni illustre les tensions sur les réseaux de distribution d'électricité nécessaires pour alimenter les supercalculateurs. Cette situation souligne l'enjeu énergétique pour les pays européens désireux d'attirer les investissements des géants technologiques mondiaux.",
+      "ou_en_est_on_maj_le": "2026-10-19",
       "evenements": [
         {
           "date": "2026-10-17",
@@ -384,6 +475,22 @@
               "titre": "World Bank says ‘small AI’ could transform developing countries",
               "source": "The Guardian",
               "url": "https://www.theguardian.com/technology/2026/oct/18/world-bank-artificial-intelligence-developing-economies"
+            }
+          ]
+        },
+        {
+          "date": "2026-10-19",
+          "resume": "Microsoft a renoncé à son projet de mégacentre de données et de supercalculateur développé avec Nscale au Royaume-Uni en raison de contraintes d'approvisionnement en électricité.",
+          "liens": [
+            {
+              "titre": "Électricité indisponible : Microsoft abandonne un mégaprojet d'IA au Royaume-Uni",
+              "source": "La Tribune",
+              "url": "https://www.latribune.fr/article/tech/intelligence-artificielle/28711691756353/electricite-indisponible-microsoft-abandonne-un-megaprojet-dia-au-royaume-uni"
+            },
+            {
+              "titre": "Microsoft pulls out of AI datacentre project in Essex over power supply concerns",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/uk-news/2026/oct/18/microsoft-drops-huge-ai-datacentre-project-in-essex-over-power-supply-concerns"
             }
           ]
         }

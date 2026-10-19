@@ -1,6 +1,58 @@
 {
   "version_schema": 1,
   "notions": {
+    "politique-budgetaire": [
+      {
+        "date": "2026-10-19",
+        "id": "6825d2c17a9c",
+        "titre": "Retraite, santé : la protection sociale, principal poste de dépenses de l’État",
+        "source": "Le Figaro",
+        "contexte": "Top 5 du jour"
+      }
+    ],
+    "soutenabilite-de-la-dette-publique": [
+      {
+        "date": "2026-10-19",
+        "id": "b09456b32b0d",
+        "titre": "Anne de Guigné : « L’épargne des Français bientôt à la rescousse du désendettement ? »",
+        "source": "Le Figaro",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-10-19",
+        "id": "6825d2c17a9c",
+        "titre": "Retraite, santé : la protection sociale, principal poste de dépenses de l’État",
+        "source": "Le Figaro",
+        "contexte": "Concept du jour"
+      }
+    ],
+    "croissance-economique": [
+      {
+        "date": "2026-10-19",
+        "id": "beb98fa83f9b",
+        "titre": "Électricité indisponible : Microsoft abandonne un mégaprojet d'IA au Royaume-Uni",
+        "source": "La Tribune",
+        "contexte": "Top 5 du jour"
+      }
+    ],
+    "emprunt-commun-europeen-nextgenerationeu": [
+      {
+        "date": "2026-10-19",
+        "id": "4acc28984b86",
+        "titre": "Kristen Michal, Premier ministre estonien : « Zelensky a le soutien des Européens »",
+        "source": "L'Opinion",
+        "contexte": "Top 5 du jour"
+      }
+    ],
+    "autonomie-strategique-europeenne": [
+      {
+        "date": "2026-10-19",
+        "id": "aeaf62698138",
+        "titre": "Après l'accord franco-allemand sur la voiture, le « made in Europe » avance à pas comptés",
+        "source": "L'Opinion",
+        "contexte": "Top 5 du jour"
+      }
+    ],
     "politique-commerciale-commune": [
       {
         "date": "2026-10-18",
