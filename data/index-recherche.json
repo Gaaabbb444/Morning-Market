@@ -1,6 +1,6 @@
 {
   "version_schema": 1,
-  "mis_a_jour_le": "2026-10-20T06:31:56+02:00",
+  "mis_a_jour_le": "2026-10-20T10:53:33+02:00",
   "entrees": [
     {
       "d": "2026-10-20",
@@ -85,6 +85,15 @@
     },
     {
       "d": "2026-10-20",
+      "i": "0a3551f2ccd2",
+      "t": "Batteries, uranium faiblement enrichi, matériaux quantiques : le plus grand centre de recherche neutronique d’Europe se fixe de nouvelles priorités",
+      "r": "L'Institut Laue-Langevin renouvelle ses équipements pour la recherche sur les matériaux, malgré une concurrence scientifique européenne accrue.",
+      "c": "croissance",
+      "s": "La Tribune",
+      "f": null
+    },
+    {
+      "d": "2026-10-20",
       "i": "3de154836013",
       "t": "Les États-Unis interdisent l'utilisation de l'IA DeepSeek par le gouvernement dans un contexte de tensions technologiques continues avec la Chine",
       "r": "Les États-Unis bannissent l'intelligence artificielle chinoise DeepSeek des services gouvernementaux sur fond de rivalité technologique.",
@@ -118,6 +127,15 @@
       "c": "mondialisation",
       "s": "La Tribune",
       "f": null
+    },
+    {
+      "d": "2026-10-20",
+      "i": "762639a1f721",
+      "t": "A quoi joue Donald Trump avec la Russie ?",
+      "r": "L'administration américaine défend ses récentes levées de sanctions contre la Russie malgré des tensions avec l'Ukraine.",
+      "c": "mondialisation",
+      "s": "L'Opinion",
+      "f": "ukraine-sanctions"
     },
     {
       "d": "2026-10-20",
@@ -157,6 +175,15 @@
     },
     {
       "d": "2026-10-20",
+      "i": "d49cc4026d53",
+      "t": "La bourse de Paris dévisse, les investisseurs s’inquiètent face aux violences et pillages en France",
+      "r": "Les violences et pillages en France pèsent sur la Bourse de Paris, entraînant le recul du CAC 40 et inquiétant les investisseurs européens.",
+      "c": "finance",
+      "s": "franceinfo",
+      "f": "dette-marches"
+    },
+    {
+      "d": "2026-10-20",
       "i": "777181384d90",
       "t": "Le fossé se creuse encore entre l'Etat et les départements",
       "r": "L'État souhaite faire participer les départements à l'effort de maîtrise des dépenses publiques, tandis que les élus contestent ce choix au regard de leurs dépenses sociales.",
@@ -193,6 +220,15 @@
     },
     {
       "d": "2026-10-20",
+      "i": "ee8572cd6c67",
+      "t": "Bonbons, biscuits, viennoiseries industrielles… Quels produits sont visés par la «taxe sucre» du budget 2027 ?",
+      "r": "Le projet de loi de financement de la Sécurité sociale pour 2027 prévoit d'étendre la taxe soda aux produits solides sucrés, suscitant l'inquiétude des industriels.",
+      "c": "desequilibres",
+      "s": "Le Figaro",
+      "f": "budget-2027"
+    },
+    {
+      "d": "2026-10-20",
       "i": "80cd5dca9163",
       "t": "Prix de l'électricité : l'Italie obtient de Bruxelles un répit provisoire",
       "r": "",
@@ -216,6 +252,24 @@
       "r": "",
       "c": "ue",
       "s": "Les Echos",
+      "f": null
+    },
+    {
+      "d": "2026-10-20",
+      "i": "b5606bcf0599",
+      "t": "Davantage de brise-glaces, créer un câble sous-marin entre l'UE et le Japon: Bruxelles dévoile sa \"stratégie pour l'Arctique\" pour faire face aux velléités américaines et russes",
+      "r": "La Commission européenne a dévoilé sa stratégie pour l'Arctique afin de renforcer sa présence face aux ambitions américaines et russes, sans financement supplémentaire.",
+      "c": "ue",
+      "s": "BFM Business",
+      "f": null
+    },
+    {
+      "d": "2026-10-20",
+      "i": "0d16617b8dbb",
+      "t": "[Infographie] Les 81 députés européens français par groupe politique au Parlement européen",
+      "r": "Présentation de la répartition des 81 députés européens français par groupe politique au Parlement européen.",
+      "c": "ue",
+      "s": "Toute l'Europe",
       "f": null
     },
     {
@@ -256,6 +310,15 @@
     },
     {
       "d": "2026-10-20",
+      "i": "d29e44871a8e",
+      "t": "Fnac Darty : l’OPA du milliardaire tchèque Daniel Kretinsky autorisée par la Commission européenne",
+      "r": "La Commission européenne a autorisé l'OPA du milliardaire tchèque Daniel Kretinsky sur Fnac Darty, lui permettant de prendre le contrôle majoritaire du groupe.",
+      "c": "entreprises",
+      "s": "Le Figaro",
+      "f": null
+    },
+    {
+      "d": "2026-10-20",
       "i": "e390e0011e1c",
       "t": "Plus de la moitié des primo-accédants britanniques paient plus pour leur prêt immobilier que pour leur loyer",
       "r": "Au Royaume-Uni, 56 % des primo-accédants paient désormais un montant mensuel de crédit immobilier supérieur à leur ancien loyer, un record depuis plus d'une décennie.",
@@ -280,6 +343,24 @@
       "c": "epargne",
       "s": "Les Echos",
       "f": "retraites"
+    },
+    {
+      "d": "2026-10-20",
+      "i": "09493d05cbed",
+      "t": "Assurance-vie : choisir les fonds en euros reste le placement incontournable pour les épargnants français",
+      "r": "Le renouveau de l'assurance-vie se confirme avec le choix persistant des fonds en euros par les épargnants français, bien qu'un ralentissement soit anticipé fin d'année.",
+      "c": "epargne",
+      "s": "Le Monde",
+      "f": "fiscalite-epargne-patrimoine"
+    },
+    {
+      "d": "2026-10-20",
+      "i": "79155775b7f8",
+      "t": "Placements : finance durable, la fin de l'ère de l'innocence pour les épargnants",
+      "r": "",
+      "c": "epargne",
+      "s": "Les Echos",
+      "f": "fiscalite-epargne-patrimoine"
     },
     {
       "d": "2026-10-19",

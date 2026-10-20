@@ -1,6 +1,6 @@
 {
   "version_schema": 1,
-  "mis_a_jour_le": "2026-10-20T06:32:14+02:00",
+  "mis_a_jour_le": "2026-10-20T10:53:53+02:00",
   "fils": [
     {
       "id": "budget-2027",
@@ -74,7 +74,7 @@
         },
         {
           "date": "2026-10-20",
-          "resume": "L'examen du budget de la Sécurité sociale débute à l'Assemblée nationale après un rejet en commission, tandis que les débats font apparaître de nouvelles dépenses et des débats sur la contribution des retraités.",
+          "resume": "Le projet de loi de financement de la Sécurité sociale pour 2027 est examiné à l'Assemblée nationale, prévoyant notamment une extension de la taxe sur les produits solides sucrés qui suscite l'opposition des industriels.",
           "liens": [
             {
               "titre": "Budget 2027 : les retraités pourraient assumer près de 60 % de l’effort financier pesant sur les ménages",
@@ -95,6 +95,11 @@
               "titre": "Le fossé se creuse encore entre l'Etat et les départements",
               "source": "L'Opinion",
               "url": "https://www.lopinion.fr/economie/le-fosse-se-creuse-encore-entre-letat-et-les-departements"
+            },
+            {
+              "titre": "Bonbons, biscuits, viennoiseries industrielles… Quels produits sont visés par la «taxe sucre» du budget 2027 ?",
+              "source": "Le Figaro",
+              "url": "https://www.lefigaro.fr/conso/bonbons-biscuits-viennoiseries-industrielles-quels-produits-seraient-vises-par-la-taxe-sucre-du-budget-2027-20261002"
             }
           ]
         }
@@ -141,7 +146,7 @@
         },
         {
           "date": "2026-10-20",
-          "resume": "L'écart de rendement entre les emprunts français et allemands s'élargit après les violences urbaines, accentuant la pression sur les marchés financiers.",
+          "resume": "Les violences et pillages en France pèsent sur la Bourse de Paris, entraînant le recul du CAC 40 et suscitant l'inquiétude des investisseurs européens sur les marchés financiers.",
           "liens": [
             {
               "titre": "France hit by debt sell-off as violent protests unnerve investors",
@@ -152,6 +157,11 @@
               "titre": "La dette française et le dilemme du prisonnier européen",
               "source": "L'Opinion",
               "url": "https://www.lopinion.fr/economie/la-dette-francaise-et-le-dilemme-du-prisonnier-europeen"
+            },
+            {
+              "titre": "La bourse de Paris dévisse, les investisseurs s’inquiètent face aux violences et pillages en France",
+              "source": "franceinfo",
+              "url": "https://www.franceinfo.fr/replay-radio/le-decryptage-eco/la-bourse-de-paris-devisse-les-investisseurs-s-inquietent-face-aux-violences-et-pillages-en-france_8224132.html#xtor=RSS-3-%5Bgeneral%5D"
             }
           ]
         }
@@ -518,7 +528,7 @@
         },
         {
           "date": "2026-10-20",
-          "resume": "Face à des milliers de commerces dégradés ou pillés, le gouvernement annonce un fonds de soutien, du chômage partiel à 100 % et des couvre-feux, tandis que les assureurs activent des mesures d'indemnisation accélérée.",
+          "resume": "Les représentants des petites et moyennes entreprises demandent une sécurité renforcée après les dégradations subies par des milliers de commerces, tandis que les assureurs se tournent vers l'État pour partager les responsabilités financières des émeutes.",
           "liens": [
             {
               "titre": "\"L’État doit vraiment prendre son mandat de la sécurité interne au sérieux\": le patron d'Axa prévient que les assureurs pourraient ne plus pouvoir indemniser les sinistrés si les violences urbaines se répètent",
