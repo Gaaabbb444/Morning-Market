@@ -1,11 +1,68 @@
 {
   "version_schema": 1,
   "notions": {
+    "spread-ecart-de-taux-souverain": [
+      {
+        "date": "2026-10-20",
+        "id": "b2284d6e2a78",
+        "titre": "France hit by debt sell-off as violent protests unnerve investors",
+        "source": "The Guardian",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-10-18",
+        "id": "7ad64ee54b92",
+        "titre": "Amélie de Montchalin, première présidente de la Cour des comptes : « Nous menons la bataille de la vérité »",
+        "source": "La Tribune",
+        "contexte": "Top 5 du jour"
+      }
+    ],
     "politique-budgetaire": [
+      {
+        "date": "2026-10-20",
+        "id": "bc5dc2cd9f4f",
+        "titre": "Les députés ont déjà fait dérailler la trajectoire de réduction du déficit de la Sécurité sociale avant même le début des débats dans l’hémicycle sur le budget de la Sécu",
+        "source": "BFM Business",
+        "contexte": "Top 5 du jour"
+      },
       {
         "date": "2026-10-19",
         "id": "6825d2c17a9c",
         "titre": "Retraite, santé : la protection sociale, principal poste de dépenses de l’État",
+        "source": "Le Figaro",
+        "contexte": "Top 5 du jour"
+      }
+    ],
+    "redistribution": [
+      {
+        "date": "2026-10-20",
+        "id": "47bb58bce44c",
+        "titre": "Budget 2027 : les retraités pourraient assumer près de 60 % de l’effort financier pesant sur les ménages",
+        "source": "La Tribune",
+        "contexte": "Top 5 du jour"
+      }
+    ],
+    "politique-industrielle": [
+      {
+        "date": "2026-10-20",
+        "id": "ced71c54d04c",
+        "titre": "Intelligence artificielle : l’Allemagne scelle un partenariat avec Nvidia visant à accélérer son déploiement dans l’industrie",
+        "source": "Le Figaro",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-10-18",
+        "id": "66580453350e",
+        "titre": "Il a tout appris chez Audi en Allemagne et puis il est devenu le \"père de la voiture électrique en Chine\": qui est Wan Gang, l'ingénieur dont une lettre à Pékin a déclenché la déferlante chinoise?",
+        "source": "BFM Business",
+        "contexte": "Top 5 du jour"
+      }
+    ],
+    "deficit-public-et-solde-primaire": [
+      {
+        "date": "2026-10-20",
+        "id": "2f73fb7a1b50",
+        "titre": "Budget 2027 : l’Assemblée nationale multiplie les cadeaux fiscaux non chiffrés",
         "source": "Le Figaro",
         "contexte": "Top 5 du jour"
       }
@@ -76,24 +133,6 @@
         "date": "2026-10-18",
         "id": "11308ac14c50",
         "titre": "\"Nous on se pose la question de freiner...\": l'IA génère déjà un tiers de la croissance américaine, presque rien en France: pourquoi les milliards investis dans les data centers ne rapportent pas encore",
-        "source": "BFM Business",
-        "contexte": "Top 5 du jour"
-      }
-    ],
-    "spread-ecart-de-taux-souverain": [
-      {
-        "date": "2026-10-18",
-        "id": "7ad64ee54b92",
-        "titre": "Amélie de Montchalin, première présidente de la Cour des comptes : « Nous menons la bataille de la vérité »",
-        "source": "La Tribune",
-        "contexte": "Top 5 du jour"
-      }
-    ],
-    "politique-industrielle": [
-      {
-        "date": "2026-10-18",
-        "id": "66580453350e",
-        "titre": "Il a tout appris chez Audi en Allemagne et puis il est devenu le \"père de la voiture électrique en Chine\": qui est Wan Gang, l'ingénieur dont une lettre à Pékin a déclenché la déferlante chinoise?",
         "source": "BFM Business",
         "contexte": "Top 5 du jour"
       }

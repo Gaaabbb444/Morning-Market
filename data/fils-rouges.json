@@ -1,6 +1,6 @@
 {
   "version_schema": 1,
-  "mis_a_jour_le": "2026-10-19T10:58:18+02:00",
+  "mis_a_jour_le": "2026-10-20T06:32:14+02:00",
   "fils": [
     {
       "id": "budget-2027",
@@ -11,8 +11,8 @@
       "categories": [
         "desequilibres"
       ],
-      "ou_en_est_on": "L'examen des projets budgétaires pour 2027 aborde la séance plénière après de vives contestations en commission des affaires sociales, où plusieurs pistes d'économies sur les dépenses de santé et de protection sociale ont été rejetées. Les violences et pillages survenus lors des manifestations du 17 octobre viennent aggraver la crise politique et risquent de compliquer davantage la tenue des objectifs budgétaires. En parallèle, les débats fiscaux se poursuivent, incluant des projets de réduction des avantages liés à la location meublée.",
-      "ou_en_est_on_maj_le": "2026-10-19",
+      "ou_en_est_on": "L'examen des projets budgétaires pour 2027 se poursuit à l'Assemblée nationale avec l'arrivée du budget de la Sécurité sociale, rejeté au préalable en commission, et la multiplication de mesures fiscales et de dépenses votées par les députés. Les discussions intègrent les prévisions de coupes budgétaires pesant sur les retraités ainsi que les requêtes des départements concernant la maîtrise des dépenses publiques. Ces tensions s'inscrivent dans un contexte d'incertitudes politiques accru par les violences récentes et les difficultés de pilotage de la trajectoire financière de l'État.",
+      "ou_en_est_on_maj_le": "2026-10-20",
       "evenements": [
         {
           "date": "2026-10-17",
@@ -71,6 +71,32 @@
               "url": "https://www.lefigaro.fr/social/budget-de-la-secu-les-villes-thermales-craignent-une-chute-de-leur-frequentation-et-de-leur-chiffre-d-affaires-20261018"
             }
           ]
+        },
+        {
+          "date": "2026-10-20",
+          "resume": "L'examen du budget de la Sécurité sociale débute à l'Assemblée nationale après un rejet en commission, tandis que les débats font apparaître de nouvelles dépenses et des débats sur la contribution des retraités.",
+          "liens": [
+            {
+              "titre": "Budget 2027 : les retraités pourraient assumer près de 60 % de l’effort financier pesant sur les ménages",
+              "source": "La Tribune",
+              "url": "https://www.latribune.fr/article/economie/5932756072637/budget-2027-les-retraites-pourraient-assumer-pres-de-60-de-l-effort-financier-pesant-sur-les-menages"
+            },
+            {
+              "titre": "Les députés ont déjà fait dérailler la trajectoire de réduction du déficit de la Sécurité sociale avant même le début des débats dans l’hémicycle sur le budget de la Sécu",
+              "source": "BFM Business",
+              "url": "https://www.bfmtv.com/economie/economie-social/finances-publiques/les-deputes-ont-deja-fait-derailler-la-trajectoire-de-reduction-du-deficit-de-la-securite-sociale-avant-meme-le-debut-des-debats-dans-l-hemicycle-sur-le-budget-de-la-secu_AN-202610200065.html"
+            },
+            {
+              "titre": "Budget 2027 : l’Assemblée nationale multiplie les cadeaux fiscaux non chiffrés",
+              "source": "Le Figaro",
+              "url": "https://www.lefigaro.fr/conjoncture/budget-2027-l-assemblee-nationale-multiplie-les-cadeaux-fiscaux-non-chiffres-20261019"
+            },
+            {
+              "titre": "Le fossé se creuse encore entre l'Etat et les départements",
+              "source": "L'Opinion",
+              "url": "https://www.lopinion.fr/economie/le-fosse-se-creuse-encore-entre-letat-et-les-departements"
+            }
+          ]
         }
       ]
     },
@@ -84,8 +110,8 @@
         "desequilibres",
         "finance"
       ],
-      "ou_en_est_on": "Alors que la dette publique française s'établit à 3 600 milliards d'euros, les marchés financiers réagissent négativement aux violences sociales du 17 octobre. Les actions et les obligations françaises font l'objet de ventes, ce qui pèse également sur le cours de l'euro. Ces tensions politiques et sociales s'ajoutent aux inquiétudes préexistantes des investisseurs quant à la trajectoire de remboursement de la dette souveraine.",
-      "ou_en_est_on_maj_le": "2026-10-19",
+      "ou_en_est_on": "Alors que la dette publique française reste sous surveillance, les marchés financiers réagissent négativement aux violences urbaines et aux dégradations récentes. L'élargissement de l'écart de rendement entre la France et l'Allemagne témoigne de la nervosité des investisseurs quant à la trajectoire budgétaire du pays, interpellant les institutions européennes et la BCE sur la stabilité financière de l'Hexagone.",
+      "ou_en_est_on_maj_le": "2026-10-20",
       "evenements": [
         {
           "date": "2026-10-19",
@@ -110,6 +136,22 @@
               "titre": "Les violences du 17 octobre en France sont-elles de nature à inquiéter les marchés financiers ?",
               "source": "franceinfo",
               "url": "https://www.franceinfo.fr/replay-radio/le-brief-eco/les-violences-du-17-octobre-en-france-sont-elles-de-nature-a-inquieter-les-marches-financiers_8222707.html#xtor=RSS-3-%5Bgeneral%5D"
+            }
+          ]
+        },
+        {
+          "date": "2026-10-20",
+          "resume": "L'écart de rendement entre les emprunts français et allemands s'élargit après les violences urbaines, accentuant la pression sur les marchés financiers.",
+          "liens": [
+            {
+              "titre": "France hit by debt sell-off as violent protests unnerve investors",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/world/2026/oct/19/france-hit-by-debt-sell-off-as-protests-unnerve-investors"
+            },
+            {
+              "titre": "La dette française et le dilemme du prisonnier européen",
+              "source": "L'Opinion",
+              "url": "https://www.lopinion.fr/economie/la-dette-francaise-et-le-dilemme-du-prisonnier-europeen"
             }
           ]
         }
@@ -221,6 +263,17 @@
               "url": "https://www.bfmtv.com/economie/entreprises/energie/apres-l-accord-avec-trump-sur-le-gazole-moscou-annonce-des-livraisons-de-carburant-sous-15-a-20-jours-mais-les-contrats-restent-a-signer_AD-202610180202.html"
             }
           ]
+        },
+        {
+          "date": "2026-10-20",
+          "resume": "Les usines slovaques de munitions tournent à plein régime pour répondre à la demande liée à la guerre en Ukraine.",
+          "liens": [
+            {
+              "titre": "La Slovaquie, nouveau pôle européen de production de munitions : « Nous nous appuyons sur l’héritage de nos ancêtres »",
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/economie/article/2026/10/20/la-slovaquie-nouveau-pole-europeen-de-production-de-munitions-nous-nous-appuyons-sur-l-heritage-de-nos-ancetres_6797866_3234.html"
+            }
+          ]
         }
       ]
     },
@@ -235,7 +288,19 @@
       ],
       "ou_en_est_on": null,
       "ou_en_est_on_maj_le": null,
-      "evenements": []
+      "evenements": [
+        {
+          "date": "2026-10-20",
+          "resume": "Le chaos provoqué par des groupuscules et le sac des grandes villes alimentent les tensions de la campagne présidentielle.",
+          "liens": [
+            {
+              "titre": "Journal d'une succession : divorce, mode d'emploi",
+              "source": "L'Opinion",
+              "url": "https://www.lopinion.fr/politique/journal-dune-succession-divorce-mode-demploi"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "automobile-europe-chine",
@@ -335,8 +400,8 @@
         "desequilibres",
         "entreprises"
       ],
-      "ou_en_est_on": "L'impact des violences du 17 octobre s'alourdit, avec au moins 2 000 commerces directement touchés, poussant la Fédération du commerce à redouter des faillites en cascade et à réclamer l'accélération des indemnisations et du chômage partiel. Commerçants, assureurs et banques se réunissent à Bercy alors que le gouvernement promet de faciliter la remise en état. Parallèlement, l'industrie subit un coup d'arrêt avec la suspension temporaire de quatre usines Stellantis, plaçant plus de 10 000 salariés et intérimaires au chômage partiel ou technique en raison d'un manque de batteries.",
-      "ou_en_est_on_maj_le": "2026-10-19",
+      "ou_en_est_on": "L'impact économique des manifestations et des violences urbaines se traduit par des dégradations touchant plus de 2 000 à 3 000 commerces à travers le pays. Pour contrer le risque de faillites en cascade et soutenir l'activité, le gouvernement a mis en place un dispositif d'urgence incluant le chômage partiel à 100 %, un fonds de soutien et des mesures de couvre-feu partiel. En parallèle, les assureurs assouplissent les conditions de déclaration et promettent des indemnisations accélérées, tandis que le secteur du tourisme et l'ensemble de la filière commerciale redoutent des répercussions durables.",
+      "ou_en_est_on_maj_le": "2026-10-20",
       "evenements": [
         {
           "date": "2026-10-17",
@@ -450,6 +515,37 @@
               "url": "https://www.lefigaro.fr/conso/nous-sommes-mobilises-pour-vous-aider-le-gouvernement-veut-rassurer-les-commercants-apres-les-saccages-du-17-octobre-20261018"
             }
           ]
+        },
+        {
+          "date": "2026-10-20",
+          "resume": "Face à des milliers de commerces dégradés ou pillés, le gouvernement annonce un fonds de soutien, du chômage partiel à 100 % et des couvre-feux, tandis que les assureurs activent des mesures d'indemnisation accélérée.",
+          "liens": [
+            {
+              "titre": "\"L’État doit vraiment prendre son mandat de la sécurité interne au sérieux\": le patron d'Axa prévient que les assureurs pourraient ne plus pouvoir indemniser les sinistrés si les violences urbaines se répètent",
+              "source": "BFM Business",
+              "url": "https://www.bfmtv.com/economie/entreprises/assurance-banque/l-etat-doit-vraiment-prendre-son-mandat-de-la-securite-interne-au-serieux-le-patron-d-axa-previent-que-les-assureurs-pourraient-ne-plus-pouvoir-indemniser-les-sinistres-si-les-violences-urbaines-se-repetent_AV-202610190858.html"
+            },
+            {
+              "titre": "Pillages du 17 octobre : Sébastien Lecornu promet des aides immédiates aux commerçants et des couvre-feux partiels",
+              "source": "Capital",
+              "url": "https://www.capital.fr/economie-politique/pillages-du-17-octobre-sebastien-lecornu-promet-des-aides-immediates-aux-commercants-et-des-couvre-feux-partiels-1531104"
+            },
+            {
+              "titre": "\"Il va falloir trouver des centaines de millions d'euros\" pour les commerces, estime le président de CCI France après les dégradations en marge de la mobilisation du 17 octobre",
+              "source": "franceinfo",
+              "url": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/il-va-falloir-trouver-des-centaines-de-millions-d-euros-pour-les-commerces-estime-le-president-de-cci-france-apres-les-degradations-en-marge-de-la-mobilisation-du-17-octobre_8243890.html#xtor=RSS-3-%5Bgeneral%5D"
+            },
+            {
+              "titre": "Violences urbaines : l'image de la France dégradée",
+              "source": "BFM Business",
+              "url": "https://www.bfmtv.com/economie/video-violences-urbaines-l-image-de-la-france-degradee_VN-202610190901.html"
+            },
+            {
+              "titre": "30 jours pour déclarer les dégâts au lieu de 5, des indemnisations accélérées... Les assureurs dévoilent des mesures exceptionnelles après les émeutes",
+              "source": "BFM Business",
+              "url": "https://www.bfmtv.com/economie/entreprises/assurance-banque/30-jours-pour-declarer-les-degats-au-lieu-de-5-des-indemnisations-accelerees-les-assureurs-devoilent-des-mesures-exceptionnelles-apres-les-emeutes_AV-202610190740.html"
+            }
+          ]
         }
       ]
     },
@@ -517,6 +613,22 @@
               "titre": "Le secteur le plus risqué du marché de l'IA est fragilisé par la hausse des taux",
               "source": "L'Opinion",
               "url": "https://www.lopinion.fr/economie/le-secteur-le-plus-risque-du-marche-de-lia-est-fragilise-par-la-hausse-des-taux"
+            }
+          ]
+        },
+        {
+          "date": "2026-10-20",
+          "resume": "L'Allemagne signe un partenariat avec Nvidia pour développer des modèles d'intelligence artificielle industrielle de pointe reposant sur ses données sectorielles.",
+          "liens": [
+            {
+              "titre": "Intelligence artificielle : l’Allemagne scelle un partenariat avec Nvidia visant à accélérer son déploiement dans l’industrie",
+              "source": "Le Figaro",
+              "url": "https://www.lefigaro.fr/secteur/high-tech/intelligence-artificielle-l-allemagne-scelle-un-partenariat-avec-nvidia-visant-a-accelerer-son-deploiement-dans-l-industrie-20261019"
+            },
+            {
+              "titre": "\"C'est décisif pour l'avenir de l'Allemagne\": le gouvernement allemand annonce un partenariat avec Nvidia pour accélérer dans l'IA industrielle",
+              "source": "BFM Business",
+              "url": "https://www.bfmtv.com/economie/international/c-est-decisif-pour-l-avenir-de-l-allemagne-le-gouvernement-allemand-annonce-un-partenariat-avec-nvidia-pour-accelerer-dans-l-ia-industrielle_AD-202610190872.html"
             }
           ]
         }

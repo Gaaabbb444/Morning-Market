@@ -1,7 +1,286 @@
 {
   "version_schema": 1,
-  "mis_a_jour_le": "2026-10-19T10:58:08+02:00",
+  "mis_a_jour_le": "2026-10-20T06:31:56+02:00",
   "entrees": [
+    {
+      "d": "2026-10-20",
+      "i": "b2284d6e2a78",
+      "t": "La France touchée par des ventes de dettes alors que de violentes manifestations innervent les investisseurs",
+      "r": "La France subit une vague de ventes sur ses marchés obligataires et boursiers après un week-end de violentes manifestations marquées par des incendies et des pillages. L'écart de taux d'emprunt entre la France et l'Allemagne s'est élargi.",
+      "c": "finance",
+      "s": "The Guardian",
+      "f": "dette-marches"
+    },
+    {
+      "d": "2026-10-20",
+      "i": "bc5dc2cd9f4f",
+      "t": "Les députés ont déjà fait dérailler la trajectoire de réduction du déficit de la Sécurité sociale avant même le début des débats dans l’hémicycle sur le budget de la Sécu",
+      "r": "Le budget de la Sécurité sociale est examiné à l'Assemblée nationale après avoir été rejeté par la commission des Affaires sociales. Le texte initial prévoyait une réduction de moitié de son déficit.",
+      "c": "desequilibres",
+      "s": "BFM Business",
+      "f": "budget-2027"
+    },
+    {
+      "d": "2026-10-20",
+      "i": "47bb58bce44c",
+      "t": "Budget 2027 : les retraités pourraient assumer près de 60 % de l’effort financier pesant sur les ménages",
+      "r": "Selon l'Institut français d'économie, les coupes budgétaires présentées par le gouvernement le 1er octobre pourraient faire peser près de 60 % de l'effort financier des ménages sur les retraités.",
+      "c": "desequilibres",
+      "s": "La Tribune",
+      "f": "budget-2027"
+    },
+    {
+      "d": "2026-10-20",
+      "i": "ced71c54d04c",
+      "t": "Intelligence artificielle : l’Allemagne scelle un partenariat avec Nvidia visant à accélérer son déploiement dans l’industrie",
+      "r": "L'Allemagne a signé une déclaration d'intention avec l'entreprise Nvidia pour développer des modèles d'intelligence artificielle industrielle fondés sur le savoir-faire allemand.",
+      "c": "croissance",
+      "s": "Le Figaro",
+      "f": "intelligence-artificielle"
+    },
+    {
+      "d": "2026-10-20",
+      "i": "2f73fb7a1b50",
+      "t": "Budget 2027 : l’Assemblée nationale multiplie les cadeaux fiscaux non chiffrés",
+      "r": "L'Assemblée nationale multiplie l'adoption de niches fiscales non chiffrées pour divers secteurs lors de l'examen du budget 2027.",
+      "c": "desequilibres",
+      "s": "Le Figaro",
+      "f": "budget-2027"
+    },
+    {
+      "d": "2026-10-20",
+      "i": "3f5df1b47e8a",
+      "t": "\"C'est décisif pour l'avenir de l'Allemagne\": le gouvernement allemand annonce un partenariat avec Nvidia pour accélérer dans l'IA industrielle",
+      "r": "Le gouvernement allemand annonce un partenariat avec Nvidia pour ancrer l'intelligence artificielle dans les applications industrielles à grande échelle.",
+      "c": "croissance",
+      "s": "BFM Business",
+      "f": "intelligence-artificielle"
+    },
+    {
+      "d": "2026-10-20",
+      "i": "db8660ecd9a7",
+      "t": "Plongée dans la gigafactory de batteries du chinois AESC à Douai et sa production exponentielle",
+      "r": "La gigafactory de batteries du groupe chinois AESC à Douai monte en puissance en vue d'atteindre son rythme de croisière en 2027.",
+      "c": "croissance",
+      "s": "La Tribune",
+      "f": null
+    },
+    {
+      "d": "2026-10-20",
+      "i": "6c9dd7c5c361",
+      "t": "La place de la France dans l'Europe et le monde",
+      "r": "À l'approche de la présidentielle, les débats économiques s'intensifient autour du pacte Dutreil, des aides aux entreprises et des dépenses publiques.",
+      "c": "croissance",
+      "s": "BFM Business",
+      "f": "conjoncture-france"
+    },
+    {
+      "d": "2026-10-20",
+      "i": "05376b00d71c",
+      "t": "L'impact des pillages sur l'économie",
+      "r": "Selon Catherine Quérard, l'impact des pillages ne sera pas seulement matériel, des secteurs comme l'hôtellerie risquant de souffrir durablement des images de violence.",
+      "c": "croissance",
+      "s": "BFM Business",
+      "f": "conjoncture-france"
+    },
+    {
+      "d": "2026-10-20",
+      "i": "3de154836013",
+      "t": "Les États-Unis interdisent l'utilisation de l'IA DeepSeek par le gouvernement dans un contexte de tensions technologiques continues avec la Chine",
+      "r": "Les États-Unis bannissent l'intelligence artificielle chinoise DeepSeek des services gouvernementaux sur fond de rivalité technologique.",
+      "c": "mondialisation",
+      "s": "BBC",
+      "f": null
+    },
+    {
+      "d": "2026-10-20",
+      "i": "b120e2bdadd9",
+      "t": "Voiture électrique : « L'Europe paie la facture et laisse la Chine encaisser les bénéfices »",
+      "r": "",
+      "c": "mondialisation",
+      "s": "Les Echos",
+      "f": "automobile-europe-chine"
+    },
+    {
+      "d": "2026-10-20",
+      "i": "d5e855d047c8",
+      "t": "Etats-Unis, un modèle pour l'Europe et la France ?",
+      "r": "Des acteurs économiques appellent à l'union de l'épargne et de l'investissement européen ainsi qu'à la création d'un fonds souverain face à la concurrence internationale.",
+      "c": "mondialisation",
+      "s": "BFM Business",
+      "f": null
+    },
+    {
+      "d": "2026-10-20",
+      "i": "03bc79ab13e4",
+      "t": "Starlink en Europe : entre guerre en Ukraine et guerre des fréquences",
+      "r": "Le président ukrainien Volodymyr Zelensky indique que la connexion à Starlink reste limitée sur le front, tandis que des tentatives de sabotage ont lieu en Europe.",
+      "c": "mondialisation",
+      "s": "La Tribune",
+      "f": null
+    },
+    {
+      "d": "2026-10-20",
+      "i": "16c8ec0730bb",
+      "t": "Les pillages font flamber la prime de risque de la France à un plus haut depuis 2012",
+      "r": "",
+      "c": "finance",
+      "s": "Les Echos",
+      "f": "dette-marches"
+    },
+    {
+      "d": "2026-10-20",
+      "i": "bb2989dbb6c5",
+      "t": "La Banque d'Angleterre examinerait la gestion par Barclays des prêts de crédit privé",
+      "r": "La Banque d'Angleterre examine la gestion par Barclays de prêts liés au secteur du crédit privé, sur fond d'inquiétudes concernant des produits dérivés.",
+      "c": "finance",
+      "s": "The Guardian",
+      "f": null
+    },
+    {
+      "d": "2026-10-20",
+      "i": "5b327dc6e51e",
+      "t": "Euro numérique : « Ce projet pharaonique coûtera au moins 18 milliards d'euros aux banques européennes",
+      "r": "",
+      "c": "finance",
+      "s": "Les Echos",
+      "f": null
+    },
+    {
+      "d": "2026-10-20",
+      "i": "8f0dff33c07c",
+      "t": "Bourse : «L'IA a faim d’énergie et soif d’eau !» Quelles opportunités d’investissement ? Quels placements ?",
+      "r": "Les investissements dans les secteurs de l'eau et de l'énergie, comme Ecolab ou Vertiv, sont présentés comme des opportunités profitant du boom de l'intelligence artificielle.",
+      "c": "finance",
+      "s": "Capital",
+      "f": "intelligence-artificielle"
+    },
+    {
+      "d": "2026-10-20",
+      "i": "777181384d90",
+      "t": "Le fossé se creuse encore entre l'Etat et les départements",
+      "r": "L'État souhaite faire participer les départements à l'effort de maîtrise des dépenses publiques, tandis que les élus contestent ce choix au regard de leurs dépenses sociales.",
+      "c": "desequilibres",
+      "s": "L'Opinion",
+      "f": "budget-2027"
+    },
+    {
+      "d": "2026-10-20",
+      "i": "4a6e35a3ba5e",
+      "t": "La dette française et le dilemme du prisonnier européen",
+      "r": "La situation de la dette française intercepte les institutions européennes et la BCE, qui ne peuvent se désintéresser de la trajectoire de l'Hexagone.",
+      "c": "desequilibres",
+      "s": "L'Opinion",
+      "f": "dette-marches"
+    },
+    {
+      "d": "2026-10-20",
+      "i": "07a263c4a74b",
+      "t": "Pillages du 17 octobre : Sébastien Lecornu promet des aides immédiates aux commerçants et des couvre-feux partiels",
+      "r": "Après les pillages, le gouvernement annonce un chômage partiel à 100 %, un fonds de soutien et des couvre-feux partiels pour aider les commerçants.",
+      "c": "desequilibres",
+      "s": "Capital",
+      "f": "conjoncture-france"
+    },
+    {
+      "d": "2026-10-20",
+      "i": "99486a900b8a",
+      "t": "\"Il va falloir trouver des centaines de millions d'euros\" pour les commerces, estime le président de CCI France après les dégradations en marge de la mobilisation du 17 octobre",
+      "r": "Le président de CCI France estime à plus de 2 000 le nombre de commerces victimes de dégradations en marge de la mobilisation contre la vie chère.",
+      "c": "desequilibres",
+      "s": "franceinfo",
+      "f": "conjoncture-france"
+    },
+    {
+      "d": "2026-10-20",
+      "i": "80cd5dca9163",
+      "t": "Prix de l'électricité : l'Italie obtient de Bruxelles un répit provisoire",
+      "r": "",
+      "c": "ue",
+      "s": "Les Echos",
+      "f": null
+    },
+    {
+      "d": "2026-10-20",
+      "i": "0ea9ea868880",
+      "t": "« Chère Europe, pourquoi es-tu en train de tuer l'EU Inc. ? » : les points de blocage du texte qui vise à créer des champions européens",
+      "r": "",
+      "c": "ue",
+      "s": "Les Echos",
+      "f": null
+    },
+    {
+      "d": "2026-10-20",
+      "i": "8fc86d5b2cb8",
+      "t": "Andorre et Saint-Marin font un pas supplémentaire vers l'Union européenne",
+      "r": "",
+      "c": "ue",
+      "s": "Les Echos",
+      "f": null
+    },
+    {
+      "d": "2026-10-20",
+      "i": "b22b7df781dd",
+      "t": "Troisième économie mondiale, triple A... Sur le papier l'Allemagne a tout pour plaire, mais dans les faits la bureaucratie, les coûts de production et la montée de l'extrême droite refroidissent les investisseurs",
+      "r": "L'Allemagne organise son premier sommet de l'attractivité à Berlin pour rassurer des investisseurs internationaux confrontés aux coûts de production et à la bureaucratie.",
+      "c": "entreprises",
+      "s": "BFM Business",
+      "f": null
+    },
+    {
+      "d": "2026-10-20",
+      "i": "0d9ed8455d9f",
+      "t": "\"L’État doit vraiment prendre son mandat de la sécurité interne au sérieux\": le patron d'Axa prévient que les assureurs pourraient ne plus pouvoir indemniser les sinistrés si les violences urbaines se répètent",
+      "r": "Le directeur général d'Axa prévient que les assureurs pourraient ne plus pouvoir indemniser les sinistrés si les violences urbaines se répètent.",
+      "c": "entreprises",
+      "s": "BFM Business",
+      "f": "conjoncture-france"
+    },
+    {
+      "d": "2026-10-20",
+      "i": "3210ae417c2b",
+      "t": "«Il n’a pas su se réinventer» : au bord de la faillite, Gifi est menacé d’être vendu à la découpe",
+      "r": "L'enseigne discount Gifi dépose le bilan et un administrateur judiciaire recherche des repreneurs pour ses magasins en France.",
+      "c": "entreprises",
+      "s": "Le Figaro",
+      "f": null
+    },
+    {
+      "d": "2026-10-20",
+      "i": "95740b925b5d",
+      "t": "Violences du 17 octobre : comment vous faire indemniser si vous avez été victime de dégâts matériels ?",
+      "r": "Au moins 3 000 commerces ont été touchés par des dégradations lors du week-end du 17 octobre, poussant les assureurs à se mobiliser pour indemniser les victimes.",
+      "c": "entreprises",
+      "s": "Le Figaro",
+      "f": null
+    },
+    {
+      "d": "2026-10-20",
+      "i": "e390e0011e1c",
+      "t": "Plus de la moitié des primo-accédants britanniques paient plus pour leur prêt immobilier que pour leur loyer",
+      "r": "Au Royaume-Uni, 56 % des primo-accédants paient désormais un montant mensuel de crédit immobilier supérieur à leur ancien loyer, un record depuis plus d'une décennie.",
+      "c": "epargne",
+      "s": "The Guardian",
+      "f": null
+    },
+    {
+      "d": "2026-10-20",
+      "i": "5bf526982aa4",
+      "t": "Préparer sa retraite : quel placement choisir à 20, 30, 40 ou 60 ans",
+      "r": "Face aux fragilités démographiques du système par répartition, des conseillers recommandent différents placements selon l'âge pour préparer sa retraite.",
+      "c": "epargne",
+      "s": "Capital",
+      "f": "retraites"
+    },
+    {
+      "d": "2026-10-20",
+      "i": "186bf9368b09",
+      "t": "Retraite : comment faire du rachat de trimestres une stratégie gagnante ?",
+      "r": "",
+      "c": "epargne",
+      "s": "Les Echos",
+      "f": "retraites"
+    },
     {
       "d": "2026-10-19",
       "i": "6825d2c17a9c",
