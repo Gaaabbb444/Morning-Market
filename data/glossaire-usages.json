@@ -3,6 +3,13 @@
   "notions": {
     "spread-ecart-de-taux-souverain": [
       {
+        "date": "2026-10-21",
+        "id": "b897800edbe2",
+        "titre": "La tension sur la dette s'accentue: à 1,53 point, l'écart entre les taux français et allemand à dix ans atteint son plus haut niveau en clôture depuis 2011",
+        "source": "BFM Business",
+        "contexte": "Top 5 du jour"
+      },
+      {
         "date": "2026-10-20",
         "id": "b2284d6e2a78",
         "titre": "France hit by debt sell-off as violent protests unnerve investors",
@@ -14,6 +21,72 @@
         "id": "7ad64ee54b92",
         "titre": "Amélie de Montchalin, première présidente de la Cour des comptes : « Nous menons la bataille de la vérité »",
         "source": "La Tribune",
+        "contexte": "Top 5 du jour"
+      }
+    ],
+    "soutenabilite-de-la-dette-publique": [
+      {
+        "date": "2026-10-21",
+        "id": "6d9f67eeb539",
+        "titre": "Budget de la Sécu 2027 : la Cour des comptes juge «fragile» l’objectif de 12,7 milliards d'euros de déficit",
+        "source": "Capital",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-10-19",
+        "id": "b09456b32b0d",
+        "titre": "Anne de Guigné : « L’épargne des Français bientôt à la rescousse du désendettement ? »",
+        "source": "Le Figaro",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-10-19",
+        "id": "6825d2c17a9c",
+        "titre": "Retraite, santé : la protection sociale, principal poste de dépenses de l’État",
+        "source": "Le Figaro",
+        "contexte": "Concept du jour"
+      }
+    ],
+    "chomage-classique-et-chomage-keynesien": [
+      {
+        "date": "2026-10-21",
+        "id": "940f03c397a4",
+        "titre": "Commerces pillés : le gouvernement sort le chéquier, les patrons réclament de l’ordre",
+        "source": "Capital",
+        "contexte": "Top 5 du jour"
+      }
+    ],
+    "desintermediation": [
+      {
+        "date": "2026-10-21",
+        "id": "26d782674265",
+        "titre": "Les 6 000 salariés de l’enseigne à petits prix GiFi s’inquiètent pour leur sort",
+        "source": "Le Monde",
+        "contexte": "Top 5 du jour"
+      }
+    ],
+    "competitivite-prix-et-hors-prix": [
+      {
+        "date": "2026-10-21",
+        "id": "156d6c0b32a1",
+        "titre": "Le 737 MAX 10 certifié, Boeing tourne enfin la page de la crise du MAX",
+        "source": "La Tribune",
+        "contexte": "Top 5 du jour"
+      }
+    ],
+    "deficit-public-et-solde-primaire": [
+      {
+        "date": "2026-10-21",
+        "id": "6d9f67eeb539",
+        "titre": "Budget de la Sécu 2027 : la Cour des comptes juge «fragile» l’objectif de 12,7 milliards d'euros de déficit",
+        "source": "Capital",
+        "contexte": "Concept du jour"
+      },
+      {
+        "date": "2026-10-20",
+        "id": "2f73fb7a1b50",
+        "titre": "Budget 2027 : l’Assemblée nationale multiplie les cadeaux fiscaux non chiffrés",
+        "source": "Le Figaro",
         "contexte": "Top 5 du jour"
       }
     ],
@@ -56,31 +129,6 @@
         "titre": "Il a tout appris chez Audi en Allemagne et puis il est devenu le \"père de la voiture électrique en Chine\": qui est Wan Gang, l'ingénieur dont une lettre à Pékin a déclenché la déferlante chinoise?",
         "source": "BFM Business",
         "contexte": "Top 5 du jour"
-      }
-    ],
-    "deficit-public-et-solde-primaire": [
-      {
-        "date": "2026-10-20",
-        "id": "2f73fb7a1b50",
-        "titre": "Budget 2027 : l’Assemblée nationale multiplie les cadeaux fiscaux non chiffrés",
-        "source": "Le Figaro",
-        "contexte": "Top 5 du jour"
-      }
-    ],
-    "soutenabilite-de-la-dette-publique": [
-      {
-        "date": "2026-10-19",
-        "id": "b09456b32b0d",
-        "titre": "Anne de Guigné : « L’épargne des Français bientôt à la rescousse du désendettement ? »",
-        "source": "Le Figaro",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-10-19",
-        "id": "6825d2c17a9c",
-        "titre": "Retraite, santé : la protection sociale, principal poste de dépenses de l’État",
-        "source": "Le Figaro",
-        "contexte": "Concept du jour"
       }
     ],
     "croissance-economique": [

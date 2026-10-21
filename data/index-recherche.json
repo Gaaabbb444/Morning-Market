@@ -1,7 +1,286 @@
 {
   "version_schema": 1,
-  "mis_a_jour_le": "2026-10-20T10:53:33+02:00",
+  "mis_a_jour_le": "2026-10-21T06:34:24+02:00",
   "entrees": [
+    {
+      "d": "2026-10-21",
+      "i": "b897800edbe2",
+      "t": "La tension sur la dette s'accentue: à 1,53 point, l'écart entre les taux français et allemand à dix ans atteint son plus haut niveau en clôture depuis 2011",
+      "r": "En clôture, la France emprunte à 4,93% à dix ans contre 3,40% pour l'Allemagne. L'écart entre les taux français et allemand atteint ainsi 1,53 point, son plus haut niveau en clôture depuis 2011.",
+      "c": "finance",
+      "s": "BFM Business",
+      "f": "dette-marches"
+    },
+    {
+      "d": "2026-10-21",
+      "i": "6d9f67eeb539",
+      "t": "Budget de la Sécu 2027 : la Cour des comptes juge «fragile» l’objectif de 12,7 milliards d'euros de déficit",
+      "r": "Dans une note remise aux députés le 20 octobre, la Cour des comptes chiffre le déficit 2026 de la Sécu à 21,8 milliards d'euros. Elle juge fragile l'objectif du gouvernement de le ramener à 12,7 milliards en 2027 et réclame 10 milliards d'économies.",
+      "c": "desequilibres",
+      "s": "Capital",
+      "f": "budget-2027"
+    },
+    {
+      "d": "2026-10-21",
+      "i": "940f03c397a4",
+      "t": "Commerces pillés : le gouvernement sort le chéquier, les patrons réclament de l’ordre",
+      "r": "Le gouvernement a annoncé des prêts à taux zéro et une prise en charge de l'activité partielle pour soutenir les commerçants victimes de pillages.",
+      "c": "desequilibres",
+      "s": "Capital",
+      "f": "conjoncture-france"
+    },
+    {
+      "d": "2026-10-21",
+      "i": "26d782674265",
+      "t": "Les 6 000 salariés de l’enseigne à petits prix GiFi s’inquiètent pour leur sort",
+      "r": "L'enseigne GiFi va solliciter son placement en redressement judiciaire, les banques ayant refusé de lui apporter de l'argent frais après un effacement de dettes en 2025. Le nouveau président a indiqué qu'aucun PSE n'est engagé à ce stade pour les 6 000 salariés.",
+      "c": "entreprises",
+      "s": "Le Monde",
+      "f": "conjoncture-france"
+    },
+    {
+      "d": "2026-10-21",
+      "i": "156d6c0b32a1",
+      "t": "Le 737 MAX 10 certifié, Boeing tourne enfin la page de la crise du MAX",
+      "r": "Boeing a obtenu le 20 octobre la certification de son 737 MAX 10 par la FAA, lui permettant de se positionner face à l'Airbus A321. Les premières livraisons sont prévues dans les prochains mois.",
+      "c": "entreprises",
+      "s": "La Tribune",
+      "f": null
+    },
+    {
+      "d": "2026-10-21",
+      "i": "922f60df726b",
+      "t": "Andy Burnham fait face à une fronde climatique après l'approbation de l'exploitation gazière en mer du Nord",
+      "r": "L'approbation du gisement gazier de Jackdaw en mer du Nord confirme l'engagement de l'industrie fossile mais suscrit des critiques sur les engagements climatiques.",
+      "c": "croissance",
+      "s": "The Guardian",
+      "f": null
+    },
+    {
+      "d": "2026-10-21",
+      "i": "97adeff2a3cc",
+      "t": "Les crédits carbone « made in France », moins verts qu'ils le prétendent",
+      "r": "Le label bas carbone français, destiné à assainir la compensation carbone, souffre d'un manque de régulation et perd en efficacité.",
+      "c": "croissance",
+      "s": "Alternatives Économiques",
+      "f": null
+    },
+    {
+      "d": "2026-10-21",
+      "i": "a2c828aa680a",
+      "t": "La récolte de maïs sera 50% moins élevée en France en 2026 que celle de l'année précédente, selon l'association des producteurs",
+      "r": "La production de maïs grain en France devrait chuter de 50% en 2026, entraînant une perte financière évaluée à 2,5 milliards d'euros par les professionnels.",
+      "c": "croissance",
+      "s": "franceinfo",
+      "f": null
+    },
+    {
+      "d": "2026-10-21",
+      "i": "e85b74b2b2ad",
+      "t": "[Carte] Quels sont les prix de l'électricité en Europe ?",
+      "r": "D'après Eurostat, le prix de l'électricité payé par les consommateurs européens est passé de 21 centimes par kWh en 2019 à 28 centimes au premier semestre 2026.",
+      "c": "croissance",
+      "s": "Toute l'Europe",
+      "f": null
+    },
+    {
+      "d": "2026-10-21",
+      "i": "ed215accf7d3",
+      "t": "Une plainte déposée contre Trump au sujet des tarifs douaniers canadiens dans le cadre d'un nouveau recours juridique",
+      "r": "Un recours en justice conteste les tarifs douaniers imposés par la Maison-Blanche sur le Canada, invoquant un excès de pouvoir préjudiciable aux entreprises américaines.",
+      "c": "mondialisation",
+      "s": "BBC",
+      "f": null
+    },
+    {
+      "d": "2026-10-21",
+      "i": "13f98e90a20c",
+      "t": "Droits de douane : une plainte déposée aux Etats-Unis contre la surtaxe des produits canadiens",
+      "r": "Le groupe Gellert Global a déposé une plainte au tribunal de commerce international de New York contre la surtaxe des produits canadiens.",
+      "c": "mondialisation",
+      "s": "Le Monde",
+      "f": null
+    },
+    {
+      "d": "2026-10-21",
+      "i": "cc56c604019e",
+      "t": "Cette entreprise achète du brie canadien fabriqué avec du lait américain: elle attaque Donald Trump en justice qui lui impose 50% de taxe grâce à une loi de 1930",
+      "r": "Une entreprise américaine attaque en justice l'administration Trump après l'imposition de taxes de 50 % sur du brie canadien issu de lait américain.",
+      "c": "mondialisation",
+      "s": "BFM Business",
+      "f": null
+    },
+    {
+      "d": "2026-10-21",
+      "i": "6f80f135475c",
+      "t": "Blocus américain, sanctions, embargo émirati… Comment survit l’économie iranienne ?",
+      "r": "Malgré les sanctions, le blocus américain et l'embargo émirati, l'économie iranienne parvient à survivre bien que les restrictions renchérissent ses stratégies de contournement.",
+      "c": "mondialisation",
+      "s": "Le Figaro",
+      "f": null
+    },
+    {
+      "d": "2026-10-21",
+      "i": "e346a700b301",
+      "t": "Le milliardaire Mukesh Ambani lance la plus grande introduction en bourse de l'histoire de l'Inde",
+      "r": "Le fournisseur Internet à bas coût Jio Platforms vise une valorisation importante lors de son introduction en bourse sur le marché indien.",
+      "c": "finance",
+      "s": "The Guardian",
+      "f": null
+    },
+    {
+      "d": "2026-10-21",
+      "i": "a1e4480be8a2",
+      "t": "A Wall Street, les craintes persistent derrière l'apaisement des tensions sur la tech",
+      "r": "",
+      "c": "finance",
+      "s": "Les Echos",
+      "f": null
+    },
+    {
+      "d": "2026-10-21",
+      "i": "7bd980912d55",
+      "t": "Hyperscalers : plus de levée de fonds depuis août",
+      "r": "Les hyperscalers n'ont réalisé aucune nouvelle levée de fonds depuis fin août, marquant une pause après une forte activité au premier semestre 2026.",
+      "c": "finance",
+      "s": "BFM Business",
+      "f": null
+    },
+    {
+      "d": "2026-10-21",
+      "i": "c1ae2f1f7fbb",
+      "t": "LVMH profitera en Bourse de «moteurs structurels de croissance à moyen terme» ! Faut-il investir sur l’action ?",
+      "r": "L'analyse financière examine les perspectives boursières de LVMH et ses moteurs structurels de croissance à moyen terme.",
+      "c": "finance",
+      "s": "Capital",
+      "f": null
+    },
+    {
+      "d": "2026-10-21",
+      "i": "bbfaf5250b46",
+      "t": "Budget 2027 : pourquoi l’examen prend déjà du retard à l’Assemblée nationale",
+      "r": "L'examen du budget 2027 à l'Assemblée nationale prend du retard, le vote sur la partie fiscalité étant reporté au 3 novembre.",
+      "c": "desequilibres",
+      "s": "Le Figaro",
+      "f": "budget-2027"
+    },
+    {
+      "d": "2026-10-21",
+      "i": "b2dc3fd52825",
+      "t": "Le texte \"impose plus de 11 milliards d'euros de surcoût du travail\": le Medef prévient que le projet de budget de la Sécu va réduire la possibilité pour les entreprises d'augmenter les salaires",
+      "r": "Le Medef avertit que le projet de budget de la Sécurité sociale impose un surcoût du travail de plus de 11 milliards d'euros pour les entreprises.",
+      "c": "desequilibres",
+      "s": "BFM Business",
+      "f": "budget-2027"
+    },
+    {
+      "d": "2026-10-21",
+      "i": "7ac338d44dae",
+      "t": "Hausse du smic ou « travailler plus pour gagner plus » : comment les candidats abordent la question épineuse du pouvoir d'achat",
+      "r": "Face au pouvoir d'achat, les candidats à la présidentielle s'opposent : la droite privilégie l'augmentation du temps de travail, la gauche la hausse des salaires par la taxation des riches.",
+      "c": "desequilibres",
+      "s": "L'Opinion",
+      "f": "presidentielle-2027"
+    },
+    {
+      "d": "2026-10-21",
+      "i": "4b2512418ac8",
+      "t": "« Forte inflation alimentaire en 2027 » : pourquoi le pire est devant nous selon la BCE",
+      "r": "Des économistes de la BCE alertent sur un risque de forte hausse des prix alimentaires en 2027 dans une zone euro marquée par des tensions sociales.",
+      "c": "desequilibres",
+      "s": "L'Opinion",
+      "f": "inflation-bce"
+    },
+    {
+      "d": "2026-10-21",
+      "i": "263ed677ab12",
+      "t": "Marché unique : Andorre et Saint-Marin scellent un accord avec l'Union européenne après plus de dix ans de discussions",
+      "r": "L'Union européenne a signé un accord d'association avec Andorre et Saint-Marin après plus de dix ans de discussions pour intégrer ces micro-États.",
+      "c": "ue",
+      "s": "Toute l'Europe",
+      "f": null
+    },
+    {
+      "d": "2026-10-21",
+      "i": "a6df7a3799e0",
+      "t": "Budget européen : que paie la France et que reçoit-elle en retour ?",
+      "r": "La France verse en moyenne environ 24 milliards d'euros par an au budget européen sur la période 2021-2025 et en reçoit environ 16 milliards.",
+      "c": "ue",
+      "s": "Toute l'Europe",
+      "f": "budget-ue"
+    },
+    {
+      "d": "2026-10-21",
+      "i": "794937849572",
+      "t": "Formulaires communs, remboursement… ce qui va changer pour les milliards de voyageurs européens",
+      "r": "Les eurodéputés ont approuvé une mise à jour des règles européennes pour améliorer la protection des passagers et l'information en cas de perturbation.",
+      "c": "ue",
+      "s": "Toute l'Europe",
+      "f": null
+    },
+    {
+      "d": "2026-10-21",
+      "i": "b052e08aee46",
+      "t": "Flotte vieillissante, coût de l'énergie, aquaculture en panne : Bruxelles veut remettre la pêche européenne à flot d'ici à 2040",
+      "r": "",
+      "c": "ue",
+      "s": "Les Echos",
+      "f": null
+    },
+    {
+      "d": "2026-10-21",
+      "i": "bf81549a3b81",
+      "t": "Elon Musk prépare la fusion de SpaceX et de Tesla, qui créerait l’une des sociétés les plus valorisées au monde",
+      "r": "Elon Musk envisage une fusion entre Tesla et SpaceX, des comités spéciaux ayant été formés pour étudier ce projet de méga-fusion.",
+      "c": "entreprises",
+      "s": "Le Monde",
+      "f": null
+    },
+    {
+      "d": "2026-10-21",
+      "i": "218fd6b21b34",
+      "t": "Les émeutes deviennent comme \"des catastrophes naturelles\": la facture pour 2 jours pourrait flamber à 1,2 milliard d'euros pour les assureurs, bien plus qu'en 2023",
+      "r": "Selon une estimation de Morningstar DBRS, les violences du week-end pourraient coûter jusqu'à 1,2 milliard d'euros aux assureurs, soit 50% de plus qu'en 2023.",
+      "c": "entreprises",
+      "s": "BFM Business",
+      "f": null
+    },
+    {
+      "d": "2026-10-21",
+      "i": "f6ee4b2f599a",
+      "t": "Une panne de Google Cloud affecte lourdement Revolut, Lloyds et HSBC",
+      "r": "Une panne des services cloud de Google au Royaume-Uni a provoqué d'importantes perturbations, touchant notamment des banques comme Revolut, Lloyds et HSBC.",
+      "c": "entreprises",
+      "s": "Les Echos",
+      "f": null
+    },
+    {
+      "d": "2026-10-21",
+      "i": "521cd8ae65c8",
+      "t": "Le propriétaire de Paddy Power supprime jusqu'à 1,400 emplois en raison de la hausse des taxes sur les paris",
+      "r": "Le groupe de jeux d'argent Flutter Entertainment supprime jusqu'à 1 400 postes suite à une hausse des taxes sur les paris imposée par le gouvernement.",
+      "c": "entreprises",
+      "s": "The Guardian",
+      "f": null
+    },
+    {
+      "d": "2026-10-21",
+      "i": "c07e10e30153",
+      "t": "Rénovation énergétique : quelles aides sont encore possibles ?",
+      "r": "Le diagnostic énergétique prend une place croissante dans le prix des biens immobiliers, posant la question des financements et aides disponibles pour les travaux.",
+      "c": "epargne",
+      "s": "Le Monde",
+      "f": null
+    },
+    {
+      "d": "2026-10-21",
+      "i": "224fba20afb2",
+      "t": "Assurance-vie luxembourgeoise attaquée : le contrat de capitalisation est-il la bonne alternative",
+      "r": "",
+      "c": "epargne",
+      "s": "Les Echos",
+      "f": null
+    },
     {
       "d": "2026-10-20",
       "i": "b2284d6e2a78",

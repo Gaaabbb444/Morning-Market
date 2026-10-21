@@ -1,6 +1,6 @@
 {
   "version_schema": 1,
-  "mis_a_jour_le": "2026-10-20T10:53:53+02:00",
+  "mis_a_jour_le": "2026-10-21T06:35:18+02:00",
   "fils": [
     {
       "id": "budget-2027",
@@ -11,8 +11,8 @@
       "categories": [
         "desequilibres"
       ],
-      "ou_en_est_on": "L'examen des projets budgétaires pour 2027 se poursuit à l'Assemblée nationale avec l'arrivée du budget de la Sécurité sociale, rejeté au préalable en commission, et la multiplication de mesures fiscales et de dépenses votées par les députés. Les discussions intègrent les prévisions de coupes budgétaires pesant sur les retraités ainsi que les requêtes des départements concernant la maîtrise des dépenses publiques. Ces tensions s'inscrivent dans un contexte d'incertitudes politiques accru par les violences récentes et les difficultés de pilotage de la trajectoire financière de l'État.",
-      "ou_en_est_on_maj_le": "2026-10-20",
+      "ou_en_est_on": "L'examen des projets budgétaires pour 2027 accumule les retards à l'Assemblée nationale, où le vote de la partie fiscale a été repoussé au 3 novembre. Sur le volet social, la Cour des comptes qualifie de « fragile » la prévision gouvernementale d'un déficit ramené à 12,7 milliards d'euros, réclamant 10 milliards d'économies face à un trou estimé à 21,8 milliards en 2026. Parallèlement, le Medef dénonce un surcoût du travail supérieur à 11 milliards d'euros et des craintes émergent sur le niveau des retraites militaires. Les discussions budgétaires restent ainsi sous haute tension parlementaire et catégorielle.",
+      "ou_en_est_on_maj_le": "2026-10-21",
       "evenements": [
         {
           "date": "2026-10-17",
@@ -102,6 +102,32 @@
               "url": "https://www.lefigaro.fr/conso/bonbons-biscuits-viennoiseries-industrielles-quels-produits-seraient-vises-par-la-taxe-sucre-du-budget-2027-20261002"
             }
           ]
+        },
+        {
+          "date": "2026-10-21",
+          "resume": "L'examen du budget prend du retard à l'Assemblée avec un vote fiscal renvoyé au 3 novembre, tandis que la Cour des comptes juge fragile la cible de 12,7 milliards d'euros de déficit pour la Sécurité sociale.",
+          "liens": [
+            {
+              "titre": "Budget de la Sécu 2027 : la Cour des comptes juge «fragile» l’objectif de 12,7 milliards d'euros de déficit",
+              "source": "Capital",
+              "url": "https://www.capital.fr/economie-politique/budget-de-la-secu-2027-la-cour-des-comptes-juge-fragile-lobjectif-de-127-milliards-de-deficit-1531138"
+            },
+            {
+              "titre": "Budget 2027 : pourquoi l’examen prend déjà du retard à l’Assemblée nationale",
+              "source": "Le Figaro",
+              "url": "https://www.lefigaro.fr/conjoncture/budget-2027-pourquoi-l-examen-prend-deja-du-retard-a-l-assemblee-nationale-20261020"
+            },
+            {
+              "titre": "Le texte \"impose plus de 11 milliards d'euros de surcoût du travail\": le Medef prévient que le projet de budget de la Sécu va réduire la possibilité pour les entreprises d'augmenter les salaires",
+              "source": "BFM Business",
+              "url": "https://www.bfmtv.com/economie/economie-social/social/le-texte-impose-plus-de-11-milliards-d-euros-de-surcout-du-travail-le-medef-previent-que-le-projet-de-budget-de-la-secu-va-reduire-la-possibilite-pour-les-entreprises-d-augmenter-les-salaires_AD-202610200831.html"
+            },
+            {
+              "titre": "«Il y a un risque de décapitation de la hiérarchie» : une mesure du budget de la Sécurité sociale fait craindre des démissions en cascade dans l’armée",
+              "source": "Le Figaro",
+              "url": "https://www.lefigaro.fr/conjoncture/il-y-a-un-risque-de-decapitation-de-la-hierarchie-une-mesure-du-budget-de-la-securite-sociale-fait-craindre-des-demissions-en-cascade-dans-l-armee-20261020"
+            }
+          ]
         }
       ]
     },
@@ -115,8 +141,8 @@
         "desequilibres",
         "finance"
       ],
-      "ou_en_est_on": "Alors que la dette publique française reste sous surveillance, les marchés financiers réagissent négativement aux violences urbaines et aux dégradations récentes. L'élargissement de l'écart de rendement entre la France et l'Allemagne témoigne de la nervosité des investisseurs quant à la trajectoire budgétaire du pays, interpellant les institutions européennes et la BCE sur la stabilité financière de l'Hexagone.",
-      "ou_en_est_on_maj_le": "2026-10-20",
+      "ou_en_est_on": "La défiance des marchés financiers envers la signature souveraine française s'est fortement accentuée. L'écart de taux à dix ans entre la France et l'Allemagne a atteint 1,53 point en clôture (4,93 % contre 3,40 %), un niveau inédit depuis la crise des dettes souveraines de 2011-2012. Le coût d'emprunt français dépasse désormais celui de certains pays d'Europe de l'Est comme la Bulgarie. Les investisseurs continuent d'intégrer le risque lié à l'instabilité politique intérieure et aux incertitudes sur la trajectoire des finances publiques.",
+      "ou_en_est_on_maj_le": "2026-10-21",
       "evenements": [
         {
           "date": "2026-10-19",
@@ -164,6 +190,22 @@
               "url": "https://www.franceinfo.fr/replay-radio/le-decryptage-eco/la-bourse-de-paris-devisse-les-investisseurs-s-inquietent-face-aux-violences-et-pillages-en-france_8224132.html#xtor=RSS-3-%5Bgeneral%5D"
             }
           ]
+        },
+        {
+          "date": "2026-10-21",
+          "resume": "L'écart de rendement à dix ans entre la France et l'Allemagne atteint 1,53 point, son plus haut niveau depuis 2011-2012, sous l'effet des tensions politiques et sociales.",
+          "liens": [
+            {
+              "titre": "La tension sur la dette s'accentue: à 1,53 point, l'écart entre les taux français et allemand à dix ans atteint son plus haut niveau en clôture depuis 2011",
+              "source": "BFM Business",
+              "url": "https://www.bfmtv.com/economie/economie-social/finances-publiques/la-tension-sur-la-dette-s-accentue-a-1-53-point-l-ecart-entre-les-taux-francais-et-allemand-a-dix-ans-atteint-son-plus-haut-niveau-en-cloture-depuis-2011_AD-202610200723.html"
+            },
+            {
+              "titre": "La Bulgarie, refinancée pour un prix moins cher que la France",
+              "source": "BFM Business",
+              "url": "https://www.bfmtv.com/economie/video-la-bulgarie-refinancee-pour-un-prix-moins-cher-que-la-france_VN-202610200780.html"
+            }
+          ]
         }
       ]
     },
@@ -177,8 +219,8 @@
         "mondialisation",
         "desequilibres"
       ],
-      "ou_en_est_on": "Au Moyen-Orient, les menaces pesant sur le détroit d'Ormuz continuent de déstabiliser les marchés de l'énergie et frappent directement le Qatar en affectant ses exportations de gaz naturel liquéfié. En France, les perturbations d'approvisionnement se traduisent par des pénuries de carburant touchant près d'une station sur six, notamment au sein du réseau TotalEnergies. Ces blocages logistiques mondiaux maintiennent une pression soutenue sur les cours et les approvisionnements énergétiques.",
-      "ou_en_est_on_maj_le": "2026-10-19",
+      "ou_en_est_on": "Les perturbations liées aux tensions militaires au Moyen-Orient se répercutent en aval sur le secteur des transports. Le patron de Ryanair prévient que les prix des billets d'avion en Europe pourraient augmenter jusqu'à 20 % en 2027 face au renchérissement du kérosène, qui pèse lourdement sur les compagnies non couvertes contre les variations de cours. Cet impact s'ajoute aux tensions déjà visibles sur la chaîne d'approvisionnement en carburants et sur les flux énergétiques mondiaux.",
+      "ou_en_est_on_maj_le": "2026-10-21",
       "evenements": [
         {
           "date": "2026-10-17",
@@ -217,6 +259,17 @@
               "url": "https://www.lemonde.fr/economie/article/2026/10/19/pris-au-piege-du-detroit-d-ormuz-le-qatar-cherche-une-sortie-de-crise_6797486_3234.html"
             }
           ]
+        },
+        {
+          "date": "2026-10-21",
+          "resume": "Le PDG de Ryanair avertit que les tarifs aériens européens pourraient grimper jusqu'à 20 % en 2027 sous l'impact de l'envolée du prix des carburants liée aux tensions au Moyen-Orient.",
+          "liens": [
+            {
+              "titre": "European air fares could rise by as much as 20% in 2027, Ryanair boss predicts",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/business/2026/oct/20/european-air-fares-rise-2027-ryanair-fuel-costs"
+            }
+          ]
         }
       ]
     },
@@ -230,9 +283,21 @@
         "finance",
         "desequilibres"
       ],
-      "ou_en_est_on": null,
-      "ou_en_est_on_maj_le": null,
-      "evenements": []
+      "ou_en_est_on": "Alors que la politique monétaire de la Banque centrale européenne évolue dans un climat de tensions sociales et géopolitiques, des économistes de l'institution alertent sur un risque de résurgence de l'inflation alimentaire en 2027 en zone euro. Cette alerte met en lumière la persistance de chocs d'offre sectoriels qui pourraient compliquer le retour durable de la hausse des prix vers les cibles macroéconomiques.",
+      "ou_en_est_on_maj_le": "2026-10-21",
+      "evenements": [
+        {
+          "date": "2026-10-21",
+          "resume": "Des économistes de la Banque centrale européenne mettent en garde contre un risque de forte inflation alimentaire en zone euro en 2027.",
+          "liens": [
+            {
+              "titre": "« Forte inflation alimentaire en 2027 » : pourquoi le pire est devant nous selon la BCE",
+              "source": "L'Opinion",
+              "url": "https://www.lopinion.fr/economie/forte-inflation-alimentaire-en-2027-pourquoi-le-pire-est-devant-nous-selon-la-bce"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "ukraine-sanctions",
@@ -296,8 +361,8 @@
       "categories": [
         "desequilibres"
       ],
-      "ou_en_est_on": null,
-      "ou_en_est_on_maj_le": null,
+      "ou_en_est_on": "Le débat programmatique pour l'élection présidentielle de 2027 s'articule autour des questions de pouvoir d'achat et de politique économique. Tandis que la droite met en avant l'augmentation du temps de travail, la gauche plaide pour la revalorisation des salaires financée par une hausse de la fiscalité sur les plus hauts revenus. De son côté, Fabien Roussel propose de constituer un pôle public de l'énergie en renationalisant TotalEnergies, au moment où la question de la dette publique et de son éventuel effacement réapparaît dans les discussions.",
+      "ou_en_est_on_maj_le": "2026-10-21",
       "evenements": [
         {
           "date": "2026-10-20",
@@ -307,6 +372,27 @@
               "titre": "Journal d'une succession : divorce, mode d'emploi",
               "source": "L'Opinion",
               "url": "https://www.lopinion.fr/politique/journal-dune-succession-divorce-mode-demploi"
+            }
+          ]
+        },
+        {
+          "date": "2026-10-21",
+          "resume": "Les propositions économiques pour 2027 s'étoffent, entre pistes divergentes sur les salaires et le temps de travail, renationalisation de TotalEnergies défendue par Fabien Roussel et débat sur la dette publique.",
+          "liens": [
+            {
+              "titre": "Hausse du smic ou « travailler plus pour gagner plus » : comment les candidats abordent la question épineuse du pouvoir d'achat",
+              "source": "L'Opinion",
+              "url": "https://www.lopinion.fr/politique/hausse-du-smic-ou-travailler-plus-pour-gagner-plus-comment-les-candidats-abordent-la-question-epineuse-du-pouvoir-dachat"
+            },
+            {
+              "titre": "Présidentielle : le communiste Fabien Roussel rêve de « renationaliser » TotalEnergies",
+              "source": "La Tribune",
+              "url": "https://www.latribune.fr/article/entreprises-finance/1062783443443814/presidentielle-le-communiste-fabien-roussel-reve-de-renationaliser-totalenergies"
+            },
+            {
+              "titre": "Annulation de la dette publique française : les leçons des précédents dans l’histoire",
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/economie/article/2026/10/21/annulation-de-la-dette-publique-francaise-les-lecons-des-precedents-dans-l-histoire_6798197_3234.html"
             }
           ]
         }
@@ -410,8 +496,8 @@
         "desequilibres",
         "entreprises"
       ],
-      "ou_en_est_on": "L'impact économique des manifestations et des violences urbaines se traduit par des dégradations touchant plus de 2 000 à 3 000 commerces à travers le pays. Pour contrer le risque de faillites en cascade et soutenir l'activité, le gouvernement a mis en place un dispositif d'urgence incluant le chômage partiel à 100 %, un fonds de soutien et des mesures de couvre-feu partiel. En parallèle, les assureurs assouplissent les conditions de déclaration et promettent des indemnisations accélérées, tandis que le secteur du tourisme et l'ensemble de la filière commerciale redoutent des répercussions durables.",
-      "ou_en_est_on_maj_le": "2026-10-20",
+      "ou_en_est_on": "L'activité économique française subit le contrecoup des violences urbaines du 17 octobre, poussant le gouvernement à instaurer des prêts à taux zéro jusqu'à 50 000 euros et la prise en charge de l'activité partielle pour les commerçants touchés. La commission des Lois de l'Assemblée nationale a ouvert une commission d'enquête sur les violences et le maintien de l'ordre, alors que plusieurs municipalités ont reconduit les couvre-feux. Parallèlement aux difficultés du commerce de détail illustrées par la demande de redressement judiciaire de GiFi, l'inquiétude monte dans l'industrie avec le recours au chômage partiel chez Stellantis.",
+      "ou_en_est_on_maj_le": "2026-10-21",
       "evenements": [
         {
           "date": "2026-10-17",
@@ -556,6 +642,37 @@
               "url": "https://www.bfmtv.com/economie/entreprises/assurance-banque/30-jours-pour-declarer-les-degats-au-lieu-de-5-des-indemnisations-accelerees-les-assureurs-devoilent-des-mesures-exceptionnelles-apres-les-emeutes_AV-202610190740.html"
             }
           ]
+        },
+        {
+          "date": "2026-10-21",
+          "resume": "Bercy déploie des prêts à taux zéro jusqu'à 50 000 euros et l'activité partielle pour les commerces pillés, alors que l'enseigne GiFi s'apprête à demander son placement en redressement judiciaire.",
+          "liens": [
+            {
+              "titre": "Les 6 000 salariés de l’enseigne à petits prix GiFi s’inquiètent pour leur sort",
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/economie/article/2026/10/20/les-6-000-salaries-de-l-enseigne-a-petits-prix-gifi-s-inquietent-pour-leur-sort_6797980_3234.html"
+            },
+            {
+              "titre": "Commerces pillés : le gouvernement sort le chéquier, les patrons réclament de l’ordre",
+              "source": "Capital",
+              "url": "https://www.capital.fr/economie-politique/commerces-pilles-le-gouvernement-sort-le-chequier-les-patrons-reclament-de-lordre-1531137"
+            },
+            {
+              "titre": "Violences du 17 octobre : l’Assemblée lance une commission d’enquête sous haute tension",
+              "source": "Capital",
+              "url": "https://www.capital.fr/economie-politique/violences-du-17-octobre-lassemblee-lance-une-commission-denquete-sous-haute-tension-1531143"
+            },
+            {
+              "titre": "Chez Stellantis, l’inquiétude gagne les ouvriers des sites de Mulhouse et Poissy qui tournent au ralenti",
+              "source": "Le Figaro",
+              "url": "https://www.lefigaro.fr/societes/chez-stellantis-l-inquietude-gagne-les-ouvriers-des-sites-de-mulhouse-et-poissy-qui-tournent-au-ralenti-20261020"
+            },
+            {
+              "titre": "\"Remboursez-nous\": cette commerçante, dont quatre boutiques ont été pillées le 17 octobre, en appel à l'État",
+              "source": "BFM Business",
+              "url": "https://www.bfmtv.com/economie/video-remboursez-nous-cette-commercante-dont-quatre-boutiques-ont-ete-pillees-le-17-octobre-en-appel-a-l-etat_VN-202610200709.html"
+            }
+          ]
         }
       ]
     },
@@ -570,8 +687,8 @@
         "entreprises",
         "ue"
       ],
-      "ou_en_est_on": "Le développement des infrastructures d'intelligence artificielle se heurte désormais à des limites matérielles majeures en Europe. Le retrait de Microsoft d'un grand projet de centre de données au Royaume-Uni illustre les tensions sur les réseaux de distribution d'électricité nécessaires pour alimenter les supercalculateurs. Cette situation souligne l'enjeu énergétique pour les pays européens désireux d'attirer les investissements des géants technologiques mondiaux.",
-      "ou_en_est_on_maj_le": "2026-10-19",
+      "ou_en_est_on": "Le déploiement de l'intelligence artificielle en entreprise se heurte à des impératifs accrus de sécurité et de souveraineté. À Paris, le directeur général de Microsoft est venu promouvoir une offre souveraine auprès des groupes du CAC 40 afin de dissiper les inquiétudes sur la protection des données. En parallèle, plusieurs grandes entreprises freinent le rythme d'intégration de ces outils face aux risques cyber, réputationnels et d'usages internes non maîtrisés, pendant que l'empreinte environnementale des infrastructures de serveurs suscite des controverses internationales.",
+      "ou_en_est_on_maj_le": "2026-10-21",
       "evenements": [
         {
           "date": "2026-10-17",
@@ -639,6 +756,27 @@
               "titre": "\"C'est décisif pour l'avenir de l'Allemagne\": le gouvernement allemand annonce un partenariat avec Nvidia pour accélérer dans l'IA industrielle",
               "source": "BFM Business",
               "url": "https://www.bfmtv.com/economie/international/c-est-decisif-pour-l-avenir-de-l-allemagne-le-gouvernement-allemand-annonce-un-partenariat-avec-nvidia-pour-accelerer-dans-l-ia-industrielle_AD-202610190872.html"
+            }
+          ]
+        },
+        {
+          "date": "2026-10-21",
+          "resume": "Microsoft présente à Paris une offre souveraine pour rassurer les entreprises du CAC 40, tandis que l'adoption de l'IA ralentit chez les grands comptes en raison des risques cyber et réputationnels.",
+          "liens": [
+            {
+              "titre": "À La Défense, le patron de Microsoft Satya Nadella veut donner des gages aux entreprises européennes sur le contrôle de leurs données",
+              "source": "La Tribune",
+              "url": "https://www.latribune.fr/article/tech/informatique/43435436741762/a-la-defense-le-patron-de-microsoft-satya-nadella-veut-donner-des-gages-aux-entreprises-europeennes-sur-le-controle-de-leurs-donnees"
+            },
+            {
+              "titre": "Les grandes entreprises ralentissent l'adoption de l'IA face aux risques cyber",
+              "source": "L'Opinion",
+              "url": "https://www.lopinion.fr/economie/les-grandes-entreprises-ralentissent-ladoption-de-lia-face-aux-risques-cyber"
+            },
+            {
+              "titre": "Au Chili, les data centers, portés par le boom de l’IA, encerclent Santiago",
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/economie/article/2026/10/20/au-chili-les-data-centers-portes-par-le-boom-de-l-ia-encerclent-santiago_6797911_3234.html"
             }
           ]
         }
