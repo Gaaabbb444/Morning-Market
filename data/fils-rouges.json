@@ -1,6 +1,6 @@
 {
   "version_schema": 1,
-  "mis_a_jour_le": "2026-10-21T06:35:18+02:00",
+  "mis_a_jour_le": "2026-10-21T10:56:38+02:00",
   "fils": [
     {
       "id": "budget-2027",
@@ -11,7 +11,7 @@
       "categories": [
         "desequilibres"
       ],
-      "ou_en_est_on": "L'examen des projets budgétaires pour 2027 accumule les retards à l'Assemblée nationale, où le vote de la partie fiscale a été repoussé au 3 novembre. Sur le volet social, la Cour des comptes qualifie de « fragile » la prévision gouvernementale d'un déficit ramené à 12,7 milliards d'euros, réclamant 10 milliards d'économies face à un trou estimé à 21,8 milliards en 2026. Parallèlement, le Medef dénonce un surcoût du travail supérieur à 11 milliards d'euros et des craintes émergent sur le niveau des retraites militaires. Les discussions budgétaires restent ainsi sous haute tension parlementaire et catégorielle.",
+      "ou_en_est_on": "L'examen des projets budgétaires pour 2027 reste sous haute tension à l'Assemblée nationale, le gouvernement n'excluant pas le recours à l'article 49.3 face aux difficultés d'adoption. Sur le volet social, le Medef met en garde contre les répercussions du projet de budget de la Sécurité sociale sur les augmentations de salaires en raison du surcoût du travail, tandis que les débats parlementaires s'attachent à clarifier l'origine réelle des déficits publics.",
       "ou_en_est_on_maj_le": "2026-10-21",
       "evenements": [
         {
@@ -105,7 +105,7 @@
         },
         {
           "date": "2026-10-21",
-          "resume": "L'examen du budget prend du retard à l'Assemblée avec un vote fiscal renvoyé au 3 novembre, tandis que la Cour des comptes juge fragile la cible de 12,7 milliards d'euros de déficit pour la Sécurité sociale.",
+          "resume": "Face à la hausse des taux d'emprunt, le ministre de l'Économie évoque le recours potentiel à l'article 49.3 pour faire adopter le budget, tandis que le Medef alerte sur le surcoût du travail du projet de budget de la Sécu.",
           "liens": [
             {
               "titre": "Budget de la Sécu 2027 : la Cour des comptes juge «fragile» l’objectif de 12,7 milliards d'euros de déficit",
@@ -126,6 +126,11 @@
               "titre": "«Il y a un risque de décapitation de la hiérarchie» : une mesure du budget de la Sécurité sociale fait craindre des démissions en cascade dans l’armée",
               "source": "Le Figaro",
               "url": "https://www.lefigaro.fr/conjoncture/il-y-a-un-risque-de-decapitation-de-la-hierarchie-une-mesure-du-budget-de-la-securite-sociale-fait-craindre-des-demissions-en-cascade-dans-l-armee-20261020"
+            },
+            {
+              "titre": "\"Soit les parlementaires nous y amènent, soit on les y amènera\": face à la flambée des taux d'emprunt, Roland Lescure brandit la menace du 49.3 pour le budget",
+              "source": "BFM Business",
+              "url": "https://www.bfmtv.com/economie/soit-les-parlementaires-nous-y-amenent-soit-on-les-y-amenera-face-a-la-flambee-des-taux-d-emprunt-roland-lescure-brandit-la-menace-du-49-3-pour-le-budget_AD-202610210295.html"
             }
           ]
         }

@@ -1,6 +1,6 @@
 {
   "version_schema": 1,
-  "mis_a_jour_le": "2026-10-21T06:34:24+02:00",
+  "mis_a_jour_le": "2026-10-21T10:54:41+02:00",
   "entrees": [
     {
       "d": "2026-10-21",
@@ -85,6 +85,15 @@
     },
     {
       "d": "2026-10-21",
+      "i": "1c309684a60d",
+      "t": "UK approves Jackdaw gasfield in North Sea",
+      "r": "Le gouvernement britannique a approuvé l'exploitation du gisement gazier de Jackdaw en mer du Nord, suscitant des réactions contrastées parmi les défenseurs de l'environnement.",
+      "c": "croissance",
+      "s": "The Guardian",
+      "f": null
+    },
+    {
+      "d": "2026-10-21",
       "i": "ed215accf7d3",
       "t": "Une plainte déposée contre Trump au sujet des tarifs douaniers canadiens dans le cadre d'un nouveau recours juridique",
       "r": "Un recours en justice conteste les tarifs douaniers imposés par la Maison-Blanche sur le Canada, invoquant un excès de pouvoir préjudiciable aux entreprises américaines.",
@@ -118,6 +127,15 @@
       "c": "mondialisation",
       "s": "Le Figaro",
       "f": null
+    },
+    {
+      "d": "2026-10-21",
+      "i": "8f80d9d48ba7",
+      "t": "Il y a maintenant plus de pétrole qui sort du Golfe... qu'avant la guerre en Iran: pourquoi le baril coûte-t-il alors 50% plus cher et les prix à la pompe explosent?",
+      "r": "Malgré une hausse des exportations pétrolières du Moyen-Orient, le prix du baril de Brent a flambé de 50% dans le contexte du conflit en Iran.",
+      "c": "mondialisation",
+      "s": "BFM Business",
+      "f": "choc-petrolier-ormuz"
     },
     {
       "d": "2026-10-21",
@@ -157,6 +175,15 @@
     },
     {
       "d": "2026-10-21",
+      "i": "c1cf0b41df81",
+      "t": "Getty Images se déclare en faillite et prépare son retrait de la Bourse de New York",
+      "r": "Getty Images se déclare en faillite et prépare sa restructuration de dette ainsi que son retrait de la Bourse de New York.",
+      "c": "finance",
+      "s": "Le Monde",
+      "f": null
+    },
+    {
+      "d": "2026-10-21",
       "i": "bbfaf5250b46",
       "t": "Budget 2027 : pourquoi l’examen prend déjà du retard à l’Assemblée nationale",
       "r": "L'examen du budget 2027 à l'Assemblée nationale prend du retard, le vote sur la partie fiscalité étant reporté au 3 novembre.",
@@ -190,6 +217,15 @@
       "c": "desequilibres",
       "s": "L'Opinion",
       "f": "inflation-bce"
+    },
+    {
+      "d": "2026-10-21",
+      "i": "7f97fc34ab03",
+      "t": "\"Soit les parlementaires nous y amènent, soit on les y amènera\": face à la flambée des taux d'emprunt, Roland Lescure brandit la menace du 49.3 pour le budget",
+      "r": "Face à la hausse des taux d'emprunt, le ministre de l'Économie évoque le recours potentiel à l'article 49.3 pour faire adopter le budget.",
+      "c": "desequilibres",
+      "s": "BFM Business",
+      "f": "budget-2027"
     },
     {
       "d": "2026-10-21",
@@ -265,6 +301,15 @@
     },
     {
       "d": "2026-10-21",
+      "i": "c7e0929aacf1",
+      "t": "\"C'étaient des alcools forts qui étaient volés\": alors que Carrefour s'effondre en Bourse, son patron affirme que les pillages n'ont rien à voir avec le pouvoir d'achat",
+      "r": "Carrefour abaisse ses objectifs financiers pour 2026 et voit son action chuter en Bourse après des pillages, que son PDG dissocie des questions de pouvoir d'achat.",
+      "c": "entreprises",
+      "s": "BFM Business",
+      "f": null
+    },
+    {
+      "d": "2026-10-21",
       "i": "c07e10e30153",
       "t": "Rénovation énergétique : quelles aides sont encore possibles ?",
       "r": "Le diagnostic énergétique prend une place croissante dans le prix des biens immobiliers, posant la question des financements et aides disponibles pour les travaux.",
@@ -280,6 +325,24 @@
       "c": "epargne",
       "s": "Les Echos",
       "f": null
+    },
+    {
+      "d": "2026-10-21",
+      "i": "4fbde342fed7",
+      "t": "Ludovic Huzieux, cofondateur d’Artémis courtage : « Nous anticipons une raréfaction du crédit immobilier »",
+      "r": "Les taux d'emprunt repartent à la hausse et les banques se montrent plus sélectives, faisant anticiper une raréfaction du crédit immobilier.",
+      "c": "epargne",
+      "s": "Le Monde",
+      "f": null
+    },
+    {
+      "d": "2026-10-21",
+      "i": "aa3fe1569300",
+      "t": "Choisir son PER en 2026 : critères, frais et gestion",
+      "r": "Le choix d'un Plan Épargne Retraite dépend de critères individuels tels que le niveau d'imposition, l'horizon de placement et le mode de gestion.",
+      "c": "epargne",
+      "s": "BFM Business",
+      "f": "fiscalite-epargne-patrimoine"
     },
     {
       "d": "2026-10-20",
