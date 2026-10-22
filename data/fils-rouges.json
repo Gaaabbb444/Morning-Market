@@ -1,6 +1,6 @@
 {
   "version_schema": 1,
-  "mis_a_jour_le": "2026-10-22T06:35:10+02:00",
+  "mis_a_jour_le": "2026-10-22T10:56:54+02:00",
   "fils": [
     {
       "id": "budget-2027",
@@ -172,7 +172,7 @@
         "desequilibres",
         "finance"
       ],
-      "ou_en_est_on": "La crise de confiance des investisseurs envers la dette souveraine française a franchi un palier historique. Le rendement de l'emprunt d'État à dix ans a dépassé le seuil de 5 %, un sommet inédit depuis 2002, traduisant l'intégration d'une prime de risque politique et social accrue après les violences récentes. Cette flambée du coût de financement de l'État menace de se répercuter directement sur les taux de crédit accordés aux ménages et aux entreprises, pesant ainsi sur l'activité économique générale.",
+      "ou_en_est_on": "La crise de confiance des investisseurs envers la dette souveraine française franchit un nouveau seuil symbolique : pour la première fois depuis 2013, la France emprunte à dix ans plus cher que les États-Unis. Alors que les taux d'intérêt demeurent à des niveaux inédits depuis 2002 dans un contexte de tensions politiques et sociales, les marchés et les épargnants s'inquiètent de la menace d'une crise financière. Cette défiance s'accroît également dans l'attente du prochain verdict de notation financière par l'agence Moody's.",
       "ou_en_est_on_maj_le": "2026-10-22",
       "evenements": [
         {
@@ -240,7 +240,7 @@
         },
         {
           "date": "2026-10-22",
-          "resume": "Le taux d'emprunt à dix ans de la France a franchi la barre des 5 % pour la première fois depuis 2002, sous l'effet des violences urbaines et des doutes accrus sur la trajectoire des finances publiques.",
+          "resume": "Pour la première fois depuis mai 2013, le taux d'emprunt à 10 ans de la France dépasse celui des États-Unis, tandis que les inquiétudes des marchés s'accentuent avant la décision de l'agence Moody's.",
           "liens": [
             {
               "titre": "Taux d'emprunt de la France à plus de 5% : quelles conséquences potentielles sur le quotidien des Français ?",
@@ -607,7 +607,7 @@
         "desequilibres",
         "entreprises"
       ],
-      "ou_en_est_on": "L'activité productive et commerciale fait face à une accumulation de vents contraires. Dans l'industrie, Stellantis a suspendu la production sur deux sites supplémentaires, à Sochaux et Rennes, alimentant les craintes sur les volumes et l'emploi pour 2027. Dans le commerce et les services, fragilisés par les dégradations du 17 octobre et la multiplication des défaillances dans la restauration, les organisations patronales réclament des mesures d'urgence comme l'ouverture dominicale pour amortir les pertes.",
+      "ou_en_est_on": "L'économie française subit des signaux conjoncturels divergents dans un contexte assombri par les mouvements sociaux et le coût de l'énergie. Selon l'Insee, le climat des affaires d'octobre 2026 s'est dégradé dans le bâtiment et le commerce de détail, bien qu'il progresse dans l'industrie où les intentions d'investissement augmentent légèrement. En parallèle, les commerçants doivent anticiper de nouvelles journées de mobilisation sociale après les dégradations subies, ce qui alimente les craintes d'un freinage accru de la croissance.",
       "ou_en_est_on_maj_le": "2026-10-22",
       "evenements": [
         {
@@ -787,7 +787,7 @@
         },
         {
           "date": "2026-10-22",
-          "resume": "Stellantis met à l'arrêt pour dix jours ses sites de Sochaux et Rennes, pendant que le Medef demande l'ouverture des commerces le dimanche après les dégradations du 17 octobre.",
+          "resume": "En octobre 2026, le climat des affaires se dégrade dans le bâtiment et le commerce mais s'améliore dans l'industrie, tandis que les commerçants anticipent les impacts économiques de nouvelles journées de mobilisation.",
           "liens": [
             {
               "titre": "Quatre usines de Stellantis à l’arrêt, l’inquiétude monte pour 2027",
@@ -829,8 +829,8 @@
         "entreprises",
         "ue"
       ],
-      "ou_en_est_on": "Le déploiement de l'intelligence artificielle en entreprise se heurte à des impératifs accrus de sécurité et de souveraineté. À Paris, le directeur général de Microsoft est venu promouvoir une offre souveraine auprès des groupes du CAC 40 afin de dissiper les inquiétudes sur la protection des données. En parallèle, plusieurs grandes entreprises freinent le rythme d'intégration de ces outils face aux risques cyber, réputationnels et d'usages internes non maîtrisés, pendant que l'empreinte environnementale des infrastructures de serveurs suscite des controverses internationales.",
-      "ou_en_est_on_maj_le": "2026-10-21",
+      "ou_en_est_on": "Le déploiement concret de l'intelligence artificielle commence à modifier directement les structures d'emploi, comme l'illustre la suppression annoncée de 5 000 postes chez Barclays. Néanmoins, l'adoption des outils reste confrontée à de lourdes difficultés techniques et d'acceptabilité : Meta subit une fuite de données privées sur son assistant Muse, tandis qu'un consortium d'acteurs de la tech alerte sur les risques de contestation publique contre la construction de centres de données au Royaume-Uni.",
+      "ou_en_est_on_maj_le": "2026-10-22",
       "evenements": [
         {
           "date": "2026-10-17",
@@ -924,7 +924,7 @@
         },
         {
           "date": "2026-10-22",
-          "resume": "Airbus Defence & Space signe un partenariat pour créer un service souverain de traitement d'images satellites par IA en Allemagne, tandis que les promesses de gains de productivité liés à l'IA font l'objet de doutes académiques.",
+          "resume": "Barclays prévoit la suppression de 5 000 postes grâce aux gains d'efficacité liés à l'IA, tandis que Meta essuie une faille de sécurité sur son agent Muse et que les constructeurs de datacenters alertent sur les risques de contestation au Royaume-Uni.",
           "liens": [
             {
               "titre": "Allemagne : Airbus s’associe à IBM, LiveEO et IABG pour un traitement d’images satellites par IA",
@@ -935,6 +935,21 @@
               "titre": "« L’IA pourrait freiner la croissance économique de plusieurs façons »",
               "source": "Le Monde",
               "url": "https://www.lemonde.fr/idees/article/2026/10/21/l-ia-pourrait-freiner-la-croissance-economique-de-plusieurs-facons_6798275_3232.html"
+            },
+            {
+              "titre": "AI firms say UK has a year to head off datacentre protests before construction is threatened",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/uk-news/2026/oct/22/ai-firms-say-uk-has-a-year-to-head-off-datacentre-protests-before-construction-is-threatened"
+            },
+            {
+              "titre": "Le nouvel agent IA de Meta, Muse, déjà pris en défaut par une faille de sécurité",
+              "source": "Le Figaro",
+              "url": "https://www.lefigaro.fr/secteur/high-tech/le-nouvel-agent-ia-de-meta-muse-deja-pris-en-defaut-par-une-faille-de-securite-20261022"
+            },
+            {
+              "titre": "Avec l’adoption de l’IA, la banque britannique Barclays va supprimer environ 5000 emplois",
+              "source": "Le Figaro",
+              "url": "https://www.lefigaro.fr/societes/avec-l-adoption-de-l-ia-la-banque-britannique-barclays-va-supprimer-environ-5000-emplois-20261022"
             }
           ]
         }

@@ -1,13 +1,22 @@
 {
   "version_schema": 1,
-  "mis_a_jour_le": "2026-10-22T06:33:29+02:00",
+  "mis_a_jour_le": "2026-10-22T10:56:37+02:00",
   "entrees": [
     {
       "d": "2026-10-22",
-      "i": "bd75e2ee9d7b",
-      "t": "Taux d'emprunt de la France à plus de 5% : quelles conséquences potentielles sur le quotidien des Français ?",
-      "r": "Le taux d'emprunt à dix ans de la France a dépassé 5 %, une première depuis 2002, alourdissant le coût de la dette publique.",
+      "i": "c2e204903593",
+      "t": "Un nouveau seuil inquiétant vient d'être franchi: la France emprunte désormais plus cher que les États-Unis malgré leurs déficits abyssaux et ce n'était plus arrivé depuis 2013",
+      "r": "Pour la première fois depuis mai 2013, la France emprunte à dix ans à un taux supérieur à celui des États-Unis. Ce dépassement intervient alors même que les déficits publics américains sont plus élevés.",
       "c": "desequilibres",
+      "s": "BFM Business",
+      "f": "dette-marches"
+    },
+    {
+      "d": "2026-10-22",
+      "i": "68e90a15b61f",
+      "t": "En France, la menace d'une crise financière se précise",
+      "r": "Les taux d'intérêt de la dette publique française ont franchi un niveau sans équivalent depuis 2002 dans un contexte de crise sociale et politique. Les marchés financiers et les épargnants manifestent une inquiétude croissante avant la publication de la décision de l'agence de notation Moody's.",
+      "c": "finance",
       "s": "franceinfo",
       "f": "dette-marches"
     },
@@ -22,15 +31,6 @@
     },
     {
       "d": "2026-10-22",
-      "i": "b5765248b705",
-      "t": "Meta : chiffre d'affaires supérieur aux attentes au troisième trimestre, bénéfice amputé par 10 milliards de frais judiciaires",
-      "r": "Meta enregistre un chiffre d'affaires supérieur aux attentes mais écope d'une amende de 25 milliards de dollars dans l'affaire Cambridge Analytica.",
-      "c": "entreprises",
-      "s": "Le Figaro",
-      "f": null
-    },
-    {
-      "d": "2026-10-22",
       "i": "96e4a8ce81c5",
       "t": "« Une sorte de squat » : la colère des partenaires sociaux face aux prélèvements de l’État sur l’assurance-chômage",
       "r": "L'Unédic anticipe un déficit de 600 millions d'euros en 2027 en raison d'une ponction de 2 milliards d'euros envisagée par l'État.",
@@ -40,12 +40,12 @@
     },
     {
       "d": "2026-10-22",
-      "i": "1fd353493bff",
-      "t": "Présidentielle 2027 : le rapporteur du budget somme les candidats de chiffrer leurs promesses, Édouard Philippe répond",
-      "r": "Le rapporteur du budget demande aux candidats à la présidentielle de chiffrer leurs programmes, tandis qu'Édouard Philippe promet un déficit à 2 % du PIB.",
-      "c": "desequilibres",
-      "s": "Capital",
-      "f": "presidentielle-2027"
+      "i": "b5765248b705",
+      "t": "Meta : chiffre d'affaires supérieur aux attentes au troisième trimestre, bénéfice amputé par 10 milliards de frais judiciaires",
+      "r": "Meta enregistre un chiffre d'affaires supérieur aux attentes mais écope d'une amende de 25 milliards de dollars dans l'affaire Cambridge Analytica.",
+      "c": "entreprises",
+      "s": "Le Figaro",
+      "f": null
     },
     {
       "d": "2026-10-22",
@@ -81,6 +81,15 @@
       "r": "Le Premier ministre britannique autorise l'exploitation d'un gisement gazier en mer du Nord pour envoyer un signal favorable aux entreprises avant le budget.",
       "c": "croissance",
       "s": "L'Opinion",
+      "f": null
+    },
+    {
+      "d": "2026-10-22",
+      "i": "1dca305f08f5",
+      "t": "L’Europe multiplie les brevets, mais peine à transformer ses découvertes en succès commerciaux",
+      "r": "L'Europe multiplie les brevets mais éprouve des difficultés à transformer ses innovations en réussites commerciales sur le plan international.",
+      "c": "croissance",
+      "s": "franceinfo",
       "f": null
     },
     {
@@ -121,6 +130,15 @@
     },
     {
       "d": "2026-10-22",
+      "i": "04f9e6533082",
+      "t": "Comac : malgré l’étonnante faiblesse des livraisons du C919, la menace se précise pour Airbus et Boeing",
+      "r": "Malgré des livraisons inférieures aux objectifs cette année, la montée en puissance de l'avionneur chinois Comac et de son C919 pousse Airbus et Boeing à préparer leur riposte.",
+      "c": "mondialisation",
+      "s": "La Tribune",
+      "f": null
+    },
+    {
+      "d": "2026-10-22",
       "i": "b87ba880dfb1",
       "t": "Elles détiennent deux fois plus d'obligations souveraines qu'il y a 15 ans: même si elles sont mieux armées, les banques européennes sont-elles vraiment à l'abri en cas de nouvelle crise de la dette?",
       "r": "Face à la chute des actions des banques européennes et à la hausse des coûts d'emprunt des États, la question de leur exposition aux obligations souveraines se pose.",
@@ -150,6 +168,15 @@
       "d": "2026-10-22",
       "i": "dd4fa76e3ab0",
       "t": "Bourse : la chute de CoreWeave, fournisseur de puissance de calcul est-elle un avertissement pour le secteur de l'IA",
+      "r": "",
+      "c": "finance",
+      "s": "Les Echos",
+      "f": "intelligence-artificielle"
+    },
+    {
+      "d": "2026-10-22",
+      "i": "8fc70f23598c",
+      "t": "Goldman Sachs : « ﻿La demande de capitaux du secteur privé a explosé, en grande partie à cause de l'intelligence artificielle",
       "r": "",
       "c": "finance",
       "s": "Les Echos",
@@ -193,6 +220,15 @@
     },
     {
       "d": "2026-10-22",
+      "i": "c6e9597d1ebc",
+      "t": "À suivre avec Loïc de la Mornais : alerte sur la dette française et les taux d'emprunt",
+      "r": "Une émission aborde la question de la dette publique française et la problématique des taux d'emprunt.",
+      "c": "desequilibres",
+      "s": "franceinfo",
+      "f": "dette-marches"
+    },
+    {
+      "d": "2026-10-22",
       "i": "4b859d71d2fc",
       "t": "« L’approche franco-allemande sur l’automobile combine les pires penchants politiques des deux nations »",
       "r": "L'accord franco-allemand sur l'automobile, assouplissant les objectifs climatiques et prônant le protectionnisme, est critiqué par des chercheurs pour son impact sur l'UE.",
@@ -226,6 +262,15 @@
       "c": "ue",
       "s": "The Guardian",
       "f": null
+    },
+    {
+      "d": "2026-10-22",
+      "i": "305a11cd088a",
+      "t": "Automobile : les eurodéputés assouplissent les objectifs climatiques des constructeurs pour 2035",
+      "r": "",
+      "c": "ue",
+      "s": "Les Echos",
+      "f": "automobile-europe-chine"
     },
     {
       "d": "2026-10-22",
@@ -265,6 +310,15 @@
     },
     {
       "d": "2026-10-22",
+      "i": "4afd2c7b4f11",
+      "t": "Barclays supprime 5 000 emplois alors que ses profits augmentent avant une taxe bancaire imminente ; les rendements obligataires français atteignent un plus haut de 24 ans",
+      "r": "La banque Barclays supprime 5 000 emplois en raison de l'intégration de l'intelligence artificielle, tandis que les rendements obligataires français augmentent.",
+      "c": "entreprises",
+      "s": "The Guardian",
+      "f": null
+    },
+    {
+      "d": "2026-10-22",
       "i": "240992b00481",
       "t": "Dispositif Jeanbrun : pourquoi la nouvelle niche fiscale de l’immobilier peine à convaincre",
       "r": "Huit mois après son lancement, le dispositif Jeanbrun peine à convaincre les investisseurs en raison de contraintes lourdes et d'un gain fiscal limité.",
@@ -297,6 +351,15 @@
       "r": "",
       "c": "epargne",
       "s": "Les Echos",
+      "f": null
+    },
+    {
+      "d": "2026-10-22",
+      "i": "c8f3e4765961",
+      "t": "Banque : 43 % des Français sont à découvert au moins une fois par an",
+      "r": "Une étude de Panorabanques révèle que 43 % des Français sont à découvert au moins une fois par an, dans un contexte de hausse des dépenses.",
+      "c": "epargne",
+      "s": "Le Monde",
       "f": null
     },
     {

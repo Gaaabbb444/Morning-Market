@@ -1,16 +1,14 @@
 {
   "version_schema": 1,
   "notions": {
-    "effet-d-eviction": [
+    "spread-ecart-de-taux-souverain": [
       {
         "date": "2026-10-22",
-        "id": "bd75e2ee9d7b",
-        "titre": "Taux d'emprunt de la France à plus de 5% : quelles conséquences potentielles sur le quotidien des Français ?",
-        "source": "franceinfo",
-        "contexte": "Concept du jour"
-      }
-    ],
-    "spread-ecart-de-taux-souverain": [
+        "id": "c2e204903593",
+        "titre": "Un nouveau seuil inquiétant vient d'être franchi: la France emprunte désormais plus cher que les États-Unis malgré leurs déficits abyssaux et ce n'était plus arrivé depuis 2013",
+        "source": "BFM Business",
+        "contexte": "Top 5 du jour"
+      },
       {
         "date": "2026-10-21",
         "id": "b897800edbe2",
@@ -30,6 +28,15 @@
         "id": "7ad64ee54b92",
         "titre": "Amélie de Montchalin, première présidente de la Cour des comptes : « Nous menons la bataille de la vérité »",
         "source": "La Tribune",
+        "contexte": "Top 5 du jour"
+      }
+    ],
+    "effet-boule-de-neige": [
+      {
+        "date": "2026-10-22",
+        "id": "68e90a15b61f",
+        "titre": "En France, la menace d'une crise financière se précise",
+        "source": "franceinfo",
         "contexte": "Top 5 du jour"
       }
     ],
