@@ -1,7 +1,304 @@
 {
   "version_schema": 1,
-  "mis_a_jour_le": "2026-10-21T10:54:41+02:00",
+  "mis_a_jour_le": "2026-10-22T06:33:29+02:00",
   "entrees": [
+    {
+      "d": "2026-10-22",
+      "i": "bd75e2ee9d7b",
+      "t": "Taux d'emprunt de la France à plus de 5% : quelles conséquences potentielles sur le quotidien des Français ?",
+      "r": "Le taux d'emprunt à dix ans de la France a dépassé 5 %, une première depuis 2002, alourdissant le coût de la dette publique.",
+      "c": "desequilibres",
+      "s": "franceinfo",
+      "f": "dette-marches"
+    },
+    {
+      "d": "2026-10-22",
+      "i": "4f475d49dc8b",
+      "t": "« Ce serait la crise quasi immédiate » : ce que les milieux économiques pensent du programme de Jean-Luc Mélenchon",
+      "r": "Les milieux économiques jugent sévèrement le programme de Jean-Luc Mélenchon, pointant des hausses de dépenses et un choc fiscal important.",
+      "c": "desequilibres",
+      "s": "Le Figaro",
+      "f": "presidentielle-2027"
+    },
+    {
+      "d": "2026-10-22",
+      "i": "b5765248b705",
+      "t": "Meta : chiffre d'affaires supérieur aux attentes au troisième trimestre, bénéfice amputé par 10 milliards de frais judiciaires",
+      "r": "Meta enregistre un chiffre d'affaires supérieur aux attentes mais écope d'une amende de 25 milliards de dollars dans l'affaire Cambridge Analytica.",
+      "c": "entreprises",
+      "s": "Le Figaro",
+      "f": null
+    },
+    {
+      "d": "2026-10-22",
+      "i": "96e4a8ce81c5",
+      "t": "« Une sorte de squat » : la colère des partenaires sociaux face aux prélèvements de l’État sur l’assurance-chômage",
+      "r": "L'Unédic anticipe un déficit de 600 millions d'euros en 2027 en raison d'une ponction de 2 milliards d'euros envisagée par l'État.",
+      "c": "desequilibres",
+      "s": "L'Opinion",
+      "f": "budget-2027"
+    },
+    {
+      "d": "2026-10-22",
+      "i": "1fd353493bff",
+      "t": "Présidentielle 2027 : le rapporteur du budget somme les candidats de chiffrer leurs promesses, Édouard Philippe répond",
+      "r": "Le rapporteur du budget demande aux candidats à la présidentielle de chiffrer leurs programmes, tandis qu'Édouard Philippe promet un déficit à 2 % du PIB.",
+      "c": "desequilibres",
+      "s": "Capital",
+      "f": "presidentielle-2027"
+    },
+    {
+      "d": "2026-10-22",
+      "i": "416a21e8f238",
+      "t": "« Jackdaw signifie que nous payons nos hypothèques » : soulagement à Aberdeen après l'approbation du gisement de gaz / Burnham approuve Jackdaw – et l'unité du Labour sur l'action climatique est compromise / « Vandalisme climatique » : l'approbation du gisement gazier de Jackdaw condamnée",
+      "r": "Le gouvernement britannique a approuvé l'exploitation du gisement gazier de Jackdaw en mer du Nord, suscitant des réactions partagées entre soutien à l'emploi et critiques écologistes.",
+      "c": "croissance",
+      "s": "The Guardian",
+      "f": null
+    },
+    {
+      "d": "2026-10-22",
+      "i": "322d5e9341cd",
+      "t": "L'éditorial du Guardian sur les forages à Jackdaw : une approche véritablement pragmatique se concentrerait sur la transition verte de la Grande-Bretagne",
+      "r": "L'ouverture du gisement gazier de mer du Nord n'offrira que des bénéfices minimes aux ménages tout en envoyant un signal négatif avant le sommet sur le climat.",
+      "c": "croissance",
+      "s": "The Guardian",
+      "f": null
+    },
+    {
+      "d": "2026-10-22",
+      "i": "0aca0257f617",
+      "t": "Allemagne : Airbus s’associe à IBM, LiveEO et IABG pour un traitement d’images satellites par IA",
+      "r": "Airbus Defence & Space s'associe à plusieurs partenaires pour développer un service souverain de traitement d'images satellites par intelligence artificielle en Allemagne.",
+      "c": "croissance",
+      "s": "La Tribune",
+      "f": "intelligence-artificielle"
+    },
+    {
+      "d": "2026-10-22",
+      "i": "5bcf8a4661cf",
+      "t": "Une « décision pragmatique » : Andy Burnham autorise un gisement gazier contesté en mer du Nord",
+      "r": "Le Premier ministre britannique autorise l'exploitation d'un gisement gazier en mer du Nord pour envoyer un signal favorable aux entreprises avant le budget.",
+      "c": "croissance",
+      "s": "L'Opinion",
+      "f": null
+    },
+    {
+      "d": "2026-10-22",
+      "i": "9cb521c45e3d",
+      "t": "En Italie, la grève des routiers ne faiblit pas: les commerçants préviennent que des pénuries alimentaires pourraient voir le jour",
+      "r": "En Italie, la grève des routiers et des agriculteurs contre les prix du carburant provoque des perturbations et des risques de pénuries alimentaires.",
+      "c": "mondialisation",
+      "s": "BFM Business",
+      "f": null
+    },
+    {
+      "d": "2026-10-22",
+      "i": "454831b51f8a",
+      "t": "OPINION. « Semi-conducteurs : la souveraineté européenne exige de choisir ses dépendances »",
+      "r": "La souveraineté européenne en matière de semi-conducteurs dépend de sa capacité à choisir ses alliances face aux tensions géopolitiques.",
+      "c": "mondialisation",
+      "s": "La Tribune",
+      "f": null
+    },
+    {
+      "d": "2026-10-22",
+      "i": "9143775a708c",
+      "t": "ArianeGroup appelle à un « new deal » pour que l’Europe reste souveraine dans son accès à l’espace",
+      "r": "ArianeGroup appelle à un nouveau pacte pour préserver l'accès souverain de l'Europe à l'espace et augmenter ses cadences de production.",
+      "c": "mondialisation",
+      "s": "Le Figaro",
+      "f": null
+    },
+    {
+      "d": "2026-10-22",
+      "i": "9f56a510257d",
+      "t": "Une plus grande quantité de pétrole qu’avant la guerre avec l’Iran sort désormais du golfe Persique",
+      "r": "Une quantité de pétrole supérieure à celle d'avant le conflit sort du golfe Persique grâce à une flotte plus résiliente, malgré les craintes des négociants.",
+      "c": "mondialisation",
+      "s": "L'Opinion",
+      "f": "choc-petrolier-ormuz"
+    },
+    {
+      "d": "2026-10-22",
+      "i": "b87ba880dfb1",
+      "t": "Elles détiennent deux fois plus d'obligations souveraines qu'il y a 15 ans: même si elles sont mieux armées, les banques européennes sont-elles vraiment à l'abri en cas de nouvelle crise de la dette?",
+      "r": "Face à la chute des actions des banques européennes et à la hausse des coûts d'emprunt des États, la question de leur exposition aux obligations souveraines se pose.",
+      "c": "finance",
+      "s": "BFM Business",
+      "f": "dette-marches"
+    },
+    {
+      "d": "2026-10-22",
+      "i": "37e98f7711ff",
+      "t": "En Suisse, le chantage à la délocalisation du géant bancaire UBS",
+      "r": "Face au durcissement des règles de fonds propres envisagé par Berne pour limiter le risque systémique, UBS menace de quitter la Suisse.",
+      "c": "finance",
+      "s": "Le Monde",
+      "f": null
+    },
+    {
+      "d": "2026-10-22",
+      "i": "9b29f5e25f18",
+      "t": "Le spread de la peur",
+      "r": "",
+      "c": "finance",
+      "s": "Les Echos",
+      "f": "dette-marches"
+    },
+    {
+      "d": "2026-10-22",
+      "i": "dd4fa76e3ab0",
+      "t": "Bourse : la chute de CoreWeave, fournisseur de puissance de calcul est-elle un avertissement pour le secteur de l'IA",
+      "r": "",
+      "c": "finance",
+      "s": "Les Echos",
+      "f": "intelligence-artificielle"
+    },
+    {
+      "d": "2026-10-22",
+      "i": "955534088552",
+      "t": "Dette de la France : la charge d'intérêts dépassera les 100 milliards d'euros dès 2028",
+      "r": "",
+      "c": "desequilibres",
+      "s": "Les Echos",
+      "f": "budget-2027"
+    },
+    {
+      "d": "2026-10-22",
+      "i": "e5d30ee360fe",
+      "t": "La France s’endette à plus de 5 % pour la première fois depuis 2002",
+      "r": "Les violences du week-end ont accru les doutes des investisseurs quant au redressement des finances publiques et à la réduction des déficits.",
+      "c": "desequilibres",
+      "s": "Le Figaro",
+      "f": "dette-marches"
+    },
+    {
+      "d": "2026-10-22",
+      "i": "461908697456",
+      "t": "L’envolée du coût de la dette, un nouveau coup dur pour l’économie française",
+      "r": "Le franchissement de la barre des 5 % par les taux français à dix ans alourdit le coût du crédit et pèse sur l'activité économique.",
+      "c": "desequilibres",
+      "s": "Le Monde",
+      "f": "dette-marches"
+    },
+    {
+      "d": "2026-10-22",
+      "i": "3ede5c022a2b",
+      "t": "Les convulsions de la France élèvent son risque politique pour les investisseurs",
+      "r": "Les tensions et violences en France accentuent le risque politique perçu par les investisseurs étrangers et pèsent sur la confiance des marchés.",
+      "c": "desequilibres",
+      "s": "L'Opinion",
+      "f": "dette-marches"
+    },
+    {
+      "d": "2026-10-22",
+      "i": "4b859d71d2fc",
+      "t": "« L’approche franco-allemande sur l’automobile combine les pires penchants politiques des deux nations »",
+      "r": "L'accord franco-allemand sur l'automobile, assouplissant les objectifs climatiques et prônant le protectionnisme, est critiqué par des chercheurs pour son impact sur l'UE.",
+      "c": "ue",
+      "s": "Le Monde",
+      "f": "automobile-europe-chine"
+    },
+    {
+      "d": "2026-10-22",
+      "i": "85ddda09d24f",
+      "t": "Perquisitions au Parlement européen : l'enquête cible l'ancien groupe où siégeait le Rassemblement national",
+      "r": "Des perquisitions ont lieu au Parlement européen dans le cadre d'une enquête du parquet européen visant un ancien groupe politique.",
+      "c": "ue",
+      "s": "Toute l'Europe",
+      "f": null
+    },
+    {
+      "d": "2026-10-22",
+      "i": "d4cd8313ef26",
+      "t": "L’Europe place l’Arctique au cœur de ses préoccupations stratégiques",
+      "r": "L'Europe accorde une attention stratégique accrue à la région de l'Arctique, autrefois perçue comme une simple zone périphérique confrontée au changement climatique.",
+      "c": "ue",
+      "s": "L'Opinion",
+      "f": null
+    },
+    {
+      "d": "2026-10-22",
+      "i": "1ce257203d3c",
+      "t": "La gare de Stratford International en bonne voie pour accueillir les trains transmanche grâce au budget",
+      "r": "La gare de Stratford International à l'est de Londres devrait recevoir des financements dans le prochain budget pour devenir un pôle de services transmanche.",
+      "c": "ue",
+      "s": "The Guardian",
+      "f": null
+    },
+    {
+      "d": "2026-10-22",
+      "i": "b12f081e1b33",
+      "t": "Meta condamné à 25 milliards de dollars pour des « mensonges » sur la confidentialité des données des utilisateurs",
+      "r": "Cette amende est la plus élevée infligée à ce jour à la maison mère de Facebook, dépassant un accord de 18 milliards de dollars avec la Californie.",
+      "c": "entreprises",
+      "s": "BBC",
+      "f": null
+    },
+    {
+      "d": "2026-10-22",
+      "i": "6ee0545d2f4a",
+      "t": "Quatre usines de Stellantis à l’arrêt, l’inquiétude monte pour 2027",
+      "r": "Deux sites de production de Stellantis à Sochaux et Rennes arrêtent leur production pendant dix jours, faisant redouter une baisse des volumes et des effectifs en 2027.",
+      "c": "entreprises",
+      "s": "Le Monde",
+      "f": "conjoncture-france"
+    },
+    {
+      "d": "2026-10-22",
+      "i": "308aa9b0736a",
+      "t": "eBay va supprimer 1 000 emplois, soit près de 9 % de ses effectifs",
+      "r": "La plateforme eBay supprime 1 000 postes, soit environ 9 % de ses effectifs, afin de poursuivre sa restructuration malgré une croissance retrouvée.",
+      "c": "entreprises",
+      "s": "Le Monde",
+      "f": "conjoncture-france"
+    },
+    {
+      "d": "2026-10-22",
+      "i": "ab9d8c24e8af",
+      "t": "Une partie d'internet mondial mise à l'arrêt",
+      "r": "Deux failles critiques découvertes dans le langage de programmation PHP menacent une grande partie des services en ligne mondiaux.",
+      "c": "entreprises",
+      "s": "BFM Business",
+      "f": null
+    },
+    {
+      "d": "2026-10-22",
+      "i": "240992b00481",
+      "t": "Dispositif Jeanbrun : pourquoi la nouvelle niche fiscale de l’immobilier peine à convaincre",
+      "r": "Huit mois après son lancement, le dispositif Jeanbrun peine à convaincre les investisseurs en raison de contraintes lourdes et d'un gain fiscal limité.",
+      "c": "epargne",
+      "s": "Capital",
+      "f": "fiscalite-epargne-patrimoine"
+    },
+    {
+      "d": "2026-10-22",
+      "i": "ff86e658f141",
+      "t": "Le fonds pétrolier d'un billion de livres que le gouvernement aurait pu construire selon lui",
+      "r": "Pour la première fois, le Trésor britannique a calculé les montants que le Royaume-Uni aurait pu lever en investissant les revenus de la mer du Nord.",
+      "c": "epargne",
+      "s": "BBC",
+      "f": null
+    },
+    {
+      "d": "2026-10-22",
+      "i": "5b0f9b3f48bb",
+      "t": "Des retraités de la Caisse des dépôts et consignations assignent par dizaines CNP Assurances en justice",
+      "r": "Des anciens salariés assignent CNP Assurances en justice suite à la résiliation unilatérale de leurs contrats d'assurance décès et dépendance.",
+      "c": "epargne",
+      "s": "Le Monde",
+      "f": null
+    },
+    {
+      "d": "2026-10-22",
+      "i": "701e74c7602f",
+      "t": "Malgré le relèvement du taux, le Livret A chute encore en septembre",
+      "r": "",
+      "c": "epargne",
+      "s": "Les Echos",
+      "f": null
+    },
     {
       "d": "2026-10-21",
       "i": "b897800edbe2",

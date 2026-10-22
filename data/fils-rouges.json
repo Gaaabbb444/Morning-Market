@@ -1,6 +1,6 @@
 {
   "version_schema": 1,
-  "mis_a_jour_le": "2026-10-21T10:56:38+02:00",
+  "mis_a_jour_le": "2026-10-22T06:35:10+02:00",
   "fils": [
     {
       "id": "budget-2027",
@@ -11,8 +11,8 @@
       "categories": [
         "desequilibres"
       ],
-      "ou_en_est_on": "L'examen des projets budgétaires pour 2027 reste sous haute tension à l'Assemblée nationale, le gouvernement n'excluant pas le recours à l'article 49.3 face aux difficultés d'adoption. Sur le volet social, le Medef met en garde contre les répercussions du projet de budget de la Sécurité sociale sur les augmentations de salaires en raison du surcoût du travail, tandis que les débats parlementaires s'attachent à clarifier l'origine réelle des déficits publics.",
-      "ou_en_est_on_maj_le": "2026-10-21",
+      "ou_en_est_on": "L'examen des textes budgétaires pour 2027 se heurte à de fortes résistances politiques et sociales. À l'Assemblée nationale, les députés ont adopté plusieurs exonérations de cotisations sociales sur le budget de la Sécurité sociale malgré les mises en garde du gouvernement sur les déficits. Parallèlement, l'Unédic dénonce une ponction étatique envisagée de 2 milliards d'euros qui ferait plonger l'assurance-chômage dans le rouge en 2027. Dans ce climat tendu, les syndicats, déçus de leur rencontre à Matignon, appellent à la mobilisation et à la grève générale.",
+      "ou_en_est_on_maj_le": "2026-10-22",
       "evenements": [
         {
           "date": "2026-10-17",
@@ -133,6 +133,32 @@
               "url": "https://www.bfmtv.com/economie/soit-les-parlementaires-nous-y-amenent-soit-on-les-y-amenera-face-a-la-flambee-des-taux-d-emprunt-roland-lescure-brandit-la-menace-du-49-3-pour-le-budget_AD-202610210295.html"
             }
           ]
+        },
+        {
+          "date": "2026-10-22",
+          "resume": "L'Unédic alerte sur un déficit de 600 millions d'euros en 2027 si l'État ponctionne 2 milliards d'euros, tandis que l'Assemblée vote de nouvelles exonérations de cotisations sociales malgré l'opposition de l'exécutif.",
+          "liens": [
+            {
+              "titre": "« Une sorte de squat » : la colère des partenaires sociaux face aux prélèvements de l’État sur l’assurance-chômage",
+              "source": "L'Opinion",
+              "url": "https://www.lopinion.fr/economie/une-sorte-de-squat-la-colere-des-partenaires-sociaux-face-aux-prelevements-de-letat-sur-lassurance-chomage"
+            },
+            {
+              "titre": "Personnes âgées employant une aide à domicile, apprentis... Les députés votent plusieurs exonérations de cotisations malgré les mises en garde du gouvernement sur le déficit de la Sécurité sociale",
+              "source": "BFM Business",
+              "url": "https://www.bfmtv.com/economie/economie-social/finances-publiques/personnes-agees-employant-une-aide-a-domicile-apprentis-les-deputes-votent-plusieurs-exonerations-de-cotisations-malgre-les-mises-en-garde-du-gouvernement-sur-le-deficit-de-la-securite-sociale_AD-202610210809.html"
+            },
+            {
+              "titre": "Budget 2027 : les propositions chocs de la députée Olivia Grégoire « pour que la fiscalité soutienne enfin les repreneurs » de TPE-PME",
+              "source": "Le Figaro",
+              "url": "https://www.lefigaro.fr/conjoncture/budget-2027-les-propositions-chocs-de-la-deputee-olivia-gregoire-pour-que-la-fiscalite-soutienne-enfin-les-repreneurs-de-tpe-pme-20261022"
+            },
+            {
+              "titre": "Pouvoir d'achat : les syndicats lancent un ultimatum au gouvernement",
+              "source": "L'Opinion",
+              "url": "https://www.lopinion.fr/economie/pouvoir-dachat-les-syndicats-lancent-un-ultimatum-au-gouvernement"
+            }
+          ]
         }
       ]
     },
@@ -146,8 +172,8 @@
         "desequilibres",
         "finance"
       ],
-      "ou_en_est_on": "La défiance des marchés financiers envers la signature souveraine française s'est fortement accentuée. L'écart de taux à dix ans entre la France et l'Allemagne a atteint 1,53 point en clôture (4,93 % contre 3,40 %), un niveau inédit depuis la crise des dettes souveraines de 2011-2012. Le coût d'emprunt français dépasse désormais celui de certains pays d'Europe de l'Est comme la Bulgarie. Les investisseurs continuent d'intégrer le risque lié à l'instabilité politique intérieure et aux incertitudes sur la trajectoire des finances publiques.",
-      "ou_en_est_on_maj_le": "2026-10-21",
+      "ou_en_est_on": "La crise de confiance des investisseurs envers la dette souveraine française a franchi un palier historique. Le rendement de l'emprunt d'État à dix ans a dépassé le seuil de 5 %, un sommet inédit depuis 2002, traduisant l'intégration d'une prime de risque politique et social accrue après les violences récentes. Cette flambée du coût de financement de l'État menace de se répercuter directement sur les taux de crédit accordés aux ménages et aux entreprises, pesant ainsi sur l'activité économique générale.",
+      "ou_en_est_on_maj_le": "2026-10-22",
       "evenements": [
         {
           "date": "2026-10-19",
@@ -211,6 +237,37 @@
               "url": "https://www.bfmtv.com/economie/video-la-bulgarie-refinancee-pour-un-prix-moins-cher-que-la-france_VN-202610200780.html"
             }
           ]
+        },
+        {
+          "date": "2026-10-22",
+          "resume": "Le taux d'emprunt à dix ans de la France a franchi la barre des 5 % pour la première fois depuis 2002, sous l'effet des violences urbaines et des doutes accrus sur la trajectoire des finances publiques.",
+          "liens": [
+            {
+              "titre": "Taux d'emprunt de la France à plus de 5% : quelles conséquences potentielles sur le quotidien des Français ?",
+              "source": "franceinfo",
+              "url": "https://www.franceinfo.fr/economie/crise/crise-de-la-dette/taux-d-emprunt-de-la-france-a-plus-de-5-quelles-consequences-potentielles-sur-le-quotidien-des-francais_8247904.html#xtor=RSS-3-%5Bgeneral%5D"
+            },
+            {
+              "titre": "La France s’endette à plus de 5 % pour la première fois depuis 2002",
+              "source": "Le Figaro",
+              "url": "https://www.lefigaro.fr/conjoncture/la-france-s-endette-a-plus-de-5-pour-la-premiere-fois-depuis-2002-20261021"
+            },
+            {
+              "titre": "L’envolée du coût de la dette, un nouveau coup dur pour l’économie française",
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/economie/article/2026/10/21/l-envolee-du-cout-de-la-dette-un-nouveau-coup-dur-pour-l-economie-francaise_6798282_3234.html"
+            },
+            {
+              "titre": "Les convulsions de la France élèvent son risque politique pour les investisseurs",
+              "source": "L'Opinion",
+              "url": "https://www.lopinion.fr/economie/les-convulsions-de-la-france-elevent-son-risque-politique-pour-les-investisseurs"
+            },
+            {
+              "titre": "Elles détiennent deux fois plus d'obligations souveraines qu'il y a 15 ans: même si elles sont mieux armées, les banques européennes sont-elles vraiment à l'abri en cas de nouvelle crise de la dette?",
+              "source": "BFM Business",
+              "url": "https://www.bfmtv.com/economie/economie-social/finances-publiques/elles-detiennent-deux-fois-plus-d-obligations-souveraines-qu-il-y-a-15-ans-meme-si-elles-sont-mieux-armees-les-banques-europeennes-sont-elles-vraiment-a-l-abri-en-cas-de-nouvelle-crise-de-la-dette_AV-202610220066.html"
+            }
+          ]
         }
       ]
     },
@@ -224,8 +281,8 @@
         "mondialisation",
         "desequilibres"
       ],
-      "ou_en_est_on": "Les perturbations liées aux tensions militaires au Moyen-Orient se répercutent en aval sur le secteur des transports. Le patron de Ryanair prévient que les prix des billets d'avion en Europe pourraient augmenter jusqu'à 20 % en 2027 face au renchérissement du kérosène, qui pèse lourdement sur les compagnies non couvertes contre les variations de cours. Cet impact s'ajoute aux tensions déjà visibles sur la chaîne d'approvisionnement en carburants et sur les flux énergétiques mondiaux.",
-      "ou_en_est_on_maj_le": "2026-10-21",
+      "ou_en_est_on": "Malgré les fortes perturbations géopolitiques dans le golfe Persique, les flux maritimes de brut montrent une résilience inattendue : les volumes exportés dépassent désormais le niveau observé avant le conflit avec l'Iran, grâce à une réorganisation logistique des armateurs. Toutefois, les négociants doutent de la viabilité à long terme de ce dispositif. En aval, la hausse passée des cours du kérosène continue de peser lourdement sur les secteurs dépendants, notamment le transport aérien européen.",
+      "ou_en_est_on_maj_le": "2026-10-22",
       "evenements": [
         {
           "date": "2026-10-17",
@@ -273,6 +330,17 @@
               "titre": "European air fares could rise by as much as 20% in 2027, Ryanair boss predicts",
               "source": "The Guardian",
               "url": "https://www.theguardian.com/business/2026/oct/20/european-air-fares-rise-2027-ryanair-fuel-costs"
+            }
+          ]
+        },
+        {
+          "date": "2026-10-22",
+          "resume": "Les volumes de pétrole transitant hors du golfe Persique ont dépassé leurs niveaux d'avant-conflit grâce à la résilience accrue de la flotte de navires, malgré les doutes des négociants sur la durabilité de ce flux.",
+          "liens": [
+            {
+              "titre": "Une plus grande quantité de pétrole qu’avant la guerre avec l’Iran sort désormais du golfe Persique",
+              "source": "L'Opinion",
+              "url": "https://www.lopinion.fr/international/une-plus-grande-quantite-de-petrole-sort-desormais-du-golfe-persique-quavant-la-guerre-avec-liran"
             }
           ]
         }
@@ -366,8 +434,8 @@
       "categories": [
         "desequilibres"
       ],
-      "ou_en_est_on": "Le débat programmatique pour l'élection présidentielle de 2027 s'articule autour des questions de pouvoir d'achat et de politique économique. Tandis que la droite met en avant l'augmentation du temps de travail, la gauche plaide pour la revalorisation des salaires financée par une hausse de la fiscalité sur les plus hauts revenus. De son côté, Fabien Roussel propose de constituer un pôle public de l'énergie en renationalisant TotalEnergies, au moment où la question de la dette publique et de son éventuel effacement réapparaît dans les discussions.",
-      "ou_en_est_on_maj_le": "2026-10-21",
+      "ou_en_est_on": "La campagne présidentielle de 2027 se focalise sur la crédibilité financière et la trajectoire budgétaire des candidats. Invités par le rapporteur général du budget Philippe Juvin à détailler leurs financements, certains candidats commencent à préciser leurs engagements : Édouard Philippe s'engage ainsi sur un déficit public ramené à 2 % du PIB sans hausse d'impôt. À l'opposé, les orientations de Jean-Luc Mélenchon, axées sur des augmentations de dépenses publiques et des hausses d'impôts, suscitent de vives critiques dans les milieux économiques.",
+      "ou_en_est_on_maj_le": "2026-10-22",
       "evenements": [
         {
           "date": "2026-10-20",
@@ -400,6 +468,22 @@
               "url": "https://www.lemonde.fr/economie/article/2026/10/21/annulation-de-la-dette-publique-francaise-les-lecons-des-precedents-dans-l-histoire_6798197_3234.html"
             }
           ]
+        },
+        {
+          "date": "2026-10-22",
+          "resume": "Le rapporteur du budget somme les candidats déclarés de chiffrer leurs propositions, alors qu'Édouard Philippe vise un déficit ramené à 2 % du PIB et que le programme de Jean-Luc Mélenchon suscite l'inquiétude des milieux patronaux.",
+          "liens": [
+            {
+              "titre": "Présidentielle 2027 : le rapporteur du budget somme les candidats de chiffrer leurs promesses, Édouard Philippe répond",
+              "source": "Capital",
+              "url": "https://www.capital.fr/economie-politique/presidentielle-2027-le-rapporteur-du-budget-somme-les-candidats-de-chiffrer-leurs-promesses-edouard-philippe-repond-1531167"
+            },
+            {
+              "titre": "« Ce serait la crise quasi immédiate » : ce que les milieux économiques pensent du programme de Jean-Luc Mélenchon",
+              "source": "Le Figaro",
+              "url": "https://www.lefigaro.fr/conjoncture/ce-serait-la-crise-quasi-immediate-ce-que-les-milieux-economiques-pensent-du-programme-de-jean-luc-melenchon-20261021"
+            }
+          ]
         }
       ]
     },
@@ -430,6 +514,17 @@
               "titre": "La France et l’Allemagne trouvent un accord sur l’avenir d’une industrie automobile \"made in Europe\", au prix de concessions environnementales",
               "source": "Toute l'Europe",
               "url": "https://www.touteleurope.eu/economie-et-social/la-france-et-l-allemagne-trouvent-un-accord-sur-l-avenir-d-une-industrie-automobile-made-in-europe-au-prix-de-concessions-environnementales/"
+            }
+          ]
+        },
+        {
+          "date": "2026-10-22",
+          "resume": "L'accord conclu entre la France et l'Allemagne pour protéger la filière automobile est critiqué par des analystes de l'Institut Bruegel pour son caractère protectionniste et l'assouplissement des règles écologiques.",
+          "liens": [
+            {
+              "titre": "« L’approche franco-allemande sur l’automobile combine les pires penchants politiques des deux nations »",
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/idees/article/2026/10/21/l-approche-franco-allemande-sur-l-automobile-combine-les-pires-penchants-politiques-des-deux-nations_6798264_3232.html"
             }
           ]
         }
@@ -487,6 +582,17 @@
               "url": "https://www.bfmtv.com/economie/entreprises/les-chefs-d-entreprise-la-redoutent-particulierement-la-reforme-de-l-apport-cession-adoptee-in-extremis-a-l-assemblee_AV-202610170173.html"
             }
           ]
+        },
+        {
+          "date": "2026-10-22",
+          "resume": "Huit mois après sa création, le dispositif fiscal Jeanbrun en faveur de l'investissement locatif rénové enregistre un très faible niveau de demandes en raison d'exigences jugées trop contraignantes.",
+          "liens": [
+            {
+              "titre": "Dispositif Jeanbrun : pourquoi la nouvelle niche fiscale de l’immobilier peine à convaincre",
+              "source": "Capital",
+              "url": "https://www.capital.fr/immobilier/dispositif-jeanbrun-pourquoi-la-nouvelle-niche-fiscale-de-limmobilier-peine-a-convaincre-1531146"
+            }
+          ]
         }
       ]
     },
@@ -501,8 +607,8 @@
         "desequilibres",
         "entreprises"
       ],
-      "ou_en_est_on": "L'activité économique française subit le contrecoup des violences urbaines du 17 octobre, poussant le gouvernement à instaurer des prêts à taux zéro jusqu'à 50 000 euros et la prise en charge de l'activité partielle pour les commerçants touchés. La commission des Lois de l'Assemblée nationale a ouvert une commission d'enquête sur les violences et le maintien de l'ordre, alors que plusieurs municipalités ont reconduit les couvre-feux. Parallèlement aux difficultés du commerce de détail illustrées par la demande de redressement judiciaire de GiFi, l'inquiétude monte dans l'industrie avec le recours au chômage partiel chez Stellantis.",
-      "ou_en_est_on_maj_le": "2026-10-21",
+      "ou_en_est_on": "L'activité productive et commerciale fait face à une accumulation de vents contraires. Dans l'industrie, Stellantis a suspendu la production sur deux sites supplémentaires, à Sochaux et Rennes, alimentant les craintes sur les volumes et l'emploi pour 2027. Dans le commerce et les services, fragilisés par les dégradations du 17 octobre et la multiplication des défaillances dans la restauration, les organisations patronales réclament des mesures d'urgence comme l'ouverture dominicale pour amortir les pertes.",
+      "ou_en_est_on_maj_le": "2026-10-22",
       "evenements": [
         {
           "date": "2026-10-17",
@@ -678,6 +784,37 @@
               "url": "https://www.bfmtv.com/economie/video-remboursez-nous-cette-commercante-dont-quatre-boutiques-ont-ete-pillees-le-17-octobre-en-appel-a-l-etat_VN-202610200709.html"
             }
           ]
+        },
+        {
+          "date": "2026-10-22",
+          "resume": "Stellantis met à l'arrêt pour dix jours ses sites de Sochaux et Rennes, pendant que le Medef demande l'ouverture des commerces le dimanche après les dégradations du 17 octobre.",
+          "liens": [
+            {
+              "titre": "Quatre usines de Stellantis à l’arrêt, l’inquiétude monte pour 2027",
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/economie/article/2026/10/21/quatre-usines-de-stellantis-a-l-arret-l-inquietude-monte-pour-2027_6798303_3234.html"
+            },
+            {
+              "titre": "À Paris, le Medef réclame l’ouverture des commerces le dimanche pour «compenser les pertes» du 17 octobre",
+              "source": "Le Figaro",
+              "url": "https://www.lefigaro.fr/conso/a-paris-le-medef-reclame-l-ouverture-des-commerces-le-dimanche-pour-compenser-les-pertes-du-17-octobre-20261021"
+            },
+            {
+              "titre": "Violences du 17 octobre : derrière les pillages et les dégradations, ces coûts cachés qui menacent de peser durablement sur l’économie française",
+              "source": "Le Figaro",
+              "url": "https://www.lefigaro.fr/conjoncture/violences-du-17-octobre-derriere-les-pillages-et-les-degradations-ces-couts-caches-qui-menacent-de-peser-durablement-sur-l-economie-francaise-20261021"
+            },
+            {
+              "titre": "Restaurants : les nouveaux patrons face au défi de la rentabilité",
+              "source": "franceinfo",
+              "url": "https://www.franceinfo.fr/economie/emploi/metiers/restauration-hotellerie-sports-loisirs/restaurants-les-nouveaux-patrons-face-au-defi-de-la-rentabilite_8248018.html#xtor=RSS-3-%5Bgeneral%5D"
+            },
+            {
+              "titre": "\"L'idée, c'était d'aider des artisans dans un monde qui est assez compliqué\" : les réseaux sociaux, la nouvelle recette pour sauver les restaurants en perte de vitesse ?",
+              "source": "franceinfo",
+              "url": "https://www.franceinfo.fr/economie/emploi/metiers/restauration-hotellerie-sports-loisirs/l-idee-c-etait-d-aider-des-artisans-dans-un-monde-qui-est-assez-complique-les-reseaux-sociaux-la-nouvelle-recette-pour-sauver-les-restaurants-en-perte-de-vitesse_8247991.html#xtor=RSS-3-%5Bgeneral%5D"
+            }
+          ]
         }
       ]
     },
@@ -782,6 +919,22 @@
               "titre": "Au Chili, les data centers, portés par le boom de l’IA, encerclent Santiago",
               "source": "Le Monde",
               "url": "https://www.lemonde.fr/economie/article/2026/10/20/au-chili-les-data-centers-portes-par-le-boom-de-l-ia-encerclent-santiago_6797911_3234.html"
+            }
+          ]
+        },
+        {
+          "date": "2026-10-22",
+          "resume": "Airbus Defence & Space signe un partenariat pour créer un service souverain de traitement d'images satellites par IA en Allemagne, tandis que les promesses de gains de productivité liés à l'IA font l'objet de doutes académiques.",
+          "liens": [
+            {
+              "titre": "Allemagne : Airbus s’associe à IBM, LiveEO et IABG pour un traitement d’images satellites par IA",
+              "source": "La Tribune",
+              "url": "https://air-cosmos.latribune.fr/article/espace/23567972736355/allemagne-airbus-s-associe-a-ibm-liveeo-et-iabg-pour-un-traitement-d-images-satellites-par-ia"
+            },
+            {
+              "titre": "« L’IA pourrait freiner la croissance économique de plusieurs façons »",
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/idees/article/2026/10/21/l-ia-pourrait-freiner-la-croissance-economique-de-plusieurs-facons_6798275_3232.html"
             }
           ]
         }

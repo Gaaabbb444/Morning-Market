@@ -1,6 +1,6 @@
 {
   "version_schema": 1,
-  "mis_a_jour_le": "2026-10-21T10:54:15+02:00",
+  "mis_a_jour_le": "2026-10-22T06:31:55+02:00",
   "indicateurs": [
     {
       "id": "cac40",
@@ -13,10 +13,10 @@
       "source_url": "https://fr.finance.yahoo.com/quote/%5EFCHI/",
       "derniere_valeur": {
         "periode": "2026-10-21",
-        "valeur": 7871.29
+        "valeur": 7921.68
       },
       "variation": {
-        "valeur": 0.42,
+        "valeur": 1.06,
         "type": "pourcent",
         "periode_reference": "2026-10-20"
       },
@@ -299,11 +299,11 @@
         ],
         [
           "2026-10-21",
-          7871.29
+          7921.68
         ]
       ],
       "etat": "ok",
-      "dernier_succes": "2026-10-21T10:54:10+02:00"
+      "dernier_succes": "2026-10-22T06:31:50+02:00"
     },
     {
       "id": "eurostoxx50",
@@ -316,10 +316,10 @@
       "source_url": "https://fr.finance.yahoo.com/quote/%5ESTOXX50E/",
       "derniere_valeur": {
         "periode": "2026-10-21",
-        "valeur": 6144.47
+        "valeur": 6207.52
       },
       "variation": {
-        "valeur": 0.37,
+        "valeur": 1.4,
         "type": "pourcent",
         "periode_reference": "2026-10-20"
       },
@@ -602,11 +602,11 @@
         ],
         [
           "2026-10-21",
-          6144.47
+          6207.52
         ]
       ],
       "etat": "ok",
-      "dernier_succes": "2026-10-21T10:54:10+02:00"
+      "dernier_succes": "2026-10-22T06:31:50+02:00"
     },
     {
       "id": "sp500",
@@ -618,13 +618,13 @@
       "source": "S&P, via Yahoo Finance",
       "source_url": "https://fr.finance.yahoo.com/quote/%5EGSPC/",
       "derniere_valeur": {
-        "periode": "2026-10-20",
-        "valeur": 7712.57
+        "periode": "2026-10-21",
+        "valeur": 7757.17
       },
       "variation": {
-        "valeur": 0.28,
+        "valeur": 0.58,
         "type": "pourcent",
-        "periode_reference": "2026-10-19"
+        "periode_reference": "2026-10-20"
       },
       "historique": [
         [
@@ -894,10 +894,14 @@
         [
           "2026-10-20",
           7712.57
+        ],
+        [
+          "2026-10-21",
+          7757.17
         ]
       ],
       "etat": "ok",
-      "dernier_succes": "2026-10-21T10:54:11+02:00"
+      "dernier_succes": "2026-10-22T06:31:51+02:00"
     },
     {
       "id": "brent",
@@ -909,13 +913,13 @@
       "source": "ICE, via Yahoo Finance",
       "source_url": "https://fr.finance.yahoo.com/quote/BZ%3DF/",
       "derniere_valeur": {
-        "periode": "2026-10-21",
-        "valeur": 110.1
+        "periode": "2026-10-22",
+        "valeur": 110.9
       },
       "variation": {
-        "valeur": 1.2,
+        "valeur": 1.91,
         "type": "pourcent",
-        "periode_reference": "2026-10-20"
+        "periode_reference": "2026-10-21"
       },
       "historique": [
         [
@@ -1188,11 +1192,15 @@
         ],
         [
           "2026-10-21",
-          110.1
+          108.82
+        ],
+        [
+          "2026-10-22",
+          110.9
         ]
       ],
       "etat": "ok",
-      "dernier_succes": "2026-10-21T10:54:11+02:00"
+      "dernier_succes": "2026-10-22T06:31:51+02:00"
     },
     {
       "id": "or",
@@ -1204,13 +1212,13 @@
       "source": "COMEX, via Yahoo Finance",
       "source_url": "https://fr.finance.yahoo.com/quote/GC%3DF/",
       "derniere_valeur": {
-        "periode": "2026-10-21",
-        "valeur": 4140.9
+        "periode": "2026-10-22",
+        "valeur": 4105.2
       },
       "variation": {
-        "valeur": -0.04,
+        "valeur": -1.08,
         "type": "pourcent",
-        "periode_reference": "2026-10-20"
+        "periode_reference": "2026-10-21"
       },
       "historique": [
         [
@@ -1483,11 +1491,15 @@
         ],
         [
           "2026-10-21",
-          4140.9
+          4150.0
+        ],
+        [
+          "2026-10-22",
+          4105.2
         ]
       ],
       "etat": "ok",
-      "dernier_succes": "2026-10-21T10:54:11+02:00"
+      "dernier_succes": "2026-10-22T06:31:51+02:00"
     },
     {
       "id": "eur-usd",
@@ -1499,13 +1511,13 @@
       "source": "BCE, taux de référence",
       "source_url": "https://data.ecb.europa.eu/data/datasets/EXR/EXR.D.USD.EUR.SP00.A",
       "derniere_valeur": {
-        "periode": "2026-10-20",
-        "valeur": 1.1215
+        "periode": "2026-10-21",
+        "valeur": 1.1234
       },
       "variation": {
-        "valeur": -0.09,
+        "valeur": 0.17,
         "type": "pourcent",
-        "periode_reference": "2026-10-19"
+        "periode_reference": "2026-10-20"
       },
       "historique": [
         [
@@ -1875,10 +1887,14 @@
         [
           "2026-10-20",
           1.1215
+        ],
+        [
+          "2026-10-21",
+          1.1234
         ]
       ],
       "etat": "ok",
-      "dernier_succes": "2026-10-21T10:54:12+02:00"
+      "dernier_succes": "2026-10-22T06:31:52+02:00"
     },
     {
       "id": "taux-depot-bce",
@@ -1890,13 +1906,13 @@
       "source": "BCE",
       "source_url": "https://data.ecb.europa.eu/data/datasets/FM/FM.D.U2.EUR.4F.KR.DFR.LEV",
       "derniere_valeur": {
-        "periode": "2026-10-21",
+        "periode": "2026-10-22",
         "valeur": 2.5
       },
       "variation": {
         "valeur": 0.0,
         "type": "points",
-        "periode_reference": "2026-10-20"
+        "periode_reference": "2026-10-21"
       },
       "historique": [
         [
@@ -2274,10 +2290,14 @@
         [
           "2026-10-21",
           2.5
+        ],
+        [
+          "2026-10-22",
+          2.5
         ]
       ],
       "etat": "ok",
-      "dernier_succes": "2026-10-21T10:54:12+02:00"
+      "dernier_succes": "2026-10-22T06:31:53+02:00"
     },
     {
       "id": "taux-10-ans-france",
@@ -2444,7 +2464,7 @@
         ]
       ],
       "etat": "ok",
-      "dernier_succes": "2026-10-21T10:54:14+02:00"
+      "dernier_succes": "2026-10-22T06:31:54+02:00"
     },
     {
       "id": "inflation-france",
@@ -2647,7 +2667,7 @@
         ]
       ],
       "etat": "ok",
-      "dernier_succes": "2026-10-21T10:54:14+02:00"
+      "dernier_succes": "2026-10-22T06:31:54+02:00"
     },
     {
       "id": "inflation-zone-euro",
@@ -2850,7 +2870,7 @@
         ]
       ],
       "etat": "ok",
-      "dernier_succes": "2026-10-21T10:54:14+02:00"
+      "dernier_succes": "2026-10-22T06:31:55+02:00"
     },
     {
       "id": "chomage-france",
@@ -3049,7 +3069,7 @@
         ]
       ],
       "etat": "ok",
-      "dernier_succes": "2026-10-21T10:54:15+02:00"
+      "dernier_succes": "2026-10-22T06:31:55+02:00"
     },
     {
       "id": "pib-france",
@@ -3160,7 +3180,7 @@
         ]
       ],
       "etat": "ok",
-      "dernier_succes": "2026-10-21T10:54:15+02:00"
+      "dernier_succes": "2026-10-22T06:31:55+02:00"
     }
   ]
 }
