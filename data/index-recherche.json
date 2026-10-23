@@ -1,6 +1,6 @@
 {
   "version_schema": 1,
-  "mis_a_jour_le": "2026-10-23T06:33:10+02:00",
+  "mis_a_jour_le": "2026-10-23T10:57:24+02:00",
   "entrees": [
     {
       "d": "2026-10-23",
@@ -40,12 +40,12 @@
     },
     {
       "d": "2026-10-23",
-      "i": "30e38b837e09",
-      "t": "«De nombreuses tâches administratives peuvent être remplacées» : dans les banques, les réductions de postes liées à l’IA s’intensifient",
-      "r": "La banque britannique Barclays a annoncé la suppression de 5 000 emplois, soit 5 % de ses effectifs, en raison du déploiement de l'intelligence artificielle pour remplacer des tâches administratives, tandis que HSBC prépare également des coupes.",
-      "c": "entreprises",
+      "i": "172c63158dd5",
+      "t": "Du «spread» à l’«effet boule de neige», ces cinq rouages derrière la très dangereuse spirale de la dette française",
+      "r": "Le Figaro a identifié plusieurs signaux d’alerte pour les finances publiques françaises, soulignant les risques de détérioration de la soutenabilité de la dette.",
+      "c": "desequilibres",
       "s": "Le Figaro",
-      "f": "intelligence-artificielle"
+      "f": "dette-marches"
     },
     {
       "d": "2026-10-23",
@@ -85,6 +85,15 @@
     },
     {
       "d": "2026-10-23",
+      "i": "25fc06c06c1e",
+      "t": "Au cœur de la raffinerie de Feyzin, à plein régime pour produire gazole et kérosène",
+      "r": "Face aux tensions sur les prix des carburants, la raffinerie TotalEnergies de Feyzin a augmenté de 5% ses rendements sur le gazole et le kérosène.",
+      "c": "croissance",
+      "s": "La Tribune",
+      "f": "choc-petrolier-ormuz"
+    },
+    {
+      "d": "2026-10-23",
       "i": "30ac78d02f20",
       "t": "Guerre en Ukraine : le Kremlin se dit prêt à relancer les négociations trilatérales avec Kiev et Washington",
       "r": "Le Kremlin s'est dit prêt à relancer les négociations trilatérales avec Kiev et Washington, après des déclarations du président ukrainien Volodymyr Zelensky.",
@@ -118,6 +127,15 @@
       "c": "mondialisation",
       "s": "The Guardian",
       "f": "choc-petrolier-ormuz"
+    },
+    {
+      "d": "2026-10-23",
+      "i": "103635de7d3d",
+      "t": "Face aux conflits commerciaux, les entreprises relocalisent leur R&D",
+      "r": "Face aux tensions commerciales et au protectionnisme, les entreprises mondiales réorientent leurs stratégies de R&D vers leur pays d'origine.",
+      "c": "mondialisation",
+      "s": "La Tribune",
+      "f": null
     },
     {
       "d": "2026-10-23",
@@ -157,6 +175,15 @@
     },
     {
       "d": "2026-10-23",
+      "i": "e6d7d9e2e43c",
+      "t": "Le pétrole atteint un plus haut de cinq mois alors que les marchés mondiaux vacillent face aux craintes liées à l'IA ; recul des ventes au détail en Grande-Bretagne",
+      "r": "Les marchés boursiers européens affichent des replis modérés tandis que les cours du pétrole progressent et que les ventes au détail britanniques diminuent.",
+      "c": "finance",
+      "s": "The Guardian",
+      "f": null
+    },
+    {
+      "d": "2026-10-23",
       "i": "4803715bb4cf",
       "t": "La dette française sous Sarkozy, Hollande et Macron : récit de quinze ans de dérapage incontrôlé",
       "r": "La dette publique française s'est accrue de manière continue depuis la perte du triple A en 2012, plaçant le pays face à une crise financière.",
@@ -193,6 +220,15 @@
     },
     {
       "d": "2026-10-23",
+      "i": "a44b09675e29",
+      "t": "\"On met les entreprises dans la nasse\": le patron du Medef craint une hausse du Smic qui s'ajouterait aux suppressions d'allègements de cotisations prévues dans le budget 2027",
+      "r": "Le Medef critique une possible hausse du Smic qui s'ajouterait à la suppression d'allègements de cotisations prévue dans le budget.",
+      "c": "desequilibres",
+      "s": "BFM Business",
+      "f": "budget-2027"
+    },
+    {
+      "d": "2026-10-23",
       "i": "9c53e26b222a",
       "t": "Europe : il faut savoir aussi donner raison à l’Allemagne",
       "r": "Certains observateurs invitent à réévaluer positivement les choix stratégiques de l'Allemagne face aux critiques récurrentes de la classe politique française.",
@@ -225,6 +261,15 @@
       "r": "",
       "c": "ue",
       "s": "Les Echos",
+      "f": null
+    },
+    {
+      "d": "2026-10-23",
+      "i": "028659998935",
+      "t": "Le programme de mobilité des jeunes pourrait être retardé pour garantir le succès du sommet Royaume-Uni-UE",
+      "r": "Les négociations post-Brexit entre l'UE et le Royaume-Uni concernant les quotas de visas et les frais universitaires font face à des points de friction.",
+      "c": "ue",
+      "s": "The Guardian",
       "f": null
     },
     {
@@ -265,6 +310,15 @@
     },
     {
       "d": "2026-10-23",
+      "i": "68352fff2bf1",
+      "t": "L'Ukraine lui a commandé 16 avions Gripen, l'Europe se réarme... Le suédois Saab triple ses commandes et engrange les milliards",
+      "r": "Le géant suédois de l'armement Saab triple ses commandes et publie des résultats supérieurs aux attentes, porté par un contrat avec l'Ukraine pour des avions Gripen.",
+      "c": "entreprises",
+      "s": "BFM Business",
+      "f": null
+    },
+    {
+      "d": "2026-10-23",
       "i": "acf54c5d60ab",
       "t": "Epargnants et actionnaires de Tudigo, premières victimes de sa liquidation",
       "r": "Le tribunal de commerce de Bordeaux a rejeté les offres de reprise de la plateforme de crowdfunding Tudigo, entraînant la perte du capital pour ses actionnaires.",
@@ -298,6 +352,15 @@
       "c": "epargne",
       "s": "Le Monde",
       "f": null
+    },
+    {
+      "d": "2026-10-23",
+      "i": "818be5d6c289",
+      "t": "Assurance-vie au Luxembourg : accessible dès 50 000 euros, ce qu’elle protège vraiment et ce qu’elle coûte",
+      "r": "L'assurance-vie luxembourgeoise s'ouvre à des montants plus faibles, attirant des épargnants fortunés cherchant à protéger leur capital face à l'instabilité budgétaire française.",
+      "c": "epargne",
+      "s": "Capital",
+      "f": "fiscalite-epargne-patrimoine"
     },
     {
       "d": "2026-10-22",

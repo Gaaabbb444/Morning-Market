@@ -1,6 +1,6 @@
 {
   "version_schema": 1,
-  "mis_a_jour_le": "2026-10-23T06:33:39+02:00",
+  "mis_a_jour_le": "2026-10-23T10:57:42+02:00",
   "fils": [
     {
       "id": "budget-2027",
@@ -11,7 +11,7 @@
       "categories": [
         "desequilibres"
       ],
-      "ou_en_est_on": "L'examen des textes budgétaires pour 2027 reste soumis à de fortes incertitudes financières et politiques. Les syndicats et le patronat dénoncent vivement la volonté du gouvernement de prélever 2 milliards d'euros dans les caisses de l'Unédic pour équilibrer les comptes. Côté recettes, le rendement de la taxe sur les holdings s'annonce nettement inférieur aux prévisions initiales après diverses retouches parlementaires. Ces écueils compliquent la trajectoire de réduction des déficits alors que la pression des marchés s'accentue.",
+      "ou_en_est_on": "L'examen du budget 2027 fait l'objet de vives tensions sur le pouvoir d'achat et la fiscalité des entreprises. Le gouvernement envisage une revalorisation du Smic de 15 euros, jugée insuffisante par la CFDT qui exige 100 euros net, tandis que le Medef alerte sur les menaces pesant sur la rentabilité des entreprises en raison du coût du travail et de la suppression d'allègements de charges. En parallèle, un contre-budget porté par La France insoumise remet en cause les coupes budgétaires, et les députés ont rejeté l'instauration d'une taxe sur les produits sucrés.",
       "ou_en_est_on_maj_le": "2026-10-23",
       "evenements": [
         {
@@ -162,7 +162,7 @@
         },
         {
           "date": "2026-10-23",
-          "resume": "Les acteurs sociaux s'opposent fermement au projet de ponction de 2 milliards d'euros sur l'Unédic, tandis que les modifications apportées à la taxe sur les holdings pourraient réduire son rendement bien en deçà du milliard d'euros espéré.",
+          "resume": "Le gouvernement envisage une hausse modeste du Smic de 15 euros, tandis que la CFDT réclame 100 euros et que le Medef dénonce un risque pour les entreprises face à la suppression des allègements de charges. Par ailleurs, un contre-budget est proposé par La France insoumise et un collectif d'économistes, et les députés ont rejeté la taxe sur les produits sucrés.",
           "liens": [
             {
               "titre": "Ponction dans les comptes de l’Unédic : l’Etat « se sert dans le frigo » comme un squatteur, selon les acteurs sociaux",
@@ -173,6 +173,21 @@
               "titre": "Budget : la taxe holding pourrait rapporter dix fois moins que prévu",
               "source": "franceinfo",
               "url": "https://www.franceinfo.fr/economie/impots/budget-la-taxe-holding-pourrait-rapporter-dix-fois-moins-que-prevu_8249581.html#xtor=RSS-3-%5Bgeneral%5D"
+            },
+            {
+              "titre": "\"On met les entreprises dans la nasse\": le patron du Medef craint une hausse du Smic qui s'ajouterait aux suppressions d'allègements de cotisations prévues dans le budget 2027",
+              "source": "BFM Business",
+              "url": "https://www.bfmtv.com/economie/economie-social/france/on-met-les-entreprises-dans-la-nasse-le-patron-du-medef-craint-une-hausse-du-smic-qui-s-ajouterait-aux-suppressions-d-allegements-de-charge-prevues-dans-le-budget-2027_AD-202610230339.html"
+            },
+            {
+              "titre": "Hausse du Smic : le gouvernement propose 15 euros, la CFDT exige 100 euros",
+              "source": "La Tribune",
+              "url": "https://www.latribune.fr/article/economie/24912508200340/hausse-du-smic-le-gouvernement-propose-15-euros-la-cfdt-exige-100-euros"
+            },
+            {
+              "titre": "OPINION. « Remettre de l’ordre dans les comptes publics et préparer l’avenir, c’est possible », par Éric Berr et Aurélie Trouvé",
+              "source": "La Tribune",
+              "url": "https://www.latribune.fr/article/la-tribune-dimanche/opinions/18782027526022/opinion-remettre-de-l-ordre-dans-les-comptes-publics-et-preparer-l-avenir-c-est-possible-par-eric-berr-et-aurelie-trouve"
             }
           ]
         }
@@ -188,7 +203,7 @@
         "desequilibres",
         "finance"
       ],
-      "ou_en_est_on": "La défiance envers la dette française franchit un palier historique, le rendement à dix ans de l'État ayant dépassé le seuil de 5 % pour la première fois depuis juillet 2002. Bien que le Trésor continue de trouver des acquéreurs selon Morgan Stanley, l'enlisement budgétaire alimente les interrogations sur une éventuelle intervention de la Banque centrale européenne pour contenir l'écart de taux. Les investisseurs attendent en outre avec inquiétude la décision imminente de l'agence Moody's concernant la note souveraine tricolore.",
+      "ou_en_est_on": "La situation de la dette française suscite de vives inquiétudes sur les marchés financiers, avec un taux à dix ans qui a dépassé le seuil de 5 %. Les analyses soulignent les risques liés au spread et à l'effet boule de neige de la dette. Cette instabilité s'inscrit dans un contexte de concurrence mondiale accrue pour attirer les capitaux, alors que les investisseurs guettent les décisions des agences de notation.",
       "ou_en_est_on_maj_le": "2026-10-23",
       "evenements": [
         {
@@ -287,7 +302,7 @@
         },
         {
           "date": "2026-10-23",
-          "resume": "Le taux d'emprunt à dix ans de la France a dépassé les 5 % pour la première fois depuis 2002, attisant les craintes d'une crise financière alors que Moody's s'apprête à rendre son verdict sur la notation souveraine.",
+          "resume": "Le Figaro analyse les notions de spread et d'effet boule de neige pour décrypter la spirale de la dette française, tandis que la France fait face à une concurrence accrue pour attirer les capitaux mondiaux.",
           "liens": [
             {
               "titre": "Taux d’intérêt au-delà des 5 % : une hausse qui sanctionne un débat budgétaire enlisé",
@@ -328,7 +343,7 @@
         "mondialisation",
         "desequilibres"
       ],
-      "ou_en_est_on": "Les cours mondiaux du pétrole ont bondi à leur niveau le plus élevé en cinq mois après des attaques ayant visé des installations en Arabie saoudite et plusieurs navires près du détroit d'Ormuz. Ce regain de tension sur les approvisionnements énergétiques fragilise à nouveau les économies du continent européen. Face à la flambée des cours du brut et du gaz, plusieurs pays du sud de l'Europe réclament à Bruxelles des assouplissements sur leurs contraintes budgétaires.",
+      "ou_en_est_on": "Les tensions géopolitiques autour du détroit d'Ormuz continuent de peser sur les approvisionnements énergétiques et font planer le risque d'une hausse durable des coûts pour l'économie européenne. Face à ces tensions sur les prix des carburants, la raffinerie TotalEnergies de Feyzin a accru ses rendements sur le gazole et le kérosène. Des discussions diplomatiques internationales sont par ailleurs menées pour traiter la sécurité des flux énergétiques.",
       "ou_en_est_on_maj_le": "2026-10-23",
       "evenements": [
         {
@@ -393,7 +408,7 @@
         },
         {
           "date": "2026-10-23",
-          "resume": "Les cours du pétrole ont grimpé à un plus haut de cinq mois après des attaques contre des navires près du détroit d'Ormuz et en Arabie saoudite, ravivant les demandes de flexibilité budgétaire au sein de l'Union européenne.",
+          "resume": "Le ministre français des Affaires étrangères participe à une réunion à Istanbul pour aborder notamment la situation dans le détroit d'Ormuz, et la raffinerie TotalEnergies de Feyzin augmente ses rendements sur le gazole et le kérosène.",
           "liens": [
             {
               "titre": "Oil prices jump to five-month high as attacks threaten global supply",
@@ -404,6 +419,16 @@
               "titre": "Crise énergétique : l’Europe mieux préparée qu’en 2022, mais toujours vulnérable",
               "source": "L'Opinion",
               "url": "https://www.lopinion.fr/economie/crise-energetique-leurope-mieux-preparee-quen-2022-mais-toujours-vulnerable"
+            },
+            {
+              "titre": "Renforcer la coopération : les enjeux du déplacement de Jean-Noël Barrot en Turquie et en Bulgarie",
+              "source": "La Tribune",
+              "url": "https://www.latribune.fr/article/economie/16067328359581/renforcer-la-cooperation-les-enjeux-du-deplacement-de-jean-noel-barrot-en-turquie-et-en-bulgarie"
+            },
+            {
+              "titre": "Au cœur de la raffinerie de Feyzin, à plein régime pour produire gazole et kérosène",
+              "source": "La Tribune",
+              "url": "https://www.latribune.fr/article/entreprises-finance/energie-environnement/50245655109028/au-coeur-de-la-raffinerie-de-feyzin-a-plein-regime-pour-produire-gazole-et-kerosene"
             }
           ]
         }
@@ -445,7 +470,7 @@
         "mondialisation",
         "ue"
       ],
-      "ou_en_est_on": "La perspective de négociations diplomatiques réémerge avec l'ouverture affichée par Moscou à des pourparlers trilatéraux réunissant l'Ukraine, les États-Unis et la Russie, proposition jugée recevable par le président Volodymyr Zelensky. Ce canal diplomatique potentiel s'ouvre alors que les États-Unis ont récemment assoupli leurs sanctions sur le secteur pétrolier russe pour calmer les prix des carburants. Les livraisons d'armements et le soutien financier des Européens restent néanmoins au centre des enjeux sur le terrain.",
+      "ou_en_est_on": "Les équilibres géopolitiques et militaires autour du conflit en Ukraine évoluent au rythme des discussions diplomatiques et des rapports de force industriels. Alors que le Kremlin s'est déclaré ouvert à des pourparlers trilatéraux, la question des approvisionnements énergétiques et de la dépendance technologique de l'Europe vis-à-vis des États-Unis, illustrée par le rôle des infrastructures satellitaires, reste centrale dans le dossier.",
       "ou_en_est_on_maj_le": "2026-10-23",
       "evenements": [
         {
@@ -488,12 +513,22 @@
         },
         {
           "date": "2026-10-23",
-          "resume": "Le Kremlin s'est déclaré ouvert à la reprise de pourparlers trilatéraux avec Kiev et Washington, une option également soutenue par le président ukrainien Volodymyr Zelensky.",
+          "resume": "Donald Trump affirme que les relations avec Vladimir Poutine ont évolué autour du pétrole, et indique qu'Elon Musk a rétabli Starlink en Ukraine, ravivant les inquiétudes sur la dépendance technologique européenne.",
           "liens": [
             {
               "titre": "Guerre en Ukraine : le Kremlin se dit prêt à relancer les négociations trilatérales avec Kiev et Washington",
               "source": "Toute l'Europe",
               "url": "https://www.touteleurope.eu/l-ue-dans-le-monde/guerre-en-ukraine-le-kremlin-se-dit-pret-a-relancer-les-negociations-trilaterales-avec-kiev-et-washington/"
+            },
+            {
+              "titre": "Comment Vladimir Poutine a réussi à \"retourner\" Donald Trump",
+              "source": "franceinfo",
+              "url": "https://www.franceinfo.fr/replay-radio/d-un-monde-a-l-autre/comment-vladimir-poutine-a-reussi-a-retourner-donald-trump_8229241.html#xtor=RSS-3-%5Bgeneral%5D"
+            },
+            {
+              "titre": "\"Ce qui compte, c’est qu’il l’a relancé\": Donald Trump affirme qu’Elon Musk a rétabli Starlink en Ukraine, sur fond de dépendance européenne aux satellites américains",
+              "source": "BFM Business",
+              "url": "https://www.bfmtv.com/economie/international/ce-qui-compte-c-est-qu-il-l-a-relance-donald-trump-affirme-qu-elon-musk-a-retabli-starlink-en-ukraine-sur-fond-de-dependance-europeenne-aux-satellites-americains_AN-202610230297.html"
             }
           ]
         }
@@ -638,7 +673,7 @@
       "categories": [
         "epargne"
       ],
-      "ou_en_est_on": "Le débat sur la fiscalité du patrimoine s'enrichit de nouvelles propositions de taxation ciblée sur les plus hauts revenus et patrimoines. L'économiste Thomas Piketty a ainsi soumis l'idée d'une surtaxe de 5 % couplée à un prélèvement exceptionnel de 50 % sur la progression des fortunes supérieures à 100 millions d'euros enregistrée sur la dernière décennie. Ces pistes interviennent alors que les parlementaires continuent de débattre du régime des donations, de l'apport-cession et de l'assurance-vie.",
+      "ou_en_est_on": "Le débat sur la fiscalité du patrimoine se combine avec une recherche accrue de protection par les épargnants fortunés face aux incertitudes budgétaires françaises. Alors que des propositions de surtaxes sur les très hauts patrimoines sont formulées par des économistes, l'assurance-vie luxembourgeoise élargit son accessibilité à partir de 50 000 euros pour répondre à cette demande de sécurisation des actifs.",
       "ou_en_est_on_maj_le": "2026-10-23",
       "evenements": [
         {
@@ -670,12 +705,17 @@
         },
         {
           "date": "2026-10-23",
-          "resume": "L'économiste Thomas Piketty propose une imposition de 5 % sur les hauts patrimoines ainsi qu'une taxe de 50 % sur les enrichissements de plus de 100 millions d'euros réalisés entre 2017 et 2027.",
+          "resume": "L'assurance-vie luxembourgeoise abaisse son seuil d'accès à 50 000 euros, attirant des épargnants cherchant à protéger leur patrimoine face à l'instabilité budgétaire.",
           "liens": [
             {
               "titre": "800 milliards d’euros d’impôts : la surenchère fiscale de Thomas Piketty pour sortir de la crise",
               "source": "L'Opinion",
               "url": "https://www.lopinion.fr/economie/800-milliards-deuros-disf-la-surenchere-fiscale-de-thomas-piketty-pour-sortir-de-la-crise"
+            },
+            {
+              "titre": "Assurance-vie au Luxembourg : accessible dès 50 000 euros, ce qu’elle protège vraiment et ce qu’elle coûte",
+              "source": "Capital",
+              "url": "https://www.capital.fr/votre-argent/assurance-vie-au-luxembourg-accessible-des-50-000-euros-ce-quelle-protege-vraiment-et-ce-quelle-coute-1531195"
             }
           ]
         }
@@ -692,8 +732,8 @@
         "desequilibres",
         "entreprises"
       ],
-      "ou_en_est_on": "L'économie française subit des signaux conjoncturels divergents dans un contexte assombri par les mouvements sociaux et le coût de l'énergie. Selon l'Insee, le climat des affaires d'octobre 2026 s'est dégradé dans le bâtiment et le commerce de détail, bien qu'il progresse dans l'industrie où les intentions d'investissement augmentent légèrement. En parallèle, les commerçants doivent anticiper de nouvelles journées de mobilisation sociale après les dégradations subies, ce qui alimente les craintes d'un freinage accru de la croissance.",
-      "ou_en_est_on_maj_le": "2026-10-22",
+      "ou_en_est_on": "L'économie française subit des tensions sociales et conjoncturelles marquées par des appels syndicaux à des hausses de salaires significatives et des critiques patronales sur le climat d'insécurité. Alors que les indicateurs d'activité affichent des trajectoires contrastées selon les secteurs, les organisations professionnelles demandent des mesures renforcées de protection des commerces et des personnes à l'approche des nouvelles journées de mobilisation.",
+      "ou_en_est_on_maj_le": "2026-10-23",
       "evenements": [
         {
           "date": "2026-10-17",
@@ -903,12 +943,22 @@
         },
         {
           "date": "2026-10-23",
-          "resume": "L'ancien dirigeant industriel Louis Gallois met en garde contre les répercussions de la situation économique sur l'investissement productif et déplore le retard des entreprises françaises dans l'intelligence artificielle.",
+          "resume": "La CGT réclame une augmentation de 10 % du Smic et critique le niveau des dividendes, tandis que le Medef appelle l'État à protéger les biens et les personnes avant la mobilisation du 24 octobre.",
           "liens": [
             {
               "titre": "Une perte de confiance dans les entreprises françaises ?",
               "source": "BFM Business",
               "url": "https://www.bfmtv.com/economie/video-une-perte-de-confiance-dans-les-entreprises-francaises_VN-202610220858.html"
+            },
+            {
+              "titre": "La CGT demande \"10% d'augmentation du Smic\" et appelle le Medef à \"arrêter le mépris\"",
+              "source": "franceinfo",
+              "url": "https://www.franceinfo.fr/economie/pouvoir-achat/la-cgt-demande-10-d-augmentation-du-smic-et-appelle-le-medef-a-arreter-le-mepris_8250280.html#xtor=RSS-3-%5Bgeneral%5D"
+            },
+            {
+              "titre": "VIDEO. Le président du Medef appelle les entreprises à ne pas \"tomber dans l'auto-défense\" lors de la mobilisation du 24 octobre",
+              "source": "franceinfo",
+              "url": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/le-president-du-medef-appelle-les-entreprises-a-ne-pas-tomber-dans-l-auto-defense-lors-de-la-mobilisation-du-24-octobre_8250193.html#xtor=RSS-3-%5Bgeneral%5D"
             }
           ]
         }

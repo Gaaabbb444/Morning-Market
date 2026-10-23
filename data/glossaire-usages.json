@@ -10,6 +10,13 @@
         "contexte": "Top 5 du jour"
       },
       {
+        "date": "2026-10-23",
+        "id": "172c63158dd5",
+        "titre": "Du «spread» à l’«effet boule de neige», ces cinq rouages derrière la très dangereuse spirale de la dette française",
+        "source": "Le Figaro",
+        "contexte": "Top 5 du jour"
+      },
+      {
         "date": "2026-10-22",
         "id": "68e90a15b61f",
         "titre": "En France, la menace d'une crise financière se précise",
@@ -55,15 +62,6 @@
         "id": "11308ac14c50",
         "titre": "\"Nous on se pose la question de freiner...\": l'IA génère déjà un tiers de la croissance américaine, presque rien en France: pourquoi les milliards investis dans les data centers ne rapportent pas encore",
         "source": "BFM Business",
-        "contexte": "Top 5 du jour"
-      }
-    ],
-    "investissement-fbcf": [
-      {
-        "date": "2026-10-23",
-        "id": "30e38b837e09",
-        "titre": "«De nombreuses tâches administratives peuvent être remplacées» : dans les banques, les réductions de postes liées à l’IA s’intensifient",
-        "source": "Le Figaro",
         "contexte": "Top 5 du jour"
       }
     ],
