@@ -1,6 +1,6 @@
 {
   "version_schema": 1,
-  "mis_a_jour_le": "2026-10-22T10:56:54+02:00",
+  "mis_a_jour_le": "2026-10-23T06:33:39+02:00",
   "fils": [
     {
       "id": "budget-2027",
@@ -11,8 +11,8 @@
       "categories": [
         "desequilibres"
       ],
-      "ou_en_est_on": "L'examen des textes budgétaires pour 2027 se heurte à de fortes résistances politiques et sociales. À l'Assemblée nationale, les députés ont adopté plusieurs exonérations de cotisations sociales sur le budget de la Sécurité sociale malgré les mises en garde du gouvernement sur les déficits. Parallèlement, l'Unédic dénonce une ponction étatique envisagée de 2 milliards d'euros qui ferait plonger l'assurance-chômage dans le rouge en 2027. Dans ce climat tendu, les syndicats, déçus de leur rencontre à Matignon, appellent à la mobilisation et à la grève générale.",
-      "ou_en_est_on_maj_le": "2026-10-22",
+      "ou_en_est_on": "L'examen des textes budgétaires pour 2027 reste soumis à de fortes incertitudes financières et politiques. Les syndicats et le patronat dénoncent vivement la volonté du gouvernement de prélever 2 milliards d'euros dans les caisses de l'Unédic pour équilibrer les comptes. Côté recettes, le rendement de la taxe sur les holdings s'annonce nettement inférieur aux prévisions initiales après diverses retouches parlementaires. Ces écueils compliquent la trajectoire de réduction des déficits alors que la pression des marchés s'accentue.",
+      "ou_en_est_on_maj_le": "2026-10-23",
       "evenements": [
         {
           "date": "2026-10-17",
@@ -159,6 +159,22 @@
               "url": "https://www.lopinion.fr/economie/pouvoir-dachat-les-syndicats-lancent-un-ultimatum-au-gouvernement"
             }
           ]
+        },
+        {
+          "date": "2026-10-23",
+          "resume": "Les acteurs sociaux s'opposent fermement au projet de ponction de 2 milliards d'euros sur l'Unédic, tandis que les modifications apportées à la taxe sur les holdings pourraient réduire son rendement bien en deçà du milliard d'euros espéré.",
+          "liens": [
+            {
+              "titre": "Ponction dans les comptes de l’Unédic : l’Etat « se sert dans le frigo » comme un squatteur, selon les acteurs sociaux",
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/politique/article/2026/10/22/ponction-dans-les-comptes-de-l-unedic-l-etat-se-sert-dans-le-frigo-comme-un-squatteur-selon-les-acteurs-sociaux_6798601_823448.html"
+            },
+            {
+              "titre": "Budget : la taxe holding pourrait rapporter dix fois moins que prévu",
+              "source": "franceinfo",
+              "url": "https://www.franceinfo.fr/economie/impots/budget-la-taxe-holding-pourrait-rapporter-dix-fois-moins-que-prevu_8249581.html#xtor=RSS-3-%5Bgeneral%5D"
+            }
+          ]
         }
       ]
     },
@@ -172,8 +188,8 @@
         "desequilibres",
         "finance"
       ],
-      "ou_en_est_on": "La crise de confiance des investisseurs envers la dette souveraine française franchit un nouveau seuil symbolique : pour la première fois depuis 2013, la France emprunte à dix ans plus cher que les États-Unis. Alors que les taux d'intérêt demeurent à des niveaux inédits depuis 2002 dans un contexte de tensions politiques et sociales, les marchés et les épargnants s'inquiètent de la menace d'une crise financière. Cette défiance s'accroît également dans l'attente du prochain verdict de notation financière par l'agence Moody's.",
-      "ou_en_est_on_maj_le": "2026-10-22",
+      "ou_en_est_on": "La défiance envers la dette française franchit un palier historique, le rendement à dix ans de l'État ayant dépassé le seuil de 5 % pour la première fois depuis juillet 2002. Bien que le Trésor continue de trouver des acquéreurs selon Morgan Stanley, l'enlisement budgétaire alimente les interrogations sur une éventuelle intervention de la Banque centrale européenne pour contenir l'écart de taux. Les investisseurs attendent en outre avec inquiétude la décision imminente de l'agence Moody's concernant la note souveraine tricolore.",
+      "ou_en_est_on_maj_le": "2026-10-23",
       "evenements": [
         {
           "date": "2026-10-19",
@@ -268,6 +284,37 @@
               "url": "https://www.bfmtv.com/economie/economie-social/finances-publiques/elles-detiennent-deux-fois-plus-d-obligations-souveraines-qu-il-y-a-15-ans-meme-si-elles-sont-mieux-armees-les-banques-europeennes-sont-elles-vraiment-a-l-abri-en-cas-de-nouvelle-crise-de-la-dette_AV-202610220066.html"
             }
           ]
+        },
+        {
+          "date": "2026-10-23",
+          "resume": "Le taux d'emprunt à dix ans de la France a dépassé les 5 % pour la première fois depuis 2002, attisant les craintes d'une crise financière alors que Moody's s'apprête à rendre son verdict sur la notation souveraine.",
+          "liens": [
+            {
+              "titre": "Taux d’intérêt au-delà des 5 % : une hausse qui sanctionne un débat budgétaire enlisé",
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/idees/article/2026/10/22/taux-d-interet-au-dela-des-5-une-hausse-qui-sanctionne-un-debat-budgetaire-enlise_6798598_3232.html"
+            },
+            {
+              "titre": "Qui viendra sauver la France en cas de crise de la dette ?",
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/economie/article/2026/10/23/qui-viendra-sauver-la-france-en-cas-de-crise-de-la-dette_6798902_3234.html"
+            },
+            {
+              "titre": "Dette : pourquoi la note de la France devrait être dégradée par Moody’s",
+              "source": "La Tribune",
+              "url": "https://www.latribune.fr/article/economie/72754331671797/dette-pourquoi-la-note-de-la-france-devrait-etre-degradee-par-moody-s"
+            },
+            {
+              "titre": "Jean-François Ouvrard (Morgan Stanley) : « Même si c’est à un prix plus élevé, la dette française trouve toujours des investisseurs sur le marché »",
+              "source": "La Tribune",
+              "url": "https://www.latribune.fr/article/economie/55463581771236/jean-francois-ouvrard-morgan-stanley-meme-si-c-est-a-un-prix-plus-eleve-la-dette-francaise-trouve-toujours-des-investisseurs-sur-le-marche"
+            },
+            {
+              "titre": "French borrowing costs overtake US amid budget turmoil",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/world/2026/oct/22/french-borrowing-costs-overtake-us-amid-budget-turmoil"
+            }
+          ]
         }
       ]
     },
@@ -281,8 +328,8 @@
         "mondialisation",
         "desequilibres"
       ],
-      "ou_en_est_on": "Malgré les fortes perturbations géopolitiques dans le golfe Persique, les flux maritimes de brut montrent une résilience inattendue : les volumes exportés dépassent désormais le niveau observé avant le conflit avec l'Iran, grâce à une réorganisation logistique des armateurs. Toutefois, les négociants doutent de la viabilité à long terme de ce dispositif. En aval, la hausse passée des cours du kérosène continue de peser lourdement sur les secteurs dépendants, notamment le transport aérien européen.",
-      "ou_en_est_on_maj_le": "2026-10-22",
+      "ou_en_est_on": "Les cours mondiaux du pétrole ont bondi à leur niveau le plus élevé en cinq mois après des attaques ayant visé des installations en Arabie saoudite et plusieurs navires près du détroit d'Ormuz. Ce regain de tension sur les approvisionnements énergétiques fragilise à nouveau les économies du continent européen. Face à la flambée des cours du brut et du gaz, plusieurs pays du sud de l'Europe réclament à Bruxelles des assouplissements sur leurs contraintes budgétaires.",
+      "ou_en_est_on_maj_le": "2026-10-23",
       "evenements": [
         {
           "date": "2026-10-17",
@@ -343,6 +390,22 @@
               "url": "https://www.lopinion.fr/international/une-plus-grande-quantite-de-petrole-sort-desormais-du-golfe-persique-quavant-la-guerre-avec-liran"
             }
           ]
+        },
+        {
+          "date": "2026-10-23",
+          "resume": "Les cours du pétrole ont grimpé à un plus haut de cinq mois après des attaques contre des navires près du détroit d'Ormuz et en Arabie saoudite, ravivant les demandes de flexibilité budgétaire au sein de l'Union européenne.",
+          "liens": [
+            {
+              "titre": "Oil prices jump to five-month high as attacks threaten global supply",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/business/2026/oct/22/oil-prices-jump-five-month-high-threats-supply"
+            },
+            {
+              "titre": "Crise énergétique : l’Europe mieux préparée qu’en 2022, mais toujours vulnérable",
+              "source": "L'Opinion",
+              "url": "https://www.lopinion.fr/economie/crise-energetique-leurope-mieux-preparee-quen-2022-mais-toujours-vulnerable"
+            }
+          ]
         }
       ]
     },
@@ -382,8 +445,8 @@
         "mondialisation",
         "ue"
       ],
-      "ou_en_est_on": "La politique américaine vis-à-vis de la Russie connaît une inflexion majeure. Donald Trump a décidé d'exonérer les hydrocarbures russes des sanctions afin d'atténuer la hausse des prix du carburant avant les élections de mi-mandat. Dans ce cadre, Moscou a annoncé des livraisons de 2 millions de barils de diesel sous quinze à vingt jours, bien que les contrats fassent encore l'objet de négociations. Ce rapprochement énergétique continue de susciter de vives inquiétudes quant au maintien du soutien américain à l'Ukraine.",
-      "ou_en_est_on_maj_le": "2026-10-18",
+      "ou_en_est_on": "La perspective de négociations diplomatiques réémerge avec l'ouverture affichée par Moscou à des pourparlers trilatéraux réunissant l'Ukraine, les États-Unis et la Russie, proposition jugée recevable par le président Volodymyr Zelensky. Ce canal diplomatique potentiel s'ouvre alors que les États-Unis ont récemment assoupli leurs sanctions sur le secteur pétrolier russe pour calmer les prix des carburants. Les livraisons d'armements et le soutien financier des Européens restent néanmoins au centre des enjeux sur le terrain.",
+      "ou_en_est_on_maj_le": "2026-10-23",
       "evenements": [
         {
           "date": "2026-10-17",
@@ -420,6 +483,17 @@
               "titre": "La Slovaquie, nouveau pôle européen de production de munitions : « Nous nous appuyons sur l’héritage de nos ancêtres »",
               "source": "Le Monde",
               "url": "https://www.lemonde.fr/economie/article/2026/10/20/la-slovaquie-nouveau-pole-europeen-de-production-de-munitions-nous-nous-appuyons-sur-l-heritage-de-nos-ancetres_6797866_3234.html"
+            }
+          ]
+        },
+        {
+          "date": "2026-10-23",
+          "resume": "Le Kremlin s'est déclaré ouvert à la reprise de pourparlers trilatéraux avec Kiev et Washington, une option également soutenue par le président ukrainien Volodymyr Zelensky.",
+          "liens": [
+            {
+              "titre": "Guerre en Ukraine : le Kremlin se dit prêt à relancer les négociations trilatérales avec Kiev et Washington",
+              "source": "Toute l'Europe",
+              "url": "https://www.touteleurope.eu/l-ue-dans-le-monde/guerre-en-ukraine-le-kremlin-se-dit-pret-a-relancer-les-negociations-trilaterales-avec-kiev-et-washington/"
             }
           ]
         }
@@ -564,8 +638,8 @@
       "categories": [
         "epargne"
       ],
-      "ou_en_est_on": "L'encours de plus de 2 100 milliards d'euros de l'assurance-vie revient au centre des débats budgétaires et politiques. Certains responsables envisagent d'alourdir sa fiscalité pour contribuer à la réduction du déficit public ou financer des investissements d'avenir. De son côté, La France insoumise propose de créer un « livret B » dédié à des investissements ciblés, en prévoyant de réduire l'attractivité des autres produits si nécessaire. Parallèlement, les parlementaires ont validé l'assouplissement du dispositif d'apport-cession.",
-      "ou_en_est_on_maj_le": "2026-10-18",
+      "ou_en_est_on": "Le débat sur la fiscalité du patrimoine s'enrichit de nouvelles propositions de taxation ciblée sur les plus hauts revenus et patrimoines. L'économiste Thomas Piketty a ainsi soumis l'idée d'une surtaxe de 5 % couplée à un prélèvement exceptionnel de 50 % sur la progression des fortunes supérieures à 100 millions d'euros enregistrée sur la dernière décennie. Ces pistes interviennent alors que les parlementaires continuent de débattre du régime des donations, de l'apport-cession et de l'assurance-vie.",
+      "ou_en_est_on_maj_le": "2026-10-23",
       "evenements": [
         {
           "date": "2026-10-17",
@@ -591,6 +665,17 @@
               "titre": "Dispositif Jeanbrun : pourquoi la nouvelle niche fiscale de l’immobilier peine à convaincre",
               "source": "Capital",
               "url": "https://www.capital.fr/immobilier/dispositif-jeanbrun-pourquoi-la-nouvelle-niche-fiscale-de-limmobilier-peine-a-convaincre-1531146"
+            }
+          ]
+        },
+        {
+          "date": "2026-10-23",
+          "resume": "L'économiste Thomas Piketty propose une imposition de 5 % sur les hauts patrimoines ainsi qu'une taxe de 50 % sur les enrichissements de plus de 100 millions d'euros réalisés entre 2017 et 2027.",
+          "liens": [
+            {
+              "titre": "800 milliards d’euros d’impôts : la surenchère fiscale de Thomas Piketty pour sortir de la crise",
+              "source": "L'Opinion",
+              "url": "https://www.lopinion.fr/economie/800-milliards-deuros-disf-la-surenchere-fiscale-de-thomas-piketty-pour-sortir-de-la-crise"
             }
           ]
         }
@@ -815,6 +900,17 @@
               "url": "https://www.franceinfo.fr/economie/emploi/metiers/restauration-hotellerie-sports-loisirs/l-idee-c-etait-d-aider-des-artisans-dans-un-monde-qui-est-assez-complique-les-reseaux-sociaux-la-nouvelle-recette-pour-sauver-les-restaurants-en-perte-de-vitesse_8247991.html#xtor=RSS-3-%5Bgeneral%5D"
             }
           ]
+        },
+        {
+          "date": "2026-10-23",
+          "resume": "L'ancien dirigeant industriel Louis Gallois met en garde contre les répercussions de la situation économique sur l'investissement productif et déplore le retard des entreprises françaises dans l'intelligence artificielle.",
+          "liens": [
+            {
+              "titre": "Une perte de confiance dans les entreprises françaises ?",
+              "source": "BFM Business",
+              "url": "https://www.bfmtv.com/economie/video-une-perte-de-confiance-dans-les-entreprises-francaises_VN-202610220858.html"
+            }
+          ]
         }
       ]
     },
@@ -829,8 +925,8 @@
         "entreprises",
         "ue"
       ],
-      "ou_en_est_on": "Le déploiement concret de l'intelligence artificielle commence à modifier directement les structures d'emploi, comme l'illustre la suppression annoncée de 5 000 postes chez Barclays. Néanmoins, l'adoption des outils reste confrontée à de lourdes difficultés techniques et d'acceptabilité : Meta subit une fuite de données privées sur son assistant Muse, tandis qu'un consortium d'acteurs de la tech alerte sur les risques de contestation publique contre la construction de centres de données au Royaume-Uni.",
-      "ou_en_est_on_maj_le": "2026-10-22",
+      "ou_en_est_on": "L'impact macroéconomique de l'intelligence artificielle s'accélère à la fois sur l'emploi et sur les modèles économiques sectoriels. Dans le secteur financier, les grandes banques comme Barclays et HSBC planifient d'importantes réductions de postes administratifs grâce aux gains d'automatisation. Dans les industries créatives, l'exemple chinois montre qu'une production massive via l'IA générative abaisse fortement les coûts de fabrication mais comprime la rentabilité. Dans le même temps, les grands acteurs technologiques renforcent leurs investissements pour rivaliser au sommet.",
+      "ou_en_est_on_maj_le": "2026-10-23",
       "evenements": [
         {
           "date": "2026-10-17",
@@ -952,6 +1048,32 @@
               "url": "https://www.lefigaro.fr/societes/avec-l-adoption-de-l-ia-la-banque-britannique-barclays-va-supprimer-environ-5000-emplois-20261022"
             }
           ]
+        },
+        {
+          "date": "2026-10-23",
+          "resume": "Tandis que Barclays et HSBC réduisent leurs effectifs dans le secteur bancaire en s'appuyant sur l'IA, le laboratoire de Meta affirme ses ambitions concurrentielles et l'automatisation en Chine transforme la rentabilité de la production audiovisuelle.",
+          "liens": [
+            {
+              "titre": "«De nombreuses tâches administratives peuvent être remplacées» : dans les banques, les réductions de postes liées à l’IA s’intensifient",
+              "source": "Le Figaro",
+              "url": "https://www.lefigaro.fr/societes/de-nombreuses-taches-administratives-peuvent-etre-remplacees-dans-les-banques-les-reductions-de-postes-liees-a-l-ia-s-intensifient-20261022"
+            },
+            {
+              "titre": "Nouveaux modèles, investissements colossaux… Meta enregistre ses premiers succès dans l’IA sous la houlette d’Alexandr Wang",
+              "source": "Le Figaro",
+              "url": "https://www.lefigaro.fr/secteur/high-tech/nouveaux-modeles-investissements-colossaux-sous-la-houlette-d-alexandr-wang-meta-enregistre-ses-premiers-succes-dans-l-ia-20261022"
+            },
+            {
+              "titre": "En Chine, l’IA produit désormais 90 % des miniséries pour smartphones et fait plonger les revenus des créateurs",
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/economie/article/2026/10/22/en-chine-l-ia-produit-desormais-90-des-miniseries-pour-smartphones-et-fait-plonger-les-revenus-des-createurs_6798594_3234.html"
+            },
+            {
+              "titre": "The Guardian view on AI safety: the push for global regulation must advance | Editorial",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/commentisfree/2026/oct/22/the-guardian-view-on-ai-safety-the-push-for-global-regulation-must-advance"
+            }
+          ]
         }
       ]
     },
@@ -965,8 +1087,8 @@
         "desequilibres",
         "epargne"
       ],
-      "ou_en_est_on": "Le régime des retraites fait l'objet de plusieurs pistes d'économies budgétaires pour 2027. Outre la réforme de la majoration de pension pour les familles de trois enfants, l'hypothèse d'une sous-indexation des pensions est évoquée, ce qui réduirait les montants perçus par de nombreux retraités. Ces projets alimentent le débat sur l'équité des efforts demandés selon le montant des pensions versées.",
-      "ou_en_est_on_maj_le": "2026-10-18",
+      "ou_en_est_on": "Le cadre applicable aux départs en retraite demeure au cœur des affrontements parlementaires et des arbitrages pour 2027. Dans l'examen du PLFSS, les députés ont voté un mécanisme de congé payé visant à rétablir la possibilité d'un départ effectif à 62 ans pour contourner la réforme Borne. En parallèle, les futures modalités du cumul emploi-retraite pour 2027 prévoient un durcissement des conditions avant 67 ans, notamment un plafonnement des revenus et un abattement de la pension au-delà de 7 000 euros.",
+      "ou_en_est_on_maj_le": "2026-10-23",
       "evenements": [
         {
           "date": "2026-10-17",
@@ -976,6 +1098,22 @@
               "titre": "Pension majorée de 10% pour trois enfants, le forfait de 2027 ferait des perdants dès 1 100 euros",
               "source": "Capital",
               "url": "https://www.capital.fr/votre-retraite/pension-majoree-de-10-pour-trois-enfants-le-forfait-de-2027-ferait-des-perdants-des-1-100-euros-1531025"
+            }
+          ]
+        },
+        {
+          "date": "2026-10-23",
+          "resume": "Lors de l'examen du budget de la Sécurité sociale, les députés ont adopté un amendement instaurant un congé payé spécifique pour contourner l'âge de départ à 64 ans, tandis que se précisent les règles encadrant le cumul emploi-retraite dès 2027.",
+          "liens": [
+            {
+              "titre": "PLFSS : les députés votent pour un départ à la retraite à 62 ans",
+              "source": "L'Opinion",
+              "url": "https://www.lopinion.fr/economie/plfss-les-deputes-votent-pour-un-depart-a-la-retraite-a-62-ans"
+            },
+            {
+              "titre": "Cumul emploi-retraite : ce que la réforme de 2027 va vous coûter, selon votre âge",
+              "source": "Capital",
+              "url": "https://www.capital.fr/votre-retraite/cumul-emploi-retraite-ce-que-la-reforme-de-2027-va-vous-couter-selon-votre-age-1531189"
             }
           ]
         }

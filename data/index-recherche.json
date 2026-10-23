@@ -1,7 +1,304 @@
 {
   "version_schema": 1,
-  "mis_a_jour_le": "2026-10-22T10:56:37+02:00",
+  "mis_a_jour_le": "2026-10-23T06:33:10+02:00",
   "entrees": [
+    {
+      "d": "2026-10-23",
+      "i": "7608def25ec1",
+      "t": "Taux d’intérêt au-delà des 5 % : une hausse qui sanctionne un débat budgétaire enlisé",
+      "r": "Le rendement de l'emprunt d'État français à dix ans a franchi le seuil des 5 %, atteignant son plus haut niveau depuis juillet 2002, dans un contexte de fortes divisions parlementaires sur le projet de loi de finances.",
+      "c": "desequilibres",
+      "s": "Le Monde",
+      "f": "dette-marches"
+    },
+    {
+      "d": "2026-10-23",
+      "i": "f742c3911c35",
+      "t": "Les prix du pétrole bondissent à un pic de cinq mois alors que des attaques menacent l'approvisionnement mondial",
+      "r": "Les cours du pétrole ont atteint un plus haut de cinq mois après des attaques contre des navires et des infrastructures pétrolières dans le Golfe et près du détroit d'Ormuz.",
+      "c": "croissance",
+      "s": "The Guardian",
+      "f": "choc-petrolier-ormuz"
+    },
+    {
+      "d": "2026-10-23",
+      "i": "fa684d4ef153",
+      "t": "Dette : pourquoi la note de la France devrait être dégradée par Moody’s",
+      "r": "L'agence de notation américaine Moody's doit se prononcer ce vendredi sur la note de la dette souveraine française, avec une perspective d'abaissement pour s'aligner sur Fitch et S&P Global Ratings.",
+      "c": "desequilibres",
+      "s": "La Tribune",
+      "f": "dette-marches"
+    },
+    {
+      "d": "2026-10-23",
+      "i": "d81b9e74fa94",
+      "t": "Il engloutit des centaines de milliards dans l'IA sans savoir quand (et si) ils rapporteront: Mark Zuckerberg glace les marchés, Meta chute lourdement à Wall Street",
+      "r": "Meta a perdu plus de 134 milliards de dollars de capitalisation boursière après avoir annoncé 140 milliards de dollars d'investissements dans l'intelligence artificielle, suscitant le scepticisme des investisseurs sur leur rentabilité future.",
+      "c": "finance",
+      "s": "BFM Business",
+      "f": null
+    },
+    {
+      "d": "2026-10-23",
+      "i": "30e38b837e09",
+      "t": "«De nombreuses tâches administratives peuvent être remplacées» : dans les banques, les réductions de postes liées à l’IA s’intensifient",
+      "r": "La banque britannique Barclays a annoncé la suppression de 5 000 emplois, soit 5 % de ses effectifs, en raison du déploiement de l'intelligence artificielle pour remplacer des tâches administratives, tandis que HSBC prépare également des coupes.",
+      "c": "entreprises",
+      "s": "Le Figaro",
+      "f": "intelligence-artificielle"
+    },
+    {
+      "d": "2026-10-23",
+      "i": "2098b5faa222",
+      "t": "Crise énergétique : l’Europe mieux préparée qu’en 2022, mais toujours vulnérable",
+      "r": "L'Europe fait face à une crise énergétique liée aux prix du pétrole et du gaz, poussant certains États à réclamer de la souplesse budgétaire.",
+      "c": "croissance",
+      "s": "L'Opinion",
+      "f": "choc-petrolier-ormuz"
+    },
+    {
+      "d": "2026-10-23",
+      "i": "c12003454167",
+      "t": "Nouveaux modèles, investissements colossaux… Meta enregistre ses premiers succès dans l’IA sous la houlette d’Alexandr Wang",
+      "r": "Le laboratoire d'IA de Meta enregistre des succès sous la direction d'Alexandr Wang et ambitionne de rivaliser avec OpenAI et Anthropic.",
+      "c": "croissance",
+      "s": "Le Figaro",
+      "f": "intelligence-artificielle"
+    },
+    {
+      "d": "2026-10-23",
+      "i": "55d9e6209dd7",
+      "t": "Dissuasion : quel parapluie nucléaire en Europe ?",
+      "r": "Face aux menaces géopolitiques et aux remises en cause de l'alliance transatlantique, la France ouvre ses exercices de dissuasion nucléaire à la participation européenne.",
+      "c": "croissance",
+      "s": "Toute l'Europe",
+      "f": null
+    },
+    {
+      "d": "2026-10-23",
+      "i": "264622bcf844",
+      "t": "Prolongation des centrales nucléaires : l’ASNR lance une grande consultation",
+      "r": "L'Autorité de sûreté nucléaire lance une consultation publique sur la prolongation de la durée de vie des réacteurs d'EDF au-delà de 60 ans.",
+      "c": "croissance",
+      "s": "La Tribune",
+      "f": null
+    },
+    {
+      "d": "2026-10-23",
+      "i": "30ac78d02f20",
+      "t": "Guerre en Ukraine : le Kremlin se dit prêt à relancer les négociations trilatérales avec Kiev et Washington",
+      "r": "Le Kremlin s'est dit prêt à relancer les négociations trilatérales avec Kiev et Washington, après des déclarations du président ukrainien Volodymyr Zelensky.",
+      "c": "mondialisation",
+      "s": "Toute l'Europe",
+      "f": "ukraine-sanctions"
+    },
+    {
+      "d": "2026-10-23",
+      "i": "f49a62dd5f7f",
+      "t": "Les géants du luxe douchés par l'absence de reprise de la consommation en Chine",
+      "r": "",
+      "c": "mondialisation",
+      "s": "Les Echos",
+      "f": null
+    },
+    {
+      "d": "2026-10-23",
+      "i": "622a3f7e9be1",
+      "t": "L'un affiche sa proximité avec Trump, l'autre veut aussi bien parler à Washington qu'à Pékin: l'élection présidentielle au Brésil va décider quelle superpuissance étendra son influence en Amérique du Sud",
+      "r": "L'élection présidentielle au Brésil oppose les partisans d'une alliance avec différentes superpuissances, influençant la géopolitique régionale en Amérique du Sud.",
+      "c": "mondialisation",
+      "s": "BFM Business",
+      "f": null
+    },
+    {
+      "d": "2026-10-23",
+      "i": "543863fdee3d",
+      "t": "Travailleurs maritimes et portuaires : comment le conflit au Moyen-Orient vous affecte-t-il ?",
+      "r": "Le conflit au Moyen-Orient continue de perturber le transport maritime dans la région, notamment dans le détroit d'Ormuz.",
+      "c": "mondialisation",
+      "s": "The Guardian",
+      "f": "choc-petrolier-ormuz"
+    },
+    {
+      "d": "2026-10-23",
+      "i": "3bbcdf27334d",
+      "t": "L'ÉDITO ÉCO - Dette française: la Banque centrale européenne peut-elle (et va-t-elle) intervenir pour sauver la France?",
+      "r": "L'envolée du déficit public et la hausse des coûts d'emprunt de la France relancent les interrogations sur une éventuelle intervention de la BCE.",
+      "c": "finance",
+      "s": "BFM Business",
+      "f": "dette-marches"
+    },
+    {
+      "d": "2026-10-23",
+      "i": "c068a38136a1",
+      "t": "Les coûts d'emprunt français dépassent ceux des États-Unis sur fond de turbulences budgétaires",
+      "r": "Les coûts d'emprunt de la France ont continué de progresser, les investisseurs s'inquiétant des difficultés du gouvernement à faire adopter le budget fédéral.",
+      "c": "finance",
+      "s": "The Guardian",
+      "f": "dette-marches"
+    },
+    {
+      "d": "2026-10-23",
+      "i": "60e4809f2407",
+      "t": "Qui viendra sauver la France en cas de crise de la dette ?",
+      "r": "Les taux d'intérêt des obligations françaises dépassant 5 %, la BCE constitue la principale digue face au risque d'une crise budgétaire.",
+      "c": "finance",
+      "s": "Le Monde",
+      "f": "dette-marches"
+    },
+    {
+      "d": "2026-10-23",
+      "i": "76a61c1b1f2e",
+      "t": "Jean-François Ouvrard (Morgan Stanley) : « Même si c’est à un prix plus élevé, la dette française trouve toujours des investisseurs sur le marché »",
+      "r": "Malgré un coût de financement de la dette française dépassant 5 % sur le marché obligataire, les investisseurs continuent d'acheter des titres tricolores.",
+      "c": "finance",
+      "s": "La Tribune",
+      "f": "dette-marches"
+    },
+    {
+      "d": "2026-10-23",
+      "i": "4803715bb4cf",
+      "t": "La dette française sous Sarkozy, Hollande et Macron : récit de quinze ans de dérapage incontrôlé",
+      "r": "La dette publique française s'est accrue de manière continue depuis la perte du triple A en 2012, plaçant le pays face à une crise financière.",
+      "c": "desequilibres",
+      "s": "Le Figaro",
+      "f": "dette-marches"
+    },
+    {
+      "d": "2026-10-23",
+      "i": "b8a65259e4b3",
+      "t": "Dette : quel scénario de restructuration ?",
+      "r": "Face à la situation des finances publiques de l'État, des économistes évoquent des scénarios de restructuration ou de contribution des épargnants.",
+      "c": "desequilibres",
+      "s": "BFM Business",
+      "f": "dette-marches"
+    },
+    {
+      "d": "2026-10-23",
+      "i": "fb5fdd2e22a1",
+      "t": "« Je ne sais pas comment on peut s’en sortir » : l'inévitable cure de rigueur dans un pays inflammable",
+      "r": "Des économistes ont alerté la Commission des finances du Sénat sur la situation des finances publiques, alors que les taux dépassent 5 %.",
+      "c": "desequilibres",
+      "s": "L'Opinion",
+      "f": "dette-marches"
+    },
+    {
+      "d": "2026-10-23",
+      "i": "dfd5c81e67af",
+      "t": "PLFSS : les députés votent pour un départ à la retraite à 62 ans",
+      "r": "Dans le cadre de l'examen du budget de la Sécurité sociale, les députés ont adopté un amendement créant un congé payé spécifique.",
+      "c": "desequilibres",
+      "s": "L'Opinion",
+      "f": "retraites"
+    },
+    {
+      "d": "2026-10-23",
+      "i": "9c53e26b222a",
+      "t": "Europe : il faut savoir aussi donner raison à l’Allemagne",
+      "r": "Certains observateurs invitent à réévaluer positivement les choix stratégiques de l'Allemagne face aux critiques récurrentes de la classe politique française.",
+      "c": "ue",
+      "s": "L'Opinion",
+      "f": null
+    },
+    {
+      "d": "2026-10-23",
+      "i": "31b67652ee24",
+      "t": "Le Groupe BEI accélère sur l'adaptation climatique avec un plan ambitieux de 30 milliards d'euros",
+      "r": "Le Groupe de la Banque européenne d'investissement a dévoilé une deuxième phase de son plan d'adaptation climatique doté de 30 milliards d'euros pour la période 2026-2030.",
+      "c": "ue",
+      "s": "Toute l'Europe",
+      "f": null
+    },
+    {
+      "d": "2026-10-23",
+      "i": "07404d9ea5ed",
+      "t": "Arnaques, annonces frauduleuses… le site de réservation d'hébergements Booking visé par une enquête de la Commission européenne",
+      "r": "La Commission européenne a ouvert une enquête contre la plateforme de réservation Booking pour vérifier la protection des clients contre les annonces frauduleuses.",
+      "c": "ue",
+      "s": "Toute l'Europe",
+      "f": null
+    },
+    {
+      "d": "2026-10-23",
+      "i": "fa73693f9920",
+      "t": "« Le principal défi sera budgétaire » : la Hongrie se lance sur la route de l'euro",
+      "r": "",
+      "c": "ue",
+      "s": "Les Echos",
+      "f": null
+    },
+    {
+      "d": "2026-10-23",
+      "i": "8c1369b4096c",
+      "t": "Le concurrent allemand de BioMérieux racheté pour 10,8 milliards, l'une des plus grosses opérations de l'année dans la santé",
+      "r": "",
+      "c": "entreprises",
+      "s": "Les Echos",
+      "f": null
+    },
+    {
+      "d": "2026-10-23",
+      "i": "b7de6d33eba8",
+      "t": "Un \"marathon\" de 20 mois pour transformer une usine: Airbus réclame moins de contraintes environnementales en France pour ne pas décrocher face à Boeing et Comac",
+      "r": "Airbus demande moins de contraintes environnementales et administratives en France pour accélérer ses cadences de production face à la concurrence.",
+      "c": "entreprises",
+      "s": "BFM Business",
+      "f": null
+    },
+    {
+      "d": "2026-10-23",
+      "i": "379e88a3ab50",
+      "t": "850 avions F-35 : Lockheed Martin finalise son accord avec le Pentagone",
+      "r": "Le Département américain de la défense a finalisé un accord-cadre avec Lockheed Martin pour la livraison de 850 chasseurs furtifs F-35.",
+      "c": "entreprises",
+      "s": "La Tribune",
+      "f": null
+    },
+    {
+      "d": "2026-10-23",
+      "i": "35dc71c65ad8",
+      "t": "Airbus à l’affût pour doper l’A350",
+      "r": "Porté par ses récents succès, le constructeur aéronautique Airbus envisage de lancer une version allongée de l'A350 ainsi qu'une nouvelle ligne d'assemblage.",
+      "c": "entreprises",
+      "s": "La Tribune",
+      "f": null
+    },
+    {
+      "d": "2026-10-23",
+      "i": "acf54c5d60ab",
+      "t": "Epargnants et actionnaires de Tudigo, premières victimes de sa liquidation",
+      "r": "Le tribunal de commerce de Bordeaux a rejeté les offres de reprise de la plateforme de crowdfunding Tudigo, entraînant la perte du capital pour ses actionnaires.",
+      "c": "epargne",
+      "s": "Le Monde",
+      "f": null
+    },
+    {
+      "d": "2026-10-23",
+      "i": "426c412d377e",
+      "t": "Face à la flambée des taux, les régions se tournent vers les financements de la Caisse des Dépôts",
+      "r": "",
+      "c": "epargne",
+      "s": "Les Echos",
+      "f": null
+    },
+    {
+      "d": "2026-10-23",
+      "i": "771f8b81cd83",
+      "t": "Meta conclut un accord avec Mark Zuckerberg pour l'aider à payer sa facture fiscale potentielle en Californie",
+      "r": "Meta a conclu un accord avec son dirigeant Mark Zuckerberg pour l'aider à faire face à un éventuel impôt sur la fortune en Californie.",
+      "c": "epargne",
+      "s": "The Guardian",
+      "f": null
+    },
+    {
+      "d": "2026-10-23",
+      "i": "d4dd4fdd5b60",
+      "t": "Les motifs appelant à la solidarité s’élargissent et alimentent le succès des plateformes de cagnottes",
+      "r": "Le recours croissant des Français aux plateformes de cagnottes en ligne pour divers besoins soulève des questions de sécurité financière.",
+      "c": "epargne",
+      "s": "Le Monde",
+      "f": null
+    },
     {
       "d": "2026-10-22",
       "i": "c2e204903593",
