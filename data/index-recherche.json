@@ -1,6 +1,6 @@
 {
   "version_schema": 1,
-  "mis_a_jour_le": "2026-10-24T06:29:57+02:00",
+  "mis_a_jour_le": "2026-10-24T10:51:05+02:00",
   "entrees": [
     {
       "d": "2026-10-24",
@@ -85,6 +85,15 @@
     },
     {
       "d": "2026-10-24",
+      "i": "fa803fef3ad9",
+      "t": "La France et Emmanuel Macron commencent à se réveiller sur la mobilité autonome",
+      "r": "Le président de la République prévoit de présenter des projets de véhicules autonomes lors du prochain sommet Choose France pour faire face à la concurrence.",
+      "c": "croissance",
+      "s": "Le Figaro",
+      "f": null
+    },
+    {
+      "d": "2026-10-24",
       "i": "cdd198f83a86",
       "t": "Direct-to-Device : vaine contre-attaque européenne face à Starlink ?",
       "r": "Quatre opérateurs européens s'allient dans une proposition commune de service Direct-to-Device, suscitant l'opposition des États-Unis et des risques réglementaires.",
@@ -118,6 +127,15 @@
       "c": "mondialisation",
       "s": "Les Echos",
       "f": null
+    },
+    {
+      "d": "2026-10-24",
+      "i": "7d63dc0c86f4",
+      "t": "« Quiconque perturbe le fonctionnement des marchés doit s'attendre à une réponse » : comment l'Europe va se défendre contre les pratiques commerciales « déloyales » de la Chine",
+      "r": "",
+      "c": "mondialisation",
+      "s": "Les Echos",
+      "f": "automobile-europe-chine"
     },
     {
       "d": "2026-10-24",
@@ -157,6 +175,15 @@
     },
     {
       "d": "2026-10-24",
+      "i": "ceeef592fabc",
+      "t": "La raffinerie nigériane de Dangote entre en Bourse, portée par l’envolée des prix des carburants",
+      "r": "La mégaraffinerie nigériane de Dangote entre en Bourse dans un contexte de forte hausse des prix des carburants et anticipe une sursouscription.",
+      "c": "finance",
+      "s": "Le Monde",
+      "f": null
+    },
+    {
+      "d": "2026-10-24",
       "i": "d9441286b42a",
       "t": "Budget 2027 : «On va arrêter de faire semblant», les députés n’attendent plus que le 49.3 ou les ordonnances",
       "r": "Après le rejet du budget de la Sécurité sociale et l'enlisement de celui de l'État, les députés s'attendent au recours au 49.3 ou à des ordonnances.",
@@ -190,6 +217,15 @@
       "c": "desequilibres",
       "s": "franceinfo",
       "f": "budget-2027"
+    },
+    {
+      "d": "2026-10-24",
+      "i": "a1b20d8cbe4a",
+      "t": "Salaires : pourquoi les entreprises redoutent autant une hausse du smic",
+      "r": "Le gouvernement envisage de revaloriser le salaire minimum, une perspective redoutée par le patronat qui craint des conséquences négatives sur l'emploi et les entreprises.",
+      "c": "desequilibres",
+      "s": "Le Figaro",
+      "f": "conjoncture-france"
     },
     {
       "d": "2026-10-24",
@@ -265,6 +301,15 @@
     },
     {
       "d": "2026-10-24",
+      "i": "61d3df949511",
+      "t": "Hors de question qu'il paie 12 milliards de dollars d'impôts et perde le contrôle de Meta: à quelques jours du référendum sur la taxe des milliardaires, Zuckerberg a bataillé mais fait plier son entreprise pour garder le pouvoir",
+      "r": "Mark Zuckerberg a négocié un accord avec Meta lui permettant de vendre des actions pour régler une taxe exceptionnelle sur sa fortune sans perdre le contrôle de l'entreprise.",
+      "c": "entreprises",
+      "s": "BFM Business",
+      "f": null
+    },
+    {
+      "d": "2026-10-24",
       "i": "28cf21e908bc",
       "t": "Complémentaires santé : pourquoi le Conseil constitutionnel censure le gel des cotisations",
       "r": "Le Conseil constitutionnel a censuré l'interdiction faite aux mutuelles et assureurs d'augmenter leurs tarifs en 2026, jugée contraire à la liberté d'entreprendre.",
@@ -298,6 +343,15 @@
       "c": "epargne",
       "s": "Le Monde",
       "f": "fiscalite-epargne-patrimoine"
+    },
+    {
+      "d": "2026-10-24",
+      "i": "e956ed6f7d07",
+      "t": "Comment investir en obligations pour profiter de la hausse des taux",
+      "r": "La hausse des rendements obligataires ravive l'intérêt des investisseurs pour les obligations, qui opèrent un tri sélectif entre États et entreprises.",
+      "c": "epargne",
+      "s": "Le Figaro",
+      "f": null
     },
     {
       "d": "2026-10-23",
