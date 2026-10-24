@@ -1,7 +1,304 @@
 {
   "version_schema": 1,
-  "mis_a_jour_le": "2026-10-23T10:57:24+02:00",
+  "mis_a_jour_le": "2026-10-24T06:29:57+02:00",
   "entrees": [
+    {
+      "d": "2026-10-24",
+      "i": "7f6fcbdcfae8",
+      "t": "PLFSS 2027 : à l’Assemblée, le budget de la Sécurité sociale rejeté après une saignée de 12 milliards d’euros",
+      "r": "L'Assemblée nationale a rejeté vendredi la partie recettes du budget de la Sécurité sociale pour 2027 par 115 voix contre une. Les députés avaient préalablement supprimé la plupart des mesures présentées par le gouvernement, dégradant les comptes sociaux de près de 12 milliards d'euros selon David Amiel.",
+      "c": "desequilibres",
+      "s": "Capital",
+      "f": "budget-2027"
+    },
+    {
+      "d": "2026-10-24",
+      "i": "f05fd09f8d8d",
+      "t": "Les taux 10 ans français au-dessus du 10 ans américain",
+      "r": "Le rendement des obligations assimilables du Trésor français à 10 ans est passé au-dessus du taux souverain américain équivalent. Les analystes soulignent que l'alourdissement de la dette publique rend le coût du refinancement de plus en plus vulnérable à chaque hausse de taux.",
+      "c": "finance",
+      "s": "BFM Business",
+      "f": "dette-marches"
+    },
+    {
+      "d": "2026-10-24",
+      "i": "d139ede9e737",
+      "t": "Le prix du pétrole dépasse les 117 dollars le baril face aux craintes de nouvelles frappes américaines contre l'Iran",
+      "r": "Le cours du baril de Brent a dépassé les 117 dollars, atteignant son plus haut niveau depuis plus de six mois. Cette hausse intervient après des menaces de représailles de Téhéran sur des raffineries du Golfe face au risque de frappes militaires des États-Unis.",
+      "c": "mondialisation",
+      "s": "The Guardian",
+      "f": "choc-petrolier-ormuz"
+    },
+    {
+      "d": "2026-10-24",
+      "i": "3d446df8273f",
+      "t": "[Carte] Le déficit public des États de l'Union européenne",
+      "r": "Selon Toute l'Europe, le déficit public annuel moyen au sein de l'Union européenne s'est établi à 3,1 % du PIB en 2025, stable par rapport à 2024. Dans la zone euro, le déficit public a atteint 3,0 % du PIB sur la même période.",
+      "c": "ue",
+      "s": "Toute l'Europe",
+      "f": null
+    },
+    {
+      "d": "2026-10-24",
+      "i": "a344deb0b7ae",
+      "t": "La Maison-Blanche lève des droits de douane sur certains produits canadiens à l'approche des élections de mi-mandat",
+      "r": "La Maison-Blanche a annoncé un allègement de ses droits de douane sur certains produits canadiens comme des machines à compter du 30 octobre, tout en maintenant ou instaurant des taxes sur d'autres biens tels que les tapis. Cette décision intervient à l'approche des élections de mi-mandat.",
+      "c": "mondialisation",
+      "s": "BBC",
+      "f": null
+    },
+    {
+      "d": "2026-10-24",
+      "i": "23832ecde002",
+      "t": "Non, le budget ne préserve pas la transition écologique (mais il conforte le nucléaire)",
+      "r": "Le budget 2027 stabilise les dépenses vertes tout en soutenant massivement les réacteurs nucléaires EPR2, malgré d'importants besoins d'investissements bas carbone.",
+      "c": "croissance",
+      "s": "Alternatives Économiques",
+      "f": "budget-2027"
+    },
+    {
+      "d": "2026-10-24",
+      "i": "0c290f07c907",
+      "t": "Voiture autonome : Stellantis, Bolt et la métropole du Grand Paris vont s’associer pour lancer des robots taxis, pilotés par le logiciel chinois Pony.ai",
+      "r": "La Métropole du Grand Paris, Stellantis et Bolt s'associent pour lancer des robotaxis utilisant le logiciel chinois Pony.ai.",
+      "c": "croissance",
+      "s": "La Tribune",
+      "f": null
+    },
+    {
+      "d": "2026-10-24",
+      "i": "cbf07a885bc9",
+      "t": "Les ventes au détail en Grande-Bretagne chutent alors que les ménages en difficulté réduisent leurs dépenses",
+      "r": "Les ventes au détail en Grande-Bretagne ont reculé plus fortement que prévu, selon l'Office for National Statistics, avant l'annonce du budget.",
+      "c": "croissance",
+      "s": "The Guardian",
+      "f": null
+    },
+    {
+      "d": "2026-10-24",
+      "i": "eee3d0d409c3",
+      "t": "Une garantie d'emploi est-elle la solution au chômage de masse lié à l'intelligence artificielle ?",
+      "r": "Face aux prévisions selon lesquelles l'intelligence artificielle pourrait déclencher des crises majeures, l'idée ancienne d'une garantie d'emploi refait surface.",
+      "c": "croissance",
+      "s": "The Guardian",
+      "f": "intelligence-artificielle"
+    },
+    {
+      "d": "2026-10-24",
+      "i": "cdd198f83a86",
+      "t": "Direct-to-Device : vaine contre-attaque européenne face à Starlink ?",
+      "r": "Quatre opérateurs européens s'allient dans une proposition commune de service Direct-to-Device, suscitant l'opposition des États-Unis et des risques réglementaires.",
+      "c": "mondialisation",
+      "s": "La Tribune",
+      "f": null
+    },
+    {
+      "d": "2026-10-24",
+      "i": "a64d51764e73",
+      "t": "Trump supprime certains tarifs douaniers sur le Canada pour soutenir Susan Collins en difficulté dans le Maine",
+      "r": "Le président américain a supprimé certains droits de douane sur le Canada afin de servir l'intérêt public et de soutenir la sénatrice républicaine Susan Collins.",
+      "c": "mondialisation",
+      "s": "The Guardian",
+      "f": null
+    },
+    {
+      "d": "2026-10-24",
+      "i": "26f892604dfb",
+      "t": "VIDEO - Le Chili produit moins de cuivre et ça perturbe l'équilibre du marché mondial",
+      "r": "",
+      "c": "mondialisation",
+      "s": "Les Echos",
+      "f": null
+    },
+    {
+      "d": "2026-10-24",
+      "i": "f779edf36855",
+      "t": "Pourquoi la France ratera la nouvelle « mondialisation heureuse »",
+      "r": "",
+      "c": "mondialisation",
+      "s": "Les Echos",
+      "f": null
+    },
+    {
+      "d": "2026-10-24",
+      "i": "24eac4705ec4",
+      "t": "Un taux d'emprunt qui dépasse les 5% \"c'est très grave\", explique le président du directoire d'Euronext",
+      "r": "Le président du directoire d'Euronext qualifie de très grave le dépassement d'un taux d'emprunt de 5%.",
+      "c": "finance",
+      "s": "franceinfo",
+      "f": "dette-marches"
+    },
+    {
+      "d": "2026-10-24",
+      "i": "bc8d720f0a31",
+      "t": "La forte hausse des taux d’intérêt, une mauvaise nouvelle… sauf pour les banques",
+      "r": "La hausse des taux d'intérêt alourdit le coût de la dette pour l'État, constituant un défi pour les finances publiques.",
+      "c": "finance",
+      "s": "Alternatives Économiques",
+      "f": "dette-marches"
+    },
+    {
+      "d": "2026-10-24",
+      "i": "20bc4b85269f",
+      "t": "Capital-investissement : prudents, les fonds de LBO laissent plus volontiers les clés des entreprises en difficulté aux créanciers",
+      "r": "",
+      "c": "finance",
+      "s": "Les Echos",
+      "f": null
+    },
+    {
+      "d": "2026-10-24",
+      "i": "d8db2bf08e6d",
+      "t": "Quelles valeurs suivre la semaine prochaine ?",
+      "r": "Des experts recommandent de suivre des valeurs telles que Saint-Gobain pour la construction et Airbus sur les marchés financiers.",
+      "c": "finance",
+      "s": "BFM Business",
+      "f": null
+    },
+    {
+      "d": "2026-10-24",
+      "i": "d9441286b42a",
+      "t": "Budget 2027 : «On va arrêter de faire semblant», les députés n’attendent plus que le 49.3 ou les ordonnances",
+      "r": "Après le rejet du budget de la Sécurité sociale et l'enlisement de celui de l'État, les députés s'attendent au recours au 49.3 ou à des ordonnances.",
+      "c": "desequilibres",
+      "s": "Capital",
+      "f": "budget-2027"
+    },
+    {
+      "d": "2026-10-24",
+      "i": "7ce7d511645a",
+      "t": "La France échappe à la dégradation, mais reste au bord du doute",
+      "r": "Les agences de notation évaluent non seulement le niveau de la dette d'un pays, mais aussi sa capacité à rester crédible auprès des marchés financiers.",
+      "c": "desequilibres",
+      "s": "La Tribune",
+      "f": "dette-marches"
+    },
+    {
+      "d": "2026-10-24",
+      "i": "63a404b25829",
+      "t": "Un surcoût moyen de \"550 euros par salarié\" qui pourrait \"compromettre les augmentations\": le patronat demande au gouvernement de \"renoncer\" aux mesures \"augmentant massivement\" le coût du travail",
+      "r": "Les organisations patronales demandent au gouvernement de renoncer aux mesures du budget de la Sécurité sociale qui augmentent le coût du travail.",
+      "c": "desequilibres",
+      "s": "BFM Business",
+      "f": "budget-2027"
+    },
+    {
+      "d": "2026-10-24",
+      "i": "b8090f2dc70b",
+      "t": "La \"paix sociale\" au détriment des entreprises ?",
+      "r": "Le président du Medef fustige le projet de loi de financement de la Sécurité sociale 2027 prévoyant la fin de près de 11 milliards d'euros d'allègements de cotisations.",
+      "c": "desequilibres",
+      "s": "franceinfo",
+      "f": "budget-2027"
+    },
+    {
+      "d": "2026-10-24",
+      "i": "734dfd92c303",
+      "t": "Blanchiment d'argent : quels pays sont considérés à risque par la Commission européenne ?",
+      "r": "La Commission européenne ajoute des pays comme la Bolivie à sa liste des pays à haut risque en matière de blanchiment d'argent.",
+      "c": "ue",
+      "s": "Toute l'Europe",
+      "f": null
+    },
+    {
+      "d": "2026-10-24",
+      "i": "958b6a2cc3d8",
+      "t": "Qu'est-ce que le programme pour l'industrie européenne de la défense (Edip) ?",
+      "r": "L'Union européenne a vu l'entrée en vigueur de son programme pour l'industrie européenne de la défense (Edip) afin de renforcer sa défense.",
+      "c": "ue",
+      "s": "Toute l'Europe",
+      "f": null
+    },
+    {
+      "d": "2026-10-24",
+      "i": "db92810ff5c8",
+      "t": "Armes, drones, munitions : pourquoi l'Europe veut acheter davantage européen",
+      "r": "L'Europe cherche à renforcer sa base industrielle et technologique de défense pour réduire sa dépendance aux importations de pays tiers.",
+      "c": "ue",
+      "s": "Toute l'Europe",
+      "f": null
+    },
+    {
+      "d": "2026-10-24",
+      "i": "b84989cb600a",
+      "t": "La Commission européenne et le CESE renforcent leur coopération contre la pauvreté",
+      "r": "La Commission européenne et le Comité économique et social européen renforcent leur coopération pour éradiquer la pauvreté dans l'Union d'ici à 2050.",
+      "c": "ue",
+      "s": "Toute l'Europe",
+      "f": null
+    },
+    {
+      "d": "2026-10-24",
+      "i": "6193a495ef59",
+      "t": "Fibre Excellence : malgré la prochaine liquidation de la dernière usine de pâte à papier français, les syndicats restent confiants",
+      "r": "Le site de Saint-Gaudens de l'entreprise Fibre Excellence s'apprête à être placé en liquidation judiciaire, menaçant près de 250 emplois.",
+      "c": "entreprises",
+      "s": "La Tribune",
+      "f": "conjoncture-france"
+    },
+    {
+      "d": "2026-10-24",
+      "i": "e5a0687a563e",
+      "t": "Gifi en redressement judiciaire : comment expliquer la chute de l'enseigne ?",
+      "r": "Le groupe Gifi, en difficulté et employant 6 000 salariés, a demandé son placement en redressement judiciaire.",
+      "c": "entreprises",
+      "s": "franceinfo",
+      "f": "conjoncture-france"
+    },
+    {
+      "d": "2026-10-24",
+      "i": "a523e6cd6049",
+      "t": "Les Forges de Tarbes, producteurs des corps d’obus du canon Caesar, demandent leur placement en redressement judiciaire",
+      "r": "Les Forges de Tarbes demandent leur placement en redressement judiciaire afin de préserver l'activité de l'entreprise selon un communiqué d'Europlasma.",
+      "c": "entreprises",
+      "s": "Le Monde",
+      "f": "conjoncture-france"
+    },
+    {
+      "d": "2026-10-24",
+      "i": "fdb8dbdf4c33",
+      "t": "Eutelsat et Iris² : Jean-François Fallacher invité d’Air&Défense, en partenariat avec Air & Cosmos",
+      "r": "Le patron d'Eutelsat est revenu sur le contrat Iris² signé avec la Commission européenne et les industriels européens.",
+      "c": "entreprises",
+      "s": "La Tribune",
+      "f": null
+    },
+    {
+      "d": "2026-10-24",
+      "i": "28cf21e908bc",
+      "t": "Complémentaires santé : pourquoi le Conseil constitutionnel censure le gel des cotisations",
+      "r": "Le Conseil constitutionnel a censuré l'interdiction faite aux mutuelles et assureurs d'augmenter leurs tarifs en 2026, jugée contraire à la liberté d'entreprendre.",
+      "c": "epargne",
+      "s": "L'Opinion",
+      "f": "fiscalite-epargne-patrimoine"
+    },
+    {
+      "d": "2026-10-24",
+      "i": "b3c244f46f4c",
+      "t": "Frais de découvert : comment réduire la note, et ce que les banques n’auront plus le droit de facturer le 20 novembre",
+      "r": "Selon Panorabanques, près d'un Français sur cinq est à découvert chaque mois, alors que les règles sur les petits découverts changent en novembre.",
+      "c": "epargne",
+      "s": "Capital",
+      "f": null
+    },
+    {
+      "d": "2026-10-24",
+      "i": "048986ef3f81",
+      "t": "Patrimoine : ces Français qui veulent mettre une partie de leur épargne à l’étranger, au cas où…",
+      "r": "Les récentes tensions et les débats parlementaires incitent certains épargnants à s'interroger sur le placement d'une partie de leur épargne à l'étranger.",
+      "c": "epargne",
+      "s": "L'Opinion",
+      "f": "fiscalite-epargne-patrimoine"
+    },
+    {
+      "d": "2026-10-24",
+      "i": "45e74611b3c4",
+      "t": "« Le fléchage de l’épargne réglementée offre une piste, modeste mais réelle, pour financer les investissements dont la société a besoin »",
+      "r": "Le fléchage de l'épargne réglementée constitue une piste pour financer les investissements nécessaires dans la transition écologique et les services publics.",
+      "c": "epargne",
+      "s": "Le Monde",
+      "f": "fiscalite-epargne-patrimoine"
+    },
     {
       "d": "2026-10-23",
       "i": "7608def25ec1",

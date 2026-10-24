@@ -1,6 +1,6 @@
 {
   "version_schema": 1,
-  "mis_a_jour_le": "2026-10-23T10:57:42+02:00",
+  "mis_a_jour_le": "2026-10-24T06:33:07+02:00",
   "fils": [
     {
       "id": "budget-2027",
@@ -11,8 +11,8 @@
       "categories": [
         "desequilibres"
       ],
-      "ou_en_est_on": "L'examen du budget 2027 fait l'objet de vives tensions sur le pouvoir d'achat et la fiscalité des entreprises. Le gouvernement envisage une revalorisation du Smic de 15 euros, jugée insuffisante par la CFDT qui exige 100 euros net, tandis que le Medef alerte sur les menaces pesant sur la rentabilité des entreprises en raison du coût du travail et de la suppression d'allègements de charges. En parallèle, un contre-budget porté par La France insoumise remet en cause les coupes budgétaires, et les députés ont rejeté l'instauration d'une taxe sur les produits sucrés.",
-      "ou_en_est_on_maj_le": "2026-10-23",
+      "ou_en_est_on": "L'examen des textes budgétaires pour 2027 traverse une phase de blocage à l'Assemblée nationale après le rejet massif du volet recettes de la Sécurité sociale, dont le texte est transmis au Sénat. Face à l'enlisement des débats, l'hypothèse d'un recours à l'article 49.3 ou à des ordonnances est évoquée par les parlementaires. En parallèle, les organisations patronales dénoncent la fin prévue d'allègements de cotisations sociales, estimant que le surcoût de 550 euros par salarié pèsera sur les hausses de salaires. De leur côté, les analyses soulignent que le budget de l'État stabilise les dépenses vertes tout en concentrant son effort sur les réacteurs nucléaires EPR2.",
+      "ou_en_est_on_maj_le": "2026-10-24",
       "evenements": [
         {
           "date": "2026-10-17",
@@ -190,6 +190,37 @@
               "url": "https://www.latribune.fr/article/la-tribune-dimanche/opinions/18782027526022/opinion-remettre-de-l-ordre-dans-les-comptes-publics-et-preparer-l-avenir-c-est-possible-par-eric-berr-et-aurelie-trouve"
             }
           ]
+        },
+        {
+          "date": "2026-10-24",
+          "resume": "L'Assemblée nationale a rejeté le volet recettes du budget de la Sécurité sociale pour 2027, tandis que les organisations patronales réclament l'abandon de mesures qui augmentent le coût du travail.",
+          "liens": [
+            {
+              "titre": "PLFSS 2027 : à l’Assemblée, le budget de la Sécurité sociale rejeté après une saignée de 12 milliards d’euros",
+              "source": "Capital",
+              "url": "https://www.capital.fr/economie-politique/plfss-2027-a-lassemblee-le-budget-de-la-securite-sociale-rejete-apres-une-saignee-de-12-milliards-deuros-1531225"
+            },
+            {
+              "titre": "Budget 2027 : «On va arrêter de faire semblant», les députés n’attendent plus que le 49.3 ou les ordonnances",
+              "source": "Capital",
+              "url": "https://www.capital.fr/economie-politique/budget-2027-on-va-arreter-de-faire-semblant-les-deputes-nattendent-plus-que-le-493-ou-les-ordonnances-1531230"
+            },
+            {
+              "titre": "Un surcoût moyen de \"550 euros par salarié\" qui pourrait \"compromettre les augmentations\": le patronat demande au gouvernement de \"renoncer\" aux mesures \"augmentant massivement\" le coût du travail",
+              "source": "BFM Business",
+              "url": "https://www.bfmtv.com/economie/economie-social/social/un-surcout-moyen-de-550-euros-par-salarie-qui-pourrait-compromettre-les-augmentations-le-patronat-demande-au-gouvernement-de-renoncer-aux-mesures-augmentant-massivement-le-cout-du-travail_AD-202610230827.html"
+            },
+            {
+              "titre": "La \"paix sociale\" au détriment des entreprises ?",
+              "source": "franceinfo",
+              "url": "https://www.franceinfo.fr/economie/budget/la-paix-sociale-au-detriment-des-entreprises_8250799.html#xtor=RSS-3-%5Bgeneral%5D"
+            },
+            {
+              "titre": "Non, le budget ne préserve pas la transition écologique (mais il conforte le nucléaire)",
+              "source": "Alternatives Économiques",
+              "url": "https://www.alternatives-economiques.fr/non-le-budget-ne-preserve-pas-la-transition-ecologique-mais-il-conforte-le-nucleaire_23-10-2026"
+            }
+          ]
         }
       ]
     },
@@ -203,8 +234,8 @@
         "desequilibres",
         "finance"
       ],
-      "ou_en_est_on": "La situation de la dette française suscite de vives inquiétudes sur les marchés financiers, avec un taux à dix ans qui a dépassé le seuil de 5 %. Les analyses soulignent les risques liés au spread et à l'effet boule de neige de la dette. Cette instabilité s'inscrit dans un contexte de concurrence mondiale accrue pour attirer les capitaux, alors que les investisseurs guettent les décisions des agences de notation.",
-      "ou_en_est_on_maj_le": "2026-10-23",
+      "ou_en_est_on": "Les tensions sur la dette française persistent alors que le taux à dix ans se maintient au-delà du seuil de 5 %, dépassant désormais les rendements des obligations américaines. Les acteurs financiers alertent sur le coût grandissant de la charge de la dette pour l'État à chaque hausse de taux. Bien que la France ait évité une dégradation immédiate de sa note souveraine, les agences d'évaluation continuent de surveiller de près la crédibilité budgétaire et politique du pays.",
+      "ou_en_est_on_maj_le": "2026-10-24",
       "evenements": [
         {
           "date": "2026-10-19",
@@ -330,6 +361,32 @@
               "url": "https://www.theguardian.com/world/2026/oct/22/french-borrowing-costs-overtake-us-amid-budget-turmoil"
             }
           ]
+        },
+        {
+          "date": "2026-10-24",
+          "resume": "Les taux d'emprunt français à 10 ans restent sous pression au-dessus de 5 % et dépassent le rendement américain, alimentant l'inquiétude des acteurs financiers sur la charge de la dette.",
+          "liens": [
+            {
+              "titre": "Les taux 10 ans français au-dessus du 10 ans américain",
+              "source": "BFM Business",
+              "url": "https://www.bfmtv.com/economie/video-les-taux-10-ans-francais-au-dessus-du-10-ans-americain_VN-202610230778.html"
+            },
+            {
+              "titre": "La France échappe à la dégradation, mais reste au bord du doute",
+              "source": "La Tribune",
+              "url": "https://www.latribune.fr/article/economie/72000292701839/la-france-echappe-a-la-degradation-mais-reste-au-bord-du-doute"
+            },
+            {
+              "titre": "Un taux d'emprunt qui dépasse les 5% \"c'est très grave\", explique le président du directoire d'Euronext",
+              "source": "franceinfo",
+              "url": "https://www.franceinfo.fr/replay-radio/l-interview-eco/un-taux-d-emprunt-qui-depasse-les-5-c-est-tres-grave-explique-le-president-du-directoire-d-euronext_8229256.html#xtor=RSS-3-%5Bgeneral%5D"
+            },
+            {
+              "titre": "La forte hausse des taux d’intérêt, une mauvaise nouvelle… sauf pour les banques",
+              "source": "Alternatives Économiques",
+              "url": "https://www.alternatives-economiques.fr/la-forte-hausse-des-taux-d-interet-une-mauvaise-nouvelle-sauf-pour-les-banques_23-10-2026"
+            }
+          ]
         }
       ]
     },
@@ -343,8 +400,8 @@
         "mondialisation",
         "desequilibres"
       ],
-      "ou_en_est_on": "Les tensions géopolitiques autour du détroit d'Ormuz continuent de peser sur les approvisionnements énergétiques et font planer le risque d'une hausse durable des coûts pour l'économie européenne. Face à ces tensions sur les prix des carburants, la raffinerie TotalEnergies de Feyzin a accru ses rendements sur le gazole et le kérosène. Des discussions diplomatiques internationales sont par ailleurs menées pour traiter la sécurité des flux énergétiques.",
-      "ou_en_est_on_maj_le": "2026-10-23",
+      "ou_en_est_on": "Les cours mondiaux du pétrole connaissent une nette flambée, le baril de Brent franchissant le cap des 117 dollars pour s'établir à son niveau le plus élevé depuis six mois. Cette hausse est alimentée par les craintes de nouvelles frappes des États-Unis et par les menaces de représailles de Téhéran contre des raffineries du Golfe. Les marchés de l'énergie restent ainsi sous tension face au risque d'escalade directe dans la région.",
+      "ou_en_est_on_maj_le": "2026-10-24",
       "evenements": [
         {
           "date": "2026-10-17",
@@ -429,6 +486,17 @@
               "titre": "Au cœur de la raffinerie de Feyzin, à plein régime pour produire gazole et kérosène",
               "source": "La Tribune",
               "url": "https://www.latribune.fr/article/entreprises-finance/energie-environnement/50245655109028/au-coeur-de-la-raffinerie-de-feyzin-a-plein-regime-pour-produire-gazole-et-kerosene"
+            }
+          ]
+        },
+        {
+          "date": "2026-10-24",
+          "resume": "Le cours du baril de Brent dépasse les 117 dollars, atteignant son plus haut niveau en plus de six mois sur fond de craintes de frappes américaines et de menaces iraniennes dans le Golfe.",
+          "liens": [
+            {
+              "titre": "Oil price rises above $117 a barrel amid fears US will renew strikes on Iran",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/business/2026/oct/23/oil-five-month-high-fears-us-renews-strikes-iran"
             }
           ]
         }
@@ -673,8 +741,8 @@
       "categories": [
         "epargne"
       ],
-      "ou_en_est_on": "Le débat sur la fiscalité du patrimoine se combine avec une recherche accrue de protection par les épargnants fortunés face aux incertitudes budgétaires françaises. Alors que des propositions de surtaxes sur les très hauts patrimoines sont formulées par des économistes, l'assurance-vie luxembourgeoise élargit son accessibilité à partir de 50 000 euros pour répondre à cette demande de sécurisation des actifs.",
-      "ou_en_est_on_maj_le": "2026-10-23",
+      "ou_en_est_on": "L'incertitude liée aux débats budgétaires et aux violences urbaines pousse une partie des épargnants à solliciter les conseillers en gestion de patrimoine pour loger des fonds hors de France. Dans le même temps, le Conseil constitutionnel a censuré l'interdiction faite aux mutuelles et assureurs d'augmenter leurs tarifs, jugeant la mesure contraire à la liberté d'entreprendre. Enfin, des économistes défendent l'option d'un fléchage de l'épargne réglementée pour financer les besoins de la transition écologique et des services publics.",
+      "ou_en_est_on_maj_le": "2026-10-24",
       "evenements": [
         {
           "date": "2026-10-17",
@@ -718,6 +786,27 @@
               "url": "https://www.capital.fr/votre-argent/assurance-vie-au-luxembourg-accessible-des-50-000-euros-ce-quelle-protege-vraiment-et-ce-quelle-coute-1531195"
             }
           ]
+        },
+        {
+          "date": "2026-10-24",
+          "resume": "Les tensions sociales et les débats parlementaires incitent des épargnants à envisager de placer des avoirs à l'étranger, tandis que le Conseil constitutionnel censure le gel des cotisations des complémentaires santé.",
+          "liens": [
+            {
+              "titre": "Complémentaires santé : pourquoi le Conseil constitutionnel censure le gel des cotisations",
+              "source": "L'Opinion",
+              "url": "https://www.lopinion.fr/economie/complementaires-sante-pourquoi-le-conseil-constitutionnel-censure-le-gel-des-cotisations"
+            },
+            {
+              "titre": "Patrimoine : ces Français qui veulent mettre une partie de leur épargne à l’étranger, au cas où…",
+              "source": "L'Opinion",
+              "url": "https://www.lopinion.fr/patrimoine/patrimoine-ces-francais-qui-veulent-mettre-une-partie-de-leur-epargne-a-letranger-au-cas-ou"
+            },
+            {
+              "titre": "« Le fléchage de l’épargne réglementée offre une piste, modeste mais réelle, pour financer les investissements dont la société a besoin »",
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/idees/article/2026/10/24/le-flechage-de-l-epargne-reglementee-offre-une-piste-modeste-mais-reelle-pour-financer-les-investissements-dont-la-societe-a-besoin_6799554_3232.html"
+            }
+          ]
         }
       ]
     },
@@ -732,8 +821,8 @@
         "desequilibres",
         "entreprises"
       ],
-      "ou_en_est_on": "L'économie française subit des tensions sociales et conjoncturelles marquées par des appels syndicaux à des hausses de salaires significatives et des critiques patronales sur le climat d'insécurité. Alors que les indicateurs d'activité affichent des trajectoires contrastées selon les secteurs, les organisations professionnelles demandent des mesures renforcées de protection des commerces et des personnes à l'approche des nouvelles journées de mobilisation.",
-      "ou_en_est_on_maj_le": "2026-10-23",
+      "ou_en_est_on": "La conjoncture française s'assombrit sous l'effet conjugué d'indicateurs moroses dans la construction et d'une série de défaillances d'entreprises. Les enquêtes de l'Insee mettent en évidence une baisse continue des perspectives de mises en chantier et une dégradation des carnets de commandes dans les travaux publics. Le climat de l'emploi est affecté par les demandes de redressement judiciaire de l'enseigne Gifi et des Forges de Tarbes, ainsi que par les menaces pesant sur Fibre Excellence et le studio Arkane. Parallèlement, le gouvernement encadre de nouvelles mobilisations sociales après celles ayant réuni 550 000 à 800 000 manifestants selon les sources.",
+      "ou_en_est_on_maj_le": "2026-10-24",
       "evenements": [
         {
           "date": "2026-10-17",
@@ -961,6 +1050,37 @@
               "url": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/le-president-du-medef-appelle-les-entreprises-a-ne-pas-tomber-dans-l-auto-defense-lors-de-la-mobilisation-du-24-octobre_8250193.html#xtor=RSS-3-%5Bgeneral%5D"
             }
           ]
+        },
+        {
+          "date": "2026-10-24",
+          "resume": "L'activité économique fait face à la dégradation des perspectives dans le bâtiment et les travaux publics, ainsi qu'à des difficultés industrielles et commerciales marquées par les redressements judiciaires de Gifi et des Forges de Tarbes.",
+          "liens": [
+            {
+              "titre": "Fibre Excellence : malgré la prochaine liquidation de la dernière usine de pâte à papier français, les syndicats restent confiants",
+              "source": "La Tribune",
+              "url": "https://www.latribune.fr/article/entreprises-finance/industrie/23415274406322/fibre-excellence-malgre-la-prochaine-liquidation-de-la-derniere-usine-de-pate-a-papier-francais-les-syndicats-restent-confiants"
+            },
+            {
+              "titre": "Gifi en redressement judiciaire : comment expliquer la chute de l'enseigne ?",
+              "source": "franceinfo",
+              "url": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/gifi-en-redressement-judiciaire-comment-expliquer-la-chute-de-l-enseigne_8251525.html#xtor=RSS-3-%5Bgeneral%5D"
+            },
+            {
+              "titre": "Les Forges de Tarbes, producteurs des corps d’obus du canon Caesar, demandent leur placement en redressement judiciaire",
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/economie/article/2026/10/23/les-forges-de-tarbes-producteurs-des-corps-d-obus-du-canon-caesar-demandent-leur-placement-en-redressement-judiciaire_6799119_3234.html"
+            },
+            {
+              "titre": "En octobre 2026, les perspectives de mises en chantier continuent de baisser fortement dans la promotion immobilière",
+              "source": "INSEE",
+              "url": "https://www.insee.fr/fr/statistiques/9096575"
+            },
+            {
+              "titre": "En octobre 2026, la conjoncture dans les travaux publics se détériore encore un peu plus",
+              "source": "INSEE",
+              "url": "https://www.insee.fr/fr/statistiques/9097247"
+            }
+          ]
         }
       ]
     },
@@ -975,8 +1095,8 @@
         "entreprises",
         "ue"
       ],
-      "ou_en_est_on": "L'impact macroéconomique de l'intelligence artificielle s'accélère à la fois sur l'emploi et sur les modèles économiques sectoriels. Dans le secteur financier, les grandes banques comme Barclays et HSBC planifient d'importantes réductions de postes administratifs grâce aux gains d'automatisation. Dans les industries créatives, l'exemple chinois montre qu'une production massive via l'IA générative abaisse fortement les coûts de fabrication mais comprime la rentabilité. Dans le même temps, les grands acteurs technologiques renforcent leurs investissements pour rivaliser au sommet.",
-      "ou_en_est_on_maj_le": "2026-10-23",
+      "ou_en_est_on": "L'impact potentiel de l'intelligence artificielle sur l'emploi continue d'alimenter les controverses, des experts remettant en cause les prévisions alarmistes d'Anthropic relatives à la disparition de la moitié des emplois de bureau débutants. Face aux craintes de perturbations massives du marché du travail, l'idée théorique d'une garantie d'emploi refait surface dans les débats économiques. Parallèlement, les investissements publics se structurent, à l'image du projet britannique d'allouer 100 millions de livres à un laboratoire dédié à la biosécurité face aux risques de l'IA.",
+      "ou_en_est_on_maj_le": "2026-10-24",
       "evenements": [
         {
           "date": "2026-10-17",
@@ -1122,6 +1242,27 @@
               "titre": "The Guardian view on AI safety: the push for global regulation must advance | Editorial",
               "source": "The Guardian",
               "url": "https://www.theguardian.com/commentisfree/2026/oct/22/the-guardian-view-on-ai-safety-the-push-for-global-regulation-must-advance"
+            }
+          ]
+        },
+        {
+          "date": "2026-10-24",
+          "resume": "Le Royaume-Uni prévoit d'investir 100 millions de livres dans un laboratoire de biosécurité lié à l'IA, tandis que les prévisions sur l'ampleur des destructions d'emplois suscitent le scepticisme de plusieurs experts.",
+          "liens": [
+            {
+              "titre": "Is a job guarantee the solution to mass AI unemployment?",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/technology/2026/oct/23/job-guarantee-ai-mass-unemployment"
+            },
+            {
+              "titre": "UK to invest £100m in 'world first' AI Biosecurity Lab",
+              "source": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "titre": "Experts cast doubt on Anthropic report detailing how AI has altered work at the company",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/technology/2026/oct/23/anthropic-report-ai-workplace-shifts"
             }
           ]
         }

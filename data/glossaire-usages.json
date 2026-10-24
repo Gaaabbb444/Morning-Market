@@ -1,6 +1,100 @@
 {
   "version_schema": 1,
   "notions": {
+    "politique-budgetaire": [
+      {
+        "date": "2026-10-24",
+        "id": "7f6fcbdcfae8",
+        "titre": "PLFSS 2027 : à l’Assemblée, le budget de la Sécurité sociale rejeté après une saignée de 12 milliards d’euros",
+        "source": "Capital",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-10-20",
+        "id": "bc5dc2cd9f4f",
+        "titre": "Les députés ont déjà fait dérailler la trajectoire de réduction du déficit de la Sécurité sociale avant même le début des débats dans l’hémicycle sur le budget de la Sécu",
+        "source": "BFM Business",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-10-19",
+        "id": "6825d2c17a9c",
+        "titre": "Retraite, santé : la protection sociale, principal poste de dépenses de l’État",
+        "source": "Le Figaro",
+        "contexte": "Top 5 du jour"
+      }
+    ],
+    "soutenabilite-de-la-dette-publique": [
+      {
+        "date": "2026-10-24",
+        "id": "f05fd09f8d8d",
+        "titre": "Les taux 10 ans français au-dessus du 10 ans américain",
+        "source": "BFM Business",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-10-21",
+        "id": "6d9f67eeb539",
+        "titre": "Budget de la Sécu 2027 : la Cour des comptes juge «fragile» l’objectif de 12,7 milliards d'euros de déficit",
+        "source": "Capital",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-10-19",
+        "id": "b09456b32b0d",
+        "titre": "Anne de Guigné : « L’épargne des Français bientôt à la rescousse du désendettement ? »",
+        "source": "Le Figaro",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-10-19",
+        "id": "6825d2c17a9c",
+        "titre": "Retraite, santé : la protection sociale, principal poste de dépenses de l’État",
+        "source": "Le Figaro",
+        "contexte": "Concept du jour"
+      }
+    ],
+    "choc-petrolier-choc-d-offre": [
+      {
+        "date": "2026-10-24",
+        "id": "d139ede9e737",
+        "titre": "Oil price rises above $117 a barrel amid fears US will renew strikes on Iran",
+        "source": "The Guardian",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-10-23",
+        "id": "f742c3911c35",
+        "titre": "Oil prices jump to five-month high as attacks threaten global supply",
+        "source": "The Guardian",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-10-17",
+        "id": "7333fdccc97b",
+        "titre": "\"Un superpétrolier a heurté une mine\": l'Iran intensifie ses attaques dans le détroit d'Ormuz, alors que le baril de pétrole frôle à nouveau les 110 dollars",
+        "source": "BFM Business",
+        "contexte": "Concept du jour"
+      }
+    ],
+    "pacte-de-stabilite-et-de-croissance": [
+      {
+        "date": "2026-10-24",
+        "id": "3d446df8273f",
+        "titre": "[Carte] Le déficit public des États de l'Union européenne",
+        "source": "Toute l'Europe",
+        "contexte": "Top 5 du jour"
+      }
+    ],
+    "droits-de-douane": [
+      {
+        "date": "2026-10-24",
+        "id": "a344deb0b7ae",
+        "titre": "White House lifts tariffs on some Canadian goods as midterm elections loom",
+        "source": "BBC",
+        "contexte": "Top 5 du jour"
+      }
+    ],
     "effet-boule-de-neige": [
       {
         "date": "2026-10-23",
@@ -22,22 +116,6 @@
         "titre": "En France, la menace d'une crise financière se précise",
         "source": "franceinfo",
         "contexte": "Top 5 du jour"
-      }
-    ],
-    "choc-petrolier-choc-d-offre": [
-      {
-        "date": "2026-10-23",
-        "id": "f742c3911c35",
-        "titre": "Oil prices jump to five-month high as attacks threaten global supply",
-        "source": "The Guardian",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-10-17",
-        "id": "7333fdccc97b",
-        "titre": "\"Un superpétrolier a heurté une mine\": l'Iran intensifie ses attaques dans le détroit d'Ormuz, alors que le baril de pétrole frôle à nouveau les 110 dollars",
-        "source": "BFM Business",
-        "contexte": "Concept du jour"
       }
     ],
     "notation-souveraine": [
@@ -95,29 +173,6 @@
         "contexte": "Top 5 du jour"
       }
     ],
-    "soutenabilite-de-la-dette-publique": [
-      {
-        "date": "2026-10-21",
-        "id": "6d9f67eeb539",
-        "titre": "Budget de la Sécu 2027 : la Cour des comptes juge «fragile» l’objectif de 12,7 milliards d'euros de déficit",
-        "source": "Capital",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-10-19",
-        "id": "b09456b32b0d",
-        "titre": "Anne de Guigné : « L’épargne des Français bientôt à la rescousse du désendettement ? »",
-        "source": "Le Figaro",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-10-19",
-        "id": "6825d2c17a9c",
-        "titre": "Retraite, santé : la protection sociale, principal poste de dépenses de l’État",
-        "source": "Le Figaro",
-        "contexte": "Concept du jour"
-      }
-    ],
     "chomage-classique-et-chomage-keynesien": [
       {
         "date": "2026-10-21",
@@ -157,22 +212,6 @@
         "date": "2026-10-20",
         "id": "2f73fb7a1b50",
         "titre": "Budget 2027 : l’Assemblée nationale multiplie les cadeaux fiscaux non chiffrés",
-        "source": "Le Figaro",
-        "contexte": "Top 5 du jour"
-      }
-    ],
-    "politique-budgetaire": [
-      {
-        "date": "2026-10-20",
-        "id": "bc5dc2cd9f4f",
-        "titre": "Les députés ont déjà fait dérailler la trajectoire de réduction du déficit de la Sécurité sociale avant même le début des débats dans l’hémicycle sur le budget de la Sécu",
-        "source": "BFM Business",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-10-19",
-        "id": "6825d2c17a9c",
-        "titre": "Retraite, santé : la protection sociale, principal poste de dépenses de l’État",
         "source": "Le Figaro",
         "contexte": "Top 5 du jour"
       }
