@@ -1,6 +1,6 @@
 {
   "version_schema": 1,
-  "mis_a_jour_le": "2026-10-24T10:52:13+02:00",
+  "mis_a_jour_le": "2026-10-25T05:35:22+01:00",
   "fils": [
     {
       "id": "budget-2027",
@@ -400,8 +400,8 @@
         "mondialisation",
         "desequilibres"
       ],
-      "ou_en_est_on": "Les cours mondiaux du pétrole connaissent une nette flambée, le baril de Brent franchissant le cap des 117 dollars pour s'établir à son niveau le plus élevé depuis six mois. Cette hausse est alimentée par les craintes de nouvelles frappes des États-Unis et par les menaces de représailles de Téhéran contre des raffineries du Golfe. Les marchés de l'énergie restent ainsi sous tension face au risque d'escalade directe dans la région.",
-      "ou_en_est_on_maj_le": "2026-10-24",
+      "ou_en_est_on": "Alors que les cours mondiaux du pétrole restent sous pression dans le sillage des tensions au Proche-Orient, le gouvernement français a acté la libération de stocks stratégiques de gazole par un décret publié au Journal officiel. Ce dispositif vise à répercuter une baisse de 12 à 18 centimes par litre à la pompe à compter du 1er novembre pour alléger la facture des ménages et des entreprises. Cette mesure d'urgence illustre la volonté d'atténuer le choc énergétique sur le marché des carburants face à la persistance des risques géopolitiques.",
+      "ou_en_est_on_maj_le": "2026-10-25",
       "evenements": [
         {
           "date": "2026-10-17",
@@ -499,6 +499,17 @@
               "url": "https://www.theguardian.com/business/2026/oct/23/oil-five-month-high-fears-us-renews-strikes-iran"
             }
           ]
+        },
+        {
+          "date": "2026-10-25",
+          "resume": "Un décret publié au Journal officiel encadre la libération de stocks stratégiques de gazole afin d'entraîner une baisse des prix de 12 à 18 centimes par litre dès le 1er novembre.",
+          "liens": [
+            {
+              "titre": "12 à 18 centimes de moins par litre : les stocks de gazole libérés pourraient faire baisser les prix dès le 1er novembre",
+              "source": "BFM Business",
+              "url": "https://www.bfmtv.com/economie/entreprises/energie/12-a-18-centimes-de-moins-par-litre-les-stocks-de-gazole-liberes-pourraient-faire-baisser-les-prix-des-le-1er-novembre_AD-202610240187.html"
+            }
+          ]
         }
       ]
     },
@@ -538,8 +549,8 @@
         "mondialisation",
         "ue"
       ],
-      "ou_en_est_on": "Le conflit en Ukraine continue de mettre en évidence la centralité des infrastructures technologiques et satellitaires dans les opérations militaires. Face aux restrictions d'accès imposées sur le service Starlink, les acteurs ukrainiens et russes cherchent activement des réseaux de télécommunication alternatifs. Cet enjeu renforce les préoccupations européennes sur la dépendance technologique vis-à-vis des infrastructures privées américaines, dans un climat diplomatique où les négociations énergétiques et l'aide militaire restent déterminantes.",
-      "ou_en_est_on_maj_le": "2026-10-24",
+      "ou_en_est_on": "Après plusieurs jours de perturbations, l'armée ukrainienne a rétabli une connexion stable au réseau satellitaire Starlink, essentiel à la coordination de ses forces. Cet épisode de tensions entre Kiev, les autorités américaines et Elon Musk a mis en lumière la fragilité opérationnelle liée à cette dépendance technologique. Les accusations mutuelles quant au respect des conditions d'utilisation renforcent les débats sur la souveraineté numérique et le contrôle d'infrastructures privées en zone de conflit.",
+      "ou_en_est_on_maj_le": "2026-10-25",
       "evenements": [
         {
           "date": "2026-10-17",
@@ -608,6 +619,22 @@
               "titre": "En Ukraine et en Russie, la quête de l’alternative à Starlink",
               "source": "La Tribune",
               "url": "https://air-cosmos.latribune.fr/article/espace/31335116837886/en-ukraine-et-en-russie-la-quete-de-l-alternative-a-starlink"
+            }
+          ]
+        },
+        {
+          "date": "2026-10-25",
+          "resume": "L'armée ukrainienne annonce avoir retrouvé une connexion stable au réseau Starlink après plusieurs jours de restrictions, tandis qu'Elon Musk accuse Kiev d'avoir enfreint les conditions d'utilisation.",
+          "liens": [
+            {
+              "titre": "\"Ce résultat est avant tout important pour notre front\" : l’Ukraine retrouve une connexion stable à Starlink après plusieurs jours de tensions avec Washington",
+              "source": "BFM Business",
+              "url": "https://www.bfmtv.com/economie/international/ce-resultat-est-avant-tout-important-pour-notre-front-l-ukraine-retrouve-une-connexion-stable-a-starlink-apres-plusieurs-jours-de-tensions-avec-washington_AD-202610240176.html"
+            },
+            {
+              "titre": "Ukraine’s military says Starlink satellite connection stable after recent restrictions",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/world/2026/oct/24/ukraine-zelenskyy-military-starlink-satellite-connection-stable-after-restrictions"
             }
           ]
         }
@@ -1090,6 +1117,17 @@
               "titre": "En octobre 2026, la conjoncture dans les travaux publics se détériore encore un peu plus",
               "source": "INSEE",
               "url": "https://www.insee.fr/fr/statistiques/9097247"
+            }
+          ]
+        },
+        {
+          "date": "2026-10-25",
+          "resume": "Le ministre de l'Économie Roland Lescure confirme qu'une hausse anticipée du Smic avant le 1er janvier fait partie des discussions à mener avec les partenaires sociaux.",
+          "liens": [
+            {
+              "titre": "\"On va évidemment en discuter\": une hausse du Smic avant le 1er janvier \"fait partie des débats\", selon Roland Lescure",
+              "source": "BFM Business",
+              "url": "https://www.bfmtv.com/economie/on-va-evidemment-en-discuter-une-hausse-du-smic-avant-le-1er-janvier-fait-partie-des-debats-selon-roland-lescure_AD-202610240331.html"
             }
           ]
         }

@@ -1,7 +1,169 @@
 {
   "version_schema": 1,
-  "mis_a_jour_le": "2026-10-24T10:51:05+02:00",
+  "mis_a_jour_le": "2026-10-25T05:34:22+01:00",
   "entrees": [
+    {
+      "d": "2026-10-25",
+      "i": "3cf1e8c28e56",
+      "t": "12 à 18 centimes de moins par litre : les stocks de gazole libérés pourraient faire baisser les prix dès le 1er novembre",
+      "r": "Un décret publié au Journal officiel encadre la libération d'un volume maximal de 1,6 million de mètres cubes de stocks stratégiques de gazole. Le gouvernement espère une diminution de 12 à 18 centimes par litre à la pompe, que les distributeurs devront intégralement répercuter à compter du 1er novembre.",
+      "c": "desequilibres",
+      "s": "BFM Business",
+      "f": null
+    },
+    {
+      "d": "2026-10-25",
+      "i": "b405a941f93c",
+      "t": "\"On va évidemment en discuter\": une hausse du Smic avant le 1er janvier \"fait partie des débats\", selon Roland Lescure",
+      "r": "Le ministre de l'Économie Roland Lescure a indiqué qu'une éventuelle revalorisation anticipée du Smic avant le 1er janvier constituait une piste de discussion avec les partenaires sociaux. Cette démarche s'inscrit dans la recherche de solutions face aux revendications sur le pouvoir d'achat.",
+      "c": "desequilibres",
+      "s": "BFM Business",
+      "f": "conjoncture-france"
+    },
+    {
+      "d": "2026-10-25",
+      "i": "33d5e4297faa",
+      "t": "\"Ce résultat est avant tout important pour notre front\" : l’Ukraine retrouve une connexion stable à Starlink après plusieurs jours de tensions avec Washington",
+      "r": "L'Ukraine a annoncé le rétablissement d'une connexion stable au réseau satellitaire Starlink opéré par la société SpaceX, après plusieurs jours de restrictions techniques. L'épisode s'est déroulé dans un contexte de tensions politiques et relance le débat sur la dépendance militaire aux réseaux privés de télécommunication.",
+      "c": "mondialisation",
+      "s": "BFM Business",
+      "f": "ukraine-sanctions"
+    },
+    {
+      "d": "2026-10-25",
+      "i": "b74c30856b74",
+      "t": "Le premier budget de Healey comprendra un vaste train de décentralisation pour stimuler la croissance",
+      "r": "Le prochain budget britannique présenté par la chancellerie doit comporter un vaste plan de décentralisation budgétaire transférant des compétences de dépense aux dirigeants locaux en Angleterre. L'objectif affiché est de renforcer le pouvoir financier des exécutifs locaux pour soutenir l'activité économique sans dépendre des arbitrages de Londres.",
+      "c": "croissance",
+      "s": "The Guardian",
+      "f": null
+    },
+    {
+      "d": "2026-10-25",
+      "i": "d58b6e3c608d",
+      "t": "Le Japon dépend à 95% des États-Unis pour ses importations militaires mais commence à se tourner vers l'Europe (le français Thales est le premier à poser le pied sur l'archipel)",
+      "r": "Alors que le Japon importe 95 % de son matériel militaire depuis les États-Unis, le pays amorce une diversification de ses approvisionnements vers l'Europe, marquée par l'implantation de l'entreprise française Thales. Cette évolution s'inscrit dans un contexte d'augmentation des budgets de défense japonais sous le gouvernement de Sanae Takaichi.",
+      "c": "ue",
+      "s": "BFM Business",
+      "f": "budget-ue"
+    },
+    {
+      "d": "2026-10-25",
+      "i": "51cbb8246ef9",
+      "t": "« La discipline budgétaire et l’ambition productive ne peuvent pas être concurrentes, la France a besoin des deux »",
+      "r": "La discipline budgétaire et l’ambition productive sont jugées complémentaires pour la croissance, selon des experts de France Chimie et Rexecode.",
+      "c": "croissance",
+      "s": "Le Monde",
+      "f": null
+    },
+    {
+      "d": "2026-10-25",
+      "i": "78b224c035e9",
+      "t": "Rosebank : La vie sur le champ pétrolier au centre d'une tempête politique",
+      "r": "Un reportage explore le quotidien à bord d'un champ pétrolier inexploité en Écosse en attente de décision politique.",
+      "c": "croissance",
+      "s": "BBC",
+      "f": null
+    },
+    {
+      "d": "2026-10-25",
+      "i": "67efb573cd48",
+      "t": "Ukraine’s military says Starlink satellite connection stable after recent restrictions",
+      "r": "L'armée ukrainienne dispose d'une connexion stable à Starlink après des restrictions, tandis qu'Elon Musk accuse Kiev de violation des conditions.",
+      "c": "mondialisation",
+      "s": "The Guardian",
+      "f": "ukraine-sanctions"
+    },
+    {
+      "d": "2026-10-25",
+      "i": "12d28c168b5c",
+      "t": "Les banques accusées de cherry-picking des données sur la fiscalité londonienne",
+      "r": "Un groupe de lobbying britannique est accusé de sélectionner des données pour présenter une hausse de la fiscalité bancaire au Royaume-Uni.",
+      "c": "finance",
+      "s": "The Guardian",
+      "f": null
+    },
+    {
+      "d": "2026-10-25",
+      "i": "60063406b226",
+      "t": "Giuliano da Empoli, écrivain : « L’élection présidentielle française se transforme aujourd’hui en cocotte-minute »",
+      "r": "L'écrivain Giuliano da Empoli analyse les tensions politiques et sociales qui secouent la France et l'Europe à l'approche de l'élection présidentielle.",
+      "c": "desequilibres",
+      "s": "La Tribune",
+      "f": "presidentielle-2027"
+    },
+    {
+      "d": "2026-10-25",
+      "i": "26ac21f4c166",
+      "t": "Des soirées curry et des conseillers avisés peuvent-ils aider Healey à présenter un budget pour les citoyens ordinaires ?",
+      "r": "Le chancelier promet un répit pour les ménages et les petites entreprises dans un contexte marqué par les événements mondiaux.",
+      "c": "desequilibres",
+      "s": "The Guardian",
+      "f": null
+    },
+    {
+      "d": "2026-10-25",
+      "i": "935195669811",
+      "t": "Vie chère, pouvoir d’achat, jeunesse : quelles solutions dans un pays surendetté ?",
+      "r": "Deux économistes débattent chaque samedi des sujets liés au pouvoir d'achat, à la vie chère et au surendettement.",
+      "c": "desequilibres",
+      "s": "franceinfo",
+      "f": null
+    },
+    {
+      "d": "2026-10-25",
+      "i": "8e3964626413",
+      "t": "Conserves, papier toilette et batteries de secours : les Britanniques suivent les conseils de stockage d'urgence",
+      "r": "Face aux recommandations gouvernementales de stocker des produits de première nécessité, certains résidents britanniques constituent des réserves d'urgence.",
+      "c": "desequilibres",
+      "s": "The Guardian",
+      "f": null
+    },
+    {
+      "d": "2026-10-25",
+      "i": "1d52ab4c5312",
+      "t": "\"C'est l'effet pervers du géant\" : pourquoi l'empire Nike vacille ?",
+      "r": "L'équipementier sportif Nike traverse des difficultés financières marquées par une baisse de son action et la perte de contrats majeurs.",
+      "c": "entreprises",
+      "s": "franceinfo",
+      "f": null
+    },
+    {
+      "d": "2026-10-25",
+      "i": "30249e474907",
+      "t": "Panne géante chez Orange : quelle compensation pour les millions de clients touchés ?",
+      "r": "Une panne géante sur le réseau Orange prive des millions de clients d'appels et d'internet pendant plus de neuf heures.",
+      "c": "entreprises",
+      "s": "Le Figaro",
+      "f": null
+    },
+    {
+      "d": "2026-10-25",
+      "i": "bc7187982410",
+      "t": "En Isère, plusieurs centaines de kilos de hafnium, un métal stratégique, volés dans une usine Framatome classée Seveso seuil haut",
+      "r": "Plusieurs centaines de kilos de hafnium, un métal stratégique, ont été volés dans une usine Framatome en Isère pour un préjudice de plusieurs millions d'euros.",
+      "c": "entreprises",
+      "s": "franceinfo",
+      "f": null
+    },
+    {
+      "d": "2026-10-25",
+      "i": "30471a19e145",
+      "t": "« Cuts mean jobs » : le personnel de Skydance se prépare à un bouleversement après la fusion de 110 bn dollars",
+      "r": "La fusion de Paramount et Warner Bros crée un nouveau géant du divertissement, provoquant des inquiétudes de licenciements parmi les employés de Skydance.",
+      "c": "entreprises",
+      "s": "The Guardian",
+      "f": null
+    },
+    {
+      "d": "2026-10-25",
+      "i": "4290428523f7",
+      "t": "Immobilier : Les marchés sous le signe du ralentissement",
+      "r": "Les marchés de l'immobilier font face à un net ralentissement de leur activité dans un contexte économique et social tendu.",
+      "c": "epargne",
+      "s": "franceinfo",
+      "f": null
+    },
     {
       "d": "2026-10-24",
       "i": "7f6fcbdcfae8",

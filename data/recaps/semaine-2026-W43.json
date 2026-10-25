@@ -1,0 +1,106 @@
+{
+  "version_schema": 1,
+  "type": "semaine",
+  "periode": "2026-W43",
+  "libelle": "Semaine du 19 octobre au 25 octobre 2026",
+  "du": "2026-10-19",
+  "au": "2026-10-25",
+  "genere_le": "2026-10-25T05:38:20+01:00",
+  "accroche": "Taux français à 5 %, rejet du PLFSS, Brent à 117 dollars, libération de stocks de carburant",
+  "synthese": "La semaine a été dominée par une vive dégradation des conditions de financement de la France sur les marchés obligataires. Dans un contexte de contestation sociale et d'enlisement parlementaire, l'écart de taux avec l'Allemagne s'est élargi à 1,53 point et le rendement à dix ans a dépassé 5 %, surpassant les taux américains. Les discussions budgétaires pour 2027 ont achoppé à l'Assemblée nationale avec le rejet du volet recettes du budget de la Sécurité sociale, alors que la Cour des comptes alertait sur la fragilité de la trajectoire financière. Parallèlement, les tensions géopolitiques au Moyen-Orient ont propulsé le pétrole Brent au-dessus des 117 dollars le baril. Face à cette flambée énergétique, le gouvernement français a autorisé la libération de réserves stratégiques de carburant et ouvert la voie à une revalorisation anticipée du Smic.",
+  "faits_marquants": [
+    {
+      "date": "2026-10-21",
+      "titre": "La tension sur la dette s'accentue: à 1,53 point, l'écart entre les taux français et allemand à dix ans atteint son plus haut niveau en clôture depuis 2011",
+      "titre_fr": null,
+      "source": "BFM Business",
+      "url": "https://www.bfmtv.com/economie/economie-social/finances-publiques/la-tension-sur-la-dette-s-accentue-a-1-53-point-l-ecart-entre-les-taux-francais-et-allemand-a-dix-ans-atteint-son-plus-haut-niveau-en-cloture-depuis-2011_AD-202610200723.html",
+      "categorie": "finance",
+      "fil_rouge": "dette-marches",
+      "article_id": "b897800edbe2",
+      "a_retenir": "L'élargissement du spread franco-allemand à son plus haut niveau depuis 2011 illustre la hausse de la prime de risque exigée par les investisseurs sur la dette souveraine française."
+    },
+    {
+      "date": "2026-10-21",
+      "titre": "Budget de la Sécu 2027 : la Cour des comptes juge «fragile» l’objectif de 12,7 milliards d'euros de déficit",
+      "titre_fr": null,
+      "source": "Capital",
+      "url": "https://www.capital.fr/economie-politique/budget-de-la-secu-2027-la-cour-des-comptes-juge-fragile-lobjectif-de-127-milliards-de-deficit-1531138",
+      "categorie": "desequilibres",
+      "fil_rouge": "budget-2027",
+      "article_id": "6d9f67eeb539",
+      "a_retenir": "L'avertissement de la Cour des comptes souligne la difficulté de stabiliser les comptes publics face à l'alourdissement structurel des dépenses de santé et de protection sociale."
+    },
+    {
+      "date": "2026-10-23",
+      "titre": "Taux d’intérêt au-delà des 5 % : une hausse qui sanctionne un débat budgétaire enlisé",
+      "titre_fr": null,
+      "source": "Le Monde",
+      "url": "https://www.lemonde.fr/idees/article/2026/10/22/taux-d-interet-au-dela-des-5-une-hausse-qui-sanctionne-un-debat-budgetaire-enlise_6798598_3232.html",
+      "categorie": "desequilibres",
+      "fil_rouge": "dette-marches",
+      "article_id": "7608def25ec1",
+      "a_retenir": "Le franchissement du seuil de 5 % pour les rendements obligataires accentue le risque d'un effet boule de neige sur la charge d'intérêt de la dette publique."
+    },
+    {
+      "date": "2026-10-24",
+      "titre": "PLFSS 2027 : à l’Assemblée, le budget de la Sécurité sociale rejeté après une saignée de 12 milliards d’euros",
+      "titre_fr": null,
+      "source": "Capital",
+      "url": "https://www.capital.fr/economie-politique/plfss-2027-a-lassemblee-le-budget-de-la-securite-sociale-rejete-apres-une-saignee-de-12-milliards-deuros-1531225",
+      "categorie": "desequilibres",
+      "fil_rouge": "budget-2027",
+      "article_id": "7f6fcbdcfae8",
+      "a_retenir": "Le rejet parlementaire du volet recettes du PLFSS traduit une impasse institutionnelle pesant directement sur la crédibilité de la trajectoire budgétaire."
+    },
+    {
+      "date": "2026-10-24",
+      "titre": "Oil price rises above $117 a barrel amid fears US will renew strikes on Iran",
+      "titre_fr": "Le prix du pétrole dépasse les 117 dollars le baril face aux craintes de nouvelles frappes américaines contre l'Iran",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/oct/23/oil-five-month-high-fears-us-renews-strikes-iran",
+      "categorie": "mondialisation",
+      "fil_rouge": "choc-petrolier-ormuz",
+      "article_id": "d139ede9e737",
+      "a_retenir": "La flambée du pétrole au-delà de 117 dollars alimente les pressions inflationnistes via un choc d'offre importé pesant sur les coûts de production et le pouvoir d'achat."
+    }
+  ],
+  "fils_rouges": [
+    {
+      "id": "budget-2027",
+      "evolution": "Les débats parlementaires se sont enlisés jusqu'au rejet du volet recettes du budget de la Sécurité sociale par l'Assemblée nationale, sous les mises en garde de la Cour des comptes."
+    },
+    {
+      "id": "dette-marches",
+      "evolution": "La défiance des marchés s'est intensifiée avec des taux souverains français à dix ans franchissant 5 % et dépassant les rendements américains, sur fond de spread record avec le Bund allemand."
+    },
+    {
+      "id": "choc-petrolier-ormuz",
+      "evolution": "Les craintes de perturbations d'approvisionnement au Moyen-Orient ont propulsé les cours du Brent au-delà de 117 dollars, incitant l'exécutif à libérer des stocks de gazole."
+    },
+    {
+      "id": "conjoncture-france",
+      "evolution": "Le climat économique s'est assombri avec des aides accordées aux commerces touchés par les violences, le redressement judiciaire de GiFi et l'évocation d'une hausse anticipée du Smic."
+    },
+    {
+      "id": "intelligence-artificielle",
+      "evolution": "Le secteur fait face à des contraintes physiques d'approvisionnement électrique au Royaume-Uni et à des doutes boursiers sur la rentabilité des investissements, tandis que l'Allemagne s'est alliée à Nvidia."
+    },
+    {
+      "id": "presidentielle-2027",
+      "evolution": "Les propositions économiques en vue de l'élection de 2027 ont fait l'objet de critiques et d'inquiétudes au sein des milieux d'affaires."
+    },
+    {
+      "id": "automobile-europe-chine",
+      "evolution": "Les réflexions sur la préférence continentale et le « made in Europe » ont progressé timidement dans le sillage d'un accord franco-allemand sur le secteur automobile."
+    },
+    {
+      "id": "budget-ue",
+      "evolution": "Les débats européens ont porté sur les emprunts communs et la souveraineté industrielle, tandis que des partenariats d'approvisionnement de défense s'ouvrent à l'international."
+    },
+    {
+      "id": "ukraine-sanctions",
+      "evolution": "Le maintien des capacités de télécommunications militaires ukrainiennes a été temporairement fragilisé par des tensions autour de l'utilisation du réseau privé Starlink."
+    }
+  ]
+}

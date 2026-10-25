@@ -1,7 +1,48 @@
 {
   "version_schema": 1,
   "notions": {
+    "pouvoir-d-achat": [
+      {
+        "date": "2026-10-25",
+        "id": "3cf1e8c28e56",
+        "titre": "12 à 18 centimes de moins par litre : les stocks de gazole libérés pourraient faire baisser les prix dès le 1er novembre",
+        "source": "BFM Business",
+        "contexte": "Top 5 du jour"
+      }
+    ],
+    "boucle-prix-salaires": [
+      {
+        "date": "2026-10-25",
+        "id": "b405a941f93c",
+        "titre": "\"On va évidemment en discuter\": une hausse du Smic avant le 1er janvier \"fait partie des débats\", selon Roland Lescure",
+        "source": "BFM Business",
+        "contexte": "Top 5 du jour"
+      }
+    ],
+    "autonomie-strategique-europeenne": [
+      {
+        "date": "2026-10-25",
+        "id": "33d5e4297faa",
+        "titre": "\"Ce résultat est avant tout important pour notre front\" : l’Ukraine retrouve une connexion stable à Starlink après plusieurs jours de tensions avec Washington",
+        "source": "BFM Business",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-10-19",
+        "id": "aeaf62698138",
+        "titre": "Après l'accord franco-allemand sur la voiture, le « made in Europe » avance à pas comptés",
+        "source": "L'Opinion",
+        "contexte": "Top 5 du jour"
+      }
+    ],
     "politique-budgetaire": [
+      {
+        "date": "2026-10-25",
+        "id": "b74c30856b74",
+        "titre": "Healey’s first budget to include big devolution package to boost growth",
+        "source": "The Guardian",
+        "contexte": "Top 5 du jour"
+      },
       {
         "date": "2026-10-24",
         "id": "7f6fcbdcfae8",
@@ -21,6 +62,22 @@
         "id": "6825d2c17a9c",
         "titre": "Retraite, santé : la protection sociale, principal poste de dépenses de l’État",
         "source": "Le Figaro",
+        "contexte": "Top 5 du jour"
+      }
+    ],
+    "competitivite-prix-et-hors-prix": [
+      {
+        "date": "2026-10-25",
+        "id": "d58b6e3c608d",
+        "titre": "Le Japon dépend à 95% des États-Unis pour ses importations militaires mais commence à se tourner vers l'Europe (le français Thales est le premier à poser le pied sur l'archipel)",
+        "source": "BFM Business",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-10-21",
+        "id": "156d6c0b32a1",
+        "titre": "Le 737 MAX 10 certifié, Boeing tourne enfin la page de la crise du MAX",
+        "source": "La Tribune",
         "contexte": "Top 5 du jour"
       }
     ],
@@ -191,15 +248,6 @@
         "contexte": "Top 5 du jour"
       }
     ],
-    "competitivite-prix-et-hors-prix": [
-      {
-        "date": "2026-10-21",
-        "id": "156d6c0b32a1",
-        "titre": "Le 737 MAX 10 certifié, Boeing tourne enfin la page de la crise du MAX",
-        "source": "La Tribune",
-        "contexte": "Top 5 du jour"
-      }
-    ],
     "deficit-public-et-solde-primaire": [
       {
         "date": "2026-10-21",
@@ -255,15 +303,6 @@
         "date": "2026-10-19",
         "id": "4acc28984b86",
         "titre": "Kristen Michal, Premier ministre estonien : « Zelensky a le soutien des Européens »",
-        "source": "L'Opinion",
-        "contexte": "Top 5 du jour"
-      }
-    ],
-    "autonomie-strategique-europeenne": [
-      {
-        "date": "2026-10-19",
-        "id": "aeaf62698138",
-        "titre": "Après l'accord franco-allemand sur la voiture, le « made in Europe » avance à pas comptés",
         "source": "L'Opinion",
         "contexte": "Top 5 du jour"
       }

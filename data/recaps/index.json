@@ -1,4 +1,13 @@
 {
   "version_schema": 1,
-  "recaps": []
+  "recaps": [
+    {
+      "fichier": "recaps/semaine-2026-W43.json",
+      "type": "semaine",
+      "periode": "2026-W43",
+      "libelle": "Semaine du 19 octobre au 25 octobre 2026",
+      "du": "2026-10-19",
+      "au": "2026-10-25"
+    }
+  ]
 }
