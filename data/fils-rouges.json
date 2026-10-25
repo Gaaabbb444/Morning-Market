@@ -1,6 +1,6 @@
 {
   "version_schema": 1,
-  "mis_a_jour_le": "2026-10-25T05:35:22+01:00",
+  "mis_a_jour_le": "2026-10-25T09:51:32+01:00",
   "fils": [
     {
       "id": "budget-2027",
@@ -11,8 +11,8 @@
       "categories": [
         "desequilibres"
       ],
-      "ou_en_est_on": "L'examen des textes budgétaires pour 2027 traverse une phase de blocage majeur à l'Assemblée nationale après le rejet du volet recettes de la Sécurité sociale. Les contre-propositions parlementaires portant notamment sur les retraites, la sous-indexation des pensions et les abattements fiscaux accentuent l'incertitude sur l'adoption finale du budget. Face à l'enlisement des débats, l'hypothèse d'un recours à l'article 49.3 ou à des ordonnances reste évoquée. En parallèle, les entreprises s'inquiètent de la suppression prévue d'allègements de cotisations sociales et de ses répercussions sur leurs coûts.",
-      "ou_en_est_on_maj_le": "2026-10-24",
+      "ou_en_est_on": "L'examen des textes budgétaires pour 2027 suscite de vives inquiétudes sectorielles face au risque de blocage parlementaire. Le Délégué général pour l'armement avertit qu'un rejet du budget compromettrait les programmes de réarmement militaire de la France. En parallèle, les discussions sur les économies de l'Assurance maladie remettent en cause la prise en charge des cures thermales, fragilisant le modèle économique de cette filière. Ces tensions s'ajoutent aux désaccords majeurs déjà constatés sur les retraites et les cotisations sociales.",
+      "ou_en_est_on_maj_le": "2026-10-25",
       "evenements": [
         {
           "date": "2026-10-17",
@@ -219,6 +219,22 @@
               "titre": "Non, le budget ne préserve pas la transition écologique (mais il conforte le nucléaire)",
               "source": "Alternatives Économiques",
               "url": "https://www.alternatives-economiques.fr/non-le-budget-ne-preserve-pas-la-transition-ecologique-mais-il-conforte-le-nucleaire_23-10-2026"
+            }
+          ]
+        },
+        {
+          "date": "2026-10-25",
+          "resume": "Le Délégué général pour l'armement Patrick Pailloux avertit qu'une absence d'adoption du budget 2027 compromettrait le réarmement français, tandis que le projet remet en question la prise en charge des cures thermales par l'Assurance maladie.",
+          "liens": [
+            {
+              "titre": "Sans budget 2027, le réarmement de la France devient de « la science-fiction »",
+              "source": "La Tribune",
+              "url": "https://www.latribune.fr/article/defense-aerospatiale/defense/35697078840280/sans-budget-2027-le-rearmement-de-la-france-devient-de-la-science-fiction"
+            },
+            {
+              "titre": "«Leur modèle est fondé en partie sur la sécurité sociale» : l’éternelle angoisse des villes thermales, suspendues aux coupes budgétaires",
+              "source": "Le Figaro",
+              "url": "https://www.lefigaro.fr/conjoncture/leur-modele-est-fonde-en-partie-sur-la-securite-sociale-l-eternelle-angoisse-des-villes-thermales-suspendues-aux-coupes-budgetaires-20261025"
             }
           ]
         }
@@ -859,8 +875,8 @@
         "desequilibres",
         "entreprises"
       ],
-      "ou_en_est_on": "Le climat économique français subit le contrecoup des tensions sociales et des dégradations de commerces, conduisant Bpifrance à proposer des prêts à taux zéro pour préserver la trésorerie des professionnels touchés. Ces violences urbaines suscitent également des craintes dans le secteur touristique, notamment auprès des visiteurs étrangers. Pour tenter d'apaiser la contestation, le gouvernement envisage une revalorisation du Smic dès le 1er novembre, un scénario que les organisations patronales redoutent pour l'emploi et la santé financière des entreprises. Ces difficultés s'ajoutent à un contexte sectoriel déjà fragilisé dans la construction et à plusieurs défaillances d'entreprises.",
-      "ou_en_est_on_maj_le": "2026-10-24",
+      "ou_en_est_on": "L'activité économique française demeure sous la pression des tensions sociales et des mobilisations du 24 octobre (410 000 manifestants selon l'Intérieur, 800 000 selon la CGT). Dans plusieurs centres-villes comme à Marseille, les commerçants s'inquiètent pour leur sécurité et la viabilité de leurs boutiques face aux dégradations. Pour tenter d'apaiser le climat, l'exécutif poursuit ses consultations sur une revalorisation anticipée du Smic, tandis que les professionnels continuent de redouter l'impact de ces troubles sur la fréquentation et la consommation.",
+      "ou_en_est_on_maj_le": "2026-10-25",
       "evenements": [
         {
           "date": "2026-10-17",
@@ -1122,12 +1138,22 @@
         },
         {
           "date": "2026-10-25",
-          "resume": "Le ministre de l'Économie Roland Lescure confirme qu'une hausse anticipée du Smic avant le 1er janvier fait partie des discussions à mener avec les partenaires sociaux.",
+          "resume": "Après les manifestations du 24 octobre, qui ont réuni 410 000 personnes selon le ministère de l'Intérieur et 800 000 selon la CGT, les commerçants de centres-villes comme Marseille expriment leurs inquiétudes pour la survie de leurs activités.",
           "liens": [
             {
               "titre": "\"On va évidemment en discuter\": une hausse du Smic avant le 1er janvier \"fait partie des débats\", selon Roland Lescure",
               "source": "BFM Business",
               "url": "https://www.bfmtv.com/economie/on-va-evidemment-en-discuter-une-hausse-du-smic-avant-le-1er-janvier-fait-partie-des-debats-selon-roland-lescure_AD-202610240331.html"
+            },
+            {
+              "titre": "« Lorsqu’on revient ouvrir sa boutique, on se demande dans quel état on va la retrouver » : À Marseille, des commerçants tenaillés par la peur",
+              "source": "La Tribune",
+              "url": "https://www.latribune.fr/article/la-tribune-dimanche/societe/1603737890542114/lorsqu-on-revient-ouvrir-sa-boutique-on-se-demande-dans-quel-etat-on-va-la-retrouver-a-marseille-des-commercants-tenailles-par-la-peur"
+            },
+            {
+              "titre": "DIRECT. Manifestations du 24 octobre : 142 personnes ont été interpellées à Paris, dont 120 placées en garde à vue, selon la préfecture de police",
+              "source": "franceinfo",
+              "url": "https://www.franceinfo.fr/societe/manifestations/direct-manifestations-du-24-octobre-142-personnes-ont-ete-interpellees-a-paris-dont-120-ont-ete-placees-en-garde-a-vue-selon-la-prefecture-de-police_8252812.html#xtor=RSS-3-%5Bgeneral%5D"
             }
           ]
         }
@@ -1144,8 +1170,8 @@
         "entreprises",
         "ue"
       ],
-      "ou_en_est_on": "Le secteur de l'intelligence artificielle continue de susciter des investissements publics stratégiques, le gouvernement britannique prévoyant d'y engager des centaines de millions de livres pour renforcer sa sécurité et son économie. Sur les marchés financiers, l'essor technologique profite également aux pays émergents, devenus des fournisseurs clés d'équipements indispensables aux infrastructures d'IA. En parallèle, le débat économique demeure vif quant à l'ampleur réelle des destructions d'emplois administratifs anticipées par certains acteurs du secteur.",
-      "ou_en_est_on_maj_le": "2026-10-24",
+      "ou_en_est_on": "Les effets concrets du déploiement de l'intelligence artificielle se précisent sur le marché du travail et les industries créatives. Face à l'automatisation croissante de certaines tâches, de jeunes professionnels choisissent de se réorienter vers des métiers manuels préservés de cette concurrence technologique. Côté transparence, le secteur musical devance l'édition et le cinéma dans l'étiquetage des œuvres générées par IA sur les plateformes de streaming. Ces évolutions illustrent l'adaptation progressive du cadre professionnel et des filières culturelles à la diffusion de ces outils.",
+      "ou_en_est_on_maj_le": "2026-10-25",
       "evenements": [
         {
           "date": "2026-10-17",
@@ -1322,6 +1348,22 @@
               "titre": "Bourse : actions, ETF… l’investissement sur les marchés émergents «revient au premier plan», voici pourquoi",
               "source": "Capital",
               "url": "https://www.capital.fr/entreprises-marches/bourse-actions-etf-linvestissement-sur-les-marches-emergents-revient-au-premier-plan-voici-pourquoi-1530989"
+            }
+          ]
+        },
+        {
+          "date": "2026-10-25",
+          "resume": "L'impact de l'IA générative pousse certains jeunes actifs vers les métiers manuels face à l'automatisation, tandis que la musique prend de l'avance sur l'édition et le cinéma dans l'identification des contenus générés par IA.",
+          "liens": [
+            {
+              "titre": "« Je n’ai pas la force de lutter contre l’IA » : face aux ravages de l’automatisation, une partie des jeunes se tourne vers des métiers manuels",
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/campus/article/2026/10/25/je-n-ai-pas-la-force-de-lutter-contre-l-ia-face-aux-ravages-de-l-automatisation-une-partie-des-jeunes-se-tourne-vers-des-metiers-manuels_6800031_4401467.html"
+            },
+            {
+              "titre": "Pour identifier le recours à l’IA dans les œuvres, la musique affiche une sérieuse avance sur l’édition et le cinéma",
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/economie/article/2026/10/25/pour-identifier-le-recours-a-l-ia-dans-les-uvres-la-musique-affiche-une-serieuse-avance-sur-l-edition-et-le-cinema_6800033_3234.html"
             }
           ]
         }

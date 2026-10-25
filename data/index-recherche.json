@@ -1,6 +1,6 @@
 {
   "version_schema": 1,
-  "mis_a_jour_le": "2026-10-25T05:34:22+01:00",
+  "mis_a_jour_le": "2026-10-25T09:49:38+01:00",
   "entrees": [
     {
       "d": "2026-10-25",
@@ -67,12 +67,48 @@
     },
     {
       "d": "2026-10-25",
+      "i": "8e1038a4965f",
+      "t": "« Je n’ai pas la force de lutter contre l’IA » : face aux ravages de l’automatisation, une partie des jeunes se tourne vers des métiers manuels",
+      "r": "Face au développement de l'intelligence artificielle générative et de l'automatisation, certains jeunes actifs choisissent de se reconvertir dans des métiers manuels.",
+      "c": "croissance",
+      "s": "Le Monde",
+      "f": "intelligence-artificielle"
+    },
+    {
+      "d": "2026-10-25",
+      "i": "3c4c9fce1c2f",
+      "t": "Pour identifier le recours à l’IA dans les œuvres, la musique affiche une sérieuse avance sur l’édition et le cinéma",
+      "r": "L'industrie musicale devance l'édition et le cinéma en matière de transparence et d'identification des contenus générés par intelligence artificielle.",
+      "c": "croissance",
+      "s": "Le Monde",
+      "f": "intelligence-artificielle"
+    },
+    {
+      "d": "2026-10-25",
       "i": "67efb573cd48",
       "t": "Ukraine’s military says Starlink satellite connection stable after recent restrictions",
       "r": "L'armée ukrainienne dispose d'une connexion stable à Starlink après des restrictions, tandis qu'Elon Musk accuse Kiev de violation des conditions.",
       "c": "mondialisation",
       "s": "The Guardian",
       "f": "ukraine-sanctions"
+    },
+    {
+      "d": "2026-10-25",
+      "i": "de96200dbce8",
+      "t": "Le monde entier s'arrache leur burrata et leur prosecco: mais comment fait l'industrie agroalimentaire italienne pour croître plus vite que la gastronomie française",
+      "r": "L'industrie agroalimentaire italienne connaît une forte croissance à l'international grâce aux efforts du gouvernement et à la mobilisation des entreprises.",
+      "c": "mondialisation",
+      "s": "BFM Business",
+      "f": null
+    },
+    {
+      "d": "2026-10-25",
+      "i": "ff980ece399a",
+      "t": "« C'est ainsi que fonctionne la ville » : comment les Émirats arabes unis ont changé le visage du Manchester d'Andy Burnham",
+      "r": "Des analyses révèlent que la propriété foncière à Manchester par des entreprises liées aux Émirats arabes unis a augmenté de 39 % en dix ans.",
+      "c": "mondialisation",
+      "s": "The Guardian",
+      "f": null
     },
     {
       "d": "2026-10-25",
@@ -121,6 +157,15 @@
     },
     {
       "d": "2026-10-25",
+      "i": "8eca78c69631",
+      "t": "DIRECT. Manifestations du 24 octobre : 142 personnes ont été interpellées à Paris, dont 120 placées en garde à vue, selon la préfecture de police",
+      "r": "Les manifestations du 24 octobre ont rassemblé 410 000 personnes selon le ministère de l'Intérieur et 800 000 selon la CGT, entraînant 142 interpellations à Paris.",
+      "c": "desequilibres",
+      "s": "franceinfo",
+      "f": null
+    },
+    {
+      "d": "2026-10-25",
       "i": "1d52ab4c5312",
       "t": "\"C'est l'effet pervers du géant\" : pourquoi l'empire Nike vacille ?",
       "r": "L'équipementier sportif Nike traverse des difficultés financières marquées par une baisse de son action et la perte de contrats majeurs.",
@@ -157,11 +202,29 @@
     },
     {
       "d": "2026-10-25",
+      "i": "3638cdbdd5b5",
+      "t": "Donald Trump annonce un « énorme investissement » d'Audi aux États-Unis",
+      "r": "Donald Trump a annoncé qu'Audi prévoyait d'investir 4,2 milliards de dollars pour construire une usine en Géorgie produisant 200 000 véhicules par an.",
+      "c": "entreprises",
+      "s": "La Tribune",
+      "f": null
+    },
+    {
+      "d": "2026-10-25",
       "i": "4290428523f7",
       "t": "Immobilier : Les marchés sous le signe du ralentissement",
       "r": "Les marchés de l'immobilier font face à un net ralentissement de leur activité dans un contexte économique et social tendu.",
       "c": "epargne",
       "s": "franceinfo",
+      "f": null
+    },
+    {
+      "d": "2026-10-25",
+      "i": "d3dae4d7ffac",
+      "t": "« Je ne pensais pas qu'ils pouvaient valoir autant » : quand la flambée de l'or pousse les Français à vendre leurs bijoux",
+      "r": "",
+      "c": "epargne",
+      "s": "Les Echos",
       "f": null
     },
     {
