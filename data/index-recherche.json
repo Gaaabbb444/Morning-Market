@@ -1,7 +1,241 @@
 {
   "version_schema": 1,
-  "mis_a_jour_le": "2026-10-25T09:49:38+01:00",
+  "mis_a_jour_le": "2026-10-26T05:39:10+01:00",
   "entrees": [
+    {
+      "d": "2026-10-26",
+      "i": "aefc29f5f987",
+      "t": "Malgré un taux de chômage au plus haut, \"44% des entreprises ont des difficultés de recrutement\", constate le directeur général de France Travail",
+      "r": "Le taux de chômage atteint 8,3 % et entre 200 000 et 300 000 emplois resteraient non pourvus en France, selon le directeur général de France Travail, les jeunes étant particulièrement touchés.",
+      "c": "desequilibres",
+      "s": "BFM Business",
+      "f": "conjoncture-france"
+    },
+    {
+      "d": "2026-10-26",
+      "i": "c26fa3c4d999",
+      "t": "La colère sociale fragilise encore davantage les perspectives économiques de la France",
+      "r": "La crise sociale vient percuter une économie déjà confrontée à l’inflation énergétique, la baisse du pouvoir d’achat et la hausse des taux obligataires, alors que le projet de budget 2027 doit réduire le déficit public pour rétablir la confiance des marchés.",
+      "c": "desequilibres",
+      "s": "Le Monde",
+      "f": "conjoncture-france"
+    },
+    {
+      "d": "2026-10-26",
+      "i": "c3a9567da3a3",
+      "t": "Violences urbaines, flambée des taux d’intérêt… Le décrochage du CAC 40, un reflet des désordres français",
+      "r": "L’indice phare du CAC 40 est dans le rouge depuis le début de l’année, selon Le Figaro, en raison de la situation politique et budgétaire française.",
+      "c": "finance",
+      "s": "Le Figaro",
+      "f": "dette-marches"
+    },
+    {
+      "d": "2026-10-26",
+      "i": "81d3a09a1c1c",
+      "t": "\"On le dit, on continuera\" : une mobilisation sociale partie pour s'ancrer dans la durée ?",
+      "r": "Des centaines de milliers de Français ont manifesté le 24 octobre contre la vie chère et la dégradation des services publics, avec deux nouvelles journées de mobilisation prévues les 31 octobre et 5 novembre.",
+      "c": "desequilibres",
+      "s": "franceinfo",
+      "f": "conjoncture-france"
+    },
+    {
+      "d": "2026-10-26",
+      "i": "57a7e5606a5b",
+      "t": "Comment des « prêts toxiques » chinois ont alimenté une spirale de surendettement en Zambie",
+      "r": "Des prêts de la Banque industrielle et commerciale de Chine ont contribué à étouffer financièrement la Zambie, selon des documents bancaires confidentiels.",
+      "c": "mondialisation",
+      "s": "Le Monde",
+      "f": null
+    },
+    {
+      "d": "2026-10-26",
+      "i": "821ffcc14cb1",
+      "t": "Henna Virkkunen : « L’Europe n'a pas besoin d'être la première sur les modèles d'IA les plus performants »",
+      "r": "La vice-présidente de la Commission européenne estime que l'UE doit investir dans les modèles de fondation sans chercher à être la première sur les performances.",
+      "c": "croissance",
+      "s": "L'Opinion",
+      "f": "intelligence-artificielle"
+    },
+    {
+      "d": "2026-10-26",
+      "i": "e66596cddb44",
+      "t": "Jean-Pierre Robin : «La décarbonation de l’économie, réponse aux crises du climat et du pouvoir d’achat»",
+      "r": "La dépendance aux énergies fossiles nourrit l'inflation à mesure que les hydrocarbures se raréfient, rendant la décarbonation nécessaire.",
+      "c": "croissance",
+      "s": "Le Figaro",
+      "f": null
+    },
+    {
+      "d": "2026-10-26",
+      "i": "e53522d33a83",
+      "t": "Iran : après des frappes sur ses installations gazières, Téhéran appelle à réduire la consommation de gaz de 10% avant l'hiver",
+      "r": "Face aux frappes endommageant ses installations gazières et à un déficit anticipé de 250 millions de mètres cubes par jour, Téhéran appelle à réduire la consommation.",
+      "c": "croissance",
+      "s": "BFM Business",
+      "f": null
+    },
+    {
+      "d": "2026-10-26",
+      "i": "eb14d132ce90",
+      "t": "Le budget de Healey doit soutenir l'économie face aux incertitudes",
+      "r": "Alors que la situation économique actuelle est positive, le gouvernement travailliste fait face à des perspectives plus difficiles pour le début de l'année.",
+      "c": "croissance",
+      "s": "BBC",
+      "f": null
+    },
+    {
+      "d": "2026-10-26",
+      "i": "93555b4ccc3c",
+      "t": "« Les câbles sous-marins sont utilisés par la Russie ou la Chine pour affaiblir leurs ennemis et par les géants numériques pour asseoir leur domination »",
+      "r": "Les câbles sous-marins constituent un enjeu géopolitique majeur, ciblés par des services d'espionnage et utilisés par les géants du numérique pour assoir leur domination.",
+      "c": "mondialisation",
+      "s": "Le Monde",
+      "f": null
+    },
+    {
+      "d": "2026-10-26",
+      "i": "9adfc8cae78c",
+      "t": "\"Poutine n'a pas peur d'Eurofighter ou du Rafale mais du F-35\": malgré les craintes de dépendance, l'avion furtif américain domine toujours largement ses concurrents en Europe",
+      "r": "Les États-Unis ont vendu plus de 623 avions F-35 à 13 alliés de l'Otan, dont 12 pays européens, malgré des polémiques.",
+      "c": "mondialisation",
+      "s": "BFM Business",
+      "f": null
+    },
+    {
+      "d": "2026-10-26",
+      "i": "78441291ffa2",
+      "t": "Face à Donald Trump et l’Iran, un nouveau « grand huit » diplomatique",
+      "r": "Quatre puissances européennes et quatre du Moyen-Orient se sont réunies en Turquie pour coordonner leurs positions diplomatiques.",
+      "c": "mondialisation",
+      "s": "L'Opinion",
+      "f": null
+    },
+    {
+      "d": "2026-10-26",
+      "i": "f50ec110c9a3",
+      "t": "Il est accusé d'avoir contourné les sanctions américaines pour transférer 5 Boeing 777 vers l'Iran: le magnat Mamy Ravatomanga, allié de l'ancien président malgache, sera jugé la semaine prochaine",
+      "r": "Un homme d'affaires malgache est jugé pour avoir contourné les sanctions américaines en transférant des Boeing vers l'Iran.",
+      "c": "mondialisation",
+      "s": "BFM Business",
+      "f": null
+    },
+    {
+      "d": "2026-10-26",
+      "i": "c44c8660abb4",
+      "t": "« Les cryptomonnaies ne peuvent pas servir de voie de contournement » : la Banque centrale israélienne fustige les propos de Netanyahou sur les sanctions internationales",
+      "r": "La Banque centrale israélienne a rejeté les propos de Benjamin Netanyahu évoquant une économie de contournement par les cryptomonnaies face aux sanctions internationales.",
+      "c": "finance",
+      "s": "La Tribune",
+      "f": null
+    },
+    {
+      "d": "2026-10-26",
+      "i": "d2b9cb2c7477",
+      "t": "Les taux d'intérêt ne devraient pas atteindre 4,75 % d'ici l'été prochain, selon les économistes de la City",
+      "r": "Selon des économistes de la City, les marchés financiers ont tort de prévoir une hausse des taux directeurs de la Banque d'Angleterre d'un point complet ou plus.",
+      "c": "finance",
+      "s": "The Guardian",
+      "f": "inflation-bce"
+    },
+    {
+      "d": "2026-10-26",
+      "i": "4344ea647eba",
+      "t": "OPINION. « La plus grande opportunité d'investissement de notre époque se joue hors de la bourse ! »",
+      "r": "La forte valorisation d'entreprises non cotées comme OpenAI ou Anthropic soulève la question de l'accès des investisseurs particuliers à cette croissance.",
+      "c": "finance",
+      "s": "La Tribune",
+      "f": null
+    },
+    {
+      "d": "2026-10-26",
+      "i": "690aec084cdc",
+      "t": "Marine Le Pen n'est pas « prête à gouverner », la preuve par 172 bp",
+      "r": "La crise financière récente est attribuée par certains observateurs aux sondages plaçant la candidate du Rassemblement national en tête.",
+      "c": "desequilibres",
+      "s": "L'Opinion",
+      "f": "dette-marches"
+    },
+    {
+      "d": "2026-10-26",
+      "i": "104c7bf7a050",
+      "t": "Spirale de la dette : « La crise financière nourrit la crise politique, qui nourrit à son tour la crise financière",
+      "r": "",
+      "c": "desequilibres",
+      "s": "Les Echos",
+      "f": "dette-marches"
+    },
+    {
+      "d": "2026-10-26",
+      "i": "a2cb2e964dd0",
+      "t": "Mobilisation contre la vie chère : la colère monte dans d'autres pays d'Europe",
+      "r": "Des manifestations contre la vie chère ont eu lieu dans plusieurs pays européens, notamment en Italie, en Espagne et au Portugal.",
+      "c": "desequilibres",
+      "s": "franceinfo",
+      "f": null
+    },
+    {
+      "d": "2026-10-26",
+      "i": "b42013be2c1e",
+      "t": "« L'impôt est la seule réponse rapide pour réduire le déficit »",
+      "r": "Selon Morgan Stanley, la question de la place de l'État dans l'économie est centrale pour la France au-delà de la réduction du déficit.",
+      "c": "desequilibres",
+      "s": "L'Opinion",
+      "f": "budget-2027"
+    },
+    {
+      "d": "2026-10-26",
+      "i": "ba0b4d973515",
+      "t": "Des ministres soutiennent l'appel de Burnham à débattre du retour de la libre circulation avec l'UE",
+      "r": "Plusieurs ministres et dirigeants d'entreprise soutiennent l'appel à envisager un retour de la libre circulation avec l'Union européenne, malgré des réticences au sein du parti travailliste.",
+      "c": "ue",
+      "s": "The Guardian",
+      "f": null
+    },
+    {
+      "d": "2026-10-26",
+      "i": "a4dafb4ffd3d",
+      "t": "Volkswagen va construire une usine de SUV Audi de 4 milliards de dollars aux États-Unis malgré des suppressions de postes en Allemagne",
+      "r": "Audi investit 4 milliards de dollars dans sa première usine américaine pour faire face aux droits de douane et à la concurrence.",
+      "c": "entreprises",
+      "s": "The Guardian",
+      "f": null
+    },
+    {
+      "d": "2026-10-26",
+      "i": "1d18034e56d1",
+      "t": "Cette voiture est fabriquée avec... du lin !",
+      "r": "La start-up espagnole Liux présente au Mondial de l'Auto une voiture électrique dotée d'une coque en fibre de lin, plus légère et moins émettrice de CO2.",
+      "c": "entreprises",
+      "s": "BFM Business",
+      "f": "conjoncture-france"
+    },
+    {
+      "d": "2026-10-26",
+      "i": "6e5e55b7178a",
+      "t": "L'armée américaine donne à SpaceX, la société d'Elon Musk, accès à des données de suivi sensibles",
+      "r": "L'armée américaine a accordé à SpaceX l'accès à des données de suivi spatial restreintes, suscitant des interrogations sur le contrôle du secteur spatial.",
+      "c": "entreprises",
+      "s": "The Guardian",
+      "f": null
+    },
+    {
+      "d": "2026-10-26",
+      "i": "639e85f7e214",
+      "t": "OPINION. « Cyberattaques : informer les victimes ne devrait pas être la dernière étape de la gestion de crise »",
+      "r": "La CNIL a épinglé des entreprises pour la gestion tardive ou incomplète d'informations destinées aux victimes de cyberattaques, comme Free et l'Hôpital privé de la Loire.",
+      "c": "entreprises",
+      "s": "La Tribune",
+      "f": null
+    },
+    {
+      "d": "2026-10-26",
+      "i": "8dc0eacc494e",
+      "t": "Quel est le piège du seuil de revenus de 100 000 £ ?",
+      "r": "L'abattement fiscal personnel commence à être supprimé à partir de six chiffres de revenus au Royaume-Uni, entraînant également la perte de subventions pour la garde d'enfants.",
+      "c": "epargne",
+      "s": "The Guardian",
+      "f": null
+    },
     {
       "d": "2026-10-25",
       "i": "3cf1e8c28e56",
