@@ -1,6 +1,6 @@
 {
   "version_schema": 1,
-  "mis_a_jour_le": "2026-10-26T05:39:10+01:00",
+  "mis_a_jour_le": "2026-10-26T10:03:01+01:00",
   "entrees": [
     {
       "d": "2026-10-26",
@@ -85,6 +85,15 @@
     },
     {
       "d": "2026-10-26",
+      "i": "3f35b19c56ea",
+      "t": "L’IA qui s’améliore elle-même, nouvel horizon controversé des grands laboratoires comme OpenAI et Anthropic",
+      "r": "L'auto-amélioration récursive des intelligences artificielles suscite un débat entre chercheurs sur l'accélération des capacités et des risques potentiels d'une part, et la maîtrise de l'automatisation d'autre part.",
+      "c": "croissance",
+      "s": "Le Monde",
+      "f": "intelligence-artificielle"
+    },
+    {
+      "d": "2026-10-26",
       "i": "93555b4ccc3c",
       "t": "« Les câbles sous-marins sont utilisés par la Russie ou la Chine pour affaiblir leurs ennemis et par les géants numériques pour asseoir leur domination »",
       "r": "Les câbles sous-marins constituent un enjeu géopolitique majeur, ciblés par des services d'espionnage et utilisés par les géants du numérique pour assoir leur domination.",
@@ -121,6 +130,15 @@
     },
     {
       "d": "2026-10-26",
+      "i": "0a55d597a62b",
+      "t": "Un retour du contrôle des capitaux dans le monde ? Comment la guerre commerciale lancée par Trump pourrait dégénérer",
+      "r": "",
+      "c": "mondialisation",
+      "s": "Les Echos",
+      "f": null
+    },
+    {
+      "d": "2026-10-26",
       "i": "c44c8660abb4",
       "t": "« Les cryptomonnaies ne peuvent pas servir de voie de contournement » : la Banque centrale israélienne fustige les propos de Netanyahou sur les sanctions internationales",
       "r": "La Banque centrale israélienne a rejeté les propos de Benjamin Netanyahu évoquant une économie de contournement par les cryptomonnaies face aux sanctions internationales.",
@@ -145,6 +163,24 @@
       "c": "finance",
       "s": "La Tribune",
       "f": null
+    },
+    {
+      "d": "2026-10-26",
+      "i": "c1117f185ed9",
+      "t": "«Les revenus générés seront insuffisants» : Wall Street rattrapé par la facture du boom de l’intelligence artificielle",
+      "r": "Les investissements massifs des géants de la tech dans l'intelligence artificielle et le décalage avec les revenus espérés mettent à l'épreuve la confiance des investisseurs.",
+      "c": "finance",
+      "s": "Le Figaro",
+      "f": "intelligence-artificielle"
+    },
+    {
+      "d": "2026-10-26",
+      "i": "07720ceaf08a",
+      "t": "Flambée des taux, émeutes, crise énergétique : ces trois tempêtes qui mettent les banques françaises sous pression",
+      "r": "",
+      "c": "finance",
+      "s": "Les Echos",
+      "f": "dette-marches"
     },
     {
       "d": "2026-10-26",
@@ -184,11 +220,38 @@
     },
     {
       "d": "2026-10-26",
+      "i": "4c1134db887e",
+      "t": "Négociations annuelles sur la fixation des prix : une réunion de préparation à Bercy avec la grande distribution s'annonce houleuse",
+      "r": "Une réunion de préparation sur la fixation des prix s'annonce tendue à Bercy entre la grande distribution et les industriels de l'agroalimentaire.",
+      "c": "desequilibres",
+      "s": "franceinfo",
+      "f": "conjoncture-france"
+    },
+    {
+      "d": "2026-10-26",
       "i": "ba0b4d973515",
       "t": "Des ministres soutiennent l'appel de Burnham à débattre du retour de la libre circulation avec l'UE",
       "r": "Plusieurs ministres et dirigeants d'entreprise soutiennent l'appel à envisager un retour de la libre circulation avec l'Union européenne, malgré des réticences au sein du parti travailliste.",
       "c": "ue",
       "s": "The Guardian",
+      "f": null
+    },
+    {
+      "d": "2026-10-26",
+      "i": "4663b7e8be23",
+      "t": "Cette nouvelle directive européenne qui oblige les entreprises à justifier toute allégation environnementale",
+      "r": "Une nouvelle directive européenne entrée en vigueur interdit les allégations environnementales non justifiées, obligeant les entreprises à revoir leurs communications.",
+      "c": "ue",
+      "s": "Le Figaro",
+      "f": null
+    },
+    {
+      "d": "2026-10-26",
+      "i": "1285a14f990c",
+      "t": "Souveraineté numérique : comment le « kill switch » est devenu la grande peur des Européens",
+      "r": "",
+      "c": "ue",
+      "s": "Les Echos",
       "f": null
     },
     {
@@ -229,12 +292,30 @@
     },
     {
       "d": "2026-10-26",
+      "i": "a09c681f6c5e",
+      "t": "Le secteur bancaire directement touché par l’intelligence artificielle",
+      "r": "Le secteur bancaire est directement touché par l'intelligence artificielle, entraînant des plans de licenciement massifs dans certains établissements comme la banque Barclays.",
+      "c": "entreprises",
+      "s": "franceinfo",
+      "f": "intelligence-artificielle"
+    },
+    {
+      "d": "2026-10-26",
       "i": "8dc0eacc494e",
       "t": "Quel est le piège du seuil de revenus de 100 000 £ ?",
       "r": "L'abattement fiscal personnel commence à être supprimé à partir de six chiffres de revenus au Royaume-Uni, entraînant également la perte de subventions pour la garde d'enfants.",
       "c": "epargne",
       "s": "The Guardian",
       "f": null
+    },
+    {
+      "d": "2026-10-26",
+      "i": "0e565f3d7c91",
+      "t": "IR-PME : les nouvelles conditions pour obtenir une réduction d'impôt jusqu'à 50 % du montant de votre investissement",
+      "r": "",
+      "c": "epargne",
+      "s": "Les Echos",
+      "f": "fiscalite-epargne-patrimoine"
     },
     {
       "d": "2026-10-25",

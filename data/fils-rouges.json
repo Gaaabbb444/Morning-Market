@@ -1,6 +1,6 @@
 {
   "version_schema": 1,
-  "mis_a_jour_le": "2026-10-25T09:51:32+01:00",
+  "mis_a_jour_le": "2026-10-26T10:05:15+01:00",
   "fils": [
     {
       "id": "budget-2027",
@@ -237,6 +237,17 @@
               "url": "https://www.lefigaro.fr/conjoncture/leur-modele-est-fonde-en-partie-sur-la-securite-sociale-l-eternelle-angoisse-des-villes-thermales-suspendues-aux-coupes-budgetaires-20261025"
             }
           ]
+        },
+        {
+          "date": "2026-10-26",
+          "resume": "Les débats à l'Assemblée nationale sur le budget de la Sécurité sociale mettent en lumière des tensions autour d'un projet de transfert de CSG aux départements.",
+          "liens": [
+            {
+              "titre": "Budget de la Sécurité sociale : ce transfert de CSG aux départements qui provoque un tollé",
+              "source": "L'Opinion",
+              "url": "https://www.lopinion.fr/economie/budget-de-la-securite-sociale-ce-transfert-de-csg-aux-departements-qui-provoque-un-tolle"
+            }
+          ]
         }
       ]
     },
@@ -401,6 +412,17 @@
               "titre": "La forte hausse des taux d’intérêt, une mauvaise nouvelle… sauf pour les banques",
               "source": "Alternatives Économiques",
               "url": "https://www.alternatives-economiques.fr/la-forte-hausse-des-taux-d-interet-une-mauvaise-nouvelle-sauf-pour-les-banques_23-10-2026"
+            }
+          ]
+        },
+        {
+          "date": "2026-10-26",
+          "resume": "Les obligations souveraines françaises progressent après que Paris a évité une dégradation de sa note par l'agence Moody's, ramenant le taux à 10 ans à 4,98 %.",
+          "liens": [
+            {
+              "titre": "AI cloud computing companies face ‘guppy-level death’, Elon Musk warns, as funding dries up – business live",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/business/live/2026/oct/26/ai-cloud-computing-companies-guppy-level-death-elon-musk-stock-markets-dollar-oil-bond-yieds-latest-news-updates"
             }
           ]
         }
@@ -713,6 +735,17 @@
               "titre": "« Ce serait la crise quasi immédiate » : ce que les milieux économiques pensent du programme de Jean-Luc Mélenchon",
               "source": "Le Figaro",
               "url": "https://www.lefigaro.fr/conjoncture/ce-serait-la-crise-quasi-immediate-ce-que-les-milieux-economiques-pensent-du-programme-de-jean-luc-melenchon-20261021"
+            }
+          ]
+        },
+        {
+          "date": "2026-10-26",
+          "resume": "Marine Le Pen exprime le souhait d'abolir la loi Hulot de 2017 pour relancer la recherche et l'exploitation d'hydrocarbures sur le sol français.",
+          "liens": [
+            {
+              "titre": "Marine Le Pen souhaite abolir \"la stupide loi Hulot\" de 2017 afin de relancer la recherche et l'exploitation d'hydrocarbures sur le sol français",
+              "source": "BFM Business",
+              "url": "https://www.bfmtv.com/economie/entreprises/energie/marine-le-pen-souhaite-abolir-la-stupide-loi-hulot-de-2017-afin-de-relancer-la-recherche-et-l-exploitation-d-hydrocarbures-sur-le-sol-francais_AD-202610260199.html"
             }
           ]
         }
@@ -1156,6 +1189,22 @@
               "url": "https://www.franceinfo.fr/societe/manifestations/direct-manifestations-du-24-octobre-142-personnes-ont-ete-interpellees-a-paris-dont-120-ont-ete-placees-en-garde-a-vue-selon-la-prefecture-de-police_8252812.html#xtor=RSS-3-%5Bgeneral%5D"
             }
           ]
+        },
+        {
+          "date": "2026-10-26",
+          "resume": "Le président de CCI France réclame une pause dans les manifestations en raison des pertes de chiffre d'affaires des commerçants, tandis que se prépare une réunion tendue à Bercy sur les prix.",
+          "liens": [
+            {
+              "titre": "Négociations annuelles sur la fixation des prix : une réunion de préparation à Bercy avec la grande distribution s'annonce houleuse",
+              "source": "franceinfo",
+              "url": "https://www.franceinfo.fr/replay-radio/le-decryptage-eco/negociations-annuelles-sur-la-fixation-des-prix-une-reunion-de-preparation-a-bercy-avec-la-grande-distribution-s-annonce-houleuse_8233159.html#xtor=RSS-3-%5Bgeneral%5D"
+            },
+            {
+              "titre": "\"On est en train de tuer le commerce de proximité\": le président de CCI France réclame \"une pause\" des manifestations car les commerçants perdent \"2% du chiffre d'affaires annuel chaque week-end\"",
+              "source": "BFM Business",
+              "url": "https://www.bfmtv.com/economie/entreprises/on-est-en-train-de-tuer-le-commerce-de-proximite-le-president-de-cci-france-reclame-une-pause-des-manifestations-car-les-commercants-perdent-2-du-chiffre-d-affaires-annuel-chaque-week-end_AD-202610260289.html"
+            }
+          ]
         }
       ]
     },
@@ -1364,6 +1413,32 @@
               "titre": "Pour identifier le recours à l’IA dans les œuvres, la musique affiche une sérieuse avance sur l’édition et le cinéma",
               "source": "Le Monde",
               "url": "https://www.lemonde.fr/economie/article/2026/10/25/pour-identifier-le-recours-a-l-ia-dans-les-uvres-la-musique-affiche-une-serieuse-avance-sur-l-edition-et-le-cinema_6800033_3234.html"
+            }
+          ]
+        },
+        {
+          "date": "2026-10-26",
+          "resume": "Les investissements massifs des géants de la tech dans l'IA et leur rentabilité questionnent les investisseurs, tandis que le secteur bancaire annonce des plans de licenciements et qu'Anthropic est poursuivi en justice pour l'utilisation d'œuvres protégées.",
+          "liens": [
+            {
+              "titre": "«Les revenus générés seront insuffisants» : Wall Street rattrapé par la facture du boom de l’intelligence artificielle",
+              "source": "Le Figaro",
+              "url": "https://www.lefigaro.fr/secteur/high-tech/les-revenus-generes-seront-insuffisants-wall-street-rattrape-par-la-facture-du-boom-de-l-intelligence-artificielle-20261025"
+            },
+            {
+              "titre": "Le secteur bancaire directement touché par l’intelligence artificielle",
+              "source": "franceinfo",
+              "url": "https://www.franceinfo.fr/replay-radio/le-brief-eco/le-secteur-bancaire-directement-touche-par-l-intelligence-artificielle_8233156.html#xtor=RSS-3-%5Bgeneral%5D"
+            },
+            {
+              "titre": "L’IA qui s’améliore elle-même, nouvel horizon controversé des grands laboratoires comme OpenAI et Anthropic",
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/economie/article/2026/10/26/l-ia-qui-s-ameliore-elle-meme-nouvel-horizon-controverse-des-grands-laboratoires-comme-openai-et-anthropic_6800428_3234.html"
+            },
+            {
+              "titre": "Anthropic sued for allegedly using 274 Elvis Presley songs to train AI models",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/us-news/2026/oct/25/elvis-presley-anthropic-lawsuit-ai-models-music"
             }
           ]
         }
