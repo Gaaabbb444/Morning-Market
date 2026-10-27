@@ -1,6 +1,6 @@
 {
   "version_schema": 1,
-  "mis_a_jour_le": "2026-10-26T10:05:15+01:00",
+  "mis_a_jour_le": "2026-10-27T05:36:08+01:00",
   "fils": [
     {
       "id": "budget-2027",
@@ -11,8 +11,8 @@
       "categories": [
         "desequilibres"
       ],
-      "ou_en_est_on": "L'examen des textes budgétaires pour 2027 suscite de vives inquiétudes sectorielles face au risque de blocage parlementaire. Le Délégué général pour l'armement avertit qu'un rejet du budget compromettrait les programmes de réarmement militaire de la France. En parallèle, les discussions sur les économies de l'Assurance maladie remettent en cause la prise en charge des cures thermales, fragilisant le modèle économique de cette filière. Ces tensions s'ajoutent aux désaccords majeurs déjà constatés sur les retraites et les cotisations sociales.",
-      "ou_en_est_on_maj_le": "2026-10-25",
+      "ou_en_est_on": "L'examen des textes budgétaires pour 2027 s'enfonce dans l'impasse face aux modifications apportées par les députés qui risquent d'aggraver le déficit public. Le ministre des Comptes publics tente de défendre la trajectoire du gouvernement en usant d'une rhétorique axée sur la guerre des générations, alors que l'économiste Shahin Vallée plaide pour l'adoption d'une règle budgétaire transpartisane. Ces tensions s'ajoutent aux craintes sectorielles concernant les programmes de réarmement militaire et le financement de l'Assurance maladie.",
+      "ou_en_est_on_maj_le": "2026-10-27",
       "evenements": [
         {
           "date": "2026-10-17",
@@ -248,6 +248,27 @@
               "url": "https://www.lopinion.fr/economie/budget-de-la-securite-sociale-ce-transfert-de-csg-aux-departements-qui-provoque-un-tolle"
             }
           ]
+        },
+        {
+          "date": "2026-10-27",
+          "resume": "Les députés modifient le projet budgétaire avec des mesures risquant d'accroître le déficit public, tandis que le ministre des Comptes publics défend sa copie en évoquant une guerre des générations.",
+          "liens": [
+            {
+              "titre": "Économies disparues, déficit accru : la copie du gouvernement mise en lambeaux par les députés",
+              "source": "Le Figaro",
+              "url": "https://www.lefigaro.fr/conjoncture/economies-disparues-deficit-accru-la-copie-du-gouvernement-mise-en-lambeaux-par-les-deputes-20261026"
+            },
+            {
+              "titre": "«Coup de poignard contre la jeunesse» : la rhétorique de plus en plus musclée du ministre des Comptes publics",
+              "source": "Le Figaro",
+              "url": "https://www.lefigaro.fr/economie/coup-de-poignard-contre-la-jeunesse-la-rhetorique-de-plus-en-plus-musclee-du-ministre-des-comptes-publics-20261026"
+            },
+            {
+              "titre": "Shahin Vallée : « La France a besoin d'une nouvelle règle budgétaire transpartisane »",
+              "source": "L'Opinion",
+              "url": "https://www.lopinion.fr/economie/shahin-vallee-la-france-a-besoin-dune-nouvelle-regle-budgetaire-transpartisane"
+            }
+          ]
         }
       ]
     },
@@ -261,8 +282,8 @@
         "desequilibres",
         "finance"
       ],
-      "ou_en_est_on": "Les tensions sur la dette française persistent alors que le taux à dix ans se maintient au-delà du seuil de 5 %, dépassant désormais les rendements des obligations américaines. Les acteurs financiers alertent sur le coût grandissant de la charge de la dette pour l'État à chaque hausse de taux. Bien que la France ait évité une dégradation immédiate de sa note souveraine, les agences d'évaluation continuent de surveiller de près la crédibilité budgétaire et politique du pays.",
-      "ou_en_est_on_maj_le": "2026-10-24",
+      "ou_en_est_on": "L'agence Moody's a maintenu la note souveraine de la France à Aa3 malgré la dégradation de la trajectoire budgétaire, entraînant la plus forte baisse de l'écart entre les taux français et allemand depuis 2020. Ce répit sur les marchés, qui ramène le taux à 10 ans sous le seuil de 5 %, ne dissipe pas entièrement les interrogations des investisseurs sur la crédibilité des agences de notation et la pérennité de la charge de la dette.",
+      "ou_en_est_on_maj_le": "2026-10-27",
       "evenements": [
         {
           "date": "2026-10-19",
@@ -425,6 +446,27 @@
               "url": "https://www.theguardian.com/business/live/2026/oct/26/ai-cloud-computing-companies-guppy-level-death-elon-musk-stock-markets-dollar-oil-bond-yieds-latest-news-updates"
             }
           ]
+        },
+        {
+          "date": "2026-10-27",
+          "resume": "L'écart entre les taux d'emprunt français et allemand enregistre son plus fort repli depuis 2020 après le maintien de la note par Moody's, bien que cette décision interroge la crédibilité des agences.",
+          "liens": [
+            {
+              "titre": "\"La décision de Moody's tempère un peu les inquiétudes\": l’écart entre les taux français et allemand enregistre son plus fort repli depuis 2020",
+              "source": "BFM Business",
+              "url": "https://www.bfmtv.com/economie/economie-social/finances-publiques/la-decision-de-moody-s-tempere-un-peu-les-inquietudes-l-ecart-entre-les-taux-francais-et-allemand-enregistre-son-plus-fort-repli-depuis-2020_AV-202610260815.html"
+            },
+            {
+              "titre": "« Que faut-il donc à Moody’s pour dégrader la France ? » : la décision de l'agence de notation sous le feu des critiques",
+              "source": "La Tribune",
+              "url": "https://www.latribune.fr/article/economie/10485362764164/que-faut-il-donc-a-moody-s-pour-degrader-la-france-la-decision-de-lagence-de-notation-sous-le-feu-des-critiques"
+            },
+            {
+              "titre": "Dette française : « Le seul signal donné par Moody’s, c’est que le moment est trop inflammable pour craquer une allumette »",
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/economie/article/2026/10/26/dette-francaise-le-seul-signal-donne-par-moody-s-c-est-que-le-moment-est-trop-inflammable-pour-craquer-une-allumette_6800674_3234.html"
+            }
+          ]
         }
       ]
     },
@@ -438,8 +480,8 @@
         "mondialisation",
         "desequilibres"
       ],
-      "ou_en_est_on": "Alors que les cours mondiaux du pétrole restent sous pression dans le sillage des tensions au Proche-Orient, le gouvernement français a acté la libération de stocks stratégiques de gazole par un décret publié au Journal officiel. Ce dispositif vise à répercuter une baisse de 12 à 18 centimes par litre à la pompe à compter du 1er novembre pour alléger la facture des ménages et des entreprises. Cette mesure d'urgence illustre la volonté d'atténuer le choc énergétique sur le marché des carburants face à la persistance des risques géopolitiques.",
-      "ou_en_est_on_maj_le": "2026-10-25",
+      "ou_en_est_on": "Face à la persistance des tensions géopolitiques et au niveau élevé du baril de Brent, la libération de stocks stratégiques de gazole se concrétise avec une baisse attendue de 12 à 18 centimes par litre à la pompe dès le 1er novembre. Les stations-service ont l'obligation d'afficher ces remises de manière transparente afin d'atténuer le choc énergétique sur le pouvoir d'achat des ménages et des entreprises.",
+      "ou_en_est_on_maj_le": "2026-10-27",
       "evenements": [
         {
           "date": "2026-10-17",
@@ -546,6 +588,17 @@
               "titre": "12 à 18 centimes de moins par litre : les stocks de gazole libérés pourraient faire baisser les prix dès le 1er novembre",
               "source": "BFM Business",
               "url": "https://www.bfmtv.com/economie/entreprises/energie/12-a-18-centimes-de-moins-par-litre-les-stocks-de-gazole-liberes-pourraient-faire-baisser-les-prix-des-le-1er-novembre_AD-202610240187.html"
+            }
+          ]
+        },
+        {
+          "date": "2026-10-27",
+          "resume": "À partir du 1er novembre, le gazole baissera de 12 à 18 centimes par litre et les stations-service devront afficher ces remises en toute transparence.",
+          "liens": [
+            {
+              "titre": "Carburants : les stations-service devront afficher les baisses de prix dès le 1er novembre",
+              "source": "franceinfo",
+              "url": "https://www.franceinfo.fr/economie/automobile/essence/carburants-les-stations-service-devront-afficher-les-baisses-de-prix-des-le-1er-novembre_8254261.html#xtor=RSS-3-%5Bgeneral%5D"
             }
           ]
         }
@@ -908,8 +961,8 @@
         "desequilibres",
         "entreprises"
       ],
-      "ou_en_est_on": "L'activité économique française demeure sous la pression des tensions sociales et des mobilisations du 24 octobre (410 000 manifestants selon l'Intérieur, 800 000 selon la CGT). Dans plusieurs centres-villes comme à Marseille, les commerçants s'inquiètent pour leur sécurité et la viabilité de leurs boutiques face aux dégradations. Pour tenter d'apaiser le climat, l'exécutif poursuit ses consultations sur une revalorisation anticipée du Smic, tandis que les professionnels continuent de redouter l'impact de ces troubles sur la fréquentation et la consommation.",
-      "ou_en_est_on_maj_le": "2026-10-25",
+      "ou_en_est_on": "L'activité économique française subit les contraintes d'un climat social tendu, marqué par les suites des manifestations contre la vie chère et les dégradations dans plusieurs centres-villes comme à Marseille où l'exécutif est allé à la rencontre des commerçants. Alors que Bercy tente d'encadrer les négociations tarifaires pour limiter la hausse des prix alimentaires, le gouvernement envisage une revalorisation anticipée du Smic au 1er décembre. Les distributeurs redoutent quant à EUX une consommation morose d'ici la fin de l'année dans un contexte de pouvoir d'achat sous pression.",
+      "ou_en_est_on_maj_le": "2026-10-27",
       "evenements": [
         {
           "date": "2026-10-17",
@@ -1205,6 +1258,37 @@
               "url": "https://www.bfmtv.com/economie/entreprises/on-est-en-train-de-tuer-le-commerce-de-proximite-le-president-de-cci-france-reclame-une-pause-des-manifestations-car-les-commercants-perdent-2-du-chiffre-d-affaires-annuel-chaque-week-end_AD-202610260289.html"
             }
           ]
+        },
+        {
+          "date": "2026-10-27",
+          "resume": "Le gouvernement envisage une revalorisation anticipée du Smic au 1er décembre avec un possible coup de pouce, tandis que les distributeurs redoutent une consommation morose pour les fêtes.",
+          "liens": [
+            {
+              "titre": "Pouvoir d'achat : les salariés au SMIC réclament une hausse plus importante",
+              "source": "franceinfo",
+              "url": "https://www.franceinfo.fr/economie/pouvoir-d-achat-les-salaries-au-smic-reclament-une-hausse-plus-importante_8254279.html#xtor=RSS-3-%5Bgeneral%5D"
+            },
+            {
+              "titre": "Black Friday, fêtes de Noël… Les distributeurs craignent une consommation morose d’ici la fin d’année",
+              "source": "Le Figaro",
+              "url": "https://www.lefigaro.fr/conso/black-friday-fetes-de-noel-les-distributeurs-craignent-une-consommation-morose-d-ici-la-fin-d-annee-20261026"
+            },
+            {
+              "titre": "Le gouvernement tente de limiter l’inévitable hausse des prix alimentaires attendue au printemps",
+              "source": "Le Figaro",
+              "url": "https://www.lefigaro.fr/societes/le-gouvernement-tente-de-limiter-l-inevitable-hausse-des-prix-alimentaires-attendue-au-printemps-20261026"
+            },
+            {
+              "titre": "À Marseille, Emmanuel Macron au chevet des commerçants",
+              "source": "La Tribune",
+              "url": "https://www.latribune.fr/article/economie/49411618264841/a-marseille-emmanuel-macron-au-chevet-des-commercants"
+            },
+            {
+              "titre": "Manifestations du 24 octobre : la ville de Paris met en place une série de mesures pour les commerçants et appelle l'État à \"prendre ses responsabilités\"",
+              "source": "franceinfo",
+              "url": "https://www.franceinfo.fr/societe/manifestations/manifestations-du-24-octobre-la-ville-de-paris-met-en-place-une-serie-de-mesures-pour-les-commercants-et-appelle-l-etat-a-prendre-ses-responsabilites_8254036.html#xtor=RSS-3-%5Bgeneral%5D"
+            }
+          ]
         }
       ]
     },
@@ -1219,8 +1303,8 @@
         "entreprises",
         "ue"
       ],
-      "ou_en_est_on": "Les effets concrets du déploiement de l'intelligence artificielle se précisent sur le marché du travail et les industries créatives. Face à l'automatisation croissante de certaines tâches, de jeunes professionnels choisissent de se réorienter vers des métiers manuels préservés de cette concurrence technologique. Côté transparence, le secteur musical devance l'édition et le cinéma dans l'étiquetage des œuvres générées par IA sur les plateformes de streaming. Ces évolutions illustrent l'adaptation progressive du cadre professionnel et des filières culturelles à la diffusion de ces outils.",
-      "ou_en_est_on_maj_le": "2026-10-25",
+      "ou_en_est_on": "Le marché de l'intelligence artificielle fait l'objet d'investissements colossaux et de tests majeurs de viabilité financière, illustrés par le projet de levée de fonds de 95 milliards de dollars de Meta et le dépôt de dossier d'introduction en Bourse d'Anthropic. Parallèlement, ces mutations technologiques s'accompagnent de restructurations dans les grandes entreprises, à l'instar de Microsoft prévoyant des plans de départs pour réduire ses coûts.",
+      "ou_en_est_on_maj_le": "2026-10-27",
       "evenements": [
         {
           "date": "2026-10-17",
@@ -1439,6 +1523,37 @@
               "titre": "Anthropic sued for allegedly using 274 Elvis Presley songs to train AI models",
               "source": "The Guardian",
               "url": "https://www.theguardian.com/us-news/2026/oct/25/elvis-presley-anthropic-lawsuit-ai-models-music"
+            }
+          ]
+        },
+        {
+          "date": "2026-10-27",
+          "resume": "Le secteur de l'intelligence artificielle est marqué par des opérations financières d'envergure, avec Meta prévoyant une levée de fonds de 95 milliards de dollars et Anthropic déposant son dossier d'introduction en Bourse.",
+          "liens": [
+            {
+              "titre": "Meta plans $95bn stock offering to help cover AI expansion",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/technology/2026/oct/26/meta-plans-95bn-stock-offering-to-help-cover-ai-expansion"
+            },
+            {
+              "titre": "Anthropic dépose son dossier d’introduction en Bourse, une étape clé pour le secteur",
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/economie/article/2026/10/26/anthropic-depose-son-dossier-d-introduction-en-bourse-une-etape-cle-pour-le-secteur_6800841_3234.html"
+            },
+            {
+              "titre": "Anthropic warns of 'catastrophic risk' to humankind ahead of blockbuster share listing",
+              "source": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/cq398p1wd1evo?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "titre": "Anthropic files for potentially record-breaking stock market valuation in key test for AI industry",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/technology/2026/oct/26/anthropic-files-listing-stock-market"
+            },
+            {
+              "titre": "Microsoft to reportedly offer buyouts to 60,000 employees in latest cuts",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/technology/2026/oct/26/microsoft-buyout-offers-ai-cuts"
             }
           ]
         }

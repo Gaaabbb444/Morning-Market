@@ -1,7 +1,286 @@
 {
   "version_schema": 1,
-  "mis_a_jour_le": "2026-10-26T10:03:01+01:00",
+  "mis_a_jour_le": "2026-10-27T05:35:47+01:00",
   "entrees": [
+    {
+      "d": "2026-10-27",
+      "i": "67bf5d1d806c",
+      "t": "\"La décision de Moody's tempère un peu les inquiétudes\": l’écart entre les taux français et allemand enregistre son plus fort repli depuis 2020",
+      "r": "L'écart entre les taux d'emprunt de la France et de l'Allemagne a reculé de 0,14 point de pourcentage, se situant à 1,54 point après le maintien de la note française par Moody’s.",
+      "c": "finance",
+      "s": "BFM Business",
+      "f": "dette-marches"
+    },
+    {
+      "d": "2026-10-27",
+      "i": "fa1814b3d302",
+      "t": "Pouvoir d'achat : les salariés au SMIC réclament une hausse plus importante",
+      "r": "Le gouvernement prépare une hausse anticipée du SMIC au 1er décembre, tandis que les syndicats demandent une revalorisation plus importante pour compenser la hausse du coût de la vie.",
+      "c": "desequilibres",
+      "s": "franceinfo",
+      "f": "conjoncture-france"
+    },
+    {
+      "d": "2026-10-27",
+      "i": "1fc158ac434d",
+      "t": "Les prix du gaz en Europe atteignent un pic de quatre ans en raison des craintes sur l'approvisionnement hivernal",
+      "r": "Les prix du gaz en Europe ont atteint des niveaux jamais vus depuis 2022, alimentés par les craintes de perturbations d’approvisionnement liées aux tensions au Moyen‑Orient.",
+      "c": "mondialisation",
+      "s": "The Guardian",
+      "f": null
+    },
+    {
+      "d": "2026-10-27",
+      "i": "6137a68b606d",
+      "t": "Anthropic, le créateur de l'IA Claude, prépare son entrée en Bourse malgré des milliards de dollars de pertes",
+      "r": "Anthropic, créateur de l’IA Claude, prévoit une introduction en bourse avec une valorisation cible de 2 000 milliards de dollars, malgré des pertes importantes.",
+      "c": "finance",
+      "s": "franceinfo",
+      "f": null
+    },
+    {
+      "d": "2026-10-27",
+      "i": "4baf7ea00deb",
+      "t": "Meta prévoit une levée de fonds de 95 milliards de dollars en actions pour financer son expansion dans l'IA",
+      "r": "Meta annonce un projet de levée de fonds de 95 milliards de dollars en actions pour financer ses dépenses massives dans l'intelligence artificielle.",
+      "c": "finance",
+      "s": "The Guardian",
+      "f": "intelligence-artificielle"
+    },
+    {
+      "d": "2026-10-27",
+      "i": "f25ede8bb723",
+      "t": "Black Friday, fêtes de Noël… Les distributeurs craignent une consommation morose d’ici la fin d’année",
+      "r": "Les distributeurs redoutent une consommation morose pour les fêtes de fin d'année dans un contexte de pouvoir d'achat sous pression.",
+      "c": "croissance",
+      "s": "Le Figaro",
+      "f": "conjoncture-france"
+    },
+    {
+      "d": "2026-10-27",
+      "i": "af9dc4e3b51b",
+      "t": "« Un vernis de souveraineté » : pourquoi Marine Le Pen veut relancer la recherche d’hydrocarbures en France",
+      "r": "La candidate du Rassemblement national promet d'abroger la loi Hulot de 2017 interdisant la recherche d'hydrocarbures en France.",
+      "c": "croissance",
+      "s": "L'Opinion",
+      "f": "presidentielle-2027"
+    },
+    {
+      "d": "2026-10-27",
+      "i": "16493eb57fed",
+      "t": "Le Royaume-Uni cherche à inciter les constructeurs automobiles à transformer les véhicules électriques en « centrales électriques sur roues »",
+      "r": "Le gouvernement britannique envisage de soutenir la technologie V2G pour permettre aux véhicules électriques de stocker l'énergie et de la revendre au réseau.",
+      "c": "croissance",
+      "s": "The Guardian",
+      "f": null
+    },
+    {
+      "d": "2026-10-27",
+      "i": "f2b2cce94050",
+      "t": "Elections en Israël : les raisons de l'incroyable résilience économique de la start-up nation",
+      "r": "",
+      "c": "croissance",
+      "s": "Les Echos",
+      "f": null
+    },
+    {
+      "d": "2026-10-27",
+      "i": "fa8c03825af1",
+      "t": "À partir du 1er novembre, les petits colis importés seront davantage taxés",
+      "r": "L'Union européenne impose de nouveaux frais de traitement sur les petits colis importés de pays tiers à partir du 1er novembre.",
+      "c": "mondialisation",
+      "s": "franceinfo",
+      "f": null
+    },
+    {
+      "d": "2026-10-27",
+      "i": "b2ddaec3f359",
+      "t": "Décollage de l’Inde, lent recul de la France… Comment le classement des plus grandes économies mondiales a évolué depuis 2000",
+      "r": "Le classement du FMI des plus grandes économies mondiales met en lumière le décollage de l'Inde et la domination continue des États-Unis.",
+      "c": "mondialisation",
+      "s": "Le Figaro",
+      "f": null
+    },
+    {
+      "d": "2026-10-27",
+      "i": "f2d1448b0ecb",
+      "t": "Après l’accord franco-allemand sur l’automobile, Renault et Stellantis veulent assouplir le « made in Europe »",
+      "r": "Renault et Stellantis plaident pour un assouplissement des règles du \"made in Europe\" intégrant le Maroc et la Turquie.",
+      "c": "mondialisation",
+      "s": "Le Figaro",
+      "f": null
+    },
+    {
+      "d": "2026-10-27",
+      "i": "1fb626b17b74",
+      "t": "\"Cela fait bientôt 14 mois qu'on est au chômage\": salariés et élus appellent Bruxelles à sauver le silicium français, écrasé par les importations chinoises",
+      "r": "Des salariés d'une usine de silicium en Savoie demandent l'aide de Bruxelles face à la concurrence des importations chinoises et à la baisse des prix.",
+      "c": "mondialisation",
+      "s": "BFM Business",
+      "f": null
+    },
+    {
+      "d": "2026-10-27",
+      "i": "8a5682f1748e",
+      "t": "Au Brésil, la Bourse de Sao Paulo s'effondre après la réélection de Lula",
+      "r": "La Bourse de Sao Paulo chute fortement à l'ouverture au lendemain de la réélection de Luiz Inacio Lula da Silva.",
+      "c": "finance",
+      "s": "franceinfo",
+      "f": null
+    },
+    {
+      "d": "2026-10-27",
+      "i": "13fb3535fc3e",
+      "t": "Anthropic dépose son dossier d’introduction en Bourse, une étape clé pour le secteur",
+      "r": "Le géant de l'intelligence artificielle Anthropic dépose son dossier d'introduction en Bourse, affichant une forte croissance et des investissements importants.",
+      "c": "finance",
+      "s": "Le Monde",
+      "f": "intelligence-artificielle"
+    },
+    {
+      "d": "2026-10-27",
+      "i": "76ad05f5fc53",
+      "t": "Anthropic met en garde contre un \"risque catastrophique\" pour l'humanité avant son introduction en Bourse majeure",
+      "r": "L'entreprise devient la première véritable société d'intelligence artificielle à entrer en Bourse, tout en soulignant les risques liés au secteur.",
+      "c": "finance",
+      "s": "BBC",
+      "f": "intelligence-artificielle"
+    },
+    {
+      "d": "2026-10-27",
+      "i": "00220a1d4f4a",
+      "t": "« Que faut-il donc à Moody’s pour dégrader la France ? » : la décision de l'agence de notation sous le feu des critiques",
+      "r": "L'agence de notation Moody's n'a pas abaissé la note souveraine de la France, une décision qui interroge sur la crédibilité de ces acteurs clés des marchés financiers.",
+      "c": "finance",
+      "s": "La Tribune",
+      "f": "dette-marches"
+    },
+    {
+      "d": "2026-10-27",
+      "i": "00f8b0e7a505",
+      "t": "Économies disparues, déficit accru : la copie du gouvernement mise en lambeaux par les députés",
+      "r": "Les députés modifient le projet budgétire, des mesures adoptées risquant d'accroître le déficit public de plusieurs milliards d'euros.",
+      "c": "desequilibres",
+      "s": "Le Figaro",
+      "f": "budget-2027"
+    },
+    {
+      "d": "2026-10-27",
+      "i": "01f344fa731e",
+      "t": "10 graphiques pour survivre au débat budgétaire",
+      "r": "Un guide propose d'analyser les recettes, dépenses, déficit et dette pour appréhender le débat budgétaire de l'automne.",
+      "c": "desequilibres",
+      "s": "Alternatives Économiques",
+      "f": "budget-2027"
+    },
+    {
+      "d": "2026-10-27",
+      "i": "a86a2e4ddaaf",
+      "t": "Finances publiques de la France : en attendant le FMI (ou la BCE)…",
+      "r": "Face à la dégradation des finances publiques françaises, certains s'interrogent sur une potentielle perte de contrôle budgétaire et le recours au FMI ou à la BCE.",
+      "c": "desequilibres",
+      "s": "L'Opinion",
+      "f": "dette-marches"
+    },
+    {
+      "d": "2026-10-27",
+      "i": "8c8e6a2753dd",
+      "t": "Dette française : « Le seul signal donné par Moody’s, c’est que le moment est trop inflammable pour craquer une allumette »",
+      "r": "L'agence Moody's a maintenu la notation de la France à Aa3 malgré la dégradation de la trajectoire budgétaire.",
+      "c": "desequilibres",
+      "s": "Le Monde",
+      "f": "dette-marches"
+    },
+    {
+      "d": "2026-10-27",
+      "i": "c03536fc3f50",
+      "t": "\"L’Europe doit assumer une plus grande part de responsabilité\": la France et les quatre autres grandes armées européennes s’engagent à jouer un plus grand rôle au sein de l'Otan",
+      "r": "La France, l'Allemagne, l'Italie, la Pologne et le Royaume-Uni s'engagent à renforcer leur rôle au sein de l'Otan.",
+      "c": "ue",
+      "s": "BFM Business",
+      "f": null
+    },
+    {
+      "d": "2026-10-27",
+      "i": "32dde4e88043",
+      "t": "Qu'est-ce qui fait croire à Andy Burnham que nous pouvons réintégrer l'UE ?",
+      "r": "Andy Burnham évoque une révision du Brexit pour rassembler, tout en excluant l'euro et l'espace Schengen, dans un contexte de préparation du budget.",
+      "c": "ue",
+      "s": "The Guardian",
+      "f": null
+    },
+    {
+      "d": "2026-10-27",
+      "i": "4ae4475fabba",
+      "t": "OPINION. « Et si le Canada devenait le 28e membre de l’UE ? »",
+      "r": "Bruxelles et Ottawa auraient des intérêts à un rapprochement, bien que l'hypothèse d'un Canada devenant membre associé de l'UE reste irréaliste.",
+      "c": "ue",
+      "s": "La Tribune",
+      "f": null
+    },
+    {
+      "d": "2026-10-27",
+      "i": "3547ed5d2660",
+      "t": "28e régime européen : les droits des salariés sont-ils vraiment menacés ?",
+      "r": "Le projet de 28e régime européen vise à faciliter l'implantation des entreprises au sein de l'Union européenne face à la diversité des statuts nationaux.",
+      "c": "ue",
+      "s": "Toute l'Europe",
+      "f": null
+    },
+    {
+      "d": "2026-10-27",
+      "i": "b6fd05051e75",
+      "t": "Microsoft annonce un nouveau plan de départs volontaires qui concernera environ 60 000 salariés dans quatre pays, dont les Etats-Unis",
+      "r": "Microsoft lance un nouveau plan de départs volontaires touchant environ 60 000 salariés pour réduire ses coûts et intégrer l'intelligence artificielle.",
+      "c": "entreprises",
+      "s": "Le Monde",
+      "f": null
+    },
+    {
+      "d": "2026-10-27",
+      "i": "d6c62b344749",
+      "t": "Anthropic dépose une demande d'introduction en Bourse pour une valorisation potentiellement record dans un test clé pour l'industrie de l'IA",
+      "r": "L'entreprise Anthropic a publiquement déposé une demande d'introduction en Bourse aux États-Unis, constituant un test majeur pour la viabilité financière du secteur de l'intelligence artificielle.",
+      "c": "entreprises",
+      "s": "The Guardian",
+      "f": "intelligence-artificielle"
+    },
+    {
+      "d": "2026-10-27",
+      "i": "2cec2a2bfd60",
+      "t": "Le patron d’Audi critiqué après l’annonce de la construction d’une usine aux Etats-Unis lors d’un meeting de Trump",
+      "r": "Le PDG d'Audi est critiqué en Allemagne après avoir annoncé la construction d'une usine aux États-Unis lors d'un meeting de Donald Trump.",
+      "c": "entreprises",
+      "s": "Le Monde",
+      "f": null
+    },
+    {
+      "d": "2026-10-27",
+      "i": "a5073e500517",
+      "t": "Le groupe a perdu 477 millions d'euros en 2025: l’État est autorisé à voler au secours d’Eramet sans déposer d’OPA",
+      "r": "L'AMF autorise l'État à secourir financièrement le groupe minier Eramet sans déposer d'offre publique d'achat.",
+      "c": "entreprises",
+      "s": "BFM Business",
+      "f": null
+    },
+    {
+      "d": "2026-10-27",
+      "i": "f2070ed49ecf",
+      "t": "Jean-Pierre Grimaud : « La capitalisation ne sauvera pas la répartition, elle viendra la compléter »",
+      "r": "Le directeur général d'Ofi Invest estime possible la mise en place d'une retraite collective obligatoire par capitalisation pour compléter le système par répartition.",
+      "c": "epargne",
+      "s": "L'Opinion",
+      "f": "retraites"
+    },
+    {
+      "d": "2026-10-27",
+      "i": "5184704e1d2a",
+      "t": "Vers une \"taxe émeutes\" sur vos assurances ?",
+      "r": "Un projet de \"taxe émeutes\" de 0,8 % sur les contrats d'assurance automobile et habitation est à l'étude pour financer les dégâts.",
+      "c": "epargne",
+      "s": "franceinfo",
+      "f": null
+    },
     {
       "d": "2026-10-26",
       "i": "aefc29f5f987",
