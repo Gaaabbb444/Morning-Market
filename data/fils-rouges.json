@@ -1,6 +1,6 @@
 {
   "version_schema": 1,
-  "mis_a_jour_le": "2026-10-27T05:36:08+01:00",
+  "mis_a_jour_le": "2026-10-27T10:01:04+01:00",
   "fils": [
     {
       "id": "budget-2027",
@@ -11,7 +11,7 @@
       "categories": [
         "desequilibres"
       ],
-      "ou_en_est_on": "L'examen des textes budgétaires pour 2027 s'enfonce dans l'impasse face aux modifications apportées par les députés qui risquent d'aggraver le déficit public. Le ministre des Comptes publics tente de défendre la trajectoire du gouvernement en usant d'une rhétorique axée sur la guerre des générations, alors que l'économiste Shahin Vallée plaide pour l'adoption d'une règle budgétaire transpartisane. Ces tensions s'ajoutent aux craintes sectorielles concernant les programmes de réarmement militaire et le financement de l'Assurance maladie.",
+      "ou_en_est_on": "L'examen des textes budgétaires pour 2027 se poursuit à l'Assemblée nationale et au Sénat dans un climat tendu. Le gouvernement, par la voix du ministre de l'Action et des Comptes publics David Amiel, maintient son objectif de déficit public à 5 % en exigeant que de nouvelles mesures soient financées par des efforts supplémentaires. Parallèlement, les débats parlementaires cristallisent les inquiétudes sectorielles, notamment sur le réarmement militaire et le financement de la Sécurité sociale.",
       "ou_en_est_on_maj_le": "2026-10-27",
       "evenements": [
         {
@@ -251,7 +251,7 @@
         },
         {
           "date": "2026-10-27",
-          "resume": "Les députés modifient le projet budgétaire avec des mesures risquant d'accroître le déficit public, tandis que le ministre des Comptes publics défend sa copie en évoquant une guerre des générations.",
+          "resume": "Le ministre de l'Action et des Comptes publics David Amiel confirme que l'objectif de déficit public à 5 % reste intangible, ce qui implique que les nouvelles dépenses pour répondre à la colère lycéenne devront être financées par des efforts supplémentaires.",
           "liens": [
             {
               "titre": "Économies disparues, déficit accru : la copie du gouvernement mise en lambeaux par les députés",
@@ -267,6 +267,11 @@
               "titre": "Shahin Vallée : « La France a besoin d'une nouvelle règle budgétaire transpartisane »",
               "source": "L'Opinion",
               "url": "https://www.lopinion.fr/economie/shahin-vallee-la-france-a-besoin-dune-nouvelle-regle-budgetaire-transpartisane"
+            },
+            {
+              "titre": "L'objectif de déficit public de 5% \"reste intangible\": David Amiel prévient que les 5 milliards d'euros pour répondre à la colère lycéenne devront \"être financés par des efforts supplémentaires\"",
+              "source": "BFM Business",
+              "url": "https://www.bfmtv.com/economie/economie-social/finances-publiques/l-objectif-de-deficit-public-de-5-reste-intangible-david-amiel-previent-que-les-5-milliards-d-euros-pour-repondre-a-la-colere-lyceenne-devront-etre-finances-par-des-efforts-supplementaires_AV-202610270240.html"
             }
           ]
         }
@@ -961,7 +966,7 @@
         "desequilibres",
         "entreprises"
       ],
-      "ou_en_est_on": "L'activité économique française subit les contraintes d'un climat social tendu, marqué par les suites des manifestations contre la vie chère et les dégradations dans plusieurs centres-villes comme à Marseille où l'exécutif est allé à la rencontre des commerçants. Alors que Bercy tente d'encadrer les négociations tarifaires pour limiter la hausse des prix alimentaires, le gouvernement envisage une revalorisation anticipée du Smic au 1er décembre. Les distributeurs redoutent quant à EUX une consommation morose d'ici la fin de l'année dans un contexte de pouvoir d'achat sous pression.",
+      "ou_en_est_on": "L'activité économique française subit un net fléchissement de la confiance des ménages, qui tombe en octobre à son plus bas niveau depuis juin 2013. Cette dégradation s'ajoute aux tensions sur le pouvoir d'achat, aux inquiétudes des commerçants de centre-ville suite aux manifestations et aux discussions menées par le ministre du Travail Jean-Pierre Farandou autour du Smic et du coût du travail.",
       "ou_en_est_on_maj_le": "2026-10-27",
       "evenements": [
         {
@@ -1261,7 +1266,7 @@
         },
         {
           "date": "2026-10-27",
-          "resume": "Le gouvernement envisage une revalorisation anticipée du Smic au 1er décembre avec un possible coup de pouce, tandis que les distributeurs redoutent une consommation morose pour les fêtes.",
+          "resume": "En octobre 2026, l'indicateur synthétisant la confiance des ménages chute de cinq points pour s'établir à 80, atteignant son niveau le plus bas depuis juin 2013.",
           "liens": [
             {
               "titre": "Pouvoir d'achat : les salariés au SMIC réclament une hausse plus importante",
@@ -1303,7 +1308,7 @@
         "entreprises",
         "ue"
       ],
-      "ou_en_est_on": "Le marché de l'intelligence artificielle fait l'objet d'investissements colossaux et de tests majeurs de viabilité financière, illustrés par le projet de levée de fonds de 95 milliards de dollars de Meta et le dépôt de dossier d'introduction en Bourse d'Anthropic. Parallèlement, ces mutations technologiques s'accompagnent de restructurations dans les grandes entreprises, à l'instar de Microsoft prévoyant des plans de départs pour réduire ses coûts.",
+      "ou_en_est_on": "Le secteur de l'intelligence artificielle est marqué par d'importantes manœuvres financières et réglementaires, illustrées par le dépôt de dossier d'introduction en Bourse d'Anthropic et les opérations de levées de fonds géantes. Parallèlement, la régulation européenne s'intensifie avec des plaintes visant les pratiques de collecte de données de Scale AI, tandis que les gouvernements continuent de structurer leurs politiques en matière de centres de données.",
       "ou_en_est_on_maj_le": "2026-10-27",
       "evenements": [
         {
@@ -1528,7 +1533,7 @@
         },
         {
           "date": "2026-10-27",
-          "resume": "Le secteur de l'intelligence artificielle est marqué par des opérations financières d'envergure, avec Meta prévoyant une levée de fonds de 95 milliards de dollars et Anthropic déposant son dossier d'introduction en Bourse.",
+          "resume": "L'entreprise d'intelligence artificielle Anthropic dépose un dossier pour son introduction en bourse aux États-Unis, tandis que cinq travailleurs indépendants et l'association Noyb déposent des plaintes en Europe contre Scale AI pour collecte illégale de données personnelles.",
           "liens": [
             {
               "titre": "Meta plans $95bn stock offering to help cover AI expansion",

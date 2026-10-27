@@ -1,25 +1,7 @@
 {
   "version_schema": 1,
-  "mis_a_jour_le": "2026-10-27T05:35:47+01:00",
+  "mis_a_jour_le": "2026-10-27T10:00:42+01:00",
   "entrees": [
-    {
-      "d": "2026-10-27",
-      "i": "67bf5d1d806c",
-      "t": "\"La décision de Moody's tempère un peu les inquiétudes\": l’écart entre les taux français et allemand enregistre son plus fort repli depuis 2020",
-      "r": "L'écart entre les taux d'emprunt de la France et de l'Allemagne a reculé de 0,14 point de pourcentage, se situant à 1,54 point après le maintien de la note française par Moody’s.",
-      "c": "finance",
-      "s": "BFM Business",
-      "f": "dette-marches"
-    },
-    {
-      "d": "2026-10-27",
-      "i": "fa1814b3d302",
-      "t": "Pouvoir d'achat : les salariés au SMIC réclament une hausse plus importante",
-      "r": "Le gouvernement prépare une hausse anticipée du SMIC au 1er décembre, tandis que les syndicats demandent une revalorisation plus importante pour compenser la hausse du coût de la vie.",
-      "c": "desequilibres",
-      "s": "franceinfo",
-      "f": "conjoncture-france"
-    },
     {
       "d": "2026-10-27",
       "i": "1fc158ac434d",
@@ -31,21 +13,39 @@
     },
     {
       "d": "2026-10-27",
-      "i": "6137a68b606d",
-      "t": "Anthropic, le créateur de l'IA Claude, prépare son entrée en Bourse malgré des milliards de dollars de pertes",
-      "r": "Anthropic, créateur de l’IA Claude, prévoit une introduction en bourse avec une valorisation cible de 2 000 milliards de dollars, malgré des pertes importantes.",
+      "i": "67bf5d1d806c",
+      "t": "\"La décision de Moody's tempère un peu les inquiétudes\": l’écart entre les taux français et allemand enregistre son plus fort repli depuis 2020",
+      "r": "L'écart entre les taux d'emprunt de la France et de l'Allemagne a reculé de 0,14 point de pourcentage, se situant à 1,54 point après le maintien de la note française par Moody’s.",
       "c": "finance",
-      "s": "franceinfo",
-      "f": null
+      "s": "BFM Business",
+      "f": "dette-marches"
     },
     {
       "d": "2026-10-27",
-      "i": "4baf7ea00deb",
-      "t": "Meta prévoit une levée de fonds de 95 milliards de dollars en actions pour financer son expansion dans l'IA",
-      "r": "Meta annonce un projet de levée de fonds de 95 milliards de dollars en actions pour financer ses dépenses massives dans l'intelligence artificielle.",
-      "c": "finance",
-      "s": "The Guardian",
-      "f": "intelligence-artificielle"
+      "i": "36ad0562eb79",
+      "t": "L'objectif de déficit public de 5% \"reste intangible\": David Amiel prévient que les 5 milliards d'euros pour répondre à la colère lycéenne devront \"être financés par des efforts supplémentaires\"",
+      "r": "Le ministre de l'Action et des Comptes publics, David Amiel, confirme que l'objectif de déficit public à 5 % « reste évidemment intangible », et que les aides annoncées devront être financées par des efforts supplémentaires.",
+      "c": "desequilibres",
+      "s": "BFM Business",
+      "f": "budget-2027"
+    },
+    {
+      "d": "2026-10-27",
+      "i": "e1f84d25dee5",
+      "t": "Où en sont les débats sur le PLF et le PLFSS 2027 ? Suivez les étapes de l'examen du budget à l'Assemblée et au Sénat",
+      "r": "Députés et sénateurs examinent, jusqu'à la fin de l'année, le budget de l'État et celui de la Sécurité sociale, avec un suivi quotidien proposé par Franceinfo.",
+      "c": "desequilibres",
+      "s": "franceinfo",
+      "f": "budget-2027"
+    },
+    {
+      "d": "2026-10-27",
+      "i": "fa1814b3d302",
+      "t": "Pouvoir d'achat : les salariés au SMIC réclament une hausse plus importante",
+      "r": "Le gouvernement prépare une hausse anticipée du SMIC au 1er décembre, tandis que les syndicats demandent une revalorisation plus importante pour compenser la hausse du coût de la vie.",
+      "c": "desequilibres",
+      "s": "franceinfo",
+      "f": "conjoncture-france"
     },
     {
       "d": "2026-10-27",
@@ -81,6 +81,15 @@
       "r": "",
       "c": "croissance",
       "s": "Les Echos",
+      "f": null
+    },
+    {
+      "d": "2026-10-27",
+      "i": "467b15901d6e",
+      "t": "Corée du Sud : la croissance atteint 3,4% portée par les semi-conducteurs",
+      "r": "Les exportations de semi-conducteurs ont plus que triplé au troisième trimestre sur un an, soutenant la croissance sud-coréenne à 3,4%.",
+      "c": "croissance",
+      "s": "Le Figaro",
       "f": null
     },
     {
@@ -121,6 +130,15 @@
     },
     {
       "d": "2026-10-27",
+      "i": "32d032ab0e62",
+      "t": "Guerre commerciale Airbus-Boeing : Washington menace de rompre la trêve après un prêt de 3 milliards de la BEI",
+      "r": "Washington menace de rompre la trêve commerciale de 2021 dans le dossier Airbus-Boeing suite à un prêt de la BEI accordé à l'avionneur.",
+      "c": "mondialisation",
+      "s": "La Tribune",
+      "f": null
+    },
+    {
+      "d": "2026-10-27",
       "i": "8a5682f1748e",
       "t": "Au Brésil, la Bourse de Sao Paulo s'effondre après la réélection de Lula",
       "r": "La Bourse de Sao Paulo chute fortement à l'ouverture au lendemain de la réélection de Luiz Inacio Lula da Silva.",
@@ -154,6 +172,15 @@
       "c": "finance",
       "s": "La Tribune",
       "f": "dette-marches"
+    },
+    {
+      "d": "2026-10-27",
+      "i": "c894e4951c02",
+      "t": "Le crépuscule de la société en commandite",
+      "r": "La société en commandite, longtemps utilisée pour protéger le contrôle des entreprises, disparaît progressivement de la Bourse de Paris.",
+      "c": "finance",
+      "s": "L'Opinion",
+      "f": null
     },
     {
       "d": "2026-10-27",
@@ -193,6 +220,15 @@
     },
     {
       "d": "2026-10-27",
+      "i": "7c2eb70f983b",
+      "t": "En octobre 2026, la confiance des ménages se dégrade fortement",
+      "r": "En octobre 2026, l'indicateur de la confiance des ménages baisse de cinq points pour s'établir à 80, atteignant son plus bas niveau depuis juin 2013.",
+      "c": "desequilibres",
+      "s": "INSEE",
+      "f": "conjoncture-france"
+    },
+    {
+      "d": "2026-10-27",
       "i": "c03536fc3f50",
       "t": "\"L’Europe doit assumer une plus grande part de responsabilité\": la France et les quatre autres grandes armées européennes s’engagent à jouer un plus grand rôle au sein de l'Otan",
       "r": "La France, l'Allemagne, l'Italie, la Pologne et le Royaume-Uni s'engagent à renforcer leur rôle au sein de l'Otan.",
@@ -225,6 +261,15 @@
       "r": "Le projet de 28e régime européen vise à faciliter l'implantation des entreprises au sein de l'Union européenne face à la diversité des statuts nationaux.",
       "c": "ue",
       "s": "Toute l'Europe",
+      "f": null
+    },
+    {
+      "d": "2026-10-27",
+      "i": "4758490ef09d",
+      "t": "Agriculture : les 27 pays de l'UE s'accordent sur la réforme de la PAC mais son financement fait encore défaut",
+      "r": "",
+      "c": "ue",
+      "s": "Les Echos",
       "f": null
     },
     {
@@ -265,6 +310,15 @@
     },
     {
       "d": "2026-10-27",
+      "i": "8db7f4cbc00d",
+      "t": "Des « petites mains » de l’IA portent plainte pour infraction aux règles de protection des données",
+      "r": "Cinq travailleurs indépendants et l'association Noyb déposent cinq plaintes en Europe contre Scale AI et sa plateforme Outlier pour collecte illégale de données personnelles.",
+      "c": "entreprises",
+      "s": "Le Monde",
+      "f": "intelligence-artificielle"
+    },
+    {
+      "d": "2026-10-27",
       "i": "f2070ed49ecf",
       "t": "Jean-Pierre Grimaud : « La capitalisation ne sauvera pas la répartition, elle viendra la compléter »",
       "r": "Le directeur général d'Ofi Invest estime possible la mise en place d'une retraite collective obligatoire par capitalisation pour compléter le système par répartition.",
@@ -279,6 +333,33 @@
       "r": "Un projet de \"taxe émeutes\" de 0,8 % sur les contrats d'assurance automobile et habitation est à l'étude pour financer les dégâts.",
       "c": "epargne",
       "s": "franceinfo",
+      "f": null
+    },
+    {
+      "d": "2026-10-27",
+      "i": "7d9c5449aa0a",
+      "t": "OAT à 5 % : aubaine ou piège pour les fonds en euros de l'assurance-vie ?",
+      "r": "",
+      "c": "epargne",
+      "s": "Les Echos",
+      "f": null
+    },
+    {
+      "d": "2026-10-27",
+      "i": "f8d15286ef7c",
+      "t": "Succession : les banques peuvent de nouveaux vous facturer des frais",
+      "r": "Depuis le 20 juin, certaines banques prélèvent des frais pour la clôture de comptes ou le transfert de l'épargne d'un défunt.",
+      "c": "epargne",
+      "s": "Le Figaro",
+      "f": "fiscalite-epargne-patrimoine"
+    },
+    {
+      "d": "2026-10-27",
+      "i": "8d6b4cc6dd97",
+      "t": "Les primo-accédants espèrent de l'aide du budget",
+      "r": "Des candidats à l'accession à la propriété déclarent que les loyers, la hausse des coûts et les prix de l'immobilier retardent leurs projets d'achat.",
+      "c": "epargne",
+      "s": "BBC",
       "f": null
     },
     {
