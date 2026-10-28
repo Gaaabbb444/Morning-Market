@@ -1,6 +1,6 @@
 {
   "version_schema": 1,
-  "mis_a_jour_le": "2026-10-28T05:44:46+01:00",
+  "mis_a_jour_le": "2026-10-28T10:06:04+01:00",
   "fils": [
     {
       "id": "budget-2027",
@@ -11,7 +11,7 @@
       "categories": [
         "desequilibres"
       ],
-      "ou_en_est_on": "L'examen des budgets 2027 de l'État et de la Sécurité sociale se durcit face aux alertes de multiples acteurs économiques. Les organisations patronales contestent 11 milliards d'euros de hausses de charges envisagées dans le PLFSS, alors que la Cour des comptes pointe un manque de ressources publiques pour honorer les engagements d'investissement de France 2030. Dans le même temps, les craintes de coupes budgétaires touchent la recherche aéronautique et ravivent les débats parlementaires sur les crédits du Centre national du cinéma.",
+      "ou_en_est_on": "L'examen du budget 2027 s'accélère à l'Assemblée nationale au milieu de vifs désaccords fiscaux. Alors que les organisations patronales contestent des hausses de charges et que les députés ont voté la suppression de la surtaxe sur les grandes entreprises contre l'avis du gouvernement, ce dernier met en place une taxe « émeutes » pour lever 400 millions d'euros afin de couvrir les dégâts des récentes mobilisations.",
       "ou_en_est_on_maj_le": "2026-10-28",
       "evenements": [
         {
@@ -277,7 +277,7 @@
         },
         {
           "date": "2026-10-28",
-          "resume": "Les organisations patronales demandent le réexamen des mesures du PLFSS qui augmenteraient le coût du travail de 11 milliards d'euros, tandis que la Cour des comptes alerte sur le risque de mur budgétaire pour financer le plan France 2030.",
+          "resume": "Les députés ont voté la suppression de la surtaxe visant les grandes entreprises et l'exécutif instaure une taxe « émeutes » pour financer les dégradations liées aux manifestations.",
           "liens": [
             {
               "titre": "« Onze milliards d’euros de charges supplémentaires » : les patrons haussent le ton contre le PLFSS",
@@ -298,6 +298,11 @@
               "titre": "«Ce consensus historique ne rassemble plus l’ensemble de la classe politique» : le financement du Centre national du cinéma sous pression",
               "source": "Le Figaro",
               "url": "https://www.lefigaro.fr/medias/ce-consensus-historique-ne-rassemble-plus-l-ensemble-de-la-classe-politique-le-financement-du-centre-national-du-cinema-sous-pression-20261027"
+            },
+            {
+              "titre": "Budget 2027: les députés suppriment la surtaxe des grandes entreprises, contre l’avis du gouvernement",
+              "source": "Le Figaro",
+              "url": "https://www.lefigaro.fr/conjoncture/budget-2027-les-deputes-suppriment-la-surtaxe-des-grandes-entreprises-contre-l-avis-du-gouvernement-20261027"
             }
           ]
         }
@@ -496,6 +501,17 @@
               "titre": "Dette française : « Le seul signal donné par Moody’s, c’est que le moment est trop inflammable pour craquer une allumette »",
               "source": "Le Monde",
               "url": "https://www.lemonde.fr/economie/article/2026/10/26/dette-francaise-le-seul-signal-donne-par-moody-s-c-est-que-le-moment-est-trop-inflammable-pour-craquer-une-allumette_6800674_3234.html"
+            }
+          ]
+        },
+        {
+          "date": "2026-10-28",
+          "resume": "Face aux incertitudes politiques et au dérapage de la dette, des épargnants français aisés transfèrent leur patrimoine vers la Suisse et le Luxembourg.",
+          "liens": [
+            {
+              "titre": "«Le mouvement s’accélère» : face à la crise économique et politique, les riches épargnants se tournent vers la Suisse et le Luxembourg",
+              "source": "Le Figaro",
+              "url": "https://www.lefigaro.fr/conjoncture/le-mouvement-s-accelere-face-a-la-crise-economique-et-politique-les-riches-epargnants-se-tournent-vers-la-suisse-et-le-luxembourg-20261028"
             }
           ]
         }
@@ -1643,7 +1659,7 @@
         },
         {
           "date": "2026-10-28",
-          "resume": "Anthropic prépare son introduction en Bourse en espérant lever 100 milliards de dollars, tandis que Microsoft engage des départs volontaires pour 60 000 salariés afin de réallouer ses ressources vers l'infrastructure IA et que l'indice chinois STAR50 chute de 40 % en quatre mois.",
+          "resume": "Le fabricant SK Hynix a annoncé une forte hausse de son bénéfice net au troisième trimestre, tandis que des travailleurs indépendants portent plainte contre Scale AI en Europe.",
           "liens": [
             {
               "titre": "Anthropic en Bourse : les cinq détails à ne pas rater dans le dossier d’introduction du champion de l’intelligence artificielle",

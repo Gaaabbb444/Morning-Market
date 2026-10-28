@@ -1,6 +1,6 @@
 {
   "version_schema": 1,
-  "mis_a_jour_le": "2026-10-28T05:44:31+01:00",
+  "mis_a_jour_le": "2026-10-28T10:05:00+01:00",
   "entrees": [
     {
       "d": "2026-10-28",
@@ -85,6 +85,15 @@
     },
     {
       "d": "2026-10-28",
+      "i": "adbead022d3d",
+      "t": "IA et travail : « Les précédentes révolutions industrielles ont, sur le long terme, toujours créé plus d’emplois qu’elles n’en ont détruits »",
+      "r": "Les économistes Jean-Hervé Lorenzi et Alain Villemeur plaident pour une révolution fiscale et un bonus-malus pour réguler l'impact de l'IA sur l'emploi.",
+      "c": "croissance",
+      "s": "Le Monde",
+      "f": "intelligence-artificielle"
+    },
+    {
+      "d": "2026-10-28",
       "i": "ad0ac572e425",
       "t": "Intelligence artificielle : comment les géants de la tech resserrent leur emprise sur l’économie",
       "r": "Le développement des systèmes d'intelligence artificielle accroît la dépendance envers les géants du numérique américains et accentue le déséquilibre dans le partage de la valeur.",
@@ -118,6 +127,15 @@
       "c": "mondialisation",
       "s": "The Guardian",
       "f": null
+    },
+    {
+      "d": "2026-10-28",
+      "i": "3f6e04ebad2d",
+      "t": "OPINION. « L'automobile française peine à se relancer : comment préserver l'emploi et l'innovation »",
+      "r": "Face à la concurrence chinoise et aux réglementations européennes coûteuses, l'automobile française cherche à préserver son emploi et son innovation.",
+      "c": "mondialisation",
+      "s": "La Tribune",
+      "f": "automobile-europe-chine"
     },
     {
       "d": "2026-10-28",
@@ -193,6 +211,15 @@
     },
     {
       "d": "2026-10-28",
+      "i": "ecd8a0f0e03e",
+      "t": "«Impressionnants», le FMI souligne les résultats de Javier Milei et accorde une nouvelle aide de 900 millions de dollars à l’Argentine",
+      "r": "Le FMI a qualifié d'impressionnants les résultats économiques de l'Argentine sous Javier Milei et a accordé une nouvelle aide de 900 millions de dollars.",
+      "c": "desequilibres",
+      "s": "Le Figaro",
+      "f": null
+    },
+    {
+      "d": "2026-10-28",
       "i": "2f96423401d1",
       "t": "Galileo : Airbus et Thales Alenia Space reçoivent une nouvelle commande",
       "r": "L'Agence spatiale européenne confie la construction de quatre nouveaux satellites Galileo à Airbus Defence & Space et Thales Alenia Space.",
@@ -205,6 +232,15 @@
       "i": "52ddeb0b4f4e",
       "t": "L'agenda européen : quels sont les principaux événements prévus du 26 octobre au 1er novembre 2026 ?",
       "r": "Les ministres européens de l'Agriculture et de la Pêche doivent s'accorder sur les quotas de pêche en mer Baltique pour 2027.",
+      "c": "ue",
+      "s": "Toute l'Europe",
+      "f": null
+    },
+    {
+      "d": "2026-10-28",
+      "i": "9e7634d7ff7c",
+      "t": "Quelles relations l'Union européenne entretient-elle avec Israël et la Palestine ?",
+      "r": "L'Union européenne entretient des relations étroites avec Israël, son premier partenaire commercial, et la Palestine, dont elle est le premier donateur mondial.",
       "c": "ue",
       "s": "Toute l'Europe",
       "f": null
@@ -247,6 +283,15 @@
     },
     {
       "d": "2026-10-28",
+      "i": "163eedd600da",
+      "t": "Rachat d'Eramet : « L'État français ne pouvait pas laisser filer une telle pépite » dit Philippe Chalmin",
+      "r": "L'Autorité des marchés financiers a accordé une dérogation à l'État français pour monter au capital d'Eramet sans recourir à une offre publique d'achat.",
+      "c": "entreprises",
+      "s": "La Tribune",
+      "f": null
+    },
+    {
+      "d": "2026-10-28",
       "i": "86a9c6e7cedb",
       "t": "Crédits immobiliers : vers des taux d’intérêts à 4% sur 20 ans",
       "r": "La hausse de la dette pèse sur les conditions de financement et pourrait porter les taux des crédits immobiliers à 4 % sur 20 ans d'ici la fin de l'année.",
@@ -280,6 +325,15 @@
       "c": "epargne",
       "s": "Les Echos",
       "f": null
+    },
+    {
+      "d": "2026-10-28",
+      "i": "cdea1ead2892",
+      "t": "«Le mouvement s’accélère» : face à la crise économique et politique, les riches épargnants se tournent vers la Suisse et le Luxembourg",
+      "r": "Face au dérapage de la dette et aux incertitudes politiques, des épargnants français aisés transfèrent leur patrimoine vers la Suisse et le Luxembourg.",
+      "c": "epargne",
+      "s": "Le Figaro",
+      "f": "dette-marches"
     },
     {
       "d": "2026-10-27",
