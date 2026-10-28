@@ -1,16 +1,14 @@
 {
   "version_schema": 1,
   "notions": {
-    "inflation": [
-      {
-        "date": "2026-10-27",
-        "id": "1fc158ac434d",
-        "titre": "European gas prices soar to four-year high over winter supply fears",
-        "source": "The Guardian",
-        "contexte": "Top 5 du jour"
-      }
-    ],
     "spread-ecart-de-taux-souverain": [
+      {
+        "date": "2026-10-28",
+        "id": "ef519bbf46f9",
+        "titre": "Dette, inflation, intelligence artificielle… La Fed et la BCE sous la pression des marchés",
+        "source": "Le Figaro",
+        "contexte": "Top 5 du jour"
+      },
       {
         "date": "2026-10-27",
         "id": "67bf5d1d806c",
@@ -44,6 +42,72 @@
         "id": "7ad64ee54b92",
         "titre": "Amélie de Montchalin, première présidente de la Cour des comptes : « Nous menons la bataille de la vérité »",
         "source": "La Tribune",
+        "contexte": "Top 5 du jour"
+      }
+    ],
+    "politique-industrielle": [
+      {
+        "date": "2026-10-28",
+        "id": "ee8bc342e83a",
+        "titre": "France 2030 : le grand plan d’Emmanuel Macron face à un « mur budgétaire », alerte la Cour des comptes",
+        "source": "Le Monde",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-10-20",
+        "id": "ced71c54d04c",
+        "titre": "Intelligence artificielle : l’Allemagne scelle un partenariat avec Nvidia visant à accélérer son déploiement dans l’industrie",
+        "source": "Le Figaro",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-10-18",
+        "id": "66580453350e",
+        "titre": "Il a tout appris chez Audi en Allemagne et puis il est devenu le \"père de la voiture électrique en Chine\": qui est Wan Gang, l'ingénieur dont une lettre à Pékin a déclenché la déferlante chinoise?",
+        "source": "BFM Business",
+        "contexte": "Top 5 du jour"
+      }
+    ],
+    "bien-public": [
+      {
+        "date": "2026-10-28",
+        "id": "a7d0da833210",
+        "titre": "Climat : la facture à 70 milliards d'euros par an de l'UE pour faire face au choc à + 3 °C",
+        "source": "La Tribune",
+        "contexte": "Top 5 du jour"
+      }
+    ],
+    "redistribution": [
+      {
+        "date": "2026-10-28",
+        "id": "3197537c0e19",
+        "titre": "Pensions de retraite, santé… La France toujours championne d’Europe des dépenses sociales",
+        "source": "Le Figaro",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-10-20",
+        "id": "47bb58bce44c",
+        "titre": "Budget 2027 : les retraités pourraient assumer près de 60 % de l’effort financier pesant sur les ménages",
+        "source": "La Tribune",
+        "contexte": "Top 5 du jour"
+      }
+    ],
+    "sanctions-economiques": [
+      {
+        "date": "2026-10-28",
+        "id": "a88d5a773650",
+        "titre": "IA : la bulle s'effondre en Chine, 480 milliards de dollars déjà partis en fumée",
+        "source": "La Tribune",
+        "contexte": "Top 5 du jour"
+      }
+    ],
+    "inflation": [
+      {
+        "date": "2026-10-27",
+        "id": "1fc158ac434d",
+        "titre": "European gas prices soar to four-year high over winter supply fears",
+        "source": "The Guardian",
         "contexte": "Top 5 du jour"
       }
     ],
@@ -348,31 +412,6 @@
         "id": "26d782674265",
         "titre": "Les 6 000 salariés de l’enseigne à petits prix GiFi s’inquiètent pour leur sort",
         "source": "Le Monde",
-        "contexte": "Top 5 du jour"
-      }
-    ],
-    "redistribution": [
-      {
-        "date": "2026-10-20",
-        "id": "47bb58bce44c",
-        "titre": "Budget 2027 : les retraités pourraient assumer près de 60 % de l’effort financier pesant sur les ménages",
-        "source": "La Tribune",
-        "contexte": "Top 5 du jour"
-      }
-    ],
-    "politique-industrielle": [
-      {
-        "date": "2026-10-20",
-        "id": "ced71c54d04c",
-        "titre": "Intelligence artificielle : l’Allemagne scelle un partenariat avec Nvidia visant à accélérer son déploiement dans l’industrie",
-        "source": "Le Figaro",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-10-18",
-        "id": "66580453350e",
-        "titre": "Il a tout appris chez Audi en Allemagne et puis il est devenu le \"père de la voiture électrique en Chine\": qui est Wan Gang, l'ingénieur dont une lettre à Pékin a déclenché la déferlante chinoise?",
-        "source": "BFM Business",
         "contexte": "Top 5 du jour"
       }
     ],

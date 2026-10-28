@@ -1,7 +1,286 @@
 {
   "version_schema": 1,
-  "mis_a_jour_le": "2026-10-27T10:00:42+01:00",
+  "mis_a_jour_le": "2026-10-28T05:44:31+01:00",
   "entrees": [
+    {
+      "d": "2026-10-28",
+      "i": "ef519bbf46f9",
+      "t": "Dette, inflation, intelligence artificielle… La Fed et la BCE sous la pression des marchés",
+      "r": "La Fed et la BCE devraient laisser leurs taux directeurs inchangés cette semaine, tout en n'excluant pas d'éventuelles hausses en décembre. En Europe, la défiance observée à l'égard de la dette française complique la conduite de la politique monétaire contre l'inflation.",
+      "c": "finance",
+      "s": "Le Figaro",
+      "f": "inflation-bce"
+    },
+    {
+      "d": "2026-10-28",
+      "i": "ee8bc342e83a",
+      "t": "France 2030 : le grand plan d’Emmanuel Macron face à un « mur budgétaire », alerte la Cour des comptes",
+      "r": "La Cour des comptes signale que le plan France 2030, initié en 2021, fait face à de lourdes contraintes financières et à un manque potentiel de fonds publics pour financer l'ensemble des investissements engagés.",
+      "c": "desequilibres",
+      "s": "Le Monde",
+      "f": "budget-2027"
+    },
+    {
+      "d": "2026-10-28",
+      "i": "a7d0da833210",
+      "t": "Climat : la facture à 70 milliards d'euros par an de l'UE pour faire face au choc à + 3 °C",
+      "r": "Constatant l'insuffisance des efforts mondiaux pour maintenir la hausse des températures à + 1,5 °C, la Commission européenne demande aux Vingt-Sept de planifier l'adaptation des infrastructures à un réchauffement de + 3 °C d'ici 2100, pour un coût estimé à 70 milliards d'euros par an.",
+      "c": "croissance",
+      "s": "La Tribune",
+      "f": null
+    },
+    {
+      "d": "2026-10-28",
+      "i": "3197537c0e19",
+      "t": "Pensions de retraite, santé… La France toujours championne d’Europe des dépenses sociales",
+      "r": "D'après une étude de la Drees, les prestations sociales en France atteignent environ 900 milliards d'euros par an, principalement allouées aux dépenses de santé et de vieillesse.",
+      "c": "desequilibres",
+      "s": "Le Figaro",
+      "f": null
+    },
+    {
+      "d": "2026-10-28",
+      "i": "a88d5a773650",
+      "t": "IA : la bulle s'effondre en Chine, 480 milliards de dollars déjà partis en fumée",
+      "r": "En Chine, l'indice boursier STAR50 a perdu 40 % de sa valeur en quatre mois, représentant 480 milliards de dollars, sous l'effet des doutes sur la demande en intelligence artificielle et des sanctions américaines.",
+      "c": "finance",
+      "s": "La Tribune",
+      "f": "intelligence-artificielle"
+    },
+    {
+      "d": "2026-10-28",
+      "i": "ea5709a231f3",
+      "t": "France 2030 : la Cour des comptes pointe les « effets d’aubaine » liés au plan à 54 milliards d’euros",
+      "r": "La Cour des comptes pointe les effets d'aubaine du plan France 2030, indiquant que près de la moitié des projets auraient vu le jour sans l'aide de l'État.",
+      "c": "croissance",
+      "s": "Le Figaro",
+      "f": "conjoncture-france"
+    },
+    {
+      "d": "2026-10-28",
+      "i": "adf293747ebf",
+      "t": "54 milliards pour transformer l'économie française: cinq ans après son lancement, le plan d'investissement \"France 2030\" a-t-il tenu toutes ses promesses?",
+      "r": "Un rapport de la Cour des comptes souligne des fragilités dans la mise en œuvre du plan d'investissement France 2030, malgré des appréciations globalement favorables.",
+      "c": "croissance",
+      "s": "BFM Business",
+      "f": "conjoncture-france"
+    },
+    {
+      "d": "2026-10-28",
+      "i": "e39535063ea5",
+      "t": "France 2030 : trop de subventions, pas assez de stratégie d'après la Cour des comptes",
+      "r": "La Cour des comptes salue la rapidité d'exécution du plan France 2030 tout en soulignant des défauts stratégiques et un excès de subventions.",
+      "c": "croissance",
+      "s": "L'Opinion",
+      "f": "conjoncture-france"
+    },
+    {
+      "d": "2026-10-28",
+      "i": "6aa547447c21",
+      "t": "Climat : après un été dévastateur, Bruxelles presse les États à se préparer au pire scénario",
+      "r": "La Commission européenne demande aux États membres de préparer des plans face à un réchauffement climatique à 3 degrés d'ici 2100 pour contenir les coûts.",
+      "c": "croissance",
+      "s": "Le Figaro",
+      "f": null
+    },
+    {
+      "d": "2026-10-28",
+      "i": "ad0ac572e425",
+      "t": "Intelligence artificielle : comment les géants de la tech resserrent leur emprise sur l’économie",
+      "r": "Le développement des systèmes d'intelligence artificielle accroît la dépendance envers les géants du numérique américains et accentue le déséquilibre dans le partage de la valeur.",
+      "c": "mondialisation",
+      "s": "Alternatives Économiques",
+      "f": "intelligence-artificielle"
+    },
+    {
+      "d": "2026-10-28",
+      "i": "dd78955db9ba",
+      "t": "\"Jusqu'à présent, les États-Unis ne voulaient pas partager ce type de capacités\": la Pologne va accueillir un centre de maintenance des missiles Patriot et salue une \"décision historique\"",
+      "r": "La Pologne va accueillir un centre de maintenance de missiles Patriot pour un coût de 230 millions d'euros.",
+      "c": "mondialisation",
+      "s": "BFM Business",
+      "f": null
+    },
+    {
+      "d": "2026-10-28",
+      "i": "1e5d539d3a52",
+      "t": "Commerce, défense, Ukraine… L'UE et le Canada ont rendez-vous à Montréal pour consolider leur rapprochement",
+      "r": "L'Union européenne et le Canada se réunissent à Montréal pour consolider leur rapprochement dans les domaines du commerce, de la défense et de l'Ukraine.",
+      "c": "mondialisation",
+      "s": "Toute l'Europe",
+      "f": null
+    },
+    {
+      "d": "2026-10-28",
+      "i": "8a2376492e51",
+      "t": "Des responsables britanniques discutent d'options incluant la libre circulation avec l'UE avant le sommet",
+      "r": "Des discussions ont débuté entre des responsables britanniques et l'UE concernant une relation à long terme pouvant inclure un retour à la libre circulation.",
+      "c": "mondialisation",
+      "s": "The Guardian",
+      "f": null
+    },
+    {
+      "d": "2026-10-28",
+      "i": "04c450189178",
+      "t": "Anthropic en Bourse : les cinq détails à ne pas rater dans le dossier d’introduction du champion de l’intelligence artificielle",
+      "r": "La société Anthropic a rendu public son document de cotation à Wall Street, révélant salaires et craintes sur l'intelligence artificielle.",
+      "c": "finance",
+      "s": "La Tribune",
+      "f": "intelligence-artificielle"
+    },
+    {
+      "d": "2026-10-28",
+      "i": "836e10b39840",
+      "t": "Un « mur de dettes » de 300 milliards de dollars menace les entreprises financées par le capital-investissement",
+      "r": "Un mur de dettes de 300 milliards de dollars menace les entreprises financées par le capital-investissement, notamment dans les logiciels.",
+      "c": "finance",
+      "s": "L'Opinion",
+      "f": null
+    },
+    {
+      "d": "2026-10-28",
+      "i": "015c0591b743",
+      "t": "Les « PuFins » chéris du chancelier ont un rôle important, mais nécessitent davantage de contrôle | Nils Pratley",
+      "r": "Le National Wealth Fund et la British Business Bank s'affirment comme des organismes d'investissement étatiques centraux nécessitant un suivi accru.",
+      "c": "finance",
+      "s": "The Guardian",
+      "f": null
+    },
+    {
+      "d": "2026-10-28",
+      "i": "4b287c810b5c",
+      "t": "Anthropic se met à nu pour séduire Wall Street",
+      "r": "L'éditeur d'intelligence artificielle Anthropic cherche à lever cent milliards de dollars pour financer ses investissements technologiques.",
+      "c": "finance",
+      "s": "L'Opinion",
+      "f": "intelligence-artificielle"
+    },
+    {
+      "d": "2026-10-28",
+      "i": "5091aee9b330",
+      "t": "« Onze milliards d’euros de charges supplémentaires » : les patrons haussent le ton contre le PLFSS",
+      "r": "Les organisations patronales demandent à l'exécutif le réexamen des mesures du PLFSS augmentant le coût du travail de onze milliards d'euros.",
+      "c": "desequilibres",
+      "s": "L'Opinion",
+      "f": "budget-2027"
+    },
+    {
+      "d": "2026-10-28",
+      "i": "8ab102f7ea1c",
+      "t": "Dette : si la France subissait la cure grecque, un retraité perdrait jusqu’à 575 euros par mois, notre simulation",
+      "r": "Une simulation montre qu'une cure d'austérité de type grec pour la France réduirait significativement les pensions des retraités et des fonctionnaires.",
+      "c": "desequilibres",
+      "s": "Capital",
+      "f": "dette-marches"
+    },
+    {
+      "d": "2026-10-28",
+      "i": "823709d564b2",
+      "t": "Dette : comment la France est devenue le maillon faible de l'Europe",
+      "r": "",
+      "c": "desequilibres",
+      "s": "Les Echos",
+      "f": "dette-marches"
+    },
+    {
+      "d": "2026-10-28",
+      "i": "9294ce529e17",
+      "t": "Moins de 50 salariés et un chiffre d’affaires inférieur à 10 millions d’euros: le gouvernement promet des aides allant \"jusqu'à 10.000 euros\" pour les commerces les plus touchés par les pillages",
+      "r": "Suite aux pillages, le gouvernement annonce un fonds de soutien proposant des aides allant jusqu'à 10 000 euros pour les commerces et restaurants les plus touchés.",
+      "c": "desequilibres",
+      "s": "BFM Business",
+      "f": "conjoncture-france"
+    },
+    {
+      "d": "2026-10-28",
+      "i": "2f96423401d1",
+      "t": "Galileo : Airbus et Thales Alenia Space reçoivent une nouvelle commande",
+      "r": "L'Agence spatiale européenne confie la construction de quatre nouveaux satellites Galileo à Airbus Defence & Space et Thales Alenia Space.",
+      "c": "ue",
+      "s": "La Tribune",
+      "f": null
+    },
+    {
+      "d": "2026-10-28",
+      "i": "52ddeb0b4f4e",
+      "t": "L'agenda européen : quels sont les principaux événements prévus du 26 octobre au 1er novembre 2026 ?",
+      "r": "Les ministres européens de l'Agriculture et de la Pêche doivent s'accorder sur les quotas de pêche en mer Baltique pour 2027.",
+      "c": "ue",
+      "s": "Toute l'Europe",
+      "f": null
+    },
+    {
+      "d": "2026-10-28",
+      "i": "adda5e8a23ca",
+      "t": "Des serveurs plutôt que des cerveaux : la grande réallocation des coûts chez Microsoft",
+      "r": "Microsoft engage un plan de départs volontaires ciblant 60 000 salariés pour réallouer ses coûts de personnel vers les investissements dans l'intelligence artificielle.",
+      "c": "entreprises",
+      "s": "La Tribune",
+      "f": "intelligence-artificielle"
+    },
+    {
+      "d": "2026-10-28",
+      "i": "94b27eb49b11",
+      "t": "Faillite du BHV : de l’échec du virage vers le luxe au scandale de l’accord avec Shein, la longue descente aux enfers de l’ex-Bazar de l’Hôtel de Ville",
+      "r": "Le grand magasin parisien BHV fait faillite après une décennie de difficultés, aggravées par des polémiques autour de l'arrivée de Shein.",
+      "c": "entreprises",
+      "s": "Le Figaro",
+      "f": null
+    },
+    {
+      "d": "2026-10-28",
+      "i": "00034d08b881",
+      "t": "Rachat TAP Portugal : pourquoi Lufthansa l'a emporté face à Air France-KLM",
+      "r": "Lufthansa l'emporte sur Air France-KLM pour le rachat de TAP Air Portugal, renforçant sa position sous réserve de l'aval européen.",
+      "c": "entreprises",
+      "s": "La Tribune",
+      "f": null
+    },
+    {
+      "d": "2026-10-28",
+      "i": "961d0a475c56",
+      "t": "Services : un marché de près de 5 000 Md$ sur les vingt prochaines années",
+      "r": "Le marché des services liés à la connectivité devrait doubler d'ici 2045 pour dépasser 400 milliards de dollars annuels selon Airbus.",
+      "c": "entreprises",
+      "s": "La Tribune",
+      "f": null
+    },
+    {
+      "d": "2026-10-28",
+      "i": "86a9c6e7cedb",
+      "t": "Crédits immobiliers : vers des taux d’intérêts à 4% sur 20 ans",
+      "r": "La hausse de la dette pèse sur les conditions de financement et pourrait porter les taux des crédits immobiliers à 4 % sur 20 ans d'ici la fin de l'année.",
+      "c": "epargne",
+      "s": "franceinfo",
+      "f": "dette-marches"
+    },
+    {
+      "d": "2026-10-28",
+      "i": "f570eb96a5b1",
+      "t": "Faire fructifier son PEA sans rien vendre : le pari du prêt de titres",
+      "r": "",
+      "c": "epargne",
+      "s": "Les Echos",
+      "f": null
+    },
+    {
+      "d": "2026-10-28",
+      "i": "f071d5c0c181",
+      "t": "IFI : quelle déduction des avances en compte courant d'associé",
+      "r": "",
+      "c": "epargne",
+      "s": "Les Echos",
+      "f": null
+    },
+    {
+      "d": "2026-10-28",
+      "i": "7c64c2216744",
+      "t": "Gestion d'actifs : Carmignac et Clipway étendent leur offre auprès des particuliers",
+      "r": "",
+      "c": "epargne",
+      "s": "Les Echos",
+      "f": null
+    },
     {
       "d": "2026-10-27",
       "i": "1fc158ac434d",

@@ -1,6 +1,6 @@
 {
   "version_schema": 1,
-  "mis_a_jour_le": "2026-10-27T10:01:04+01:00",
+  "mis_a_jour_le": "2026-10-28T05:44:46+01:00",
   "fils": [
     {
       "id": "budget-2027",
@@ -11,8 +11,8 @@
       "categories": [
         "desequilibres"
       ],
-      "ou_en_est_on": "L'examen des textes budgétaires pour 2027 se poursuit à l'Assemblée nationale et au Sénat dans un climat tendu. Le gouvernement, par la voix du ministre de l'Action et des Comptes publics David Amiel, maintient son objectif de déficit public à 5 % en exigeant que de nouvelles mesures soient financées par des efforts supplémentaires. Parallèlement, les débats parlementaires cristallisent les inquiétudes sectorielles, notamment sur le réarmement militaire et le financement de la Sécurité sociale.",
-      "ou_en_est_on_maj_le": "2026-10-27",
+      "ou_en_est_on": "L'examen des budgets 2027 de l'État et de la Sécurité sociale se durcit face aux alertes de multiples acteurs économiques. Les organisations patronales contestent 11 milliards d'euros de hausses de charges envisagées dans le PLFSS, alors que la Cour des comptes pointe un manque de ressources publiques pour honorer les engagements d'investissement de France 2030. Dans le même temps, les craintes de coupes budgétaires touchent la recherche aéronautique et ravivent les débats parlementaires sur les crédits du Centre national du cinéma.",
+      "ou_en_est_on_maj_le": "2026-10-28",
       "evenements": [
         {
           "date": "2026-10-17",
@@ -272,6 +272,32 @@
               "titre": "L'objectif de déficit public de 5% \"reste intangible\": David Amiel prévient que les 5 milliards d'euros pour répondre à la colère lycéenne devront \"être financés par des efforts supplémentaires\"",
               "source": "BFM Business",
               "url": "https://www.bfmtv.com/economie/economie-social/finances-publiques/l-objectif-de-deficit-public-de-5-reste-intangible-david-amiel-previent-que-les-5-milliards-d-euros-pour-repondre-a-la-colere-lyceenne-devront-etre-finances-par-des-efforts-supplementaires_AV-202610270240.html"
+            }
+          ]
+        },
+        {
+          "date": "2026-10-28",
+          "resume": "Les organisations patronales demandent le réexamen des mesures du PLFSS qui augmenteraient le coût du travail de 11 milliards d'euros, tandis que la Cour des comptes alerte sur le risque de mur budgétaire pour financer le plan France 2030.",
+          "liens": [
+            {
+              "titre": "« Onze milliards d’euros de charges supplémentaires » : les patrons haussent le ton contre le PLFSS",
+              "source": "L'Opinion",
+              "url": "https://www.lopinion.fr/economie/onze-milliards-deuros-de-charges-supplementaires-les-patrons-haussent-le-ton-contre-le-plfss"
+            },
+            {
+              "titre": "France 2030 : le grand plan d’Emmanuel Macron face à un « mur budgétaire », alerte la Cour des comptes",
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/economie/article/2026/10/27/france-2030-le-grand-plan-d-emmanuel-macron-face-a-un-mur-budgetaire-alerte-la-cour-des-comptes_6801339_3234.html"
+            },
+            {
+              "titre": "Olivier Andriès (GIFAS) : « Je n'ai aucune assurance » que les budgets 2026 et 2027 du CORAC seront abondés par l’État",
+              "source": "La Tribune",
+              "url": "https://www.latribune.fr/article/defense-aerospatiale/aeronautique-defense/29406937373867/olivier-andries-gifas-je-nai-aucune-assurance-que-les-budgets-2026-et-2027-du-corac-seront-abondes-par-l-etat"
+            },
+            {
+              "titre": "«Ce consensus historique ne rassemble plus l’ensemble de la classe politique» : le financement du Centre national du cinéma sous pression",
+              "source": "Le Figaro",
+              "url": "https://www.lefigaro.fr/medias/ce-consensus-historique-ne-rassemble-plus-l-ensemble-de-la-classe-politique-le-financement-du-centre-national-du-cinema-sous-pression-20261027"
             }
           ]
         }
@@ -606,6 +632,17 @@
               "url": "https://www.franceinfo.fr/economie/automobile/essence/carburants-les-stations-service-devront-afficher-les-baisses-de-prix-des-le-1er-novembre_8254261.html#xtor=RSS-3-%5Bgeneral%5D"
             }
           ]
+        },
+        {
+          "date": "2026-10-28",
+          "resume": "Selon l'Insee, les prix du pétrole et du gaz en euros ont fortement accéléré en septembre 2026, progressant respectivement de 16,5 % et 21,2 % sur un mois.",
+          "liens": [
+            {
+              "titre": "En septembre 2026, les prix du pétrole et du gaz accélèrent fortement",
+              "source": "INSEE",
+              "url": "https://www.insee.fr/fr/statistiques/9085064"
+            }
+          ]
         }
       ]
     },
@@ -619,8 +656,8 @@
         "finance",
         "desequilibres"
       ],
-      "ou_en_est_on": "Alors que la politique monétaire de la Banque centrale européenne évolue dans un climat de tensions sociales et géopolitiques, des économistes de l'institution alertent sur un risque de résurgence de l'inflation alimentaire en 2027 en zone euro. Cette alerte met en lumière la persistance de chocs d'offre sectoriels qui pourraient compliquer le retour durable de la hausse des prix vers les cibles macroéconomiques.",
-      "ou_en_est_on_maj_le": "2026-10-21",
+      "ou_en_est_on": "La trajectoire des taux de la Banque centrale européenne se heurte aux déséquilibres budgétaires et aux tensions de marché. Alors qu'un statu quo monétaire se profile, la défiance accrue des investisseurs envers la dette souveraine française vient compliquer la maîtrise globale de l'inflation en zone euro. Cette contrainte financière s'ajoute aux craintes de nouvelles pressions sur les prix, laissant ouverte la possibilité de futurs resserrements monétaires d'ici la fin de l'année.",
+      "ou_en_est_on_maj_le": "2026-10-28",
       "evenements": [
         {
           "date": "2026-10-21",
@@ -630,6 +667,17 @@
               "titre": "« Forte inflation alimentaire en 2027 » : pourquoi le pire est devant nous selon la BCE",
               "source": "L'Opinion",
               "url": "https://www.lopinion.fr/economie/forte-inflation-alimentaire-en-2027-pourquoi-le-pire-est-devant-nous-selon-la-bce"
+            }
+          ]
+        },
+        {
+          "date": "2026-10-28",
+          "resume": "La Banque centrale européenne et la Réserve fédérale font face à la pression des marchés pour maintenir leurs taux d'intérêt inchangés, la défiance envers la dette souveraine française compliquant la politique monétaire en zone euro.",
+          "liens": [
+            {
+              "titre": "Dette, inflation, intelligence artificielle… La Fed et la BCE sous la pression des marchés",
+              "source": "Le Figaro",
+              "url": "https://www.lefigaro.fr/conjoncture/dette-inflation-intelligence-artificielle-la-fed-et-la-bce-sous-la-pression-des-marches-20261027"
             }
           ]
         }
@@ -966,8 +1014,8 @@
         "desequilibres",
         "entreprises"
       ],
-      "ou_en_est_on": "L'activité économique française subit un net fléchissement de la confiance des ménages, qui tombe en octobre à son plus bas niveau depuis juin 2013. Cette dégradation s'ajoute aux tensions sur le pouvoir d'achat, aux inquiétudes des commerçants de centre-ville suite aux manifestations et aux discussions menées par le ministre du Travail Jean-Pierre Farandou autour du Smic et du coût du travail.",
-      "ou_en_est_on_maj_le": "2026-10-27",
+      "ou_en_est_on": "La conjoncture française pâtit des répercussions économiques des violences urbaines et des mobilisations. Face aux dégradations de plus de 2 500 établissements et à des pertes de chiffre d'affaires estimées par CCI France à 1,5 milliard d'euros par week-end de défilés, le gouvernement déploie des aides d'urgence pouvant atteindre 10 000 euros. Parallèlement, les difficultés sectorielles s'accentuent dans le bâtiment qui déplore 45 000 pertes d'emplois en trois ans, au moment où la Cour des comptes relève d'importants effets d'aubaine dans les subventions de France 2030.",
+      "ou_en_est_on_maj_le": "2026-10-28",
       "evenements": [
         {
           "date": "2026-10-17",
@@ -1294,6 +1342,37 @@
               "url": "https://www.franceinfo.fr/societe/manifestations/manifestations-du-24-octobre-la-ville-de-paris-met-en-place-une-serie-de-mesures-pour-les-commercants-et-appelle-l-etat-a-prendre-ses-responsabilites_8254036.html#xtor=RSS-3-%5Bgeneral%5D"
             }
           ]
+        },
+        {
+          "date": "2026-10-28",
+          "resume": "Le gouvernement prévoit un fonds d'aide jusqu'à 10 000 euros pour les commerçants touchés par les pillages du 17 octobre, tandis que CCI France dénombre 2 500 magasins dégradés et une perte d'activité hebdomadaire évaluée à 1,5 milliard d'euros.",
+          "liens": [
+            {
+              "titre": "Moins de 50 salariés et un chiffre d’affaires inférieur à 10 millions d’euros: le gouvernement promet des aides allant \"jusqu'à 10.000 euros\" pour les commerces les plus touchés par les pillages",
+              "source": "BFM Business",
+              "url": "https://www.bfmtv.com/economie/entreprises/moins-de-50-salaries-et-un-chiffre-d-affaires-inferieur-a-10-millions-d-euros-le-gouvernement-promet-des-aides-allant-jusqu-a-10-000-euros-pour-les-commerces-les-plus-touches-par-les-pillages_AV-202610270697.html"
+            },
+            {
+              "titre": "« Coup de grâce pour nos commerçants » : le douloureux bilan des saccages du 17 octobre",
+              "source": "L'Opinion",
+              "url": "https://www.lopinion.fr/economie/coup-de-grace-pour-nos-commercants-le-douloureux-bilan-des-saccages-du-17-octobre"
+            },
+            {
+              "titre": "17-octobre : la facture estimée à 1,5 milliard d’euros qui fait trembler l’économie française",
+              "source": "La Tribune",
+              "url": "https://www.latribune.fr/article/economie/71130012652585/17-octobre-la-facture-estimee-a-1-5-milliard-d-euros-qui-fait-trembler-l-economie-francaise"
+            },
+            {
+              "titre": "Plus de 2 500 commerces dégradés en marge des récentes mobilisations, selon CCI France, qui demande une interdiction des manifestations jusqu’aux fêtes de fin d’année",
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/economie/article/2026/10/27/plus-de-2-500-commerces-degrades-en-marge-des-recentes-mobilisations-selon-cci-france-qui-demande-une-interdiction-des-manifestations-jusqu-aux-fetes-de-fin-d-annee_6801314_3234.html"
+            },
+            {
+              "titre": "«Depuis trois ans, nous avons perdu 45 000 emplois !» : l’appel au secours des artisans du bâtiment",
+              "source": "Le Figaro",
+              "url": "https://www.lefigaro.fr/societes/depuis-trois-ans-nous-avons-perdu-45-000-emplois-l-appel-au-secours-des-artisans-du-batiment-20261027"
+            }
+          ]
         }
       ]
     },
@@ -1308,8 +1387,8 @@
         "entreprises",
         "ue"
       ],
-      "ou_en_est_on": "Le secteur de l'intelligence artificielle est marqué par d'importantes manœuvres financières et réglementaires, illustrées par le dépôt de dossier d'introduction en Bourse d'Anthropic et les opérations de levées de fonds géantes. Parallèlement, la régulation européenne s'intensifie avec des plaintes visant les pratiques de collecte de données de Scale AI, tandis que les gouvernements continuent de structurer leurs politiques en matière de centres de données.",
-      "ou_en_est_on_maj_le": "2026-10-27",
+      "ou_en_est_on": "Le modèle économique de l'intelligence artificielle traverse une phase de réallocation massive du capital et de fortes turbulences boursières. Alors qu'Anthropic vise une levée de fonds de 100 milliards de dollars à Wall Street et que Microsoft réduit ses effectifs de 60 000 postes pour financer ses serveurs, le secteur subit un net recul en Chine avec un effondrement de 40 % de l'indice STAR50 en quatre mois. Ces évolutions soulignent la concentration des investissements technologiques et la dépendance croissante envers les géants américains du numérique.",
+      "ou_en_est_on_maj_le": "2026-10-28",
       "evenements": [
         {
           "date": "2026-10-17",
@@ -1559,6 +1638,37 @@
               "titre": "Microsoft to reportedly offer buyouts to 60,000 employees in latest cuts",
               "source": "The Guardian",
               "url": "https://www.theguardian.com/technology/2026/oct/26/microsoft-buyout-offers-ai-cuts"
+            }
+          ]
+        },
+        {
+          "date": "2026-10-28",
+          "resume": "Anthropic prépare son introduction en Bourse en espérant lever 100 milliards de dollars, tandis que Microsoft engage des départs volontaires pour 60 000 salariés afin de réallouer ses ressources vers l'infrastructure IA et que l'indice chinois STAR50 chute de 40 % en quatre mois.",
+          "liens": [
+            {
+              "titre": "Anthropic en Bourse : les cinq détails à ne pas rater dans le dossier d’introduction du champion de l’intelligence artificielle",
+              "source": "La Tribune",
+              "url": "https://www.latribune.fr/article/tech/5313698031524/anthropic-en-bourse-les-cinq-details-a-ne-pas-rater-dans-le-dossier-d-introduction-du-champion-de-l-intelligence-artificielle"
+            },
+            {
+              "titre": "Anthropic se met à nu pour séduire Wall Street",
+              "source": "L'Opinion",
+              "url": "https://www.lopinion.fr/economie/anthropic-se-met-a-nu-pour-seduire-wall-street"
+            },
+            {
+              "titre": "Des serveurs plutôt que des cerveaux : la grande réallocation des coûts chez Microsoft",
+              "source": "La Tribune",
+              "url": "https://www.latribune.fr/article/tech/23719769253478/des-serveurs-plutot-que-des-cerveaux-la-grande-reallocation-des-couts-chez-microsoft"
+            },
+            {
+              "titre": "IA : la bulle s'effondre en Chine, 480 milliards de dollars déjà partis en fumée",
+              "source": "La Tribune",
+              "url": "https://www.latribune.fr/article/banques-finance/industrie-financiere/42509317737484/ia-la-bulle-seffondre-en-chine-480-milliards-de-dollars-deja-partis-en-fumee"
+            },
+            {
+              "titre": "Intelligence artificielle : comment les géants de la tech resserrent leur emprise sur l’économie",
+              "source": "Alternatives Économiques",
+              "url": "https://www.alternatives-economiques.fr/intelligence-artificielle-comment-les-geants-de-la-tech-resserrent-leur-emprise-sur-l-economie_28"
             }
           ]
         }
