@@ -1,6 +1,6 @@
 {
   "version_schema": 1,
-  "mis_a_jour_le": "2026-10-29T05:51:14+01:00",
+  "mis_a_jour_le": "2026-10-29T10:08:19+01:00",
   "fils": [
     {
       "id": "budget-2027",
@@ -308,7 +308,7 @@
         },
         {
           "date": "2026-10-29",
-          "resume": "Dans le cadre des débats budgétaires, le groupe LIOT défend l'idée d'un emprunt citoyen national volontaire, tandis que le gouvernement introduit deux amendements pour faciliter la transmission agricole et envisage d'avancer la revalorisation du Smic.",
+          "resume": "Le ministre du Travail Jean-Pierre Farandou appelle à réformer le système des arrêts maladie pour réduire les dépenses de la Sécurité sociale.",
           "liens": [
             {
               "titre": "« Emprunt citoyen national » : face à la crise budgétaire, des députés veulent inciter les Français à prêter à l’État",
@@ -704,7 +704,7 @@
         },
         {
           "date": "2026-10-29",
-          "resume": "Sur les marchés de gros européens, les cours du gaz ont dépassé les 100 euros le mégawattheure pour la première fois depuis 2022, tandis que se prépare en France la baisse annoncée des prix du gazole via la libération de stocks stratégiques.",
+          "resume": "Face à la flambée des prix du gazole, l'État mobilise ses réserves stratégiques pour permettre une baisse des prix à la pompe.",
           "liens": [
             {
               "titre": "L’Europe entre dans la saison du chauffage avec des prix du gaz au plus haut",
@@ -715,6 +715,11 @@
               "titre": "Baisse du prix du gazole: \"Ce sera une baisse entre 10 et 18 centimes\" dès ce week-end, assure Michel-Édouard Leclerc, président du comité stratégique des centres E. Leclerc",
               "source": "BFM Business",
               "url": "https://www.bfmtv.com/economie/video-baisse-du-prix-du-gazole-ce-sera-une-baisse-entre-10-et-18-centimes-des-ce-week-end-assure-michel-edouard-leclerc-president-du-comite-strategique-des-centres-e-leclerc_VN-202610280850.html"
+            },
+            {
+              "titre": "\"Ça commence à être compliqué pour beaucoup de Français\" : la baisse du prix des carburants très attendue par les automobilistes",
+              "source": "franceinfo",
+              "url": "https://www.franceinfo.fr/economie/transports/prix-des-carburants/ca-commence-a-etre-complique-pour-beaucoup-de-francais-la-baisse-du-prix-des-carburants-tres-attendue-par-les-automobilistes_8258501.html#xtor=RSS-3-%5Bgeneral%5D"
             }
           ]
         }

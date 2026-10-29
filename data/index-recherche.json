@@ -1,6 +1,6 @@
 {
   "version_schema": 1,
-  "mis_a_jour_le": "2026-10-29T05:49:25+01:00",
+  "mis_a_jour_le": "2026-10-29T10:07:14+01:00",
   "entrees": [
     {
       "d": "2026-10-29",
@@ -85,6 +85,15 @@
     },
     {
       "d": "2026-10-29",
+      "i": "67698f5777d9",
+      "t": "OPINION. « Le règlement européen sur le méthane fait partie de la réponse à la crise énergétique »",
+      "r": "Le règlement européen sur le méthane est présenté comme un élément clé pour sécuriser les approvisionnements énergétiques de l'UE.",
+      "c": "croissance",
+      "s": "La Tribune",
+      "f": null
+    },
+    {
+      "d": "2026-10-29",
       "i": "910a668fc71e",
       "t": "Cette industrie automobile chinoise qui impressionne à l’étranger ... mais s’effondre à domicile",
       "r": "Malgré la chute des ventes intérieures, le secteur automobile chinois soutenu par l'État n'a pas encore amorcé sa réorganisation face à la surcapacité.",
@@ -117,6 +126,15 @@
       "r": "",
       "c": "mondialisation",
       "s": "Les Echos",
+      "f": null
+    },
+    {
+      "d": "2026-10-29",
+      "i": "1168fa837adf",
+      "t": "Ukraine : les Européens veulent être représentés dans les négociations, mais par qui ?",
+      "r": "L'agitation diplomatique autour du dossier russo-ukrainien relève la question persistante de la représentation des Européens dans les négociations.",
+      "c": "mondialisation",
+      "s": "L'Opinion",
       "f": null
     },
     {
@@ -157,6 +175,15 @@
     },
     {
       "d": "2026-10-29",
+      "i": "9893b64114d0",
+      "t": "Les investisseurs se détournent d'Alphabet, maison mère de Google, après une baisse des profits, un ralentissement de la publicité et des dépenses élevées",
+      "r": "Le bénéfice net trimestriel d'Alphabet a reculé de 25 %, entraînant une forte baisse du cours de son action lors des transactions hors séance.",
+      "c": "finance",
+      "s": "The Guardian",
+      "f": null
+    },
+    {
+      "d": "2026-10-29",
       "i": "567d99f50c71",
       "t": "La suspension de la réforme des retraites entraîne un afflux « exceptionnel » de départs",
       "r": "",
@@ -193,6 +220,15 @@
     },
     {
       "d": "2026-10-29",
+      "i": "85b489815e2e",
+      "t": "\"Ça commence à être compliqué pour beaucoup de Français\" : la baisse du prix des carburants très attendue par les automobilistes",
+      "r": "Face à la hausse des prix du gazole, l'État mobilise ses réserves stratégiques pour permettre une baisse des prix à la pompe.",
+      "c": "desequilibres",
+      "s": "franceinfo",
+      "f": "choc-petrolier-ormuz"
+    },
+    {
+      "d": "2026-10-29",
       "i": "03a24831ed49",
       "t": "[Chronique radio] Crise du logement en Europe : un mécontentement généralisé face à la flambée des prix",
       "r": "L'Union européenne fait face à une crise du logement marquée par une hausse moyenne des prix de près de 60 % depuis 2015.",
@@ -225,6 +261,15 @@
       "r": "Plusieurs opérateurs télécoms européens signent une lettre d'intention pour l'attribution européenne des fréquences 2 GHz, sans exclure un partenaire non européen.",
       "c": "ue",
       "s": "La Tribune",
+      "f": null
+    },
+    {
+      "d": "2026-10-29",
+      "i": "46da125cd735",
+      "t": "L'UE revient sur son offre au Canada d'entamer des pourparlers pour devenir « membre associé »",
+      "r": "L'Union européenne a atténué les termes de sa déclaration finale pour le sommet de Montréal, proposant une association renforcée plutôt qu'un statut de membre associé.",
+      "c": "ue",
+      "s": "The Guardian",
       "f": null
     },
     {
@@ -265,6 +310,15 @@
     },
     {
       "d": "2026-10-29",
+      "i": "5217cf59954b",
+      "t": "Total affiche un bénéfice net record au 3e trimestre de près de 8,3 milliards de dollars",
+      "r": "TotalEnergies affiche un bénéfice net record de 8,3 milliards de dollars au troisième trimestre, porté par la hausse des hydrocarbures.",
+      "c": "entreprises",
+      "s": "BFM Business",
+      "f": "conjoncture-france"
+    },
+    {
+      "d": "2026-10-29",
       "i": "5e45961422a2",
       "t": "« Emprunt citoyen national » : face à la crise budgétaire, des députés veulent inciter les Français à prêter à l’État",
       "r": "À l'Assemblée nationale, le groupe LIOT propose un emprunt citoyen national volontaire pour mobiliser l'épargne des Français face aux taux d'intérêt élevés.",
@@ -298,6 +352,15 @@
       "c": "epargne",
       "s": "Le Figaro",
       "f": "retraites"
+    },
+    {
+      "d": "2026-10-29",
+      "i": "c1f21ce4fb60",
+      "t": "REPORTAGE. \"Le client se bat pour avoir le financement\" : avec des conditions de crédit qui se resserrent et des prix de l’immobilier toujours élevés, le marché de l'immobilier est au ralenti",
+      "r": "Près d'un locataire sur deux n'envisage pas de devenir propriétaire, pénalisé par le resserrement des conditions de crédit et des prix immobiliers élevés.",
+      "c": "epargne",
+      "s": "franceinfo",
+      "f": null
     },
     {
       "d": "2026-10-28",
