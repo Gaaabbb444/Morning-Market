@@ -1,6 +1,109 @@
 {
   "version_schema": 1,
   "notions": {
+    "taux-directeurs": [
+      {
+        "date": "2026-10-29",
+        "id": "8130eddc625c",
+        "titre": "La Réserve fédérale américaine choisit d’attendre avant de relever de nouveau ses taux, malgré l’inflation",
+        "source": "Le Monde",
+        "contexte": "Top 5 du jour"
+      }
+    ],
+    "inflation-par-la-demande-et-par-les-couts": [
+      {
+        "date": "2026-10-29",
+        "id": "ddbabbca0389",
+        "titre": "L’Europe entre dans la saison du chauffage avec des prix du gaz au plus haut",
+        "source": "Le Monde",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-10-18",
+        "id": "db61fda82ea6",
+        "titre": "Dans les rayons, la hausse des prix des produits frais risque de se poursuivre",
+        "source": "BFM Business",
+        "contexte": "Top 5 du jour"
+      }
+    ],
+    "politique-commerciale-commune": [
+      {
+        "date": "2026-10-29",
+        "id": "056c2ab4fc3a",
+        "titre": "Shein, Temu : amendes, contrôles, taxes, le bilan du gouvernement un an après le scandale",
+        "source": "Capital",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-10-18",
+        "id": "f94cfe6471fd",
+        "titre": "Comment l’industrie allemande a changé de position face à la Chine",
+        "source": "Le Monde",
+        "contexte": "Top 5 du jour"
+      }
+    ],
+    "politique-budgetaire": [
+      {
+        "date": "2026-10-29",
+        "id": "e6ca90b1ae20",
+        "titre": "\"Plus on fait d’enfants, plus l’État est présent\": Giorgia Meloni dévoile un budget axé sur la natalité et la défense, financé en partie en taxant les banques et les assurances",
+        "source": "BFM Business",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-10-27",
+        "id": "e1f84d25dee5",
+        "titre": "Où en sont les débats sur le PLF et le PLFSS 2027 ? Suivez les étapes de l'examen du budget à l'Assemblée et au Sénat",
+        "source": "franceinfo",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-10-25",
+        "id": "b74c30856b74",
+        "titre": "Healey’s first budget to include big devolution package to boost growth",
+        "source": "The Guardian",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-10-24",
+        "id": "7f6fcbdcfae8",
+        "titre": "PLFSS 2027 : à l’Assemblée, le budget de la Sécurité sociale rejeté après une saignée de 12 milliards d’euros",
+        "source": "Capital",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-10-20",
+        "id": "bc5dc2cd9f4f",
+        "titre": "Les députés ont déjà fait dérailler la trajectoire de réduction du déficit de la Sécurité sociale avant même le début des débats dans l’hémicycle sur le budget de la Sécu",
+        "source": "BFM Business",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-10-19",
+        "id": "6825d2c17a9c",
+        "titre": "Retraite, santé : la protection sociale, principal poste de dépenses de l’État",
+        "source": "Le Figaro",
+        "contexte": "Top 5 du jour"
+      }
+    ],
+    "protectionnisme": [
+      {
+        "date": "2026-10-29",
+        "id": "62751b6eb3f6",
+        "titre": "Toyota, Hyundai, Stellantis… Comment Donald Trump a gagné son bras de fer avec les constructeurs automobiles",
+        "source": "Le Figaro",
+        "contexte": "Top 5 du jour"
+      }
+    ],
+    "politique-monetaire": [
+      {
+        "date": "2026-10-29",
+        "id": "8130eddc625c",
+        "titre": "La Réserve fédérale américaine choisit d’attendre avant de relever de nouveau ses taux, malgré l’inflation",
+        "source": "Le Monde",
+        "contexte": "Concept du jour"
+      }
+    ],
     "spread-ecart-de-taux-souverain": [
       {
         "date": "2026-10-28",
@@ -137,43 +240,6 @@
         "date": "2026-10-20",
         "id": "2f73fb7a1b50",
         "titre": "Budget 2027 : l’Assemblée nationale multiplie les cadeaux fiscaux non chiffrés",
-        "source": "Le Figaro",
-        "contexte": "Top 5 du jour"
-      }
-    ],
-    "politique-budgetaire": [
-      {
-        "date": "2026-10-27",
-        "id": "e1f84d25dee5",
-        "titre": "Où en sont les débats sur le PLF et le PLFSS 2027 ? Suivez les étapes de l'examen du budget à l'Assemblée et au Sénat",
-        "source": "franceinfo",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-10-25",
-        "id": "b74c30856b74",
-        "titre": "Healey’s first budget to include big devolution package to boost growth",
-        "source": "The Guardian",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-10-24",
-        "id": "7f6fcbdcfae8",
-        "titre": "PLFSS 2027 : à l’Assemblée, le budget de la Sécurité sociale rejeté après une saignée de 12 milliards d’euros",
-        "source": "Capital",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-10-20",
-        "id": "bc5dc2cd9f4f",
-        "titre": "Les députés ont déjà fait dérailler la trajectoire de réduction du déficit de la Sécurité sociale avant même le début des débats dans l’hémicycle sur le budget de la Sécu",
-        "source": "BFM Business",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-10-19",
-        "id": "6825d2c17a9c",
-        "titre": "Retraite, santé : la protection sociale, principal poste de dépenses de l’État",
         "source": "Le Figaro",
         "contexte": "Top 5 du jour"
       }
@@ -430,24 +496,6 @@
         "id": "4acc28984b86",
         "titre": "Kristen Michal, Premier ministre estonien : « Zelensky a le soutien des Européens »",
         "source": "L'Opinion",
-        "contexte": "Top 5 du jour"
-      }
-    ],
-    "politique-commerciale-commune": [
-      {
-        "date": "2026-10-18",
-        "id": "f94cfe6471fd",
-        "titre": "Comment l’industrie allemande a changé de position face à la Chine",
-        "source": "Le Monde",
-        "contexte": "Top 5 du jour"
-      }
-    ],
-    "inflation-par-la-demande-et-par-les-couts": [
-      {
-        "date": "2026-10-18",
-        "id": "db61fda82ea6",
-        "titre": "Dans les rayons, la hausse des prix des produits frais risque de se poursuivre",
-        "source": "BFM Business",
         "contexte": "Top 5 du jour"
       }
     ]

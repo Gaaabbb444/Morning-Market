@@ -1,6 +1,6 @@
 {
   "version_schema": 1,
-  "mis_a_jour_le": "2026-10-28T10:06:04+01:00",
+  "mis_a_jour_le": "2026-10-29T05:51:14+01:00",
   "fils": [
     {
       "id": "budget-2027",
@@ -11,8 +11,8 @@
       "categories": [
         "desequilibres"
       ],
-      "ou_en_est_on": "L'examen du budget 2027 s'accélère à l'Assemblée nationale au milieu de vifs désaccords fiscaux. Alors que les organisations patronales contestent des hausses de charges et que les députés ont voté la suppression de la surtaxe sur les grandes entreprises contre l'avis du gouvernement, ce dernier met en place une taxe « émeutes » pour lever 400 millions d'euros afin de couvrir les dégâts des récentes mobilisations.",
-      "ou_en_est_on_maj_le": "2026-10-28",
+      "ou_en_est_on": "L'examen du budget 2027 continue de susciter des initiatives diverses et des débats sur la rigueur financière. Alors que le groupe centriste LIOT suggère un emprunt citoyen pour contourner les taux élevés des marchés, l'exécutif propose d'intégrer des mesures fiscales pour la transmission agricole et étudie un coup de pouce anticipé sur le Smic face à la contestation sociale. Dans le même temps, la droite républicaine par la voix de Laurent Wauquiez appelle à briser le tabou de la rigueur face au risque de crise financière, tandis que l'éventualité d'un recours au 49.3 reste évoquée pour clore les blocages.",
+      "ou_en_est_on_maj_le": "2026-10-29",
       "evenements": [
         {
           "date": "2026-10-17",
@@ -305,6 +305,37 @@
               "url": "https://www.lefigaro.fr/conjoncture/budget-2027-les-deputes-suppriment-la-surtaxe-des-grandes-entreprises-contre-l-avis-du-gouvernement-20261027"
             }
           ]
+        },
+        {
+          "date": "2026-10-29",
+          "resume": "Dans le cadre des débats budgétaires, le groupe LIOT défend l'idée d'un emprunt citoyen national volontaire, tandis que le gouvernement introduit deux amendements pour faciliter la transmission agricole et envisage d'avancer la revalorisation du Smic.",
+          "liens": [
+            {
+              "titre": "« Emprunt citoyen national » : face à la crise budgétaire, des députés veulent inciter les Français à prêter à l’État",
+              "source": "La Tribune",
+              "url": "https://www.latribune.fr/article/economie/73998848300152/emprunt-citoyen-national-face-a-la-crise-budgetaire-des-deputes-veulent-inciter-les-francais-a-preter-a-letat"
+            },
+            {
+              "titre": "Un agriculteur sur deux bientôt à la retraite: le gouvernement dégaine deux mesures fiscales pour faciliter le renouvellement des générations",
+              "source": "BFM Business",
+              "url": "https://www.bfmtv.com/economie/entreprises/agriculture/un-agriculteur-sur-deux-bientot-a-la-retraite-le-gouvernement-degaine-deux-mesures-fiscales-pour-faciliter-le-renouvellement-des-generations_AD-202610280770.html"
+            },
+            {
+              "titre": "Revaloriser le Smic en avance de 22 euros par mois, une mesure efficace pour calmer la colère ambiante ?",
+              "source": "franceinfo",
+              "url": "https://www.franceinfo.fr/economie/greve/revaloriser-le-smic-en-avance-de-22-euros-par-mois-une-mesure-suffisante-pour-calmer-la-colere-ambiante_8257934.html#xtor=RSS-3-%5Bgeneral%5D"
+            },
+            {
+              "titre": "Laurent Wauquiez : « Il faut briser le tabou de la rigueur »",
+              "source": "L'Opinion",
+              "url": "https://www.lopinion.fr/politique/laurent-wauquiez-il-faut-briser-le-tabou-de-la-rigueur"
+            },
+            {
+              "titre": "La farce budgétaire a déjà trop duré",
+              "source": "L'Opinion",
+              "url": "https://www.lopinion.fr/politique/la-farce-budgetaire-a-deja-trop-dure"
+            }
+          ]
         }
       ]
     },
@@ -514,6 +545,17 @@
               "url": "https://www.lefigaro.fr/conjoncture/le-mouvement-s-accelere-face-a-la-crise-economique-et-politique-les-riches-epargnants-se-tournent-vers-la-suisse-et-le-luxembourg-20261028"
             }
           ]
+        },
+        {
+          "date": "2026-10-29",
+          "resume": "Malgré la défiance persistante d'une partie des marchés envers la soutenabilité des finances publiques françaises, certains investisseurs continuent d'acheter des obligations souveraines en jugeant excessifs les indicateurs de risque actuels.",
+          "liens": [
+            {
+              "titre": "Ces quelques signaux positifs sur la dette française, au milieu de la spirale de défiance des investisseurs",
+              "source": "Le Figaro",
+              "url": "https://www.lefigaro.fr/conjoncture/ces-quelques-signaux-positifs-sur-la-dette-francaise-au-milieu-de-la-spirale-de-defiance-des-investisseurs-20261028"
+            }
+          ]
         }
       ]
     },
@@ -527,8 +569,8 @@
         "mondialisation",
         "desequilibres"
       ],
-      "ou_en_est_on": "Face à la persistance des tensions géopolitiques et au niveau élevé du baril de Brent, la libération de stocks stratégiques de gazole se concrétise avec une baisse attendue de 12 à 18 centimes par litre à la pompe dès le 1er novembre. Les stations-service ont l'obligation d'afficher ces remises de manière transparente afin d'atténuer le choc énergétique sur le pouvoir d'achat des ménages et des entreprises.",
-      "ou_en_est_on_maj_le": "2026-10-27",
+      "ou_en_est_on": "Les tensions sur le marché énergétique s'étendent désormais au gaz, dont le prix européen a franchi le seuil symbolique des 100 euros le mégawattheure à l'entrée de la saison de chauffe, une première depuis la crise de 2022. Parallèlement, le gouvernement et les distributeurs préparent pour le début du mois de novembre la libération des stocks stratégiques de gazole, censée apporter un soulagement immédiat de 10 à 18 centimes par litre à la pompe.",
+      "ou_en_est_on_maj_le": "2026-10-29",
       "evenements": [
         {
           "date": "2026-10-17",
@@ -659,6 +701,22 @@
               "url": "https://www.insee.fr/fr/statistiques/9085064"
             }
           ]
+        },
+        {
+          "date": "2026-10-29",
+          "resume": "Sur les marchés de gros européens, les cours du gaz ont dépassé les 100 euros le mégawattheure pour la première fois depuis 2022, tandis que se prépare en France la baisse annoncée des prix du gazole via la libération de stocks stratégiques.",
+          "liens": [
+            {
+              "titre": "L’Europe entre dans la saison du chauffage avec des prix du gaz au plus haut",
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/economie/article/2026/10/28/l-europe-entre-dans-la-saison-du-chauffage-avec-des-prix-du-gaz-au-plus-haut_6801629_3234.html"
+            },
+            {
+              "titre": "Baisse du prix du gazole: \"Ce sera une baisse entre 10 et 18 centimes\" dès ce week-end, assure Michel-Édouard Leclerc, président du comité stratégique des centres E. Leclerc",
+              "source": "BFM Business",
+              "url": "https://www.bfmtv.com/economie/video-baisse-du-prix-du-gazole-ce-sera-une-baisse-entre-10-et-18-centimes-des-ce-week-end-assure-michel-edouard-leclerc-president-du-comite-strategique-des-centres-e-leclerc_VN-202610280850.html"
+            }
+          ]
         }
       ]
     },
@@ -672,8 +730,8 @@
         "finance",
         "desequilibres"
       ],
-      "ou_en_est_on": "La trajectoire des taux de la Banque centrale européenne se heurte aux déséquilibres budgétaires et aux tensions de marché. Alors qu'un statu quo monétaire se profile, la défiance accrue des investisseurs envers la dette souveraine française vient compliquer la maîtrise globale de l'inflation en zone euro. Cette contrainte financière s'ajoute aux craintes de nouvelles pressions sur les prix, laissant ouverte la possibilité de futurs resserrements monétaires d'ici la fin de l'année.",
-      "ou_en_est_on_maj_le": "2026-10-28",
+      "ou_en_est_on": "Les grandes banques centrales adoptent une posture d'attentisme face au choc énergétique et au contexte électoral. La Réserve fédérale a opté pour le maintien de ses taux directeurs, une orientation vers le statu quo que partagent les observateurs concernant la BCE pour éviter des tensions obligataires supplémentaires. En parallèle, la banque centrale américaine annonce une réforme de son calendrier pour 2027 afin de consacrer des réunions à sa stratégie de long terme.",
+      "ou_en_est_on_maj_le": "2026-10-29",
       "evenements": [
         {
           "date": "2026-10-21",
@@ -696,6 +754,37 @@
               "url": "https://www.lefigaro.fr/conjoncture/dette-inflation-intelligence-artificielle-la-fed-et-la-bce-sous-la-pression-des-marches-20261027"
             }
           ]
+        },
+        {
+          "date": "2026-10-29",
+          "resume": "La Réserve fédérale américaine a maintenu ses taux directeurs inchangés malgré une inflation persistante au-dessus de 3 %, une posture de statu quo également anticipée pour la Banque centrale européenne face aux tensions politiques et de marché.",
+          "liens": [
+            {
+              "titre": "La Réserve fédérale américaine choisit d’attendre avant de relever de nouveau ses taux, malgré l’inflation",
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/economie/article/2026/10/28/la-reserve-federale-americaine-choisit-d-attendre-avant-de-relever-de-nouveau-ses-taux-malgre-l-inflation_6801642_3234.html"
+            },
+            {
+              "titre": "Fed et BCE : l’option du statu quo sur les taux pour échapper au piège politique et obligataire",
+              "source": "La Tribune",
+              "url": "https://www.latribune.fr/article/banques-finance/industrie-financiere/24729186421207/fed-et-bce-l-option-du-statu-quo-sur-les-taux-pour-echapper-au-piege-politique-et-obligataire"
+            },
+            {
+              "titre": "Fed holds interest rates steady in last decision before midterms",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/business/2026/oct/28/fed-interest-rates-midterms"
+            },
+            {
+              "titre": "Kevin Warsh voulait que la Fed se fasse discrète, mais elle n’a jamais fait autant de bruit",
+              "source": "L'Opinion",
+              "url": "https://www.lopinion.fr/economie/kevin-warsh-voulait-que-la-fed-se-fasse-discrete-mais-elle-na-jamais-fait-autant-de-bruit"
+            },
+            {
+              "titre": "\"Du temps pour repenser les grandes questions\": la Fed va modifier son calendrier en 2027 pour créer une réunion dédiée \"aux stratégies monétaires au sens large\"",
+              "source": "BFM Business",
+              "url": "https://www.bfmtv.com/economie/international/du-temps-pour-repenser-les-grandes-questions-la-fed-va-modifier-son-calendrier-en-2027-pour-creer-une-reunion-dediee-aux-strategies-monetaires_AV-202610280877.html"
+            }
+          ]
         }
       ]
     },
@@ -709,8 +798,8 @@
         "mondialisation",
         "ue"
       ],
-      "ou_en_est_on": "Après plusieurs jours de perturbations, l'armée ukrainienne a rétabli une connexion stable au réseau satellitaire Starlink, essentiel à la coordination de ses forces. Cet épisode de tensions entre Kiev, les autorités américaines et Elon Musk a mis en lumière la fragilité opérationnelle liée à cette dépendance technologique. Les accusations mutuelles quant au respect des conditions d'utilisation renforcent les débats sur la souveraineté numérique et le contrôle d'infrastructures privées en zone de conflit.",
-      "ou_en_est_on_maj_le": "2026-10-25",
+      "ou_en_est_on": "La politique des sanctions économiques connaît un net infléchissement avec la décision des États-Unis d'autoriser à nouveau les exportations de diesel en provenance de Russie et de lever certaines menaces douanières sur les pays acheteurs. Ce revirement commercial américain apporte une marge de manœuvre financière à Moscou, tout en suscitant des interrogations sur ses répercussions réelles pour les consommateurs occidentaux.",
+      "ou_en_est_on_maj_le": "2026-10-29",
       "evenements": [
         {
           "date": "2026-10-17",
@@ -797,6 +886,17 @@
               "url": "https://www.theguardian.com/world/2026/oct/24/ukraine-zelenskyy-military-starlink-satellite-connection-stable-after-restrictions"
             }
           ]
+        },
+        {
+          "date": "2026-10-29",
+          "resume": "Les autorités américaines ont assoupli les restrictions sur le secteur énergétique en autorisant la reprise des exportations de diesel russe et en suspendant des droits de douane pesant sur les clients de Moscou.",
+          "liens": [
+            {
+              "titre": "À qui profite la volte-face de Donald Trump sur les sanctions pétrolières contre la Russie ?",
+              "source": "Le Figaro",
+              "url": "https://www.lefigaro.fr/conjoncture/a-qui-profite-la-volte-face-de-donald-trump-sur-les-sanctions-petrolieres-contre-la-russie-20261028"
+            }
+          ]
         }
       ]
     },
@@ -870,6 +970,17 @@
               "url": "https://www.bfmtv.com/economie/entreprises/energie/marine-le-pen-souhaite-abolir-la-stupide-loi-hulot-de-2017-afin-de-relancer-la-recherche-et-l-exploitation-d-hydrocarbures-sur-le-sol-francais_AD-202610260199.html"
             }
           ]
+        },
+        {
+          "date": "2026-10-29",
+          "resume": "À six mois du scrutin présidentiel, les candidats peinent à imposer le sujet de la dette publique et de l'envolée des taux d'intérêt dans le débat électoral.",
+          "liens": [
+            {
+              "titre": "« C'est difficile de passer le mur du son » : face à la dette, une présidentielle entre déni et rigueur",
+              "source": "L'Opinion",
+              "url": "https://www.lopinion.fr/politique/cest-difficile-de-passer-le-mur-du-son-face-a-la-dette-une-presidentielle-entre-deni-et-rigueur"
+            }
+          ]
         }
       ]
     },
@@ -911,6 +1022,17 @@
               "titre": "« L’approche franco-allemande sur l’automobile combine les pires penchants politiques des deux nations »",
               "source": "Le Monde",
               "url": "https://www.lemonde.fr/idees/article/2026/10/21/l-approche-franco-allemande-sur-l-automobile-combine-les-pires-penchants-politiques-des-deux-nations_6798264_3232.html"
+            }
+          ]
+        },
+        {
+          "date": "2026-10-29",
+          "resume": "Le secteur automobile en Chine fait face à une chute de ses ventes intérieures et tarde à amorcer sa restructuration malgré la surcapacité de ses acteurs industriels.",
+          "liens": [
+            {
+              "titre": "Cette industrie automobile chinoise qui impressionne à l’étranger ... mais s’effondre à domicile",
+              "source": "L'Opinion",
+              "url": "https://www.lopinion.fr/economie/cette-industrie-automobile-chinoise-qui-impressionne-a-letranger-mais-seffondre-a-domicile"
             }
           ]
         }
@@ -1016,6 +1138,17 @@
               "url": "https://www.lemonde.fr/idees/article/2026/10/24/le-flechage-de-l-epargne-reglementee-offre-une-piste-modeste-mais-reelle-pour-financer-les-investissements-dont-la-societe-a-besoin_6799554_3232.html"
             }
           ]
+        },
+        {
+          "date": "2026-10-29",
+          "resume": "La France Insoumise a présenté les détails de son projet de pôle public bancaire, prévoyant notamment la création d'un « Livret B » pour réorienter l'épargne vers le secteur public et l'économie.",
+          "liens": [
+            {
+              "titre": "«Livret B», hausse des plafonds, épargne vers le secteur public… Que prévoit le «pôle public bancaire» proposé par LFI ?",
+              "source": "Le Figaro",
+              "url": "https://www.lefigaro.fr/conjoncture/livret-b-hausse-des-plafonds-epargne-vers-le-secteur-public-que-prevoit-le-pole-public-bancaire-propose-par-lfi-20261028"
+            }
+          ]
         }
       ]
     },
@@ -1030,8 +1163,8 @@
         "desequilibres",
         "entreprises"
       ],
-      "ou_en_est_on": "La conjoncture française pâtit des répercussions économiques des violences urbaines et des mobilisations. Face aux dégradations de plus de 2 500 établissements et à des pertes de chiffre d'affaires estimées par CCI France à 1,5 milliard d'euros par week-end de défilés, le gouvernement déploie des aides d'urgence pouvant atteindre 10 000 euros. Parallèlement, les difficultés sectorielles s'accentuent dans le bâtiment qui déplore 45 000 pertes d'emplois en trois ans, au moment où la Cour des comptes relève d'importants effets d'aubaine dans les subventions de France 2030.",
-      "ou_en_est_on_maj_le": "2026-10-28",
+      "ou_en_est_on": "Les indicateurs de l'activité économique française témoignent d'un essoufflement marqué. Les inscriptions à France Travail en catégorie A ont augmenté de 0,9 % au troisième trimestre, dans un contexte d'application de la loi pour le plein-emploi, tandis que le placement en redressement judiciaire du BHV illustre les difficultés du commerce de détail parisien. Ces signaux négatifs s'accompagnent d'un fort attentisme des petites entreprises, plus des trois quarts des dirigeants de TPE retardant leurs investissements selon un baromètre Ifop-Fiducial.",
+      "ou_en_est_on_maj_le": "2026-10-29",
       "evenements": [
         {
           "date": "2026-10-17",
@@ -1389,6 +1522,32 @@
               "url": "https://www.lefigaro.fr/societes/depuis-trois-ans-nous-avons-perdu-45-000-emplois-l-appel-au-secours-des-artisans-du-batiment-20261027"
             }
           ]
+        },
+        {
+          "date": "2026-10-29",
+          "resume": "Le nombre de demandeurs d'emploi en catégorie A a progressé de 0,9 % au troisième trimestre, tandis que le placement en redressement judiciaire du grand magasin BHV menace 700 emplois.",
+          "liens": [
+            {
+              "titre": "Emploi : le nombre d’inscrits à France Travail augmente de 0,9 % au troisième trimestre",
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/politique/article/2026/10/28/emploi-le-nombre-d-inscrits-a-france-travail-augmente-de-0-9-au-troisieme-trimestre_6801564_823448.html"
+            },
+            {
+              "titre": "Le BHV placé en redressement judiciaire, l'avenir de 700 salariés en suspens",
+              "source": "franceinfo",
+              "url": "https://www.franceinfo.fr/economie/commerce/le-bhv-place-en-redressement-judiciaire-l-avenir-de-700-salaries-en-suspens_8257363.html#xtor=RSS-3-%5Bgeneral%5D"
+            },
+            {
+              "titre": "«Je n’ai jamais été dans une incertitude aussi grande» : à six mois de la présidentielle, l’attentisme des petits patrons atteint des sommets",
+              "source": "Le Figaro",
+              "url": "https://www.lefigaro.fr/societes/je-n-ai-jamais-ete-dans-une-incertitude-aussi-grande-a-six-mois-de-la-presidentielle-l-attentisme-des-petits-patrons-atteint-des-sommets-20261028"
+            },
+            {
+              "titre": "Automobile : Stellantis perd encore de l’argent, le marché asiatique pèse sur le groupe",
+              "source": "La Tribune",
+              "url": "https://www.latribune.fr/article/transports/automobile/38833362213031/automobile-stellantis-perd-encore-de-l-argent-le-marche-asiatique-pese-sur-le-groupe"
+            }
+          ]
         }
       ]
     },
@@ -1403,8 +1562,8 @@
         "entreprises",
         "ue"
       ],
-      "ou_en_est_on": "Le modèle économique de l'intelligence artificielle traverse une phase de réallocation massive du capital et de fortes turbulences boursières. Alors qu'Anthropic vise une levée de fonds de 100 milliards de dollars à Wall Street et que Microsoft réduit ses effectifs de 60 000 postes pour financer ses serveurs, le secteur subit un net recul en Chine avec un effondrement de 40 % de l'indice STAR50 en quatre mois. Ces évolutions soulignent la concentration des investissements technologiques et la dépendance croissante envers les géants américains du numérique.",
-      "ou_en_est_on_maj_le": "2026-10-28",
+      "ou_en_est_on": "L'intelligence artificielle se trouve au cœur de nouveaux enjeux d'organisation du travail et de régulation. Alors que le gouvernement néerlandais envisage de réduire de 15 % ses effectifs administratifs centraux d'ici 2035 en recourant à des agents d'IA, les parlementaires français préparent l'examen d'un projet de loi sur la protection des droits d'auteur face aux algorithmes génératifs. Ces développements interviennent alors que les géants de la tech constatent un ralentissement de certains revenus publicitaires traditionnels liés aux moteurs de recherche.",
+      "ou_en_est_on_maj_le": "2026-10-29",
       "evenements": [
         {
           "date": "2026-10-17",
@@ -1685,6 +1844,27 @@
               "titre": "Intelligence artificielle : comment les géants de la tech resserrent leur emprise sur l’économie",
               "source": "Alternatives Économiques",
               "url": "https://www.alternatives-economiques.fr/intelligence-artificielle-comment-les-geants-de-la-tech-resserrent-leur-emprise-sur-l-economie_28"
+            }
+          ]
+        },
+        {
+          "date": "2026-10-29",
+          "resume": "L'Assemblée nationale s'apprête à débattre d'un texte régulant l'usage des contenus culturels par les modèles d'IA, au moment où les Pays-Bas projettent de supprimer 25 000 postes de fonctionnaires grâce à cette technologie.",
+          "liens": [
+            {
+              "titre": "Intelligence artificielle : la présomption d’utilisation des contenus culturels examinée par l’Assemblée nationale",
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/economie/article/2026/10/28/intelligence-artificielle-la-presomption-d-utilisation-des-contenus-culturels-examinee-par-l-assemblee-nationale_6801607_3234.html"
+            },
+            {
+              "titre": "Remplacements de fonctionnaires par l’IA : « Les Pays-Bas brandissent à leur tour la tronçonneuse popularisée par le président argentin Javier Milei »",
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/economie/article/2026/10/28/remplacements-de-fonctionnaires-par-l-ia-les-pays-bas-brandissent-a-leur-tour-la-tronconneuse-popularisee-par-le-president-argentin-javier-milei_6801553_3234.html"
+            },
+            {
+              "titre": "Google frappé par la révolution IA que la firme a engendrée",
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/economie/article/2026/10/29/google-frappe-par-la-revolution-ia-que-la-firme-a-engendree_6801945_3234.html"
             }
           ]
         }

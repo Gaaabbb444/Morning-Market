@@ -1,7 +1,304 @@
 {
   "version_schema": 1,
-  "mis_a_jour_le": "2026-10-28T10:05:00+01:00",
+  "mis_a_jour_le": "2026-10-29T05:49:25+01:00",
   "entrees": [
+    {
+      "d": "2026-10-29",
+      "i": "8130eddc625c",
+      "t": "La Réserve fédérale américaine choisit d’attendre avant de relever de nouveau ses taux, malgré l’inflation",
+      "r": "La Réserve fédérale américaine a décidé de laisser ses taux directeurs inchangés mercredi 28 octobre, malgré une inflation s'élevant à 3,7 % et la hausse des prix de l'énergie. Cette décision intervient à moins d'une semaine des élections de mi-mandat aux États-Unis.",
+      "c": "finance",
+      "s": "Le Monde",
+      "f": "inflation-bce"
+    },
+    {
+      "d": "2026-10-29",
+      "i": "ddbabbca0389",
+      "t": "L’Europe entre dans la saison du chauffage avec des prix du gaz au plus haut",
+      "r": "Le prix du mégawattheure de gaz a atteint 100 euros sur les marchés de gros européens le mercredi 28 octobre. Il s'agit d'un niveau inédit depuis la crise énergétique traversée en 2022.",
+      "c": "croissance",
+      "s": "Le Monde",
+      "f": "choc-petrolier-ormuz"
+    },
+    {
+      "d": "2026-10-29",
+      "i": "056c2ab4fc3a",
+      "t": "Shein, Temu : amendes, contrôles, taxes, le bilan du gouvernement un an après le scandale",
+      "r": "Selon Bercy, le montant de TVA déclaré sur les petits colis à destination de la France a chuté de 48 % entre juin et août, dans le sillage des taxes européennes imposées en juillet. La fréquentation des plateformes chinoises de commerce en ligne recule, alors que de nouveaux frais s'appliqueront à partir du 1er novembre.",
+      "c": "mondialisation",
+      "s": "Capital",
+      "f": null
+    },
+    {
+      "d": "2026-10-29",
+      "i": "e6ca90b1ae20",
+      "t": "\"Plus on fait d’enfants, plus l’État est présent\": Giorgia Meloni dévoile un budget axé sur la natalité et la défense, financé en partie en taxant les banques et les assurances",
+      "r": "Le gouvernement italien a approuvé un projet de budget donnant la priorité à la défense et aux familles, financé en partie par une contribution sur le secteur financier et les assurances. Ce texte prévoit de porter le déficit public à 3,4 % du PIB à l'horizon 2027.",
+      "c": "desequilibres",
+      "s": "BFM Business",
+      "f": null
+    },
+    {
+      "d": "2026-10-29",
+      "i": "62751b6eb3f6",
+      "t": "Toyota, Hyundai, Stellantis… Comment Donald Trump a gagné son bras de fer avec les constructeurs automobiles",
+      "r": "Selon Le Figaro, l'instauration de droits de douane par l'administration de Donald Trump a contraint plusieurs constructeurs automobiles internationaux, comme Toyota, Hyundai et Stellantis, à investir des dizaines de milliards de dollars dans la construction d'usines aux États-Unis.",
+      "c": "mondialisation",
+      "s": "Le Figaro",
+      "f": null
+    },
+    {
+      "d": "2026-10-29",
+      "i": "bbc91fbd9452",
+      "t": "Remplacements de fonctionnaires par l’IA : « Les Pays-Bas brandissent à leur tour la tronçonneuse popularisée par le président argentin Javier Milei »",
+      "r": "Aux Pays-Bas, le secrétaire d'État à l'efficacité de l'administration souhaite réduire les effectifs publics de 15 % d'ici 2035 en les remplaçant par l'intelligence artificielle.",
+      "c": "croissance",
+      "s": "Le Monde",
+      "f": "intelligence-artificielle"
+    },
+    {
+      "d": "2026-10-29",
+      "i": "48a1873bbb68",
+      "t": "Démentant toute crise dans l'IA, le géant de la mémoire SK Hynix génère 600 millions d'euros de profit par jour",
+      "r": "",
+      "c": "croissance",
+      "s": "Les Echos",
+      "f": "intelligence-artificielle"
+    },
+    {
+      "d": "2026-10-29",
+      "i": "961668eaae01",
+      "t": "OPINION. « Quelle politique économique pour réindustrialiser notre pays ? »",
+      "r": "La réindustrialisation est perçue comme un impératif pour créer de la richesse et financer le modèle social français.",
+      "c": "croissance",
+      "s": "La Tribune",
+      "f": "conjoncture-france"
+    },
+    {
+      "d": "2026-10-29",
+      "i": "caa8d514d7c2",
+      "t": "«Je n’ai jamais été dans une incertitude aussi grande» : à six mois de la présidentielle, l’attentisme des petits patrons atteint des sommets",
+      "r": "Selon un baromètre, plus des trois quarts des dirigeants de TPE retardent leurs investissements en raison de l'instabilité politique et économique.",
+      "c": "croissance",
+      "s": "Le Figaro",
+      "f": "conjoncture-france"
+    },
+    {
+      "d": "2026-10-29",
+      "i": "910a668fc71e",
+      "t": "Cette industrie automobile chinoise qui impressionne à l’étranger ... mais s’effondre à domicile",
+      "r": "Malgré la chute des ventes intérieures, le secteur automobile chinois soutenu par l'État n'a pas encore amorcé sa réorganisation face à la surcapacité.",
+      "c": "mondialisation",
+      "s": "L'Opinion",
+      "f": "automobile-europe-chine"
+    },
+    {
+      "d": "2026-10-29",
+      "i": "ac1064d44099",
+      "t": "À qui profite la volte-face de Donald Trump sur les sanctions pétrolières contre la Russie ?",
+      "r": "La décision américaine d'autoriser les exportations de diesel russe et de suspendre des droits de douane offre un répit aux acheteurs de Moscou.",
+      "c": "mondialisation",
+      "s": "Le Figaro",
+      "f": "ukraine-sanctions"
+    },
+    {
+      "d": "2026-10-29",
+      "i": "e73079132704",
+      "t": "L’Allemagne tente de construire une politique chinoise cohérente",
+      "r": "L'Allemagne cherche à définir une politique cohérente à l'égard de la Chine, entre la visite du président allemand et la tournée asiatique du chancelier.",
+      "c": "mondialisation",
+      "s": "L'Opinion",
+      "f": null
+    },
+    {
+      "d": "2026-10-29",
+      "i": "b307dac5bd34",
+      "t": "Matériaux critiques, défense, intelligence artificielle… L'Europe et le Canada planchent sur leur rapprochement historique",
+      "r": "",
+      "c": "mondialisation",
+      "s": "Les Echos",
+      "f": null
+    },
+    {
+      "d": "2026-10-29",
+      "i": "aa5bffef5233",
+      "t": "Fed et BCE : l’option du statu quo sur les taux pour échapper au piège politique et obligataire",
+      "r": "Face au choc énergétique et aux échéances politiques, la Réserve fédérale et la BCE s'orientent vers un statu quo sur leurs taux directeurs.",
+      "c": "finance",
+      "s": "La Tribune",
+      "f": "inflation-bce"
+    },
+    {
+      "d": "2026-10-29",
+      "i": "7bc29a3b311c",
+      "t": "La Fed maintient ses taux directeurs inchangés lors de sa dernière décision avant les élections de mi-mandat",
+      "r": "La banque centrale américaine a laissé ses taux inchangés malgré une inflation supérieure à 3 %, son président affirmant que la politique n'a joué aucun rôle.",
+      "c": "finance",
+      "s": "The Guardian",
+      "f": "inflation-bce"
+    },
+    {
+      "d": "2026-10-29",
+      "i": "50ef099326eb",
+      "t": "Kevin Warsh voulait que la Fed se fasse discrète, mais elle n’a jamais fait autant de bruit",
+      "r": "La Réserve fédérale américaine fait l'objet de débats sur sa communication, certains membres estimant nécessaire d'expliquer les réactions aux aléas économiques.",
+      "c": "finance",
+      "s": "L'Opinion",
+      "f": "inflation-bce"
+    },
+    {
+      "d": "2026-10-29",
+      "i": "e1dce3e761b7",
+      "t": "\"Du temps pour repenser les grandes questions\": la Fed va modifier son calendrier en 2027 pour créer une réunion dédiée \"aux stratégies monétaires au sens large\"",
+      "r": "La Réserve fédérale américaine modifiera son calendrier en 2027 en réduisant les votes sur les taux pour consacrer des réunions à sa stratégie monétaire de long terme.",
+      "c": "finance",
+      "s": "BFM Business",
+      "f": "inflation-bce"
+    },
+    {
+      "d": "2026-10-29",
+      "i": "567d99f50c71",
+      "t": "La suspension de la réforme des retraites entraîne un afflux « exceptionnel » de départs",
+      "r": "",
+      "c": "desequilibres",
+      "s": "Les Echos",
+      "f": "retraites"
+    },
+    {
+      "d": "2026-10-29",
+      "i": "f98a47254718",
+      "t": "« C'est difficile de passer le mur du son » : face à la dette, une présidentielle entre déni et rigueur",
+      "r": "À l'approche de l'élection présidentielle et face à la hausse des taux d'intérêt, les candidats peinent à placer le sujet de la dette au cœur des débats.",
+      "c": "desequilibres",
+      "s": "L'Opinion",
+      "f": "presidentielle-2027"
+    },
+    {
+      "d": "2026-10-29",
+      "i": "179b4646dda6",
+      "t": "Ces quelques signaux positifs sur la dette française, au milieu de la spirale de défiance des investisseurs",
+      "r": "Malgré la défiance croissante des investisseurs envers la dette française, certains acheteurs continuent de se positionner sur les obligations.",
+      "c": "desequilibres",
+      "s": "Le Figaro",
+      "f": "dette-marches"
+    },
+    {
+      "d": "2026-10-29",
+      "i": "461719de28df",
+      "t": "La farce budgétaire a déjà trop duré",
+      "r": "L'article 49.3 apparaît comme la solution pour doter la France d'un budget pour 2027 face aux blocages politiques.",
+      "c": "desequilibres",
+      "s": "L'Opinion",
+      "f": "budget-2027"
+    },
+    {
+      "d": "2026-10-29",
+      "i": "03a24831ed49",
+      "t": "[Chronique radio] Crise du logement en Europe : un mécontentement généralisé face à la flambée des prix",
+      "r": "L'Union européenne fait face à une crise du logement marquée par une hausse moyenne des prix de près de 60 % depuis 2015.",
+      "c": "ue",
+      "s": "Toute l'Europe",
+      "f": null
+    },
+    {
+      "d": "2026-10-29",
+      "i": "abba1137a4df",
+      "t": "\"Membre associé\" : pourquoi le terme choisi pour rapprocher l'UE et le Canada ne plaît pas à tous",
+      "r": "La présidente de la Commission européenne a proposé au Canada de devenir membre associé de l'Union européenne lors du sommet de Montréal.",
+      "c": "ue",
+      "s": "franceinfo",
+      "f": null
+    },
+    {
+      "d": "2026-10-29",
+      "i": "55106dd4cfc8",
+      "t": "Le Brexit des Tories a été « plus dur » que promis lors du référendum sur l'UE, selon Andy Burnham",
+      "r": "Andy Burnham met en garde les ministres contre l'expression d'opinions sur les relations futures avec Bruxelles avant la révision des options.",
+      "c": "ue",
+      "s": "The Guardian",
+      "f": null
+    },
+    {
+      "d": "2026-10-29",
+      "i": "fccd8b4046e3",
+      "t": "Attribution des fréquences satellitaires en Europe : Orange n’écarte pas de travailler avec un acteur non européen, du moins au début",
+      "r": "Plusieurs opérateurs télécoms européens signent une lettre d'intention pour l'attribution européenne des fréquences 2 GHz, sans exclure un partenaire non européen.",
+      "c": "ue",
+      "s": "La Tribune",
+      "f": null
+    },
+    {
+      "d": "2026-10-29",
+      "i": "ca17b3f8c6ea",
+      "t": "Microsoft affiche 92,3 milliards de dollars de chiffre d'affaires trimestriel après avoir proposé des départs volontaires à 60 000 salariés",
+      "r": "Le géant du logiciel Microsoft a dépassé les attentes de Wall Street avec 36,6 milliards de dollars de bénéfice, porté par la croissance de sa division cloud.",
+      "c": "entreprises",
+      "s": "The Guardian",
+      "f": null
+    },
+    {
+      "d": "2026-10-29",
+      "i": "e95768118fa1",
+      "t": "Le BHV placé en redressement judiciaire, l'avenir de 700 salariés en suspens",
+      "r": "Le grand magasin parisien BHV est placé en redressement judiciaire, menaçant 700 emplois dans un contexte de difficultés commerciales.",
+      "c": "entreprises",
+      "s": "franceinfo",
+      "f": "conjoncture-france"
+    },
+    {
+      "d": "2026-10-29",
+      "i": "aebbfb53dcc6",
+      "t": "Automobile : Stellantis perd encore de l’argent, le marché asiatique pèse sur le groupe",
+      "r": "Le constructeur automobile Stellantis poursuit sa restructuration malgré des pertes financières au troisième trimestre, pénalisé par les marchés chinois et américain.",
+      "c": "entreprises",
+      "s": "La Tribune",
+      "f": "conjoncture-france"
+    },
+    {
+      "d": "2026-10-29",
+      "i": "b713afb31e7d",
+      "t": "230 milliards d'euros de capitalisation évaporés en deux ans : en Bourse, l'automobile européenne part à la casse",
+      "r": "",
+      "c": "entreprises",
+      "s": "Les Echos",
+      "f": "automobile-europe-chine"
+    },
+    {
+      "d": "2026-10-29",
+      "i": "5e45961422a2",
+      "t": "« Emprunt citoyen national » : face à la crise budgétaire, des députés veulent inciter les Français à prêter à l’État",
+      "r": "À l'Assemblée nationale, le groupe LIOT propose un emprunt citoyen national volontaire pour mobiliser l'épargne des Français face aux taux d'intérêt élevés.",
+      "c": "epargne",
+      "s": "La Tribune",
+      "f": "budget-2027"
+    },
+    {
+      "d": "2026-10-29",
+      "i": "b8959c47f68f",
+      "t": "«Livret B», hausse des plafonds, épargne vers le secteur public… Que prévoit le «pôle public bancaire» proposé par LFI ?",
+      "r": "La France Insoumise détaille son projet de pôle public bancaire visant à réorienter l'épargne des Français vers le financement de l'économie.",
+      "c": "epargne",
+      "s": "Le Figaro",
+      "f": "fiscalite-epargne-patrimoine"
+    },
+    {
+      "d": "2026-10-29",
+      "i": "7b13a132a118",
+      "t": "Healey s'apprête à annuler la baisse de l'enveloppe des Livrets d'épargne (ISA) lors de son premier budget",
+      "r": "Le nouveau chancelier prévoit d'abandonner le projet de réduction de l'enveloppe annuelle des livrets d'épargne ISA de 20 000 à 12 000 livres.",
+      "c": "epargne",
+      "s": "The Guardian",
+      "f": "fiscalite-epargne-patrimoine"
+    },
+    {
+      "d": "2026-10-29",
+      "i": "81463d3d2126",
+      "t": "«Je vis très confortablement» : Mélenchon admet avoir une bonne retraite grâce à la capitalisation sans vouloir la «recommander à la société»",
+      "r": "Jean-Luc Mélenchon admet bénéficier d'une bonne retraite par capitalisation en tant qu'ancien parlementaire, tout en jugeant ce système trop inégalitaire et instable pour la société.",
+      "c": "epargne",
+      "s": "Le Figaro",
+      "f": "retraites"
+    },
     {
       "d": "2026-10-28",
       "i": "ef519bbf46f9",
