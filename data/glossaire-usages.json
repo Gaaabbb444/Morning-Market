@@ -1,12 +1,104 @@
 {
   "version_schema": 1,
   "notions": {
+    "independance-de-la-banque-centrale": [
+      {
+        "date": "2026-10-30",
+        "id": "bcc18e705802",
+        "titre": "Christine Lagarde quittera la présidence de la Banque centrale européenne le 7 février 2027",
+        "source": "Toute l'Europe",
+        "contexte": "Top 5 du jour"
+      }
+    ],
     "taux-directeurs": [
+      {
+        "date": "2026-10-30",
+        "id": "7bd3c0d5e104",
+        "titre": "La BCE maintient son principal taux directeur inchangé, à 2,5%",
+        "source": "Le Figaro",
+        "contexte": "Top 5 du jour"
+      },
       {
         "date": "2026-10-29",
         "id": "8130eddc625c",
         "titre": "La Réserve fédérale américaine choisit d’attendre avant de relever de nouveau ses taux, malgré l’inflation",
         "source": "Le Monde",
+        "contexte": "Top 5 du jour"
+      }
+    ],
+    "choc-petrolier-choc-d-offre": [
+      {
+        "date": "2026-10-30",
+        "id": "b8bb124aebc9",
+        "titre": "La moitié sera du gazole: les pays de l’UE vont puiser plus de 42 millions de barils de pétrole dans leurs réserves stratégiques pour faire baisser les prix à la pompe",
+        "source": "BFM Business",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-10-24",
+        "id": "d139ede9e737",
+        "titre": "Oil price rises above $117 a barrel amid fears US will renew strikes on Iran",
+        "source": "The Guardian",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-10-23",
+        "id": "f742c3911c35",
+        "titre": "Oil prices jump to five-month high as attacks threaten global supply",
+        "source": "The Guardian",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-10-17",
+        "id": "7333fdccc97b",
+        "titre": "\"Un superpétrolier a heurté une mine\": l'Iran intensifie ses attaques dans le détroit d'Ormuz, alors que le baril de pétrole frôle à nouveau les 110 dollars",
+        "source": "BFM Business",
+        "contexte": "Concept du jour"
+      }
+    ],
+    "deficit-public-et-solde-primaire": [
+      {
+        "date": "2026-10-30",
+        "id": "5af0963a4958",
+        "titre": "Budget 2027 : les députés votent 28 milliards d’euros de dépenses supplémentaires",
+        "source": "Le Figaro",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-10-27",
+        "id": "36ad0562eb79",
+        "titre": "L'objectif de déficit public de 5% \"reste intangible\": David Amiel prévient que les 5 milliards d'euros pour répondre à la colère lycéenne devront \"être financés par des efforts supplémentaires\"",
+        "source": "BFM Business",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-10-26",
+        "id": "c26fa3c4d999",
+        "titre": "La colère sociale fragilise encore davantage les perspectives économiques de la France",
+        "source": "Le Monde",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-10-21",
+        "id": "6d9f67eeb539",
+        "titre": "Budget de la Sécu 2027 : la Cour des comptes juge «fragile» l’objectif de 12,7 milliards d'euros de déficit",
+        "source": "Capital",
+        "contexte": "Concept du jour"
+      },
+      {
+        "date": "2026-10-20",
+        "id": "2f73fb7a1b50",
+        "titre": "Budget 2027 : l’Assemblée nationale multiplie les cadeaux fiscaux non chiffrés",
+        "source": "Le Figaro",
+        "contexte": "Top 5 du jour"
+      }
+    ],
+    "avantage-comparatif": [
+      {
+        "date": "2026-10-30",
+        "id": "556f180d4172",
+        "titre": "\"Le Premier ministre Modi viendra en décembre signer\": l'accord commercial entre l'Inde et l'UE est tout proche d'une conclusion",
+        "source": "BFM Business",
         "contexte": "Top 5 du jour"
       }
     ],
@@ -214,36 +306,6 @@
         "contexte": "Top 5 du jour"
       }
     ],
-    "deficit-public-et-solde-primaire": [
-      {
-        "date": "2026-10-27",
-        "id": "36ad0562eb79",
-        "titre": "L'objectif de déficit public de 5% \"reste intangible\": David Amiel prévient que les 5 milliards d'euros pour répondre à la colère lycéenne devront \"être financés par des efforts supplémentaires\"",
-        "source": "BFM Business",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-10-26",
-        "id": "c26fa3c4d999",
-        "titre": "La colère sociale fragilise encore davantage les perspectives économiques de la France",
-        "source": "Le Monde",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-10-21",
-        "id": "6d9f67eeb539",
-        "titre": "Budget de la Sécu 2027 : la Cour des comptes juge «fragile» l’objectif de 12,7 milliards d'euros de déficit",
-        "source": "Capital",
-        "contexte": "Concept du jour"
-      },
-      {
-        "date": "2026-10-20",
-        "id": "2f73fb7a1b50",
-        "titre": "Budget 2027 : l’Assemblée nationale multiplie les cadeaux fiscaux non chiffrés",
-        "source": "Le Figaro",
-        "contexte": "Top 5 du jour"
-      }
-    ],
     "pouvoir-d-achat": [
       {
         "date": "2026-10-27",
@@ -371,29 +433,6 @@
         "id": "6825d2c17a9c",
         "titre": "Retraite, santé : la protection sociale, principal poste de dépenses de l’État",
         "source": "Le Figaro",
-        "contexte": "Concept du jour"
-      }
-    ],
-    "choc-petrolier-choc-d-offre": [
-      {
-        "date": "2026-10-24",
-        "id": "d139ede9e737",
-        "titre": "Oil price rises above $117 a barrel amid fears US will renew strikes on Iran",
-        "source": "The Guardian",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-10-23",
-        "id": "f742c3911c35",
-        "titre": "Oil prices jump to five-month high as attacks threaten global supply",
-        "source": "The Guardian",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-10-17",
-        "id": "7333fdccc97b",
-        "titre": "\"Un superpétrolier a heurté une mine\": l'Iran intensifie ses attaques dans le détroit d'Ormuz, alors que le baril de pétrole frôle à nouveau les 110 dollars",
-        "source": "BFM Business",
         "contexte": "Concept du jour"
       }
     ],

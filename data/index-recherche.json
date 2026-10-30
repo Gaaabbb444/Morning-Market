@@ -1,7 +1,304 @@
 {
   "version_schema": 1,
-  "mis_a_jour_le": "2026-10-29T10:07:14+01:00",
+  "mis_a_jour_le": "2026-10-30T05:47:17+01:00",
   "entrees": [
+    {
+      "d": "2026-10-30",
+      "i": "bcc18e705802",
+      "t": "Christine Lagarde quittera la présidence de la Banque centrale européenne le 7 février 2027",
+      "r": "La Banque centrale européenne a annoncé que Christine Lagarde quittera ses fonctions le 7 février 2027, neuf mois avant le terme initial de son mandat fixé au 31 octobre. Ce départ anticipé ouvre la possibilité pour Emmanuel Macron de participer au choix de son successeur avant l'élection présidentielle de 2027.",
+      "c": "finance",
+      "s": "Toute l'Europe",
+      "f": "inflation-bce"
+    },
+    {
+      "d": "2026-10-30",
+      "i": "7bd3c0d5e104",
+      "t": "La BCE maintient son principal taux directeur inchangé, à 2,5%",
+      "r": "La Banque centrale européenne a maintenu son principal taux directeur inchangé à 2,5 %. Cette décision intervient après deux hausses décidées plus tôt cette année pour contrer les tensions inflationnistes nourries par les prix de l'énergie.",
+      "c": "finance",
+      "s": "Le Figaro",
+      "f": "inflation-bce"
+    },
+    {
+      "d": "2026-10-30",
+      "i": "b8bb124aebc9",
+      "t": "La moitié sera du gazole: les pays de l’UE vont puiser plus de 42 millions de barils de pétrole dans leurs réserves stratégiques pour faire baisser les prix à la pompe",
+      "r": "Onze pays de l'Union européenne vont libérer 42,6 millions de barils de leurs réserves stratégiques, dont la moitié en gazole, pour stabiliser les prix face aux tensions.",
+      "c": "mondialisation",
+      "s": "BFM Business",
+      "f": "choc-petrolier-ormuz"
+    },
+    {
+      "d": "2026-10-30",
+      "i": "5af0963a4958",
+      "t": "Budget 2027 : les députés votent 28 milliards d’euros de dépenses supplémentaires",
+      "r": "En commission des finances, les députés ont voté 28 milliards d'euros de dépenses supplémentaires pour le budget 2027. Ces votes ont notamment renforcé l'enveloppe allouée à la transition écologique, tout en rejetant plusieurs mesures d'économies.",
+      "c": "desequilibres",
+      "s": "Le Figaro",
+      "f": "budget-2027"
+    },
+    {
+      "d": "2026-10-30",
+      "i": "556f180d4172",
+      "t": "\"Le Premier ministre Modi viendra en décembre signer\": l'accord commercial entre l'Inde et l'UE est tout proche d'une conclusion",
+      "r": "Le Premier ministre indien Narendra Modi se rendra à Bruxelles en décembre pour signer l'accord de libre-échange entre l'Inde et l'Union européenne. Les autorités européennes le qualifient d'accord commercial le plus important jamais conclu par l'Union.",
+      "c": "mondialisation",
+      "s": "BFM Business",
+      "f": null
+    },
+    {
+      "d": "2026-10-30",
+      "i": "e8050bdb7aaf",
+      "t": "Orange Cyberdéfense et Mistral AI unissent leurs forces pour créer des agents IA capable de déceler les failles de cybersécurité",
+      "r": "Orange Cyberdéfense s'associe à Mistral AI pour développer des services de cybersécurité basés sur une déclinaison du modèle Mistral Large 4.",
+      "c": "croissance",
+      "s": "La Tribune",
+      "f": "intelligence-artificielle"
+    },
+    {
+      "d": "2026-10-30",
+      "i": "904be2ae7ce3",
+      "t": "L'économie américaine croît plus vite que prévu mais l'inflation s'accélère à 3,7 %",
+      "r": "L'économie américaine a progressé plus rapidement que prévu au troisième trimestre, tandis que l'inflation a accéléré en septembre selon de nouvelles données du département du Commerce.",
+      "c": "croissance",
+      "s": "The Guardian",
+      "f": null
+    },
+    {
+      "d": "2026-10-30",
+      "i": "01d0a8587a7e",
+      "t": "L'impressionnant décollage de la croissance américaine",
+      "r": "",
+      "c": "croissance",
+      "s": "Les Echos",
+      "f": null
+    },
+    {
+      "d": "2026-10-30",
+      "i": "8e388060d26b",
+      "t": "Taxe, fonds souverain, revenu universel : comment partager les profits de l'IA ?",
+      "r": "Aux États-Unis, les propositions se multiplient pour encadrer et partager les profits futurs générés par le développement de l'intelligence artificielle.",
+      "c": "croissance",
+      "s": "Alternatives Économiques",
+      "f": "intelligence-artificielle"
+    },
+    {
+      "d": "2026-10-30",
+      "i": "8f824d311db5",
+      "t": "Sept pétroliers transportant 288 000 tonnes de diesel russe font route vers les États-Unis",
+      "r": "Plusieurs navires transportant du diesel russe font route vers les États-Unis, sur fond d'incertitudes quant à leur déchargement effectif.",
+      "c": "mondialisation",
+      "s": "The Guardian",
+      "f": null
+    },
+    {
+      "d": "2026-10-30",
+      "i": "b52c93e65582",
+      "t": "\"Pas les niveaux de transparence que souhaite la société\": au Venezuela, la Nobel de la Paix dénonce l'accord pétrolier signé avec Trump",
+      "r": "Maria Corina Machado critique le manque de transparence de l'accord pétrolier confiant la gestion de gisements vénézuéliens aux États-Unis.",
+      "c": "mondialisation",
+      "s": "BFM Business",
+      "f": null
+    },
+    {
+      "d": "2026-10-30",
+      "i": "9e1e1af47a4e",
+      "t": "Le commerce équitable français, modèle jugé de plus en plus sécurisant dans un contexte de crise agricole",
+      "r": "Le commerce équitable attire davantage d'entreprises et de producteurs en quête de revenus réguliers, tandis qu'une directive européenne renforce la protection des consommateurs.",
+      "c": "mondialisation",
+      "s": "Le Monde",
+      "f": null
+    },
+    {
+      "d": "2026-10-30",
+      "i": "cb7ec904dfcd",
+      "t": "\"Nous sommes prêts, quelle que soit la décision\": l’Afrique du Sud redoute d’être exclue d’un accord commercial clé avec les États-Unis",
+      "r": "L’Afrique du Sud espère conserver les avantages de l'accord commercial Agoa face à l'administration américaine, tout en se préparant à une possible exclusion.",
+      "c": "mondialisation",
+      "s": "BFM Business",
+      "f": null
+    },
+    {
+      "d": "2026-10-30",
+      "i": "5e25e64b9fc7",
+      "t": "ECB President Lagarde to step down on 7 February 2027",
+      "r": "La présidente de la Banque centrale européenne quitte ses fonctions neuf mois avant le terme de son mandat afin de s'exprimer librement sur les affaires mondiales.",
+      "c": "finance",
+      "s": "BCE",
+      "f": "inflation-bce"
+    },
+    {
+      "d": "2026-10-30",
+      "i": "8aeb79ff13dd",
+      "t": "«Je sens que je dois dire ces choses, et je ne peux pas le faire dans ma position actuelle» : le calendrier très politique du départ de Christine Lagarde de la BCE",
+      "r": "L'anticipation du départ de la présidente de la BCE, Christine Lagarde, permet à l'exécutif français de participer au choix de son successeur.",
+      "c": "finance",
+      "s": "Le Figaro",
+      "f": "inflation-bce"
+    },
+    {
+      "d": "2026-10-30",
+      "i": "9ec098e50913",
+      "t": "A la BCE, Christine Lagarde annonce son départ et veut « s’engager sur des sujets qui ne sont pas des sujets de politique monétaire »",
+      "r": "La BCE maintient ses taux d'intérêt directeurs inchangés malgré le rebond de l'inflation, tandis que Christine Lagarde annonce son départ anticipé.",
+      "c": "finance",
+      "s": "Le Monde",
+      "f": "inflation-bce"
+    },
+    {
+      "d": "2026-10-30",
+      "i": "8be498015a19",
+      "t": "Monetary policy decisions",
+      "r": "",
+      "c": "finance",
+      "s": "BCE",
+      "f": "inflation-bce"
+    },
+    {
+      "d": "2026-10-30",
+      "i": "08e0f6455060",
+      "t": "«Les vraies économies sont ailleurs» : les nécessaires coupes sur les opérateurs de l’État ne doivent pas éclipser les causes profondes du déficit",
+      "r": "Les efforts budgétaires demandés aux opérateurs de l'État ne suffisent pas à résorber le déficit public, largement déterminé par les dépenses sociales et de santé.",
+      "c": "desequilibres",
+      "s": "Le Figaro",
+      "f": "budget-2027"
+    },
+    {
+      "d": "2026-10-30",
+      "i": "f998bd494294",
+      "t": "Le prix de référence du gaz européen a atteint 100 euros du mégawattheure, une première depuis 2022",
+      "r": "Le prix de référence du gaz européen a dépassé 100 euros le mégawattheure, atteignant un niveau inédit depuis décembre 2022.",
+      "c": "desequilibres",
+      "s": "Toute l'Europe",
+      "f": null
+    },
+    {
+      "d": "2026-10-30",
+      "i": "8077a0eb45cc",
+      "t": "Healey recule sur la baisse des coûts sociaux face aux alertes sur le déficit public",
+      "r": "Le chancelier britannique renonce à réduire les dépenses sociales dans un contexte de tensions sur les finances publiques et de risque de coupes budgétaires.",
+      "c": "desequilibres",
+      "s": "The Guardian",
+      "f": null
+    },
+    {
+      "d": "2026-10-30",
+      "i": "95184d37e6c3",
+      "t": "Carburants : les 18 centimes qui peuvent coûter cher au gouvernement",
+      "r": "L'exécutif prévoit une baisse du gazole dès le 1er novembre grâce aux stocks stratégiques et aides ciblées, sans modifier la fiscalité.",
+      "c": "desequilibres",
+      "s": "Capital",
+      "f": "choc-petrolier-ormuz"
+    },
+    {
+      "d": "2026-10-30",
+      "i": "05521b93a3ae",
+      "t": "Qu'est-ce que l'omnibus X, le projet de la Commission européenne pour simplifier les règles sur les pesticides et pourquoi fait-il débat ?",
+      "r": "La Commission européenne poursuit son projet de simplification des règles sur les pesticides pour réduire les contraintes administratives pesant sur les entreprises.",
+      "c": "ue",
+      "s": "Toute l'Europe",
+      "f": null
+    },
+    {
+      "d": "2026-10-30",
+      "i": "b27c78c0ef79",
+      "t": "Sommet UE-Canada : l'attribution du statut de \"membre associé\" à Ottawa rejetée par plusieurs États membres",
+      "r": "L'Union européenne a renoncé à offrir au Canada le statut de membre associé en raison de désaccords entre ses États membres.",
+      "c": "ue",
+      "s": "Toute l'Europe",
+      "f": null
+    },
+    {
+      "d": "2026-10-30",
+      "i": "fb6513876a2d",
+      "t": "Point de vue du Guardian sur un débat sur le Brexit en évolution : Kemi Badenoch est piégée dans le déni",
+      "r": "Dix ans après le référendum, le débat politique britannique reste polarisé autour du Brexit malgré des termes profondément modifiés par le contexte international.",
+      "c": "ue",
+      "s": "The Guardian",
+      "f": null
+    },
+    {
+      "d": "2026-10-30",
+      "i": "a96e574d4caf",
+      "t": "L'agenda européen : quels sont les principaux événements prévus du 2 au 8 novembre 2026 ?",
+      "r": "L'agenda européen de la semaine inclut le point de la Commission sur les pays candidats à l'adhésion et la mobilisation des syndicats agricoles.",
+      "c": "ue",
+      "s": "Toute l'Europe",
+      "f": null
+    },
+    {
+      "d": "2026-10-30",
+      "i": "b59308b2c9f6",
+      "t": "« On demande à Total d'être exemplaire » : le géant pétrolier enregistre un profit trimestriel record",
+      "r": "TotalEnergies a enregistré un bénéfice net trimestriel record de 8,3 milliards de dollars, en hausse de 124 % sur un an, soutenu par les tensions sur le gazole.",
+      "c": "entreprises",
+      "s": "L'Opinion",
+      "f": null
+    },
+    {
+      "d": "2026-10-30",
+      "i": "5dddcb8dca58",
+      "t": "Pour Airbus et Boeing, la « galère » de la hausse de la production",
+      "r": "Airbus et Boeing affichent des résultats en demi-teinte au troisième trimestre et font face à des difficultés pour accroître leur production.",
+      "c": "entreprises",
+      "s": "Le Monde",
+      "f": null
+    },
+    {
+      "d": "2026-10-30",
+      "i": "fc3f98ac0fd7",
+      "t": "IA : Pourquoi Google pourrait connaître la pire journée en Bourse de son histoire",
+      "r": "Google a publié des résultats trimestriels décevants, le développement rapide de l'intelligence artificielle pesant sur la croissance de son chiffre d'affaires publicitaire.",
+      "c": "entreprises",
+      "s": "L'Opinion",
+      "f": null
+    },
+    {
+      "d": "2026-10-30",
+      "i": "7995ecec8725",
+      "t": "DoorDash rachète Instacart pour 17 milliards de dollars dans le cadre d'une vaste consolidation de la livraison de courses",
+      "r": "DoorDash procède à l'acquisition d'Instacart pour 17 milliards de dollars afin de renforcer son activité de livraison de courses en ligne.",
+      "c": "entreprises",
+      "s": "The Guardian",
+      "f": null
+    },
+    {
+      "d": "2026-10-30",
+      "i": "973c455e85ff",
+      "t": "Immobilier : est-il de plus en plus difficile d’accéder à la propriété ?",
+      "r": "Avec la hausse des taux, les primo-accédants rencontrent de plus grandes difficultés pour accéder à la propriété.",
+      "c": "epargne",
+      "s": "franceinfo",
+      "f": null
+    },
+    {
+      "d": "2026-10-30",
+      "i": "910c30fece9f",
+      "t": "Quelle est cette «taxe émeutes» qui pourrait faire augmenter les prix des contrats d’assurance ?",
+      "r": "Un dispositif voté dans le budget oblige les assureurs à couvrir le risque d'émeutes dès 2027 via un fonds de mutualisation garanti par l'État.",
+      "c": "epargne",
+      "s": "Le Figaro",
+      "f": null
+    },
+    {
+      "d": "2026-10-30",
+      "i": "d842cbb94ba8",
+      "t": "Héritage : GenerationLibre veut supprimer la réserve héréditaire et taxer à 20%",
+      "r": "Le think tank GenerationLibre propose de supprimer la réserve héréditaire, de taxer l'héritage à 20 % et de réformer plusieurs prélèvements fiscaux.",
+      "c": "epargne",
+      "s": "Capital",
+      "f": "fiscalite-epargne-patrimoine"
+    },
+    {
+      "d": "2026-10-30",
+      "i": "1726f2541b21",
+      "t": "Livret A : le gouvernement planche sur un relèvement du plafond pour financer son plan lycées",
+      "r": "",
+      "c": "epargne",
+      "s": "Les Echos",
+      "f": "fiscalite-epargne-patrimoine"
+    },
     {
       "d": "2026-10-29",
       "i": "8130eddc625c",

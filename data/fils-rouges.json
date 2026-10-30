@@ -1,6 +1,6 @@
 {
   "version_schema": 1,
-  "mis_a_jour_le": "2026-10-29T10:08:19+01:00",
+  "mis_a_jour_le": "2026-10-30T05:48:40+01:00",
   "fils": [
     {
       "id": "budget-2027",
@@ -11,8 +11,8 @@
       "categories": [
         "desequilibres"
       ],
-      "ou_en_est_on": "L'examen du budget 2027 continue de susciter des initiatives diverses et des débats sur la rigueur financière. Alors que le groupe centriste LIOT suggère un emprunt citoyen pour contourner les taux élevés des marchés, l'exécutif propose d'intégrer des mesures fiscales pour la transmission agricole et étudie un coup de pouce anticipé sur le Smic face à la contestation sociale. Dans le même temps, la droite républicaine par la voix de Laurent Wauquiez appelle à briser le tabou de la rigueur face au risque de crise financière, tandis que l'éventualité d'un recours au 49.3 reste évoquée pour clore les blocages.",
-      "ou_en_est_on_maj_le": "2026-10-29",
+      "ou_en_est_on": "L'examen budgétaire met en évidence des tensions croissantes entre objectifs de rigueur et hausses de crédits. Alors que la commission des finances a voté 28 milliards d'euros de dépenses additionnelles, notamment pour l'écologie, les partenaires sociaux disposent de six séances pour dégager un milliard d'économies sur les arrêts de travail d'ici décembre. L'exécutif cherche à préserver ses cibles de déficit face aux initiatives parlementaires, dans un contexte où le recours au 49.3 reste une option envisagée pour finaliser le budget.",
+      "ou_en_est_on_maj_le": "2026-10-30",
       "evenements": [
         {
           "date": "2026-10-17",
@@ -336,6 +336,27 @@
               "url": "https://www.lopinion.fr/politique/la-farce-budgetaire-a-deja-trop-dure"
             }
           ]
+        },
+        {
+          "date": "2026-10-30",
+          "resume": "En commission des finances, les députés ont voté 28 milliards d'euros de dépenses supplémentaires, tandis que les partenaires sociaux ont fixé un calendrier pour trouver un milliard d'euros d'économies sur les arrêts maladie.",
+          "liens": [
+            {
+              "titre": "Budget 2027 : les députés votent 28 milliards d’euros de dépenses supplémentaires",
+              "source": "Le Figaro",
+              "url": "https://www.lefigaro.fr/conjoncture/budget-2027-les-deputes-votent-28-milliards-d-euros-de-depenses-supplementaires-20261029"
+            },
+            {
+              "titre": "Arrêts de travail : un plan d'économies à boucler en six semaines",
+              "source": "L'Opinion",
+              "url": "https://www.lopinion.fr/economie/arrets-de-travail-un-plan-deconomies-a-boucler-en-6-semaines"
+            },
+            {
+              "titre": "«Les vraies économies sont ailleurs» : les nécessaires coupes sur les opérateurs de l’État ne doivent pas éclipser les causes profondes du déficit",
+              "source": "Le Figaro",
+              "url": "https://www.lefigaro.fr/conjoncture/les-vraies-economies-sont-ailleurs-les-necessaires-coupes-sur-les-operateurs-de-l-etat-ne-doivent-pas-eclipser-les-causes-profondes-du-deficit-20261029"
+            }
+          ]
         }
       ]
     },
@@ -569,8 +590,8 @@
         "mondialisation",
         "desequilibres"
       ],
-      "ou_en_est_on": "Les tensions sur le marché énergétique s'étendent désormais au gaz, dont le prix européen a franchi le seuil symbolique des 100 euros le mégawattheure à l'entrée de la saison de chauffe, une première depuis la crise de 2022. Parallèlement, le gouvernement et les distributeurs préparent pour le début du mois de novembre la libération des stocks stratégiques de gazole, censée apporter un soulagement immédiat de 10 à 18 centimes par litre à la pompe.",
-      "ou_en_est_on_maj_le": "2026-10-29",
+      "ou_en_est_on": "Face à la flambée des cours énergétiques liée aux tensions au Moyen-Orient, une action coordonnée s'organise au niveau européen. Onze États membres de l'UE ont acté le déstockage de 42,6 millions de barils de pétrole, dont la moitié en gazole, la France fournissant 10 millions de barils. Bercy a donné l'ordre de libérer ces stocks afin d'obtenir une baisse immédiate à la pompe dès le début du mois de novembre, alors que les distributeurs devront afficher lisiblement ces répercussions tarifaires.",
+      "ou_en_est_on_maj_le": "2026-10-30",
       "evenements": [
         {
           "date": "2026-10-17",
@@ -722,6 +743,32 @@
               "url": "https://www.franceinfo.fr/economie/transports/prix-des-carburants/ca-commence-a-etre-complique-pour-beaucoup-de-francais-la-baisse-du-prix-des-carburants-tres-attendue-par-les-automobilistes_8258501.html#xtor=RSS-3-%5Bgeneral%5D"
             }
           ]
+        },
+        {
+          "date": "2026-10-30",
+          "resume": "Onze pays de l'Union européenne, dont la France, vont libérer 42,6 millions de barils issus de leurs réserves stratégiques afin de freiner la hausse des prix des carburants à la pompe.",
+          "liens": [
+            {
+              "titre": "La moitié sera du gazole: les pays de l’UE vont puiser plus de 42 millions de barils de pétrole dans leurs réserves stratégiques pour faire baisser les prix à la pompe",
+              "source": "BFM Business",
+              "url": "https://www.bfmtv.com/economie/entreprises/energie/la-moitie-sera-du-gazole-les-pays-de-l-ue-vont-puiser-plus-de-42-millions-de-barils-de-petrole-dans-leurs-reserves-strategiques-pour-faire-baisser-les-prix-a-la-pompe_AD-202610290735.html"
+            },
+            {
+              "titre": "Carburants : Bercy donne l’ordre dès aujourd’hui de libérer nos stocks stratégiques de gazole",
+              "source": "La Tribune",
+              "url": "https://www.latribune.fr/article/entreprises-finance/energie-environnement/21314192745343/carburants-bercy-donne-l-ordre-des-aujourd-hui-de-liberer-nos-stocks-strategiques-de-gazole"
+            },
+            {
+              "titre": "Carburants : les 18 centimes qui peuvent coûter cher au gouvernement",
+              "source": "Capital",
+              "url": "https://www.capital.fr/economie-politique/carburants-les-18-centimes-qui-peuvent-couter-cher-au-gouvernement-1531406"
+            },
+            {
+              "titre": "L'industrie pétrolière gonfle-t-elle les prix de l'essence ?",
+              "source": "franceinfo",
+              "url": "https://www.franceinfo.fr/economie/transports/prix-des-carburants/l-industrie-petroliere-gonfle-t-elle-les-prix-de-l-essence_8258597.html#xtor=RSS-3-%5Bgeneral%5D"
+            }
+          ]
         }
       ]
     },
@@ -735,8 +782,8 @@
         "finance",
         "desequilibres"
       ],
-      "ou_en_est_on": "Les grandes banques centrales adoptent une posture d'attentisme face au choc énergétique et au contexte électoral. La Réserve fédérale a opté pour le maintien de ses taux directeurs, une orientation vers le statu quo que partagent les observateurs concernant la BCE pour éviter des tensions obligataires supplémentaires. En parallèle, la banque centrale américaine annonce une réforme de son calendrier pour 2027 afin de consacrer des réunions à sa stratégie de long terme.",
-      "ou_en_est_on_maj_le": "2026-10-29",
+      "ou_en_est_on": "La Banque centrale européenne a opté pour le statu quo monétaire en maintenant son principal taux directeur inchangé à 2,5 % pour contrer les tensions inflationnistes liées à l'énergie. L'institution fait également face à une transition institutionnelle majeure avec l'annonce du départ de Christine Lagarde au 7 février 2027, neuf mois avant le terme de son mandat. Cette démission anticipée ouvre la voie au processus de désignation de son successeur par les dirigeants européens dans un contexte de surveillance accrue des marchés de capitaux.",
+      "ou_en_est_on_maj_le": "2026-10-30",
       "evenements": [
         {
           "date": "2026-10-21",
@@ -788,6 +835,37 @@
               "titre": "\"Du temps pour repenser les grandes questions\": la Fed va modifier son calendrier en 2027 pour créer une réunion dédiée \"aux stratégies monétaires au sens large\"",
               "source": "BFM Business",
               "url": "https://www.bfmtv.com/economie/international/du-temps-pour-repenser-les-grandes-questions-la-fed-va-modifier-son-calendrier-en-2027-pour-creer-une-reunion-dediee-aux-strategies-monetaires_AV-202610280877.html"
+            }
+          ]
+        },
+        {
+          "date": "2026-10-30",
+          "resume": "La BCE a maintenu son principal taux directeur à 2,5 % face aux pressions énergétiques, tandis que sa présidente Christine Lagarde a annoncé son départ anticipé pour le 7 février 2027.",
+          "liens": [
+            {
+              "titre": "La BCE maintient son principal taux directeur inchangé, à 2,5%",
+              "source": "Le Figaro",
+              "url": "https://www.lefigaro.fr/conjoncture/la-bce-maintient-son-principal-taux-directeur-inchange-a-2-5-20261029"
+            },
+            {
+              "titre": "Christine Lagarde quittera la présidence de la Banque centrale européenne le 7 février 2027",
+              "source": "Toute l'Europe",
+              "url": "https://www.touteleurope.eu/institutions/christine-lagarde-quittera-la-presidence-de-la-banque-centrale-europeenne-le-7-fevrier-2027/"
+            },
+            {
+              "titre": "ECB President Lagarde to step down on 7 February 2027",
+              "source": "BCE",
+              "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261029~abbb6dc64b.en.html"
+            },
+            {
+              "titre": "«Je sens que je dois dire ces choses, et je ne peux pas le faire dans ma position actuelle» : le calendrier très politique du départ de Christine Lagarde de la BCE",
+              "source": "Le Figaro",
+              "url": "https://www.lefigaro.fr/economie/je-sens-que-je-dois-dire-ces-choses-et-je-ne-peux-pas-le-faire-dans-ma-position-actuelle-le-calendrier-tres-politique-du-depart-de-christine-lagarde-de-la-bce-20261029"
+            },
+            {
+              "titre": "A la BCE, Christine Lagarde annonce son départ et veut « s’engager sur des sujets qui ne sont pas des sujets de politique monétaire »",
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/economie/article/2026/10/29/a-la-bce-christine-lagarde-annonce-son-depart-et-veut-s-engager-sur-des-sujets-qui-ne-sont-pas-des-sujets-de-politique-monetaire_6802379_3234.html"
             }
           ]
         }
@@ -914,8 +992,8 @@
       "categories": [
         "desequilibres"
       ],
-      "ou_en_est_on": "La campagne présidentielle de 2027 se focalise sur la crédibilité financière et la trajectoire budgétaire des candidats. Invités par le rapporteur général du budget Philippe Juvin à détailler leurs financements, certains candidats commencent à préciser leurs engagements : Édouard Philippe s'engage ainsi sur un déficit public ramené à 2 % du PIB sans hausse d'impôt. À l'opposé, les orientations de Jean-Luc Mélenchon, axées sur des augmentations de dépenses publiques et des hausses d'impôts, suscitent de vives critiques dans les milieux économiques.",
-      "ou_en_est_on_maj_le": "2026-10-22",
+      "ou_en_est_on": "Le débat programmatique pour l'élection présidentielle de 2027 voit les principales forces politiques confronter leurs projets de financement. Jean-Luc Mélenchon détaille un projet de pôle public bancaire appuyé sur la Caisse des dépôts et Bpifrance pour investir jusqu'à 200 milliards d'euros annuels dans la transition écologique et l'industrie. Ces propositions axées sur une intervention publique élargie contrastent avec les trajectoires de réduction du déficit et de maîtrise des dépenses publiques portées par d'autres prétendants.",
+      "ou_en_est_on_maj_le": "2026-10-30",
       "evenements": [
         {
           "date": "2026-10-20",
@@ -986,6 +1064,17 @@
               "url": "https://www.lopinion.fr/politique/cest-difficile-de-passer-le-mur-du-son-face-a-la-dette-une-presidentielle-entre-deni-et-rigueur"
             }
           ]
+        },
+        {
+          "date": "2026-10-30",
+          "resume": "La France insoumise précise sa stratégie économique avec l'ambition de mobiliser jusqu'à 200 milliards d'euros par an via un pôle public bancaire pour la réindustrialisation.",
+          "liens": [
+            {
+              "titre": "Pôle public bancaire : Jean-Luc Mélenchon veut mettre la finance au service de l’industrie",
+              "source": "Capital",
+              "url": "https://www.capital.fr/economie-politique/pole-public-bancaire-jean-luc-melenchon-veut-mettre-la-finance-au-service-de-lindustrie-1531403"
+            }
+          ]
         }
       ]
     },
@@ -1000,8 +1089,8 @@
         "mondialisation",
         "croissance"
       ],
-      "ou_en_est_on": "L'Europe réorganise sa stratégie face à la concurrence automobile chinoise. Après l'accord franco-allemand sur les règles environnementales et les composants locaux, l'industrie d'outre-Rhin soutient ces mesures de protection face aux pertes d'emplois et aux limites du libre-échange. Parallèlement, le Royaume-Uni envisage des barrières douanières, tandis que la Chine tente des concessions sur les hybrides pour maintenir son accès au marché.",
-      "ou_en_est_on_maj_le": "2026-10-18",
+      "ou_en_est_on": "Les constructeurs européens adaptent leurs modèles opérationnels aux bouleversements de la transition énergétique et du marché chinois. Confronté à un effondrement de ses ventes locales en Chine, Volkswagen réoriente ses capacités de production sur place vers l'exportation mondiale. De son côté, Renault stabilise son chiffre d'affaires au troisième trimestre 2026 grâce à la dynamique de ses ventes de modèles électriques en Europe, compensant le recul global de ses volumes de livraison.",
+      "ou_en_est_on_maj_le": "2026-10-30",
       "evenements": [
         {
           "date": "2026-10-17",
@@ -1038,6 +1127,22 @@
               "titre": "Cette industrie automobile chinoise qui impressionne à l’étranger ... mais s’effondre à domicile",
               "source": "L'Opinion",
               "url": "https://www.lopinion.fr/economie/cette-industrie-automobile-chinoise-qui-impressionne-a-letranger-mais-seffondre-a-domicile"
+            }
+          ]
+        },
+        {
+          "date": "2026-10-30",
+          "resume": "Tandis que Volkswagen envisage d'utiliser sa production locale en Chine pour exporter face à la chute de ses ventes intérieures, Renault stabilise son chiffre d'affaires grâce aux livraisons de véhicules électriques.",
+          "liens": [
+            {
+              "titre": "Nouveaux marchés, technologies essentielles… Comment la Chine peut sauver Volkswagen à l’export",
+              "source": "Le Figaro",
+              "url": "https://www.lefigaro.fr/societes/nouveaux-marches-technologies-essentielles-comment-la-chine-peut-sauver-les-exportations-de-volkswagen-20261029"
+            },
+            {
+              "titre": "Automobile : grâce à ses ventes records sur l'électrique, Renault stabilise son chiffre d'affaires",
+              "source": "La Tribune",
+              "url": "https://www.latribune.fr/article/transports/automobile/1136780693982214/automobile-grace-a-ses-ventes-records-sur-lelectrique-renault-stabilise-son-chiffre-daffaires"
             }
           ]
         }
@@ -1152,6 +1257,17 @@
               "titre": "«Livret B», hausse des plafonds, épargne vers le secteur public… Que prévoit le «pôle public bancaire» proposé par LFI ?",
               "source": "Le Figaro",
               "url": "https://www.lefigaro.fr/conjoncture/livret-b-hausse-des-plafonds-epargne-vers-le-secteur-public-que-prevoit-le-pole-public-bancaire-propose-par-lfi-20261028"
+            }
+          ]
+        },
+        {
+          "date": "2026-10-30",
+          "resume": "Le think tank GenerationLibre préconise la suppression de la réserve héréditaire et une taxation des successions à 20 % dans le cadre des réflexions fiscales pour 2027.",
+          "liens": [
+            {
+              "titre": "Héritage : GenerationLibre veut supprimer la réserve héréditaire et taxer à 20%",
+              "source": "Capital",
+              "url": "https://www.capital.fr/economie-politique/heritage-generationlibre-veut-supprimer-la-reserve-hereditaire-et-taxer-a-20-1531395"
             }
           ]
         }
@@ -1553,6 +1669,22 @@
               "url": "https://www.latribune.fr/article/transports/automobile/38833362213031/automobile-stellantis-perd-encore-de-l-argent-le-marche-asiatique-pese-sur-le-groupe"
             }
           ]
+        },
+        {
+          "date": "2026-10-30",
+          "resume": "Airbus et Air France-KLM ont constitué une coentreprise dédiée aux composants de l'A350, alors que les professionnels alertent sur l'impact durable de la crise du logement.",
+          "liens": [
+            {
+              "titre": "A350 : lancement d’une coentreprise entre Airbus et Air France KLM sur les composants",
+              "source": "La Tribune",
+              "url": "https://air-cosmos.latribune.fr/article/aviation-civile/1272494621885514/a350-lancement-d-une-coentreprise-entre-airbus-et-air-france-klm-sur-les-composants"
+            },
+            {
+              "titre": "La crise du logement \"pourrit depuis 10-15 ans et aucune politique de long terme ne traite le problème\", regrette la présidente du site Particulier à Particulier",
+              "source": "franceinfo",
+              "url": "https://www.franceinfo.fr/economie/pouvoir-achat/logement/la-crise-du-logement-pourrit-depuis-10-15-ans-et-aucune-politique-de-long-terme-ne-traite-le-probleme-regrette-la-presidente-du-site-particulier-a-particulier_8258885.html#xtor=RSS-3-%5Bgeneral%5D"
+            }
+          ]
         }
       ]
     },
@@ -1567,8 +1699,8 @@
         "entreprises",
         "ue"
       ],
-      "ou_en_est_on": "L'intelligence artificielle se trouve au cœur de nouveaux enjeux d'organisation du travail et de régulation. Alors que le gouvernement néerlandais envisage de réduire de 15 % ses effectifs administratifs centraux d'ici 2035 en recourant à des agents d'IA, les parlementaires français préparent l'examen d'un projet de loi sur la protection des droits d'auteur face aux algorithmes génératifs. Ces développements interviennent alors que les géants de la tech constatent un ralentissement de certains revenus publicitaires traditionnels liés aux moteurs de recherche.",
-      "ou_en_est_on_maj_le": "2026-10-29",
+      "ou_en_est_on": "Le déploiement de l'intelligence artificielle générative bouscule les modèles d'affaires tout en favorisant des partenariats industriels européens. L'intégration de modes IA dans le moteur de recherche de Google suscite des inquiétudes sur la dynamique des revenus publicitaires du groupe à Wall Street. Parallèlement, des coopérations se nouent sur le continent pour développer des alternatives souveraines, à l'image de l'accord entre Orange Cyberdéfense et la jeune pousse française Mistral AI dans le domaine de la cybersécurité.",
+      "ou_en_est_on_maj_le": "2026-10-30",
       "evenements": [
         {
           "date": "2026-10-17",
@@ -1870,6 +2002,37 @@
               "titre": "Google frappé par la révolution IA que la firme a engendrée",
               "source": "Le Monde",
               "url": "https://www.lemonde.fr/economie/article/2026/10/29/google-frappe-par-la-revolution-ia-que-la-firme-a-engendree_6801945_3234.html"
+            }
+          ]
+        },
+        {
+          "date": "2026-10-30",
+          "resume": "Orange Cyberdéfense noue un partenariat avec Mistral AI autour de son modèle Large 4, tandis que Google subit des pressions boursières sur ses recettes publicitaires liées à l'IA.",
+          "liens": [
+            {
+              "titre": "Orange Cyberdéfense et Mistral AI unissent leurs forces pour créer des agents IA capable de déceler les failles de cybersécurité",
+              "source": "La Tribune",
+              "url": "https://www.latribune.fr/article/tech/informatique/13271310428432/orange-cyberdefense-et-mistral-ai-unissent-leurs-forces-pour-creer-des-agents-ia-capable-de-deceler-les-failles-de-cybersecurite"
+            },
+            {
+              "titre": "Google frappé au cœur de son modèle publicitaire par l’intégration du « mode IA » à son moteur de recherche",
+              "source": "Le Figaro",
+              "url": "https://www.lefigaro.fr/economie/google-frappe-au-coeur-de-son-modele-publicitaire-par-l-integration-du-mode-ia-a-son-moteur-de-recherche-20261029"
+            },
+            {
+              "titre": "Taxe, fonds souverain, revenu universel : comment partager les profits de l'IA ?",
+              "source": "Alternatives Économiques",
+              "url": "https://www.alternatives-economiques.fr/taxe-fonds-souverain-revenu-universel-comment-partager-les-profits-de-l-ia_30-10-2026"
+            },
+            {
+              "titre": "Le patron de Nvidia au cœur d’une affaire d’espionnage présumé au profit de la Chine",
+              "source": "Le Figaro",
+              "url": "https://www.lefigaro.fr/secteur/high-tech/le-patron-de-nvidia-au-coeur-d-une-affaire-d-espionnage-presume-au-profit-de-la-chine-20261029"
+            },
+            {
+              "titre": "L'intelligence artificielle va détruire des emplois... mais en créera-t-elle ailleurs ?",
+              "source": "Alternatives Économiques",
+              "url": "https://www.alternatives-economiques.fr/l-intelligence-artificielle-va-detruire-des-emplois-mais-en-creera-t-elle-ailleurs_29-10-2026"
             }
           ]
         }
