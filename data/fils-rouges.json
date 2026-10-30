@@ -1,6 +1,6 @@
 {
   "version_schema": 1,
-  "mis_a_jour_le": "2026-10-30T05:48:40+01:00",
+  "mis_a_jour_le": "2026-10-30T10:11:27+01:00",
   "fils": [
     {
       "id": "budget-2027",
@@ -11,7 +11,7 @@
       "categories": [
         "desequilibres"
       ],
-      "ou_en_est_on": "L'examen budgétaire met en évidence des tensions croissantes entre objectifs de rigueur et hausses de crédits. Alors que la commission des finances a voté 28 milliards d'euros de dépenses additionnelles, notamment pour l'écologie, les partenaires sociaux disposent de six séances pour dégager un milliard d'économies sur les arrêts de travail d'ici décembre. L'exécutif cherche à préserver ses cibles de déficit face aux initiatives parlementaires, dans un contexte où le recours au 49.3 reste une option envisagée pour finaliser le budget.",
+      "ou_en_est_on": "L'examen budgétaire met en évidence des tensions croissantes entre objectifs de rigueur et hausses de crédits, tandis que des personnalités politiques comme Michel exhortent le Premier ministre Sébastien Lecornu à recourir au 49.3 pour appliquer le projet du gouvernement. Alors que la commission des finances a voté 28 milliards d'euros de dépenses additionnelles, les partenaires sociaux disposent de six séances pour dégager un milliard d'économies sur les arrêts de travail d'ici décembre. L'exécutif cherche à préserver ses cibles de déficit face aux initiatives parlementaires dans un climat d'incertitude.",
       "ou_en_est_on_maj_le": "2026-10-30",
       "evenements": [
         {
@@ -339,7 +339,7 @@
         },
         {
           "date": "2026-10-30",
-          "resume": "En commission des finances, les députés ont voté 28 milliards d'euros de dépenses supplémentaires, tandis que les partenaires sociaux ont fixé un calendrier pour trouver un milliard d'euros d'économies sur les arrêts maladie.",
+          "resume": "Michel Barnier plaide pour l'utilisation immédiate de l'article 49.3 par le Premier ministre Sébastien Lecornu concernant le vote du budget.",
           "liens": [
             {
               "titre": "Budget 2027 : les députés votent 28 milliards d’euros de dépenses supplémentaires",
@@ -355,6 +355,11 @@
               "titre": "«Les vraies économies sont ailleurs» : les nécessaires coupes sur les opérateurs de l’État ne doivent pas éclipser les causes profondes du déficit",
               "source": "Le Figaro",
               "url": "https://www.lefigaro.fr/conjoncture/les-vraies-economies-sont-ailleurs-les-necessaires-coupes-sur-les-operateurs-de-l-etat-ne-doivent-pas-eclipser-les-causes-profondes-du-deficit-20261029"
+            },
+            {
+              "titre": "Budget 2027 : \"Il faut savoir prendre des risques\", estime Michel Barnier qui plaide pour un 49.3 du Premier ministre Sébastien Lecornu",
+              "source": "franceinfo",
+              "url": "https://www.franceinfo.fr/politique/budget-2027-il-faut-savoir-prendre-des-risques-estime-michel-barnier-qui-plaide-pour-un-49-3-du-premier-ministre-sebastien-lecornu_8260058.html#xtor=RSS-3-%5Bgeneral%5D"
             }
           ]
         }
@@ -1284,8 +1289,8 @@
         "desequilibres",
         "entreprises"
       ],
-      "ou_en_est_on": "Les indicateurs de l'activité économique française témoignent d'un essoufflement marqué. Les inscriptions à France Travail en catégorie A ont augmenté de 0,9 % au troisième trimestre, dans un contexte d'application de la loi pour le plein-emploi, tandis que le placement en redressement judiciaire du BHV illustre les difficultés du commerce de détail parisien. Ces signaux négatifs s'accompagnent d'un fort attentisme des petites entreprises, plus des trois quarts des dirigeants de TPE retardant leurs investissements selon un baromètre Ifop-Fiducial.",
-      "ou_en_est_on_maj_le": "2026-10-29",
+      "ou_en_est_on": "L'activité économique française témoigne d'un essoufflement marqué avec un recul du PIB de 0,1 % au troisième trimestre 2026, tandis que l'inflation accélère à 3,4 % sur un an en octobre et que l'emploi salarié privé reste quasi stable. Les inscriptions à France Travail en catégorie A ont augmenté au troisième trimestre et le placement en redressement judiciaire du BHV illustre les difficultés persistantes du commerce de détail. Ces signaux s'accompagnent de craintes accrues pour les commerçants pénalisés par les mouvements de mobilisation et d'un attentisme marqué des petites entreprises.",
+      "ou_en_est_on_maj_le": "2026-10-30",
       "evenements": [
         {
           "date": "2026-10-17",
@@ -1672,7 +1677,7 @@
         },
         {
           "date": "2026-10-30",
-          "resume": "Airbus et Air France-KLM ont constitué une coentreprise dédiée aux composants de l'A350, alors que les professionnels alertent sur l'impact durable de la crise du logement.",
+          "resume": "Le PIB français recule légèrement au troisième trimestre 2026 (-0,1 %), l'emploi du secteur privé reste stable et l'inflation accélère à 3,4 % en octobre, dans un contexte de craintes pour l'activité des commerçants face aux manifestations.",
           "liens": [
             {
               "titre": "A350 : lancement d’une coentreprise entre Airbus et Air France KLM sur les composants",
@@ -1683,6 +1688,21 @@
               "titre": "La crise du logement \"pourrit depuis 10-15 ans et aucune politique de long terme ne traite le problème\", regrette la présidente du site Particulier à Particulier",
               "source": "franceinfo",
               "url": "https://www.franceinfo.fr/economie/pouvoir-achat/logement/la-crise-du-logement-pourrit-depuis-10-15-ans-et-aucune-politique-de-long-terme-ne-traite-le-probleme-regrette-la-presidente-du-site-particulier-a-particulier_8258885.html#xtor=RSS-3-%5Bgeneral%5D"
+            },
+            {
+              "titre": "Le PIB recule légèrement au troisième trimestre 2026 (-0,1 % après 0,0 %)",
+              "source": "INSEE",
+              "url": "https://www.insee.fr/fr/statistiques/9111036"
+            },
+            {
+              "titre": "L'inflation à son plus haut niveau depuis janvier 2024: la hausse des prix accélère encore en octobre et atteint 3,4% sur un an, après une hausse de 3,1% en septembre",
+              "source": "BFM Business",
+              "url": "https://www.bfmtv.com/economie/economie-social/l-inflation-accelere-encore-en-octobre-et-atteint-3-4-sur-un-an-apres-3-1-en-septembre_AD-202610300274.html"
+            },
+            {
+              "titre": "La consommation des ménages en biens diminue de nouveau en septembre 2026 (-0,5 % après -0,5 %)",
+              "source": "INSEE",
+              "url": "https://www.insee.fr/fr/statistiques/9109722"
             }
           ]
         }

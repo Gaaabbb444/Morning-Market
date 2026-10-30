@@ -1,7 +1,16 @@
 {
   "version_schema": 1,
-  "mis_a_jour_le": "2026-10-30T05:47:17+01:00",
+  "mis_a_jour_le": "2026-10-30T10:09:14+01:00",
   "entrees": [
+    {
+      "d": "2026-10-30",
+      "i": "86940beef10b",
+      "t": "Le PIB recule légèrement au troisième trimestre 2026 (-0,1 % après 0,0 %)",
+      "r": "Le produit intérieur brut (PIB) en volume de la France recule de 0,1 % au troisième trimestre 2026, après une stagnation au trimestre précédent, affecté par la baisse de la production agricole liée à la canicule et de la production énergétique.",
+      "c": "croissance",
+      "s": "INSEE",
+      "f": "conjoncture-france"
+    },
     {
       "d": "2026-10-30",
       "i": "bcc18e705802",
@@ -10,6 +19,15 @@
       "c": "finance",
       "s": "Toute l'Europe",
       "f": "inflation-bce"
+    },
+    {
+      "d": "2026-10-30",
+      "i": "3bfe3b4cc9ea",
+      "t": "Cryptomonnaies : le plateforme Binance victime d'un piratage estimé à 5,6 milliards d'euros",
+      "r": "La plateforme de cryptomonnaies Binance a été victime d'un piratage estimé à plus de 5,6 milliards d'euros, conduisant l'entreprise à geler une partie des fonds.",
+      "c": "finance",
+      "s": "franceinfo",
+      "f": null
     },
     {
       "d": "2026-10-30",
@@ -22,30 +40,12 @@
     },
     {
       "d": "2026-10-30",
-      "i": "b8bb124aebc9",
-      "t": "La moitié sera du gazole: les pays de l’UE vont puiser plus de 42 millions de barils de pétrole dans leurs réserves stratégiques pour faire baisser les prix à la pompe",
-      "r": "Onze pays de l'Union européenne vont libérer 42,6 millions de barils de leurs réserves stratégiques, dont la moitié en gazole, pour stabiliser les prix face aux tensions.",
-      "c": "mondialisation",
-      "s": "BFM Business",
-      "f": "choc-petrolier-ormuz"
-    },
-    {
-      "d": "2026-10-30",
       "i": "5af0963a4958",
       "t": "Budget 2027 : les députés votent 28 milliards d’euros de dépenses supplémentaires",
       "r": "En commission des finances, les députés ont voté 28 milliards d'euros de dépenses supplémentaires pour le budget 2027. Ces votes ont notamment renforcé l'enveloppe allouée à la transition écologique, tout en rejetant plusieurs mesures d'économies.",
       "c": "desequilibres",
       "s": "Le Figaro",
       "f": "budget-2027"
-    },
-    {
-      "d": "2026-10-30",
-      "i": "556f180d4172",
-      "t": "\"Le Premier ministre Modi viendra en décembre signer\": l'accord commercial entre l'Inde et l'UE est tout proche d'une conclusion",
-      "r": "Le Premier ministre indien Narendra Modi se rendra à Bruxelles en décembre pour signer l'accord de libre-échange entre l'Inde et l'Union européenne. Les autorités européennes le qualifient d'accord commercial le plus important jamais conclu par l'Union.",
-      "c": "mondialisation",
-      "s": "BFM Business",
-      "f": null
     },
     {
       "d": "2026-10-30",
@@ -85,6 +85,15 @@
     },
     {
       "d": "2026-10-30",
+      "i": "b6199f7f5b65",
+      "t": "Dans le Val-d'Oise, EDF veut investir 550 millions d'euros pour construire une centrale thermique alimentée à partir d'huiles usagées",
+      "r": "",
+      "c": "croissance",
+      "s": "Les Echos",
+      "f": null
+    },
+    {
+      "d": "2026-10-30",
       "i": "8f824d311db5",
       "t": "Sept pétroliers transportant 288 000 tonnes de diesel russe font route vers les États-Unis",
       "r": "Plusieurs navires transportant du diesel russe font route vers les États-Unis, sur fond d'incertitudes quant à leur déchargement effectif.",
@@ -118,6 +127,15 @@
       "c": "mondialisation",
       "s": "BFM Business",
       "f": null
+    },
+    {
+      "d": "2026-10-30",
+      "i": "f8b324cd1508",
+      "t": "Guerre en Iran : des pétroliers en feu après avoir percuté des mines dans le détroit d'Ormuz, les cours du pétrole flambent encore",
+      "r": "",
+      "c": "mondialisation",
+      "s": "Les Echos",
+      "f": "choc-petrolier-ormuz"
     },
     {
       "d": "2026-10-30",
@@ -157,6 +175,15 @@
     },
     {
       "d": "2026-10-30",
+      "i": "691a8b4ea357",
+      "t": "Les bénéfices de BP bondissent alors que le conflit au Moyen-Orient fait grimper les marges de raffinage du pétrole",
+      "r": "Le bénéfice trimestriel de BP progresse fortement pour atteindre 8,46 milliards de dollars, porté par la hausse des prix du pétrole et du gaz liée au conflit.",
+      "c": "finance",
+      "s": "The Guardian",
+      "f": "choc-petrolier-ormuz"
+    },
+    {
+      "d": "2026-10-30",
       "i": "08e0f6455060",
       "t": "«Les vraies économies sont ailleurs» : les nécessaires coupes sur les opérateurs de l’État ne doivent pas éclipser les causes profondes du déficit",
       "r": "Les efforts budgétaires demandés aux opérateurs de l'État ne suffisent pas à résorber le déficit public, largement déterminé par les dépenses sociales et de santé.",
@@ -193,6 +220,15 @@
     },
     {
       "d": "2026-10-30",
+      "i": "dc2003dc720d",
+      "t": "Budget 2027 : \"Il faut savoir prendre des risques\", estime Michel Barnier qui plaide pour un 49.3 du Premier ministre Sébastien Lecornu",
+      "r": "Michel Barnier plaide pour l'utilisation immédiate de l'article 49.3 par le Premier ministre Sébastien Lecornu concernant le vote du budget.",
+      "c": "desequilibres",
+      "s": "franceinfo",
+      "f": "budget-2027"
+    },
+    {
+      "d": "2026-10-30",
       "i": "05521b93a3ae",
       "t": "Qu'est-ce que l'omnibus X, le projet de la Commission européenne pour simplifier les règles sur les pesticides et pourquoi fait-il débat ?",
       "r": "La Commission européenne poursuit son projet de simplification des règles sur les pesticides pour réduire les contraintes administratives pesant sur les entreprises.",
@@ -225,6 +261,15 @@
       "r": "L'agenda européen de la semaine inclut le point de la Commission sur les pays candidats à l'adhésion et la mobilisation des syndicats agricoles.",
       "c": "ue",
       "s": "Toute l'Europe",
+      "f": null
+    },
+    {
+      "d": "2026-10-30",
+      "i": "ad85e46b1d5f",
+      "t": "Nucléaire : pourquoi Bruxelles tente de calmer le jeu sur le financement des EPR2",
+      "r": "La Commission européenne reconnaît l'intérêt de finaliser les négociations sur le nouveau nucléaire français et son aide d'État d'ici la fin de l'année.",
+      "c": "ue",
+      "s": "L'Opinion",
       "f": null
     },
     {
@@ -265,6 +310,15 @@
     },
     {
       "d": "2026-10-30",
+      "i": "fa36eb4ee1a0",
+      "t": "Eurazeo : les vraies raisons de l'éviction surprise de William Kadouch-Chassaing",
+      "r": "Le co-directeur général d'Eurazeo a été évincé à la suite de désaccords entre dirigeants et d'un cours de Bourse en berne.",
+      "c": "entreprises",
+      "s": "La Tribune",
+      "f": null
+    },
+    {
+      "d": "2026-10-30",
       "i": "973c455e85ff",
       "t": "Immobilier : est-il de plus en plus difficile d’accéder à la propriété ?",
       "r": "Avec la hausse des taux, les primo-accédants rencontrent de plus grandes difficultés pour accéder à la propriété.",
@@ -297,6 +351,15 @@
       "r": "",
       "c": "epargne",
       "s": "Les Echos",
+      "f": "fiscalite-epargne-patrimoine"
+    },
+    {
+      "d": "2026-10-30",
+      "i": "530ad43ea5de",
+      "t": "Droits de succession : comment optimiser les abattements fiscaux pour vos enfants",
+      "r": "Des analyses et conseils sont proposés pour optimiser les abattements fiscaux lors de la transmission de patrimoine et des droits de succession.",
+      "c": "epargne",
+      "s": "L'Opinion",
       "f": "fiscalite-epargne-patrimoine"
     },
     {

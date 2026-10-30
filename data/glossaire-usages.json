@@ -1,12 +1,30 @@
 {
   "version_schema": 1,
   "notions": {
+    "pib-produit-interieur-brut": [
+      {
+        "date": "2026-10-30",
+        "id": "86940beef10b",
+        "titre": "Le PIB recule légèrement au troisième trimestre 2026 (-0,1 % après 0,0 %)",
+        "source": "INSEE",
+        "contexte": "Top 5 du jour"
+      }
+    ],
     "independance-de-la-banque-centrale": [
       {
         "date": "2026-10-30",
         "id": "bcc18e705802",
         "titre": "Christine Lagarde quittera la présidence de la Banque centrale européenne le 7 février 2027",
         "source": "Toute l'Europe",
+        "contexte": "Top 5 du jour"
+      }
+    ],
+    "regulation-prudentielle-accords-de-bale": [
+      {
+        "date": "2026-10-30",
+        "id": "3bfe3b4cc9ea",
+        "titre": "Cryptomonnaies : le plateforme Binance victime d'un piratage estimé à 5,6 milliards d'euros",
+        "source": "franceinfo",
         "contexte": "Top 5 du jour"
       }
     ],
@@ -24,36 +42,6 @@
         "titre": "La Réserve fédérale américaine choisit d’attendre avant de relever de nouveau ses taux, malgré l’inflation",
         "source": "Le Monde",
         "contexte": "Top 5 du jour"
-      }
-    ],
-    "choc-petrolier-choc-d-offre": [
-      {
-        "date": "2026-10-30",
-        "id": "b8bb124aebc9",
-        "titre": "La moitié sera du gazole: les pays de l’UE vont puiser plus de 42 millions de barils de pétrole dans leurs réserves stratégiques pour faire baisser les prix à la pompe",
-        "source": "BFM Business",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-10-24",
-        "id": "d139ede9e737",
-        "titre": "Oil price rises above $117 a barrel amid fears US will renew strikes on Iran",
-        "source": "The Guardian",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-10-23",
-        "id": "f742c3911c35",
-        "titre": "Oil prices jump to five-month high as attacks threaten global supply",
-        "source": "The Guardian",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-10-17",
-        "id": "7333fdccc97b",
-        "titre": "\"Un superpétrolier a heurté une mine\": l'Iran intensifie ses attaques dans le détroit d'Ormuz, alors que le baril de pétrole frôle à nouveau les 110 dollars",
-        "source": "BFM Business",
-        "contexte": "Concept du jour"
       }
     ],
     "deficit-public-et-solde-primaire": [
@@ -90,15 +78,6 @@
         "id": "2f73fb7a1b50",
         "titre": "Budget 2027 : l’Assemblée nationale multiplie les cadeaux fiscaux non chiffrés",
         "source": "Le Figaro",
-        "contexte": "Top 5 du jour"
-      }
-    ],
-    "avantage-comparatif": [
-      {
-        "date": "2026-10-30",
-        "id": "556f180d4172",
-        "titre": "\"Le Premier ministre Modi viendra en décembre signer\": l'accord commercial entre l'Inde et l'UE est tout proche d'une conclusion",
-        "source": "BFM Business",
         "contexte": "Top 5 du jour"
       }
     ],
@@ -433,6 +412,29 @@
         "id": "6825d2c17a9c",
         "titre": "Retraite, santé : la protection sociale, principal poste de dépenses de l’État",
         "source": "Le Figaro",
+        "contexte": "Concept du jour"
+      }
+    ],
+    "choc-petrolier-choc-d-offre": [
+      {
+        "date": "2026-10-24",
+        "id": "d139ede9e737",
+        "titre": "Oil price rises above $117 a barrel amid fears US will renew strikes on Iran",
+        "source": "The Guardian",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-10-23",
+        "id": "f742c3911c35",
+        "titre": "Oil prices jump to five-month high as attacks threaten global supply",
+        "source": "The Guardian",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-10-17",
+        "id": "7333fdccc97b",
+        "titre": "\"Un superpétrolier a heurté une mine\": l'Iran intensifie ses attaques dans le détroit d'Ormuz, alors que le baril de pétrole frôle à nouveau les 110 dollars",
+        "source": "BFM Business",
         "contexte": "Concept du jour"
       }
     ],
