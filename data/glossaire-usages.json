@@ -1,6 +1,79 @@
 {
   "version_schema": 1,
   "notions": {
+    "notation-souveraine": [
+      {
+        "date": "2026-10-31",
+        "id": "558c3360d143",
+        "titre": "L’agence Fitch maintient la note de la dette souveraine de la France mais dégrade sa perspective",
+        "source": "Le Monde",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-10-23",
+        "id": "fa684d4ef153",
+        "titre": "Dette : pourquoi la note de la France devrait être dégradée par Moody’s",
+        "source": "La Tribune",
+        "contexte": "Top 5 du jour"
+      }
+    ],
+    "action": [
+      {
+        "date": "2026-10-31",
+        "id": "c56abd8110ec",
+        "titre": "La Bourse de New York saisie d’effroi, à la veille d’Halloween",
+        "source": "Le Monde",
+        "contexte": "Top 5 du jour"
+      }
+    ],
+    "inflation": [
+      {
+        "date": "2026-10-31",
+        "id": "34d8bdd7b6b9",
+        "titre": "L'Insee prévoit une inflation à 3,4% sur un an en octobre, au plus haut depuis janvier 2024",
+        "source": "franceinfo",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-10-27",
+        "id": "1fc158ac434d",
+        "titre": "European gas prices soar to four-year high over winter supply fears",
+        "source": "The Guardian",
+        "contexte": "Top 5 du jour"
+      }
+    ],
+    "cycle-economique-et-recession": [
+      {
+        "date": "2026-10-31",
+        "id": "f2444713c4aa",
+        "titre": "Croissance en berne et inflation en hausse : ce spectre de la récession qui plane sur la France",
+        "source": "Le Figaro",
+        "contexte": "Top 5 du jour"
+      }
+    ],
+    "inflation-par-la-demande-et-par-les-couts": [
+      {
+        "date": "2026-10-31",
+        "id": "e88b04e610e0",
+        "titre": "Plus de 50 milliards de dollars de bénéfices au troisième trimestre: les géants du pétrole enregistrent des résultats records sur fond de tensions géopolitiques et de flambée des prix des hydrocarbures",
+        "source": "BFM Business",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-10-29",
+        "id": "ddbabbca0389",
+        "titre": "L’Europe entre dans la saison du chauffage avec des prix du gaz au plus haut",
+        "source": "Le Monde",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-10-18",
+        "id": "db61fda82ea6",
+        "titre": "Dans les rayons, la hausse des prix des produits frais risque de se poursuivre",
+        "source": "BFM Business",
+        "contexte": "Top 5 du jour"
+      }
+    ],
     "pib-produit-interieur-brut": [
       {
         "date": "2026-10-30",
@@ -78,22 +151,6 @@
         "id": "2f73fb7a1b50",
         "titre": "Budget 2027 : l’Assemblée nationale multiplie les cadeaux fiscaux non chiffrés",
         "source": "Le Figaro",
-        "contexte": "Top 5 du jour"
-      }
-    ],
-    "inflation-par-la-demande-et-par-les-couts": [
-      {
-        "date": "2026-10-29",
-        "id": "ddbabbca0389",
-        "titre": "L’Europe entre dans la saison du chauffage avec des prix du gaz au plus haut",
-        "source": "Le Monde",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-10-18",
-        "id": "db61fda82ea6",
-        "titre": "Dans les rayons, la hausse des prix des produits frais risque de se poursuivre",
-        "source": "BFM Business",
         "contexte": "Top 5 du jour"
       }
     ],
@@ -273,15 +330,6 @@
         "id": "a88d5a773650",
         "titre": "IA : la bulle s'effondre en Chine, 480 milliards de dollars déjà partis en fumée",
         "source": "La Tribune",
-        "contexte": "Top 5 du jour"
-      }
-    ],
-    "inflation": [
-      {
-        "date": "2026-10-27",
-        "id": "1fc158ac434d",
-        "titre": "European gas prices soar to four-year high over winter supply fears",
-        "source": "The Guardian",
         "contexte": "Top 5 du jour"
       }
     ],
@@ -476,15 +524,6 @@
         "id": "68e90a15b61f",
         "titre": "En France, la menace d'une crise financière se précise",
         "source": "franceinfo",
-        "contexte": "Top 5 du jour"
-      }
-    ],
-    "notation-souveraine": [
-      {
-        "date": "2026-10-23",
-        "id": "fa684d4ef153",
-        "titre": "Dette : pourquoi la note de la France devrait être dégradée par Moody’s",
-        "source": "La Tribune",
         "contexte": "Top 5 du jour"
       }
     ],

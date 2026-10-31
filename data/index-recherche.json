@@ -1,7 +1,304 @@
 {
   "version_schema": 1,
-  "mis_a_jour_le": "2026-10-30T10:09:14+01:00",
+  "mis_a_jour_le": "2026-10-31T05:42:19+01:00",
   "entrees": [
+    {
+      "d": "2026-10-31",
+      "i": "558c3360d143",
+      "t": "L’agence Fitch maintient la note de la dette souveraine de la France mais dégrade sa perspective",
+      "r": "L'agence de notation Fitch a maintenu la note de la dette souveraine de la France mais a abaissé sa perspective de stable à négative, en raison d'une détérioration de la situation budgétaire et des taux d'emprunts.",
+      "c": "desequilibres",
+      "s": "Le Monde",
+      "f": "dette-marches"
+    },
+    {
+      "d": "2026-10-31",
+      "i": "c56abd8110ec",
+      "t": "La Bourse de New York saisie d’effroi, à la veille d’Halloween",
+      "r": "La Bourse de New York a enregistré un fort repli des marchés actions à la suite de résultats trimestriels décevants de géants du secteur de l'intelligence artificielle et d'inquiétudes sur la rentabilité de leurs investissements.",
+      "c": "finance",
+      "s": "Le Monde",
+      "f": "intelligence-artificielle"
+    },
+    {
+      "d": "2026-10-31",
+      "i": "34d8bdd7b6b9",
+      "t": "L'Insee prévoit une inflation à 3,4% sur un an en octobre, au plus haut depuis janvier 2024",
+      "r": "L'Insee prévoit une inflation atteignant 3,4 % sur un an en octobre, un niveau au plus haut depuis janvier 2024, en raison notamment de la flambée des prix de l'énergie.",
+      "c": "desequilibres",
+      "s": "franceinfo",
+      "f": null
+    },
+    {
+      "d": "2026-10-31",
+      "i": "f2444713c4aa",
+      "t": "Croissance en berne et inflation en hausse : ce spectre de la récession qui plane sur la France",
+      "r": "La croissance française se révèle négative pour la deuxième fois en l'espace de trois trimestres, faisant planer le spectre d'une récession pour 2026 et 2027 et compliquant le redressement des comptes publics.",
+      "c": "croissance",
+      "s": "Le Figaro",
+      "f": "conjoncture-france"
+    },
+    {
+      "d": "2026-10-31",
+      "i": "e88b04e610e0",
+      "t": "Plus de 50 milliards de dollars de bénéfices au troisième trimestre: les géants du pétrole enregistrent des résultats records sur fond de tensions géopolitiques et de flambée des prix des hydrocarbures",
+      "r": "Les géants du pétrole (ExxonMobil, Shell, Chevron, TotalEnergies et BP) ont cumulé plus de 50 milliards de dollars de bénéfices nets au troisième trimestre, en hausse de 138 % sur un an, portés par l'envolée des marges de raffinage et les tensions géopolitiques.",
+      "c": "croissance",
+      "s": "BFM Business",
+      "f": null
+    },
+    {
+      "d": "2026-10-31",
+      "i": "1d7c40f64ed7",
+      "t": "La guerre en Iran aggrave la crise énergétique américaine. Un hiver difficile s'annonce | Mark Wolfe",
+      "r": "La guerre en Iran accentue la crise de l'énergie aux États-Unis, exposant les ménages se chauffant au fioul à des factures potentiellement 50 % plus élevées.",
+      "c": "croissance",
+      "s": "The Guardian",
+      "f": "choc-petrolier-ormuz"
+    },
+    {
+      "d": "2026-10-31",
+      "i": "6047b4001201",
+      "t": "La croissance européenne résiste contre vents et marées, malgré le maillon faible français",
+      "r": "",
+      "c": "croissance",
+      "s": "Les Echos",
+      "f": null
+    },
+    {
+      "d": "2026-10-31",
+      "i": "7fa1d38d4aec",
+      "t": "Callisto arrive au Centre spatial guyanais",
+      "r": "Le Cnes a lancé les essais du démonstrateur de lanceur réutilisable Callisto en Guyane, un projet mené avec l'Allemagne et le Japon.",
+      "c": "croissance",
+      "s": "La Tribune",
+      "f": null
+    },
+    {
+      "d": "2026-10-31",
+      "i": "806df3e5d72c",
+      "t": "[Carte] Une année 2025 record pour les voyages en train en Europe",
+      "r": "Selon Eurostat, le transport ferroviaire de voyageurs a progressé de 2,6 % en 2025 en Europe, atteignant 457 milliards de passagers-kilomètres.",
+      "c": "croissance",
+      "s": "Toute l'Europe",
+      "f": null
+    },
+    {
+      "d": "2026-10-31",
+      "i": "ab4117d9f0bd",
+      "t": "Trump a promis de baisser les prix, mais ses politiques ont alimenté l'inflation américaine",
+      "r": "Malgré les promesses de Donald Trump de réduire les prix, les économistes soulignent que ses politiques de droits de douane ont alimenté l'inflation aux États-Unis.",
+      "c": "mondialisation",
+      "s": "The Guardian",
+      "f": null
+    },
+    {
+      "d": "2026-10-31",
+      "i": "ff30835430e2",
+      "t": "Blanchiment : Monaco sort de la « liste grise » du Groupe d’action financière grâce aux « progrès » de son arsenal de contrôle",
+      "r": "Monaco sort de la liste grise du GAFI après avoir mené des réformes pour renforcer son arsenal de lutte contre le blanchiment d'argent.",
+      "c": "mondialisation",
+      "s": "Le Monde",
+      "f": null
+    },
+    {
+      "d": "2026-10-31",
+      "i": "728e0c2efd76",
+      "t": "Pénurie de navires et tarifs record : comment la guerre au Moyen-Orient fait bondir les prix du transport de pétrole",
+      "r": "Le conflit au Moyen-Orient provoque une raréfaction des navires pétroliers et fait bondir les tarifs du transport maritime de fret.",
+      "c": "mondialisation",
+      "s": "Le Monde",
+      "f": "choc-petrolier-ormuz"
+    },
+    {
+      "d": "2026-10-31",
+      "i": "756b69a462ff",
+      "t": "Le Canada et l'UE annoncent une nouvelle alliance ouverte aux pays partageant les mêmes valeurs",
+      "r": "Le Canada et l'Union européenne ont annoncé une nouvelle alliance lors du sommet de Montréal pour faire face aux incertitudes mondiales.",
+      "c": "mondialisation",
+      "s": "The Guardian",
+      "f": null
+    },
+    {
+      "d": "2026-10-31",
+      "i": "e92f355aa124",
+      "t": "Christine Lagarde quitte la Banque centrale européenne : les deux visages d'une présidente sur le départ",
+      "r": "Christine Lagarde quittera la présidence de la Banque centrale européenne le 7 février 2027, soit neuf mois avant le terme officiel de son mandat.",
+      "c": "finance",
+      "s": "Alternatives Économiques",
+      "f": "inflation-bce"
+    },
+    {
+      "d": "2026-10-31",
+      "i": "f038c22f71a7",
+      "t": "Piratage de Binance : les questions sur « le casse du siècle » à 6 milliards de dollars de cryptos",
+      "r": "La plateforme de cryptomonnaies Binance a subi un piratage record avec le vol de plus de 6 milliards de dollars en vingt minutes.",
+      "c": "finance",
+      "s": "La Tribune",
+      "f": null
+    },
+    {
+      "d": "2026-10-31",
+      "i": "d6f468599e53",
+      "t": "Les valeurs technologiques américaines chutent fortement alors que les dépenses en IA s'approchent du millier de milliards de dollars",
+      "r": "Shares in Intel continue to fall while the tech-heavy Nasdaq opens at its lowest level in more than two months.",
+      "c": "finance",
+      "s": "BBC",
+      "f": "intelligence-artificielle"
+    },
+    {
+      "d": "2026-10-31",
+      "i": "c6608a9a5604",
+      "t": "Une vente massive de valeurs technologiques fait chuter les marchés américains de près de 1 000 milliards de dollars après des résultats mitigés",
+      "r": "Des résultats d'entreprises décevants ont entraîné une forte baisse des marchés américains, les investisseurs doutant de la rentabilité rapide des investissements dans l'IA.",
+      "c": "finance",
+      "s": "The Guardian",
+      "f": null
+    },
+    {
+      "d": "2026-10-31",
+      "i": "d73a5c3780fc",
+      "t": "Budget 2027 : les députés votent de nouvelles taxes sur les grandes entreprises et adoptent le « pacte Papin »",
+      "r": "Les députés ont voté des taxes sur les grandes entreprises et adopté le « pacte Papin » dans le cadre du budget 2027, contre l'avis du gouvernement.",
+      "c": "desequilibres",
+      "s": "Le Monde",
+      "f": "budget-2027"
+    },
+    {
+      "d": "2026-10-31",
+      "i": "a75c2db89db4",
+      "t": "France : la flambée de l'énergie fait grimper l'inflation au-delà des 3 %",
+      "r": "",
+      "c": "desequilibres",
+      "s": "Les Echos",
+      "f": "inflation-bce"
+    },
+    {
+      "d": "2026-10-31",
+      "i": "02229e917ffe",
+      "t": "Inflation à 3,4 % sur un an en octobre : que disent les chiffres en matière de régression du pouvoir d'achat ces dernières années ?",
+      "r": "L'inflation atteint 3,4 % sur un an en octobre en raison de la hausse des prix de l'énergie, pesant sur le pouvoir d'achat.",
+      "c": "desequilibres",
+      "s": "franceinfo",
+      "f": "inflation-bce"
+    },
+    {
+      "d": "2026-10-31",
+      "i": "c856b8f990c4",
+      "t": "Grand âge contre jeunesse : le faux dilemme qui nous coûtera cher",
+      "r": "Entre 2027 et 2032, la France verra croître nettement sa population de plus de 75 ans et le nombre d'entrées en Ehpad.",
+      "c": "desequilibres",
+      "s": "L'Opinion",
+      "f": "retraites"
+    },
+    {
+      "d": "2026-10-31",
+      "i": "1ff719e11d2b",
+      "t": "Sommet UE-Canada : \"jour historique\" à Montréal, les deux alliés font un pas de plus vers un rapprochement \"unique\"",
+      "r": "Les dirigeants européens et canadiens se sont réunis à Montréal pour renforcer leur coopération stratégique face à l'imprévisibilité américaine.",
+      "c": "ue",
+      "s": "Toute l'Europe",
+      "f": null
+    },
+    {
+      "d": "2026-10-31",
+      "i": "654fb2771602",
+      "t": "Accès des jeunes aux réseaux sociaux : la Commission européenne veut geler les nouvelles lois nationales, afin de négocier des règles communes à toute l’UE",
+      "r": "La Commission européenne souhaite geler les lois nationales pour négocier le Kids Act encadrant l'accès des jeunes aux réseaux sociaux.",
+      "c": "ue",
+      "s": "Le Monde",
+      "f": null
+    },
+    {
+      "d": "2026-10-31",
+      "i": "f46e5fb34958",
+      "t": "PAC : la France au combat pour éviter une baisse des aides européennes aux agriculteurs",
+      "r": "L'exécutif français tente de limiter l'érosion des crédits de la PAC alloués aux agriculteurs dans le cadre des négociations sur le budget de l'Union européenne.",
+      "c": "ue",
+      "s": "L'Opinion",
+      "f": "budget-ue"
+    },
+    {
+      "d": "2026-10-31",
+      "i": "c29bec99dec6",
+      "t": "Pologne : le chef de l’opposition conservatrice évoque une sortie de l’UE ; le Premier ministre proeuropéen s’y oppose",
+      "r": "En Pologne, l'opposition conservatrice évoque l'hypothèse d'une sortie de l'UE tandis que le Premier ministre proeuropéen s'y oppose.",
+      "c": "ue",
+      "s": "Toute l'Europe",
+      "f": null
+    },
+    {
+      "d": "2026-10-31",
+      "i": "f372f8a0c831",
+      "t": "Déjà à un niveau record, les faillites devraient repartir à la hausse",
+      "r": "Près de 19 000 entreprises pourraient faire faillite au quatrième trimestre 2026, fragilisées par la crise énergétique et la hausse des taux d'intérêt.",
+      "c": "entreprises",
+      "s": "Le Figaro",
+      "f": "conjoncture-france"
+    },
+    {
+      "d": "2026-10-31",
+      "i": "218ce872000d",
+      "t": "Pertes colossales, clients criminels, modèles toujours incontrôlables… Ces petits secrets honteux qu’Anthropic révèle dans 335 pages à destination des investisseurs",
+      "r": "L'entreprise Anthropic détaille dans un document financier les difficultés et incertitudes pesant sur sa rentabilité future.",
+      "c": "entreprises",
+      "s": "Le Figaro",
+      "f": "intelligence-artificielle"
+    },
+    {
+      "d": "2026-10-31",
+      "i": "cb48d34b5e6c",
+      "t": "Sanofi relève ses perspectives de croissance et grimpe en Bourse",
+      "r": "Sanofi relève ses perspectives de croissance après de solides ventes, notamment portées par le médicament Dupixent.",
+      "c": "entreprises",
+      "s": "Le Figaro",
+      "f": null
+    },
+    {
+      "d": "2026-10-31",
+      "i": "7b57808d9b1b",
+      "t": "Stellantis : la fermeture de l'usine de Douvrin, symbole du basculement vers l'électrique",
+      "r": "L'usine Stellantis de Douvrin ferme ses portes après 57 ans d'activité thermique, une partie des salariés étant transférée vers la production de batteries électriques.",
+      "c": "entreprises",
+      "s": "La Tribune",
+      "f": null
+    },
+    {
+      "d": "2026-10-31",
+      "i": "3f4fee8e9ce4",
+      "t": "La question éco : plus de 6 500 milliards d'euros d'épargne privée, la tentation de l'emprunt national",
+      "r": "Face à la dette publique, le Parlement évoque la possibilité de mobiliser l'épargne privée des Français via un emprunt national.",
+      "c": "epargne",
+      "s": "La Tribune",
+      "f": "fiscalite-epargne-patrimoine"
+    },
+    {
+      "d": "2026-10-31",
+      "i": "5f051e99c9be",
+      "t": "Défense, cybersécurité, énergie… Comment jouer la souveraineté en Bourse ?",
+      "r": "L'autonomie stratégique européenne s'impose comme un thème d'investissement majeur en Bourse, touchant la défense, la cybersécurité et l'énergie.",
+      "c": "epargne",
+      "s": "Le Figaro",
+      "f": null
+    },
+    {
+      "d": "2026-10-31",
+      "i": "77a6776836af",
+      "t": "Avoirs oubliés : l’État veut en prélever 17%, ce que les héritiers doivent savoir",
+      "r": "Le projet de budget 2027 prévoit de prélever 17% sur les avoirs oubliés confiés à la Caisse des dépôts.",
+      "c": "epargne",
+      "s": "Capital",
+      "f": "budget-2027"
+    },
+    {
+      "d": "2026-10-31",
+      "i": "7bf95f09d67b",
+      "t": "Le DCA est il toujours gagnant ?",
+      "r": "La technique d'investissement du DCA est présentée comme une bonne discipline d'épargne permettant de réduire les risques tout en continuant d'investir.",
+      "c": "epargne",
+      "s": "BFM Business",
+      "f": null
+    },
     {
       "d": "2026-10-30",
       "i": "86940beef10b",

@@ -1,6 +1,6 @@
 {
   "version_schema": 1,
-  "mis_a_jour_le": "2026-10-30T10:11:27+01:00",
+  "mis_a_jour_le": "2026-10-31T05:42:38+01:00",
   "fils": [
     {
       "id": "budget-2027",
@@ -11,8 +11,8 @@
       "categories": [
         "desequilibres"
       ],
-      "ou_en_est_on": "L'examen budgétaire met en évidence des tensions croissantes entre objectifs de rigueur et hausses de crédits, tandis que des personnalités politiques comme Michel exhortent le Premier ministre Sébastien Lecornu à recourir au 49.3 pour appliquer le projet du gouvernement. Alors que la commission des finances a voté 28 milliards d'euros de dépenses additionnelles, les partenaires sociaux disposent de six séances pour dégager un milliard d'économies sur les arrêts de travail d'ici décembre. L'exécutif cherche à préserver ses cibles de déficit face aux initiatives parlementaires dans un climat d'incertitude.",
-      "ou_en_est_on_maj_le": "2026-10-30",
+      "ou_en_est_on": "L'examen budgétaire met en évidence des tensions croissantes entre objectifs de rigueur et initiatives parlementaires, les députés ayant voté de nouvelles taxes sur les grandes entreprises et adopté le « pacte Papin » contre l'avis du gouvernement. Le projet de budget prévoit également de prélever 17 % sur les avoirs oubliés confiés à la Caisse des dépôts pour dégager des recettes. Alors que la commission des finances cherche des sources de financement, l'exécutif fait face à des pressions politiques l'exhortant à recourir au 49.3 pour faire adopter le texte.",
+      "ou_en_est_on_maj_le": "2026-10-31",
       "evenements": [
         {
           "date": "2026-10-17",
@@ -362,6 +362,22 @@
               "url": "https://www.franceinfo.fr/politique/budget-2027-il-faut-savoir-prendre-des-risques-estime-michel-barnier-qui-plaide-pour-un-49-3-du-premier-ministre-sebastien-lecornu_8260058.html#xtor=RSS-3-%5Bgeneral%5D"
             }
           ]
+        },
+        {
+          "date": "2026-10-31",
+          "resume": "Les députés ont voté de nouvelles taxes sur les grandes entreprises et adopté le pacte Papin, tandis que le projet de budget prévoit de prélever 17 % sur les avoirs oubliés de la Caisse des dépôts.",
+          "liens": [
+            {
+              "titre": "Budget 2027 : les députés votent de nouvelles taxes sur les grandes entreprises et adoptent le « pacte Papin »",
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/politique/article/2026/10/30/budget-2027-les-deputes-votent-de-nouvelles-taxes-sur-les-grandes-entreprises-et-adoptent-le-pacte-papin_6803105_823448.html"
+            },
+            {
+              "titre": "Avoirs oubliés : l’État veut en prélever 17%, ce que les héritiers doivent savoir",
+              "source": "Capital",
+              "url": "https://www.capital.fr/votre-argent/avoirs-oublies-letat-veut-en-prelever-17-ce-que-les-heritiers-doivent-savoir-1531315"
+            }
+          ]
         }
       ]
     },
@@ -375,8 +391,8 @@
         "desequilibres",
         "finance"
       ],
-      "ou_en_est_on": "L'agence Moody's a maintenu la note souveraine de la France à Aa3 malgré la dégradation de la trajectoire budgétaire, entraînant la plus forte baisse de l'écart entre les taux français et allemand depuis 2020. Ce répit sur les marchés, qui ramène le taux à 10 ans sous le seuil de 5 %, ne dissipe pas entièrement les interrogations des investisseurs sur la crédibilité des agences de notation et la pérennité de la charge de la dette.",
-      "ou_en_est_on_maj_le": "2026-10-27",
+      "ou_en_est_on": "L'agence de notation Fitch a abaissé la perspective de la dette française de stable à négative, pointant une détérioration de la situation budgétaire et des taux d'emprunt, ce qui vient tempérer le répit apporté précédemment par Moody's. Cette décision renforce les incertitudes sur la trajectoire des finances publiques et la crédibilité de la signature de la France auprès des investisseurs, dans un contexte où certains épargnants cherchent à placer des patrimoines hors de France.",
+      "ou_en_est_on_maj_le": "2026-10-31",
       "evenements": [
         {
           "date": "2026-10-19",
@@ -582,6 +598,17 @@
               "url": "https://www.lefigaro.fr/conjoncture/ces-quelques-signaux-positifs-sur-la-dette-francaise-au-milieu-de-la-spirale-de-defiance-des-investisseurs-20261028"
             }
           ]
+        },
+        {
+          "date": "2026-10-31",
+          "resume": "L'agence Fitch maintient la note de la dette souveraine de la France mais abaisse sa perspective de stable à négative en raison de la détérioration budgétaire.",
+          "liens": [
+            {
+              "titre": "L’agence Fitch maintient la note de la dette souveraine de la France mais dégrade sa perspective",
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/economie/article/2026/10/31/l-agence-fitch-maintient-la-note-de-la-dette-souveraine-de-la-france-mais-degrade-sa-perspective_6803235_3234.html"
+            }
+          ]
         }
       ]
     },
@@ -595,8 +622,8 @@
         "mondialisation",
         "desequilibres"
       ],
-      "ou_en_est_on": "Face à la flambée des cours énergétiques liée aux tensions au Moyen-Orient, une action coordonnée s'organise au niveau européen. Onze États membres de l'UE ont acté le déstockage de 42,6 millions de barils de pétrole, dont la moitié en gazole, la France fournissant 10 millions de barils. Bercy a donné l'ordre de libérer ces stocks afin d'obtenir une baisse immédiate à la pompe dès le début du mois de novembre, alors que les distributeurs devront afficher lisiblement ces répercussions tarifaires.",
-      "ou_en_est_on_maj_le": "2026-10-30",
+      "ou_en_est_on": "Face à la flambée des cours énergétiques et du fret maritime liée aux tensions au Moyen-Orient, une action coordonnée s'organise avec le déstockage de barils de pétrole par l'UE et la France. Dans ce contexte, TotalEnergies a annoncé une baisse du prix du gazole de 10 centimes dans ses stations dès le 31 octobre, tandis que la répercussion de ces mesures se met en place progressivement chez les différents distributeurs.",
+      "ou_en_est_on_maj_le": "2026-10-31",
       "evenements": [
         {
           "date": "2026-10-17",
@@ -774,6 +801,17 @@
               "url": "https://www.franceinfo.fr/economie/transports/prix-des-carburants/l-industrie-petroliere-gonfle-t-elle-les-prix-de-l-essence_8258597.html#xtor=RSS-3-%5Bgeneral%5D"
             }
           ]
+        },
+        {
+          "date": "2026-10-31",
+          "resume": "TotalEnergies annonce une baisse de 10 centimes du prix du gazole dans ses stations pour soulager les ménages, en lien avec la mobilisation des stocks stratégiques.",
+          "liens": [
+            {
+              "titre": "Le prix des carburants en baisse à partir du 31 octobre",
+              "source": "franceinfo",
+              "url": "https://www.franceinfo.fr/economie/transports/prix-des-carburants/le-prix-des-carburants-en-baisse-a-partir-du-31-octobre_8261039.html#xtor=RSS-3-%5Bgeneral%5D"
+            }
+          ]
         }
       ]
     },
@@ -787,8 +825,8 @@
         "finance",
         "desequilibres"
       ],
-      "ou_en_est_on": "La Banque centrale européenne a opté pour le statu quo monétaire en maintenant son principal taux directeur inchangé à 2,5 % pour contrer les tensions inflationnistes liées à l'énergie. L'institution fait également face à une transition institutionnelle majeure avec l'annonce du départ de Christine Lagarde au 7 février 2027, neuf mois avant le terme de son mandat. Cette démission anticipée ouvre la voie au processus de désignation de son successeur par les dirigeants européens dans un contexte de surveillance accrue des marchés de capitaux.",
-      "ou_en_est_on_maj_le": "2026-10-30",
+      "ou_en_est_on": "La Banque centrale européenne maintient son principal taux directeur à 2,5 % pour faire face aux tensions inflationnistes, alors que l'inflation en France rebondit à 3,4 % sur un an en octobre en raison de la hausse des prix de l'énergie. Par ailleurs, l'institution se prépare à une transition institutionnelle majeure suite à l'annonce du départ anticipé de sa présidente Christine Lagarde pour le 7 février 2027.",
+      "ou_en_est_on_maj_le": "2026-10-31",
       "evenements": [
         {
           "date": "2026-10-21",
@@ -871,6 +909,22 @@
               "titre": "A la BCE, Christine Lagarde annonce son départ et veut « s’engager sur des sujets qui ne sont pas des sujets de politique monétaire »",
               "source": "Le Monde",
               "url": "https://www.lemonde.fr/economie/article/2026/10/29/a-la-bce-christine-lagarde-annonce-son-depart-et-veut-s-engager-sur-des-sujets-qui-ne-sont-pas-des-sujets-de-politique-monetaire_6802379_3234.html"
+            }
+          ]
+        },
+        {
+          "date": "2026-10-31",
+          "resume": "L'inflation atteint 3,4 % sur un an en octobre en France en raison de la hausse des prix de l'énergie, tandis que Christine Lagarde quittera la BCE en février 2027.",
+          "liens": [
+            {
+              "titre": "Inflation à 3,4 % sur un an en octobre : que disent les chiffres en matière de régression du pouvoir d'achat ces dernières années ?",
+              "source": "franceinfo",
+              "url": "https://www.franceinfo.fr/economie/inflation/inflation-a-3-4-sur-un-an-en-octobre-que-disent-les-chiffres-en-matiere-de-regression-du-pouvoir-d-achat-ces-dernieres-annees_8261057.html#xtor=RSS-3-%5Bgeneral%5D"
+            },
+            {
+              "titre": "Christine Lagarde quitte la Banque centrale européenne : les deux visages d'une présidente sur le départ",
+              "source": "Alternatives Économiques",
+              "url": "https://www.alternatives-economiques.fr/christine-lagarde-quitte-la-banque-centrale-europeenne-les-deux-visages-d-une-presidente-sur-le_30"
             }
           ]
         }
@@ -1289,8 +1343,8 @@
         "desequilibres",
         "entreprises"
       ],
-      "ou_en_est_on": "L'activité économique française témoigne d'un essoufflement marqué avec un recul du PIB de 0,1 % au troisième trimestre 2026, tandis que l'inflation accélère à 3,4 % sur un an en octobre et que l'emploi salarié privé reste quasi stable. Les inscriptions à France Travail en catégorie A ont augmenté au troisième trimestre et le placement en redressement judiciaire du BHV illustre les difficultés persistantes du commerce de détail. Ces signaux s'accompagnent de craintes accrues pour les commerçants pénalisés par les mouvements de mobilisation et d'un attentisme marqué des petites entreprises.",
-      "ou_en_est_on_maj_le": "2026-10-30",
+      "ou_en_est_on": "L'activité économique française montre des signes de fragilité avec un recul du PIB au troisième trimestre, faisant planer le spectre d'une récession qui pèse lourdement sur les comptes publics. Les entreprises continuent de faire face à des difficultés accrues, le cabinet Altarès prévoyant près de 19 000 défaillances au quatrième trimestre 2026 dans un climat marqué par l'accélération de l'inflation à 3,4 % et des tensions sur l'emploi.",
+      "ou_en_est_on_maj_le": "2026-10-31",
       "evenements": [
         {
           "date": "2026-10-17",
@@ -1703,6 +1757,22 @@
               "titre": "La consommation des ménages en biens diminue de nouveau en septembre 2026 (-0,5 % après -0,5 %)",
               "source": "INSEE",
               "url": "https://www.insee.fr/fr/statistiques/9109722"
+            }
+          ]
+        },
+        {
+          "date": "2026-10-31",
+          "resume": "La croissance française négative sur deux des trois derniers trimestres fait planer le spectre d'une récession, tandis que les défaillances d'entreprises pourraient atteindre 19 000 au quatrième trimestre.",
+          "liens": [
+            {
+              "titre": "Croissance en berne et inflation en hausse : ce spectre de la récession qui plane sur la France",
+              "source": "Le Figaro",
+              "url": "https://www.lefigaro.fr/conjoncture/croissance-en-berne-et-inflation-en-hausse-ce-spectre-de-la-recession-qui-plane-sur-la-france-20261030"
+            },
+            {
+              "titre": "Déjà à un niveau record, les faillites devraient repartir à la hausse",
+              "source": "Le Figaro",
+              "url": "https://www.lefigaro.fr/societes/deja-a-un-niveau-record-les-faillites-devraient-repartir-a-la-hausse-20261030"
             }
           ]
         }
