@@ -1,6 +1,6 @@
 {
   "version_schema": 1,
-  "mis_a_jour_le": "2026-10-31T05:42:38+01:00",
+  "mis_a_jour_le": "2026-10-31T09:59:54+01:00",
   "fils": [
     {
       "id": "budget-2027",
@@ -804,12 +804,22 @@
         },
         {
           "date": "2026-10-31",
-          "resume": "TotalEnergies annonce une baisse de 10 centimes du prix du gazole dans ses stations pour soulager les ménages, en lien avec la mobilisation des stocks stratégiques.",
+          "resume": "Le gouvernement anticipe une baisse significative du prix du gazole à la pompe dès le 1er novembre, dont l'application devrait toutefois varier selon les distributeurs.",
           "liens": [
             {
               "titre": "Le prix des carburants en baisse à partir du 31 octobre",
               "source": "franceinfo",
               "url": "https://www.franceinfo.fr/economie/transports/prix-des-carburants/le-prix-des-carburants-en-baisse-a-partir-du-31-octobre_8261039.html#xtor=RSS-3-%5Bgeneral%5D"
+            },
+            {
+              "titre": "Baisse du prix du diesel, nouvelle hausse de celui du gaz, revalorisation des retraites complémentaires, frais de traitement pour les petits colis... Tout ce qui change ce 1er novembre",
+              "source": "BFM Business",
+              "url": "https://www.bfmtv.com/economie/entreprises/energie/baisse-du-prix-du-diesel-nouvelle-hausse-de-celui-du-gaz-revalorisation-des-retraites-complementaires-frais-de-traitement-pour-les-petits-colis-tout-ce-qui-change-ce-1er-novembre_AV-202610310055.html"
+            },
+            {
+              "titre": "Course contre la montre et casse-tête logistique pour faire baisser le prix du gazole à la pompe",
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/economie/article/2026/10/31/course-contre-la-montre-et-casse-tete-logistique-pour-faire-baisser-le-prix-du-gazole-a-la-pompe_6803469_3234.html"
             }
           ]
         }
@@ -1762,7 +1772,7 @@
         },
         {
           "date": "2026-10-31",
-          "resume": "La croissance française négative sur deux des trois derniers trimestres fait planer le spectre d'une récession, tandis que les défaillances d'entreprises pourraient atteindre 19 000 au quatrième trimestre.",
+          "resume": "Plusieurs changements entrent en vigueur au 1er novembre, notamment concernant les prix des carburants et du gaz, tandis que les salaires et la structure des rémunérations font l'objet de débats et d'analyses sectorielles.",
           "liens": [
             {
               "titre": "Croissance en berne et inflation en hausse : ce spectre de la récession qui plane sur la France",
@@ -1773,6 +1783,21 @@
               "titre": "Déjà à un niveau record, les faillites devraient repartir à la hausse",
               "source": "Le Figaro",
               "url": "https://www.lefigaro.fr/societes/deja-a-un-niveau-record-les-faillites-devraient-repartir-a-la-hausse-20261030"
+            },
+            {
+              "titre": "Cent balles avant mars : pourquoi il faut augmenter dès maintenant tous les salaires de 100 euros",
+              "source": "Alternatives Économiques",
+              "url": "https://www.alternatives-economiques.fr/cent-balles-avant-mars-pourquoi-il-faut-augmenter-des-maintenant-tous-les-salaires-de-100-euros_31"
+            },
+            {
+              "titre": "Baisse du prix du diesel, nouvelle hausse de celui du gaz, revalorisation des retraites complémentaires, frais de traitement pour les petits colis... Tout ce qui change ce 1er novembre",
+              "source": "BFM Business",
+              "url": "https://www.bfmtv.com/economie/entreprises/energie/baisse-du-prix-du-diesel-nouvelle-hausse-de-celui-du-gaz-revalorisation-des-retraites-complementaires-frais-de-traitement-pour-les-petits-colis-tout-ce-qui-change-ce-1er-novembre_AV-202610310055.html"
+            },
+            {
+              "titre": "Cybersécurité, aéronautique, logistique... Ces secteurs où les salaires augmentent",
+              "source": "BFM Business",
+              "url": "https://www.bfmtv.com/economie/video-cybersecurite-aeronautique-logistique-ces-secteurs-ou-les-salaires-augmentent_VN-202610310121.html"
             }
           ]
         }

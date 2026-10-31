@@ -1,6 +1,6 @@
 {
   "version_schema": 1,
-  "mis_a_jour_le": "2026-10-31T05:42:19+01:00",
+  "mis_a_jour_le": "2026-10-31T09:57:23+01:00",
   "entrees": [
     {
       "d": "2026-10-31",
@@ -85,6 +85,15 @@
     },
     {
       "d": "2026-10-31",
+      "i": "b465353f4923",
+      "t": "Adrien Bilal, Prix du meilleur jeune économiste 2026 : « La croissance n’est pas l’adversaire de la politique climatique, c’est même l’inverse »",
+      "r": "Le réchauffement climatique pèse sur la croissance et les marges budgétaires, mais réduire les émissions reste rentable selon le prix du meilleur jeune économiste 2026.",
+      "c": "croissance",
+      "s": "Le Monde",
+      "f": null
+    },
+    {
+      "d": "2026-10-31",
       "i": "ab4117d9f0bd",
       "t": "Trump a promis de baisser les prix, mais ses politiques ont alimenté l'inflation américaine",
       "r": "Malgré les promesses de Donald Trump de réduire les prix, les économistes soulignent que ses politiques de droits de douane ont alimenté l'inflation aux États-Unis.",
@@ -157,6 +166,15 @@
     },
     {
       "d": "2026-10-31",
+      "i": "0e79a11632fa",
+      "t": "Schneider Electric finira-t-il par profiter en Bourse du rachat de PTC ? Faut-il investir sur l’action ?",
+      "r": "Schneider Electric présente une activité solide, mais son acquisition de PTC à un prix élevé suscite des interrogations sur son potentiel en Bourse.",
+      "c": "finance",
+      "s": "Capital",
+      "f": null
+    },
+    {
+      "d": "2026-10-31",
       "i": "d73a5c3780fc",
       "t": "Budget 2027 : les députés votent de nouvelles taxes sur les grandes entreprises et adoptent le « pacte Papin »",
       "r": "Les députés ont voté des taxes sur les grandes entreprises et adopté le « pacte Papin » dans le cadre du budget 2027, contre l'avis du gouvernement.",
@@ -190,6 +208,15 @@
       "c": "desequilibres",
       "s": "L'Opinion",
       "f": "retraites"
+    },
+    {
+      "d": "2026-10-31",
+      "i": "52f524aaa36f",
+      "t": "Course contre la montre et casse-tête logistique pour faire baisser le prix du gazole à la pompe",
+      "r": "Le gouvernement anticipe une baisse significative du prix du gazole à la pompe, dont l'application devrait varier selon les distributeurs.",
+      "c": "desequilibres",
+      "s": "Le Monde",
+      "f": null
     },
     {
       "d": "2026-10-31",
@@ -265,6 +292,15 @@
     },
     {
       "d": "2026-10-31",
+      "i": "0528ada04926",
+      "t": "Le grand hold-up : comment les géants de l’IA rançonnent l’économie",
+      "r": "Quelques géants technologiques verrouillent le marché de l'intelligence artificielle et risquent de s'accaparer les gains de productivité de l'économie.",
+      "c": "entreprises",
+      "s": "Alternatives Économiques",
+      "f": "intelligence-artificielle"
+    },
+    {
+      "d": "2026-10-31",
       "i": "3f4fee8e9ce4",
       "t": "La question éco : plus de 6 500 milliards d'euros d'épargne privée, la tentation de l'emprunt national",
       "r": "Face à la dette publique, le Parlement évoque la possibilité de mobiliser l'épargne privée des Français via un emprunt national.",
@@ -297,6 +333,15 @@
       "r": "La technique d'investissement du DCA est présentée comme une bonne discipline d'épargne permettant de réduire les risques tout en continuant d'investir.",
       "c": "epargne",
       "s": "BFM Business",
+      "f": null
+    },
+    {
+      "d": "2026-10-31",
+      "i": "92085c483289",
+      "t": "Budget 2026 : comment battre les nouveaux taux d'imposition de l'épargne",
+      "r": "Le budget présenté comporte des hausses de fiscalité pour les épargnants, tout en maintenant certains dispositifs d'épargne.",
+      "c": "epargne",
+      "s": "The Guardian",
       "f": null
     },
     {
