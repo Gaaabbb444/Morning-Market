@@ -2,6 +2,22 @@
   "version_schema": 1,
   "recaps": [
     {
+      "fichier": "recaps/semaine-2026-W44.json",
+      "type": "semaine",
+      "periode": "2026-W44",
+      "libelle": "Semaine du 26 octobre au 1 novembre 2026",
+      "du": "2026-10-26",
+      "au": "2026-11-01"
+    },
+    {
+      "fichier": "recaps/mois-2026-10.json",
+      "type": "mois",
+      "periode": "2026-10",
+      "libelle": "Octobre 2026",
+      "du": "2026-10-01",
+      "au": "2026-10-31"
+    },
+    {
       "fichier": "recaps/semaine-2026-W43.json",
       "type": "semaine",
       "periode": "2026-W43",

@@ -1,6 +1,128 @@
 {
   "version_schema": 1,
   "notions": {
+    "pouvoir-d-achat": [
+      {
+        "date": "2026-11-01",
+        "id": "15b4255dffb6",
+        "titre": "Carburants : les prix du gazole doivent baisser à partir de ce week-end",
+        "source": "Le Figaro",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-10-27",
+        "id": "fa1814b3d302",
+        "titre": "Pouvoir d'achat : les salariés au SMIC réclament une hausse plus importante",
+        "source": "franceinfo",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-10-26",
+        "id": "81d3a09a1c1c",
+        "titre": "\"On le dit, on continuera\" : une mobilisation sociale partie pour s'ancrer dans la durée ?",
+        "source": "franceinfo",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-10-25",
+        "id": "3cf1e8c28e56",
+        "titre": "12 à 18 centimes de moins par litre : les stocks de gazole libérés pourraient faire baisser les prix dès le 1er novembre",
+        "source": "BFM Business",
+        "contexte": "Top 5 du jour"
+      }
+    ],
+    "inflation": [
+      {
+        "date": "2026-11-01",
+        "id": "113caf33f837",
+        "titre": "« Il ne faut pas renoncer, sinon, c’est la fin de la démocratie » : malgré des cortèges moins fournis, la jeunesse mobilisée",
+        "source": "La Tribune",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-10-31",
+        "id": "34d8bdd7b6b9",
+        "titre": "L'Insee prévoit une inflation à 3,4% sur un an en octobre, au plus haut depuis janvier 2024",
+        "source": "franceinfo",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-10-27",
+        "id": "1fc158ac434d",
+        "titre": "European gas prices soar to four-year high over winter supply fears",
+        "source": "The Guardian",
+        "contexte": "Top 5 du jour"
+      }
+    ],
+    "chaine-de-valeur-mondiale": [
+      {
+        "date": "2026-11-01",
+        "id": "274d3e22af88",
+        "titre": "La stabilité économique mondiale à nouveau menacée par une possible escalade entre les Etats-Unis et l'Iran",
+        "source": "La Tribune",
+        "contexte": "Top 5 du jour"
+      }
+    ],
+    "politique-budgetaire": [
+      {
+        "date": "2026-11-01",
+        "id": "e711d3ac219c",
+        "titre": "Livret A : une hausse du plafond à 30 000 euros envisagée pour financer les travaux dans les lycées",
+        "source": "franceinfo",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-10-29",
+        "id": "e6ca90b1ae20",
+        "titre": "\"Plus on fait d’enfants, plus l’État est présent\": Giorgia Meloni dévoile un budget axé sur la natalité et la défense, financé en partie en taxant les banques et les assurances",
+        "source": "BFM Business",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-10-27",
+        "id": "e1f84d25dee5",
+        "titre": "Où en sont les débats sur le PLF et le PLFSS 2027 ? Suivez les étapes de l'examen du budget à l'Assemblée et au Sénat",
+        "source": "franceinfo",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-10-25",
+        "id": "b74c30856b74",
+        "titre": "Healey’s first budget to include big devolution package to boost growth",
+        "source": "The Guardian",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-10-24",
+        "id": "7f6fcbdcfae8",
+        "titre": "PLFSS 2027 : à l’Assemblée, le budget de la Sécurité sociale rejeté après une saignée de 12 milliards d’euros",
+        "source": "Capital",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-10-20",
+        "id": "bc5dc2cd9f4f",
+        "titre": "Les députés ont déjà fait dérailler la trajectoire de réduction du déficit de la Sécurité sociale avant même le début des débats dans l’hémicycle sur le budget de la Sécu",
+        "source": "BFM Business",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-10-19",
+        "id": "6825d2c17a9c",
+        "titre": "Retraite, santé : la protection sociale, principal poste de dépenses de l’État",
+        "source": "Le Figaro",
+        "contexte": "Top 5 du jour"
+      }
+    ],
+    "retraite-par-capitalisation": [
+      {
+        "date": "2026-11-01",
+        "id": "29955208af0b",
+        "titre": "\"Ça a été une bombe pour moi, je me suis senti volé\": l'effondrement des fonds de pension après un pari financier raté inflige de lourdes pertes à des milliers de retraités chiliens qui pensaient avoir choisi le placement le moins risqué",
+        "source": "BFM Business",
+        "contexte": "Top 5 du jour"
+      }
+    ],
     "notation-souveraine": [
       {
         "date": "2026-10-31",
@@ -23,22 +145,6 @@
         "id": "c56abd8110ec",
         "titre": "La Bourse de New York saisie d’effroi, à la veille d’Halloween",
         "source": "Le Monde",
-        "contexte": "Top 5 du jour"
-      }
-    ],
-    "inflation": [
-      {
-        "date": "2026-10-31",
-        "id": "34d8bdd7b6b9",
-        "titre": "L'Insee prévoit une inflation à 3,4% sur un an en octobre, au plus haut depuis janvier 2024",
-        "source": "franceinfo",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-10-27",
-        "id": "1fc158ac434d",
-        "titre": "European gas prices soar to four-year high over winter supply fears",
-        "source": "The Guardian",
         "contexte": "Top 5 du jour"
       }
     ],
@@ -170,50 +276,6 @@
         "contexte": "Top 5 du jour"
       }
     ],
-    "politique-budgetaire": [
-      {
-        "date": "2026-10-29",
-        "id": "e6ca90b1ae20",
-        "titre": "\"Plus on fait d’enfants, plus l’État est présent\": Giorgia Meloni dévoile un budget axé sur la natalité et la défense, financé en partie en taxant les banques et les assurances",
-        "source": "BFM Business",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-10-27",
-        "id": "e1f84d25dee5",
-        "titre": "Où en sont les débats sur le PLF et le PLFSS 2027 ? Suivez les étapes de l'examen du budget à l'Assemblée et au Sénat",
-        "source": "franceinfo",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-10-25",
-        "id": "b74c30856b74",
-        "titre": "Healey’s first budget to include big devolution package to boost growth",
-        "source": "The Guardian",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-10-24",
-        "id": "7f6fcbdcfae8",
-        "titre": "PLFSS 2027 : à l’Assemblée, le budget de la Sécurité sociale rejeté après une saignée de 12 milliards d’euros",
-        "source": "Capital",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-10-20",
-        "id": "bc5dc2cd9f4f",
-        "titre": "Les députés ont déjà fait dérailler la trajectoire de réduction du déficit de la Sécurité sociale avant même le début des débats dans l’hémicycle sur le budget de la Sécu",
-        "source": "BFM Business",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-10-19",
-        "id": "6825d2c17a9c",
-        "titre": "Retraite, santé : la protection sociale, principal poste de dépenses de l’État",
-        "source": "Le Figaro",
-        "contexte": "Top 5 du jour"
-      }
-    ],
     "protectionnisme": [
       {
         "date": "2026-10-29",
@@ -330,29 +392,6 @@
         "id": "a88d5a773650",
         "titre": "IA : la bulle s'effondre en Chine, 480 milliards de dollars déjà partis en fumée",
         "source": "La Tribune",
-        "contexte": "Top 5 du jour"
-      }
-    ],
-    "pouvoir-d-achat": [
-      {
-        "date": "2026-10-27",
-        "id": "fa1814b3d302",
-        "titre": "Pouvoir d'achat : les salariés au SMIC réclament une hausse plus importante",
-        "source": "franceinfo",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-10-26",
-        "id": "81d3a09a1c1c",
-        "titre": "\"On le dit, on continuera\" : une mobilisation sociale partie pour s'ancrer dans la durée ?",
-        "source": "franceinfo",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-10-25",
-        "id": "3cf1e8c28e56",
-        "titre": "12 à 18 centimes de moins par litre : les stocks de gazole libérés pourraient faire baisser les prix dès le 1er novembre",
-        "source": "BFM Business",
         "contexte": "Top 5 du jour"
       }
     ],

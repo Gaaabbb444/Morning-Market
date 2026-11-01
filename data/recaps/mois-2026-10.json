@@ -1,0 +1,149 @@
+{
+  "version_schema": 1,
+  "type": "mois",
+  "periode": "2026-10",
+  "libelle": "Octobre 2026",
+  "du": "2026-10-01",
+  "au": "2026-10-31",
+  "genere_le": "2026-11-01T05:50:54+01:00",
+  "accroche": "Inflation à 3,4 %, taux souverains français au-dessus de 5 %, suspension des sanctions russes sur le pétrole, accord automobile franco-allemand",
+  "synthese": "Le mois d'octobre 2026 est marqué par de fortes tensions sur les marchés obligataires souverains français, où les taux d'emprunt à dix ans ont franchi le seuil des 5 % en raison de l'instabilité politique, du rejet de mesures d'économies budgétaires par le Parlement et de l'ampleur des déficits publics. Sur le plan énergétique, les cours du brut et du gaz naturel ont flambé sous l'effet des conflits géopolitiques dans le détroit d'Ormuz, poussant Donald Trump à suspendre temporairement les sanctions sur les hydrocarbures russes pour soulager les consommateurs américains. En Europe, l'inflation rebondit, amenant la Banque centrale européenne à maintenir ses taux directeurs inchangés tandis que les gouvernements peinent à concilier transition climatique et contraintes budgétaires. Enfin, la conjoncture française pâtit d'une croissance atone, d'une hausse du chômage et de mouvements sociaux d'ampleur liés à la vie chère, malgré le maintien sous conditions de la note souveraine par les agences de notation.",
+  "faits_marquants": [
+    {
+      "date": "2026-10-17",
+      "titre": "Budget de la Sécu 2027 : en commission, les députés font exploser le déficit à plus de 21 milliards d’euros",
+      "titre_fr": null,
+      "source": "Capital",
+      "url": "https://www.capital.fr/economie-politique/budget-de-la-secu-2027-en-commission-les-deputes-font-exploser-le-deficit-a-plus-de-21-milliards-deuros-1531056",
+      "categorie": "desequilibres",
+      "fil_rouge": "budget-2027",
+      "article_id": "d83268752359",
+      "a_retenir": "Le rejet des mesures d'économies par les députés en commission illustre la difficulté pour l'exécutif de tenir sa trajectoire de réduction des déficits publics."
+    },
+    {
+      "date": "2026-10-18",
+      "titre": "\"Nous on se pose la question de freiner...\": l'IA génère déjà un tiers de la croissance américaine, presque rien en France: pourquoi les milliards investis dans les data centers ne rapportent pas encore",
+      "titre_fr": null,
+      "source": "BFM Business",
+      "url": "https://www.bfmtv.com/economie/economie-social/france/nous-on-se-pose-la-question-de-freiner-l-ia-genere-deja-un-tiers-de-la-croissance-americaine-presque-rien-en-france-pourquoi-les-milliards-investis-dans-les-data-centers-ne-rapportent-pas-encore_AV-202610180122.html",
+      "categorie": "croissance",
+      "fil_rouge": "intelligence-artificielle",
+      "article_id": "11308ac14c50",
+      "a_retenir": "Le contraste entre les investissements massifs dans l'intelligence artificielle et leurs retombées limitées sur la croissance européenne interroge sur la productivité de cette nouvelle technologie."
+    },
+    {
+      "date": "2026-10-21",
+      "titre": "La tension sur la dette s'accentue: à 1,53 point, l'écart entre les taux français et allemand à dix ans atteint son plus haut niveau en clôture depuis 2011",
+      "titre_fr": null,
+      "source": "BFM Business",
+      "url": "https://www.bfmtv.com/economie/economie-social/finances-publiques/la-tension-sur-la-dette-s-accentue-a-1-53-point-l-ecart-entre-les-taux-francais-et-allemand-a-dix-ans-atteint-son-plus-haut-niveau-en-cloture-depuis-2011_AD-202610200723.html",
+      "categorie": "finance",
+      "fil_rouge": "dette-marches",
+      "article_id": "b897800edbe2",
+      "a_retenir": "L'élargissement du spread entre la France et l'Allemagne à son plus haut niveau depuis 2011 traduit la sanction des marchés face au risque budgétaire souverain."
+    },
+    {
+      "date": "2026-10-22",
+      "titre": "Un nouveau seuil inquiétant vient d'être franchi: la France emprunte désormais plus cher que les États-Unis malgré leurs déficits abyssaux et ce n'était plus arrivé depuis 2013",
+      "titre_fr": null,
+      "source": "BFM Business",
+      "url": "https://www.bfmtv.com/economie/un-nouveau-seuil-inquietant-vient-d-etre-franchi-la-france-emprunte-plus-cher-que-les-etats-unis-malgre-leurs-deficits-abyssaux-et-ce-n-etait-plus-arrive-depuis-2013_AV-202610220353.html",
+      "categorie": "desequilibres",
+      "fil_rouge": "dette-marches",
+      "article_id": "c2e204903593",
+      "a_retenir": "Le dépassement du taux d'emprunt américain par le rendement souverain français illustre la prime de risque inédite exigée par les investisseurs internationaux."
+    },
+    {
+      "date": "2026-10-23",
+      "titre": "Taux d’intérêt au-delà des 5 % : une hausse qui sanctionne un débat budgétaire enlisé",
+      "titre_fr": null,
+      "source": "Le Monde",
+      "url": "https://www.lemonde.fr/idees/article/2026/10/22/taux-d-interet-au-dela-des-5-une-hausse-qui-sanctionne-un-debat-budgetaire-enlise_6798598_3232.html",
+      "categorie": "desequilibres",
+      "fil_rouge": "dette-marches",
+      "article_id": "7608def25ec1",
+      "a_retenir": "Le franchissement du seuil des 5 % sur les obligations à dix ans matérialise le coût direct de l'enlisement du débat budgétaire sur la charge de la dette."
+    },
+    {
+      "date": "2026-10-24",
+      "titre": "PLFSS 2027 : à l’Assemblée, le budget de la Sécurité sociale rejeté après une saignée de 12 milliards d’euros",
+      "titre_fr": null,
+      "source": "Capital",
+      "url": "https://www.capital.fr/economie-politique/plfss-2027-a-lassemblee-le-budget-de-la-securite-sociale-rejete-apres-une-saignee-de-12-milliards-deuros-1531225",
+      "categorie": "desequilibres",
+      "fil_rouge": "budget-2027",
+      "article_id": "7f6fcbdcfae8",
+      "a_retenir": "Le rejet du volet recettes du PLFSS par l'Assemblée nationale met en lumière le blocage institutionnel autour du financement de la protection sociale."
+    },
+    {
+      "date": "2026-10-27",
+      "titre": "\"La décision de Moody's tempère un peu les inquiétudes\": l’écart entre les taux français et allemand enregistre son plus fort repli depuis 2020",
+      "titre_fr": null,
+      "source": "BFM Business",
+      "url": "https://www.bfmtv.com/economie/economie-social/finances-publiques/la-decision-de-moody-s-tempere-un-peu-les-inquietudes-l-ecart-entre-les-taux-francais-et-allemand-enregistre-son-plus-fort-repli-depuis-2020_AV-202610260815.html",
+      "categorie": "finance",
+      "fil_rouge": "dette-marches",
+      "article_id": "67bf5d1d806c",
+      "a_retenir": "Le maintien de la note souveraine par les agences de notation permet une détente temporaire de l'écart de taux sur le marché obligataire."
+    },
+    {
+      "date": "2026-10-29",
+      "titre": "La Réserve fédérale américaine choisit d’attendre avant de relever de nouveau ses taux, malgré l’inflation",
+      "titre_fr": null,
+      "source": "Le Monde",
+      "url": "https://www.lemonde.fr/economie/article/2026/10/28/la-reserve-federale-americaine-choisit-d-attendre-avant-de-relever-de-nouveau-ses-taux-malgre-l-inflation_6801642_3234.html",
+      "categorie": "finance",
+      "fil_rouge": "inflation-bce",
+      "article_id": "8130eddc625c",
+      "a_retenir": "Le maintien des taux directeurs par la Réserve fédérale américaine témoigne de la persistance des pressions inflationnistes malgré le resserrement monétaire passé."
+    },
+    {
+      "date": "2026-10-30",
+      "titre": "La BCE maintient son principal taux directeur inchangé, à 2,5%",
+      "titre_fr": null,
+      "source": "Le Figaro",
+      "url": "https://www.lefigaro.fr/conjoncture/la-bce-maintient-son-principal-taux-directeur-inchange-a-2-5-20261029",
+      "categorie": "finance",
+      "fil_rouge": "inflation-bce",
+      "article_id": "7bd3c0d5e104",
+      "a_retenir": "La décision de la BCE de stabiliser son principal taux directeur illustre l'attentisme des autorités monétaires face à des chocs d'offre exogènes."
+    },
+    {
+      "date": "2026-10-31",
+      "titre": "L’agence Fitch maintient la note de la dette souveraine de la France mais dégrade sa perspective",
+      "titre_fr": null,
+      "source": "Le Monde",
+      "url": "https://www.lemonde.fr/economie/article/2026/10/31/l-agence-fitch-maintient-la-note-de-la-dette-souveraine-de-la-france-mais-degrade-sa-perspective_6803235_3234.html",
+      "categorie": "desequilibres",
+      "fil_rouge": "dette-marches",
+      "article_id": "558c3360d143",
+      "a_retenir": null
+    }
+  ],
+  "fils_rouges": [
+    {
+      "id": "budget-2027",
+      "evolution": "Les débats parlementaires sur les budgets de l'État et de la Sécurité sociale ont été marqués par des rejets en série de mesures d'économies et le gonflement des déficits."
+    },
+    {
+      "id": "dette-marches",
+      "evolution": "La défiance des marchés a entraîné une envolée des taux d'intérêt français au-delà de 5 % et un élargissement historique du spread avec l'Allemagne."
+    },
+    {
+      "id": "choc-petrolier-ormuz",
+      "evolution": "Les attaques dans le détroit d'Ormuz ont provoqué une forte tension sur les cours du brut et du gaz naturel, ravivant les pressions inflationnistes."
+    },
+    {
+      "id": "inflation-bce",
+      "evolution": "Face au rebond de l'inflation porté par l'énergie, les banques centrales comme la BCE et la Fed ont choisi le statu quo sur leurs taux directeurs."
+    },
+    {
+      "id": "ukraine-sanctions",
+      "evolution": "Les sanctions ont connu un aménagement tactique avec leur suspension partielle par Washington pour tenter de juguler les prix des carburants."
+    },
+    {
+      "id": "conjoncture-france",
+      "evolution": "La conjoncture française s'est dégradée, combinant croissance en berne, hausse du chômage, tensions sur le pouvoir d'achat et mouvements sociaux."
+    }
+  ]
+}

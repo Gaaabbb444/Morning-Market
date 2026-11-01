@@ -1,0 +1,90 @@
+{
+  "version_schema": 1,
+  "type": "semaine",
+  "periode": "2026-W44",
+  "libelle": "Semaine du 26 octobre au 1 novembre 2026",
+  "du": "2026-10-26",
+  "au": "2026-11-01",
+  "genere_le": "2026-11-01T05:50:37+01:00",
+  "accroche": "Chômage à 8,3 %, gaz européen à son plus haut depuis 2022, PIB français en recul, Fitch dégrade la perspective, Binance piraté",
+  "synthese": "La semaine a été marquée par une détérioration de la conjoncture française : le chômage atteint son plus haut niveau, tandis que les manifestations liées au pouvoir d’achat se multiplient. Sur le plan énergétique, les prix du gaz en Europe ont culminé, reflétant les tensions d’approvisionnement au Moyen‑Orient. Les marchés financiers restent sous pression, le CAC 40 dans le rouge et la note souveraine française maintenue mais avec une perspective négative. Du côté monétaire, la Fed et la BCE ont choisi de laisser leurs taux inchangés, alors que l’inflation française devrait remonter à 3,4 %. Enfin, le secteur des cryptomonnaies a connu un choc majeur avec le piratage de Binance, illustrant les risques de cybersécurité dans la finance digitale.",
+  "faits_marquants": [
+    {
+      "date": "2026-10-26",
+      "titre": "Malgré un taux de chômage au plus haut, \"44% des entreprises ont des difficultés de recrutement\", constate le directeur général de France Travail",
+      "titre_fr": null,
+      "source": "BFM Business",
+      "url": "https://www.bfmtv.com/economie/emploi/malgre-un-taux-de-chomage-au-plus-haut-44-des-entreprises-ont-des-difficultes-de-recrutement-constate-le-directeur-general-de-france-travail_AV-202610250140.html",
+      "categorie": "desequilibres",
+      "fil_rouge": "conjoncture-france",
+      "article_id": "aefc29f5f987",
+      "a_retenir": "Le chômage à 8,3 % indique une faiblesse du marché du travail, facteur clé pour les politiques d’emploi."
+    },
+    {
+      "date": "2026-10-27",
+      "titre": "European gas prices soar to four-year high over winter supply fears",
+      "titre_fr": "Les prix du gaz en Europe atteignent un pic de quatre ans en raison des craintes sur l'approvisionnement hivernal",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/oct/26/european-gas-prices-four-year-high-winter-supply-fears-middle-east",
+      "categorie": "mondialisation",
+      "fil_rouge": null,
+      "article_id": "1fc158ac434d",
+      "a_retenir": "Le pic du gaz européen montre la sensibilité de l’inflation aux chocs d’approvisionnement énergétique."
+    },
+    {
+      "date": "2026-10-28",
+      "titre": "Dette, inflation, intelligence artificielle… La Fed et la BCE sous la pression des marchés",
+      "titre_fr": null,
+      "source": "Le Figaro",
+      "url": "https://www.lefigaro.fr/conjoncture/dette-inflation-intelligence-artificielle-la-fed-et-la-bce-sous-la-pression-des-marches-20261027",
+      "categorie": "finance",
+      "fil_rouge": "inflation-bce",
+      "article_id": "ef519bbf46f9",
+      "a_retenir": "Le maintien des taux par la Fed et la BCE souligne la tension entre inflation persistante et stabilité financière."
+    },
+    {
+      "date": "2026-10-30",
+      "titre": "Le PIB recule légèrement au troisième trimestre 2026 (-0,1 % après 0,0 %)",
+      "titre_fr": null,
+      "source": "INSEE",
+      "url": "https://www.insee.fr/fr/statistiques/9111036",
+      "categorie": "croissance",
+      "fil_rouge": "conjoncture-france",
+      "article_id": "86940beef10b",
+      "a_retenir": "Le recul du PIB à -0,1 % signale un ralentissement de la croissance française au troisième trimestre."
+    },
+    {
+      "date": "2026-10-31",
+      "titre": "L’agence Fitch maintient la note de la dette souveraine de la France mais dégrade sa perspective",
+      "titre_fr": null,
+      "source": "Le Monde",
+      "url": "https://www.lemonde.fr/economie/article/2026/10/31/l-agence-fitch-maintient-la-note-de-la-dette-souveraine-de-la-france-mais-degrade-sa-perspective_6803235_3234.html",
+      "categorie": "desequilibres",
+      "fil_rouge": "dette-marches",
+      "article_id": "558c3360d143",
+      "a_retenir": "Fitch dégrade la perspective de la dette française, ce qui peut affecter le coût du financement public."
+    }
+  ],
+  "fils_rouges": [
+    {
+      "id": "budget-2027",
+      "evolution": "Le débat budgétaire s’intensifie : l’objectif de déficit à 5 % jugé intangible, puis le vote de 28 milliards d’euros de dépenses supplémentaires."
+    },
+    {
+      "id": "dette-marches",
+      "evolution": "La perspective de la dette souveraine passe de stable à négative, reflétant les inquiétudes des investisseurs."
+    },
+    {
+      "id": "inflation-bce",
+      "evolution": "La BCE maintient son taux directeur à 2,5 % tandis que l’inflation française devrait atteindre 3,4 %."
+    },
+    {
+      "id": "conjoncture-france",
+      "evolution": "Le chômage augmente, le PIB recule et les manifestations sociales se multiplient, indiquant une conjoncture fragile."
+    },
+    {
+      "id": "choc-petrolier-ormuz",
+      "evolution": "Les prix du gazole commencent à baisser en France, suite aux mesures gouvernementales visant à atténuer le choc pétrolier."
+    }
+  ]
+}

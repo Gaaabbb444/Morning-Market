@@ -1,7 +1,241 @@
 {
   "version_schema": 1,
-  "mis_a_jour_le": "2026-10-31T09:57:23+01:00",
+  "mis_a_jour_le": "2026-11-01T05:50:08+01:00",
   "entrees": [
+    {
+      "d": "2026-11-01",
+      "i": "15b4255dffb6",
+      "t": "Carburants : les prix du gazole doivent baisser à partir de ce week-end",
+      "r": "Le gouvernement espère une baisse des prix du gazole de 12 à 18 centimes par litre dès dimanche. TotalEnergies et E. Leclerc ont annoncé des baisses de prix, cette dernière atteignant 21 centimes par litre.",
+      "c": "desequilibres",
+      "s": "Le Figaro",
+      "f": "choc-petrolier-ormuz"
+    },
+    {
+      "d": "2026-11-01",
+      "i": "113caf33f837",
+      "t": "« Il ne faut pas renoncer, sinon, c’est la fin de la démocratie » : malgré des cortèges moins fournis, la jeunesse mobilisée",
+      "r": "Des manifestants, dont au moins 300 000 personnes au total et 70 000 à Paris, ont défilé malgré une mobilisation en recul pour protester contre la vie chère.",
+      "c": "desequilibres",
+      "s": "La Tribune",
+      "f": null
+    },
+    {
+      "d": "2026-11-01",
+      "i": "274d3e22af88",
+      "t": "La stabilité économique mondiale à nouveau menacée par une possible escalade entre les Etats-Unis et l'Iran",
+      "r": "Des efforts de médiation sont menés par le Qatar et le Pakistan pour relancer des négociations entre les États-Unis et l'Iran, tandis que Téhéran réagit aux menaces américaines et israéliennes.",
+      "c": "mondialisation",
+      "s": "La Tribune",
+      "f": null
+    },
+    {
+      "d": "2026-11-01",
+      "i": "e711d3ac219c",
+      "t": "Livret A : une hausse du plafond à 30 000 euros envisagée pour financer les travaux dans les lycées",
+      "r": "Le gouvernement envisage d'augmenter le plafond du livret A de 22 950 à 30 000 euros pour financer la rénovation des lycées, une mesure qui pourrait accroître l'épargne réglementée disponible pour les prêts aux régions.",
+      "c": "epargne",
+      "s": "franceinfo",
+      "f": "fiscalite-epargne-patrimoine"
+    },
+    {
+      "d": "2026-11-01",
+      "i": "29955208af0b",
+      "t": "\"Ça a été une bombe pour moi, je me suis senti volé\": l'effondrement des fonds de pension après un pari financier raté inflige de lourdes pertes à des milliers de retraités chiliens qui pensaient avoir choisi le placement le moins risqué",
+      "r": "Au Chili, le fonds de pension considéré comme le plus sûr a chuté de 10% en moyenne entre janvier et septembre, entraînant des pertes pour de nombreux retraités dans un système de capitalisation individuelle.",
+      "c": "finance",
+      "s": "BFM Business",
+      "f": null
+    },
+    {
+      "d": "2026-11-01",
+      "i": "6dcc03c28426",
+      "t": "« Les gens dépensent avec précaution » : en Chine, les ménages préoccupés par les incertitudes économiques",
+      "r": "En Chine, les ménages réduisent leurs dépenses superflues en raison de la crise immobilière et des tensions sur les salaires.",
+      "c": "croissance",
+      "s": "Le Monde",
+      "f": null
+    },
+    {
+      "d": "2026-11-01",
+      "i": "2d37dd9641c8",
+      "t": "Si la Côte d'Ivoire ne fait rien, sa production de cacao pourrait chuter de 20% d'ici à 2050: le premier producteur mondial veut développer des variétés plus résistantes au changement climatique",
+      "r": "En Côte d'Ivoire, premier producteur mondial, la production de cacao pourrait chuter de 20% d'ici 2050 en raison du changement climatique.",
+      "c": "croissance",
+      "s": "BFM Business",
+      "f": null
+    },
+    {
+      "d": "2026-11-01",
+      "i": "875979ef1729",
+      "t": "« Les économistes abordent l’environnement avec une boîte à outils plus riche qu’il y a vingt ans »",
+      "r": "Selon les économistes Hippolyte d'Albis et Patrice Geoffron, les travaux récents démontrent que l'intérêt d'agir face au réchauffement climatique dépasse le simple bénéfice mondial.",
+      "c": "croissance",
+      "s": "Le Monde",
+      "f": null
+    },
+    {
+      "d": "2026-11-01",
+      "i": "5519c3396b54",
+      "t": "Draisy pèse et coûte moitié moins qu'un TER: le train \"poids plume\" à batterie de la SNCF et de Lohr pourrait circuler dès 2029 sur les petites lignes du Grand Est et d'Occitanie",
+      "r": "Le train léger à batterie Draisy, soutenu par le programme France 2030, pourrait circuler dès 2029 pour remplacer les rames diesel sur les petites lignes.",
+      "c": "croissance",
+      "s": "BFM Business",
+      "f": null
+    },
+    {
+      "d": "2026-11-01",
+      "i": "5fb699e5dcb8",
+      "t": "Guerre en Ukraine : Kiev s’inquiète de la date de livraison des 500 missiles Patriot américains",
+      "r": "Les États-Unis ont approuvé la vente de 500 missiles Patriot à l'Ukraine pour 2 milliards de dollars, mais les livraisons s'étaleront sur plusieurs années.",
+      "c": "mondialisation",
+      "s": "L'Opinion",
+      "f": null
+    },
+    {
+      "d": "2026-11-01",
+      "i": "104109ba80a3",
+      "t": "C'est plus proche de Pékin que de Washington : les habitants de cette enclave alaskienne subissent les politiques de Trump",
+      "r": "À Unalaska, port de pêche américain, les coupes budgétaires et les tensions géopolitiques provoquent des difficultés économiques majeures pour les travailleurs locaux.",
+      "c": "mondialisation",
+      "s": "The Guardian",
+      "f": null
+    },
+    {
+      "d": "2026-11-01",
+      "i": "ad8b976a5a48",
+      "t": "Nouvelle-Zélande : plongée au cœur de la laiterie du monde",
+      "r": "La Nouvelle-Zélande est le premier exportateur mondial de produits laitiers, s'appuyant sur des fermes géantes aux méthodes futuristes.",
+      "c": "mondialisation",
+      "s": "franceinfo",
+      "f": null
+    },
+    {
+      "d": "2026-11-01",
+      "i": "1f7c2809c1e2",
+      "t": "Midterms : règlements de comptes au Capitole en perspective, les entreprises européennes entre deux feux",
+      "r": "",
+      "c": "mondialisation",
+      "s": "Les Echos",
+      "f": null
+    },
+    {
+      "d": "2026-11-01",
+      "i": "6be20740deb5",
+      "t": "«Une semaine assez folle» : pourquoi les marchés financiers ont été bousculés ces derniers jours",
+      "r": "Les résultats financiers de Google et d'Intel ont provoqué une chute des indices boursiers en Asie, incitant les investisseurs à réviser leurs stratégies.",
+      "c": "finance",
+      "s": "Le Figaro",
+      "f": null
+    },
+    {
+      "d": "2026-11-01",
+      "i": "bef481001c7a",
+      "t": "Des clients paniqués se sont précipités vers les distributeurs pour récupérer leur argent: six jours après la victoire de l'opposition aux élections en Serbie, une banque réputée proche du pouvoir sortant perd sa licence bancaire",
+      "r": "La Banque nationale de Serbie a retiré sa licence à Alta bank en raison d'une situation financière dégradée, provoquant des retraits massifs de clients.",
+      "c": "finance",
+      "s": "BFM Business",
+      "f": null
+    },
+    {
+      "d": "2026-11-01",
+      "i": "a99e2a085858",
+      "t": "Frédéric Souillot, secrétaire général de Force ouvrière : « Je souhaite que le smic soit porté à 2.000 euros brut par mois »",
+      "r": "Le secrétaire général de Force ouvrière demande au gouvernement de porter le montant du SMIC à 2 000 euros brut par mois.",
+      "c": "desequilibres",
+      "s": "La Tribune",
+      "f": null
+    },
+    {
+      "d": "2026-11-01",
+      "i": "de77300dcc63",
+      "t": "Des pillages de magasins alors que les protestations contre le coût de la vie en Allemagne dégénèrent en violences",
+      "r": "Des émeutes violentes et des pillages de magasins liés au coût de la vie ont eu lieu dans plusieurs villes allemandes.",
+      "c": "desequilibres",
+      "s": "BBC",
+      "f": null
+    },
+    {
+      "d": "2026-11-01",
+      "i": "6bd9d31a8b72",
+      "t": "La crise du logement en Grande-Bretagne ne sera pas résolue sans un nouveau paysage fiscal",
+      "r": "Les critiques estiment que le budget du chancelier n'a pas mis en place les réformes nécessaires pour cesser de traiter la propriété comme une simple réserve de richesse.",
+      "c": "desequilibres",
+      "s": "The Guardian",
+      "f": null
+    },
+    {
+      "d": "2026-11-01",
+      "i": "431c0c960821",
+      "t": "\"On ne peut pas assurer la sécurité sociale sans sécurité nationale\": le gouvernement britannique veut porter les dépenses de défense à 3% du PIB mais reste flou sur les coupes budgétaires qu'il fera",
+      "r": "Le ministre britannique des Finances a confirmé l'objectif de porter les dépenses de défense à 3 % du PIB d'ici 2030.",
+      "c": "desequilibres",
+      "s": "BFM Business",
+      "f": null
+    },
+    {
+      "d": "2026-11-01",
+      "i": "6db12c8a3281",
+      "t": "HappyVore, La Vie, Garden Gourmet... comment les alternatives végétales grignotent le marché de la viande",
+      "r": "Le marché des alternatives végétales à la viande progresse et se concentre autour de quelques acteurs, malgré des interrogations sur leur rentabilité.",
+      "c": "entreprises",
+      "s": "Alternatives Économiques",
+      "f": null
+    },
+    {
+      "d": "2026-11-01",
+      "i": "c30e2660e86a",
+      "t": "Une quarantaine de restaurants sont concernés à Paris, Bayonne ou Dijon: rattrapé par sa dette, l’un des principaux franchisés de KFC en France a été placé en procédure de sauvegarde",
+      "r": "Le groupe ProNoïa, important franchisé de KFC en France exploitant une quarantaine de restaurants, a été placé en procédure de sauvegarde par le tribunal de commerce de Bordeaux.",
+      "c": "entreprises",
+      "s": "BFM Business",
+      "f": null
+    },
+    {
+      "d": "2026-11-01",
+      "i": "eb5e24a14581",
+      "t": "Les derniers moteurs thermiques avaient été assemblés cet été: après plus de 50 ans de production, l’usine Stellantis de Douvrin s’est définitivement arrêtée ce vendredi",
+      "r": "L'usine Stellantis de Douvrin a définitivement cessé sa production de moteurs thermiques après plus de cinquante ans d'activité.",
+      "c": "entreprises",
+      "s": "BFM Business",
+      "f": null
+    },
+    {
+      "d": "2026-11-01",
+      "i": "611c71e60c77",
+      "t": "« C’est un changement de paradigme » : l’IA, nouvelle arme des entreprises face aux attaques automatisées",
+      "r": "Face aux attaques informatiques automatisées optimisées par l'intelligence artificielle, les entreprises doivent recourir à leur tour à l'IA pour renforcer leur cyberdéfense.",
+      "c": "entreprises",
+      "s": "L'Opinion",
+      "f": "intelligence-artificielle"
+    },
+    {
+      "d": "2026-11-01",
+      "i": "40b1dd1e3e39",
+      "t": "« La seule manière de corriger le sous-investissement de la France est d’augmenter le montant de l’épargne disponible »",
+      "r": "L'économiste Patrick Artus estime que la France doit augmenter le montant de l'épargne disponible pour financer ses investissements dans la transition et l'innovation.",
+      "c": "epargne",
+      "s": "Le Monde",
+      "f": null
+    },
+    {
+      "d": "2026-11-01",
+      "i": "873c28c16316",
+      "t": "\"25 % de carburant en moins\" : comment l'écoconduite peut vous faire économiser plus de 1 000 euros par an",
+      "r": "L'écoconduite permet de réduire significativement sa consommation de carburant et de réaliser des économies face à la hausse des prix.",
+      "c": "epargne",
+      "s": "franceinfo",
+      "f": null
+    },
+    {
+      "d": "2026-11-01",
+      "i": "76db6580f9d9",
+      "t": "« Nous avons fini de rembourser notre prêt immobilier à 45 ans, voici comment vous pouvez y parvenir aussi »",
+      "r": "Le remboursement anticipé de crédits immobiliers, même modestes, est présenté comme une solution pour solder plus rapidement sa dette principale.",
+      "c": "epargne",
+      "s": "The Guardian",
+      "f": null
+    },
     {
       "d": "2026-10-31",
       "i": "558c3360d143",

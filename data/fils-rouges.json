@@ -1,6 +1,6 @@
 {
   "version_schema": 1,
-  "mis_a_jour_le": "2026-10-31T09:59:54+01:00",
+  "mis_a_jour_le": "2026-11-01T05:50:24+01:00",
   "fils": [
     {
       "id": "budget-2027",
@@ -376,6 +376,17 @@
               "titre": "Avoirs oubliés : l’État veut en prélever 17%, ce que les héritiers doivent savoir",
               "source": "Capital",
               "url": "https://www.capital.fr/votre-argent/avoirs-oublies-letat-veut-en-prelever-17-ce-que-les-heritiers-doivent-savoir-1531315"
+            }
+          ]
+        },
+        {
+          "date": "2026-11-01",
+          "resume": "Au 1er janvier 2027, le plafond de la Sécurité sociale s'élèvera à 4 075 euros par mois, modifiant les seuils de la retraite et les cotisations.",
+          "liens": [
+            {
+              "titre": "Plafond de la Sécurité sociale 2027 : ce qui change pour la retraite",
+              "source": "Capital",
+              "url": "https://www.capital.fr/votre-retraite/plafond-de-la-securite-sociale-2027-ce-qui-change-pour-la-retraite-1531404"
             }
           ]
         }
@@ -820,6 +831,17 @@
               "titre": "Course contre la montre et casse-tête logistique pour faire baisser le prix du gazole à la pompe",
               "source": "Le Monde",
               "url": "https://www.lemonde.fr/economie/article/2026/10/31/course-contre-la-montre-et-casse-tete-logistique-pour-faire-baisser-le-prix-du-gazole-a-la-pompe_6803469_3234.html"
+            }
+          ]
+        },
+        {
+          "date": "2026-11-01",
+          "resume": "Les prix du gazole baissent à partir du week-end, avec une diminution attendue de 12 à 18 centimes selon le gouvernement et un geste de TotalEnergies.",
+          "liens": [
+            {
+              "titre": "Carburants : les prix du gazole doivent baisser à partir de ce week-end",
+              "source": "Le Figaro",
+              "url": "https://www.lefigaro.fr/conso/carburants-les-prix-du-diesel-doivent-baisser-a-partir-de-ce-week-end-20261031"
             }
           ]
         }
@@ -1339,6 +1361,17 @@
               "url": "https://www.capital.fr/economie-politique/heritage-generationlibre-veut-supprimer-la-reserve-hereditaire-et-taxer-a-20-1531395"
             }
           ]
+        },
+        {
+          "date": "2026-11-01",
+          "resume": "Le gouvernement envisage d'augmenter le plafond du Livret A à 30 000 euros pour financer les travaux dans les lycées.",
+          "liens": [
+            {
+              "titre": "Livret A : une hausse du plafond à 30 000 euros envisagée pour financer les travaux dans les lycées",
+              "source": "franceinfo",
+              "url": "https://www.franceinfo.fr/economie/votre-argent/livret-a/livret-a-une-hausse-du-plafond-a-30-000-euros-envisagee-pour-financer-les-travaux-dans-les-lycees_8262188.html#xtor=RSS-3-%5Bgeneral%5D"
+            }
+          ]
         }
       ]
     },
@@ -1800,6 +1833,17 @@
               "url": "https://www.bfmtv.com/economie/video-cybersecurite-aeronautique-logistique-ces-secteurs-ou-les-salaires-augmentent_VN-202610310121.html"
             }
           ]
+        },
+        {
+          "date": "2026-11-01",
+          "resume": "Le président de la Chambre du commerce et de l'industrie de Paris alerte sur les risques menaçant le commerce traditionnel à l'approche de nouvelles manifestations.",
+          "liens": [
+            {
+              "titre": "\"Le commerce traditionnel est en danger\", alerte le président de la Chambre du commerce et de l'industrie de Paris avant de nouvelles manifestations samedi",
+              "source": "franceinfo",
+              "url": "https://www.franceinfo.fr/societe/manifestations/le-commerce-traditionnel-est-en-danger-alerte-le-president-de-la-chambre-du-commerce-et-de-l-industrie-de-paris-avant-de-nouvelles-manifestations-samedi_8261735.html#xtor=RSS-3-%5Bgeneral%5D"
+            }
+          ]
         }
       ]
     },
@@ -2148,6 +2192,17 @@
               "titre": "L'intelligence artificielle va détruire des emplois... mais en créera-t-elle ailleurs ?",
               "source": "Alternatives Économiques",
               "url": "https://www.alternatives-economiques.fr/l-intelligence-artificielle-va-detruire-des-emplois-mais-en-creera-t-elle-ailleurs_29-10-2026"
+            }
+          ]
+        },
+        {
+          "date": "2026-11-01",
+          "resume": "Face aux attaques informatiques automatisées optimisées par l'intelligence artificielle, les entreprises doivent recourir à leur tour à l'IA pour renforcer leur cyberdéfense.",
+          "liens": [
+            {
+              "titre": "« C’est un changement de paradigme » : l’IA, nouvelle arme des entreprises face aux attaques automatisées",
+              "source": "L'Opinion",
+              "url": "https://www.lopinion.fr/economie/cest-un-changement-de-paradigme-lia-nouvelle-arme-des-entreprises-face-aux-attaques-automatisees"
             }
           ]
         }
