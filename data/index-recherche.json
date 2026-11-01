@@ -1,6 +1,6 @@
 {
   "version_schema": 1,
-  "mis_a_jour_le": "2026-11-01T05:50:08+01:00",
+  "mis_a_jour_le": "2026-11-01T10:00:38+01:00",
   "entrees": [
     {
       "d": "2026-11-01",
@@ -85,6 +85,15 @@
     },
     {
       "d": "2026-11-01",
+      "i": "b5efb87ef285",
+      "t": "Une croissance revue à la hausse, un chômage qui baisse et un déficit qui se résorbe... Contrairement à la France, le Royaume-Uni étonne par la résistance de son économie et reçoit les félicitations du FMI",
+      "r": "L'économie britannique se distingue par sa résistance, affichant une croissance revue à la hausse, une baisse du chômage et un redressement budgétaire salué par le FMI.",
+      "c": "croissance",
+      "s": "BFM Business",
+      "f": null
+    },
+    {
+      "d": "2026-11-01",
       "i": "5fb699e5dcb8",
       "t": "Guerre en Ukraine : Kiev s’inquiète de la date de livraison des 500 missiles Patriot américains",
       "r": "Les États-Unis ont approuvé la vente de 500 missiles Patriot à l'Ukraine pour 2 milliards de dollars, mais les livraisons s'étaleront sur plusieurs années.",
@@ -139,6 +148,15 @@
     },
     {
       "d": "2026-11-01",
+      "i": "2a6397fbeae9",
+      "t": "Piratage de Binance : le FBI accuse la Corée du Nord du « casse du siècle »",
+      "r": "Le FBI accuse le groupe nord-coréen TraiderTraitor d'être à l'origine du vol de 6,3 millions de dollars sur la plateforme Binance, qui a repris ses retraits.",
+      "c": "finance",
+      "s": "La Tribune",
+      "f": null
+    },
+    {
+      "d": "2026-11-01",
       "i": "a99e2a085858",
       "t": "Frédéric Souillot, secrétaire général de Force ouvrière : « Je souhaite que le smic soit porté à 2.000 euros brut par mois »",
       "r": "Le secrétaire général de Force ouvrière demande au gouvernement de porter le montant du SMIC à 2 000 euros brut par mois.",
@@ -172,6 +190,15 @@
       "c": "desequilibres",
       "s": "BFM Business",
       "f": null
+    },
+    {
+      "d": "2026-11-01",
+      "i": "507f5a1dbef0",
+      "t": "La Sécu peut-elle faire faillite et arrêter de payer les retraites ou les allocations? C'est peu probable mais elle va vite devoir trouver une manière de se financer avant de tomber dans la crise",
+      "r": "La Cour des comptes alerte sur le creusement du déficit et l'impasse budgétaire menaçant le financement de la Sécurité sociale.",
+      "c": "desequilibres",
+      "s": "BFM Business",
+      "f": "budget-2027"
     },
     {
       "d": "2026-11-01",
@@ -211,6 +238,15 @@
     },
     {
       "d": "2026-11-01",
+      "i": "9880f5fcc1e7",
+      "t": "Des salles de jeux en Grande-Bretagne pourraient échapper à la hausse des taxes du budget grâce à une faille concernant les salles de bingo",
+      "r": "Des centres de jeux en Angleterre bénéficient de tarifs professionnels réduits en raison de licences de bingo, interrogeant sur la fermeture de cette faille fiscale.",
+      "c": "entreprises",
+      "s": "The Guardian",
+      "f": null
+    },
+    {
+      "d": "2026-11-01",
       "i": "40b1dd1e3e39",
       "t": "« La seule manière de corriger le sous-investissement de la France est d’augmenter le montant de l’épargne disponible »",
       "r": "L'économiste Patrick Artus estime que la France doit augmenter le montant de l'épargne disponible pour financer ses investissements dans la transition et l'innovation.",
@@ -234,6 +270,15 @@
       "r": "Le remboursement anticipé de crédits immobiliers, même modestes, est présenté comme une solution pour solder plus rapidement sa dette principale.",
       "c": "epargne",
       "s": "The Guardian",
+      "f": null
+    },
+    {
+      "d": "2026-11-01",
+      "i": "7fcb3feeb987",
+      "t": "Tarif fixe ou indexé ? On vous explique comment s'y retrouver dans la jungle des prix du gaz, au moment où les prix flambent",
+      "r": "Face à la flambée des prix du gaz, les consommateurs français doivent choisir entre des offres à tarif fixe ou indexé.",
+      "c": "epargne",
+      "s": "franceinfo",
       "f": null
     },
     {

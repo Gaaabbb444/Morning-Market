@@ -1,6 +1,6 @@
 {
   "version_schema": 1,
-  "mis_a_jour_le": "2026-11-01T05:50:24+01:00",
+  "mis_a_jour_le": "2026-11-01T10:02:50+01:00",
   "fils": [
     {
       "id": "budget-2027",
@@ -381,12 +381,17 @@
         },
         {
           "date": "2026-11-01",
-          "resume": "Au 1er janvier 2027, le plafond de la Sécurité sociale s'élèvera à 4 075 euros par mois, modifiant les seuils de la retraite et les cotisations.",
+          "resume": "La Cour des comptes alerte sur le creusement du déficit et l'impasse budgétaire menaçant le financement de la Sécurité sociale.",
           "liens": [
             {
               "titre": "Plafond de la Sécurité sociale 2027 : ce qui change pour la retraite",
               "source": "Capital",
               "url": "https://www.capital.fr/votre-retraite/plafond-de-la-securite-sociale-2027-ce-qui-change-pour-la-retraite-1531404"
+            },
+            {
+              "titre": "La Sécu peut-elle faire faillite et arrêter de payer les retraites ou les allocations? C'est peu probable mais elle va vite devoir trouver une manière de se financer avant de tomber dans la crise",
+              "source": "BFM Business",
+              "url": "https://www.bfmtv.com/economie/economie-social/finances-publiques/la-secu-peut-elle-faire-faillite-et-arreter-de-payer-les-retraites-ou-les-allocations-c-est-peu-probable-mais-elle-va-vite-devoir-trouver-une-maniere-de-se-financer-avant-de-tomber-dans-la-crise_AN-202611010089.html"
             }
           ]
         }
@@ -836,12 +841,17 @@
         },
         {
           "date": "2026-11-01",
-          "resume": "Les prix du gazole baissent à partir du week-end, avec une diminution attendue de 12 à 18 centimes selon le gouvernement et un geste de TotalEnergies.",
+          "resume": "Les stocks stratégiques de carburants constituent une épargne de précaution pour les moments difficiles, bien qu'aucune menace de pénurie ne soit encore avérée selon l'économiste Patrice Geoffron.",
           "liens": [
             {
               "titre": "Carburants : les prix du gazole doivent baisser à partir de ce week-end",
               "source": "Le Figaro",
               "url": "https://www.lefigaro.fr/conso/carburants-les-prix-du-diesel-doivent-baisser-a-partir-de-ce-week-end-20261031"
+            },
+            {
+              "titre": "Puiser dans les stocks stratégiques de carburants n'est \"pas anodin\", souligne l'économiste Patrice Geoffron",
+              "source": "franceinfo",
+              "url": "https://www.franceinfo.fr/economie/transports/prix-des-carburants/puiser-dans-les-stocks-strategiques-de-carburants-n-est-pas-anodin-souligne-l-economiste-patrice-geoffron_8262452.html#xtor=RSS-3-%5Bgeneral%5D"
             }
           ]
         }
@@ -2245,6 +2255,17 @@
               "titre": "Cumul emploi-retraite : ce que la réforme de 2027 va vous coûter, selon votre âge",
               "source": "Capital",
               "url": "https://www.capital.fr/votre-retraite/cumul-emploi-retraite-ce-que-la-reforme-de-2027-va-vous-couter-selon-votre-age-1531189"
+            }
+          ]
+        },
+        {
+          "date": "2026-11-01",
+          "resume": "Le directeur général de l'Agirc-Arrco estime que l'évolution des retraites ne doit pas dépasser celle des salaires dans un contexte de chute démographique.",
+          "liens": [
+            {
+              "titre": "François-Xavier Selleret, directeur général de l’Agirc-Arrco : « L’évolution des retraites ne doit jamais être supérieure à celle des salaires »",
+              "source": "La Tribune",
+              "url": "https://www.latribune.fr/article/la-tribune-dimanche/dimanche-eco/78999690776579/francois-xavier-selleret-directeur-general-de-l-agirc-arrco-l-evolution-des-retraites-ne-doit-jamais-etre-superieure-a-celle-des-salaires"
             }
           ]
         }
