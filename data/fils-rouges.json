@@ -1,6 +1,6 @@
 {
   "version_schema": 1,
-  "mis_a_jour_le": "2026-11-02T06:00:56+01:00",
+  "mis_a_jour_le": "2026-11-02T10:32:10+01:00",
   "fils": [
     {
       "id": "budget-2027",
@@ -11,7 +11,7 @@
       "categories": [
         "desequilibres"
       ],
-      "ou_en_est_on": "L'examen budgétaire s'enlise dans de fortes tensions politiques, le rapporteur général Philippe Juvin affirmant que le projet de loi de finances est déjà caduc et sera rejeté par les parlementaires. Alors que la commission des finances s'est heurtée à des divergences sur les recettes et les dépenses, les appels se multiplient pour inciter le gouvernement à recourir à l'article 49.3. L'exécutif doit simultanément composer avec l'aggravation des déficits sociaux et les pressions exercées par de nouvelles tensions sur les coûts de l'énergie.",
+      "ou_en_est_on": "L'examen budgétaire s'enlise dans de fortes tensions politiques, le rapporteur général Philippe Juvin affirmant que le projet de loi de finances est déjà caduc face à la révision à la baisse des prévisions de croissance. Alors que la commission des finances se heurte à des divergences sur les recettes et les dépenses, Sébastien Lecornu présente l'objectif ambitieux de réduire le déficit de la Sécurité sociale de 21,8 milliards à 12,7 milliards d'euros en 2027. L'exécutif doit simultanément composer avec l'aggravation des déficits sociaux et les appels croissants à recourir à l'article 49.3.",
       "ou_en_est_on_maj_le": "2026-11-02",
       "evenements": [
         {
@@ -397,7 +397,7 @@
         },
         {
           "date": "2026-11-02",
-          "resume": "Le rapporteur général de la commission des Finances, Philippe Juvin, juge le projet de budget déjà caduc, anticipe son rejet par le Parlement et appelle à recourir à l'article 49.3.",
+          "resume": "Sébastien Lecornu prévoit de réduire le déficit de la Sécurité sociale de 21,8 milliards à 12,7 milliards d'euros en 2027, tandis que les discussions budgétaires se poursuivent à l'Assemblée sur un projet jugé dépassé par la baisse des prévisions de croissance.",
           "liens": [
             {
               "titre": "Le budget, pas encore adopté, est-il déjà caduc ? \"Oui\", affirme Philippe Juvin, rapporteur général de la commission des Finances à l'Assemblée nationale",
@@ -413,6 +413,16 @@
               "titre": "Le pouvoir d’achat, le vrai, le faux et le long terme",
               "source": "L'Opinion",
               "url": "https://www.lopinion.fr/economie/le-pouvoir-dachat-le-vrai-le-faux-et-le-long-terme"
+            },
+            {
+              "titre": "Budget : comment le gouvernement compte réduire de plus de 9 milliards d’euros le déficit de la Sécurité sociale",
+              "source": "Le Figaro",
+              "url": "https://www.lefigaro.fr/social/budget-comment-le-gouvernement-compte-reduire-de-plus-de-9-milliards-d-euros-le-deficit-de-la-securite-sociale-20261102"
+            },
+            {
+              "titre": "Alors que les prévisions macroéconomiques ne tiennent plus, à quoi servent les discussions dans l'hémicycle sur le budget ?",
+              "source": "franceinfo",
+              "url": "https://www.franceinfo.fr/replay-radio/le-decryptage-eco/alors-que-les-previsions-macroeconomiques-ne-tiennent-plus-a-quoi-servent-les-discussions-dans-l-hemicycle-sur-le-budget_8243353.html#xtor=RSS-3-%5Bgeneral%5D"
             }
           ]
         }
@@ -670,7 +680,7 @@
         "mondialisation",
         "desequilibres"
       ],
-      "ou_en_est_on": "Alors que le déstockage coordonné de barils vise à freiner la hausse des carburants, la répercussion de cette mesure suscite des disparités sur le terrain. Le réseau Mobilians dénonce le fait que les petites stations n'ont pas accès aux réserves stratégiques et ne peuvent pas répercuter de baisse, risquant des fermetures face aux grands distributeurs.",
+      "ou_en_est_on": "Alors que le déstockage coordonné de barils vise à freiner la hausse des carburants, le gouvernement indique qu'une station-service sur deux a répercuté la baisse, tandis que le réseau Mobilians alertait sur les difficultés des petites stations. Sur le plan international, le conflit au Moyen-Orient pèse lourdement sur les coûts énergétiques des entreprises de transport, poussant certaines compagnies comme Ryanair à envisager des mesures d'économies drastiques, alors que des négociations indirectes menées par le Qatar tentent d'obtenir la réouverture du détroit d'Ormuz.",
       "ou_en_est_on_maj_le": "2026-11-02",
       "evenements": [
         {
@@ -889,12 +899,22 @@
         },
         {
           "date": "2026-11-02",
-          "resume": "Le réseau Mobilians alerte sur le fait que les petites stations-services n'ont pas reçu les volumes des stocks stratégiques, les empêchant de baisser leurs prix.",
+          "resume": "Face à la hausse des coûts du carburant, Ryanair étudie des mesures d'économies tandis que des négociations indirectes menées par le Qatar tentent de libérer des avoirs iraniens pour rouvrir le détroit d'Ormuz.",
           "liens": [
             {
               "titre": "Les petites stations-services \"n'ont pas reçu les stocks stratégiques de carburants et ne peuvent pas baisser les prix\", alerte Francis Pousse, du réseau Mobilians",
               "source": "franceinfo",
               "url": "https://www.franceinfo.fr/economie/automobile/essence/les-petites-stations-services-n-ont-pas-recu-les-stocks-strategiques-de-carburants-et-ne-peuvent-pas-baisser-les-prix-alerte-francis-pousse-du-reseau-mobilians_8262764.html#xtor=RSS-3-%5Bgeneral%5D"
+            },
+            {
+              "titre": "Ryanair considers pay freezes and reducing crew on flights as fuel costs soar",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/business/2026/nov/02/ryanair-considers-pay-freezes-reducing-crew-on-flights-fuel-costs-soar-ai"
+            },
+            {
+              "titre": "Negotiators ‘braced for worst’ over US-Iran talks to reopen strait of Hormuz",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/world/2026/nov/01/negotiators-braced-for-worst-over-us-iran-talks-to-reopen-strait-of-hormuz"
             }
           ]
         }
@@ -910,8 +930,8 @@
         "finance",
         "desequilibres"
       ],
-      "ou_en_est_on": "La Banque centrale européenne maintient son principal taux directeur à 2,5 % pour faire face aux tensions inflationnistes, alors que l'inflation en France rebondit à 3,4 % sur un an en octobre en raison de la hausse des prix de l'énergie. Par ailleurs, l'institution se prépare à une transition institutionnelle majeure suite à l'annonce du départ anticipé de sa présidente Christine Lagarde pour le 7 février 2027.",
-      "ou_en_est_on_maj_le": "2026-10-31",
+      "ou_en_est_on": "La Banque centrale européenne maintient son principal taux directeur à 2,5 % pour faire face aux tensions inflationnistes, alors que l'inflation en France rebondit à 3,4 % sur un an en octobre en raison de la hausse des prix de l'énergie. Par ailleurs, l'institution se prépare à une transition institutionnelle majeure suite à l'annonce du départ anticipé de sa présidente Christine Lagarde pour le 7 février 2027, sur fond d'incertitudes monétaires persistantes.",
+      "ou_en_est_on_maj_le": "2026-11-02",
       "evenements": [
         {
           "date": "2026-10-21",
@@ -1010,6 +1030,17 @@
               "titre": "Christine Lagarde quitte la Banque centrale européenne : les deux visages d'une présidente sur le départ",
               "source": "Alternatives Économiques",
               "url": "https://www.alternatives-economiques.fr/christine-lagarde-quitte-la-banque-centrale-europeenne-les-deux-visages-d-une-presidente-sur-le_30"
+            }
+          ]
+        },
+        {
+          "date": "2026-11-02",
+          "resume": "La démission de Christine Lagarde de la présidence de la BCE intervient dans un contexte d'incertitudes politiques et monétaires.",
+          "liens": [
+            {
+              "titre": "Démission de Christine Lagarde de la BCE : un départ et de multiples hypothèses",
+              "source": "La Tribune",
+              "url": "https://www.latribune.fr/article/la-tribune-dimanche/dimanche-eco/18037574320478/demission-de-christine-lagarde-de-la-bce-un-depart-et-de-multiples-hypotheses"
             }
           ]
         }

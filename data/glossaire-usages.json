@@ -105,19 +105,47 @@
         "contexte": "Top 5 du jour"
       }
     ],
-    "desintermediation": [
+    "deficit-public-et-solde-primaire": [
       {
         "date": "2026-11-02",
-        "id": "055311990aef",
-        "titre": "Après le piratage record de Binance, l'industrie crypto face à l'éternel risque de tout perdre",
-        "source": "Les Echos",
+        "id": "72cc7fef130b",
+        "titre": "Budget : comment le gouvernement compte réduire de plus de 9 milliards d’euros le déficit de la Sécurité sociale",
+        "source": "Le Figaro",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-10-30",
+        "id": "5af0963a4958",
+        "titre": "Budget 2027 : les députés votent 28 milliards d’euros de dépenses supplémentaires",
+        "source": "Le Figaro",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-10-27",
+        "id": "36ad0562eb79",
+        "titre": "L'objectif de déficit public de 5% \"reste intangible\": David Amiel prévient que les 5 milliards d'euros pour répondre à la colère lycéenne devront \"être financés par des efforts supplémentaires\"",
+        "source": "BFM Business",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-10-26",
+        "id": "c26fa3c4d999",
+        "titre": "La colère sociale fragilise encore davantage les perspectives économiques de la France",
+        "source": "Le Monde",
         "contexte": "Top 5 du jour"
       },
       {
         "date": "2026-10-21",
-        "id": "26d782674265",
-        "titre": "Les 6 000 salariés de l’enseigne à petits prix GiFi s’inquiètent pour leur sort",
-        "source": "Le Monde",
+        "id": "6d9f67eeb539",
+        "titre": "Budget de la Sécu 2027 : la Cour des comptes juge «fragile» l’objectif de 12,7 milliards d'euros de déficit",
+        "source": "Capital",
+        "contexte": "Concept du jour"
+      },
+      {
+        "date": "2026-10-20",
+        "id": "2f73fb7a1b50",
+        "titre": "Budget 2027 : l’Assemblée nationale multiplie les cadeaux fiscaux non chiffrés",
+        "source": "Le Figaro",
         "contexte": "Top 5 du jour"
       }
     ],
@@ -307,43 +335,6 @@
         "id": "8130eddc625c",
         "titre": "La Réserve fédérale américaine choisit d’attendre avant de relever de nouveau ses taux, malgré l’inflation",
         "source": "Le Monde",
-        "contexte": "Top 5 du jour"
-      }
-    ],
-    "deficit-public-et-solde-primaire": [
-      {
-        "date": "2026-10-30",
-        "id": "5af0963a4958",
-        "titre": "Budget 2027 : les députés votent 28 milliards d’euros de dépenses supplémentaires",
-        "source": "Le Figaro",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-10-27",
-        "id": "36ad0562eb79",
-        "titre": "L'objectif de déficit public de 5% \"reste intangible\": David Amiel prévient que les 5 milliards d'euros pour répondre à la colère lycéenne devront \"être financés par des efforts supplémentaires\"",
-        "source": "BFM Business",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-10-26",
-        "id": "c26fa3c4d999",
-        "titre": "La colère sociale fragilise encore davantage les perspectives économiques de la France",
-        "source": "Le Monde",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-10-21",
-        "id": "6d9f67eeb539",
-        "titre": "Budget de la Sécu 2027 : la Cour des comptes juge «fragile» l’objectif de 12,7 milliards d'euros de déficit",
-        "source": "Capital",
-        "contexte": "Concept du jour"
-      },
-      {
-        "date": "2026-10-20",
-        "id": "2f73fb7a1b50",
-        "titre": "Budget 2027 : l’Assemblée nationale multiplie les cadeaux fiscaux non chiffrés",
-        "source": "Le Figaro",
         "contexte": "Top 5 du jour"
       }
     ],
@@ -643,6 +634,15 @@
         "id": "940f03c397a4",
         "titre": "Commerces pillés : le gouvernement sort le chéquier, les patrons réclament de l’ordre",
         "source": "Capital",
+        "contexte": "Top 5 du jour"
+      }
+    ],
+    "desintermediation": [
+      {
+        "date": "2026-10-21",
+        "id": "26d782674265",
+        "titre": "Les 6 000 salariés de l’enseigne à petits prix GiFi s’inquiètent pour leur sort",
+        "source": "Le Monde",
         "contexte": "Top 5 du jour"
       }
     ],

@@ -1,6 +1,6 @@
 {
   "version_schema": 1,
-  "mis_a_jour_le": "2026-11-02T06:00:03+01:00",
+  "mis_a_jour_le": "2026-11-02T10:28:21+01:00",
   "entrees": [
     {
       "d": "2026-11-02",
@@ -31,12 +31,12 @@
     },
     {
       "d": "2026-11-02",
-      "i": "055311990aef",
-      "t": "Après le piratage record de Binance, l'industrie crypto face à l'éternel risque de tout perdre",
-      "r": "La plateforme de cryptomonnaies Binance fait face à des retraits massifs d'investisseurs après un piratage record de plusieurs milliards de dollars attribué à la Corée du Nord.",
-      "c": "finance",
-      "s": "Les Echos",
-      "f": null
+      "i": "72cc7fef130b",
+      "t": "Budget : comment le gouvernement compte réduire de plus de 9 milliards d’euros le déficit de la Sécurité sociale",
+      "r": "Sébastien Lecornu prévoit de faire passer le déficit de 21,8 milliards à 12,7 milliards d’euros en 2027. Une piste ambitieuse, qui suppose des choix impopulaires.",
+      "c": "desequilibres",
+      "s": "Le Figaro",
+      "f": "budget-2027"
     },
     {
       "d": "2026-11-02",
@@ -85,6 +85,15 @@
     },
     {
       "d": "2026-11-02",
+      "i": "f444200415fb",
+      "t": "\"La première entreprise énergétique au monde à déployer OpenAI Frontier\": la compagnie pétrolière des Émirats annonce un partenariat avec le géant américain de l'IA",
+      "r": "La compagnie pétrolière des Émirats Adnoc annonce un partenariat avec OpenAI pour déployer sa plateforme d'intelligence artificielle.",
+      "c": "croissance",
+      "s": "BFM Business",
+      "f": "intelligence-artificielle"
+    },
+    {
+      "d": "2026-11-02",
       "i": "325bf9aefa6f",
       "t": "La guerre commerciale entre les États-Unis et la Chine semble s'être apaisée, mais ce calme est trompeur",
       "r": "Une trêve a refroidi le conflit commercial entre les États-Unis et la Chine, sans toutefois écarter le risque de nouvelles hostilités.",
@@ -121,12 +130,57 @@
     },
     {
       "d": "2026-11-02",
+      "i": "17d074ce2b4c",
+      "t": "Les négociateurs « se préparent au pire » face aux discussions américano-iraniennes pour rouvrir le détroit d'Ormuz",
+      "r": "Des négociations indirectes menées par le Qatar tentent de négocier la libération d'avoirs iraniens pour permettre la réouverture du détroit d'Ormuz.",
+      "c": "mondialisation",
+      "s": "The Guardian",
+      "f": "choc-petrolier-ormuz"
+    },
+    {
+      "d": "2026-11-02",
       "i": "d77a73b80d64",
       "t": "Sénégal : l'accord avec le FMI menacé par un blocage politique au risque du défaut de paiement pour le pays",
       "r": "",
       "c": "finance",
       "s": "Les Echos",
       "f": null
+    },
+    {
+      "d": "2026-11-02",
+      "i": "618ed77227eb",
+      "t": "Démission de Christine Lagarde de la BCE : un départ et de multiples hypothèses",
+      "r": "La démission de Christine Lagarde de la présidence de la BCE intervient dans un contexte d'incertitudes politiques et monétaires.",
+      "c": "finance",
+      "s": "La Tribune",
+      "f": "inflation-bce"
+    },
+    {
+      "d": "2026-11-02",
+      "i": "0bcb988c9b69",
+      "t": "Comment la finance européenne espère combattre l’hégémonisme américain",
+      "r": "Le projet de rachat de Monte dei Paschi di Siena par Intesa Sanpaolo illustre la volonté de créer des géants financiers européens face aux concurrents américains.",
+      "c": "finance",
+      "s": "Le Monde",
+      "f": null
+    },
+    {
+      "d": "2026-11-02",
+      "i": "3bbca3fbbb2c",
+      "t": "Binance : les investisseurs retirent plus de 3,6 milliards de dollars en quelques heures",
+      "r": "",
+      "c": "finance",
+      "s": "Les Echos",
+      "f": null
+    },
+    {
+      "d": "2026-11-02",
+      "i": "3489dfb1de48",
+      "t": "« Anthropic en Bourse : l’apocalypse est-elle un risque d’investissement comme un autre ? »",
+      "r": "L'entreprise Anthropic détaille dans son document d'introduction en Bourse les risques existentiels liés à l'intelligence artificielle tout en mettant en avant ses profits.",
+      "c": "finance",
+      "s": "Le Monde",
+      "f": "intelligence-artificielle"
     },
     {
       "d": "2026-11-02",
@@ -166,6 +220,33 @@
     },
     {
       "d": "2026-11-02",
+      "i": "407fdeda6be4",
+      "t": "Alors que les prévisions macroéconomiques ne tiennent plus, à quoi servent les discussions dans l'hémicycle sur le budget ?",
+      "r": "Les discussions budgétaires se poursuivent à l'Assemblée nationale sur un projet de loi de finances jugé dépassé par la baisse des prévisions de croissance.",
+      "c": "desequilibres",
+      "s": "franceinfo",
+      "f": "budget-2027"
+    },
+    {
+      "d": "2026-11-02",
+      "i": "5154a125ee60",
+      "t": "OPINION. « SpaceX : quels enjeux de souveraineté pour l'Europe ? »",
+      "r": "Kaja Kallas a reconnu que l'Europe ne pouvait pas remplacer Starlink à court terme.",
+      "c": "ue",
+      "s": "La Tribune",
+      "f": null
+    },
+    {
+      "d": "2026-11-02",
+      "i": "ab4c32c28811",
+      "t": "Boris Vujčić: Integrated, open and resilient: Europe’s strengths in a fragmenting world",
+      "r": "",
+      "c": "ue",
+      "s": "BCE",
+      "f": null
+    },
+    {
+      "d": "2026-11-02",
       "i": "81c96a17e26e",
       "t": "Auto : les ventes de voitures neuves progressent de 7% en octobre, tirées par l'électrique",
       "r": "En octobre, les immatriculations de voitures neuves en France ont progressé de 7 %, portées par les véhicules électriques et hybrides rechargeables.",
@@ -202,6 +283,15 @@
     },
     {
       "d": "2026-11-02",
+      "i": "c3f155abed88",
+      "t": "Ryanair considers pay freezes and reducing crew on flights as fuel costs soar",
+      "r": "Face à la hausse des coûts du carburant liée au conflit au Moyen-Orient, Ryanair étudie des mesures d'économies, dont un gel des salaires et l'usage de l'IA.",
+      "c": "entreprises",
+      "s": "The Guardian",
+      "f": "choc-petrolier-ormuz"
+    },
+    {
+      "d": "2026-11-02",
       "i": "e4da1ad92f7e",
       "t": "Relever le plafond du livret A pour financer la rénovation des lycées, une fausse bonne idée ?",
       "r": "Le gouvernement étudie l'augmentation du plafond du Livret A à 30 000 euros pour financer la rénovation des lycées, une piste aux effets incertains.",
@@ -217,6 +307,33 @@
       "c": "epargne",
       "s": "BBC",
       "f": null
+    },
+    {
+      "d": "2026-11-02",
+      "i": "89445e0b7888",
+      "t": "Des millions de Britanniques se préparent à refinancer leur emprunt immobilier à des conditions moins favorables face à la hausse des taux",
+      "r": "Plus de 2,3 millions de foyers britanniques font face à une hausse de leurs mensualités en 2027 avec la remontée des taux de la Banque d'Angleterre.",
+      "c": "epargne",
+      "s": "The Guardian",
+      "f": null
+    },
+    {
+      "d": "2026-11-02",
+      "i": "4b95099cde38",
+      "t": "« Dubaï Papers » : l’heure du procès pour une « officine de fraude fiscale à grande échelle »",
+      "r": "Neuf responsables, trois avocats et un expert-comptable sont jugés à Paris pour avoir organisé des montages de fraude fiscale pour des contribuables français.",
+      "c": "epargne",
+      "s": "Le Monde",
+      "f": null
+    },
+    {
+      "d": "2026-11-02",
+      "i": "aa1c2d6871b5",
+      "t": "Trimestres enfants retraite : père ou mère, à qui les attribuer pour gagner plus",
+      "r": "Les trimestres de retraite liés aux enfants reviennent par défaut à la mère, mais une attribution partielle au père peut présenter des avantages pour le couple.",
+      "c": "epargne",
+      "s": "Capital",
+      "f": "retraites"
     },
     {
       "d": "2026-11-01",
