@@ -1,6 +1,144 @@
 {
   "version_schema": 1,
   "notions": {
+    "politique-budgetaire": [
+      {
+        "date": "2026-11-02",
+        "id": "ebb9141f734e",
+        "titre": "Le budget, pas encore adopté, est-il déjà caduc ? \"Oui\", affirme Philippe Juvin, rapporteur général de la commission des Finances à l'Assemblée nationale",
+        "source": "franceinfo",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-11-01",
+        "id": "e711d3ac219c",
+        "titre": "Livret A : une hausse du plafond à 30 000 euros envisagée pour financer les travaux dans les lycées",
+        "source": "franceinfo",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-10-29",
+        "id": "e6ca90b1ae20",
+        "titre": "\"Plus on fait d’enfants, plus l’État est présent\": Giorgia Meloni dévoile un budget axé sur la natalité et la défense, financé en partie en taxant les banques et les assurances",
+        "source": "BFM Business",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-10-27",
+        "id": "e1f84d25dee5",
+        "titre": "Où en sont les débats sur le PLF et le PLFSS 2027 ? Suivez les étapes de l'examen du budget à l'Assemblée et au Sénat",
+        "source": "franceinfo",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-10-25",
+        "id": "b74c30856b74",
+        "titre": "Healey’s first budget to include big devolution package to boost growth",
+        "source": "The Guardian",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-10-24",
+        "id": "7f6fcbdcfae8",
+        "titre": "PLFSS 2027 : à l’Assemblée, le budget de la Sécurité sociale rejeté après une saignée de 12 milliards d’euros",
+        "source": "Capital",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-10-20",
+        "id": "bc5dc2cd9f4f",
+        "titre": "Les députés ont déjà fait dérailler la trajectoire de réduction du déficit de la Sécurité sociale avant même le début des débats dans l’hémicycle sur le budget de la Sécu",
+        "source": "BFM Business",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-10-19",
+        "id": "6825d2c17a9c",
+        "titre": "Retraite, santé : la protection sociale, principal poste de dépenses de l’État",
+        "source": "Le Figaro",
+        "contexte": "Top 5 du jour"
+      }
+    ],
+    "effet-boule-de-neige": [
+      {
+        "date": "2026-11-02",
+        "id": "92a232df0d43",
+        "titre": "Croissance, dette : la France perd pied",
+        "source": "L'Opinion",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-10-23",
+        "id": "7608def25ec1",
+        "titre": "Taux d’intérêt au-delà des 5 % : une hausse qui sanctionne un débat budgétaire enlisé",
+        "source": "Le Monde",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-10-23",
+        "id": "172c63158dd5",
+        "titre": "Du «spread» à l’«effet boule de neige», ces cinq rouages derrière la très dangereuse spirale de la dette française",
+        "source": "Le Figaro",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-10-22",
+        "id": "68e90a15b61f",
+        "titre": "En France, la menace d'une crise financière se précise",
+        "source": "franceinfo",
+        "contexte": "Top 5 du jour"
+      }
+    ],
+    "droits-de-douane": [
+      {
+        "date": "2026-11-02",
+        "id": "92391b6e1d8e",
+        "titre": "Temu, Shein, AliExpress... une nouvelle taxe de deux euros appliquée aux produits importés dans l'Union européenne",
+        "source": "La Tribune",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-10-24",
+        "id": "a344deb0b7ae",
+        "titre": "White House lifts tariffs on some Canadian goods as midterm elections loom",
+        "source": "BBC",
+        "contexte": "Top 5 du jour"
+      }
+    ],
+    "desintermediation": [
+      {
+        "date": "2026-11-02",
+        "id": "055311990aef",
+        "titre": "Après le piratage record de Binance, l'industrie crypto face à l'éternel risque de tout perdre",
+        "source": "Les Echos",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-10-21",
+        "id": "26d782674265",
+        "titre": "Les 6 000 salariés de l’enseigne à petits prix GiFi s’inquiètent pour leur sort",
+        "source": "Le Monde",
+        "contexte": "Top 5 du jour"
+      }
+    ],
+    "productivite-globale-des-facteurs": [
+      {
+        "date": "2026-11-02",
+        "id": "cab011a443da",
+        "titre": "Le grand hold-up : comment les géants de l’IA rançonnent l’économie",
+        "source": "Alternatives Économiques",
+        "contexte": "Top 5 du jour"
+      }
+    ],
+    "effet-d-eviction": [
+      {
+        "date": "2026-11-02",
+        "id": "92a232df0d43",
+        "titre": "Croissance, dette : la France perd pied",
+        "source": "L'Opinion",
+        "contexte": "Concept du jour"
+      }
+    ],
     "pouvoir-d-achat": [
       {
         "date": "2026-11-01",
@@ -60,57 +198,6 @@
         "id": "274d3e22af88",
         "titre": "La stabilité économique mondiale à nouveau menacée par une possible escalade entre les Etats-Unis et l'Iran",
         "source": "La Tribune",
-        "contexte": "Top 5 du jour"
-      }
-    ],
-    "politique-budgetaire": [
-      {
-        "date": "2026-11-01",
-        "id": "e711d3ac219c",
-        "titre": "Livret A : une hausse du plafond à 30 000 euros envisagée pour financer les travaux dans les lycées",
-        "source": "franceinfo",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-10-29",
-        "id": "e6ca90b1ae20",
-        "titre": "\"Plus on fait d’enfants, plus l’État est présent\": Giorgia Meloni dévoile un budget axé sur la natalité et la défense, financé en partie en taxant les banques et les assurances",
-        "source": "BFM Business",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-10-27",
-        "id": "e1f84d25dee5",
-        "titre": "Où en sont les débats sur le PLF et le PLFSS 2027 ? Suivez les étapes de l'examen du budget à l'Assemblée et au Sénat",
-        "source": "franceinfo",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-10-25",
-        "id": "b74c30856b74",
-        "titre": "Healey’s first budget to include big devolution package to boost growth",
-        "source": "The Guardian",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-10-24",
-        "id": "7f6fcbdcfae8",
-        "titre": "PLFSS 2027 : à l’Assemblée, le budget de la Sécurité sociale rejeté après une saignée de 12 milliards d’euros",
-        "source": "Capital",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-10-20",
-        "id": "bc5dc2cd9f4f",
-        "titre": "Les députés ont déjà fait dérailler la trajectoire de réduction du déficit de la Sécurité sociale avant même le début des débats dans l’hémicycle sur le budget de la Sécu",
-        "source": "BFM Business",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-10-19",
-        "id": "6825d2c17a9c",
-        "titre": "Retraite, santé : la protection sociale, principal poste de dépenses de l’État",
-        "source": "Le Figaro",
         "contexte": "Top 5 du jour"
       }
     ],
@@ -534,38 +621,6 @@
         "contexte": "Top 5 du jour"
       }
     ],
-    "droits-de-douane": [
-      {
-        "date": "2026-10-24",
-        "id": "a344deb0b7ae",
-        "titre": "White House lifts tariffs on some Canadian goods as midterm elections loom",
-        "source": "BBC",
-        "contexte": "Top 5 du jour"
-      }
-    ],
-    "effet-boule-de-neige": [
-      {
-        "date": "2026-10-23",
-        "id": "7608def25ec1",
-        "titre": "Taux d’intérêt au-delà des 5 % : une hausse qui sanctionne un débat budgétaire enlisé",
-        "source": "Le Monde",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-10-23",
-        "id": "172c63158dd5",
-        "titre": "Du «spread» à l’«effet boule de neige», ces cinq rouages derrière la très dangereuse spirale de la dette française",
-        "source": "Le Figaro",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-10-22",
-        "id": "68e90a15b61f",
-        "titre": "En France, la menace d'une crise financière se précise",
-        "source": "franceinfo",
-        "contexte": "Top 5 du jour"
-      }
-    ],
     "paradoxe-de-solow-paradoxe-de-la-productivite": [
       {
         "date": "2026-10-23",
@@ -588,15 +643,6 @@
         "id": "940f03c397a4",
         "titre": "Commerces pillés : le gouvernement sort le chéquier, les patrons réclament de l’ordre",
         "source": "Capital",
-        "contexte": "Top 5 du jour"
-      }
-    ],
-    "desintermediation": [
-      {
-        "date": "2026-10-21",
-        "id": "26d782674265",
-        "titre": "Les 6 000 salariés de l’enseigne à petits prix GiFi s’inquiètent pour leur sort",
-        "source": "Le Monde",
         "contexte": "Top 5 du jour"
       }
     ],

@@ -1,7 +1,223 @@
 {
   "version_schema": 1,
-  "mis_a_jour_le": "2026-11-01T10:00:38+01:00",
+  "mis_a_jour_le": "2026-11-02T06:00:03+01:00",
   "entrees": [
+    {
+      "d": "2026-11-02",
+      "i": "ebb9141f734e",
+      "t": "Le budget, pas encore adopté, est-il déjà caduc ? \"Oui\", affirme Philippe Juvin, rapporteur général de la commission des Finances à l'Assemblée nationale",
+      "r": "Le rapporteur général du budget, Philippe Juvin, affirme que le projet de loi de finances est déjà caduc et sera rejeté par le Parlement. Il préconise un recours à l'article 49.3 ainsi qu'une baisse des dépenses publiques d'environ 10 % d'ici 2027.",
+      "c": "desequilibres",
+      "s": "franceinfo",
+      "f": "budget-2027"
+    },
+    {
+      "d": "2026-11-02",
+      "i": "92a232df0d43",
+      "t": "Croissance, dette : la France perd pied",
+      "r": "Selon le ministre des Finances Roland Lescure, la France est « à l'arrêt », confrontée à un net ralentissement de l'activité économique. Les marges de manœuvre de l'État se restreignent sous l'effet conjugué d'une envolée des taux d'intérêt et d'un déficit public à contenir.",
+      "c": "desequilibres",
+      "s": "L'Opinion",
+      "f": "dette-marches"
+    },
+    {
+      "d": "2026-11-02",
+      "i": "92391b6e1d8e",
+      "t": "Temu, Shein, AliExpress... une nouvelle taxe de deux euros appliquée aux produits importés dans l'Union européenne",
+      "r": "L'Union européenne applique désormais des frais de traitement de deux euros sur les petits colis importés, notamment depuis les plateformes chinoises de commerce électronique. Cette mesure s'ajoute à une taxe préalable de trois euros déjà prévue sur ces envois.",
+      "c": "ue",
+      "s": "La Tribune",
+      "f": null
+    },
+    {
+      "d": "2026-11-02",
+      "i": "055311990aef",
+      "t": "Après le piratage record de Binance, l'industrie crypto face à l'éternel risque de tout perdre",
+      "r": "La plateforme de cryptomonnaies Binance fait face à des retraits massifs d'investisseurs après un piratage record de plusieurs milliards de dollars attribué à la Corée du Nord.",
+      "c": "finance",
+      "s": "Les Echos",
+      "f": null
+    },
+    {
+      "d": "2026-11-02",
+      "i": "cab011a443da",
+      "t": "Le grand hold-up : comment les géants de l’IA rançonnent l’économie",
+      "r": "Les géants technologiques renforcent leur emprise sur le secteur de l'intelligence artificielle, un oligopole d'acteurs contrôlant le déploiement de ces nouveaux outils.",
+      "c": "entreprises",
+      "s": "Alternatives Économiques",
+      "f": "intelligence-artificielle"
+    },
+    {
+      "d": "2026-11-02",
+      "i": "cee4290d6e9b",
+      "t": "Croissance : la France à contre-courant d’une Europe résiliente",
+      "r": "L'économie française décroche par rapport à ses voisines européennes, qui résistent mieux grâce au climat des affaires et aux investissements publics.",
+      "c": "croissance",
+      "s": "L'Opinion",
+      "f": "conjoncture-france"
+    },
+    {
+      "d": "2026-11-02",
+      "i": "5e3bb1ab4ec2",
+      "t": "Economie et environnement : « Il faut donner une valeur à ce qui n’a pas de prix pour éclairer nos choix collectifs »",
+      "r": "Des méthodes ont été développées pour évaluer la valeur des services rendus par la nature, palliant les limites du produit intérieur brut.",
+      "c": "croissance",
+      "s": "Le Monde",
+      "f": null
+    },
+    {
+      "d": "2026-11-02",
+      "i": "2aca9a995cde",
+      "t": "William Nordhaus, Prix Nobel d’économie 2018 et premier économiste à travailler sur le changement climatique, est mort à l’âge de 85 ans",
+      "r": "William Nordhaus, premier économiste à travailler sur le changement climatique et prix Nobel d'économie, est mort à 85 ans.",
+      "c": "croissance",
+      "s": "Le Monde",
+      "f": null
+    },
+    {
+      "d": "2026-11-02",
+      "i": "2d93e6ebb9ae",
+      "t": "National Grid implantera la plus grande sous-station du Royaume-Uni près d'un projet de centre de données à Teesside",
+      "r": "National Grid avance sur un projet de grande infrastructure électrique pour alimenter un centre de données et soutenir le développement de l'intelligence artificielle.",
+      "c": "croissance",
+      "s": "The Guardian",
+      "f": "intelligence-artificielle"
+    },
+    {
+      "d": "2026-11-02",
+      "i": "325bf9aefa6f",
+      "t": "La guerre commerciale entre les États-Unis et la Chine semble s'être apaisée, mais ce calme est trompeur",
+      "r": "Une trêve a refroidi le conflit commercial entre les États-Unis et la Chine, sans toutefois écarter le risque de nouvelles hostilités.",
+      "c": "mondialisation",
+      "s": "The Guardian",
+      "f": null
+    },
+    {
+      "d": "2026-11-02",
+      "i": "f3758612bdf0",
+      "t": "« La mer Noire est devenue plus dangereuse que le détroit d'Ormuz » : le nouveau casse-tête militaire de l'Europe face à la Russie",
+      "r": "",
+      "c": "mondialisation",
+      "s": "Les Echos",
+      "f": null
+    },
+    {
+      "d": "2026-11-02",
+      "i": "b6d6878efd63",
+      "t": "Derrière les effusions, ce que contient l’accord UE-Canada (et ce qu’il ne contient pas)",
+      "r": "Les dirigeants canadiens et européens ont présenté l'ébauche de leur alliance pour le futur à Montréal, laissant plusieurs points à négocier.",
+      "c": "mondialisation",
+      "s": "L'Opinion",
+      "f": null
+    },
+    {
+      "d": "2026-11-02",
+      "i": "cae6158799b1",
+      "t": "Soupçons d'espionnage chinois : Trump soutient le patron de Nvidia",
+      "r": "",
+      "c": "mondialisation",
+      "s": "Les Echos",
+      "f": null
+    },
+    {
+      "d": "2026-11-02",
+      "i": "d77a73b80d64",
+      "t": "Sénégal : l'accord avec le FMI menacé par un blocage politique au risque du défaut de paiement pour le pays",
+      "r": "",
+      "c": "finance",
+      "s": "Les Echos",
+      "f": null
+    },
+    {
+      "d": "2026-11-02",
+      "i": "ea02d31f9c12",
+      "t": "Budget 2027 : faute de croissance, le gouvernement va devoir revoir sa copie pour durcir son plan de redressement",
+      "r": "",
+      "c": "desequilibres",
+      "s": "Les Echos",
+      "f": "budget-2027"
+    },
+    {
+      "d": "2026-11-02",
+      "i": "fb59225a6494",
+      "t": "Semaine à hauts risques pour le gouvernement",
+      "r": "Le gouvernement fait face à une semaine sociale à haut risque marquée par des manifestations et discute de potentielles mesures sur le SMIC.",
+      "c": "desequilibres",
+      "s": "franceinfo",
+      "f": "conjoncture-france"
+    },
+    {
+      "d": "2026-11-02",
+      "i": "503c0688ab4c",
+      "t": "Crise énergétique et Budget : la France à l’heure d’hiver",
+      "r": "Les tensions sur les marchés de l'énergie soulignent la nécessité d'affronter les déséquilibres budgétaires du pays.",
+      "c": "desequilibres",
+      "s": "L'Opinion",
+      "f": "budget-2027"
+    },
+    {
+      "d": "2026-11-02",
+      "i": "3c464c577da9",
+      "t": "Anne de Guigné : « L’inflation est là pour durer et personne ne veut l’avouer »",
+      "r": "Les tensions géopolitiques entretiennent des pressions haussières structurelles sur les prix, malgré l'action des responsables politiques.",
+      "c": "desequilibres",
+      "s": "Le Figaro",
+      "f": "inflation-bce"
+    },
+    {
+      "d": "2026-11-02",
+      "i": "81c96a17e26e",
+      "t": "Auto : les ventes de voitures neuves progressent de 7% en octobre, tirées par l'électrique",
+      "r": "En octobre, les immatriculations de voitures neuves en France ont progressé de 7 %, portées par les véhicules électriques et hybrides rechargeables.",
+      "c": "entreprises",
+      "s": "Le Figaro",
+      "f": "conjoncture-france"
+    },
+    {
+      "d": "2026-11-02",
+      "i": "a88029c400cb",
+      "t": "Intel, roi déchu des puces et roi déçu du cash",
+      "r": "",
+      "c": "entreprises",
+      "s": "Les Echos",
+      "f": null
+    },
+    {
+      "d": "2026-11-02",
+      "i": "4f0e1e388615",
+      "t": "Mobilisation: à Paris, certains commerces ouvrent le dimanche jusqu'à Noël pour compenser \"la perte de chiffre d'affaires\" lors des samedi de manifestation",
+      "r": "Malgré une baisse des dégradations de commerces lors des manifestations, les magasins constatent une forte chute de leur chiffre d'affaires.",
+      "c": "entreprises",
+      "s": "BFM Business",
+      "f": "conjoncture-france"
+    },
+    {
+      "d": "2026-11-02",
+      "i": "ecafed167cd0",
+      "t": "ChatGPT en cachette au travail : quels risques pour le salarié ?",
+      "r": "Près de trois salariés sur quatre utilisent l'intelligence artificielle générative au travail, s'exposant à des risques de sanctions en cas d'usage non autorisé.",
+      "c": "entreprises",
+      "s": "Capital",
+      "f": "intelligence-artificielle"
+    },
+    {
+      "d": "2026-11-02",
+      "i": "e4da1ad92f7e",
+      "t": "Relever le plafond du livret A pour financer la rénovation des lycées, une fausse bonne idée ?",
+      "r": "Le gouvernement étudie l'augmentation du plafond du Livret A à 30 000 euros pour financer la rénovation des lycées, une piste aux effets incertains.",
+      "c": "epargne",
+      "s": "L'Opinion",
+      "f": "fiscalite-epargne-patrimoine"
+    },
+    {
+      "d": "2026-11-02",
+      "i": "a8062c895b5b",
+      "t": "Ne vous faites pas piéger par les nouvelles règles du \"Achetez maintenant, payez plus tard\"",
+      "r": "De nouveaux contrôles d'accessibilité financière pourraient bloquer l'accès des consommateurs aux solutions de paiement échelonné.",
+      "c": "epargne",
+      "s": "BBC",
+      "f": null
+    },
     {
       "d": "2026-11-01",
       "i": "15b4255dffb6",

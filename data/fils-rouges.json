@@ -1,6 +1,6 @@
 {
   "version_schema": 1,
-  "mis_a_jour_le": "2026-11-01T10:02:50+01:00",
+  "mis_a_jour_le": "2026-11-02T06:00:56+01:00",
   "fils": [
     {
       "id": "budget-2027",
@@ -11,8 +11,8 @@
       "categories": [
         "desequilibres"
       ],
-      "ou_en_est_on": "L'examen budgétaire met en évidence des tensions croissantes entre objectifs de rigueur et initiatives parlementaires, les députés ayant voté de nouvelles taxes sur les grandes entreprises et adopté le « pacte Papin » contre l'avis du gouvernement. Le projet de budget prévoit également de prélever 17 % sur les avoirs oubliés confiés à la Caisse des dépôts pour dégager des recettes. Alors que la commission des finances cherche des sources de financement, l'exécutif fait face à des pressions politiques l'exhortant à recourir au 49.3 pour faire adopter le texte.",
-      "ou_en_est_on_maj_le": "2026-10-31",
+      "ou_en_est_on": "L'examen budgétaire s'enlise dans de fortes tensions politiques, le rapporteur général Philippe Juvin affirmant que le projet de loi de finances est déjà caduc et sera rejeté par les parlementaires. Alors que la commission des finances s'est heurtée à des divergences sur les recettes et les dépenses, les appels se multiplient pour inciter le gouvernement à recourir à l'article 49.3. L'exécutif doit simultanément composer avec l'aggravation des déficits sociaux et les pressions exercées par de nouvelles tensions sur les coûts de l'énergie.",
+      "ou_en_est_on_maj_le": "2026-11-02",
       "evenements": [
         {
           "date": "2026-10-17",
@@ -394,6 +394,27 @@
               "url": "https://www.bfmtv.com/economie/economie-social/finances-publiques/la-secu-peut-elle-faire-faillite-et-arreter-de-payer-les-retraites-ou-les-allocations-c-est-peu-probable-mais-elle-va-vite-devoir-trouver-une-maniere-de-se-financer-avant-de-tomber-dans-la-crise_AN-202611010089.html"
             }
           ]
+        },
+        {
+          "date": "2026-11-02",
+          "resume": "Le rapporteur général de la commission des Finances, Philippe Juvin, juge le projet de budget déjà caduc, anticipe son rejet par le Parlement et appelle à recourir à l'article 49.3.",
+          "liens": [
+            {
+              "titre": "Le budget, pas encore adopté, est-il déjà caduc ? \"Oui\", affirme Philippe Juvin, rapporteur général de la commission des Finances à l'Assemblée nationale",
+              "source": "franceinfo",
+              "url": "https://www.franceinfo.fr/economie/budget/le-budget-pas-encore-adopte-est-il-deja-caduc-oui-affirme-philippe-juvin-rapporteur-general-de-la-commission-des-finances-a-l-assemblee-nationale_8262695.html#xtor=RSS-3-%5Bgeneral%5D"
+            },
+            {
+              "titre": "Crise énergétique et Budget : la France à l’heure d’hiver",
+              "source": "L'Opinion",
+              "url": "https://www.lopinion.fr/politique/crise-energetique-et-budget-la-france-a-lheure-dhiver"
+            },
+            {
+              "titre": "Le pouvoir d’achat, le vrai, le faux et le long terme",
+              "source": "L'Opinion",
+              "url": "https://www.lopinion.fr/economie/le-pouvoir-dachat-le-vrai-le-faux-et-le-long-terme"
+            }
+          ]
         }
       ]
     },
@@ -625,6 +646,17 @@
               "url": "https://www.lemonde.fr/economie/article/2026/10/31/l-agence-fitch-maintient-la-note-de-la-dette-souveraine-de-la-france-mais-degrade-sa-perspective_6803235_3234.html"
             }
           ]
+        },
+        {
+          "date": "2026-11-02",
+          "resume": "Le ministre des Finances Roland Lescure constate que l'économie française est à l'arrêt, réduisant les marges de manœuvre pour contenir le déficit public face à l'envolée des taux.",
+          "liens": [
+            {
+              "titre": "Croissance, dette : la France perd pied",
+              "source": "L'Opinion",
+              "url": "https://www.lopinion.fr/economie/croissance-dette-la-france-perd-pied"
+            }
+          ]
         }
       ]
     },
@@ -638,8 +670,8 @@
         "mondialisation",
         "desequilibres"
       ],
-      "ou_en_est_on": "Face à la flambée des cours énergétiques et du fret maritime liée aux tensions au Moyen-Orient, une action coordonnée s'organise avec le déstockage de barils de pétrole par l'UE et la France. Dans ce contexte, TotalEnergies a annoncé une baisse du prix du gazole de 10 centimes dans ses stations dès le 31 octobre, tandis que la répercussion de ces mesures se met en place progressivement chez les différents distributeurs.",
-      "ou_en_est_on_maj_le": "2026-10-31",
+      "ou_en_est_on": "Alors que le déstockage coordonné de barils vise à freiner la hausse des carburants, la répercussion de cette mesure suscite des disparités sur le terrain. Le réseau Mobilians dénonce le fait que les petites stations n'ont pas accès aux réserves stratégiques et ne peuvent pas répercuter de baisse, risquant des fermetures face aux grands distributeurs.",
+      "ou_en_est_on_maj_le": "2026-11-02",
       "evenements": [
         {
           "date": "2026-10-17",
@@ -852,6 +884,17 @@
               "titre": "Puiser dans les stocks stratégiques de carburants n'est \"pas anodin\", souligne l'économiste Patrice Geoffron",
               "source": "franceinfo",
               "url": "https://www.franceinfo.fr/economie/transports/prix-des-carburants/puiser-dans-les-stocks-strategiques-de-carburants-n-est-pas-anodin-souligne-l-economiste-patrice-geoffron_8262452.html#xtor=RSS-3-%5Bgeneral%5D"
+            }
+          ]
+        },
+        {
+          "date": "2026-11-02",
+          "resume": "Le réseau Mobilians alerte sur le fait que les petites stations-services n'ont pas reçu les volumes des stocks stratégiques, les empêchant de baisser leurs prix.",
+          "liens": [
+            {
+              "titre": "Les petites stations-services \"n'ont pas reçu les stocks stratégiques de carburants et ne peuvent pas baisser les prix\", alerte Francis Pousse, du réseau Mobilians",
+              "source": "franceinfo",
+              "url": "https://www.franceinfo.fr/economie/automobile/essence/les-petites-stations-services-n-ont-pas-recu-les-stocks-strategiques-de-carburants-et-ne-peuvent-pas-baisser-les-prix-alerte-francis-pousse-du-reseau-mobilians_8262764.html#xtor=RSS-3-%5Bgeneral%5D"
             }
           ]
         }
@@ -1396,8 +1439,8 @@
         "desequilibres",
         "entreprises"
       ],
-      "ou_en_est_on": "L'activité économique française montre des signes de fragilité avec un recul du PIB au troisième trimestre, faisant planer le spectre d'une récession qui pèse lourdement sur les comptes publics. Les entreprises continuent de faire face à des difficultés accrues, le cabinet Altarès prévoyant près de 19 000 défaillances au quatrième trimestre 2026 dans un climat marqué par l'accélération de l'inflation à 3,4 % et des tensions sur l'emploi.",
-      "ou_en_est_on_maj_le": "2026-10-31",
+      "ou_en_est_on": "L'économie française subit un ralentissement marqué par rapport à ses partenaires européens, avec une activité à l'arrêt et un recul du produit intérieur brut. Le climat social pèse lourdement sur les commerces, qui accusent des pertes de recettes pouvant atteindre 80 % les jours de mobilisation. Face à la multiplication des appels à la grève et aux blocages, l'exécutif étudie des pistes de sortie de crise, dont une revalorisation du SMIC.",
+      "ou_en_est_on_maj_le": "2026-11-02",
       "evenements": [
         {
           "date": "2026-10-17",
@@ -1854,6 +1897,32 @@
               "url": "https://www.franceinfo.fr/societe/manifestations/le-commerce-traditionnel-est-en-danger-alerte-le-president-de-la-chambre-du-commerce-et-de-l-industrie-de-paris-avant-de-nouvelles-manifestations-samedi_8261735.html#xtor=RSS-3-%5Bgeneral%5D"
             }
           ]
+        },
+        {
+          "date": "2026-11-02",
+          "resume": "L'activité commerciale subit de fortes baisses de chiffre d'affaires liées aux manifestations, tandis que le gouvernement envisage un geste sur le SMIC face à la rentrée sociale.",
+          "liens": [
+            {
+              "titre": "Croissance : la France à contre-courant d’une Europe résiliente",
+              "source": "L'Opinion",
+              "url": "https://www.lopinion.fr/economie/croissance-la-france-a-contre-courant-dune-europe-resiliente"
+            },
+            {
+              "titre": "Semaine à hauts risques pour le gouvernement",
+              "source": "franceinfo",
+              "url": "https://www.franceinfo.fr/economie/greve/semaine-a-hauts-risques-pour-le-gouvernement_8263184.html#xtor=RSS-3-%5Bgeneral%5D"
+            },
+            {
+              "titre": "Mobilisation: à Paris, certains commerces ouvrent le dimanche jusqu'à Noël pour compenser \"la perte de chiffre d'affaires\" lors des samedi de manifestation",
+              "source": "BFM Business",
+              "url": "https://www.bfmtv.com/economie/consommation/video-mobilisation-a-paris-certains-commerces-ouvrent-le-dimanche-jusqu-a-noel-pour-compenser-la-perte-de-chiffre-d-affaires-lors-des-samedi-de-manifestation_VN-202611010278.html"
+            },
+            {
+              "titre": "Colère sociale: \"On a une crise du mépris\", martèle Alexandre Jardin, président de l'association \"Les Gueux\"",
+              "source": "BFM Business",
+              "url": "https://www.bfmtv.com/economie/video-colere-sociale-on-a-une-crise-du-mepris-martele-alexandre-jardin-president-de-l-association-les-gueux_VN-202611010329.html"
+            }
+          ]
         }
       ]
     },
@@ -2213,6 +2282,27 @@
               "titre": "« C’est un changement de paradigme » : l’IA, nouvelle arme des entreprises face aux attaques automatisées",
               "source": "L'Opinion",
               "url": "https://www.lopinion.fr/economie/cest-un-changement-de-paradigme-lia-nouvelle-arme-des-entreprises-face-aux-attaques-automatisees"
+            }
+          ]
+        },
+        {
+          "date": "2026-11-02",
+          "resume": "Des analyses pointent les risques de captation des gains de productivité par un petit nombre de géants technologiques, tandis que l'usage non encadré de l'IA générative progresse fortement chez les salariés.",
+          "liens": [
+            {
+              "titre": "Le grand hold-up : comment les géants de l’IA rançonnent l’économie",
+              "source": "Alternatives Économiques",
+              "url": "https://www.alternatives-economiques.fr/le-grand-hold-up-comment-les-geants-de-l-ia-ranconnent-l-economie_01-11-2026"
+            },
+            {
+              "titre": "National Grid to site biggest substation in UK near planned Teesside datacentre",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/business/2026/nov/01/national-grid-to-site-biggest-substation-on-teesside-near-planned-ai-datacentre"
+            },
+            {
+              "titre": "ChatGPT en cachette au travail : quels risques pour le salarié ?",
+              "source": "Capital",
+              "url": "https://www.capital.fr/votre-carriere/chatgpt-en-cachette-au-travail-quels-risques-pour-le-salarie-1531412"
             }
           ]
         }
