@@ -1,6 +1,6 @@
 {
   "version_schema": 1,
-  "mis_a_jour_le": "2026-11-03T05:55:23+01:00",
+  "mis_a_jour_le": "2026-11-03T10:08:16+01:00",
   "fils": [
     {
       "id": "budget-2027",
@@ -1442,8 +1442,8 @@
       "categories": [
         "epargne"
       ],
-      "ou_en_est_on": "L'incertitude liée aux débats budgétaires et aux violences urbaines pousse une partie des épargnants à solliciter les conseillers en gestion de patrimoine pour loger des fonds hors de France. Dans le même temps, le Conseil constitutionnel a censuré l'interdiction faite aux mutuelles et assureurs d'augmenter leurs tarifs, jugeant la mesure contraire à la liberté d'entreprendre. Enfin, des économistes défendent l'option d'un fléchage de l'épargne réglementée pour financer les besoins de la transition écologique et des services publics.",
-      "ou_en_est_on_maj_le": "2026-10-24",
+      "ou_en_est_on": "L'incertitude liée aux débats budgétaires pousse les épargnants vers la gestion de patrimoine hors de France, tandis que le gouvernement envisage de mobiliser jusqu'à 60 milliards d'euros de l'épargne réglementée, notamment du Livret A, pour financer la construction de nouveaux réacteurs nucléaires, une mesure contestée par la gauche. Parallèlement, le Conseil constitutionnel a censuré l'interdiction faite aux mutuelles et assureurs d'augmenter leurs tarifs au nom de la liberté d'entreprendre.",
+      "ou_en_est_on_maj_le": "2026-11-03",
       "evenements": [
         {
           "date": "2026-10-17",
@@ -1539,6 +1539,17 @@
               "titre": "Livret A : une hausse du plafond à 30 000 euros envisagée pour financer les travaux dans les lycées",
               "source": "franceinfo",
               "url": "https://www.franceinfo.fr/economie/votre-argent/livret-a/livret-a-une-hausse-du-plafond-a-30-000-euros-envisagee-pour-financer-les-travaux-dans-les-lycees_8262188.html#xtor=RSS-3-%5Bgeneral%5D"
+            }
+          ]
+        },
+        {
+          "date": "2026-11-03",
+          "resume": "Le gouvernement prévoit de mobiliser jusqu'à 60 milliards d'euros du Livret A pour financer les réacteurs nucléaires EPR2, provoquant l'opposition d'un collectif d'élus de gauche et d'associations.",
+          "liens": [
+            {
+              "titre": "\"Une décision qui viole les règles de la démocratie\": le gouvernement veut puiser jusqu'à 60 milliards d'euros dans le Livret A pour financer ses futurs réacteurs nucléaires, la gauche s'insurge",
+              "source": "BFM Business",
+              "url": "https://www.bfmtv.com/economie/patrimoine/placements-epargne/une-decision-qui-viole-les-regles-de-la-democratie-le-gouvernement-veut-puiser-jusqu-a-60-milliards-d-euros-dans-le-livret-a-pour-financer-ses-futurs-reacteurs-nucleaires-la-gauche-s-insurge_AD-202611030245.html"
             }
           ]
         }
