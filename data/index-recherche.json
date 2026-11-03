@@ -1,7 +1,304 @@
 {
   "version_schema": 1,
-  "mis_a_jour_le": "2026-11-02T10:28:21+01:00",
+  "mis_a_jour_le": "2026-11-03T05:52:54+01:00",
   "entrees": [
+    {
+      "d": "2026-11-03",
+      "i": "18db03c9d05f",
+      "t": "« Ils ne tiennent plus le manche » : le budget de Sébastien Lecornu s’enfonce dans l’impasse",
+      "r": "Avec la stagnation de l’économie française, le scénario des ordonnances ne suffira plus à réduire le déficit à 5 % du PIB en 2027, malgré 43 milliards d’efforts. Bercy mise encore sur un accord de non‑censure après un 49.3.",
+      "c": "desequilibres",
+      "s": "L'Opinion",
+      "f": "budget-2027"
+    },
+    {
+      "d": "2026-11-03",
+      "i": "fe2bd460e083",
+      "t": "Le prix du pétrole baisse dans l'espoir d'une issue à la guerre en Iran",
+      "r": "Le Brent crude chute de plus de 6 % pour atteindre 105,55 $ le baril, son plus bas niveau depuis plus de deux semaines, suite à de nouveaux espoirs de résolution du conflit en Iran.",
+      "c": "finance",
+      "s": "The Guardian",
+      "f": "choc-petrolier-ormuz"
+    },
+    {
+      "d": "2026-11-03",
+      "i": "36f95db9f57b",
+      "t": "Négociations commerciales : la grande distribution boycotte la réunion de Bercy",
+      "r": "La réunion de préparation des négociations annuelles entre industriels et distributeurs s’est tenue le 2 novembre à Bercy, avec une quarantaine de participants, mais la Fédération du commerce et de la distribution a boycotté l’événement.",
+      "c": "entreprises",
+      "s": "Capital",
+      "f": "conjoncture-france"
+    },
+    {
+      "d": "2026-11-03",
+      "i": "6130605ab766",
+      "t": "Carburants : la baisse du prix du gazole peut-elle durer ?",
+      "r": "Le gazole commence à baisser de 12 à 18 centimes par litre en moyenne dans plus de la moitié des stations, suite au déstockage de barils issus des réserves stratégiques françaises.",
+      "c": "croissance",
+      "s": "franceinfo",
+      "f": "choc-petrolier-ormuz"
+    },
+    {
+      "d": "2026-11-03",
+      "i": "8d59b9722346",
+      "t": "Les ventes de cognac s'effondrent depuis 5 ans, l'Assemblée vote un soulagement spécifique de TVA, avec l'aval du gouvernement",
+      "r": "L’Assemblée a adopté une exonération de TVA pour les entreprises viticoles et de boissons alcoolisées qui exportent plus de 85 % de leurs ventes, comme le cognac, afin d’amortir leurs achats et opérations de production.",
+      "c": "desequilibres",
+      "s": "BFM Business",
+      "f": "budget-2027"
+    },
+    {
+      "d": "2026-11-03",
+      "i": "67fa1689a493",
+      "t": "Face à la domination de SpaceX, l’Europe contrainte de se bâtir un accès autonome à l’espace",
+      "r": "Face à la domination de SpaceX, l'Europe cherche à développer un accès autonome à l'espace en s'appuyant sur le lanceur Ariane-6.",
+      "c": "croissance",
+      "s": "Le Monde",
+      "f": null
+    },
+    {
+      "d": "2026-11-03",
+      "i": "cff829d9b0a8",
+      "t": "La Corée du Sud met sur la table près de 15 milliards d’euros pour l’IA en 2027",
+      "r": "La Corée du Sud prévoit d'investir près de 15 milliards d'euros dans l'intelligence artificielle pour l'année 2027 dans le cadre d'un budget à l'équilibre.",
+      "c": "croissance",
+      "s": "Le Figaro",
+      "f": "intelligence-artificielle"
+    },
+    {
+      "d": "2026-11-03",
+      "i": "44c0f1cea5d6",
+      "t": "\"Il n'y a pas de baguette magique\" : on vous explique pourquoi les prix des carburants baissent légèrement, et pourquoi ça risque de ne pas durer",
+      "r": "Le déstockage de 10 millions de barils de gazole entraîne une baisse temporaire des prix des carburants dans les stations-service.",
+      "c": "croissance",
+      "s": "franceinfo",
+      "f": "choc-petrolier-ormuz"
+    },
+    {
+      "d": "2026-11-03",
+      "i": "768b2fc45e9e",
+      "t": "Comment les crises géopolitiques façonnent notre avenir énergétique",
+      "r": "TotalEnergies a actualisé ses scénarios énergétiques de long terme, mettant en évidence des divergences régionales croissantes.",
+      "c": "croissance",
+      "s": "L'Opinion",
+      "f": "choc-petrolier-ormuz"
+    },
+    {
+      "d": "2026-11-03",
+      "i": "5297f8ddfa34",
+      "t": "« L'Italie a un besoin désespéré de capitaux » : Giorgia Meloni taxe les riches qui veulent partir",
+      "r": "L'Italie instaure une exit tax ciblant les contribuables fortunés afin de préserver son assiette fiscale face à la concurrence des capitaux.",
+      "c": "mondialisation",
+      "s": "L'Opinion",
+      "f": null
+    },
+    {
+      "d": "2026-11-03",
+      "i": "1a6937b96fb1",
+      "t": "Les Etats-Unis font pression pour rétablir les ventes de gaz russe à l’Europe via l’Ukraine",
+      "r": "Les États-Unis font pression pour rétablir les ventes de gaz russe à l'Europe via l'Ukraine afin d'instaurer un cessez-le-feu énergétique, malgré des résistances européennes.",
+      "c": "mondialisation",
+      "s": "L'Opinion",
+      "f": "ukraine-sanctions"
+    },
+    {
+      "d": "2026-11-03",
+      "i": "b6330c324477",
+      "t": "Petits colis importés : 3 euros de droits de douane, 2 euros de frais de traitement… ce qui change",
+      "r": "L'achat en ligne de produits hors Union européenne de 150 euros ou moins entraîne désormais l'application de droits de douane et de frais de traitement.",
+      "c": "mondialisation",
+      "s": "Toute l'Europe",
+      "f": null
+    },
+    {
+      "d": "2026-11-03",
+      "i": "a90103c50444",
+      "t": "Le Royaume-Uni et l'UE s'accordent sur un projet d'accord visant à supprimer les formalités administratives du Brexit sur les exportations alimentaires",
+      "r": "Un projet d'accord a été conclu entre le Royaume-Uni et l'Union européenne pour réduire les barrières douanières sur les exportations alimentaires.",
+      "c": "mondialisation",
+      "s": "BBC",
+      "f": null
+    },
+    {
+      "d": "2026-11-03",
+      "i": "5c9e0a8d1b31",
+      "t": "En Turquie, la débâcle des fonds d’investissement aux ramifications financières et politiques tentaculaires",
+      "r": "En Turquie, la chute du courtier Tera met en cause des responsables politiques et laisse un demi-million d'épargnants dans l'attente de remboursements.",
+      "c": "finance",
+      "s": "Le Monde",
+      "f": null
+    },
+    {
+      "d": "2026-11-03",
+      "i": "79ab02daae4d",
+      "t": "« On ne peut pas exclure un scénario catastrophe » : minée par les divisions politiques, la banque centrale polonaise risque la paralysie",
+      "r": "",
+      "c": "finance",
+      "s": "Les Echos",
+      "f": null
+    },
+    {
+      "d": "2026-11-03",
+      "i": "88b9f6494296",
+      "t": "Les parieurs des marchés de prédiction sont les nouveaux experts politiques. Pourquoi les écouter ?",
+      "r": "Les plateformes de paris en ligne sur les événements politiques se présentent comme populistes, mais soulèvent des risques de manipulation pour les électeurs.",
+      "c": "finance",
+      "s": "The Guardian",
+      "f": null
+    },
+    {
+      "d": "2026-11-03",
+      "i": "62bdbfd0d45f",
+      "t": "Il est temps de bloquer les introductions en bourse imprudentes dans l'IA et de taxer les milliardaires",
+      "r": "Les auteurs critiquent les risques pris par la classe des milliardaires et évoquent les difficultés économiques rencontrées par des millions d'Américains face au coût de la vie.",
+      "c": "finance",
+      "s": "The Guardian",
+      "f": "intelligence-artificielle"
+    },
+    {
+      "d": "2026-11-03",
+      "i": "6e7689388ffd",
+      "t": "Hausse du smic, gel des allégements de charges… Les négociations annuelles sur les salaires sous haute tension",
+      "r": "Les négociations salariales s'annoncent tendues pour les entreprises, confrontées à une croissance en berne et à des mesures représentant plus de 11 milliards d'euros.",
+      "c": "desequilibres",
+      "s": "Le Figaro",
+      "f": "conjoncture-france"
+    },
+    {
+      "d": "2026-11-03",
+      "i": "65e906607b2f",
+      "t": "Pourquoi les prix du pétrole ne baissent pas alors que les exportations ont repris",
+      "r": "Malgré la reprise des exportations et la hausse de la production américaine, divers facteurs maintiennent les prix du pétrole à un niveau élevé.",
+      "c": "desequilibres",
+      "s": "Alternatives Économiques",
+      "f": "choc-petrolier-ormuz"
+    },
+    {
+      "d": "2026-11-03",
+      "i": "814582315e8d",
+      "t": "Pouvoir d'achat: \"On devrait avoir cette baisse durant les trois mois qui viennent\", annonce Thierry Cotillard (Les Mousquetaires)",
+      "r": "Le groupement Les Mousquetaires anticipe une baisse des prix en rayon dans les trois prochains mois, portée par les négociations et ajustements de marché.",
+      "c": "desequilibres",
+      "s": "BFM Business",
+      "f": "conjoncture-france"
+    },
+    {
+      "d": "2026-11-03",
+      "i": "cad585bf52c4",
+      "t": "Pouvoir d’achat : rapprocher le salaire net du salaire brut, un objectif pas si simple",
+      "r": "Le think tank Génération libre propose de baisser les cotisations salariales pour augmenter de 10 % le pouvoir d'achat des travailleurs.",
+      "c": "desequilibres",
+      "s": "La Tribune",
+      "f": null
+    },
+    {
+      "d": "2026-11-03",
+      "i": "08bf4ebc5144",
+      "t": "Après la cyberattaque des réfrigérateurs, l’Europe s’inquiète de la vulnérabilité des champs photovoltaïques",
+      "r": "Bruxelles envisage de bloquer certains équipements chinois, notamment les onduleurs, pour sécuriser les champs photovoltaïques face aux cyberattaques.",
+      "c": "ue",
+      "s": "Le Figaro",
+      "f": null
+    },
+    {
+      "d": "2026-11-03",
+      "i": "fbdaeaeb1d42",
+      "t": "« Koalicja » : la « Coalition des volontaires » teste sa future force militaire",
+      "r": "La Force multinationale pour l'Ukraine réalise son premier test en Pologne, sous direction française et britannique et sans les États-Unis.",
+      "c": "ue",
+      "s": "L'Opinion",
+      "f": "ukraine-sanctions"
+    },
+    {
+      "d": "2026-11-03",
+      "i": "d9819d5480ab",
+      "t": "Parcoursup va être remplacé : et si l'Europe ouvrait d'autres horizons aux étudiants ?",
+      "r": "Le processus de Bologne a permis de rapprocher les systèmes universitaires européens autour d'une organisation commune en trois grades : licence, master et doctorat.",
+      "c": "ue",
+      "s": "Toute l'Europe",
+      "f": null
+    },
+    {
+      "d": "2026-11-03",
+      "i": "a96e574d4caf",
+      "t": "L'agenda européen : quels sont les principaux événements prévus du 2 au 8 novembre 2026 ?",
+      "r": "L'agenda européen de la semaine inclut le suivi des progrès des pays candidats à l'adhésion par la Commission et l'action des syndicats agricoles.",
+      "c": "ue",
+      "s": "Toute l'Europe",
+      "f": null
+    },
+    {
+      "d": "2026-11-03",
+      "i": "39f89cab5e97",
+      "t": "L'emblématique grand magasin parisien BHV placé en redressement judiciaire",
+      "r": "Le grand magasin parisien BHV et le site de Parly 2 ont été placés en redressement judiciaire, ouvrant une période d'observation de six mois.",
+      "c": "entreprises",
+      "s": "franceinfo",
+      "f": null
+    },
+    {
+      "d": "2026-11-03",
+      "i": "993570a5e9b2",
+      "t": "Des réfrigérateurs et congélateurs de magasins à travers l'Europe touchés par une nouvelle cyberattaque suspecte",
+      "r": "Des supermarchés dans sept pays européens ont vu les températures de leurs unités de réfrigération augmenter à la suite d'une cyberattaque.",
+      "c": "entreprises",
+      "s": "The Guardian",
+      "f": null
+    },
+    {
+      "d": "2026-11-03",
+      "i": "88b060457318",
+      "t": "L’UE dénonce «des cyberattaques répétées extrêmement préoccupantes» contre des supermarchés en Europe",
+      "r": "L'Union européenne qualifie de préoccupantes les cyberattaques répétées ayant ciblé des milliers de réfrigérateurs de supermarchés en Europe.",
+      "c": "entreprises",
+      "s": "Le Figaro",
+      "f": null
+    },
+    {
+      "d": "2026-11-03",
+      "i": "5fde059d3dcb",
+      "t": "Apple affiche un chiffre d'affaires supérieur aux prévisions lors du premier rapport sur les résultats du nouveau PDG John Ternus",
+      "r": "Apple a enregistré un chiffre d'affaires supérieur aux attentes des analystes pour son premier trimestre fiscal sous la direction de son nouveau PDG.",
+      "c": "entreprises",
+      "s": "The Guardian",
+      "f": null
+    },
+    {
+      "d": "2026-11-03",
+      "i": "644b7d543e34",
+      "t": "Placements : «quand la dette de la France fait peur, l’or redevient un investissement incontournable»",
+      "r": "L'or redevient une valeur refuge incontournable pour les investisseurs face aux craintes concernant la dette souveraine française.",
+      "c": "epargne",
+      "s": "Capital",
+      "f": "dette-marches"
+    },
+    {
+      "d": "2026-11-03",
+      "i": "73187464922f",
+      "t": "Budget 2027 : enfin de bonnes nouvelles pour les propriétaires ?",
+      "r": "Les députés ont adopté des amendements au budget favorables aux investisseurs et aux acheteurs immobiliers.",
+      "c": "epargne",
+      "s": "L'Opinion",
+      "f": "budget-2027"
+    },
+    {
+      "d": "2026-11-03",
+      "i": "859285aef5bd",
+      "t": "Les rétrocessions des conseillers financiers bientôt mieux encadrées",
+      "r": "Le gendarme de la Bourse prévoit de publier une note encadrant les conditions de rémunération des conseillers financiers par les gérants de produits.",
+      "c": "epargne",
+      "s": "Le Monde",
+      "f": null
+    },
+    {
+      "d": "2026-11-03",
+      "i": "30ffd0320334",
+      "t": "Prêt viager hypothécaire : comment obtenir des liquidités sans vendre son logement",
+      "r": "Le prêt viager hypothécaire permet aux propriétaires disposant d'un patrimoine immobilier important d'obtenir des liquidités sans avoir à quitter leur logement.",
+      "c": "epargne",
+      "s": "Capital",
+      "f": null
+    },
     {
       "d": "2026-11-02",
       "i": "ebb9141f734e",

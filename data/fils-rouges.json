@@ -1,6 +1,6 @@
 {
   "version_schema": 1,
-  "mis_a_jour_le": "2026-11-02T10:32:10+01:00",
+  "mis_a_jour_le": "2026-11-03T05:55:23+01:00",
   "fils": [
     {
       "id": "budget-2027",
@@ -11,8 +11,8 @@
       "categories": [
         "desequilibres"
       ],
-      "ou_en_est_on": "L'examen budgétaire s'enlise dans de fortes tensions politiques, le rapporteur général Philippe Juvin affirmant que le projet de loi de finances est déjà caduc face à la révision à la baisse des prévisions de croissance. Alors que la commission des finances se heurte à des divergences sur les recettes et les dépenses, Sébastien Lecornu présente l'objectif ambitieux de réduire le déficit de la Sécurité sociale de 21,8 milliards à 12,7 milliards d'euros en 2027. L'exécutif doit simultanément composer avec l'aggravation des déficits sociaux et les appels croissants à recourir à l'article 49.3.",
-      "ou_en_est_on_maj_le": "2026-11-02",
+      "ou_en_est_on": "L'examen budgétaire se poursuit dans un climat d'impasse, la stagnation économique compromettant l'objectif de réduction du déficit à 5 % du PIB en 2027 malgré d'importants efforts. Face aux difficultés, l'exécutif mise sur un accord de non-censure après l'utilisation potentielle du 49.3, tandis que l'Assemblée adopte divers amendements sectoriels, notamment des mesures fiscales pour l'immobilier, les entreprises viticoles et la suppression de la hausse de TVA pour Canal+.",
+      "ou_en_est_on_maj_le": "2026-11-03",
       "evenements": [
         {
           "date": "2026-10-17",
@@ -425,6 +425,27 @@
               "url": "https://www.franceinfo.fr/replay-radio/le-decryptage-eco/alors-que-les-previsions-macroeconomiques-ne-tiennent-plus-a-quoi-servent-les-discussions-dans-l-hemicycle-sur-le-budget_8243353.html#xtor=RSS-3-%5Bgeneral%5D"
             }
           ]
+        },
+        {
+          "date": "2026-11-03",
+          "resume": "L'Assemblée nationale a adopté des amendements favorables aux investisseurs immobiliers, une exonération de TVA pour le secteur viticole exportateur, ainsi que la suppression de la hausse de TVA pour Canal+.",
+          "liens": [
+            {
+              "titre": "Les ventes de cognac s'effondrent depuis 5 ans, l'Assemblée vote un soulagement spécifique de TVA, avec l'aval du gouvernement",
+              "source": "BFM Business",
+              "url": "https://www.bfmtv.com/economie/economie-social/finances-publiques/les-ventes-de-cognac-s-effondrent-depuis-5-ans-l-assemblee-vote-un-soulagement-specifique-de-tva-avec-l-aval-du-gouvernement_AD-202611020833.html"
+            },
+            {
+              "titre": "Budget 2027 : enfin de bonnes nouvelles pour les propriétaires ?",
+              "source": "L'Opinion",
+              "url": "https://www.lopinion.fr/economie/budget-2027-enfin-de-bonnes-nouvelles-pour-les-proprietaires"
+            },
+            {
+              "titre": "Budget 2027 : les députés écartent la hausse de TVA pour Canal+",
+              "source": "Le Figaro",
+              "url": "https://www.lefigaro.fr/medias/budget-2027-les-deputes-ecartent-la-hausse-de-tva-pour-canal-20261102"
+            }
+          ]
         }
       ]
     },
@@ -667,6 +688,17 @@
               "url": "https://www.lopinion.fr/economie/croissance-dette-la-france-perd-pied"
             }
           ]
+        },
+        {
+          "date": "2026-11-03",
+          "resume": "Face aux inquiétudes entourant la dette souveraine française, l'or s'impose à nouveau comme une valeur refuge incontournable pour les investisseurs.",
+          "liens": [
+            {
+              "titre": "Placements : «quand la dette de la France fait peur, l’or redevient un investissement incontournable»",
+              "source": "Capital",
+              "url": "https://www.capital.fr/votre-argent/placements-quand-la-dette-de-la-france-fait-peur-lor-redevient-un-investissement-incontournable-1531485"
+            }
+          ]
         }
       ]
     },
@@ -680,8 +712,8 @@
         "mondialisation",
         "desequilibres"
       ],
-      "ou_en_est_on": "Alors que le déstockage coordonné de barils vise à freiner la hausse des carburants, le gouvernement indique qu'une station-service sur deux a répercuté la baisse, tandis que le réseau Mobilians alertait sur les difficultés des petites stations. Sur le plan international, le conflit au Moyen-Orient pèse lourdement sur les coûts énergétiques des entreprises de transport, poussant certaines compagnies comme Ryanair à envisager des mesures d'économies drastiques, alors que des négociations indirectes menées par le Qatar tentent d'obtenir la réouverture du détroit d'Ormuz.",
-      "ou_en_est_on_maj_le": "2026-11-02",
+      "ou_en_est_on": "Le déstockage de 10 millions de barils de gazole issus des réserves stratégiques permet une baisse temporaire des prix à la pompe, répercutée par TotalEnergies et la grande distribution. Parallèlement, le cours du Brent recule à son plus bas niveau depuis plus de deux semaines, porté par des espoirs d'apaisement au Moyen-Orient.",
+      "ou_en_est_on_maj_le": "2026-11-03",
       "evenements": [
         {
           "date": "2026-10-17",
@@ -915,6 +947,32 @@
               "titre": "Negotiators ‘braced for worst’ over US-Iran talks to reopen strait of Hormuz",
               "source": "The Guardian",
               "url": "https://www.theguardian.com/world/2026/nov/01/negotiators-braced-for-worst-over-us-iran-talks-to-reopen-strait-of-hormuz"
+            }
+          ]
+        },
+        {
+          "date": "2026-11-03",
+          "resume": "Le déstockage de réserves stratégiques entraîne une baisse temporaire des prix du gazole de 12 à 18 centimes dans plus de la moitié des stations, tandis que le cours du Brent chute sous l'effet d'espoirs de paix.",
+          "liens": [
+            {
+              "titre": "Oil price falls amid hope of a breakthrough to end Iran war",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/business/2026/nov/02/oil-price-falls-amid-hope-of-a-breakthrough-to-end-iran-war"
+            },
+            {
+              "titre": "Carburants : la baisse du prix du gazole peut-elle durer ?",
+              "source": "franceinfo",
+              "url": "https://www.franceinfo.fr/economie/transports/prix-des-carburants/carburants-la-baisse-du-prix-du-gazole-peut-elle-durer_8264708.html#xtor=RSS-3-%5Bgeneral%5D"
+            },
+            {
+              "titre": "\"Il n'y a pas de baguette magique\" : on vous explique pourquoi les prix des carburants baissent légèrement, et pourquoi ça risque de ne pas durer",
+              "source": "franceinfo",
+              "url": "https://www.franceinfo.fr/economie/transports/prix-des-carburants/il-n-y-a-pas-de-baguette-magique-on-vous-explique-pourquoi-les-prix-des-carburants-baissent-legerement-et-pourquoi-ca-risque-de-ne-pas-durer_8263730.html#xtor=RSS-3-%5Bgeneral%5D"
+            },
+            {
+              "titre": "Total, Leclerc, Système U… Où trouver le gazole le moins cher avec les baisses en ce début de semaine ?",
+              "source": "franceinfo",
+              "url": "https://www.franceinfo.fr/economie/transports/prix-des-carburants/total-leclerc-systeme-u-ou-trouver-le-gazole-le-moins-cher-avec-les-baisses-en-ce-debut-de-semaine_8264204.html#xtor=RSS-3-%5Bgeneral%5D"
             }
           ]
         }
@@ -1155,6 +1213,22 @@
               "url": "https://www.lefigaro.fr/conjoncture/a-qui-profite-la-volte-face-de-donald-trump-sur-les-sanctions-petrolieres-contre-la-russie-20261028"
             }
           ]
+        },
+        {
+          "date": "2026-11-03",
+          "resume": "Les États-Unis font pression pour rétablir les ventes de gaz russe à l'Europe via l'Ukraine afin d'instaurer un cessez-le-feu énergétique, et une force multinationale pour l'Ukraine réalise son premier test en Pologne sans les États-Unis.",
+          "liens": [
+            {
+              "titre": "Les Etats-Unis font pression pour rétablir les ventes de gaz russe à l’Europe via l’Ukraine",
+              "source": "L'Opinion",
+              "url": "https://www.lopinion.fr/international/les-etats-unis-font-pression-pour-retablir-les-ventes-de-gaz-russe-a-leurope-via-lukraine"
+            },
+            {
+              "titre": "« Koalicja » : la « Coalition des volontaires » teste sa future force militaire",
+              "source": "L'Opinion",
+              "url": "https://www.lopinion.fr/international/koalicja-la-coalition-des-volontaires-teste-sa-future-force-militaire"
+            }
+          ]
         }
       ]
     },
@@ -1248,6 +1322,17 @@
               "titre": "Pôle public bancaire : Jean-Luc Mélenchon veut mettre la finance au service de l’industrie",
               "source": "Capital",
               "url": "https://www.capital.fr/economie-politique/pole-public-bancaire-jean-luc-melenchon-veut-mettre-la-finance-au-service-de-lindustrie-1531403"
+            }
+          ]
+        },
+        {
+          "date": "2026-11-03",
+          "resume": "L'ancien ministre de l'Économie Bruno Le Maire prépare activement et discrètement une candidature en vue de l'élection présidentielle de 2027.",
+          "liens": [
+            {
+              "titre": "Présidentielle : qu'il se rase ou pas, Bruno Le Maire y pense très fort",
+              "source": "L'Opinion",
+              "url": "https://www.lopinion.fr/politique/presidentielle-quil-se-rase-ou-pas-bruno-le-maire-y-pense-tres-fort"
             }
           ]
         }
@@ -1470,8 +1555,8 @@
         "desequilibres",
         "entreprises"
       ],
-      "ou_en_est_on": "L'économie française subit un ralentissement marqué par rapport à ses partenaires européens, avec une activité à l'arrêt et un recul du produit intérieur brut. Le climat social pèse lourdement sur les commerces, qui accusent des pertes de recettes pouvant atteindre 80 % les jours de mobilisation. Face à la multiplication des appels à la grève et aux blocages, l'exécutif étudie des pistes de sortie de crise, dont une revalorisation du SMIC.",
-      "ou_en_est_on_maj_le": "2026-11-02",
+      "ou_en_est_on": "L'économie française subit un ralentissement marqué tandis que le climat social reste sous tension, poussant le gouvernement à envisager une anticipation de la revalorisation du salaire minimum et éventuellement un coup de pouce. Les négociations annuelles entre industriels et distributeurs débutent dans un climat tendu, marqué par le boycott de la Fédération du commerce et de la distribution lors de la réunion de préparation à Bercy. Par ailleurs, les commerçants continuent de subir les retombées négatives des manifestations sur leur activité.",
+      "ou_en_est_on_maj_le": "2026-11-03",
       "evenements": [
         {
           "date": "2026-10-17",
@@ -1954,6 +2039,37 @@
               "url": "https://www.bfmtv.com/economie/video-colere-sociale-on-a-une-crise-du-mepris-martele-alexandre-jardin-president-de-l-association-les-gueux_VN-202611010329.html"
             }
           ]
+        },
+        {
+          "date": "2026-11-03",
+          "resume": "Le gouvernement envisage d'anticiper la revalorisation du SMIC face à la contestation sociale, alors que la première réunion des négociations commerciales à Bercy est marquée par le boycott de la grande distribution et que les commerçants s'inquiètent des manifestations.",
+          "liens": [
+            {
+              "titre": "Négociations commerciales : la grande distribution boycotte la réunion de Bercy",
+              "source": "Capital",
+              "url": "https://www.capital.fr/economie-politique/negociations-commerciales-la-grande-distribution-boycotte-la-reunion-de-bercy-1531508"
+            },
+            {
+              "titre": "Hausse du smic, gel des allégements de charges… Les négociations annuelles sur les salaires sous haute tension",
+              "source": "Le Figaro",
+              "url": "https://www.lefigaro.fr/societes/hausse-du-smic-gel-des-allegements-de-charges-les-negociations-annuelles-sur-les-salaires-sous-haute-tension-20261102"
+            },
+            {
+              "titre": "Pouvoir d'achat: \"On devrait avoir cette baisse durant les trois mois qui viennent\", annonce Thierry Cotillard (Les Mousquetaires)",
+              "source": "BFM Business",
+              "url": "https://www.bfmtv.com/economie/video-pouvoir-d-achat-on-devrait-avoir-cette-baisse-durant-les-trois-mois-qui-viennent-annonce-thierry-cotillard-les-mousquetaires_VN-202611020873.html"
+            },
+            {
+              "titre": "Face aux mobilisations sociales, le gouvernement envisage une revalorisation du smic",
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/politique/article/2026/11/02/face-aux-mobilisations-sociales-le-gouvernement-envisage-une-revalorisation-du-smic_6805226_823448.html"
+            },
+            {
+              "titre": "\"Je n'en peux plus des manifestations\" : à Paris, des commerçants craignent une nouvelle semaine compliquée",
+              "source": "franceinfo",
+              "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/je-n-en-peux-plus-des-manifestations-a-paris-des-commercants-craignent-une-nouvelle-semaine-compliquee_8263829.html#xtor=RSS-3-%5Bgeneral%5D"
+            }
+          ]
         }
       ]
     },
@@ -2334,6 +2450,22 @@
               "titre": "ChatGPT en cachette au travail : quels risques pour le salarié ?",
               "source": "Capital",
               "url": "https://www.capital.fr/votre-carriere/chatgpt-en-cachette-au-travail-quels-risques-pour-le-salarie-1531412"
+            }
+          ]
+        },
+        {
+          "date": "2026-11-03",
+          "resume": "Plusieurs géants de la tech proposent un dispositif pour bloquer la collecte de contenus par les modèles d'IA, tandis que la Corée du Sud annonce un investissement massif de près de 15 milliards d'euros dans l'IA pour 2027.",
+          "liens": [
+            {
+              "titre": "La Corée du Sud met sur la table près de 15 milliards d’euros pour l’IA en 2027",
+              "source": "Le Figaro",
+              "url": "https://www.lefigaro.fr/conjoncture/la-coree-du-sud-met-sur-la-table-pres-de-15-milliards-d-euros-pour-l-ia-en-2027-20261102"
+            },
+            {
+              "titre": "La grande prudence des médias face au « bouton anti-IA » censé empêcher l’aspiration de leurs contenus",
+              "source": "Le Figaro",
+              "url": "https://www.lefigaro.fr/economie/la-grande-prudence-des-medias-face-au-bouton-anti-ia-cense-empecher-l-aspiration-de-leurs-contenus-20261102"
             }
           ]
         }
