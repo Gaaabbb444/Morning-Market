@@ -1,6 +1,6 @@
 {
   "version_schema": 1,
-  "mis_a_jour_le": "2026-11-04T05:57:36+01:00",
+  "mis_a_jour_le": "2026-11-04T10:13:44+01:00",
   "entrees": [
     {
       "d": "2026-11-04",
@@ -85,6 +85,15 @@
     },
     {
       "d": "2026-11-04",
+      "i": "f8f4edcd537f",
+      "t": "C'est la poule aux œufs d'or de l'économie américaine: après leur triomphe électoral, les opposants de Trump auront-ils le cran de freiner l'IA alors qu'elle enrichit leurs électeurs?",
+      "r": "La victoire des démocrates aux élections de mi-mandat pourrait conduire à un durcissement de la régulation contre les géants de l'intelligence artificielle en raison des contestations.",
+      "c": "croissance",
+      "s": "BFM Business",
+      "f": "intelligence-artificielle"
+    },
+    {
+      "d": "2026-11-04",
       "i": "cc765e01be78",
       "t": "Relation étroite avec une espionne chinoise, soupçon de contrebande… La rocambolesque affaire qui embarrasse Nvidia",
       "r": "Les liens entre le dirigeant de Nvidia et une dirigeante soupçonnée de travailler pour le renseignement chinois mettent à l'épreuve les contrôles américains à l'exportation.",
@@ -117,6 +126,15 @@
       "r": "Une coalition professionnelle dénonce le dumping des fabricants chinois de cercueils, entraînant la disparition de près de 25 % des producteurs européens.",
       "c": "mondialisation",
       "s": "Le Figaro",
+      "f": null
+    },
+    {
+      "d": "2026-11-04",
+      "i": "4364ecd78162",
+      "t": "Midterms : les armes juridiques du Congrès et de la Maison-Blanche pour le contrôle de l'économie américaine",
+      "r": "Le basculement des deux chambres du Congrès vers les démocrates redéfinit l'équilibre institutionnel face aux prérogatives de Donald Trump sur les tarifs douaniers.",
+      "c": "mondialisation",
+      "s": "La Tribune",
       "f": null
     },
     {
@@ -157,6 +175,15 @@
     },
     {
       "d": "2026-11-04",
+      "i": "d9e2563b1ee2",
+      "t": "Le dollar chute tandis que l'or et les bons du Trésor américain progressent suite à la victoire des démocrates aux élections de mi-mandat",
+      "r": "La victoire démocrate au Congrès soulève des anticipations d'une régulation accrue du secteur de l'intelligence artificielle, tandis que les marchés réagissent à ce rééquilibrage.",
+      "c": "finance",
+      "s": "The Guardian",
+      "f": null
+    },
+    {
+      "d": "2026-11-04",
       "i": "9ab28b8ea6f5",
       "t": "Au Luxembourg, le « FMI européen » s’inquiète de la situation financière de la France",
       "r": "Le directeur général du Mécanisme européen de stabilité assure qu'il n'y a aucune raison d'intervenir à ce stade concernant la situation financière de la France.",
@@ -189,6 +216,15 @@
       "r": "Des syndicats et associations de sept pays européens appellent à des manifestations coordonnées contre la vie chère fin novembre.",
       "c": "desequilibres",
       "s": "Le Figaro",
+      "f": null
+    },
+    {
+      "d": "2026-11-04",
+      "i": "797db94bda77",
+      "t": "La vague démocrate déferle aux Etats-Unis",
+      "r": "La large victoire démocrate aux élections de mi-mandat aux États-Unis s'explique par un rejet de la politique de Donald Trump, provoquant une réaction des marchés.",
+      "c": "desequilibres",
+      "s": "BFM Business",
       "f": null
     },
     {
@@ -229,6 +265,15 @@
     },
     {
       "d": "2026-11-04",
+      "i": "bc884b2c808b",
+      "t": "Euronaval : radiofréquence, stratosphère, les nouveaux recours étudiés en Europe pour la surveillance maritime",
+      "r": "Les États membres de l'Union européenne étudient de nouveaux recours technologiques, comme les ballons stratosphériques, pour renforcer la surveillance maritime.",
+      "c": "ue",
+      "s": "La Tribune",
+      "f": null
+    },
+    {
+      "d": "2026-11-04",
       "i": "1686368eb82e",
       "t": "« Des marges parmi les plus faibles d'Europe » : l'étude qui détaille la rentabilité des entreprises françaises",
       "r": "Une étude de Rexecode montre que les marges nettes des entreprises françaises sont en baisse et parmi les plus faibles d'Europe.",
@@ -265,6 +310,15 @@
     },
     {
       "d": "2026-11-04",
+      "i": "53121a156c75",
+      "t": "« Peu d’industries peuvent se vanter de doubler de taille tous les trois ans » : la « creator economy » franchit le cap des 10 milliards de dollars en France",
+      "r": "La creator economy franchit le cap des 10 milliards de dollars en France, portée par les influenceurs devenus indispensables aux entreprises pour séduire les jeunes.",
+      "c": "entreprises",
+      "s": "Le Figaro",
+      "f": null
+    },
+    {
+      "d": "2026-11-04",
       "i": "7022b94b7b39",
       "t": "Un revenu de retraite garanti « ressuscité » pour 17 millions de travailleurs du secteur privé",
       "r": "Des ministres proposent un nouveau système de retraite guidé pour offrir aux épargnants du secteur privé une protection à vie sur leurs économies.",
@@ -298,6 +352,15 @@
       "c": "epargne",
       "s": "Le Figaro",
       "f": null
+    },
+    {
+      "d": "2026-11-04",
+      "i": "3cb104d1380c",
+      "t": "LMNP 2027 : les députés annulent le tour de vis fiscal, mais rien n’est joué",
+      "r": "Les députés ont adopté des amendements au Budget 2027 supprimant le tour de vis fiscal sur la location meublée non professionnelle et élargissant le prêt à taux zéro.",
+      "c": "epargne",
+      "s": "Capital",
+      "f": "fiscalite-epargne-patrimoine"
     },
     {
       "d": "2026-11-03",

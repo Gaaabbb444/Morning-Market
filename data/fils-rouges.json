@@ -1,6 +1,6 @@
 {
   "version_schema": 1,
-  "mis_a_jour_le": "2026-11-04T05:59:59+01:00",
+  "mis_a_jour_le": "2026-11-04T10:14:56+01:00",
   "fils": [
     {
       "id": "budget-2027",
@@ -449,7 +449,7 @@
         },
         {
           "date": "2026-11-04",
-          "resume": "Le gouvernement suspend le Fonds chaleur pour des raisons budgétaires, tandis que l'Assemblée vote de nouvelles taxes, dont une sur les fournisseurs de contenus.",
+          "resume": "Des syndicats appellent à la grève pour dénoncer le coût de la vie et les mesures d'économies du projet de budget 2027, tandis qu'une étude Ifop indique que 92 % des Français perçoivent la dette publique comme une menace.",
           "liens": [
             {
               "titre": "Transition énergétique : le gouvernement suspend le Fonds chaleur",
@@ -460,6 +460,16 @@
               "titre": "La taxe au gigaoctet",
               "source": "franceinfo",
               "url": "https://www.franceinfo.fr/economie/impots/la-taxe-au-gigaoctet_8266103.html#xtor=RSS-3-%5Bgeneral%5D"
+            },
+            {
+              "titre": "\"Le plus gros problème, ce n'est pas tellement la dette, c'est la taille du déficit\", estime l'économiste Michaël Zemmour, membre du Haut conseil des Finances publiques",
+              "source": "BFM Business",
+              "url": "https://www.bfmtv.com/economie/video-le-plus-gros-probleme-ce-n-est-pas-tellement-la-dette-c-est-la-taille-du-deficit-estime-l-economiste-michael-zemmour-membre-du-haut-conseil-des-finances-publiques_VN-202611040374.html"
+            },
+            {
+              "titre": "Revalorisation des salaires, services publics, \"justice fiscale\"... Quelles sont les revendications des syndicats pour la grève du 5 novembre ?",
+              "source": "franceinfo",
+              "url": "https://www.franceinfo.fr/economie/greve/revalorisation-des-salaires-services-publics-justice-fiscale-quelles-sont-les-revendications-des-syndicats-pour-la-greve-du-5-novembre_8263733.html#xtor=RSS-3-%5Bgeneral%5D"
             }
           ]
         }
@@ -1590,6 +1600,17 @@
               "url": "https://www.bfmtv.com/economie/patrimoine/placements-epargne/une-decision-qui-viole-les-regles-de-la-democratie-le-gouvernement-veut-puiser-jusqu-a-60-milliards-d-euros-dans-le-livret-a-pour-financer-ses-futurs-reacteurs-nucleaires-la-gauche-s-insurge_AD-202611030245.html"
             }
           ]
+        },
+        {
+          "date": "2026-11-04",
+          "resume": "Les députés ont adopté des amendements au Budget 2027 supprimant le tour de vis fiscal sur la location meublée non professionnelle et élargissant le prêt à taux zéro.",
+          "liens": [
+            {
+              "titre": "LMNP 2027 : les députés annulent le tour de vis fiscal, mais rien n’est joué",
+              "source": "Capital",
+              "url": "https://www.capital.fr/immobilier/lmnp-2027-les-deputes-annulent-le-tour-de-vis-fiscal-mais-rien-nest-joue-1531538"
+            }
+          ]
         }
       ]
     },
@@ -2579,6 +2600,17 @@
               "titre": "François-Xavier Selleret, directeur général de l’Agirc-Arrco : « L’évolution des retraites ne doit jamais être supérieure à celle des salaires »",
               "source": "La Tribune",
               "url": "https://www.latribune.fr/article/la-tribune-dimanche/dimanche-eco/78999690776579/francois-xavier-selleret-directeur-general-de-l-agirc-arrco-l-evolution-des-retraites-ne-doit-jamais-etre-superieure-a-celle-des-salaires"
+            }
+          ]
+        },
+        {
+          "date": "2026-11-04",
+          "resume": "Le Rassemblement national propose de baisser l'âge de départ à la retraite tout en durcissant les conditions de validation des trimestres pour le financement.",
+          "liens": [
+            {
+              "titre": "La retraite à 60 ou 62 ans, mais à quel prix? Bardella dévoile dans son livre comment le RN compte faire travailler davantage les Français",
+              "source": "BFM Business",
+              "url": "https://www.bfmtv.com/economie/patrimoine/retraite/la-retraite-a-60-ou-62-ans-mais-a-quel-prix-bardella-devoile-dans-son-livre-comment-le-rn-compte-faire-travailler-davantage-les-francais_AN-202611040327.html"
             }
           ]
         }
