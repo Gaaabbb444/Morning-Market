@@ -1,6 +1,6 @@
 {
   "version_schema": 1,
-  "mis_a_jour_le": "2026-11-03T10:08:16+01:00",
+  "mis_a_jour_le": "2026-11-04T05:59:59+01:00",
   "fils": [
     {
       "id": "budget-2027",
@@ -444,6 +444,22 @@
               "titre": "Budget 2027 : les députés écartent la hausse de TVA pour Canal+",
               "source": "Le Figaro",
               "url": "https://www.lefigaro.fr/medias/budget-2027-les-deputes-ecartent-la-hausse-de-tva-pour-canal-20261102"
+            }
+          ]
+        },
+        {
+          "date": "2026-11-04",
+          "resume": "Le gouvernement suspend le Fonds chaleur pour des raisons budgétaires, tandis que l'Assemblée vote de nouvelles taxes, dont une sur les fournisseurs de contenus.",
+          "liens": [
+            {
+              "titre": "Transition énergétique : le gouvernement suspend le Fonds chaleur",
+              "source": "Le Figaro",
+              "url": "https://www.lefigaro.fr/sciences/transition-energetique-le-gouvernement-suspend-le-fonds-chaleur-20261103"
+            },
+            {
+              "titre": "La taxe au gigaoctet",
+              "source": "franceinfo",
+              "url": "https://www.franceinfo.fr/economie/impots/la-taxe-au-gigaoctet_8266103.html#xtor=RSS-3-%5Bgeneral%5D"
             }
           ]
         }
@@ -975,6 +991,17 @@
               "url": "https://www.franceinfo.fr/economie/transports/prix-des-carburants/total-leclerc-systeme-u-ou-trouver-le-gazole-le-moins-cher-avec-les-baisses-en-ce-debut-de-semaine_8264204.html#xtor=RSS-3-%5Bgeneral%5D"
             }
           ]
+        },
+        {
+          "date": "2026-11-04",
+          "resume": "La baisse des prix du gazole touche désormais 6 000 stations-service grâce à la mobilisation des stocks stratégiques, malgré des retards dénoncés par les indépendants.",
+          "liens": [
+            {
+              "titre": "Gazole : 6 000 stations en baisse selon Bercy, les indépendants dénoncent des retards",
+              "source": "Capital",
+              "url": "https://www.capital.fr/economie-politique/gazole-6-000-stations-en-baisse-selon-bercy-les-independants-denoncent-des-retards-1531535"
+            }
+          ]
         }
       ]
     },
@@ -1333,6 +1360,17 @@
               "titre": "Présidentielle : qu'il se rase ou pas, Bruno Le Maire y pense très fort",
               "source": "L'Opinion",
               "url": "https://www.lopinion.fr/politique/presidentielle-quil-se-rase-ou-pas-bruno-le-maire-y-pense-tres-fort"
+            }
+          ]
+        },
+        {
+          "date": "2026-11-04",
+          "resume": "Le candidat Les Républicains Bruno Retailleau propose de travailler trente minutes de plus par jour pour augmenter les salaires et alléger les cotisations.",
+          "liens": [
+            {
+              "titre": "30 minutes de travail en plus par jour pour gagner un 13e, voire un 14e mois: la promesse de Bruno Retailleau qui veut enterrer la semaine de 35 heures s'il est élu président",
+              "source": "BFM Business",
+              "url": "https://www.bfmtv.com/economie/emploi/30-minutes-de-travail-en-plus-par-jour-pour-gagner-un-13e-voire-un-14e-mois-la-promesse-de-bruno-retailleau-qui-veut-enterrer-la-semaine-de-35-heures-s-il-est-elu-president_AV-202611031003.html"
             }
           ]
         }
@@ -2079,6 +2117,17 @@
               "titre": "\"Je n'en peux plus des manifestations\" : à Paris, des commerçants craignent une nouvelle semaine compliquée",
               "source": "franceinfo",
               "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/je-n-en-peux-plus-des-manifestations-a-paris-des-commercants-craignent-une-nouvelle-semaine-compliquee_8263829.html#xtor=RSS-3-%5Bgeneral%5D"
+            }
+          ]
+        },
+        {
+          "date": "2026-11-04",
+          "resume": "Le PIB français a baissé de 0,1 % au troisième trimestre, marquant le repli de l'appareil productif malgré la résistance de la consommation des ménages.",
+          "liens": [
+            {
+              "titre": "Récession française : la consommation tient mais l’industrie plonge",
+              "source": "L'Opinion",
+              "url": "https://www.lopinion.fr/economie/recession-francaise-la-consommation-tient-mais-lindustrie-plonge"
             }
           ]
         }

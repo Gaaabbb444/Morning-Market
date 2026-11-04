@@ -1,7 +1,304 @@
 {
   "version_schema": 1,
-  "mis_a_jour_le": "2026-11-03T10:07:57+01:00",
+  "mis_a_jour_le": "2026-11-04T05:57:36+01:00",
   "entrees": [
+    {
+      "d": "2026-11-04",
+      "i": "225e71a6c917",
+      "t": "Récession française : la consommation tient mais l’industrie plonge",
+      "r": "Le PIB français a baissé de 0,1 % au troisième trimestre, indiquant une récession, tandis que les ménages continuent de consommer malgré le choc pétrolier.",
+      "c": "croissance",
+      "s": "L'Opinion",
+      "f": "conjoncture-france"
+    },
+    {
+      "d": "2026-11-04",
+      "i": "7eeb90e397dd",
+      "t": "Le Royaume-Uni et l’Union européenne actent un projet d’accord, levant plusieurs barrières commerciales issues du Brexit",
+      "r": "Le Royaume-Uni et l'Union européenne ont acté un projet d'accord visant à supprimer l'essentiel des contrôles sanitaires sur les échanges alimentaires.",
+      "c": "mondialisation",
+      "s": "Le Figaro",
+      "f": null
+    },
+    {
+      "d": "2026-11-04",
+      "i": "7204aae0fd52",
+      "t": "Livret A : le gouvernement envisage une hausse du plafond à 30 000 euros",
+      "r": "Le gouvernement envisage de relever le plafond du livret A entre 25 000 et 30 000 euros en février prochain pour financer des projets publics.",
+      "c": "epargne",
+      "s": "franceinfo",
+      "f": "fiscalite-epargne-patrimoine"
+    },
+    {
+      "d": "2026-11-04",
+      "i": "5d2cdd850831",
+      "t": "Des pirates informatiques derrière le vol de 6,3 milliards de dollars chez Binance ont utilisé des logiciels malveillants et de faux entretiens d'embauche",
+      "r": "Binance révèle que le piratage record de 6,3 milliards de dollars a impliqué de faux entretiens d'embauche et des logiciels malveillants.",
+      "c": "finance",
+      "s": "The Guardian",
+      "f": null
+    },
+    {
+      "d": "2026-11-04",
+      "i": "61a7b7833c47",
+      "t": "3 460 postes supprimés, cinq sites fermés : l’équipementier allemand Schaeffler fait les frais de la crise automobile européenne",
+      "r": "L'équipementier allemand Schaeffler supprime 3 460 postes et ferme cinq sites en raison de la crise de l'automobile européenne.",
+      "c": "entreprises",
+      "s": "Le Figaro",
+      "f": null
+    },
+    {
+      "d": "2026-11-04",
+      "i": "720961d9f747",
+      "t": "La centrale électrique la plus polluante du Royaume-Uni pourrait alimenter son plus grand centre de données d'IA",
+      "r": "Un accord de 20 milliards de livres sterling prévoit de construire des infrastructures pour un grand centre de données d'intelligence artificielle sur le site de la centrale de Drax.",
+      "c": "croissance",
+      "s": "The Guardian",
+      "f": "intelligence-artificielle"
+    },
+    {
+      "d": "2026-11-04",
+      "i": "5388b320bc92",
+      "t": "Deux ans après son retour, dans quel état Donald Trump a-t-il mis l’économie états-unienne ?",
+      "r": "Deux ans après le retour de Donald Trump au pouvoir, l'économie américaine fait face à une relance de l'inflation et à un déficit commercial persistant.",
+      "c": "croissance",
+      "s": "Alternatives Économiques",
+      "f": null
+    },
+    {
+      "d": "2026-11-04",
+      "i": "e8ecca2b72b1",
+      "t": "Transition énergétique : le gouvernement suspend le Fonds chaleur",
+      "r": "Le gouvernement suspend le Fonds chaleur destiné aux réseaux renouvelables en raison de restrictions budgétaires et d'un afflux de projets.",
+      "c": "croissance",
+      "s": "Le Figaro",
+      "f": "budget-2027"
+    },
+    {
+      "d": "2026-11-04",
+      "i": "7444042ca15d",
+      "t": "Cancers : la start-up Superbranche veut révolutionner les traitements grâce aux nanoparticules",
+      "r": "La start-up Superbranche inaugure une usine pilote en Alsace pour développer des traitements anticancéreux à base de nanoparticules.",
+      "c": "croissance",
+      "s": "La Tribune",
+      "f": null
+    },
+    {
+      "d": "2026-11-04",
+      "i": "cc765e01be78",
+      "t": "Relation étroite avec une espionne chinoise, soupçon de contrebande… La rocambolesque affaire qui embarrasse Nvidia",
+      "r": "Les liens entre le dirigeant de Nvidia et une dirigeante soupçonnée de travailler pour le renseignement chinois mettent à l'épreuve les contrôles américains à l'exportation.",
+      "c": "mondialisation",
+      "s": "Le Figaro",
+      "f": "intelligence-artificielle"
+    },
+    {
+      "d": "2026-11-04",
+      "i": "d043b900a8e5",
+      "t": "La ruée mondiale vers le cuivre, devenu le métal le plus stratégique de la planète",
+      "r": "Le prix du cuivre a bondi de 30 % en un an en raison d'une demande forte, favorisant la production en République démocratique du Congo et en Zambie.",
+      "c": "mondialisation",
+      "s": "Le Monde",
+      "f": null
+    },
+    {
+      "d": "2026-11-04",
+      "i": "fc7c1576783e",
+      "t": "« Face à la Chine, les Européens n'ont plus le droit à l'erreur »",
+      "r": "",
+      "c": "mondialisation",
+      "s": "Les Echos",
+      "f": null
+    },
+    {
+      "d": "2026-11-04",
+      "i": "d23bac69a8f7",
+      "t": "Menacés par la concurrence chinoise, les fabricants européens de cercueils appellent l’UE à durcir le ton contre Pékin",
+      "r": "Une coalition professionnelle dénonce le dumping des fabricants chinois de cercueils, entraînant la disparition de près de 25 % des producteurs européens.",
+      "c": "mondialisation",
+      "s": "Le Figaro",
+      "f": null
+    },
+    {
+      "d": "2026-11-04",
+      "i": "8bd47ff2c173",
+      "t": "Faux entretien d'embauche, détournement d'IA… Binance révèle le mode opératoire du piratage record dont elle a été victime",
+      "r": "La plateforme Binance a reconstitué 98% de ses actifs volés après un piratage de 6,3 milliards de dollars mené via de faux entretiens.",
+      "c": "finance",
+      "s": "Le Figaro",
+      "f": null
+    },
+    {
+      "d": "2026-11-04",
+      "i": "72d1af5db898",
+      "t": "Financement automobile : Barclays devient le premier grand prêteur à proposer des indemnisations pour vente abusive de prêts",
+      "r": "Barclays va verser des indemnités à des dizaines de milliers de clients pour des prêts automobiles prétendument vendus abusivement.",
+      "c": "finance",
+      "s": "The Guardian",
+      "f": null
+    },
+    {
+      "d": "2026-11-04",
+      "i": "c3b55429bdba",
+      "t": "« Christine Lagarde entend jouer un rôle dans la campagne présidentielle. Pour y faire quoi ? »",
+      "r": "La présidente de la BCE quittera ses fonctions en février 2027, avant le terme de son mandat, alimentant les interrogations sur son rôle politique.",
+      "c": "finance",
+      "s": "Le Monde",
+      "f": "presidentielle-2027"
+    },
+    {
+      "d": "2026-11-04",
+      "i": "fea6de09c042",
+      "t": "Les Bourses chinoises chutent, malgré l'injection de 15 milliards de dollars",
+      "r": "",
+      "c": "finance",
+      "s": "Les Echos",
+      "f": null
+    },
+    {
+      "d": "2026-11-04",
+      "i": "9ab28b8ea6f5",
+      "t": "Au Luxembourg, le « FMI européen » s’inquiète de la situation financière de la France",
+      "r": "Le directeur général du Mécanisme européen de stabilité assure qu'il n'y a aucune raison d'intervenir à ce stade concernant la situation financière de la France.",
+      "c": "desequilibres",
+      "s": "Le Monde",
+      "f": "dette-marches"
+    },
+    {
+      "d": "2026-11-04",
+      "i": "609a2575bbdf",
+      "t": "Budget 2027 : « Il y a un garrot à poser d’urgence », alerte Bruno Le Maire",
+      "r": "Bruno Le Maire exprime son inquiétude face aux discussions budgétaires à l'Assemblée nationale, estimant qu'elles menacent les finances publiques.",
+      "c": "desequilibres",
+      "s": "La Tribune",
+      "f": "budget-2027"
+    },
+    {
+      "d": "2026-11-04",
+      "i": "2c89bc79293d",
+      "t": "Gazole : 6 000 stations en baisse selon Bercy, les indépendants dénoncent des retards",
+      "r": "Les prix du gazole baissent de 15 centimes en moyenne grâce à la mobilisation des stocks stratégiques, selon le gouvernement.",
+      "c": "desequilibres",
+      "s": "Capital",
+      "f": "choc-petrolier-ormuz"
+    },
+    {
+      "d": "2026-11-04",
+      "i": "25d5dfa12858",
+      "t": "Espagne, Italie, Grèce… Associations et syndicats de sept pays européens appellent à manifester contre la vie chère fin novembre",
+      "r": "Des syndicats et associations de sept pays européens appellent à des manifestations coordonnées contre la vie chère fin novembre.",
+      "c": "desequilibres",
+      "s": "Le Figaro",
+      "f": null
+    },
+    {
+      "d": "2026-11-04",
+      "i": "1828f49a6e14",
+      "t": "Belgique : le Premier ministre Bart De Wever présente sa démission sur fond de crise budgétaire, le roi temporise",
+      "r": "Le Premier ministre belge a présenté sa démission au roi à la suite de l'échec des négociations sur le budget.",
+      "c": "ue",
+      "s": "Toute l'Europe",
+      "f": null
+    },
+    {
+      "d": "2026-11-04",
+      "i": "fd2dc496312f",
+      "t": "Aides agricoles : quels pays européens reçoivent le plus d'argent de la PAC ?",
+      "r": "La politique agricole commune a distribué 54,4 milliards d'euros aux 27 États membres en 2025, constituant le premier poste de dépenses de l'Union européenne.",
+      "c": "ue",
+      "s": "Toute l'Europe",
+      "f": null
+    },
+    {
+      "d": "2026-11-04",
+      "i": "29a26c10e3a0",
+      "t": "« Omnibus Pesticides » : pourquoi ce texte européen fait polémique",
+      "r": "Le vote des eurodéputés sur la réforme du régime d'autorisations des pesticides est repoussé d'un mois après des alertes scientifiques et médicales.",
+      "c": "ue",
+      "s": "L'Opinion",
+      "f": null
+    },
+    {
+      "d": "2026-11-04",
+      "i": "2a8a8f726b9b",
+      "t": "Qu'est-ce que le mécanisme de protection civile de l'Union européenne ?",
+      "r": "Créé en 2001 et actif à plus de 900 reprises, le mécanisme de protection civile de l'Union européenne célèbre ses 25 ans.",
+      "c": "ue",
+      "s": "Toute l'Europe",
+      "f": null
+    },
+    {
+      "d": "2026-11-04",
+      "i": "1686368eb82e",
+      "t": "« Des marges parmi les plus faibles d'Europe » : l'étude qui détaille la rentabilité des entreprises françaises",
+      "r": "Une étude de Rexecode montre que les marges nettes des entreprises françaises sont en baisse et parmi les plus faibles d'Europe.",
+      "c": "entreprises",
+      "s": "L'Opinion",
+      "f": "conjoncture-france"
+    },
+    {
+      "d": "2026-11-04",
+      "i": "1dc10774da7e",
+      "t": "Canva annonce d'importantes suppressions de postes après « notre année la plus difficile »",
+      "r": "La directrice générale de Canva annonce que plus de 1 000 employés vont perdre leur emploi ou changer de rôle.",
+      "c": "entreprises",
+      "s": "BBC",
+      "f": null
+    },
+    {
+      "d": "2026-11-04",
+      "i": "57b976a1bc80",
+      "t": "Quel avenir pour les magasins de l'enseigne Gifi, placée en redressement judiciaire ? \"Ça va se jouer au cas par cas\", explique un expert",
+      "r": "Le tribunal de commerce de Toulouse a placé l'enseigne de discount Gifi en redressement judiciaire, menaçant 6 000 emplois en France.",
+      "c": "entreprises",
+      "s": "franceinfo",
+      "f": "conjoncture-france"
+    },
+    {
+      "d": "2026-11-04",
+      "i": "81f2b5fca3c6",
+      "t": "Le conflit se poursuit entre les salariés de SFR et Bouygues Telecom, Free et Orange sur le volet social du rachat de l’opérateur",
+      "r": "Les salariés de SFR ont mené une nouvelle grève sur fond d'inquiétudes pour l'emploi liées au projet de rachat par Bouygues Telecom, Free et Orange.",
+      "c": "entreprises",
+      "s": "Le Monde",
+      "f": "conjoncture-france"
+    },
+    {
+      "d": "2026-11-04",
+      "i": "7022b94b7b39",
+      "t": "Un revenu de retraite garanti « ressuscité » pour 17 millions de travailleurs du secteur privé",
+      "r": "Des ministres proposent un nouveau système de retraite guidé pour offrir aux épargnants du secteur privé une protection à vie sur leurs économies.",
+      "c": "epargne",
+      "s": "The Guardian",
+      "f": null
+    },
+    {
+      "d": "2026-11-04",
+      "i": "644d45209985",
+      "t": "« Les offres vont fleurir avec la flambée des taux » : ces opportunités à saisir pour booster votre épargne sans prendre trop de risques",
+      "r": "La hausse des taux d'intérêt offre de nouvelles opportunités d'investissement peu risquées pour l'épargne des ménages à travers les fonds euros, obligations et produits structurés.",
+      "c": "epargne",
+      "s": "Le Figaro",
+      "f": null
+    },
+    {
+      "d": "2026-11-04",
+      "i": "eca2ea865a02",
+      "t": "Après le nucléaire, Sébastien Lecornu sort la carte du Livret A pour financer l'adaptation des lycées et l'écologie",
+      "r": "",
+      "c": "epargne",
+      "s": "Les Echos",
+      "f": "fiscalite-epargne-patrimoine"
+    },
+    {
+      "d": "2026-11-04",
+      "i": "fd8ac213e2a6",
+      "t": "Le patrimoine des jeunes a progressé plus vite que celui de leurs aînés",
+      "r": "Une étude de l'INSEE montre que le patrimoine médian brut des moins de 30 ans a presque triplé en quinze ans.",
+      "c": "epargne",
+      "s": "Le Figaro",
+      "f": null
+    },
     {
       "d": "2026-11-03",
       "i": "45292f2dc21f",
