@@ -1,28 +1,28 @@
 {
   "version_schema": 1,
   "derniere_execution": {
-    "debut": "2026-11-04T10:13:02+01:00",
-    "fin": "2026-11-04T10:14:56+01:00",
-    "type": "fin-de-matinee",
-    "resultat": "ok"
+    "debut": "2026-11-05T05:56:18+01:00",
+    "fin": "2026-11-05T05:59:55+01:00",
+    "type": "matin",
+    "resultat": "partiel"
   },
-  "derniere_edition": "2026-11-04",
+  "derniere_edition": "2026-11-05",
   "sources": [
     {
       "id": "lemonde-eco",
       "nom": "Le Monde",
       "etat": "ok",
-      "articles": 20,
+      "articles": 17,
       "message": null,
-      "dernier_succes": "2026-11-04T10:13:12+01:00"
+      "dernier_succes": "2026-11-05T05:56:36+01:00"
     },
     {
       "id": "lemonde-argent",
       "nom": "Le Monde",
       "etat": "ok",
-      "articles": 4,
+      "articles": 2,
       "message": null,
-      "dernier_succes": "2026-11-04T10:13:12+01:00"
+      "dernier_succes": "2026-11-05T05:56:36+01:00"
     },
     {
       "id": "figaro-eco",
@@ -30,15 +30,15 @@
       "etat": "ok",
       "articles": 18,
       "message": null,
-      "dernier_succes": "2026-11-04T10:13:12+01:00"
+      "dernier_succes": "2026-11-05T05:56:36+01:00"
     },
     {
       "id": "figaro-placement",
       "nom": "Le Figaro",
-      "etat": "ok",
-      "articles": 1,
-      "message": null,
-      "dernier_succes": "2026-11-04T10:13:12+01:00"
+      "etat": "vide",
+      "articles": 0,
+      "message": "aucun article récent",
+      "dernier_succes": "2026-11-05T05:56:36+01:00"
     },
     {
       "id": "franceinfo-eco",
@@ -46,63 +46,63 @@
       "etat": "ok",
       "articles": 20,
       "message": null,
-      "dernier_succes": "2026-11-04T10:13:12+01:00"
+      "dernier_succes": "2026-11-05T05:56:36+01:00"
     },
     {
       "id": "lesechos",
       "nom": "Les Echos",
       "etat": "ok",
-      "articles": 99,
+      "articles": 100,
       "message": null,
-      "dernier_succes": "2026-11-04T10:13:12+01:00"
+      "dernier_succes": "2026-11-05T05:56:36+01:00"
     },
     {
       "id": "latribune",
       "nom": "La Tribune",
       "etat": "ok",
-      "articles": 20,
+      "articles": 16,
       "message": null,
-      "dernier_succes": "2026-11-04T10:13:12+01:00"
+      "dernier_succes": "2026-11-05T05:56:36+01:00"
     },
     {
       "id": "bfm-business",
       "nom": "BFM Business",
       "etat": "ok",
-      "articles": 13,
+      "articles": 9,
       "message": null,
-      "dernier_succes": "2026-11-04T10:13:12+01:00"
+      "dernier_succes": "2026-11-05T05:56:36+01:00"
     },
     {
       "id": "capital",
       "nom": "Capital",
       "etat": "ok",
-      "articles": 8,
+      "articles": 6,
       "message": null,
-      "dernier_succes": "2026-11-04T10:13:12+01:00"
+      "dernier_succes": "2026-11-05T05:56:36+01:00"
     },
     {
       "id": "alternatives-eco",
       "nom": "Alternatives Économiques",
       "etat": "ok",
-      "articles": 3,
+      "articles": 5,
       "message": null,
-      "dernier_succes": "2026-11-04T10:13:12+01:00"
+      "dernier_succes": "2026-11-05T05:56:36+01:00"
     },
     {
       "id": "lopinion",
       "nom": "L'Opinion",
       "etat": "ok",
-      "articles": 46,
+      "articles": 35,
       "message": null,
-      "dernier_succes": "2026-11-04T10:13:12+01:00"
+      "dernier_succes": "2026-11-05T05:56:36+01:00"
     },
     {
       "id": "toute-l-europe",
       "nom": "Toute l'Europe",
       "etat": "ok",
-      "articles": 12,
+      "articles": 11,
       "message": null,
-      "dernier_succes": "2026-11-04T10:13:12+01:00"
+      "dernier_succes": "2026-11-05T05:56:36+01:00"
     },
     {
       "id": "bce",
@@ -110,7 +110,7 @@
       "etat": "ok",
       "articles": 1,
       "message": null,
-      "dernier_succes": "2026-11-04T10:13:12+01:00"
+      "dernier_succes": "2026-11-05T05:56:36+01:00"
     },
     {
       "id": "insee",
@@ -118,7 +118,7 @@
       "etat": "vide",
       "articles": 0,
       "message": "aucun article récent",
-      "dernier_succes": "2026-11-04T10:13:12+01:00"
+      "dernier_succes": "2026-11-05T05:56:36+01:00"
     },
     {
       "id": "economie-gouv",
@@ -126,23 +126,23 @@
       "etat": "ok",
       "articles": 3,
       "message": null,
-      "dernier_succes": "2026-11-04T10:13:12+01:00"
+      "dernier_succes": "2026-11-05T05:56:36+01:00"
     },
     {
       "id": "bbc-business",
       "nom": "BBC",
       "etat": "ok",
-      "articles": 19,
+      "articles": 11,
       "message": null,
-      "dernier_succes": "2026-11-04T10:13:12+01:00"
+      "dernier_succes": "2026-11-05T05:56:36+01:00"
     },
     {
       "id": "guardian-business",
       "nom": "The Guardian",
       "etat": "ok",
-      "articles": 27,
+      "articles": 25,
       "message": null,
-      "dernier_succes": "2026-11-04T10:13:12+01:00"
+      "dernier_succes": "2026-11-05T05:56:36+01:00"
     }
   ],
   "indicateurs": [
@@ -150,84 +150,84 @@
       "id": "cac40",
       "etat": "ok",
       "source_utilisee": "principale",
-      "dernier_succes": "2026-11-04T10:13:12+01:00",
+      "dernier_succes": "2026-11-05T05:56:39+01:00",
       "message": null
     },
     {
       "id": "eurostoxx50",
       "etat": "ok",
       "source_utilisee": "principale",
-      "dernier_succes": "2026-11-04T10:13:13+01:00",
+      "dernier_succes": "2026-11-05T05:56:39+01:00",
       "message": null
     },
     {
       "id": "sp500",
       "etat": "ok",
       "source_utilisee": "principale",
-      "dernier_succes": "2026-11-04T10:13:13+01:00",
+      "dernier_succes": "2026-11-05T05:56:40+01:00",
       "message": null
     },
     {
       "id": "brent",
       "etat": "ok",
       "source_utilisee": "principale",
-      "dernier_succes": "2026-11-04T10:13:13+01:00",
+      "dernier_succes": "2026-11-05T05:56:40+01:00",
       "message": null
     },
     {
       "id": "or",
       "etat": "ok",
       "source_utilisee": "principale",
-      "dernier_succes": "2026-11-04T10:13:13+01:00",
+      "dernier_succes": "2026-11-05T05:56:40+01:00",
       "message": null
     },
     {
       "id": "eur-usd",
       "etat": "ok",
       "source_utilisee": "principale",
-      "dernier_succes": "2026-11-04T10:13:14+01:00",
+      "dernier_succes": "2026-11-05T05:57:23+01:00",
       "message": null
     },
     {
       "id": "taux-depot-bce",
       "etat": "ok",
       "source_utilisee": "principale",
-      "dernier_succes": "2026-11-04T10:13:15+01:00",
+      "dernier_succes": "2026-11-05T05:57:25+01:00",
       "message": null
     },
     {
       "id": "taux-10-ans-france",
       "etat": "ok",
       "source_utilisee": "principale",
-      "dernier_succes": "2026-11-04T10:13:23+01:00",
+      "dernier_succes": "2026-11-05T05:57:26+01:00",
       "message": null
     },
     {
       "id": "inflation-france",
       "etat": "ok",
       "source_utilisee": "principale",
-      "dernier_succes": "2026-11-04T10:13:24+01:00",
+      "dernier_succes": "2026-11-05T05:57:27+01:00",
       "message": null
     },
     {
       "id": "inflation-zone-euro",
       "etat": "ok",
       "source_utilisee": "principale",
-      "dernier_succes": "2026-11-04T10:13:24+01:00",
+      "dernier_succes": "2026-11-05T05:57:28+01:00",
       "message": null
     },
     {
       "id": "chomage-france",
       "etat": "ok",
       "source_utilisee": "principale",
-      "dernier_succes": "2026-11-04T10:13:24+01:00",
+      "dernier_succes": "2026-11-05T05:57:28+01:00",
       "message": null
     },
     {
       "id": "pib-france",
       "etat": "ok",
       "source_utilisee": "principale",
-      "dernier_succes": "2026-11-04T10:13:25+01:00",
+      "dernier_succes": "2026-11-05T05:57:29+01:00",
       "message": null
     }
   ],
@@ -236,13 +236,27 @@
       "gemini",
       "groq"
     ],
-    "requetes": 8,
+    "requetes": 19,
     "requetes_par_modele": {
-      "gemini/gemini-3.5-flash-lite": 5,
-      "gemini/gemini-3.8-flash": 2,
-      "groq/openai/gpt-oss-120b": 1
+      "gemini/gemini-3.5-flash-lite": 13,
+      "gemini/gemini-3.8-flash": 4,
+      "groq/openai/gpt-oss-120b": 2
     },
     "erreurs": [
+      {
+        "tache": "edition",
+        "fournisseur": "gemini",
+        "modele": "gemini-3.8-flash",
+        "nature": "erreur serveur (503)",
+        "detail": "nouvel essai"
+      },
+      {
+        "tache": "edition",
+        "fournisseur": "gemini",
+        "modele": "gemini-3.8-flash",
+        "nature": "erreur 503",
+        "detail": "[{\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAILABLE\"\n  }\n}\n]"
+      },
       {
         "tache": "fils-rouges",
         "fournisseur": "gemini",
@@ -262,20 +276,34 @@
         "fournisseur": "groq",
         "modele": "openai/gpt-oss-120b",
         "nature": "erreur 413",
-        "detail": "{\"error\":{\"message\":\"Request too large for model `openai/gpt-oss-120b` in organization `org_01m55k726eekfsb21rp89p8mpg` service tier `on_demand` on tokens per minute (TPM): Limit 8000, Requested 9493,"
+        "detail": "{\"error\":{\"message\":\"Request too large for model `openai/gpt-oss-120b` in organization `org_01m55k726eekfsb21rp89p8mpg` service tier `on_demand` on tokens per minute (TPM): Limit 8000, Requested 10227"
+      },
+      {
+        "tache": "fils-rouges",
+        "fournisseur": "gemini",
+        "modele": "gemini-3.5-flash-lite",
+        "nature": "erreur serveur (503)",
+        "detail": "nouvel essai"
+      },
+      {
+        "tache": "fils-rouges",
+        "fournisseur": "gemini",
+        "modele": "gemini-3.5-flash-lite",
+        "nature": "erreur 503",
+        "detail": "[{\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAILABLE\"\n  }\n}\n]"
       }
     ],
     "etapes": {
       "classement": "ia",
-      "top5": "inchange",
+      "top5": "ia",
       "concept": "ia",
       "citation_actu": "ia",
-      "fils_rouges": "ia"
+      "fils_rouges": "sans-ia"
     }
   },
   "ecritures": [
     {
-      "fichier": "tmp/collecte-2026-11-04.json",
+      "fichier": "tmp/collecte-2026-11-05.json",
       "ecrit": true,
       "raison": null
     },
@@ -290,7 +318,7 @@
       "raison": null
     },
     {
-      "fichier": "jours/2026-11-04.json",
+      "fichier": "jours/2026-11-05.json",
       "ecrit": true,
       "raison": null
     },
@@ -301,11 +329,6 @@
     },
     {
       "fichier": "jours/index.json",
-      "ecrit": true,
-      "raison": null
-    },
-    {
-      "fichier": "fils-rouges.json",
       "ecrit": true,
       "raison": null
     },

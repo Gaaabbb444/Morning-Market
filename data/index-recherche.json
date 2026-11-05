@@ -1,7 +1,304 @@
 {
   "version_schema": 1,
-  "mis_a_jour_le": "2026-11-04T10:13:44+01:00",
+  "mis_a_jour_le": "2026-11-05T05:59:29+01:00",
   "entrees": [
+    {
+      "d": "2026-11-05",
+      "i": "fa30e66b169d",
+      "t": "Budget 2027 : avant la bataille, l’État annule 3,8 milliards de crédits pour 2026",
+      "r": "Le gouvernement a présenté le projet de loi de finances de fin de gestion pour 2026, confirmant un déficit public à 5,4 % du PIB contre l’objectif de 5 % malgré une réduction d’un milliard d’euros de dépenses.",
+      "c": "desequilibres",
+      "s": "Capital",
+      "f": "budget-2027"
+    },
+    {
+      "d": "2026-11-05",
+      "i": "b48b3728223b",
+      "t": "L'Assemblée nationale rejette à l'unanimité le budget de l'Etat 2027 en première lecture",
+      "r": "L’Assemblée nationale a rejeté à l’unanimité le budget de l’État 2027 en première lecture, avec 458 députés contre le texte.",
+      "c": "desequilibres",
+      "s": "franceinfo",
+      "f": "budget-2027"
+    },
+    {
+      "d": "2026-11-05",
+      "i": "70624f076922",
+      "t": "Une croissance de 0,5 % en 2026 est « difficilement atteignable », selon le Haut Conseil des finances publiques",
+      "r": "L’Insee a rapporté un recul du PIB de 0,1 % et le Haut Conseil des finances publiques estime qu’une croissance de 0,5 % en 2026 est difficilement atteignable.",
+      "c": "desequilibres",
+      "s": "Le Monde",
+      "f": "budget-2027"
+    },
+    {
+      "d": "2026-11-05",
+      "i": "9dbb0c54a36e",
+      "t": "Midterms 2026 : Wall Street salue la vague démocrate au Congrès et ses promesses de certitudes et de statu quo",
+      "r": "Les principaux indices boursiers américains ont clôturé dans le vert et les taux à dix ans des bons du Trésor ont légèrement baissé, les marchés anticipant une situation de blocage à Washington après deux ans de volatilité.",
+      "c": "finance",
+      "s": "Le Monde",
+      "f": null
+    },
+    {
+      "d": "2026-11-05",
+      "i": "9fe3db5b0791",
+      "t": "Relèvement du plafond du Livret A : « On est loin de la volonté affichée par Emmanuel Macron d’orienter l’épargne des Français vers des placements à long terme »",
+      "r": "Le gouvernement prévoit de porter le plafond du livret A entre 25 000 et 30 000 euros en février 2027, contre 22 950 euros actuellement, tout en maintenant un taux de 1,70 %.",
+      "c": "epargne",
+      "s": "Le Monde",
+      "f": "fiscalite-epargne-patrimoine"
+    },
+    {
+      "d": "2026-11-05",
+      "i": "a62e4a0f3461",
+      "t": "TotalEnergies, à la pointe de la transition énergétique des géants pétroliers ? Les objectifs verts du groupe passés au crible",
+      "r": "TotalEnergies investit dans les énergies renouvelables tout en maintenant des prévisions de production d'hydrocarbures.",
+      "c": "croissance",
+      "s": "franceinfo",
+      "f": null
+    },
+    {
+      "d": "2026-11-05",
+      "i": "0f4218faf3e0",
+      "t": "«Que se passe-t-il en France ?» : quand les manifestations ternissent l’image du pays auprès des entreprises étrangères",
+      "r": "Les manifestations sociales en France suscitent l'inquiétude des investisseurs étrangers et pèsent sur l'image économique et la capacité de réforme du pays.",
+      "c": "croissance",
+      "s": "Le Figaro",
+      "f": "conjoncture-france"
+    },
+    {
+      "d": "2026-11-05",
+      "i": "5c856335ed81",
+      "t": "Trois idées pour répondre à la crise des prix du carburant… sans subventionner le pétrole",
+      "r": "Le leasing social, les HLM de la voiture électrique et le bonus électrique sont proposés pour aider les ménages face à la crise énergétique.",
+      "c": "croissance",
+      "s": "Alternatives Économiques",
+      "f": "choc-petrolier-ormuz"
+    },
+    {
+      "d": "2026-11-05",
+      "i": "8573e504d5df",
+      "t": "Ligne THT : le tracé aérien privilégié par RTE, l’électrification des usages en argument",
+      "r": "RTE privilégie un tracé aérien pour sa nouvelle ligne à haute tension afin de répondre aux besoins croissants d'électrification des usages.",
+      "c": "croissance",
+      "s": "La Tribune",
+      "f": null
+    },
+    {
+      "d": "2026-11-05",
+      "i": "14388ebd503a",
+      "t": "Guerre commerciale, IA, budget… Au Congrès, un bras de fer se prépare entre les démocrates et Donald Trump",
+      "r": "La victoire des démocrates au Congrès américain prépare un bras de fer institutionnel avec Donald Trump sur le commerce, l'IA et le budget.",
+      "c": "mondialisation",
+      "s": "Le Figaro",
+      "f": null
+    },
+    {
+      "d": "2026-11-05",
+      "i": "4f940ce11796",
+      "t": "Donald Trump battu : ce qui attend l'Europe",
+      "r": "Le contrôle du Congrès par les démocrates offre un contre-pouvoir à Donald Trump, sans toutefois modifier sa politique étrangère vis-à-vis de l'Europe et de l'Ukraine.",
+      "c": "mondialisation",
+      "s": "L'Opinion",
+      "f": null
+    },
+    {
+      "d": "2026-11-05",
+      "i": "cc55d8ac0a3f",
+      "t": "La taxe sur les petits colis fait chuter ses ventes: le géant chinois Shein annonce investir 500 millions d'euros en Pologne pour développer sa plateforme logistique européenne",
+      "r": "Face à la taxe européenne sur les petits colis, Shein investit 500 millions d'euros en Pologne pour développer sa plateforme logistique.",
+      "c": "mondialisation",
+      "s": "BFM Business",
+      "f": null
+    },
+    {
+      "d": "2026-11-05",
+      "i": "4bfcf76fb27e",
+      "t": "Malgré la débâcle de Donald Trump, le risque de guerre avec l'Iran toujours au plus haut",
+      "r": "Malgré les résultats des élections de mi-mandat aux États-Unis, le risque géopolitique et de conflit avec l'Iran reste élevé selon les observateurs.",
+      "c": "mondialisation",
+      "s": "L'Opinion",
+      "f": null
+    },
+    {
+      "d": "2026-11-05",
+      "i": "9d92da8e3750",
+      "t": "BCE : le départ surprise de Christine Lagarde doit nous inquiéter",
+      "r": "Le départ anticipé de Christine Lagarde soulève des interrogations sur une potentielle tempête financière menaçant la France et la stabilité de l'institution.",
+      "c": "finance",
+      "s": "L'Opinion",
+      "f": "inflation-bce"
+    },
+    {
+      "d": "2026-11-05",
+      "i": "c5909bf2ae93",
+      "t": "Le choc énergétique pousse l'inflation à 4 % en Europe, la BCE prise en étau",
+      "r": "",
+      "c": "finance",
+      "s": "Les Echos",
+      "f": "inflation-bce"
+    },
+    {
+      "d": "2026-11-05",
+      "i": "5f23d19d2151",
+      "t": "La livre sterling atteint son niveau le plus haut depuis le référendum sur le Brexit",
+      "r": "La livre sterling a atteint son niveau le plus élevé face à un panier de monnaies depuis le référendum sur le Brexit.",
+      "c": "finance",
+      "s": "BBC",
+      "f": null
+    },
+    {
+      "d": "2026-11-05",
+      "i": "d2309478ef5a",
+      "t": "Midterms: \"La bonne nouvelle et la grande surprise, c'est que très rapidement, Donald Trump a reconnu la victoire des Démocrates. La feuille de route est donc dégagée\", indique Olivier Malteste ,directeur des Investissements de Altheis by Yomoni",
+      "r": "La Bourse de New York a ouvert en hausse après les élections de mi-mandat, réduisant les incertitudes politiques mais questionnant la régulation de l'IA.",
+      "c": "finance",
+      "s": "BFM Business",
+      "f": null
+    },
+    {
+      "d": "2026-11-05",
+      "i": "7d894acd2f2d",
+      "t": "La grande crise des finances publiques françaises est aussi une crise politique",
+      "r": "Pour l'économiste Robert Boyer, la situation des finances publiques françaises traduit une crise globale combinant des facteurs multiples au-delà du seul budget.",
+      "c": "desequilibres",
+      "s": "Alternatives Économiques",
+      "f": "budget-2027"
+    },
+    {
+      "d": "2026-11-05",
+      "i": "de58bd90b77f",
+      "t": "« Le noeud coulant de la dette se resserre » : le rapport au vitriol du Sénat sur le budget 2027",
+      "r": "",
+      "c": "desequilibres",
+      "s": "Les Echos",
+      "f": "budget-2027"
+    },
+    {
+      "d": "2026-11-05",
+      "i": "790b67b88546",
+      "t": "Trafic SNCF perturbé sur les TER et RER, écoles fermées... À quoi s'attendre pour la journée de grève et de mobilisation de jeudi 5 novembre?",
+      "r": "Une journée interprofessionnelle de grèves et de manifestations est organisée pour réclamer des hausses de salaires dans les secteurs public et privé.",
+      "c": "desequilibres",
+      "s": "BFM Business",
+      "f": "conjoncture-france"
+    },
+    {
+      "d": "2026-11-05",
+      "i": "2f52c376f555",
+      "t": "Budget 2026 : autopsie d’un échec pour les finances publiques",
+      "r": "Le gouvernement a présenté son projet de loi de fin de gestion, tablant sur un déficit public de 5,4 % pour l'année.",
+      "c": "desequilibres",
+      "s": "Le Figaro",
+      "f": "budget-2027"
+    },
+    {
+      "d": "2026-11-05",
+      "i": "a016012cecea",
+      "t": "Turquie, Monténégro, Ukraine… : quels pays sont les plus avancés pour rejoindre l'Union européenne ?",
+      "r": "Le budget de l'Union européenne s'élève à 192,8 milliards d'euros pour 2026 dans le cadre d'une programmation pluriannuelle.",
+      "c": "ue",
+      "s": "Toute l'Europe",
+      "f": null
+    },
+    {
+      "d": "2026-11-05",
+      "i": "08e26fbfbc10",
+      "t": "L'avis du Guardian sur les règles « Made in Europe » de l'UE : un coup fatal aux illusions des partisans du Brexit | Éditorial",
+      "r": "Les règles du marché unique européen renforcent les difficultés économiques et stratégiques liées à la sortie du Royaume-Uni.",
+      "c": "ue",
+      "s": "The Guardian",
+      "f": null
+    },
+    {
+      "d": "2026-11-05",
+      "i": "1f9370ae619f",
+      "t": "Elargissement de l'UE : Bruxelles accélère… mais la France pourrait tout bloquer",
+      "r": "",
+      "c": "ue",
+      "s": "Les Echos",
+      "f": null
+    },
+    {
+      "d": "2026-11-05",
+      "i": "d838bacecefd",
+      "t": "[Chronique radio] Interdiction des réseaux sociaux aux mineurs : le défi législatif de la Commission européenne",
+      "r": "La Commission européenne a annoncé le gel pour un an de l'examen des propositions de législation sur l'accès des mineurs aux réseaux sociaux.",
+      "c": "ue",
+      "s": "Toute l'Europe",
+      "f": null
+    },
+    {
+      "d": "2026-11-05",
+      "i": "0515ad2f27b0",
+      "t": "BMW lance un avertissement sur ses profits tout en mesurant le coût de son plan de 8 000 suppressions de postes",
+      "r": "Face à la concurrence de la Chine, le constructeur allemand BMW a abaissé sa marge bénéficiaire et annoncé des suppressions de postes.",
+      "c": "entreprises",
+      "s": "The Guardian",
+      "f": null
+    },
+    {
+      "d": "2026-11-05",
+      "i": "ca61e14e1163",
+      "t": "Alstom accumule les déboires industriels (notamment en Allemagne) et plonge en Bourse: le ministre de l'Economie prévient qu'il ne laissera pas les salariés français payer les pots cassés",
+      "r": "Face aux difficultés financières et industrielles d'Alstom, le ministre de l'Économie Roland Lescure exige une protection stricte de l'emploi en France.",
+      "c": "entreprises",
+      "s": "BFM Business",
+      "f": "conjoncture-france"
+    },
+    {
+      "d": "2026-11-05",
+      "i": "63a2778396f7",
+      "t": "Christel Heydemann, directrice générale d’Orange : « La dépendance de l’Europe est majeure dans de multiples domaines technologiques »",
+      "r": "La directrice générale d'Orange souligne la dépendance majeure de l'Europe dans de multiples domaines technologiques lors d'un entretien.",
+      "c": "entreprises",
+      "s": "Le Monde",
+      "f": null
+    },
+    {
+      "d": "2026-11-05",
+      "i": "6950dade11c9",
+      "t": "CVS Health va scinder sa chaîne de pharmacies de l'assurance santé",
+      "r": "Le conglomérat américain CVS Health annonce son projet de scinder sa chaîne de pharmacies de ses activités d'assurance santé et de prestations.",
+      "c": "entreprises",
+      "s": "The Guardian",
+      "f": null
+    },
+    {
+      "d": "2026-11-05",
+      "i": "92c3fea18653",
+      "t": "Faillite bancaire : ce qui est garanti pour les comptes, livrets, titres et assurance-vie",
+      "r": "Les différents produits d'épargne et comptes bancaires disposent de plafonds de garantie spécifiques en cas de faillite bancaire.",
+      "c": "epargne",
+      "s": "Capital",
+      "f": null
+    },
+    {
+      "d": "2026-11-05",
+      "i": "c8f48e6b0b29",
+      "t": "Au « Davos africain », les investisseurs cherchent à mobiliser les 4000 milliards d’épargne dormante du continent",
+      "r": "L'Africa Financial Summit en Angola se penche sur la mobilisation des milliers de milliards d'épargne dormante pour financer l'économie réelle.",
+      "c": "epargne",
+      "s": "Le Figaro",
+      "f": null
+    },
+    {
+      "d": "2026-11-05",
+      "i": "d89b544a568b",
+      "t": "Etat, épargnants, banques… A qui profite (vraiment) le relèvement du plafond du livret A ?",
+      "r": "Le relèvement du plafond du livret A vise à financer l'adaptation climatique des infrastructures publiques, selon le gouvernement, malgré le scepticisme des banques.",
+      "c": "epargne",
+      "s": "franceinfo",
+      "f": "fiscalite-epargne-patrimoine"
+    },
+    {
+      "d": "2026-11-05",
+      "i": "fddb063ab222",
+      "t": "Faut-il taxer les plus-values latentes ?",
+      "r": "Face à la situation des finances publiques, la question de la taxation des plus-values latentes lors de successions ou de donations revient dans le débat.",
+      "c": "epargne",
+      "s": "Alternatives Économiques",
+      "f": "fiscalite-epargne-patrimoine"
+    },
     {
       "d": "2026-11-04",
       "i": "225e71a6c917",
