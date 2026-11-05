@@ -1,6 +1,6 @@
 {
   "version_schema": 1,
-  "mis_a_jour_le": "2026-11-05T05:59:29+01:00",
+  "mis_a_jour_le": "2026-11-05T10:20:13+01:00",
   "entrees": [
     {
       "d": "2026-11-05",
@@ -85,6 +85,15 @@
     },
     {
       "d": "2026-11-05",
+      "i": "73a24d496389",
+      "t": "« Je n'ai jamais compris l'éolien » : les élections de mi-mandat suscitent l'espoir pour les énergies renouvelables après l'hostilité de Trump",
+      "r": "Les résultats des élections de mi-mandat aux États-Unis marquent un tournant favorable pour les développeurs d'énergies renouvelables après les politiques climatiques de Donald Trump.",
+      "c": "croissance",
+      "s": "The Guardian",
+      "f": null
+    },
+    {
+      "d": "2026-11-05",
       "i": "14388ebd503a",
       "t": "Guerre commerciale, IA, budget… Au Congrès, un bras de fer se prépare entre les démocrates et Donald Trump",
       "r": "La victoire des démocrates au Congrès américain prépare un bras de fer institutionnel avec Donald Trump sur le commerce, l'IA et le budget.",
@@ -117,6 +126,15 @@
       "r": "Malgré les résultats des élections de mi-mandat aux États-Unis, le risque géopolitique et de conflit avec l'Iran reste élevé selon les observateurs.",
       "c": "mondialisation",
       "s": "L'Opinion",
+      "f": null
+    },
+    {
+      "d": "2026-11-05",
+      "i": "9e0176657cd2",
+      "t": "Le Royaume-Uni jugé « dangereusement » dépendant de la Chine pour les minéraux critiques nécessaires à la défense et à l'IA",
+      "r": "Un rapport parlementaire révèle la dépendance critique du Royaume-Uni envers la Chine pour des minéraux essentiels à la défense, aux énergies renouvelables et à l'intelligence artificielle.",
+      "c": "mondialisation",
+      "s": "The Guardian",
       "f": null
     },
     {
@@ -157,6 +175,15 @@
     },
     {
       "d": "2026-11-05",
+      "i": "57b3d8e059bb",
+      "t": "Actions chinoises : trois raisons de la chute et les secteurs à surveiller",
+      "r": "Après la baisse des actions chinoises, un gérant estime que l'équilibre entre risques et potentiel de rendement redevient attractif pour les investisseurs de long terme.",
+      "c": "finance",
+      "s": "Capital",
+      "f": null
+    },
+    {
+      "d": "2026-11-05",
       "i": "7d894acd2f2d",
       "t": "La grande crise des finances publiques françaises est aussi une crise politique",
       "r": "Pour l'économiste Robert Boyer, la situation des finances publiques françaises traduit une crise globale combinant des facteurs multiples au-delà du seul budget.",
@@ -193,6 +220,15 @@
     },
     {
       "d": "2026-11-05",
+      "i": "c19301ccd2e2",
+      "t": "EN DIRECT, grève du 5 novembre : qui manifeste ? quelles sont les revendications ? suivez la journée de mobilisation avec nos journalistes",
+      "r": "Une journée de mobilisation intersyndicale et lycéenne est organisée le 5 novembre pour porter les revendications sur le pouvoir d'achat et les salaires.",
+      "c": "desequilibres",
+      "s": "Le Monde",
+      "f": "conjoncture-france"
+    },
+    {
+      "d": "2026-11-05",
       "i": "a016012cecea",
       "t": "Turquie, Monténégro, Ukraine… : quels pays sont les plus avancés pour rejoindre l'Union européenne ?",
       "r": "Le budget de l'Union européenne s'élève à 192,8 milliards d'euros pour 2026 dans le cadre d'une programmation pluriannuelle.",
@@ -225,6 +261,15 @@
       "r": "La Commission européenne a annoncé le gel pour un an de l'examen des propositions de législation sur l'accès des mineurs aux réseaux sociaux.",
       "c": "ue",
       "s": "Toute l'Europe",
+      "f": null
+    },
+    {
+      "d": "2026-11-05",
+      "i": "11394851c0e6",
+      "t": "« Notre objectif est clair : moins de bureaucratie et de complexité » : l'Europe prépare une nouvelle offensive contre la paperasse",
+      "r": "",
+      "c": "ue",
+      "s": "Les Echos",
       "f": null
     },
     {
@@ -265,6 +310,15 @@
     },
     {
       "d": "2026-11-05",
+      "i": "53b864bf40a4",
+      "t": "\"Ces six derniers mois ont été éprouvants\": avec un bénéfice divisé par trois, Emirates, plus grande compagnie aérienne au Moyen-Orient, est frappée de plein fouet par la guerre",
+      "r": "Le bénéfice net semestriel de la compagnie Emirates s'effondre de 66 %, pénalisé par la flambée du kérosène et le conflit au Moyen-Orient.",
+      "c": "entreprises",
+      "s": "BFM Business",
+      "f": "choc-petrolier-ormuz"
+    },
+    {
+      "d": "2026-11-05",
       "i": "92c3fea18653",
       "t": "Faillite bancaire : ce qui est garanti pour les comptes, livrets, titres et assurance-vie",
       "r": "Les différents produits d'épargne et comptes bancaires disposent de plafonds de garantie spécifiques en cas de faillite bancaire.",
@@ -298,6 +352,15 @@
       "c": "epargne",
       "s": "Alternatives Économiques",
       "f": "fiscalite-epargne-patrimoine"
+    },
+    {
+      "d": "2026-11-05",
+      "i": "4b0addc09224",
+      "t": "Retraite par capitalisation : ce que coûterait la transition, et qui paierait",
+      "r": "L'essor de la retraite par capitalisation soulève la question du coût de la transition et du double financement nécessaire pendant une génération.",
+      "c": "epargne",
+      "s": "Capital",
+      "f": "retraites"
     },
     {
       "d": "2026-11-04",
