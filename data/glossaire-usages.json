@@ -1,6 +1,100 @@
 {
   "version_schema": 1,
   "notions": {
+    "pouvoir-d-achat": [
+      {
+        "date": "2026-11-06",
+        "id": "c623b0cc3dbe",
+        "titre": "Manifestations : face à la colère de la rue, le gouvernement dégaine une conférence sociale",
+        "source": "L'Opinion",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-11-01",
+        "id": "15b4255dffb6",
+        "titre": "Carburants : les prix du gazole doivent baisser à partir de ce week-end",
+        "source": "Le Figaro",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-10-27",
+        "id": "fa1814b3d302",
+        "titre": "Pouvoir d'achat : les salariés au SMIC réclament une hausse plus importante",
+        "source": "franceinfo",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-10-26",
+        "id": "81d3a09a1c1c",
+        "titre": "\"On le dit, on continuera\" : une mobilisation sociale partie pour s'ancrer dans la durée ?",
+        "source": "franceinfo",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-10-25",
+        "id": "3cf1e8c28e56",
+        "titre": "12 à 18 centimes de moins par litre : les stocks de gazole libérés pourraient faire baisser les prix dès le 1er novembre",
+        "source": "BFM Business",
+        "contexte": "Top 5 du jour"
+      }
+    ],
+    "dette-publique": [
+      {
+        "date": "2026-11-06",
+        "id": "c6585b5b1b1d",
+        "titre": "Debt of poorest countries at record $9.4tn high, World Bank data shows",
+        "source": "The Guardian",
+        "contexte": "Top 5 du jour"
+      }
+    ],
+    "indice-boursier": [
+      {
+        "date": "2026-11-06",
+        "id": "dcb771ac6630",
+        "titre": "Nasdaq sees worst day in 18 months as investors bet on AI slowdown after Democrats’ election triumph",
+        "source": "The Guardian",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-11-05",
+        "id": "9dbb0c54a36e",
+        "titre": "Midterms 2026 : Wall Street salue la vague démocrate au Congrès et ses promesses de certitudes et de statu quo",
+        "source": "Le Monde",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-10-26",
+        "id": "c3a9567da3a3",
+        "titre": "Violences urbaines, flambée des taux d’intérêt… Le décrochage du CAC 40, un reflet des désordres français",
+        "source": "Le Figaro",
+        "contexte": "Top 5 du jour"
+      }
+    ],
+    "boucle-prix-salaires": [
+      {
+        "date": "2026-11-06",
+        "id": "0044edf69a21",
+        "titre": "Grève du 5 novembre : revivez la journée de mobilisation qui a rassemblé entre 575 000 et 1,6 million de manifestants en France",
+        "source": "Le Monde",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-10-25",
+        "id": "b405a941f93c",
+        "titre": "\"On va évidemment en discuter\": une hausse du Smic avant le 1er janvier \"fait partie des débats\", selon Roland Lescure",
+        "source": "BFM Business",
+        "contexte": "Top 5 du jour"
+      }
+    ],
+    "risque-systemique": [
+      {
+        "date": "2026-11-06",
+        "id": "9506874a2445",
+        "titre": "Crise au Paraguay : démission du président, Santiago Peña, après le gel des avoirs de près de la moitié de la population dans la principale banque du pays",
+        "source": "franceinfo",
+        "contexte": "Top 5 du jour"
+      }
+    ],
     "deficit-public-et-solde-primaire": [
       {
         "date": "2026-11-05",
@@ -144,22 +238,6 @@
         "id": "86940beef10b",
         "titre": "Le PIB recule légèrement au troisième trimestre 2026 (-0,1 % après 0,0 %)",
         "source": "INSEE",
-        "contexte": "Top 5 du jour"
-      }
-    ],
-    "indice-boursier": [
-      {
-        "date": "2026-11-05",
-        "id": "9dbb0c54a36e",
-        "titre": "Midterms 2026 : Wall Street salue la vague démocrate au Congrès et ses promesses de certitudes et de statu quo",
-        "source": "Le Monde",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-10-26",
-        "id": "c3a9567da3a3",
-        "titre": "Violences urbaines, flambée des taux d’intérêt… Le décrochage du CAC 40, un reflet des désordres français",
-        "source": "Le Figaro",
         "contexte": "Top 5 du jour"
       }
     ],
@@ -356,36 +434,6 @@
         "titre": "Croissance, dette : la France perd pied",
         "source": "L'Opinion",
         "contexte": "Concept du jour"
-      }
-    ],
-    "pouvoir-d-achat": [
-      {
-        "date": "2026-11-01",
-        "id": "15b4255dffb6",
-        "titre": "Carburants : les prix du gazole doivent baisser à partir de ce week-end",
-        "source": "Le Figaro",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-10-27",
-        "id": "fa1814b3d302",
-        "titre": "Pouvoir d'achat : les salariés au SMIC réclament une hausse plus importante",
-        "source": "franceinfo",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-10-26",
-        "id": "81d3a09a1c1c",
-        "titre": "\"On le dit, on continuera\" : une mobilisation sociale partie pour s'ancrer dans la durée ?",
-        "source": "franceinfo",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-10-25",
-        "id": "3cf1e8c28e56",
-        "titre": "12 à 18 centimes de moins par litre : les stocks de gazole libérés pourraient faire baisser les prix dès le 1er novembre",
-        "source": "BFM Business",
-        "contexte": "Top 5 du jour"
       }
     ],
     "inflation": [
@@ -648,15 +696,6 @@
         "titre": "Malgré un taux de chômage au plus haut, \"44% des entreprises ont des difficultés de recrutement\", constate le directeur général de France Travail",
         "source": "BFM Business",
         "contexte": "Concept du jour"
-      }
-    ],
-    "boucle-prix-salaires": [
-      {
-        "date": "2026-10-25",
-        "id": "b405a941f93c",
-        "titre": "\"On va évidemment en discuter\": une hausse du Smic avant le 1er janvier \"fait partie des débats\", selon Roland Lescure",
-        "source": "BFM Business",
-        "contexte": "Top 5 du jour"
       }
     ],
     "autonomie-strategique-europeenne": [

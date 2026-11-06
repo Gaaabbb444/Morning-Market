@@ -1,7 +1,304 @@
 {
   "version_schema": 1,
-  "mis_a_jour_le": "2026-11-05T10:20:13+01:00",
+  "mis_a_jour_le": "2026-11-06T06:00:53+01:00",
   "entrees": [
+    {
+      "d": "2026-11-06",
+      "i": "c623b0cc3dbe",
+      "t": "Manifestations : face à la colère de la rue, le gouvernement dégaine une conférence sociale",
+      "r": "Sébastien Lecornu a convoqué les organisations patronales et syndicales à une réunion visant « d’apporter des réponses aux questions de pouvoir d’achat et de salaires » selon les services du Premier ministre.",
+      "c": "desequilibres",
+      "s": "L'Opinion",
+      "f": "conjoncture-france"
+    },
+    {
+      "d": "2026-11-06",
+      "i": "c6585b5b1b1d",
+      "t": "La dette des pays les plus pauvres atteint un record de 9,4 billions de dollars, selon les données de la Banque mondiale",
+      "r": "La dette des pays en développement a atteint un record de 9,4 billions de dollars l'an dernier, les plus pauvres payant les taux d'intérêt les plus élevés.",
+      "c": "desequilibres",
+      "s": "The Guardian",
+      "f": null
+    },
+    {
+      "d": "2026-11-06",
+      "i": "dcb771ac6630",
+      "t": "Le Nasdaq connaît sa pire journée en 18 mois alors que les investisseurs parient sur un ralentissement de l'IA après le triomphe électoral des démocrates",
+      "r": "Le Nasdaq a perdu 5,5 % en une journée, la pire depuis 18 mois, suite aux craintes de régulation accrue du secteur de l’intelligence artificielle après les élections américaines.",
+      "c": "finance",
+      "s": "The Guardian",
+      "f": "intelligence-artificielle"
+    },
+    {
+      "d": "2026-11-06",
+      "i": "0044edf69a21",
+      "t": "Grève du 5 novembre : revivez la journée de mobilisation qui a rassemblé entre 575 000 et 1,6 million de manifestants en France",
+      "r": "La CGT estime que près de 1,6 million de personnes ont manifesté le 5 novembre, contre 575 000 selon le ministère de l’Intérieur.",
+      "c": "desequilibres",
+      "s": "Le Monde",
+      "f": "conjoncture-france"
+    },
+    {
+      "d": "2026-11-06",
+      "i": "9506874a2445",
+      "t": "Crise au Paraguay : démission du président, Santiago Peña, après le gel des avoirs de près de la moitié de la population dans la principale banque du pays",
+      "r": "Le président du Paraguay, Santiago Peña, a annoncé sa démission après la mise sous tutelle de la banque Ueno, dont les dépôts de 2,94 millions de clients ont été gelés.",
+      "c": "finance",
+      "s": "franceinfo",
+      "f": null
+    },
+    {
+      "d": "2026-11-06",
+      "i": "060cbe77c76f",
+      "t": "COP31 : dates, participants, enjeux… ce qu'il faut savoir sur la conférence d'Antalya",
+      "r": "La 31e session de la Conférence des parties (COP31) s'inscrit dans le cadre de la lutte contre le changement climatique amorcée au Sommet de Rio en 1992.",
+      "c": "croissance",
+      "s": "Toute l'Europe",
+      "f": null
+    },
+    {
+      "d": "2026-11-06",
+      "i": "f5592ed528af",
+      "t": "« L'attractivité de la France repose sur sa parole donnée… et tenue » : le cri d'alarme de grands investisseurs internationaux",
+      "r": "",
+      "c": "croissance",
+      "s": "Les Echos",
+      "f": null
+    },
+    {
+      "d": "2026-11-06",
+      "i": "1dfa6fe45b6c",
+      "t": "Un chantier à 850 millions d’euros : la préfecture d’Île-de-France veut créer de nouveaux sites de baignade dans la Seine en aval de Paris",
+      "r": "La préfecture d'Île-de-France lance un chantier de 850 millions d'euros pour créer de nouveaux sites de baignade dans la Seine.",
+      "c": "croissance",
+      "s": "Le Figaro",
+      "f": null
+    },
+    {
+      "d": "2026-11-06",
+      "i": "7455be689f2a",
+      "t": "Comment va le business américain ?",
+      "r": "L'intelligence artificielle est un sujet central pour l'économie américaine, avec des incertitudes liées à l'arrivée des démocrates au pouvoir.",
+      "c": "croissance",
+      "s": "BFM Business",
+      "f": "intelligence-artificielle"
+    },
+    {
+      "d": "2026-11-06",
+      "i": "128c4064719e",
+      "t": "François Kalfon : \"Il faut imposer à la Chine exactement les mêmes conditions que celles qu'elle nous a imposées\" sur l'automobile",
+      "r": "L'eurodéputé François Kalfon estime que les voitures européennes sont devenues trop chères et plaide pour imposer à la Chine les mêmes conditions qu'elle impose à l'Europe.",
+      "c": "mondialisation",
+      "s": "Toute l'Europe",
+      "f": "automobile-europe-chine"
+    },
+    {
+      "d": "2026-11-06",
+      "i": "a2a185f41604",
+      "t": "16 contrats ont été signés avec cinq entreprises de défense, dont la start-up française Alta Ares: l'Otan lance une plate-forme pour l'achat de capacités antidrones",
+      "r": "L'Otan lance une plate-forme commune pour accélérer l'acquisition de capacités antidrones et signe 16 contrats avec cinq entreprises de défense.",
+      "c": "mondialisation",
+      "s": "BFM Business",
+      "f": null
+    },
+    {
+      "d": "2026-11-06",
+      "i": "f68d2dc56b1f",
+      "t": "L’échec électoral de Trump marque-t-il la fin du protectionnisme américain ?",
+      "r": "Les résultats des élections de mi-mandat aux États-Unis posent la question de l'avenir de la politique protectionniste en raison de l'impopularité des droits de douane.",
+      "c": "mondialisation",
+      "s": "Alternatives Économiques",
+      "f": null
+    },
+    {
+      "d": "2026-11-06",
+      "i": "d2d11ce551ba",
+      "t": "Face à la flambée du kérosène, vers une « inévitable » hausse du prix des billets d’avion",
+      "r": "Les perturbations au Moyen-Orient et la cherté du carburant réduisent la rentabilité des compagnies aériennes, rendant inévitable une hausse des billets.",
+      "c": "mondialisation",
+      "s": "Le Figaro",
+      "f": "choc-petrolier-ormuz"
+    },
+    {
+      "d": "2026-11-06",
+      "i": "f3486834d347",
+      "t": "A Wall Street, la victoire démocrate aux midterms a fait exploser la bulle de l’IA",
+      "r": "Le Nasdaq a reculé de plus de 5,5 % à la suite des élections américaines de mi-mandat, accentuant la défiance envers les valeurs technologiques et l'intelligence artificielle.",
+      "c": "finance",
+      "s": "Le Monde",
+      "f": "intelligence-artificielle"
+    },
+    {
+      "d": "2026-11-06",
+      "i": "c0beb4b56091",
+      "t": "Chute des actions technologiques mondiales alors que les élections de mi-mandat aux États-Unis renforcent les craintes de ralentissement de l'IA",
+      "r": "Les investisseurs réagissent à un possible durcissement de la régulation concernant la construction de centres de données et l'industrie de l'intelligence artificielle.",
+      "c": "finance",
+      "s": "BBC",
+      "f": "intelligence-artificielle"
+    },
+    {
+      "d": "2026-11-06",
+      "i": "07adb37f0eb9",
+      "t": "Bourse : pourquoi le CAC 40 profite-t-il de la victoire des démocrates ? La sélection d’actions de Momentum s’envole",
+      "r": "Le CAC 40 et l'Euro Stoxx 50 profitent de la victoire des démocrates, favorisant une rotation sectorielle et la baisse des prix du pétrole.",
+      "c": "finance",
+      "s": "Capital",
+      "f": null
+    },
+    {
+      "d": "2026-11-06",
+      "i": "5261e7b470b9",
+      "t": "Sébastien Lecornu exhorte les banques à financer les candidats à l’élection présidentielle",
+      "r": "Le premier ministre a adressé des courriers aux banques françaises afin qu'elles financent les candidats à l'élection présidentielle.",
+      "c": "finance",
+      "s": "Le Monde",
+      "f": "presidentielle-2027"
+    },
+    {
+      "d": "2026-11-06",
+      "i": "1cecf7eeb611",
+      "t": "Budget 2027 : Jordan Bardella demande le vote «en urgence» d'une «règle d'or» dans la Constitution",
+      "r": "Jordan Bardella demande le vote urgent d'une règle d'or constitutionnelle interdisant tout budget augmentant la dette, après le rejet du budget 2027.",
+      "c": "desequilibres",
+      "s": "Le Figaro",
+      "f": "budget-2027"
+    },
+    {
+      "d": "2026-11-06",
+      "i": "7765ba72a197",
+      "t": "\"Même les steaks hachés, c'est devenu un grand luxe\" : les cortèges contre la vie chère font le plein en France",
+      "r": "Des manifestations contre la vie chère ont rassemblé 575 000 personnes selon le ministère de l'Intérieur et plus de 1,5 million selon la CGT.",
+      "c": "desequilibres",
+      "s": "franceinfo",
+      "f": null
+    },
+    {
+      "d": "2026-11-06",
+      "i": "c8d4087869b7",
+      "t": "« On ne va pas faire le cirque habituel » : dans les coulisses des arbitrages budgétaires de Sébastien Lecornu",
+      "r": "Le budget 2027 préparé par Sébastien Lecornu devrait être très proche de sa copie originelle, avec un passage probable par l'article 49.3 ou par ordonnances.",
+      "c": "desequilibres",
+      "s": "Le Figaro",
+      "f": "budget-2027"
+    },
+    {
+      "d": "2026-11-06",
+      "i": "d1a0bac5351e",
+      "t": "Dette : les députés veulent mettre fin aux emprunts d’Etat indexés sur l’inflation",
+      "r": "Une majorité de députés demande la fin des emprunts d'État indexés sur l'inflation, un mécanisme qui pourrait coûter plus de 10 milliards d'euros en 2026.",
+      "c": "desequilibres",
+      "s": "Le Monde",
+      "f": "budget-2027"
+    },
+    {
+      "d": "2026-11-06",
+      "i": "5a6db02691bb",
+      "t": "Union des marchés, fusions, IA : le gouverneur de la Banque de France plaide pour des champions bancaires européens",
+      "r": "",
+      "c": "ue",
+      "s": "Les Echos",
+      "f": null
+    },
+    {
+      "d": "2026-11-06",
+      "i": "155e203a7518",
+      "t": "Des fausses alertes à la bombe perturbent des dizaines de vols à travers l'Europe, faisant craindre une guerre hybride",
+      "r": "Plus de 30 vols à travers l'Europe ont subi des perturbations et des atterrissages d'urgence cette semaine en raison de fausses alertes à la bombe.",
+      "c": "ue",
+      "s": "The Guardian",
+      "f": null
+    },
+    {
+      "d": "2026-11-06",
+      "i": "9b660f7441bb",
+      "t": "L'agenda européen : les principaux événements prévus du 9 au 15 novembre 2026",
+      "r": "L'agenda européen de la semaine est marqué par la COP31, les discussions budgétaires, un sommet sur l'intelligence artificielle et la protection des épargnants.",
+      "c": "ue",
+      "s": "Toute l'Europe",
+      "f": null
+    },
+    {
+      "d": "2026-11-06",
+      "i": "fb1b9c37a77a",
+      "t": "Comment l'UE prépare-t-elle l'adhésion des Balkans occidentaux ?",
+      "r": "Les dirigeants de l'Union européenne et des Balkans occidentaux se réunissent pour encourager les réformes nécessaires à l'élargissement.",
+      "c": "ue",
+      "s": "Toute l'Europe",
+      "f": null
+    },
+    {
+      "d": "2026-11-06",
+      "i": "eff7466883b2",
+      "t": "Cyberattaque contre Crédit Mutuel Arkéa : les banques sont-elles suffisamment armées face aux hackers ?",
+      "r": "Le Crédit Mutuel Arkéa a subi une cyberattaque d'une ampleur inédite, entraînant un préjudice estimé à au moins 150 millions d'euros.",
+      "c": "entreprises",
+      "s": "Le Figaro",
+      "f": null
+    },
+    {
+      "d": "2026-11-06",
+      "i": "470b77920b2c",
+      "t": "BT supprime près de 8 000 emplois dans le cadre d'un vaste programme de réduction des coûts",
+      "r": "Le groupe de télécommunications BT a supprimé près de 8 000 postes depuis la fin du mois de mars afin de réduire ses coûts.",
+      "c": "entreprises",
+      "s": "The Guardian",
+      "f": null
+    },
+    {
+      "d": "2026-11-06",
+      "i": "ab78b9dcf0ca",
+      "t": "Ces ingénieurs que tout le monde s'arrache et qui sont payés jusqu'à 1,5 million de dollars",
+      "r": "Le développement de l'intelligence artificielle en entreprise déclenche une forte concurrence pour recruter les meilleurs ingénieurs aux salaires élevés.",
+      "c": "entreprises",
+      "s": "L'Opinion",
+      "f": "intelligence-artificielle"
+    },
+    {
+      "d": "2026-11-06",
+      "i": "c5b115cb1268",
+      "t": "▶️ La SNCF lance son premier TGV M… avec deux ans de retard",
+      "r": "Le premier TGV M de nouvelle génération de la SNCF entre en service entre Paris et Marseille après des retards de livraison d'Alstom.",
+      "c": "entreprises",
+      "s": "La Tribune",
+      "f": null
+    },
+    {
+      "d": "2026-11-06",
+      "i": "23e2cf102bee",
+      "t": "Les coûts cachés des mutuelles : comment les courtiers font grimper vos cotisations",
+      "r": "Les cotisations des mutuelles ont progressé de 40% depuis 2011, une part importante de ces hausses servant à rémunérer les courtiers intermédiaires.",
+      "c": "epargne",
+      "s": "franceinfo",
+      "f": "fiscalite-epargne-patrimoine"
+    },
+    {
+      "d": "2026-11-06",
+      "i": "7e2bd85c561f",
+      "t": "Taux en hausse, seuil de l’usure : les Français peinent de plus en plus à emprunter pour un achat immobilier",
+      "r": "La hausse des taux d'intérêt et le coût du crédit immobilier pénalisent les acheteurs français, allongeant les durées et augmentant les refus de prêts.",
+      "c": "epargne",
+      "s": "Le Figaro",
+      "f": null
+    },
+    {
+      "d": "2026-11-06",
+      "i": "2c0d9330fd1b",
+      "t": "L’«exit tax» surprise de Giorgia Meloni fait des vagues en Italie et jusqu’à Londres",
+      "r": "Le projet de budget 2027 en Italie introduit une taxe de 26 % sur les plus-values latentes des contribuables fortunés quittant le pays.",
+      "c": "epargne",
+      "s": "Le Figaro",
+      "f": null
+    },
+    {
+      "d": "2026-11-06",
+      "i": "7cd831b8af93",
+      "t": "Rénovation en copropriété : 40% d’aides, un prêt à 0% et une menace budgétaire",
+      "r": "Les copropriétés disposent de nombreux leviers d'aide pour la rénovation, malgré les menaces pesant sur le budget.",
+      "c": "epargne",
+      "s": "Capital",
+      "f": null
+    },
     {
       "d": "2026-11-05",
       "i": "fa30e66b169d",

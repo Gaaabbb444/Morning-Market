@@ -1,6 +1,6 @@
 {
   "version_schema": 1,
-  "mis_a_jour_le": "2026-11-04T10:14:56+01:00",
+  "mis_a_jour_le": "2026-11-06T06:04:23+01:00",
   "fils": [
     {
       "id": "budget-2027",
@@ -11,8 +11,8 @@
       "categories": [
         "desequilibres"
       ],
-      "ou_en_est_on": "L'examen budgétaire se poursuit dans un climat d'impasse, la stagnation économique compromettant l'objectif de réduction du déficit à 5 % du PIB en 2027 malgré d'importants efforts. Face aux difficultés, l'exécutif mise sur un accord de non-censure après l'utilisation potentielle du 49.3, tandis que l'Assemblée adopte divers amendements sectoriels, notamment des mesures fiscales pour l'immobilier, les entreprises viticoles et la suppression de la hausse de TVA pour Canal+.",
-      "ou_en_est_on_maj_le": "2026-11-03",
+      "ou_en_est_on": "L'exécutif envisage d'adopter le budget par le biais de l'article 49.3 ou par ordonnances, avec un texte proche de sa version initiale qui pourrait être complété par un second projet. Face aux tensions budgétaires, une majorité de députés réclame la fin des emprunts indexés sur l'inflation, tandis que le Rassemblement national plaide pour instaurer une règle d'or constitutionnelle interdisant le vote d'un budget qui accroîtrait la dette publique. Parallèlement, les arbitrages sur les prestations sociales se précisent, prévoyant des revalorisations ciblées mais excluant certaines allocations.",
+      "ou_en_est_on_maj_le": "2026-11-06",
       "evenements": [
         {
           "date": "2026-10-17",
@@ -472,6 +472,37 @@
               "url": "https://www.franceinfo.fr/economie/greve/revalorisation-des-salaires-services-publics-justice-fiscale-quelles-sont-les-revendications-des-syndicats-pour-la-greve-du-5-novembre_8263733.html#xtor=RSS-3-%5Bgeneral%5D"
             }
           ]
+        },
+        {
+          "date": "2026-11-06",
+          "resume": "Alors que le recours au 49.3 ou aux ordonnances se précise pour faire adopter le budget, Jordan Bardella réclame l'inscription d'une règle d'or dans la Constitution et des députés demandent la fin des emprunts d'État indexés sur l'inflation.",
+          "liens": [
+            {
+              "titre": "Budget 2027 : Jordan Bardella demande le vote «en urgence» d'une «règle d'or» dans la Constitution",
+              "source": "Le Figaro",
+              "url": "https://www.lefigaro.fr/conjoncture/budget-2027-jordan-bardella-demande-le-vote-en-urgence-d-une-regle-d-or-dans-la-constitution-20261105"
+            },
+            {
+              "titre": "« On ne va pas faire le cirque habituel » : dans les coulisses des arbitrages budgétaires de Sébastien Lecornu",
+              "source": "Le Figaro",
+              "url": "https://www.lefigaro.fr/conjoncture/on-ne-va-pas-faire-le-cirque-habituel-dans-les-coulisses-des-arbitrages-budgetaires-de-sebastien-lecornu-20261105"
+            },
+            {
+              "titre": "Dette : les députés veulent mettre fin aux emprunts d’Etat indexés sur l’inflation",
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/politique/article/2026/11/05/dette-les-deputes-veulent-mettre-fin-aux-emprunts-d-etat-indexes-sur-l-inflation_6807190_823448.html"
+            },
+            {
+              "titre": "Ce deuxième texte qui pourrait compléter le budget en cas d'adoption par ordonnance",
+              "source": "L'Opinion",
+              "url": "https://www.lopinion.fr/economie/ce-deuxieme-texte-qui-pourrait-completer-le-budget-en-cas-dadoption-par-ordonnance"
+            },
+            {
+              "titre": "RSA, AAH, minimum vieillesse… De combien ces aides sociales seront-elles revalorisées en 2027 ?",
+              "source": "Le Figaro",
+              "url": "https://www.lefigaro.fr/social/rsa-aah-minimum-vieillesse-de-combien-ces-aides-sociales-seront-elles-revalorisees-en-2027-20261105"
+            }
+          ]
         }
       ]
     },
@@ -723,6 +754,17 @@
               "titre": "Placements : «quand la dette de la France fait peur, l’or redevient un investissement incontournable»",
               "source": "Capital",
               "url": "https://www.capital.fr/votre-argent/placements-quand-la-dette-de-la-france-fait-peur-lor-redevient-un-investissement-incontournable-1531485"
+            }
+          ]
+        },
+        {
+          "date": "2026-11-06",
+          "resume": "L'émission obligataire d'OAT s'est déroulée favorablement, entraînant un recul sensible de l'écart de taux entre les titres français et allemands.",
+          "liens": [
+            {
+              "titre": "Dette française : chaque jour de répit est bon à prendre",
+              "source": "L'Opinion",
+              "url": "https://www.lopinion.fr/economie/dette-francaise-chaque-jour-de-repit-est-bon-a-prendre"
             }
           ]
         }
@@ -1012,6 +1054,17 @@
               "url": "https://www.capital.fr/economie-politique/gazole-6-000-stations-en-baisse-selon-bercy-les-independants-denoncent-des-retards-1531535"
             }
           ]
+        },
+        {
+          "date": "2026-11-06",
+          "resume": "Les tensions géopolitiques au Moyen-Orient et le niveau élevé du coût du kérosène pèsent lourdement sur la rentabilité des compagnies aériennes et menacent d'augmenter le prix des billets.",
+          "liens": [
+            {
+              "titre": "Face à la flambée du kérosène, vers une « inévitable » hausse du prix des billets d’avion",
+              "source": "Le Figaro",
+              "url": "https://www.lefigaro.fr/conso/face-a-la-flambee-du-kerosene-vers-une-inevitable-hausse-du-prix-des-billets-d-avion-20261105"
+            }
+          ]
         }
       ]
     },
@@ -1278,8 +1331,8 @@
       "categories": [
         "desequilibres"
       ],
-      "ou_en_est_on": "Le débat programmatique pour l'élection présidentielle de 2027 voit les principales forces politiques confronter leurs projets de financement. Jean-Luc Mélenchon détaille un projet de pôle public bancaire appuyé sur la Caisse des dépôts et Bpifrance pour investir jusqu'à 200 milliards d'euros annuels dans la transition écologique et l'industrie. Ces propositions axées sur une intervention publique élargie contrastent avec les trajectoires de réduction du déficit et de maîtrise des dépenses publiques portées par d'autres prétendants.",
-      "ou_en_est_on_maj_le": "2026-10-30",
+      "ou_en_est_on": "La campagne présidentielle de 2027 structure le calendrier politique et économique. Les organisations patronales (Medef, Les Entrepreneurs, U2P) annoncent une audition collective des candidats sur leurs programmes économiques en amont du premier tour. En parallèle, les enjeux de financement de la vie politique ressurgissent avec les démarches de Matignon incitant le secteur bancaire à prêter aux candidats, alors que les prétendants poursuivent leurs interventions sur les questions industrielles et de défense.",
+      "ou_en_est_on_maj_le": "2026-11-06",
       "evenements": [
         {
           "date": "2026-10-20",
@@ -1381,6 +1434,32 @@
               "titre": "30 minutes de travail en plus par jour pour gagner un 13e, voire un 14e mois: la promesse de Bruno Retailleau qui veut enterrer la semaine de 35 heures s'il est élu président",
               "source": "BFM Business",
               "url": "https://www.bfmtv.com/economie/emploi/30-minutes-de-travail-en-plus-par-jour-pour-gagner-un-13e-voire-un-14e-mois-la-promesse-de-bruno-retailleau-qui-veut-enterrer-la-semaine-de-35-heures-s-il-est-elu-president_AV-202611031003.html"
+            }
+          ]
+        },
+        {
+          "date": "2026-11-06",
+          "resume": "Le patronat organise un grand oral économique pour les prétendants à l'Élysée, tandis que Sébastien Lecornu demande aux banques d'assurer le financement de la campagne.",
+          "liens": [
+            {
+              "titre": "Présidentielle 2027 : le Medef, Les Entrepreneurs et l’U2P unis pour faire passer un grand oral aux candidats",
+              "source": "Le Figaro",
+              "url": "https://www.lefigaro.fr/conjoncture/presidentielle-2027-le-medef-les-entrepreneurs-et-l-u2p-unis-pour-faire-passer-un-grand-oral-aux-candidats-20261105"
+            },
+            {
+              "titre": "Sébastien Lecornu exhorte les banques à financer les candidats à l’élection présidentielle",
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/economie/article/2026/11/05/sebastien-lecornu-exhorte-les-banques-a-financer-les-candidats-a-la-presidentielle_6807149_3234.html"
+            },
+            {
+              "titre": "Euronaval : Édouard Philippe, Bruno Retailleau et Marine Le Pen jouent leur bataille navale",
+              "source": "Capital",
+              "url": "https://www.capital.fr/economie-politique/euronaval-edouard-philippe-bruno-retailleau-et-marine-le-pen-jouent-leur-bataille-navale-1531617"
+            },
+            {
+              "titre": "Euronaval : sur la défense, un programme du RN encore en chantier",
+              "source": "L'Opinion",
+              "url": "https://www.lopinion.fr/politique/euronaval-sur-la-defense-un-programme-du-rn-encore-en-chantier"
             }
           ]
         }
@@ -1625,8 +1704,8 @@
         "desequilibres",
         "entreprises"
       ],
-      "ou_en_est_on": "L'économie française subit un ralentissement marqué tandis que le climat social reste sous tension, poussant le gouvernement à envisager une anticipation de la revalorisation du salaire minimum et éventuellement un coup de pouce. Les négociations annuelles entre industriels et distributeurs débutent dans un climat tendu, marqué par le boycott de la Fédération du commerce et de la distribution lors de la réunion de préparation à Bercy. Par ailleurs, les commerçants continuent de subir les retombées négatives des manifestations sur leur activité.",
-      "ou_en_est_on_maj_le": "2026-11-03",
+      "ou_en_est_on": "L'exécutif tente de désamorcer la contestation sociale en convoquant une conférence sociale avec les syndicats et le patronat sur la question des salaires et du pouvoir d'achat. Cette initiative suit une journée de grève et de manifestations qui a réuni entre 575 000 personnes selon les autorités et 1,6 million selon la CGT. Le gouvernement reste confronté à des arbitrages complexes entre coup de pouce sur le SMIC et allègements de charges, sur fond de ralentissement de l'appareil productif.",
+      "ou_en_est_on_maj_le": "2026-11-06",
       "evenements": [
         {
           "date": "2026-10-17",
@@ -2151,6 +2230,32 @@
               "url": "https://www.lopinion.fr/economie/recession-francaise-la-consommation-tient-mais-lindustrie-plonge"
             }
           ]
+        },
+        {
+          "date": "2026-11-06",
+          "resume": "Après une mobilisation intersyndicale rassemblant 575 000 manifestants selon l'Intérieur et 1,6 million selon la CGT, le gouvernement convoque une conférence sociale pour aborder les salaires et le pouvoir d'achat.",
+          "liens": [
+            {
+              "titre": "Manifestations : face à la colère de la rue, le gouvernement dégaine une conférence sociale",
+              "source": "L'Opinion",
+              "url": "https://www.lopinion.fr/economie/manifestations-face-a-la-colere-de-la-rue-le-gouvernement-degaine-une-conference-sociale"
+            },
+            {
+              "titre": "Grève du 5 novembre : revivez la journée de mobilisation qui a rassemblé entre 575 000 et 1,6 million de manifestants en France",
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/politique/live/2026/11/05/en-direct-greve-du-5-novembre-entre-575-000-et-1-6-million-de-manifestants-en-france-jeudi-une-conference-sociale-avec-les-syndicats-et-le-patronat-prevue-a-matignon-lundi_6806775_823448.html"
+            },
+            {
+              "titre": "Pouvoir d’achat : Smic, allègements de charges, grilles de branche, l'exécutif au pied du mur salarial",
+              "source": "La Tribune",
+              "url": "https://www.latribune.fr/article/economie/17302769226199/pouvoir-d-achat-smic-allegements-de-charges-grilles-de-branche-lexecutif-au-pied-du-mur-salarial"
+            },
+            {
+              "titre": "« Le gouvernement français a laissé passer l’occasion de redonner une dynamique aux salaires »",
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/idees/article/2026/11/05/le-gouvernement-francais-a-laisse-passer-l-occasion-de-redonner-une-dynamique-aux-salaires_6806904_3232.html"
+            }
+          ]
         }
       ]
     },
@@ -2165,8 +2270,8 @@
         "entreprises",
         "ue"
       ],
-      "ou_en_est_on": "Le déploiement de l'intelligence artificielle générative bouscule les modèles d'affaires tout en favorisant des partenariats industriels européens. L'intégration de modes IA dans le moteur de recherche de Google suscite des inquiétudes sur la dynamique des revenus publicitaires du groupe à Wall Street. Parallèlement, des coopérations se nouent sur le continent pour développer des alternatives souveraines, à l'image de l'accord entre Orange Cyberdéfense et la jeune pousse française Mistral AI dans le domaine de la cybersécurité.",
-      "ou_en_est_on_maj_le": "2026-10-30",
+      "ou_en_est_on": "Le secteur technologique américain subit une forte correction boursière, le Nasdaq ayant abandonné 5,5 % à la suite des élections de mi-mandat aux États-Unis. Les marchés s'inquiètent de la perspective d'une régulation renforcée ciblant l'industrie de l'intelligence artificielle et la construction de centres de données. Cette défiance contraste avec la compétition accrue des entreprises pour recruter des ingénieurs spécialisés, particulièrement recherchés et rémunérés.",
+      "ou_en_est_on_maj_le": "2026-11-06",
       "evenements": [
         {
           "date": "2026-10-17",
@@ -2547,6 +2652,37 @@
               "titre": "La grande prudence des médias face au « bouton anti-IA » censé empêcher l’aspiration de leurs contenus",
               "source": "Le Figaro",
               "url": "https://www.lefigaro.fr/economie/la-grande-prudence-des-medias-face-au-bouton-anti-ia-cense-empecher-l-aspiration-de-leurs-contenus-20261102"
+            }
+          ]
+        },
+        {
+          "date": "2026-11-06",
+          "resume": "L'indice Nasdaq a chuté de 5,5 % sous l'effet de craintes d'un durcissement réglementaire américain sur l'intelligence artificielle et les centres de données après les élections de mi-mandat.",
+          "liens": [
+            {
+              "titre": "Nasdaq sees worst day in 18 months as investors bet on AI slowdown after Democrats’ election triumph",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/business/2026/nov/05/nasdaq-heading-for-worst-day-in-18-months-as-wall-street-sustains-widespread-losses"
+            },
+            {
+              "titre": "A Wall Street, la victoire démocrate aux midterms a fait exploser la bulle de l’IA",
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/economie/article/2026/11/05/a-wall-street-la-victoire-democrate-aux-midterms-a-fait-exploser-la-bulle-de-l-ia_6807339_3234.html"
+            },
+            {
+              "titre": "Global tech stocks plunge as US midterms add to AI slowdown fears",
+              "source": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "titre": "Comment va le business américain ?",
+              "source": "BFM Business",
+              "url": "https://www.bfmtv.com/economie/video-comment-va-le-business-americain_VN-202611050715.html"
+            },
+            {
+              "titre": "Ces ingénieurs que tout le monde s'arrache et qui sont payés jusqu'à 1,5 million de dollars",
+              "source": "L'Opinion",
+              "url": "https://www.lopinion.fr/economie/ces-ingenieurs-que-tout-le-monde-sarrache-et-qui-sont-payes-jusqua-1-5-million-de-dollars"
             }
           ]
         }
