@@ -1,6 +1,6 @@
 {
   "version_schema": 1,
-  "mis_a_jour_le": "2026-11-06T06:04:23+01:00",
+  "mis_a_jour_le": "2026-11-06T10:15:19+01:00",
   "fils": [
     {
       "id": "budget-2027",
@@ -475,7 +475,7 @@
         },
         {
           "date": "2026-11-06",
-          "resume": "Alors que le recours au 49.3 ou aux ordonnances se précise pour faire adopter le budget, Jordan Bardella réclame l'inscription d'une règle d'or dans la Constitution et des députés demandent la fin des emprunts d'État indexés sur l'inflation.",
+          "resume": "L'ancien économiste en chef du FMI Olivier Blanchard met en garde contre le risque d'une crise budgétaire en France, estimant que les programmes de certains partis d'opposition sont irréalistes ou inquiétants pour les investisseurs.",
           "liens": [
             {
               "titre": "Budget 2027 : Jordan Bardella demande le vote «en urgence» d'une «règle d'or» dans la Constitution",
@@ -1057,12 +1057,17 @@
         },
         {
           "date": "2026-11-06",
-          "resume": "Les tensions géopolitiques au Moyen-Orient et le niveau élevé du coût du kérosène pèsent lourdement sur la rentabilité des compagnies aériennes et menacent d'augmenter le prix des billets.",
+          "resume": "Selon l'Agence internationale de l'énergie, la crise géopolitique actuelle stimule le développement des énergies renouvelables, qui devraient représenter près de la moitié de la production d'électricité d'ici cinq ans.",
           "liens": [
             {
               "titre": "Face à la flambée du kérosène, vers une « inévitable » hausse du prix des billets d’avion",
               "source": "Le Figaro",
               "url": "https://www.lefigaro.fr/conso/face-a-la-flambee-du-kerosene-vers-une-inevitable-hausse-du-prix-des-billets-d-avion-20261105"
+            },
+            {
+              "titre": "Dopées par la crise d'Ormuz, les énergies renouvelables vont peser près de la moitié de la production d'électricité d'ici cinq ans",
+              "source": "La Tribune",
+              "url": "https://www.latribune.fr/article/entreprises-finance/energie-environnement/5364325697195/les-energies-renouvelables-dopees-par-la-crise-d-ormuz"
             }
           ]
         }
@@ -1439,7 +1444,7 @@
         },
         {
           "date": "2026-11-06",
-          "resume": "Le patronat organise un grand oral économique pour les prétendants à l'Élysée, tandis que Sébastien Lecornu demande aux banques d'assurer le financement de la campagne.",
+          "resume": "Le patronat a annoncé qu'il auditionnera les candidats à l'élection présidentielle de 2027 le 8 mars prochain au Grand Rex.",
           "liens": [
             {
               "titre": "Présidentielle 2027 : le Medef, Les Entrepreneurs et l’U2P unis pour faire passer un grand oral aux candidats",
@@ -1460,6 +1465,11 @@
               "titre": "Euronaval : sur la défense, un programme du RN encore en chantier",
               "source": "L'Opinion",
               "url": "https://www.lopinion.fr/politique/euronaval-sur-la-defense-un-programme-du-rn-encore-en-chantier"
+            },
+            {
+              "titre": "Présidentielle 2027 : les candidats auditionnés par le patronat le 8 mars prochain au Grand Rex",
+              "source": "Le Figaro",
+              "url": "https://www.lefigaro.fr/elections/presidentielles/presidentielle-2027-les-candidats-auditionnes-par-le-patronat-le-8-mars-prochain-au-grand-rex-20261105"
             }
           ]
         }
@@ -1704,7 +1714,7 @@
         "desequilibres",
         "entreprises"
       ],
-      "ou_en_est_on": "L'exécutif tente de désamorcer la contestation sociale en convoquant une conférence sociale avec les syndicats et le patronat sur la question des salaires et du pouvoir d'achat. Cette initiative suit une journée de grève et de manifestations qui a réuni entre 575 000 personnes selon les autorités et 1,6 million selon la CGT. Le gouvernement reste confronté à des arbitrages complexes entre coup de pouce sur le SMIC et allègements de charges, sur fond de ralentissement de l'appareil productif.",
+      "ou_en_est_on": "Le gouvernement tente de répondre au mécontentement social et à la baisse du pouvoir d'achat en envisageant une hausse anticipée du SMIC et en convoquant une conférence sociale avec les partenaires sociaux. Cette situation intervient alors que l'appareil productif ralentit et que les commerçants subissent une forte baisse de fréquentation liée aux récentes manifestations.",
       "ou_en_est_on_maj_le": "2026-11-06",
       "evenements": [
         {
@@ -2233,7 +2243,7 @@
         },
         {
           "date": "2026-11-06",
-          "resume": "Après une mobilisation intersyndicale rassemblant 575 000 manifestants selon l'Intérieur et 1,6 million selon la CGT, le gouvernement convoque une conférence sociale pour aborder les salaires et le pouvoir d'achat.",
+          "resume": "Le ministre du Travail envisage de porter le SMIC net au-delà de 1 500 euros avant la revalorisation de janvier, alors qu'une conférence sociale est convoquée à Matignon pour répondre aux mobilisations contre la vie chère et aux difficultés des commerçants touchés par les manifestations.",
           "liens": [
             {
               "titre": "Manifestations : face à la colère de la rue, le gouvernement dégaine une conférence sociale",
@@ -2254,6 +2264,11 @@
               "titre": "« Le gouvernement français a laissé passer l’occasion de redonner une dynamique aux salaires »",
               "source": "Le Monde",
               "url": "https://www.lemonde.fr/idees/article/2026/11/05/le-gouvernement-francais-a-laisse-passer-l-occasion-de-redonner-une-dynamique-aux-salaires_6806904_3232.html"
+            },
+            {
+              "titre": "Smic : Jean-Pierre Farandou, le ministre du travail, juge « important » d’essayer de franchir la « barre des 1 500 euros net »",
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/politique/article/2026/11/06/smic-jean-pierre-farandou-le-ministre-du-travail-juge-important-d-essayer-de-franchir-la-barre-des-1-500-euros-net_6807741_823448.html"
             }
           ]
         }
@@ -2270,7 +2285,7 @@
         "entreprises",
         "ue"
       ],
-      "ou_en_est_on": "Le secteur technologique américain subit une forte correction boursière, le Nasdaq ayant abandonné 5,5 % à la suite des élections de mi-mandat aux États-Unis. Les marchés s'inquiètent de la perspective d'une régulation renforcée ciblant l'industrie de l'intelligence artificielle et la construction de centres de données. Cette défiance contraste avec la compétition accrue des entreprises pour recruter des ingénieurs spécialisés, particulièrement recherchés et rémunérés.",
+      "ou_en_est_on": "Le secteur technologique subit une correction boursière marquée par la chute du Nasdaq, les investisseurs craignant un durcissement de la régulation américaine sur l'intelligence artificielle et la construction de centres de données à la suite des élections de mi-mandat. Cette tension sur les valeurs technologiques amène certains analystes à s'interroger sur l'existence d'une bulle spéculative, tandis que l'IA continue de transformer en profondeur l'économie réelle et les méthodes des entreprises.",
       "ou_en_est_on_maj_le": "2026-11-06",
       "evenements": [
         {
@@ -2657,7 +2672,7 @@
         },
         {
           "date": "2026-11-06",
-          "resume": "L'indice Nasdaq a chuté de 5,5 % sous l'effet de craintes d'un durcissement réglementaire américain sur l'intelligence artificielle et les centres de données après les élections de mi-mandat.",
+          "resume": "Le Nasdaq et les marchés mondiaux ont chuté à la suite des élections de mi-mandat aux États-Unis, les investisseurs redoutant un frein réglementaire sur les centres de données dédiés à l'intelligence artificielle.",
           "liens": [
             {
               "titre": "Nasdaq sees worst day in 18 months as investors bet on AI slowdown after Democrats’ election triumph",

@@ -1,6 +1,6 @@
 {
   "version_schema": 1,
-  "mis_a_jour_le": "2026-11-06T06:00:53+01:00",
+  "mis_a_jour_le": "2026-11-06T10:14:12+01:00",
   "entrees": [
     {
       "d": "2026-11-06",
@@ -85,6 +85,15 @@
     },
     {
       "d": "2026-11-06",
+      "i": "54415f5fa784",
+      "t": "L'IA fait main basse sur le monde réel",
+      "r": "L'intelligence artificielle transforme en profondeur l'économie réelle, de son impact sur les élections américaines à l'emploi des jeunes et à l'essor des datacenters.",
+      "c": "croissance",
+      "s": "BFM Business",
+      "f": "intelligence-artificielle"
+    },
+    {
+      "d": "2026-11-06",
       "i": "128c4064719e",
       "t": "François Kalfon : \"Il faut imposer à la Chine exactement les mêmes conditions que celles qu'elle nous a imposées\" sur l'automobile",
       "r": "L'eurodéputé François Kalfon estime que les voitures européennes sont devenues trop chères et plaide pour imposer à la Chine les mêmes conditions qu'elle impose à l'Europe.",
@@ -118,6 +127,15 @@
       "c": "mondialisation",
       "s": "Le Figaro",
       "f": "choc-petrolier-ormuz"
+    },
+    {
+      "d": "2026-11-06",
+      "i": "331f5861601a",
+      "t": "Le déficit commercial se creuse à 7,3 milliards d’euros en septembre, pénalisé par l’énergie",
+      "r": "Le déficit commercial de la France s'est creusé à 7,3 milliards d'euros en septembre, pénalisé par une forte hausse des importations de produits énergétiques.",
+      "c": "mondialisation",
+      "s": "Le Figaro",
+      "f": null
     },
     {
       "d": "2026-11-06",
@@ -157,6 +175,15 @@
     },
     {
       "d": "2026-11-06",
+      "i": "6cb7b55a6ac5",
+      "t": "\"Un véritable bain de sang\": plus forte chute depuis 2020, 3.200 milliards de dollars partis en fumée, Wall Street et l'IA paniquent après la défaite de Trump",
+      "r": "Wall Street et le secteur de l'intelligence artificielle ont chuté, les investisseurs craignant que les résultats des élections de mi-mandat freinent les centres de données.",
+      "c": "finance",
+      "s": "BFM Business",
+      "f": "intelligence-artificielle"
+    },
+    {
+      "d": "2026-11-06",
       "i": "1cecf7eeb611",
       "t": "Budget 2027 : Jordan Bardella demande le vote «en urgence» d'une «règle d'or» dans la Constitution",
       "r": "Jordan Bardella demande le vote urgent d'une règle d'or constitutionnelle interdisant tout budget augmentant la dette, après le rejet du budget 2027.",
@@ -187,6 +214,15 @@
       "i": "d1a0bac5351e",
       "t": "Dette : les députés veulent mettre fin aux emprunts d’Etat indexés sur l’inflation",
       "r": "Une majorité de députés demande la fin des emprunts d'État indexés sur l'inflation, un mécanisme qui pourrait coûter plus de 10 milliards d'euros en 2026.",
+      "c": "desequilibres",
+      "s": "Le Monde",
+      "f": "budget-2027"
+    },
+    {
+      "d": "2026-11-06",
+      "i": "127b365e2e89",
+      "t": "Olivier Blanchard, économiste : « Il n’est pas sûr que nous puissions éviter une crise budgétaire »",
+      "r": "L'ancien économiste en chef du FMI, Olivier Blanchard, met en garde contre le risque d'une crise budgétaire en France.",
       "c": "desequilibres",
       "s": "Le Monde",
       "f": "budget-2027"
@@ -265,6 +301,15 @@
     },
     {
       "d": "2026-11-06",
+      "i": "62247fa1c793",
+      "t": "Mérieux se concentre sur les États-Unis",
+      "r": "En rachetant l'américain Certified Group, le groupe Mérieux s'implante sur le marché américain du contrôle de la sécurité alimentaire, évalué à 2,5 milliards de dollars.",
+      "c": "entreprises",
+      "s": "BFM Business",
+      "f": null
+    },
+    {
+      "d": "2026-11-06",
       "i": "23e2cf102bee",
       "t": "Les coûts cachés des mutuelles : comment les courtiers font grimper vos cotisations",
       "r": "Les cotisations des mutuelles ont progressé de 40% depuis 2011, une part importante de ces hausses servant à rémunérer les courtiers intermédiaires.",
@@ -298,6 +343,15 @@
       "c": "epargne",
       "s": "Capital",
       "f": null
+    },
+    {
+      "d": "2026-11-06",
+      "i": "710e058a8a6a",
+      "t": "PER : qui a vraiment intérêt à en ouvrir un, et qui doit passer son chemin",
+      "r": "Le plan d'épargne retraite (PER) cible principalement les contribuables fortement imposés capables d'immobiliser leur épargne sur le long terme.",
+      "c": "epargne",
+      "s": "Capital",
+      "f": "fiscalite-epargne-patrimoine"
     },
     {
       "d": "2026-11-05",
