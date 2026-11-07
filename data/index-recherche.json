@@ -1,7 +1,295 @@
 {
   "version_schema": 1,
-  "mis_a_jour_le": "2026-11-06T10:14:12+01:00",
+  "mis_a_jour_le": "2026-11-07T05:53:04+01:00",
   "entrees": [
+    {
+      "d": "2026-11-07",
+      "i": "a59fe565fe17",
+      "t": "Marché du travail aux Etats-Unis : chômage en baisse, créations d’emplois en hausse",
+      "r": "Les statistiques officielles pour le mois d’octobre ont fait état d’un léger recul du chômage et d’un bond des créations d’emplois, qui ont plus que doublé par rapport à septembre.",
+      "c": "desequilibres",
+      "s": "Le Monde",
+      "f": null
+    },
+    {
+      "d": "2026-11-07",
+      "i": "cd3e75a722bb",
+      "t": "Les actions mondiales chutent sur fond de 'grandes inquiétudes concernant l'IA' après le triomphe des démocrates aux midterms",
+      "r": "Les marchés boursiers asiatiques et européens ont chuté dans le sillage de Wall Street après la victoire des démocrates, entraînant une forte baisse des valeurs technologiques.",
+      "c": "finance",
+      "s": "The Guardian",
+      "f": null
+    },
+    {
+      "d": "2026-11-07",
+      "i": "5458919a91fe",
+      "t": "Deux semaines avant les retrouvailles entre Donald Trump et Xi Jinping, les États-Unis mettent la pression sur la Chine pour qu'elle respecte l'accord commercial \"immédiatement\"",
+      "r": "Le gouvernement américain a appelé la Chine à remplir « pleinement et immédiatement » les engagements pris l’an dernier pour apaiser le conflit commercial entre les deux puissances.",
+      "c": "mondialisation",
+      "s": "BFM Business",
+      "f": null
+    },
+    {
+      "d": "2026-11-07",
+      "i": "ff4fb338c009",
+      "t": "OPINION. « Automobile : faire du \"Made in Europe\" un levier de puissance industrielle »",
+      "r": "L’accord franco‑allemand sur l’avenir de l’automobile européenne vise à concilier décarbonation, flexibilité technologique et contenu européen, afin de renforcer la puissance industrielle du secteur.",
+      "c": "ue",
+      "s": "La Tribune",
+      "f": "automobile-europe-chine"
+    },
+    {
+      "d": "2026-11-07",
+      "i": "ae95fd4c8c98",
+      "t": "L’Allemagne va entrer au capital de KNDS et contrôlera le géant de l’armement terrestre à parité avec la France",
+      "r": "Berlin a trouvé un accord de principe pour acheter la participation de 50 % que la France détient dans le groupe d’armement franco‑allemand KNDS, rejoignant ainsi l’État français au capital.",
+      "c": "entreprises",
+      "s": "Le Monde",
+      "f": null
+    },
+    {
+      "d": "2026-11-07",
+      "i": "40145e74b47e",
+      "t": "Les géants de l’IA tentent de s’adapter à un monde hostile aux datacenters",
+      "r": "Face aux réticences locales et aux projets de moratoires politiques, les constructeurs de centres de données étudient des implantations alternatives à l'étranger ou dans le désert.",
+      "c": "croissance",
+      "s": "L'Opinion",
+      "f": "intelligence-artificielle"
+    },
+    {
+      "d": "2026-11-07",
+      "i": "66745ed866bc",
+      "t": "Les satellites de Kinéis chassent les leurres",
+      "r": "La société toulousaine Kinéis a développé une solution technologique pour identifier et localiser les navires trafiquant leur signal d'identification.",
+      "c": "croissance",
+      "s": "La Tribune",
+      "f": null
+    },
+    {
+      "d": "2026-11-07",
+      "i": "014be623fea2",
+      "t": "« L’écologie peut devenir un levier de souveraineté pharmaceutique pour la France et l’Europe »",
+      "r": "L'écologie pourrait devenir un levier de souveraineté pharmaceutique grâce à des innovations permettant de produire les molécules avec moins de ressources.",
+      "c": "croissance",
+      "s": "L'Opinion",
+      "f": null
+    },
+    {
+      "d": "2026-11-07",
+      "i": "0a617e230e18",
+      "t": "Suivez en direct les Rencontres de l'Avenir à Saint-Raphaël",
+      "r": "Les Rencontres de l'Avenir à Saint-Raphaël interrogent la stratégie de la France face à l'intelligence artificielle et à la souveraineté économique d'ici 2050.",
+      "c": "croissance",
+      "s": "La Tribune",
+      "f": "intelligence-artificielle"
+    },
+    {
+      "d": "2026-11-07",
+      "i": "c865bad634c4",
+      "t": "La fréquentation de Shein et Temu en chute libre au troisième trimestre, plombée par la taxe sur les petits colis",
+      "r": "L'audience mensuelle de Shein et de Temu a fortement chuté au troisième trimestre, coïncidant avec l'entrée en vigueur de la taxe européenne sur les petits colis.",
+      "c": "mondialisation",
+      "s": "Le Figaro",
+      "f": null
+    },
+    {
+      "d": "2026-11-07",
+      "i": "33226815af78",
+      "t": "Le plan que préparent les démocrates pour annuler les droits de douane imposés par Donald Trump au Canada",
+      "r": "Des élus démocrates et républicains préparent un plan pour annuler les droits de douane imposés par Donald Trump au Canada.",
+      "c": "mondialisation",
+      "s": "L'Opinion",
+      "f": null
+    },
+    {
+      "d": "2026-11-07",
+      "i": "356a75cf8198",
+      "t": "Moscou accélère la saisie d’actifs russes de groupes occidentaux",
+      "r": "Moscou accélère la mise sous administration provisoire et la saisie d'actifs appartenant à des groupes occidentaux.",
+      "c": "mondialisation",
+      "s": "Le Monde",
+      "f": "ukraine-sanctions"
+    },
+    {
+      "d": "2026-11-07",
+      "i": "8b48cf50d5e9",
+      "t": "Chute des valeurs technologiques américaines : la bulle de l'IA est-elle en train d'éclater ?",
+      "r": "Les marchés financiers mondiaux traversent des turbulences sur fond d'interrogations des investisseurs quant à un ralentissement de l'intelligence artificielle après des mouvements de repli à Wall Street.",
+      "c": "finance",
+      "s": "The Guardian",
+      "f": "intelligence-artificielle"
+    },
+    {
+      "d": "2026-11-07",
+      "i": "65dc85b0949d",
+      "t": "Les fonds de pension au secours de la dette et de l’investissement",
+      "r": "La généralisation des fonds de pension est présentée comme une solution pour concilier réduction de la dette publique et besoins d'investissement en Europe.",
+      "c": "finance",
+      "s": "Capital",
+      "f": null
+    },
+    {
+      "d": "2026-11-07",
+      "i": "2e6c6a8a31bb",
+      "t": "'Mon prêt immobilier va augmenter de 200 £' : comment la hausse des taux d'intérêt pèse sur le portefeuille des ménages",
+      "r": "La hausse des taux d'intérêt au Royaume-Uni renchérit le coût des crédits immobiliers, des cartes de crédit et des prêts pour de nombreux ménages.",
+      "c": "finance",
+      "s": "BBC",
+      "f": null
+    },
+    {
+      "d": "2026-11-07",
+      "i": "8fc8e90c6b31",
+      "t": "Les actions liées à l'IA rebondissent après des billions effacés des valeurs boursières",
+      "r": "Les investisseurs avaient vendu des actions technologiques en raison de craintes liées à un ralentissement du développement de l'IA après la victoire électorale démocrate.",
+      "c": "finance",
+      "s": "BBC",
+      "f": null
+    },
+    {
+      "d": "2026-11-07",
+      "i": "84217f830669",
+      "t": "Colère sociale : le gouvernement prépare un décret pour pousser les branches à augmenter les salaires minimums",
+      "r": "Le gouvernement prépare un décret pour inciter les branches professionnelles à augmenter les salaires minimums situés en deçà du smic.",
+      "c": "desequilibres",
+      "s": "Le Figaro",
+      "f": "conjoncture-france"
+    },
+    {
+      "d": "2026-11-07",
+      "i": "5c0db5d0eeb7",
+      "t": "\"J'ai besoin de plus d'argent\" : dans les entreprises, patrons et salariés divisés sur une éventuelle hausse du Smic",
+      "r": "Patrons et salariés affichent des positions divisées sur l'ampleur de la hausse à venir du Smic à la veille d'une conférence sociale.",
+      "c": "desequilibres",
+      "s": "franceinfo",
+      "f": "conjoncture-france"
+    },
+    {
+      "d": "2026-11-07",
+      "i": "ba67f54d5fb7",
+      "t": "Chute historique des livraisons de gazole et d'essence en France : les automobilistes jouent la prudence et ont changé leurs habitudes",
+      "r": "La flambée des prix des carburants entraîne une chute historique des livraisons de gazole et d'essence, traduisant un changement des habitudes des automobilistes.",
+      "c": "desequilibres",
+      "s": "franceinfo",
+      "f": null
+    },
+    {
+      "d": "2026-11-07",
+      "i": "6d64941928f1",
+      "t": "Craignant la perturbation liée à l'IA, les cols blancs quittent leur emploi",
+      "r": "L'intelligence artificielle modifie la psychologie des travailleurs qualifiés, incitant certains salariés à démissionner bien qu'il n'y ait pas de licenciements massifs.",
+      "c": "desequilibres",
+      "s": "The Guardian",
+      "f": "intelligence-artificielle"
+    },
+    {
+      "d": "2026-11-07",
+      "i": "35d583ecb9bd",
+      "t": "L'UE accuse TikTok de ne pas protéger la santé mentale des utilisateurs",
+      "r": "La Commission européenne a inculpé TikTok pour manquement à la protection de la santé mentale des jeunes utilisateurs face à son algorithme.",
+      "c": "ue",
+      "s": "The Guardian",
+      "f": null
+    },
+    {
+      "d": "2026-11-07",
+      "i": "021613ad5903",
+      "t": "L’Europe lâche du lest sur le coûteux règlement méthane",
+      "r": "Les États européens ont reporté de 2027 à 2028 les obligations du règlement méthane pour éviter des tensions sur les importations de gaz.",
+      "c": "ue",
+      "s": "Le Figaro",
+      "f": null
+    },
+    {
+      "d": "2026-11-07",
+      "i": "0bed8a111221",
+      "t": "Comment l'UE conditionne-t-elle les fonds européens au respect de l'état de droit ?",
+      "r": "L'Union européenne conditionne le versement des fonds européens au respect de l'état de droit et de ses valeurs démocratiques.",
+      "c": "ue",
+      "s": "Toute l'Europe",
+      "f": null
+    },
+    {
+      "d": "2026-11-07",
+      "i": "3d541dbbdb18",
+      "t": "Après l’affaire des laits infantiles contaminés à la céréulide, l’UE durcit ses règles sanitaires",
+      "r": "L'Union européenne durcit ses règles sanitaires après l'affaire des laits infantiles contaminés par la toxine céréulide.",
+      "c": "ue",
+      "s": "Le Figaro",
+      "f": null
+    },
+    {
+      "d": "2026-11-07",
+      "i": "1efeb3594b3d",
+      "t": "Tesla va progressivement arrêter la production du Cybertruck vers mi-2027, annonce Elon Musk",
+      "r": "Tesla prévoit d'arrêter progressivement la production du Cybertruck afin de se concentrer sur le Cybercab, son véhicule destiné aux services de robotaxi.",
+      "c": "entreprises",
+      "s": "Le Figaro",
+      "f": null
+    },
+    {
+      "d": "2026-11-07",
+      "i": "607eec728144",
+      "t": "\"On va être à 60 000 euros de manque\" : les négociations autour du prix du lait s'annoncent tendues entre les éleveurs et la grande distribution",
+      "r": "Les négociations sur le prix du lait s'annoncent tendues entre les éleveurs et la grande distribution dans le cadre de la guerre des prix.",
+      "c": "entreprises",
+      "s": "franceinfo",
+      "f": null
+    },
+    {
+      "d": "2026-11-07",
+      "i": "6f3bee4fcef9",
+      "t": "Créer ses propres logiciels en six mois : les outils clonés avec l'IA déferlent dans les entreprises pour réduire les coûts",
+      "r": "Des start-up utilisent l'intelligence artificielle pour créer leurs propres logiciels sur mesure et réduire les coûts liés aux abonnements des géants de la tech.",
+      "c": "entreprises",
+      "s": "La Tribune",
+      "f": "intelligence-artificielle"
+    },
+    {
+      "d": "2026-11-07",
+      "i": "d454a58f8222",
+      "t": "La BITD française n'a pas encore tous les outils pour résister",
+      "r": "L'écosystème de la base industrielle et technologique de défense française face aux attaques asymétriques soulève la question du financement des investissements nécessaires.",
+      "c": "entreprises",
+      "s": "La Tribune",
+      "f": null
+    },
+    {
+      "d": "2026-11-07",
+      "i": "ed2bd8153e1a",
+      "t": "ETF de la semaine : robotique chinoise, obligations et infrastructures",
+      "r": "Plusieurs sociétés lancent de nouveaux ETF axés sur la robotique chinoise, les infrastructures et les obligations d'entreprises en euros.",
+      "c": "epargne",
+      "s": "Capital",
+      "f": null
+    },
+    {
+      "d": "2026-11-07",
+      "i": "a29d9350f958",
+      "t": "Investissement locatif : vers un crédit immobilier plus accessible ?",
+      "r": "Face à des taux de crédit immobilier atteignant 4%, le gouvernement envisage d'assouplir les règles d'octroi des emprunts pour l'investissement locatif.",
+      "c": "epargne",
+      "s": "Capital",
+      "f": null
+    },
+    {
+      "d": "2026-11-07",
+      "i": "21785e946db0",
+      "t": "Immobilier : la baisse des prix ne suffit pas à compenser la hausse des taux",
+      "r": "La baisse des prix de l'immobilier ne suffit pas à compenser la hausse des taux pour l'accès à la propriété.",
+      "c": "epargne",
+      "s": "L'Opinion",
+      "f": null
+    },
+    {
+      "d": "2026-11-07",
+      "i": "264f7eb13ba1",
+      "t": "Immobilier papier : faut-il se laisser tenter par les nouveaux fonds Eltif ?",
+      "r": "",
+      "c": "epargne",
+      "s": "Les Echos",
+      "f": null
+    },
     {
       "d": "2026-11-06",
       "i": "c623b0cc3dbe",

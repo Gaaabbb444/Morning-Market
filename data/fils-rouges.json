@@ -1,6 +1,6 @@
 {
   "version_schema": 1,
-  "mis_a_jour_le": "2026-11-06T10:15:19+01:00",
+  "mis_a_jour_le": "2026-11-07T05:55:17+01:00",
   "fils": [
     {
       "id": "budget-2027",
@@ -501,6 +501,17 @@
               "titre": "RSA, AAH, minimum vieillesse… De combien ces aides sociales seront-elles revalorisées en 2027 ?",
               "source": "Le Figaro",
               "url": "https://www.lefigaro.fr/social/rsa-aah-minimum-vieillesse-de-combien-ces-aides-sociales-seront-elles-revalorisees-en-2027-20261105"
+            }
+          ]
+        },
+        {
+          "date": "2026-11-07",
+          "resume": "Un responsable politique propose de rétablir l'impôt de solidarité sur la fortune afin de financer l'aide aux ménages face à la hausse des prix de l'énergie.",
+          "liens": [
+            {
+              "titre": "Augmentation du Smic : \"La première chose qu'on pourrait faire, dans un budget aujourd'hui, c'est réhabiliter l'Impôt de solidarité sur la fortune\", propose Guillaume Lacroix, président du Parti radical de gauche",
+              "source": "franceinfo",
+              "url": "https://www.franceinfo.fr/politique/augmentation-du-smic-la-premiere-chose-qu-on-pourrait-faire-dans-un-budget-aujourd-hui-c-est-rehabiliter-l-impot-de-solidarite-sur-la-fortune-propose-guillaume-lacroix-president-du-parti-radical-de-gauche_8271443.html#xtor=RSS-3-%5Bgeneral%5D"
             }
           ]
         }
@@ -2271,6 +2282,22 @@
               "url": "https://www.lemonde.fr/politique/article/2026/11/06/smic-jean-pierre-farandou-le-ministre-du-travail-juge-important-d-essayer-de-franchir-la-barre-des-1-500-euros-net_6807741_823448.html"
             }
           ]
+        },
+        {
+          "date": "2026-11-07",
+          "resume": "Le gouvernement prépare un décret pour inciter les branches professionnelles à augmenter les salaires minimums situés en deçà du smic, tandis que patrons et salariés affichent des positions divisées à la veille d'une conférence sociale.",
+          "liens": [
+            {
+              "titre": "Colère sociale : le gouvernement prépare un décret pour pousser les branches à augmenter les salaires minimums",
+              "source": "Le Figaro",
+              "url": "https://www.lefigaro.fr/social/colere-sociale-le-gouvernement-prepare-un-decret-pour-pousser-les-branches-a-augmenter-les-salaires-minimums-20261106"
+            },
+            {
+              "titre": "\"J'ai besoin de plus d'argent\" : dans les entreprises, patrons et salariés divisés sur une éventuelle hausse du Smic",
+              "source": "franceinfo",
+              "url": "https://www.franceinfo.fr/economie/entreprises/j-ai-besoin-de-plus-d-argent-dans-les-entreprises-patrons-et-salaries-divises-sur-une-eventuelle-hausse-du-smic_8271527.html#xtor=RSS-3-%5Bgeneral%5D"
+            }
+          ]
         }
       ]
     },
@@ -2698,6 +2725,37 @@
               "titre": "Ces ingénieurs que tout le monde s'arrache et qui sont payés jusqu'à 1,5 million de dollars",
               "source": "L'Opinion",
               "url": "https://www.lopinion.fr/economie/ces-ingenieurs-que-tout-le-monde-sarrache-et-qui-sont-payes-jusqua-1-5-million-de-dollars"
+            }
+          ]
+        },
+        {
+          "date": "2026-11-07",
+          "resume": "Les marchés boursiers mondiaux et le Nasdaq ont chuté à la suite des élections de mi-mandat aux États-Unis, les investisseurs redoutant un ralentissement et un renforcement de la régulation sur l'intelligence artificielle.",
+          "liens": [
+            {
+              "titre": "US tech stock rout: is the AI bubble bursting?",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/technology/2026/nov/06/us-tech-stock-ai-bubble-bursting-market-meltdown-explainer"
+            },
+            {
+              "titre": "Why the US midterms sparked an AI stock selloff",
+              "source": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/crlykkzwwpydo?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "titre": "Les géants de l’IA tentent de s’adapter à un monde hostile aux datacenters",
+              "source": "L'Opinion",
+              "url": "https://www.lopinion.fr/economie/les-geants-de-lia-tentent-de-sadapter-a-un-monde-hostile-aux-datacenters"
+            },
+            {
+              "titre": "« C’est un petit désastre » : comment expliquer la dégringolade des valeurs boursières de l’IA ?",
+              "source": "L'Opinion",
+              "url": "https://www.lopinion.fr/economie/cest-un-petit-desastre-comment-expliquer-la-degringolade-des-valeurs-boursieres-de-lia"
+            },
+            {
+              "titre": "Global stocks fall amid ‘big worries over AI’ after Democrats’ midterms triumph",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/business/2026/nov/06/global-stocks-plunge-amid-ai-slowdown-fears-after-democrats-midterm-triumph"
             }
           ]
         }

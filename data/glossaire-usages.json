@@ -1,6 +1,135 @@
 {
   "version_schema": 1,
   "notions": {
+    "chomage-definition-du-bit": [
+      {
+        "date": "2026-11-07",
+        "id": "a59fe565fe17",
+        "titre": "Marché du travail aux Etats-Unis : chômage en baisse, créations d’emplois en hausse",
+        "source": "Le Monde",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-10-26",
+        "id": "aefc29f5f987",
+        "titre": "Malgré un taux de chômage au plus haut, \"44% des entreprises ont des difficultés de recrutement\", constate le directeur général de France Travail",
+        "source": "BFM Business",
+        "contexte": "Top 5 du jour"
+      }
+    ],
+    "indice-boursier": [
+      {
+        "date": "2026-11-07",
+        "id": "cd3e75a722bb",
+        "titre": "Global stocks fall amid ‘big worries over AI’ after Democrats’ midterms triumph",
+        "source": "The Guardian",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-11-06",
+        "id": "dcb771ac6630",
+        "titre": "Nasdaq sees worst day in 18 months as investors bet on AI slowdown after Democrats’ election triumph",
+        "source": "The Guardian",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-11-05",
+        "id": "9dbb0c54a36e",
+        "titre": "Midterms 2026 : Wall Street salue la vague démocrate au Congrès et ses promesses de certitudes et de statu quo",
+        "source": "Le Monde",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-10-26",
+        "id": "c3a9567da3a3",
+        "titre": "Violences urbaines, flambée des taux d’intérêt… Le décrochage du CAC 40, un reflet des désordres français",
+        "source": "Le Figaro",
+        "contexte": "Top 5 du jour"
+      }
+    ],
+    "protectionnisme": [
+      {
+        "date": "2026-11-07",
+        "id": "5458919a91fe",
+        "titre": "Deux semaines avant les retrouvailles entre Donald Trump et Xi Jinping, les États-Unis mettent la pression sur la Chine pour qu'elle respecte l'accord commercial \"immédiatement\"",
+        "source": "BFM Business",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-10-29",
+        "id": "62751b6eb3f6",
+        "titre": "Toyota, Hyundai, Stellantis… Comment Donald Trump a gagné son bras de fer avec les constructeurs automobiles",
+        "source": "Le Figaro",
+        "contexte": "Top 5 du jour"
+      }
+    ],
+    "politique-industrielle": [
+      {
+        "date": "2026-11-07",
+        "id": "ff4fb338c009",
+        "titre": "OPINION. « Automobile : faire du \"Made in Europe\" un levier de puissance industrielle »",
+        "source": "La Tribune",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-11-07",
+        "id": "ae95fd4c8c98",
+        "titre": "L’Allemagne va entrer au capital de KNDS et contrôlera le géant de l’armement terrestre à parité avec la France",
+        "source": "Le Monde",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-10-28",
+        "id": "ee8bc342e83a",
+        "titre": "France 2030 : le grand plan d’Emmanuel Macron face à un « mur budgétaire », alerte la Cour des comptes",
+        "source": "Le Monde",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-10-20",
+        "id": "ced71c54d04c",
+        "titre": "Intelligence artificielle : l’Allemagne scelle un partenariat avec Nvidia visant à accélérer son déploiement dans l’industrie",
+        "source": "Le Figaro",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-10-18",
+        "id": "66580453350e",
+        "titre": "Il a tout appris chez Audi en Allemagne et puis il est devenu le \"père de la voiture électrique en Chine\": qui est Wan Gang, l'ingénieur dont une lettre à Pékin a déclenché la déferlante chinoise?",
+        "source": "BFM Business",
+        "contexte": "Top 5 du jour"
+      }
+    ],
+    "competitivite-prix-et-hors-prix": [
+      {
+        "date": "2026-11-07",
+        "id": "ff4fb338c009",
+        "titre": "OPINION. « Automobile : faire du \"Made in Europe\" un levier de puissance industrielle »",
+        "source": "La Tribune",
+        "contexte": "Concept du jour"
+      },
+      {
+        "date": "2026-11-03",
+        "id": "36f95db9f57b",
+        "titre": "Négociations commerciales : la grande distribution boycotte la réunion de Bercy",
+        "source": "Capital",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-10-25",
+        "id": "d58b6e3c608d",
+        "titre": "Le Japon dépend à 95% des États-Unis pour ses importations militaires mais commence à se tourner vers l'Europe (le français Thales est le premier à poser le pied sur l'archipel)",
+        "source": "BFM Business",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-10-21",
+        "id": "156d6c0b32a1",
+        "titre": "Le 737 MAX 10 certifié, Boeing tourne enfin la page de la crise du MAX",
+        "source": "La Tribune",
+        "contexte": "Top 5 du jour"
+      }
+    ],
     "pouvoir-d-achat": [
       {
         "date": "2026-11-06",
@@ -44,29 +173,6 @@
         "id": "c6585b5b1b1d",
         "titre": "Debt of poorest countries at record $9.4tn high, World Bank data shows",
         "source": "The Guardian",
-        "contexte": "Top 5 du jour"
-      }
-    ],
-    "indice-boursier": [
-      {
-        "date": "2026-11-06",
-        "id": "dcb771ac6630",
-        "titre": "Nasdaq sees worst day in 18 months as investors bet on AI slowdown after Democrats’ election triumph",
-        "source": "The Guardian",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-11-05",
-        "id": "9dbb0c54a36e",
-        "titre": "Midterms 2026 : Wall Street salue la vague démocrate au Congrès et ses promesses de certitudes et de statu quo",
-        "source": "Le Monde",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-10-26",
-        "id": "c3a9567da3a3",
-        "titre": "Violences urbaines, flambée des taux d’intérêt… Le décrochage du CAC 40, un reflet des désordres français",
-        "source": "Le Figaro",
         "contexte": "Top 5 du jour"
       }
     ],
@@ -319,29 +425,6 @@
         "contexte": "Concept du jour"
       }
     ],
-    "competitivite-prix-et-hors-prix": [
-      {
-        "date": "2026-11-03",
-        "id": "36f95db9f57b",
-        "titre": "Négociations commerciales : la grande distribution boycotte la réunion de Bercy",
-        "source": "Capital",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-10-25",
-        "id": "d58b6e3c608d",
-        "titre": "Le Japon dépend à 95% des États-Unis pour ses importations militaires mais commence à se tourner vers l'Europe (le français Thales est le premier à poser le pied sur l'archipel)",
-        "source": "BFM Business",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-10-21",
-        "id": "156d6c0b32a1",
-        "titre": "Le 737 MAX 10 certifié, Boeing tourne enfin la page de la crise du MAX",
-        "source": "La Tribune",
-        "contexte": "Top 5 du jour"
-      }
-    ],
     "inflation-par-la-demande-et-par-les-couts": [
       {
         "date": "2026-11-03",
@@ -552,15 +635,6 @@
         "contexte": "Top 5 du jour"
       }
     ],
-    "protectionnisme": [
-      {
-        "date": "2026-10-29",
-        "id": "62751b6eb3f6",
-        "titre": "Toyota, Hyundai, Stellantis… Comment Donald Trump a gagné son bras de fer avec les constructeurs automobiles",
-        "source": "Le Figaro",
-        "contexte": "Top 5 du jour"
-      }
-    ],
     "politique-monetaire": [
       {
         "date": "2026-10-29",
@@ -614,29 +688,6 @@
         "contexte": "Top 5 du jour"
       }
     ],
-    "politique-industrielle": [
-      {
-        "date": "2026-10-28",
-        "id": "ee8bc342e83a",
-        "titre": "France 2030 : le grand plan d’Emmanuel Macron face à un « mur budgétaire », alerte la Cour des comptes",
-        "source": "Le Monde",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-10-20",
-        "id": "ced71c54d04c",
-        "titre": "Intelligence artificielle : l’Allemagne scelle un partenariat avec Nvidia visant à accélérer son déploiement dans l’industrie",
-        "source": "Le Figaro",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-10-18",
-        "id": "66580453350e",
-        "titre": "Il a tout appris chez Audi en Allemagne et puis il est devenu le \"père de la voiture électrique en Chine\": qui est Wan Gang, l'ingénieur dont une lettre à Pékin a déclenché la déferlante chinoise?",
-        "source": "BFM Business",
-        "contexte": "Top 5 du jour"
-      }
-    ],
     "bien-public": [
       {
         "date": "2026-10-28",
@@ -668,15 +719,6 @@
         "id": "a88d5a773650",
         "titre": "IA : la bulle s'effondre en Chine, 480 milliards de dollars déjà partis en fumée",
         "source": "La Tribune",
-        "contexte": "Top 5 du jour"
-      }
-    ],
-    "chomage-definition-du-bit": [
-      {
-        "date": "2026-10-26",
-        "id": "aefc29f5f987",
-        "titre": "Malgré un taux de chômage au plus haut, \"44% des entreprises ont des difficultés de recrutement\", constate le directeur général de France Travail",
-        "source": "BFM Business",
         "contexte": "Top 5 du jour"
       }
     ],
