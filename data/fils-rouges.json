@@ -1,6 +1,6 @@
 {
   "version_schema": 1,
-  "mis_a_jour_le": "2026-11-07T05:55:17+01:00",
+  "mis_a_jour_le": "2026-11-07T10:03:26+01:00",
   "fils": [
     {
       "id": "budget-2027",
@@ -1725,8 +1725,8 @@
         "desequilibres",
         "entreprises"
       ],
-      "ou_en_est_on": "Le gouvernement tente de répondre au mécontentement social et à la baisse du pouvoir d'achat en envisageant une hausse anticipée du SMIC et en convoquant une conférence sociale avec les partenaires sociaux. Cette situation intervient alors que l'appareil productif ralentit et que les commerçants subissent une forte baisse de fréquentation liée aux récentes manifestations.",
-      "ou_en_est_on_maj_le": "2026-11-06",
+      "ou_en_est_on": "Le climat social demeure sous forte tension avec la poursuite des journées de mobilisation contre la vie chère portées par les syndicats et les gilets jaunes. Les répercussions économiques s'accentuent pour le commerce de centre-ville, notamment dans l'habillement où les enseignes accusent un repli d'activité. Dans le même temps, les questions salariales se complexifient : le baromètre de l'Apec pointe un ralentissement des hausses de rémunération des cadres, alors que les revalorisations passées du SMIC ont surtout compensé l'inflation sans gain net de pouvoir d'achat. Le gouvernement prépare dans ce contexte une conférence sociale très attendue à Matignon.",
+      "ou_en_est_on_maj_le": "2026-11-07",
       "evenements": [
         {
           "date": "2026-10-17",
@@ -2285,7 +2285,7 @@
         },
         {
           "date": "2026-11-07",
-          "resume": "Le gouvernement prépare un décret pour inciter les branches professionnelles à augmenter les salaires minimums situés en deçà du smic, tandis que patrons et salariés affichent des positions divisées à la veille d'une conférence sociale.",
+          "resume": "Une quatrième journée de manifestations contre la vie chère mobilise syndicats et gilets jaunes à l'approche de la conférence sociale, tandis que les commerces d'habillement des centres-villes enregistrent une baisse de 8 % de leur chiffre d'affaires depuis la mi-octobre.",
           "liens": [
             {
               "titre": "Colère sociale : le gouvernement prépare un décret pour pousser les branches à augmenter les salaires minimums",
@@ -2296,6 +2296,16 @@
               "titre": "\"J'ai besoin de plus d'argent\" : dans les entreprises, patrons et salariés divisés sur une éventuelle hausse du Smic",
               "source": "franceinfo",
               "url": "https://www.franceinfo.fr/economie/entreprises/j-ai-besoin-de-plus-d-argent-dans-les-entreprises-patrons-et-salaries-divises-sur-une-eventuelle-hausse-du-smic_8271527.html#xtor=RSS-3-%5Bgeneral%5D"
+            },
+            {
+              "titre": "Colère sociale : une nouvelle journée de mobilisation s'ouvre dans un contexte budgétaire tendu",
+              "source": "L'Opinion",
+              "url": "https://www.lopinion.fr/politique/colere-sociale-une-nouvelle-journee-de-mobilisation-souvre-dans-un-contexte-budgetaire-tendu"
+            },
+            {
+              "titre": "Les commerces du secteur de l'habillement plombés par les manifestations",
+              "source": "BFM Business",
+              "url": "https://www.bfmtv.com/economie/video-les-commerces-du-secteur-de-l-habillement-plombes-par-les-manifestations_VN-202611070087.html"
             }
           ]
         }

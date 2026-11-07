@@ -1,6 +1,6 @@
 {
   "version_schema": 1,
-  "mis_a_jour_le": "2026-11-07T05:53:04+01:00",
+  "mis_a_jour_le": "2026-11-07T10:03:18+01:00",
   "entrees": [
     {
       "d": "2026-11-07",
@@ -85,6 +85,15 @@
     },
     {
       "d": "2026-11-07",
+      "i": "3934010cb572",
+      "t": "Après dix ans de macronisme, le constat d’échec de la politique de l’offre",
+      "r": "L'économiste Clément Carbonnier analyse le bilan de la politique de l'offre menée depuis dix ans, qu'il qualifie de décevant faute d'investissements suffisants dans la formation.",
+      "c": "croissance",
+      "s": "Alternatives Économiques",
+      "f": null
+    },
+    {
+      "d": "2026-11-07",
       "i": "c865bad634c4",
       "t": "La fréquentation de Shein et Temu en chute libre au troisième trimestre, plombée par la taxe sur les petits colis",
       "r": "L'audience mensuelle de Shein et de Temu a fortement chuté au troisième trimestre, coïncidant avec l'entrée en vigueur de la taxe européenne sur les petits colis.",
@@ -109,6 +118,24 @@
       "c": "mondialisation",
       "s": "Le Monde",
       "f": "ukraine-sanctions"
+    },
+    {
+      "d": "2026-11-07",
+      "i": "300fa884feef",
+      "t": "Commerce international : responsables américains et chinois expriment leurs « préoccupations » avant un sommet Asie-Pacifique",
+      "r": "Les États-Unis et la Chine engagent le dialogue pour tenter de rétablir des relations commerciales stables avant le sommet de l'APEC.",
+      "c": "mondialisation",
+      "s": "La Tribune",
+      "f": null
+    },
+    {
+      "d": "2026-11-07",
+      "i": "0ecf1c83c4ba",
+      "t": "Après huit mois de guerre au Moyen-Orient, la mue forcée des pays du Golfe producteurs de pétrole et de gaz",
+      "r": "Le Qatar, l'Arabie saoudite et les Émirats arabes unis repensent leurs stratégies commerciales et logistiques pour conserver leur rôle sur les marchés énergétiques.",
+      "c": "mondialisation",
+      "s": "Le Monde",
+      "f": null
     },
     {
       "d": "2026-11-07",
@@ -144,6 +171,15 @@
       "r": "Les investisseurs avaient vendu des actions technologiques en raison de craintes liées à un ralentissement du développement de l'IA après la victoire électorale démocrate.",
       "c": "finance",
       "s": "BBC",
+      "f": null
+    },
+    {
+      "d": "2026-11-07",
+      "i": "3a555e71c233",
+      "t": "CAC 40, LVMH, Hermès, Carrefour, Safran, Engie… les actions en Bourse au programme de Momentum",
+      "r": "La sélection d'actions en Bourse de Momentum a surperformé le CAC 40, porté par la conjoncture politique américaine.",
+      "c": "finance",
+      "s": "Capital",
       "f": null
     },
     {
@@ -184,6 +220,15 @@
     },
     {
       "d": "2026-11-07",
+      "i": "68b37e630b76",
+      "t": "Colère sociale : une nouvelle journée de mobilisation s'ouvre dans un contexte budgétaire tendu",
+      "r": "Syndicats et gilets jaunes appellent à manifester contre la vie chère dans un contexte budgétaire tendu et à l'approche d'une conférence sociale.",
+      "c": "desequilibres",
+      "s": "L'Opinion",
+      "f": "conjoncture-france"
+    },
+    {
+      "d": "2026-11-07",
       "i": "35d583ecb9bd",
       "t": "L'UE accuse TikTok de ne pas protéger la santé mentale des utilisateurs",
       "r": "La Commission européenne a inculpé TikTok pour manquement à la protection de la santé mentale des jeunes utilisateurs face à son algorithme.",
@@ -216,6 +261,15 @@
       "r": "L'Union européenne durcit ses règles sanitaires après l'affaire des laits infantiles contaminés par la toxine céréulide.",
       "c": "ue",
       "s": "Le Figaro",
+      "f": null
+    },
+    {
+      "d": "2026-11-07",
+      "i": "6a550efc741d",
+      "t": "\"Youth Check\" : comment l'UE prend-elle en compte les besoins des jeunes dans ses politiques ?",
+      "r": "L'Union européenne déploie une stratégie pour encourager l'engagement des jeunes et mieux évaluer leurs besoins dans ses politiques.",
+      "c": "ue",
+      "s": "Toute l'Europe",
       "f": null
     },
     {
@@ -256,6 +310,15 @@
     },
     {
       "d": "2026-11-07",
+      "i": "315907ee177d",
+      "t": "\"Chez nous, c'est 4.000 euros net par mois\": ces entreprises fabriquent les portes géantes et les réacteurs nucléaires du futur porte-avions France Libre",
+      "r": "Environ 800 entreprises sont mobilisées pour la construction du porte-avions France Libre, offrant visibilité et perspectives économiques à la filière.",
+      "c": "entreprises",
+      "s": "BFM Business",
+      "f": null
+    },
+    {
+      "d": "2026-11-07",
       "i": "ed2bd8153e1a",
       "t": "ETF de la semaine : robotique chinoise, obligations et infrastructures",
       "r": "Plusieurs sociétés lancent de nouveaux ETF axés sur la robotique chinoise, les infrastructures et les obligations d'entreprises en euros.",
@@ -288,6 +351,15 @@
       "r": "",
       "c": "epargne",
       "s": "Les Echos",
+      "f": null
+    },
+    {
+      "d": "2026-11-07",
+      "i": "44fb5b0a3ae6",
+      "t": "Plafond du Livret A relevé : cadeau ou piège ? La chronique de Jean-Jacques Manceau",
+      "r": "Le relèvement du plafond du Livret A soulève la question des bénéficiaires réels de cette mesure d'épargne.",
+      "c": "epargne",
+      "s": "Capital",
       "f": null
     },
     {
