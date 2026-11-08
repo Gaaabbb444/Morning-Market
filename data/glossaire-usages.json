@@ -10,6 +10,80 @@
         "contexte": "Top 5 du jour"
       }
     ],
+    "soutenabilite-de-la-dette-publique": [
+      {
+        "date": "2026-11-08",
+        "id": "074e2f263f31",
+        "titre": "François Villeroy de Galhau : « Laisser filer la dette, c’est faire des choix contre la jeunesse, des choix gérontocratiques »",
+        "source": "Le Monde",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-10-24",
+        "id": "f05fd09f8d8d",
+        "titre": "Les taux 10 ans français au-dessus du 10 ans américain",
+        "source": "BFM Business",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-10-21",
+        "id": "6d9f67eeb539",
+        "titre": "Budget de la Sécu 2027 : la Cour des comptes juge «fragile» l’objectif de 12,7 milliards d'euros de déficit",
+        "source": "Capital",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-10-19",
+        "id": "b09456b32b0d",
+        "titre": "Anne de Guigné : « L’épargne des Français bientôt à la rescousse du désendettement ? »",
+        "source": "Le Figaro",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-10-19",
+        "id": "6825d2c17a9c",
+        "titre": "Retraite, santé : la protection sociale, principal poste de dépenses de l’État",
+        "source": "Le Figaro",
+        "contexte": "Concept du jour"
+      }
+    ],
+    "competitivite-prix-et-hors-prix": [
+      {
+        "date": "2026-11-08",
+        "id": "468d0b159145",
+        "titre": "Jean Pisani-Ferry : « La Chine manque d’une stratégie macroéconomique de nature à corriger ses déséquilibres persistants »",
+        "source": "Le Monde",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-11-07",
+        "id": "ff4fb338c009",
+        "titre": "OPINION. « Automobile : faire du \"Made in Europe\" un levier de puissance industrielle »",
+        "source": "La Tribune",
+        "contexte": "Concept du jour"
+      },
+      {
+        "date": "2026-11-03",
+        "id": "36f95db9f57b",
+        "titre": "Négociations commerciales : la grande distribution boycotte la réunion de Bercy",
+        "source": "Capital",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-10-25",
+        "id": "d58b6e3c608d",
+        "titre": "Le Japon dépend à 95% des États-Unis pour ses importations militaires mais commence à se tourner vers l'Europe (le français Thales est le premier à poser le pied sur l'archipel)",
+        "source": "BFM Business",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-10-21",
+        "id": "156d6c0b32a1",
+        "titre": "Le 737 MAX 10 certifié, Boeing tourne enfin la page de la crise du MAX",
+        "source": "La Tribune",
+        "contexte": "Top 5 du jour"
+      }
+    ],
     "pouvoir-d-achat": [
       {
         "date": "2026-11-08",
@@ -54,58 +128,12 @@
         "contexte": "Top 5 du jour"
       }
     ],
-    "competitivite-prix-et-hors-prix": [
-      {
-        "date": "2026-11-08",
-        "id": "468d0b159145",
-        "titre": "Jean Pisani-Ferry : « La Chine manque d’une stratégie macroéconomique de nature à corriger ses déséquilibres persistants »",
-        "source": "Le Monde",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-11-07",
-        "id": "ff4fb338c009",
-        "titre": "OPINION. « Automobile : faire du \"Made in Europe\" un levier de puissance industrielle »",
-        "source": "La Tribune",
-        "contexte": "Concept du jour"
-      },
-      {
-        "date": "2026-11-03",
-        "id": "36f95db9f57b",
-        "titre": "Négociations commerciales : la grande distribution boycotte la réunion de Bercy",
-        "source": "Capital",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-10-25",
-        "id": "d58b6e3c608d",
-        "titre": "Le Japon dépend à 95% des États-Unis pour ses importations militaires mais commence à se tourner vers l'Europe (le français Thales est le premier à poser le pied sur l'archipel)",
-        "source": "BFM Business",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-10-21",
-        "id": "156d6c0b32a1",
-        "titre": "Le 737 MAX 10 certifié, Boeing tourne enfin la page de la crise du MAX",
-        "source": "La Tribune",
-        "contexte": "Top 5 du jour"
-      }
-    ],
     "desindustrialisation-et-reindustrialisation": [
       {
         "date": "2026-11-08",
         "id": "11bf96d5847c",
         "titre": "Les équipementiers automobiles s’alarment des conséquences sociales de l’accord franco-allemand",
         "source": "Le Monde",
-        "contexte": "Top 5 du jour"
-      }
-    ],
-    "budget-de-l-union-europeenne": [
-      {
-        "date": "2026-11-08",
-        "id": "f5c955a59ffa",
-        "titre": "Sécurité européenne : les dirigeants européens rejettent le projet d’accord de Trump avec Moscou",
-        "source": "L'Opinion",
         "contexte": "Top 5 du jour"
       }
     ],
@@ -795,36 +823,6 @@
         "titre": "Après l'accord franco-allemand sur la voiture, le « made in Europe » avance à pas comptés",
         "source": "L'Opinion",
         "contexte": "Top 5 du jour"
-      }
-    ],
-    "soutenabilite-de-la-dette-publique": [
-      {
-        "date": "2026-10-24",
-        "id": "f05fd09f8d8d",
-        "titre": "Les taux 10 ans français au-dessus du 10 ans américain",
-        "source": "BFM Business",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-10-21",
-        "id": "6d9f67eeb539",
-        "titre": "Budget de la Sécu 2027 : la Cour des comptes juge «fragile» l’objectif de 12,7 milliards d'euros de déficit",
-        "source": "Capital",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-10-19",
-        "id": "b09456b32b0d",
-        "titre": "Anne de Guigné : « L’épargne des Français bientôt à la rescousse du désendettement ? »",
-        "source": "Le Figaro",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-10-19",
-        "id": "6825d2c17a9c",
-        "titre": "Retraite, santé : la protection sociale, principal poste de dépenses de l’État",
-        "source": "Le Figaro",
-        "contexte": "Concept du jour"
       }
     ],
     "paradoxe-de-solow-paradoxe-de-la-productivite": [

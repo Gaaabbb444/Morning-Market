@@ -1,6 +1,6 @@
 {
   "version_schema": 1,
-  "mis_a_jour_le": "2026-11-08T05:52:43+01:00",
+  "mis_a_jour_le": "2026-11-08T10:08:18+01:00",
   "fils": [
     {
       "id": "budget-2027",
@@ -776,6 +776,17 @@
               "titre": "Dette française : chaque jour de répit est bon à prendre",
               "source": "L'Opinion",
               "url": "https://www.lopinion.fr/economie/dette-francaise-chaque-jour-de-repit-est-bon-a-prendre"
+            }
+          ]
+        },
+        {
+          "date": "2026-11-08",
+          "resume": "L'ancien gouverneur de la Banque de France plaide pour un redressement fondé sur l'efficacité des dépenses publiques afin de lutter contre l'accumulation de la dette.",
+          "liens": [
+            {
+              "titre": "François Villeroy de Galhau : « Laisser filer la dette, c’est faire des choix contre la jeunesse, des choix gérontocratiques »",
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/idees/article/2026/11/08/francois-villeroy-de-galhau-laisser-filer-la-dette-c-est-faire-des-choix-contre-la-jeunesse-des-choix-gerontocratiques_6808404_3232.html"
             }
           ]
         }
@@ -2920,6 +2931,17 @@
               "titre": "La retraite à 60 ou 62 ans, mais à quel prix? Bardella dévoile dans son livre comment le RN compte faire travailler davantage les Français",
               "source": "BFM Business",
               "url": "https://www.bfmtv.com/economie/patrimoine/retraite/la-retraite-a-60-ou-62-ans-mais-a-quel-prix-bardella-devoile-dans-son-livre-comment-le-rn-compte-faire-travailler-davantage-les-francais_AN-202611040327.html"
+            }
+          ]
+        },
+        {
+          "date": "2026-11-08",
+          "resume": "Les règles de cumul entre pension de retraite et salaire seront durcies à partir du 1er janvier pour les nouveaux retraités.",
+          "liens": [
+            {
+              "titre": "Cumuler une pension de retraite et un salaire : les règles seront moins favorables à partir du 1er janvier",
+              "source": "franceinfo",
+              "url": "https://www.franceinfo.fr/replay-radio/c-est-mon-boulot/cumuler-une-pension-de-retraite-et-un-salaire-les-regles-seront-moins-favorables-a-partir-du-1er-janvier_8232067.html#xtor=RSS-3-%5Bgeneral%5D"
             }
           ]
         }

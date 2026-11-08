@@ -1,6 +1,6 @@
 {
   "version_schema": 1,
-  "mis_a_jour_le": "2026-11-08T05:51:38+01:00",
+  "mis_a_jour_le": "2026-11-08T10:06:03+01:00",
   "entrees": [
     {
       "d": "2026-11-08",
@@ -9,6 +9,24 @@
       "r": "Wall Street a enregistré une perte de 3 200 milliards de dollars de valorisation jeudi, principalement concentrée sur les géants de l'intelligence artificielle.",
       "c": "finance",
       "s": "BFM Business",
+      "f": null
+    },
+    {
+      "d": "2026-11-08",
+      "i": "074e2f263f31",
+      "t": "François Villeroy de Galhau : « Laisser filer la dette, c’est faire des choix contre la jeunesse, des choix gérontocratiques »",
+      "r": "L'ancien gouverneur de la Banque de France François Villeroy de Galhau plaide pour un redressement budgétaire fondé sur l'efficacité des dépenses publiques, qualifiant la dérive de la dette de choix défavorable à la jeunesse.",
+      "c": "desequilibres",
+      "s": "Le Monde",
+      "f": "dette-marches"
+    },
+    {
+      "d": "2026-11-08",
+      "i": "468d0b159145",
+      "t": "Jean Pisani-Ferry : « La Chine manque d’une stratégie macroéconomique de nature à corriger ses déséquilibres persistants »",
+      "r": "Selon Jean Pisani-Ferry, la Chine souffre d'un modèle macroéconomique déséquilibré marqué par une industrie surdimensionnée, un secteur des services affaibli et une crise immobilière.",
+      "c": "mondialisation",
+      "s": "Le Monde",
       "f": null
     },
     {
@@ -22,30 +40,12 @@
     },
     {
       "d": "2026-11-08",
-      "i": "468d0b159145",
-      "t": "Jean Pisani-Ferry : « La Chine manque d’une stratégie macroéconomique de nature à corriger ses déséquilibres persistants »",
-      "r": "Selon Jean Pisani-Ferry, la Chine souffre d'un modèle macroéconomique déséquilibré marqué par une industrie surdimensionnée, un secteur des services affaibli et une crise immobilière.",
-      "c": "mondialisation",
-      "s": "Le Monde",
-      "f": null
-    },
-    {
-      "d": "2026-11-08",
       "i": "11bf96d5847c",
       "t": "Les équipementiers automobiles s’alarment des conséquences sociales de l’accord franco-allemand",
       "r": "Les sous-traitants automobiles contestent le compromis franco-allemand, affirmant qu'il favorise les constructeurs et risque d'accélérer les suppressions de postes et les fermetures de sites.",
       "c": "entreprises",
       "s": "Le Monde",
       "f": "automobile-europe-chine"
-    },
-    {
-      "d": "2026-11-08",
-      "i": "f5c955a59ffa",
-      "t": "Sécurité européenne : les dirigeants européens rejettent le projet d’accord de Trump avec Moscou",
-      "r": "Les dirigeants européens ont refusé par avance un projet d'accord sur la sécurité en Europe envisagé entre Donald Trump et Moscou sans leur participation.",
-      "c": "ue",
-      "s": "L'Opinion",
-      "f": "ukraine-sanctions"
     },
     {
       "d": "2026-11-08",
@@ -85,6 +85,15 @@
     },
     {
       "d": "2026-11-08",
+      "i": "d2a5d75a01d7",
+      "t": "Tsunami démocrate, revers de Trump: \"Les frontières entre profit privé et service public ont totalement disparu\", analyse le prix Nobel d'économie Joseph Stiglitz",
+      "r": "Le prix Nobel d'économie Joseph Stiglitz analyse les enseignements de la vague démocrate aux midterms et le revers de Donald Trump face aux inégalités.",
+      "c": "croissance",
+      "s": "BFM Business",
+      "f": null
+    },
+    {
+      "d": "2026-11-08",
       "i": "6da1f10b9d2e",
       "t": "Le détroit d'Ormuz pourrait rouvrir dans le cadre d'un plan qatari prévoyant des inspections nucléaires en Iran",
       "r": "Le Qatar mène une médiation pour persuader Téhéran d'autoriser des inspections de l'ONU sur ses sites nucléaires, ce qui pourrait permettre la réouverture du détroit d'Ormuz.",
@@ -117,6 +126,15 @@
       "r": "Des actes d'agression hybride visant à propager la panique se multiplient à travers l'Europe, nécessitant une réponse résiliente face au sabotage.",
       "c": "mondialisation",
       "s": "The Guardian",
+      "f": null
+    },
+    {
+      "d": "2026-11-08",
+      "i": "d598c5d4e5a0",
+      "t": "\"En France, on est écrasé par des gros groupes\": comment une entreprise bretonne s'est retrouvée à sécuriser le détroit de Singapour avec ses drones sous-marins",
+      "r": "Une entreprise bretonne fournit des drones sous-marins à l'armée singapourienne pour sécuriser le détroit de Singapour, voie stratégique du commerce mondial.",
+      "c": "mondialisation",
+      "s": "BFM Business",
       "f": null
     },
     {
@@ -193,11 +211,29 @@
     },
     {
       "d": "2026-11-08",
+      "i": "aa9642b11e02",
+      "t": "Cumuler une pension de retraite et un salaire : les règles seront moins favorables à partir du 1er janvier",
+      "r": "Les règles de cumul entre pension de retraite et salaire seront durcies à partir du 1er janvier pour les nouveaux retraités.",
+      "c": "desequilibres",
+      "s": "franceinfo",
+      "f": "retraites"
+    },
+    {
+      "d": "2026-11-08",
       "i": "0545b1b04e57",
       "t": "Cinq dirigeants européens appellent à des liens plus étroits entre l'UE et le Royaume-Uni avant le sommet de Bruxelles",
       "r": "Les dirigeants de l'Allemagne, de la Belgique, des Pays-Bas, du Luxembourg et du Danemark plaident pour une coopération renforcée sur l'énergie propre avec le Royaume-Uni.",
       "c": "ue",
       "s": "The Guardian",
+      "f": null
+    },
+    {
+      "d": "2026-11-08",
+      "i": "e8d7e25155ab",
+      "t": "CARTE Erasmus+ : comment les pays du monde participent-ils au programme ?",
+      "r": "Le programme européen Erasmus+ permet chaque année à des milliers de participants d'étudier ou d'effectuer un stage.",
+      "c": "ue",
+      "s": "Toute l'Europe",
       "f": null
     },
     {
@@ -238,6 +274,15 @@
     },
     {
       "d": "2026-11-08",
+      "i": "fb29d7640169",
+      "t": "Anthropic dépense 100.000 dollars par mois… pour chaque employé !",
+      "r": "L'entreprise Anthropic réalise des dépenses de personnel massives pour attirer les talents dans le secteur de l'intelligence artificielle.",
+      "c": "entreprises",
+      "s": "BFM Business",
+      "f": "intelligence-artificielle"
+    },
+    {
+      "d": "2026-11-08",
       "i": "4f49d3655a3c",
       "t": "Les mots éco - Présidentielle 2027 : quelle est la différence entre retraite par répartition et capitalisation",
       "r": "",
@@ -253,6 +298,24 @@
       "c": "epargne",
       "s": "franceinfo",
       "f": "fiscalite-epargne-patrimoine"
+    },
+    {
+      "d": "2026-11-08",
+      "i": "9a54e1a9ee34",
+      "t": "Rendement locatif : ces 5 villes où investir rapporte jusqu’à 12,7% brut",
+      "r": "Certaines villes françaises affichent des rendements locatifs bruts supérieurs à 8%, atteignant jusqu'à 12,7% selon un baromètre immobilier.",
+      "c": "epargne",
+      "s": "Capital",
+      "f": null
+    },
+    {
+      "d": "2026-11-08",
+      "i": "33b6bc9ebe6c",
+      "t": "« Mieux vaut vendre moins cher que d'attendre deux ans et de stresser » : les conseils d'un expert pour gérer un prêt relais quand les taux des crédits immobiliers s'envolent",
+      "r": "",
+      "c": "epargne",
+      "s": "Les Echos",
+      "f": null
     },
     {
       "d": "2026-11-07",
