@@ -1,6 +1,6 @@
 {
   "version_schema": 1,
-  "mis_a_jour_le": "2026-11-07T10:03:26+01:00",
+  "mis_a_jour_le": "2026-11-08T05:52:43+01:00",
   "fils": [
     {
       "id": "budget-2027",
@@ -791,8 +791,8 @@
         "mondialisation",
         "desequilibres"
       ],
-      "ou_en_est_on": "Le déstockage de 10 millions de barils de gazole issus des réserves stratégiques permet une baisse temporaire des prix à la pompe, répercutée par TotalEnergies et la grande distribution. Parallèlement, le cours du Brent recule à son plus bas niveau depuis plus de deux semaines, porté par des espoirs d'apaisement au Moyen-Orient.",
-      "ou_en_est_on_maj_le": "2026-11-03",
+      "ou_en_est_on": "Sur le front géopolitique, le Qatar mène une médiation afin d'inciter Téhéran à autoriser des inspections de l'ONU sur ses sites nucléaires ciblés, ouvrant la perspective d'une réouverture du détroit d'Ormuz. Parallèlement, les tensions régionales et la flambée des cours ont fait grimper les bénéfices du géant saoudien Aramco. En France, les effets du déstockage des réserves stratégiques de gazole continuent de faire baisser temporairement les prix dans les stations-service.",
+      "ou_en_est_on_maj_le": "2026-11-08",
       "evenements": [
         {
           "date": "2026-10-17",
@@ -1081,6 +1081,17 @@
               "url": "https://www.latribune.fr/article/entreprises-finance/energie-environnement/5364325697195/les-energies-renouvelables-dopees-par-la-crise-d-ormuz"
             }
           ]
+        },
+        {
+          "date": "2026-11-08",
+          "resume": "Une médiation menée par le Qatar auprès de Téhéran pour autoriser des inspections de l'ONU sur des sites nucléaires iraniens pourrait ouvrir la voie à une réouverture du détroit d'Ormuz.",
+          "liens": [
+            {
+              "titre": "Strait of Hormuz could reopen as part of Qatari plan for Iran nuclear inspections",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/world/2026/nov/07/strait-of-hormuz-qatar-plan-iran-nuclear-inspections"
+            }
+          ]
         }
       ]
     },
@@ -1220,8 +1231,8 @@
         "mondialisation",
         "ue"
       ],
-      "ou_en_est_on": "La politique des sanctions économiques connaît un net infléchissement avec la décision des États-Unis d'autoriser à nouveau les exportations de diesel en provenance de Russie et de lever certaines menaces douanières sur les pays acheteurs. Ce revirement commercial américain apporte une marge de manœuvre financière à Moscou, tout en suscitant des interrogations sur ses répercussions réelles pour les consommateurs occidentaux.",
-      "ou_en_est_on_maj_le": "2026-10-29",
+      "ou_en_est_on": "Alors que les États-Unis ont récemment assoupli certaines restrictions sur les hydrocarbures russes, Donald Trump promet désormais un vaste accord avec Moscou qui pourrait concerner toute l'Europe. Les dirigeants européens s'opposent fermement à ce projet et insistent sur le fait que la sécurité du continent ne se négociera pas sans eux à l'approche de pourparlers à Abou Dhabi. Cette situation accentue les divergences stratégiques entre Washington et les capitales européennes sur le règlement du conflit.",
+      "ou_en_est_on_maj_le": "2026-11-08",
       "evenements": [
         {
           "date": "2026-10-17",
@@ -1333,6 +1344,17 @@
               "titre": "« Koalicja » : la « Coalition des volontaires » teste sa future force militaire",
               "source": "L'Opinion",
               "url": "https://www.lopinion.fr/international/koalicja-la-coalition-des-volontaires-teste-sa-future-force-militaire"
+            }
+          ]
+        },
+        {
+          "date": "2026-11-08",
+          "resume": "Les dirigeants européens refusent le projet d'accord de Donald Trump avec Moscou et rappellent que la sécurité de l'Europe ne se négociera pas sans eux avant les pourparlers prévus à Abou Dhabi.",
+          "liens": [
+            {
+              "titre": "Sécurité européenne : les dirigeants européens rejettent le projet d’accord de Trump avec Moscou",
+              "source": "L'Opinion",
+              "url": "https://www.lopinion.fr/international/securite-europeenne-les-dirigeants-europeens-rejettent-le-projet-daccord-de-trump-avec-moscou"
             }
           ]
         }
@@ -1497,8 +1519,8 @@
         "mondialisation",
         "croissance"
       ],
-      "ou_en_est_on": "Les constructeurs européens adaptent leurs modèles opérationnels aux bouleversements de la transition énergétique et du marché chinois. Confronté à un effondrement de ses ventes locales en Chine, Volkswagen réoriente ses capacités de production sur place vers l'exportation mondiale. De son côté, Renault stabilise son chiffre d'affaires au troisième trimestre 2026 grâce à la dynamique de ses ventes de modèles électriques en Europe, compensant le recul global de ses volumes de livraison.",
-      "ou_en_est_on_maj_le": "2026-10-30",
+      "ou_en_est_on": "L'accord conclu entre Paris et Berlin pour protéger l'industrie automobile suscite une vive contestation des équipementiers, qui jugent ce texte trop favorable aux constructeurs. La filière s'alarme d'un risque d'accélération des suppressions d'emplois et des fermetures d'usines en Europe. Les acteurs comptent désormais peser sur le vote prévu au Parlement européen à la mi-décembre, dans un contexte déjà marqué par la restructuration des constructeurs face au marché chinois.",
+      "ou_en_est_on_maj_le": "2026-11-08",
       "evenements": [
         {
           "date": "2026-10-17",
@@ -1551,6 +1573,17 @@
               "titre": "Automobile : grâce à ses ventes records sur l'électrique, Renault stabilise son chiffre d'affaires",
               "source": "La Tribune",
               "url": "https://www.latribune.fr/article/transports/automobile/1136780693982214/automobile-grace-a-ses-ventes-records-sur-lelectrique-renault-stabilise-son-chiffre-daffaires"
+            }
+          ]
+        },
+        {
+          "date": "2026-11-08",
+          "resume": "Les équipementiers automobiles dénoncent le compromis franco-allemand, alertant sur des risques d'accélération des fermetures d'usines et des suppressions d'emplois avant le débat européen prévu à la mi-décembre.",
+          "liens": [
+            {
+              "titre": "Les équipementiers automobiles s’alarment des conséquences sociales de l’accord franco-allemand",
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/economie/article/2026/11/07/les-equipementiers-automobiles-s-alarment-des-consequences-sociales-de-l-accord-franco-allemand_6808276_3234.html"
             }
           ]
         }
@@ -1725,8 +1758,8 @@
         "desequilibres",
         "entreprises"
       ],
-      "ou_en_est_on": "Le climat social demeure sous forte tension avec la poursuite des journées de mobilisation contre la vie chère portées par les syndicats et les gilets jaunes. Les répercussions économiques s'accentuent pour le commerce de centre-ville, notamment dans l'habillement où les enseignes accusent un repli d'activité. Dans le même temps, les questions salariales se complexifient : le baromètre de l'Apec pointe un ralentissement des hausses de rémunération des cadres, alors que les revalorisations passées du SMIC ont surtout compensé l'inflation sans gain net de pouvoir d'achat. Le gouvernement prépare dans ce contexte une conférence sociale très attendue à Matignon.",
-      "ou_en_est_on_maj_le": "2026-11-07",
+      "ou_en_est_on": "La pression sociale s'intensifie avant la conférence sociale de Matignon, où la revalorisation du salaire minimum cristallise les débats entre syndicats et patronat, le gouvernement soulignant la nécessité de préserver l'emploi. Une quatrième journée de manifestations s'est déroulée contre la vie chère, tandis que la grande distribution alerte sur le recul de la consommation des ménages. Sur le marché du travail, l'Insee indique que le taux de chômage des moins de 25 ans a franchi le seuil des 21 % au deuxième trimestre.",
+      "ou_en_est_on_maj_le": "2026-11-08",
       "evenements": [
         {
           "date": "2026-10-17",
@@ -2308,6 +2341,37 @@
               "url": "https://www.bfmtv.com/economie/video-les-commerces-du-secteur-de-l-habillement-plombes-par-les-manifestations_VN-202611070087.html"
             }
           ]
+        },
+        {
+          "date": "2026-11-08",
+          "resume": "À la veille d'une conférence sociale à Matignon centrée sur les salaires et le SMIC, de nouvelles manifestations contre la vie chère ont lieu alors que le chômage des jeunes dépasse 21 %.",
+          "liens": [
+            {
+              "titre": "« J’ai un entretien ce vendredi ! C’est mon dernier espoir… » : quand la réalité de la crise envahit les réseaux sociaux",
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/m-perso/article/2026/11/08/j-ai-un-entretien-ce-vendredi-c-est-mon-dernier-espoir-quand-la-realite-de-la-crise-envahit-les-reseaux-sociaux_6808389_4497916.html"
+            },
+            {
+              "titre": "Colère sociale : des milliers de personnes de nouveau attendues dans les rues",
+              "source": "La Tribune",
+              "url": "https://www.latribune.fr/article/economie/agroconso/74811423045544/colere-sociale-des-milliers-de-personnes-de-nouveau-attendues-dans-les-rues"
+            },
+            {
+              "titre": "\"Des hausses de prix destinées à alimenter les dividendes des multinationales ne feraient que polariser davantage notre société\": le président du Groupement Mousquetaires alerte sur la baisse de la consommation et les difficultés des ménages",
+              "source": "BFM Business",
+              "url": "https://www.bfmtv.com/economie/economie-social/des-hausses-de-prix-destinees-a-alimenter-les-dividendes-des-multinationales-ne-feraient-que-polariser-davantage-notre-societe-le-president-du-groupement-mousquetaires-alerte-sur-la-baisse-de-la-consommation-et-les-difficultes-des-menages_AV-202611070243.html"
+            },
+            {
+              "titre": "REPORTAGE. \"Il faut faire des choix financiers\" : au salon Paris pour l'emploi, la hausse du coût de la vie et le niveau du salaire au centre des préoccupations",
+              "source": "franceinfo",
+              "url": "https://www.franceinfo.fr/economie/emploi/reportage-il-faut-faire-des-choix-financiers-au-salon-paris-pour-l-emploi-des-demandeurs-d-emploi-face-a-la-hausse-du-cout-de-la-vie_8272046.html#xtor=RSS-3-%5Bgeneral%5D"
+            },
+            {
+              "titre": "Jean-Pierre Farandou, ministre du Travail et des Solidarités : « On peut augmenter le smic à condition de ne pas nuire à l’emploi »",
+              "source": "La Tribune",
+              "url": "https://www.latribune.fr/article/la-tribune-dimanche/dimanche-eco/56135547000190/jean-pierre-farandou-ministre-du-travail-et-des-solidarites-on-peut-augmenter-le-smic-a-condition-de-ne-pas-nuire-a-l-emploi"
+            }
+          ]
         }
       ]
     },
@@ -2322,8 +2386,8 @@
         "entreprises",
         "ue"
       ],
-      "ou_en_est_on": "Le secteur technologique subit une correction boursière marquée par la chute du Nasdaq, les investisseurs craignant un durcissement de la régulation américaine sur l'intelligence artificielle et la construction de centres de données à la suite des élections de mi-mandat. Cette tension sur les valeurs technologiques amène certains analystes à s'interroger sur l'existence d'une bulle spéculative, tandis que l'IA continue de transformer en profondeur l'économie réelle et les méthodes des entreprises.",
-      "ou_en_est_on_maj_le": "2026-11-06",
+      "ou_en_est_on": "Le brusque décrochage du Nasdaq après la victoire démocrate aux élections de mi-mandat alimente les craintes d'un krach et d'un resserrement réglementaire sur les investissements dans l'IA. Cette correction affecte directement les projets industriels : la valorisation espérée pour l'introduction en Bourse d'Anthropic a fondu entre 1 100 et 1 300 milliards de dollars, contre 2 000 milliards auparavant. Le secteur fait également face à des contraintes physiques grandissantes d'accès à l'eau et à l'électricité pour ses centres de données.",
+      "ou_en_est_on_maj_le": "2026-11-08",
       "evenements": [
         {
           "date": "2026-10-17",
@@ -2766,6 +2830,32 @@
               "titre": "Global stocks fall amid ‘big worries over AI’ after Democrats’ midterms triumph",
               "source": "The Guardian",
               "url": "https://www.theguardian.com/business/2026/nov/06/global-stocks-plunge-amid-ai-slowdown-fears-after-democrats-midterm-triumph"
+            }
+          ]
+        },
+        {
+          "date": "2026-11-08",
+          "resume": "La chute du Nasdaq après les élections américaines de mi-mandat pénalise le secteur, réduisant la valorisation espérée pour l'entrée en Bourse d'Anthropic entre 1 100 et 1 300 milliards de dollars.",
+          "liens": [
+            {
+              "titre": "Introduction en Bourse d’Anthropic : le krach des valeurs de l’IA fait fondre la valorisation espérée",
+              "source": "L'Opinion",
+              "url": "https://www.lopinion.fr/economie/introduction-en-bourse-danthropic-le-krach-des-valeurs-de-lia-fait-fondre-la-valorisation-esperee"
+            },
+            {
+              "titre": "La bulle de l’IA se heurte à la réalité",
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/idees/article/2026/11/07/la-bulle-de-l-ia-se-heurte-a-la-realite_6808268_3232.html"
+            },
+            {
+              "titre": "The Guardian view on the AI backlash: American voters want a say in their future | Editorial",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/commentisfree/2026/nov/06/the-guardian-view-on-the-ai-backlash-american-voters-want-a-say-in-their-future"
+            },
+            {
+              "titre": "Bulle de l'IA : \"on est au début d'un krach\" 📉🫧",
+              "source": "BFM Business",
+              "url": "https://www.bfmtv.com/economie/video-bulle-de-l-ia-on-est-au-debut-d-un-krach_VN-202611070387.html"
             }
           ]
         }

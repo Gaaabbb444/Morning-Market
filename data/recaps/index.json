@@ -2,6 +2,14 @@
   "version_schema": 1,
   "recaps": [
     {
+      "fichier": "recaps/semaine-2026-W45.json",
+      "type": "semaine",
+      "periode": "2026-W45",
+      "libelle": "Semaine du 2 novembre au 8 novembre 2026",
+      "du": "2026-11-02",
+      "au": "2026-11-08"
+    },
+    {
       "fichier": "recaps/semaine-2026-W44.json",
       "type": "semaine",
       "periode": "2026-W44",

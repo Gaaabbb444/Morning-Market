@@ -1,0 +1,90 @@
+{
+  "version_schema": 1,
+  "type": "semaine",
+  "periode": "2026-W45",
+  "libelle": "Semaine du 2 novembre au 8 novembre 2026",
+  "du": "2026-11-02",
+  "au": "2026-11-08",
+  "genere_le": "2026-11-08T05:54:53+01:00",
+  "accroche": "Réduction du déficit Sécurité sociale, frais UE sur colis, mobilisation du Livret A, récession du PIB, manifestations massives",
+  "synthese": "La semaine a été marquée par une forte orientation budgétaire du gouvernement, qui vise à réduire le déficit de la Sécurité sociale de plus de 9 milliards d’euros d’ici 2027. Parallèlement, l’Union européenne a instauré un frais de deux euros sur les petits colis importés, affectant les flux d’e‑commerce transfrontaliers. Le gouvernement a proposé de mobiliser jusqu’à 60 milliards d’euros d’épargne réglementée, notamment du Livret A, pour financer la construction de nouveaux réacteurs nucléaires, suscitant des critiques de l’opposition. Le PIB français a reculé de 0,1 % au troisième trimestre, indiquant une récession malgré une consommation des ménages soutenue. Enfin, les manifestations du 5 novembre ont rassemblé entre 575 000 et 1,6 million de personnes, reflétant la pression sur le pouvoir d’achat et les tensions sociales.",
+  "faits_marquants": [
+    {
+      "date": "2026-11-02",
+      "titre": "Budget : comment le gouvernement compte réduire de plus de 9 milliards d’euros le déficit de la Sécurité sociale",
+      "titre_fr": null,
+      "source": "Le Figaro",
+      "url": "https://www.lefigaro.fr/social/budget-comment-le-gouvernement-compte-reduire-de-plus-de-9-milliards-d-euros-le-deficit-de-la-securite-sociale-20261102",
+      "categorie": "desequilibres",
+      "fil_rouge": "budget-2027",
+      "article_id": "72cc7fef130b",
+      "a_retenir": "Le gouvernement détaille les mesures pour réduire de plus de 9 milliards le déficit de la Sécurité sociale, enjeu clé de la discipline budgétaire."
+    },
+    {
+      "date": "2026-11-02",
+      "titre": "Temu, Shein, AliExpress... une nouvelle taxe de deux euros appliquée aux produits importés dans l'Union européenne",
+      "titre_fr": null,
+      "source": "La Tribune",
+      "url": "https://www.latribune.fr/article/economie/54696279961081/temu-shein-aliexpress-une-nouvelle-taxe-de-deux-euros-appliquee-aux-produits-importes-dans-lunion-europeenne",
+      "categorie": "ue",
+      "fil_rouge": null,
+      "article_id": "92391b6e1d8e",
+      "a_retenir": "L’UE impose un frais de deux euros sur les petits colis importés, affectant le commerce transfrontalier et les prix à la consommation."
+    },
+    {
+      "date": "2026-11-03",
+      "titre": "\"Une décision qui viole les règles de la démocratie\": le gouvernement veut puiser jusqu'à 60 milliards d'euros dans le Livret A pour financer ses futurs réacteurs nucléaires, la gauche s'insurge",
+      "titre_fr": null,
+      "source": "BFM Business",
+      "url": "https://www.bfmtv.com/economie/patrimoine/placements-epargne/une-decision-qui-viole-les-regles-de-la-democratie-le-gouvernement-veut-puiser-jusqu-a-60-milliards-d-euros-dans-le-livret-a-pour-financer-ses-futurs-reacteurs-nucleaires-la-gauche-s-insurge_AD-202611030245.html",
+      "categorie": "epargne",
+      "fil_rouge": "fiscalite-epargne-patrimoine",
+      "article_id": "45292f2dc21f",
+      "a_retenir": "Proposition de puiser jusqu’à 60 milliards d’euros du Livret A pour financer le nucléaire, illustrant le recours à l’épargne réglementée."
+    },
+    {
+      "date": "2026-11-04",
+      "titre": "Récession française : la consommation tient mais l’industrie plonge",
+      "titre_fr": null,
+      "source": "L'Opinion",
+      "url": "https://www.lopinion.fr/economie/recession-francaise-la-consommation-tient-mais-lindustrie-plonge",
+      "categorie": "croissance",
+      "fil_rouge": "conjoncture-france",
+      "article_id": "225e71a6c917",
+      "a_retenir": "Le PIB français recule de 0,1 % au T3, signe de récession qui impacte les perspectives de croissance."
+    },
+    {
+      "date": "2026-11-06",
+      "titre": "Grève du 5 novembre : revivez la journée de mobilisation qui a rassemblé entre 575 000 et 1,6 million de manifestants en France",
+      "titre_fr": null,
+      "source": "Le Monde",
+      "url": "https://www.lemonde.fr/politique/live/2026/11/05/en-direct-greve-du-5-novembre-entre-575-000-et-1-6-million-de-manifestants-en-france-jeudi-une-conference-sociale-avec-les-syndicats-et-le-patronat-prevue-a-matignon-lundi_6806775_823448.html",
+      "categorie": "desequilibres",
+      "fil_rouge": "conjoncture-france",
+      "article_id": "0044edf69a21",
+      "a_retenir": "Les manifestations du 5 novembre, entre 575 000 et 1,6 million de participants, montrent la tension sociale autour du pouvoir d’achat."
+    }
+  ],
+  "fils_rouges": [
+    {
+      "id": "budget-2027",
+      "evolution": "Le débat budgétaire s’intensifie, avec plusieurs articles analysant les mesures de réduction du déficit et le rejet du budget 2027."
+    },
+    {
+      "id": "fiscalite-epargne-patrimoine",
+      "evolution": "Le sujet de l’utilisation du Livret A et de la hausse du plafond apparaît dans plusieurs articles, soulignant son rôle fiscal."
+    },
+    {
+      "id": "conjoncture-france",
+      "evolution": "Les articles suivent la récession du PIB, les manifestations et la conférence sociale, reflétant la conjoncture intérieure."
+    },
+    {
+      "id": "choc-petrolier-ormuz",
+      "evolution": "Le prix du pétrole et ses effets sur le carburant sont évoqués, notamment la baisse du Brent et les interrogations sur la durabilité de la baisse du gazole."
+    },
+    {
+      "id": "automobile-europe-chine",
+      "evolution": "Les inquiétudes des équipementiers automobiles face aux accords européens et aux tensions géopolitiques sont mises en avant."
+    }
+  ]
+}

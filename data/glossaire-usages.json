@@ -1,6 +1,114 @@
 {
   "version_schema": 1,
   "notions": {
+    "bulle-speculative": [
+      {
+        "date": "2026-11-08",
+        "id": "2fb6c22384c2",
+        "titre": "Bulle de l'IA : \"on est au début d'un krach\" 📉🫧",
+        "source": "BFM Business",
+        "contexte": "Top 5 du jour"
+      }
+    ],
+    "pouvoir-d-achat": [
+      {
+        "date": "2026-11-08",
+        "id": "444f7f83820d",
+        "titre": "Tarifs de l'électricité pour les particuliers: le PDG d’EDF promet des prix de l’électricité stables \"jusqu’à la fin de l’hiver\"",
+        "source": "BFM Business",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-11-06",
+        "id": "c623b0cc3dbe",
+        "titre": "Manifestations : face à la colère de la rue, le gouvernement dégaine une conférence sociale",
+        "source": "L'Opinion",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-11-01",
+        "id": "15b4255dffb6",
+        "titre": "Carburants : les prix du gazole doivent baisser à partir de ce week-end",
+        "source": "Le Figaro",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-10-27",
+        "id": "fa1814b3d302",
+        "titre": "Pouvoir d'achat : les salariés au SMIC réclament une hausse plus importante",
+        "source": "franceinfo",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-10-26",
+        "id": "81d3a09a1c1c",
+        "titre": "\"On le dit, on continuera\" : une mobilisation sociale partie pour s'ancrer dans la durée ?",
+        "source": "franceinfo",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-10-25",
+        "id": "3cf1e8c28e56",
+        "titre": "12 à 18 centimes de moins par litre : les stocks de gazole libérés pourraient faire baisser les prix dès le 1er novembre",
+        "source": "BFM Business",
+        "contexte": "Top 5 du jour"
+      }
+    ],
+    "competitivite-prix-et-hors-prix": [
+      {
+        "date": "2026-11-08",
+        "id": "468d0b159145",
+        "titre": "Jean Pisani-Ferry : « La Chine manque d’une stratégie macroéconomique de nature à corriger ses déséquilibres persistants »",
+        "source": "Le Monde",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-11-07",
+        "id": "ff4fb338c009",
+        "titre": "OPINION. « Automobile : faire du \"Made in Europe\" un levier de puissance industrielle »",
+        "source": "La Tribune",
+        "contexte": "Concept du jour"
+      },
+      {
+        "date": "2026-11-03",
+        "id": "36f95db9f57b",
+        "titre": "Négociations commerciales : la grande distribution boycotte la réunion de Bercy",
+        "source": "Capital",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-10-25",
+        "id": "d58b6e3c608d",
+        "titre": "Le Japon dépend à 95% des États-Unis pour ses importations militaires mais commence à se tourner vers l'Europe (le français Thales est le premier à poser le pied sur l'archipel)",
+        "source": "BFM Business",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-10-21",
+        "id": "156d6c0b32a1",
+        "titre": "Le 737 MAX 10 certifié, Boeing tourne enfin la page de la crise du MAX",
+        "source": "La Tribune",
+        "contexte": "Top 5 du jour"
+      }
+    ],
+    "desindustrialisation-et-reindustrialisation": [
+      {
+        "date": "2026-11-08",
+        "id": "11bf96d5847c",
+        "titre": "Les équipementiers automobiles s’alarment des conséquences sociales de l’accord franco-allemand",
+        "source": "Le Monde",
+        "contexte": "Top 5 du jour"
+      }
+    ],
+    "budget-de-l-union-europeenne": [
+      {
+        "date": "2026-11-08",
+        "id": "f5c955a59ffa",
+        "titre": "Sécurité européenne : les dirigeants européens rejettent le projet d’accord de Trump avec Moscou",
+        "source": "L'Opinion",
+        "contexte": "Top 5 du jour"
+      }
+    ],
     "chomage-definition-du-bit": [
       {
         "date": "2026-11-07",
@@ -96,73 +204,6 @@
         "date": "2026-10-18",
         "id": "66580453350e",
         "titre": "Il a tout appris chez Audi en Allemagne et puis il est devenu le \"père de la voiture électrique en Chine\": qui est Wan Gang, l'ingénieur dont une lettre à Pékin a déclenché la déferlante chinoise?",
-        "source": "BFM Business",
-        "contexte": "Top 5 du jour"
-      }
-    ],
-    "competitivite-prix-et-hors-prix": [
-      {
-        "date": "2026-11-07",
-        "id": "ff4fb338c009",
-        "titre": "OPINION. « Automobile : faire du \"Made in Europe\" un levier de puissance industrielle »",
-        "source": "La Tribune",
-        "contexte": "Concept du jour"
-      },
-      {
-        "date": "2026-11-03",
-        "id": "36f95db9f57b",
-        "titre": "Négociations commerciales : la grande distribution boycotte la réunion de Bercy",
-        "source": "Capital",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-10-25",
-        "id": "d58b6e3c608d",
-        "titre": "Le Japon dépend à 95% des États-Unis pour ses importations militaires mais commence à se tourner vers l'Europe (le français Thales est le premier à poser le pied sur l'archipel)",
-        "source": "BFM Business",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-10-21",
-        "id": "156d6c0b32a1",
-        "titre": "Le 737 MAX 10 certifié, Boeing tourne enfin la page de la crise du MAX",
-        "source": "La Tribune",
-        "contexte": "Top 5 du jour"
-      }
-    ],
-    "pouvoir-d-achat": [
-      {
-        "date": "2026-11-06",
-        "id": "c623b0cc3dbe",
-        "titre": "Manifestations : face à la colère de la rue, le gouvernement dégaine une conférence sociale",
-        "source": "L'Opinion",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-11-01",
-        "id": "15b4255dffb6",
-        "titre": "Carburants : les prix du gazole doivent baisser à partir de ce week-end",
-        "source": "Le Figaro",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-10-27",
-        "id": "fa1814b3d302",
-        "titre": "Pouvoir d'achat : les salariés au SMIC réclament une hausse plus importante",
-        "source": "franceinfo",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-10-26",
-        "id": "81d3a09a1c1c",
-        "titre": "\"On le dit, on continuera\" : une mobilisation sociale partie pour s'ancrer dans la durée ?",
-        "source": "franceinfo",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-10-25",
-        "id": "3cf1e8c28e56",
-        "titre": "12 à 18 centimes de moins par litre : les stocks de gazole libérés pourraient faire baisser les prix dès le 1er novembre",
         "source": "BFM Business",
         "contexte": "Top 5 du jour"
       }

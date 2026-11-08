@@ -1,7 +1,259 @@
 {
   "version_schema": 1,
-  "mis_a_jour_le": "2026-11-07T10:03:18+01:00",
+  "mis_a_jour_le": "2026-11-08T05:51:38+01:00",
   "entrees": [
+    {
+      "d": "2026-11-08",
+      "i": "2fb6c22384c2",
+      "t": "Bulle de l'IA : \"on est au début d'un krach\" 📉🫧",
+      "r": "Wall Street a enregistré une perte de 3 200 milliards de dollars de valorisation jeudi, principalement concentrée sur les géants de l'intelligence artificielle.",
+      "c": "finance",
+      "s": "BFM Business",
+      "f": null
+    },
+    {
+      "d": "2026-11-08",
+      "i": "444f7f83820d",
+      "t": "Tarifs de l'électricité pour les particuliers: le PDG d’EDF promet des prix de l’électricité stables \"jusqu’à la fin de l’hiver\"",
+      "r": "Le PDG d'EDF a annoncé que les tarifs de l'électricité pour les particuliers resteraient stables au moins jusqu'au 1er février, date de la révision obligatoire du tarif réglementé.",
+      "c": "entreprises",
+      "s": "BFM Business",
+      "f": null
+    },
+    {
+      "d": "2026-11-08",
+      "i": "468d0b159145",
+      "t": "Jean Pisani-Ferry : « La Chine manque d’une stratégie macroéconomique de nature à corriger ses déséquilibres persistants »",
+      "r": "Selon Jean Pisani-Ferry, la Chine souffre d'un modèle macroéconomique déséquilibré marqué par une industrie surdimensionnée, un secteur des services affaibli et une crise immobilière.",
+      "c": "mondialisation",
+      "s": "Le Monde",
+      "f": null
+    },
+    {
+      "d": "2026-11-08",
+      "i": "11bf96d5847c",
+      "t": "Les équipementiers automobiles s’alarment des conséquences sociales de l’accord franco-allemand",
+      "r": "Les sous-traitants automobiles contestent le compromis franco-allemand, affirmant qu'il favorise les constructeurs et risque d'accélérer les suppressions de postes et les fermetures de sites.",
+      "c": "entreprises",
+      "s": "Le Monde",
+      "f": "automobile-europe-chine"
+    },
+    {
+      "d": "2026-11-08",
+      "i": "f5c955a59ffa",
+      "t": "Sécurité européenne : les dirigeants européens rejettent le projet d’accord de Trump avec Moscou",
+      "r": "Les dirigeants européens ont refusé par avance un projet d'accord sur la sécurité en Europe envisagé entre Donald Trump et Moscou sans leur participation.",
+      "c": "ue",
+      "s": "L'Opinion",
+      "f": "ukraine-sanctions"
+    },
+    {
+      "d": "2026-11-08",
+      "i": "020728513091",
+      "t": "Malgré les attaques répétées des Houthis et la guerre avec l’Iran, les bénéfices du géant pétrolier saoudien Aramco poursuivent leur envolée (mais l’économie du royaume reste sous pression)",
+      "r": "Malgré les attaques et les tensions régionales, le géant pétrolier Aramco affiche des bénéfices en forte hausse grâce à la flambée des cours du pétrole.",
+      "c": "croissance",
+      "s": "BFM Business",
+      "f": null
+    },
+    {
+      "d": "2026-11-08",
+      "i": "43435b5663bf",
+      "t": "Quel est l'intérêt ? Dix ans après l'accord de Paris, les négociations sur le climat avancent-elles ?",
+      "r": "Dix ans après l'accord de Paris, l'objectif principal de température a été manqué, mais l'accord reste un repère moral crucial pour le progrès climatique.",
+      "c": "croissance",
+      "s": "The Guardian",
+      "f": null
+    },
+    {
+      "d": "2026-11-08",
+      "i": "ea2ac909d122",
+      "t": "Guerre en Ukraine : nouvelles frappes russes contre des infrastructures énergétiques, à quelques jours des pourparlers à Abu Dhabi",
+      "r": "",
+      "c": "croissance",
+      "s": "Les Echos",
+      "f": "ukraine-sanctions"
+    },
+    {
+      "d": "2026-11-08",
+      "i": "aae7d52c6eab",
+      "t": "Le centre de données IA du Lanarkshire dépendra entièrement du réseau national malgré ses promesses d'énergies renouvelables",
+      "r": "Une entreprise de centres de données a admis que son projet d'infrastructure pour l'intelligence artificielle sera entièrement alimenté par le réseau électrique national.",
+      "c": "croissance",
+      "s": "The Guardian",
+      "f": "intelligence-artificielle"
+    },
+    {
+      "d": "2026-11-08",
+      "i": "6da1f10b9d2e",
+      "t": "Le détroit d'Ormuz pourrait rouvrir dans le cadre d'un plan qatari prévoyant des inspections nucléaires en Iran",
+      "r": "Le Qatar mène une médiation pour persuader Téhéran d'autoriser des inspections de l'ONU sur ses sites nucléaires, ce qui pourrait permettre la réouverture du détroit d'Ormuz.",
+      "c": "mondialisation",
+      "s": "The Guardian",
+      "f": "choc-petrolier-ormuz"
+    },
+    {
+      "d": "2026-11-08",
+      "i": "1d68244dc955",
+      "t": "Les agriculteurs ont reçu l’ordre de ne pas commercialiser leur huile d’olive: face à une récolte record, l’Espagne bloque 188.000 tonnes pour éviter l’effondrement des prix, au risque de faire grimper la facture des consommateurs",
+      "r": "Face à une récolte record, l'Espagne bloque temporairement 188 000 tonnes d'huile d'olive pour soutenir les prix, une décision qui suscite des divisions.",
+      "c": "mondialisation",
+      "s": "BFM Business",
+      "f": null
+    },
+    {
+      "d": "2026-11-08",
+      "i": "a89a76b5cdbb",
+      "t": "Le trajet est plus long et plus coûteux: pour contourner les frappes ukrainiennes, la Russie achemine du métal via l’Arctique pour la première fois depuis 30 ans",
+      "r": "Pour contourner les frappes ukrainiennes et la saturation de ses ports, la Russie achemine ses exportations de métaux par la route arctique, malgré des coûts et des délais accrus.",
+      "c": "mondialisation",
+      "s": "BFM Business",
+      "f": null
+    },
+    {
+      "d": "2026-11-08",
+      "i": "afacb97b6212",
+      "t": "Les pannes de congélateurs et les canulars aériens donnent un aperçu de l'avenir : espérer le meilleur n'est plus une option",
+      "r": "Des actes d'agression hybride visant à propager la panique se multiplient à travers l'Europe, nécessitant une réponse résiliente face au sabotage.",
+      "c": "mondialisation",
+      "s": "The Guardian",
+      "f": null
+    },
+    {
+      "d": "2026-11-08",
+      "i": "619c698d09a1",
+      "t": "Introduction en Bourse d’Anthropic : le krach des valeurs de l’IA fait fondre la valorisation espérée",
+      "r": "Après la chute du Nasdaq, la valorisation espérée pour l'introduction en Bourse d'Anthropic est nettement revue à la baisse par les investisseurs.",
+      "c": "finance",
+      "s": "L'Opinion",
+      "f": "intelligence-artificielle"
+    },
+    {
+      "d": "2026-11-08",
+      "i": "b8f1fb73a01c",
+      "t": "« Très trange, très triste » : l'effondrement d'une banque au Paraguay fait chuter une présidence et laisse des millions de personnes sans argent",
+      "r": "Le président Santiago Peña est mis en cause dans le cadre d'une crise bancaire et les procureurs demandent son placement en détention préventive.",
+      "c": "finance",
+      "s": "The Guardian",
+      "f": null
+    },
+    {
+      "d": "2026-11-08",
+      "i": "a1f13387208b",
+      "t": "La bulle de l’IA se heurte à la réalité",
+      "r": "La victoire démocrate aux élections de mi-mandat aux États-Unis a provoqué un net recul du Nasdaq, impactant les valeurs liées à l'intelligence artificielle.",
+      "c": "finance",
+      "s": "Le Monde",
+      "f": "intelligence-artificielle"
+    },
+    {
+      "d": "2026-11-08",
+      "i": "71240352f25b",
+      "t": "Christine Lagarde: Interview with Yomiuri Shimbun",
+      "r": "",
+      "c": "finance",
+      "s": "BCE",
+      "f": "inflation-bce"
+    },
+    {
+      "d": "2026-11-08",
+      "i": "82c304c448a3",
+      "t": "« J’ai un entretien ce vendredi ! C’est mon dernier espoir… » : quand la réalité de la crise envahit les réseaux sociaux",
+      "r": "Selon l'Insee, le taux de chômage des moins de 25 ans en France a dépassé 21 % au deuxième trimestre, poussant les jeunes à s'exprimer sur les réseaux sociaux.",
+      "c": "desequilibres",
+      "s": "Le Monde",
+      "f": "conjoncture-france"
+    },
+    {
+      "d": "2026-11-08",
+      "i": "1b06700742de",
+      "t": "Jean-Pierre Farandou, ministre du Travail et des Solidarités : « On peut augmenter le smic à condition de ne pas nuire à l’emploi »",
+      "r": "Avant la conférence sociale de Matignon, la question de l'augmentation du salaire minimum reste un sujet de crispation majeur entre patronat et syndicats.",
+      "c": "desequilibres",
+      "s": "La Tribune",
+      "f": null
+    },
+    {
+      "d": "2026-11-08",
+      "i": "4624e6610326",
+      "t": "OPINION. « Ajouter de la capitalisation, ce n’est pas trahir la répartition : c’est la sauver », par Xavier Iacovelli, sénateur des Hauts-de-Seine",
+      "r": "Selon Xavier Iacovelli, l'introduction de la capitalisation dans le système de retraites permettrait de sortir de l'impasse actuelle sans trahir le principe de répartition.",
+      "c": "desequilibres",
+      "s": "La Tribune",
+      "f": "retraites"
+    },
+    {
+      "d": "2026-11-08",
+      "i": "67a18f0c7822",
+      "t": "Colère sociale : des milliers de personnes de nouveau attendues dans les rues",
+      "r": "La France connaît une nouvelle journée de manifestations sociales pour faire pression sur le gouvernement avant une conférence sur les salaires.",
+      "c": "desequilibres",
+      "s": "La Tribune",
+      "f": "conjoncture-france"
+    },
+    {
+      "d": "2026-11-08",
+      "i": "0545b1b04e57",
+      "t": "Cinq dirigeants européens appellent à des liens plus étroits entre l'UE et le Royaume-Uni avant le sommet de Bruxelles",
+      "r": "Les dirigeants de l'Allemagne, de la Belgique, des Pays-Bas, du Luxembourg et du Danemark plaident pour une coopération renforcée sur l'énergie propre avec le Royaume-Uni.",
+      "c": "ue",
+      "s": "The Guardian",
+      "f": null
+    },
+    {
+      "d": "2026-11-08",
+      "i": "a847314b4ebf",
+      "t": "Le regard du Guardian sur le retour de balancier de l'IA : les électeurs américains veulent avoir leur mot à dire sur leur avenir",
+      "r": "Le secteur technologique fait face à un recul boursier et à une contestation politique de ses soutiens, illustrant un essor porté par les milliardaires confronté à la démocratie.",
+      "c": "entreprises",
+      "s": "The Guardian",
+      "f": "intelligence-artificielle"
+    },
+    {
+      "d": "2026-11-08",
+      "i": "d6d7ff8788b5",
+      "t": "\"Cette recrudescence des vols impacte la production des parcs\" : 500 km de câbles de cuivre dérobés dans une centrale photovoltaïque",
+      "r": "Le vol de plus de 500 kilomètres de câbles de cuivre dans des parcs photovoltaïques du Sud-Ouest génère un préjudice estimé à 1 million d'euros.",
+      "c": "entreprises",
+      "s": "franceinfo",
+      "f": null
+    },
+    {
+      "d": "2026-11-08",
+      "i": "85076b37274a",
+      "t": "Suppressions de postes, perte de clients et 22 milliards de livres de dettes : que se passe-t-il chez Virgin Media O2 ?",
+      "r": "L'entreprise Virgin Media O2 fait face à des suppressions de postes, une importante dette et la perte de centaines de milliers de clients.",
+      "c": "entreprises",
+      "s": "The Guardian",
+      "f": null
+    },
+    {
+      "d": "2026-11-08",
+      "i": "821d5f0150b4",
+      "t": "C'est un séisme dans le monde des bulles: pour la première fois, les Français achètent plus de prosecco italien que de champagne dans les supermarchés (il coûte 4 moins cher)",
+      "r": "En 2025, les achats de prosecco ont progressé tandis que ceux de champagne ont reculé dans l'hôtellerie-restauration, les consommateurs se tournant vers des options moins onéreuses.",
+      "c": "entreprises",
+      "s": "BFM Business",
+      "f": null
+    },
+    {
+      "d": "2026-11-08",
+      "i": "4f49d3655a3c",
+      "t": "Les mots éco - Présidentielle 2027 : quelle est la différence entre retraite par répartition et capitalisation",
+      "r": "",
+      "c": "epargne",
+      "s": "Les Echos",
+      "f": "presidentielle-2027"
+    },
+    {
+      "d": "2026-11-08",
+      "i": "4ae86d09a67a",
+      "t": "Quel avenir pour l’épargne des Français ?",
+      "r": "Deux économistes débattent régulièrement des enjeux liés à l'épargne des Français dans le contexte économique et social actuel.",
+      "c": "epargne",
+      "s": "franceinfo",
+      "f": "fiscalite-epargne-patrimoine"
+    },
     {
       "d": "2026-11-07",
       "i": "a59fe565fe17",
