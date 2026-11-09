@@ -1,6 +1,6 @@
 {
   "version_schema": 1,
-  "mis_a_jour_le": "2026-11-09T06:03:32+01:00",
+  "mis_a_jour_le": "2026-11-09T10:28:59+01:00",
   "entrees": [
     {
       "d": "2026-11-09",
@@ -85,6 +85,15 @@
     },
     {
       "d": "2026-11-09",
+      "i": "5ed183cd187d",
+      "t": "Les objectifs du gouvernement en matière de véhicules électriques devraient être réduits cette semaine",
+      "r": "New petrol or diesel cars are due to be phased out by 2030 and by 2035 all new cars must be zero emission.",
+      "c": "croissance",
+      "s": "BBC",
+      "f": "automobile-europe-chine"
+    },
+    {
+      "d": "2026-11-09",
       "i": "20e38220237b",
       "t": "Nvidia lance une enquête sur la liaison de son PDG avec une espionne chinoise présumée",
       "r": "Jensen Huang a admis avoir été infidèle et coopère à une enquête de sécurité menée par Nvidia suite à sa liaison avec une espionne présumée.",
@@ -121,6 +130,15 @@
     },
     {
       "d": "2026-11-09",
+      "i": "ae48e3b44588",
+      "t": "\"Faire entendre la voix de l'Europe\" : Jean-Noël Barrot garantit une présence française dans les négociations sur la guerre en Ukraine à Abou Dhabi",
+      "r": "La France et les Européens participeront aux discussions de paix entre l'Ukraine et la Russie prévues à Abou Dhabi sous l'égide des États-Unis.",
+      "c": "mondialisation",
+      "s": "Toute l'Europe",
+      "f": "ukraine-sanctions"
+    },
+    {
+      "d": "2026-11-09",
       "i": "6daeef0fc915",
       "t": "« Justice a été rendue ! » : la chute de Santiago Peña, président destitué du Paraguay, après l’effondrement d’une banque en ligne",
       "r": "Au Paraguay, le président Santiago Peña a été destitué et placé en détention après la faillite d'une banque en ligne.",
@@ -135,6 +153,33 @@
       "r": "",
       "c": "finance",
       "s": "Les Echos",
+      "f": null
+    },
+    {
+      "d": "2026-11-09",
+      "i": "f48648f74df2",
+      "t": "Uber place sa trésorerie le week-end, «l'argent des entreprises ne veut plus dormir !»",
+      "r": "Uber a expérimenté le placement de sa trésorerie le week-end dans un fonds monétaire via la technologie blockchain.",
+      "c": "finance",
+      "s": "Capital",
+      "f": null
+    },
+    {
+      "d": "2026-11-09",
+      "i": "46481624f955",
+      "t": "Clap de fin pour Binance France : les utilisateurs ont jusqu’au 31 décembre pour retirer leurs cryptoactifs",
+      "r": "La plateforme de cryptomonnaies Binance France cesse ses activités faute d'agrément européen MiCA, imposant le retrait des actifs d'ici fin décembre.",
+      "c": "finance",
+      "s": "Le Figaro",
+      "f": null
+    },
+    {
+      "d": "2026-11-09",
+      "i": "e1af4daa69b6",
+      "t": "OPINION. « Banques centrales : l’avertissement paraguayen » (Michel Santi)",
+      "r": "La faillite de la banque Ueno au Paraguay met en lumière les risques liés à la connivence entre pouvoir politique, banque centrale et superviseur.",
+      "c": "finance",
+      "s": "La Tribune",
       "f": null
     },
     {
@@ -175,6 +220,33 @@
     },
     {
       "d": "2026-11-09",
+      "i": "5ca706f8fbd9",
+      "t": "Hausse du smic : \"La conférence sociale, ce n'est pas une opération Pièces Jaunes\", lance Sophie Binet",
+      "r": "La secrétaire générale de la CGT réclame une augmentation de 10% du Smic, estimant que les mesures envisagées par le gouvernement sont insuffisantes face à la colère sociale.",
+      "c": "desequilibres",
+      "s": "franceinfo",
+      "f": "conjoncture-france"
+    },
+    {
+      "d": "2026-11-09",
+      "i": "9b660f7441bb",
+      "t": "L'agenda européen : les principaux événements prévus du 9 au 15 novembre 2026",
+      "r": "L'agenda européen de la semaine est marqué par la COP31, les discussions sur le budget de l'UE, la fiscalité du tabac et un sommet sur l'intelligence artificielle.",
+      "c": "ue",
+      "s": "Toute l'Europe",
+      "f": "budget-ue"
+    },
+    {
+      "d": "2026-11-09",
+      "i": "4de1faabe94e",
+      "t": "OPINION. Défense : ne pas gaspiller l’argent public en augmentant les fonds européens",
+      "r": "Selon le groupe MARS, les instruments de défense de l'Union européenne financés par les États conduisent à de la cacophonie et du gaspillage de la part de la Commission.",
+      "c": "ue",
+      "s": "La Tribune",
+      "f": null
+    },
+    {
+      "d": "2026-11-09",
       "i": "eaf6761cad13",
       "t": "Sans croissance, les entreprises françaises peineront à augmenter les salaires, auxquels elles consacrent déjà une large part de leur richesse",
       "r": "La rémunération du travail est au cœur de la conférence sociale, les entreprises redoutant qu'une hausse des salaires pèse sur leurs marges.",
@@ -211,11 +283,56 @@
     },
     {
       "d": "2026-11-09",
+      "i": "80917658a449",
+      "t": "Airbus A220 : le pari gagnant d’un moyen-courrier ultra rentable pour Air France",
+      "r": "Air France a pris livraison de son 60e Airbus A220, un appareil moyen-courrier moderne assemblé au Canada qui permet à la compagnie de rentabiliser ses lignes depuis Roissy.",
+      "c": "entreprises",
+      "s": "La Tribune",
+      "f": null
+    },
+    {
+      "d": "2026-11-09",
       "i": "0e7ea43e99ec",
       "t": "Encadrement des loyers : « Investir dans un appartement à Paris est devenu moins rentable que de mettre son argent sur un livret A »",
       "r": "L'encadrement des loyers à Paris rend l'investissement locatif moins rentable que le livret A, selon un rapport de think tank.",
       "c": "epargne",
       "s": "L'Opinion",
+      "f": null
+    },
+    {
+      "d": "2026-11-09",
+      "i": "8a686d922b76",
+      "t": "Jean-Pierre Robin : « Abondante et peu rémunérée, l’épargne des Français au secours des comptes publics »",
+      "r": "L’État surendetté fait appel à l'épargne des Français pour financer les investissements publics à sa place.",
+      "c": "epargne",
+      "s": "Le Figaro",
+      "f": "fiscalite-epargne-patrimoine"
+    },
+    {
+      "d": "2026-11-09",
+      "i": "dbc89cd9d69c",
+      "t": "Crédit immobilier : la hausse des taux pénalise les plus modestes",
+      "r": "La hausse des taux de crédit immobilier, dépassant le seuil de 4 % sur vingt-cinq ans pour certains profils, pèse sur l'accès au crédit des emprunteurs les plus modestes.",
+      "c": "epargne",
+      "s": "Le Monde",
+      "f": null
+    },
+    {
+      "d": "2026-11-09",
+      "i": "7c033b4c8e9b",
+      "t": "Les ménages britanniques font face à une course pour trouver un installateur d'énergie verte avant la hausse de la TVA en avril",
+      "r": "Ministers pushed to reverse ‘policy madness’ of scrapping exemption on 5% tax rise for heat pumps, solar panels and batteries Households planning to invest in green energy upgrades, including heat pumps and solar panels, risk a nationwide rush to find an installer or face hundreds of pounds in unexp",
+      "c": "epargne",
+      "s": "The Guardian",
+      "f": null
+    },
+    {
+      "d": "2026-11-09",
+      "i": "da98c1aa233f",
+      "t": "Ils ont 168 euros en moyenne cachés à la maison: s'ils n'ont jamais autant payé par carte, les Français sont inquiets de voir le cash disparaître",
+      "r": "Selon un sondage de la Monnaie de Paris, malgré l'essor de la carte bancaire, les Français conservent en moyenne 168 euros en espèces chez eux et une large majorité redoute leur disparition en période de crise.",
+      "c": "epargne",
+      "s": "BFM Business",
       "f": null
     },
     {

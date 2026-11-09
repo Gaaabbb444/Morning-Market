@@ -1,6 +1,6 @@
 {
   "version_schema": 1,
-  "mis_a_jour_le": "2026-11-09T06:03:57+01:00",
+  "mis_a_jour_le": "2026-11-09T10:33:27+01:00",
   "fils": [
     {
       "id": "budget-2027",
@@ -1791,7 +1791,7 @@
         "desequilibres",
         "entreprises"
       ],
-      "ou_en_est_on": "La conférence sociale s'ouvre à Matignon sous la pression des mobilisations syndicales sur le pouvoir d'achat et les salaires, alors que les commerces parisiens pâtissent de la baisse de fréquentation consécutive aux défilés. Face à l'éventuelle hausse du SMIC, les représentants patronaux réclament des allègements fiscaux et de cotisations, soulignant le risque pesant sur des marges d'entreprises déjà faibles. De leur côté, les ménages continuent d'adapter leur consommation face à l'alourdissement des dépenses contraintes.",
+      "ou_en_est_on": "La conférence sociale s'ouvre à Matignon sous la pression de la mobilisation syndicale pour le pouvoir d'achat et le relèvement du Smic. Le gouvernement est partagé entre l'urgence de répondre au mécontentement social et la défense d'un équilibre pour préserver l'emploi et les marges des entreprises. Alors que les organisations syndicales réclament des hausses importantes, le patronat, par la voix de l'U2P, avertit qu'il ne pourra supporter de telles hausses sans un retour sur le gel des allègements de cotisations. Parallèlement, la flambée des prix dans certains secteurs, comme les transports aériens, continue de peser sur le budget des ménages.",
       "ou_en_est_on_maj_le": "2026-11-09",
       "evenements": [
         {
@@ -2408,7 +2408,7 @@
         },
         {
           "date": "2026-11-09",
-          "resume": "La conférence sociale s'ouvre à Matignon sur les salaires et le SMIC, dans un contexte où les entreprises redoutent une baisse de leurs marges sans croissance et où les commerces parisiens subissent l'impact des manifestations.",
+          "resume": "La conférence sociale s'ouvre à Matignon sur fond de tensions liées au pouvoir d'achat et au niveau du Smic, les syndicats réclamant des hausses significatives tandis que le patronat redoute un impact sur la compétitivité.",
           "liens": [
             {
               "titre": "\"Conférence sociale\" du 9 novembre : quelles sont les mesures souhaitées par les Français pour le pouvoir d'achat ?",
