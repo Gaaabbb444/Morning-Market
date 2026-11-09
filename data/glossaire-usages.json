@@ -1,6 +1,121 @@
 {
   "version_schema": 1,
   "notions": {
+    "paradoxe-de-solow-paradoxe-de-la-productivite": [
+      {
+        "date": "2026-11-09",
+        "id": "1103153f6e1f",
+        "titre": "\"Je n'aurais jamais imaginé qu'elle soit aussi élevée\": contrairement à l'Europe, la productivité redécolle aux États-Unis mais pas encore grâce à l’IA",
+        "source": "BFM Business",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-10-23",
+        "id": "d81b9e74fa94",
+        "titre": "Il engloutit des centaines de milliards dans l'IA sans savoir quand (et si) ils rapporteront: Mark Zuckerberg glace les marchés, Meta chute lourdement à Wall Street",
+        "source": "BFM Business",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-10-18",
+        "id": "11308ac14c50",
+        "titre": "\"Nous on se pose la question de freiner...\": l'IA génère déjà un tiers de la croissance américaine, presque rien en France: pourquoi les milliards investis dans les data centers ne rapportent pas encore",
+        "source": "BFM Business",
+        "contexte": "Top 5 du jour"
+      }
+    ],
+    "boucle-prix-salaires": [
+      {
+        "date": "2026-11-09",
+        "id": "3abdd8accd24",
+        "titre": "\"Conférence sociale\" du 9 novembre : quelles sont les mesures souhaitées par les Français pour le pouvoir d'achat ?",
+        "source": "franceinfo",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-11-06",
+        "id": "0044edf69a21",
+        "titre": "Grève du 5 novembre : revivez la journée de mobilisation qui a rassemblé entre 575 000 et 1,6 million de manifestants en France",
+        "source": "Le Monde",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-10-25",
+        "id": "b405a941f93c",
+        "titre": "\"On va évidemment en discuter\": une hausse du Smic avant le 1er janvier \"fait partie des débats\", selon Roland Lescure",
+        "source": "BFM Business",
+        "contexte": "Top 5 du jour"
+      }
+    ],
+    "choc-petrolier-choc-d-offre": [
+      {
+        "date": "2026-11-09",
+        "id": "8561e3cd574a",
+        "titre": "Arabie saoudite : le quartier financier de Riyad attaqué, la tour du géant pétrolier Aramco endommagée",
+        "source": "La Tribune",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-11-03",
+        "id": "fe2bd460e083",
+        "titre": "Oil price falls amid hope of a breakthrough to end Iran war",
+        "source": "The Guardian",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-10-24",
+        "id": "d139ede9e737",
+        "titre": "Oil price rises above $117 a barrel amid fears US will renew strikes on Iran",
+        "source": "The Guardian",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-10-23",
+        "id": "f742c3911c35",
+        "titre": "Oil prices jump to five-month high as attacks threaten global supply",
+        "source": "The Guardian",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-10-17",
+        "id": "7333fdccc97b",
+        "titre": "\"Un superpétrolier a heurté une mine\": l'Iran intensifie ses attaques dans le détroit d'Ormuz, alors que le baril de pétrole frôle à nouveau les 110 dollars",
+        "source": "BFM Business",
+        "contexte": "Concept du jour"
+      }
+    ],
+    "independance-de-la-banque-centrale": [
+      {
+        "date": "2026-11-09",
+        "id": "f34ac07902e7",
+        "titre": "BCE : qui sont les deux candidats en lice pour remplacer Christine Lagarde ?",
+        "source": "La Tribune",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-10-30",
+        "id": "bcc18e705802",
+        "titre": "Christine Lagarde quittera la présidence de la Banque centrale européenne le 7 février 2027",
+        "source": "Toute l'Europe",
+        "contexte": "Top 5 du jour"
+      }
+    ],
+    "chaine-de-valeur-mondiale": [
+      {
+        "date": "2026-11-09",
+        "id": "eb07f8a2974c",
+        "titre": "Le patron de Nvidia, Jensen Huang, reconnaît avoir eu une liaison extraconjugale avec une personne considérée comme une espionne de Pékin",
+        "source": "Le Monde",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-11-01",
+        "id": "274d3e22af88",
+        "titre": "La stabilité économique mondiale à nouveau menacée par une possible escalade entre les Etats-Unis et l'Iran",
+        "source": "La Tribune",
+        "contexte": "Top 5 du jour"
+      }
+    ],
     "bulle-speculative": [
       {
         "date": "2026-11-08",
@@ -245,22 +360,6 @@
         "contexte": "Top 5 du jour"
       }
     ],
-    "boucle-prix-salaires": [
-      {
-        "date": "2026-11-06",
-        "id": "0044edf69a21",
-        "titre": "Grève du 5 novembre : revivez la journée de mobilisation qui a rassemblé entre 575 000 et 1,6 million de manifestants en France",
-        "source": "Le Monde",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-10-25",
-        "id": "b405a941f93c",
-        "titre": "\"On va évidemment en discuter\": une hausse du Smic avant le 1er janvier \"fait partie des débats\", selon Roland Lescure",
-        "source": "BFM Business",
-        "contexte": "Top 5 du jour"
-      }
-    ],
     "risque-systemique": [
       {
         "date": "2026-11-06",
@@ -464,36 +563,6 @@
         "contexte": "Top 5 du jour"
       }
     ],
-    "choc-petrolier-choc-d-offre": [
-      {
-        "date": "2026-11-03",
-        "id": "fe2bd460e083",
-        "titre": "Oil price falls amid hope of a breakthrough to end Iran war",
-        "source": "The Guardian",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-10-24",
-        "id": "d139ede9e737",
-        "titre": "Oil price rises above $117 a barrel amid fears US will renew strikes on Iran",
-        "source": "The Guardian",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-10-23",
-        "id": "f742c3911c35",
-        "titre": "Oil prices jump to five-month high as attacks threaten global supply",
-        "source": "The Guardian",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-10-17",
-        "id": "7333fdccc97b",
-        "titre": "\"Un superpétrolier a heurté une mine\": l'Iran intensifie ses attaques dans le détroit d'Ormuz, alors que le baril de pétrole frôle à nouveau les 110 dollars",
-        "source": "BFM Business",
-        "contexte": "Concept du jour"
-      }
-    ],
     "inflation-par-la-demande-et-par-les-couts": [
       {
         "date": "2026-11-03",
@@ -611,15 +680,6 @@
         "contexte": "Top 5 du jour"
       }
     ],
-    "chaine-de-valeur-mondiale": [
-      {
-        "date": "2026-11-01",
-        "id": "274d3e22af88",
-        "titre": "La stabilité économique mondiale à nouveau menacée par une possible escalade entre les Etats-Unis et l'Iran",
-        "source": "La Tribune",
-        "contexte": "Top 5 du jour"
-      }
-    ],
     "retraite-par-capitalisation": [
       {
         "date": "2026-11-01",
@@ -651,15 +711,6 @@
         "id": "c56abd8110ec",
         "titre": "La Bourse de New York saisie d’effroi, à la veille d’Halloween",
         "source": "Le Monde",
-        "contexte": "Top 5 du jour"
-      }
-    ],
-    "independance-de-la-banque-centrale": [
-      {
-        "date": "2026-10-30",
-        "id": "bcc18e705802",
-        "titre": "Christine Lagarde quittera la présidence de la Banque centrale européenne le 7 février 2027",
-        "source": "Toute l'Europe",
         "contexte": "Top 5 du jour"
       }
     ],
@@ -822,22 +873,6 @@
         "id": "aeaf62698138",
         "titre": "Après l'accord franco-allemand sur la voiture, le « made in Europe » avance à pas comptés",
         "source": "L'Opinion",
-        "contexte": "Top 5 du jour"
-      }
-    ],
-    "paradoxe-de-solow-paradoxe-de-la-productivite": [
-      {
-        "date": "2026-10-23",
-        "id": "d81b9e74fa94",
-        "titre": "Il engloutit des centaines de milliards dans l'IA sans savoir quand (et si) ils rapporteront: Mark Zuckerberg glace les marchés, Meta chute lourdement à Wall Street",
-        "source": "BFM Business",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-10-18",
-        "id": "11308ac14c50",
-        "titre": "\"Nous on se pose la question de freiner...\": l'IA génère déjà un tiers de la croissance américaine, presque rien en France: pourquoi les milliards investis dans les data centers ne rapportent pas encore",
-        "source": "BFM Business",
         "contexte": "Top 5 du jour"
       }
     ],

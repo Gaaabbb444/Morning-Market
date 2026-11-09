@@ -1,7 +1,223 @@
 {
   "version_schema": 1,
-  "mis_a_jour_le": "2026-11-08T10:06:03+01:00",
+  "mis_a_jour_le": "2026-11-09T06:03:32+01:00",
   "entrees": [
+    {
+      "d": "2026-11-09",
+      "i": "1103153f6e1f",
+      "t": "\"Je n'aurais jamais imaginé qu'elle soit aussi élevée\": contrairement à l'Europe, la productivité redécolle aux États-Unis mais pas encore grâce à l’IA",
+      "r": "La forte croissance observée aux États-Unis s'explique en partie par une nette accélération de la productivité. Celle-ci ne provient pas encore des effets de l'intelligence artificielle, mais plutôt des investissements réalisés dans le passé.",
+      "c": "croissance",
+      "s": "BFM Business",
+      "f": null
+    },
+    {
+      "d": "2026-11-09",
+      "i": "3abdd8accd24",
+      "t": "\"Conférence sociale\" du 9 novembre : quelles sont les mesures souhaitées par les Français pour le pouvoir d'achat ?",
+      "r": "Le Premier ministre Sébastien Lecornu reçoit à Matignon les organisations syndicales et le patronat pour une conférence sociale consacrée notamment au pouvoir d'achat, au SMIC et aux salaires.",
+      "c": "desequilibres",
+      "s": "franceinfo",
+      "f": "conjoncture-france"
+    },
+    {
+      "d": "2026-11-09",
+      "i": "8561e3cd574a",
+      "t": "Arabie saoudite : le quartier financier de Riyad attaqué, la tour du géant pétrolier Aramco endommagée",
+      "r": "Le quartier financier du roi Abdallah à Riyad et la tour du géant pétrolier Aramco ont été pris pour cible par des missiles balistiques tirés par les Houthis et interceptés par la coalition.",
+      "c": "finance",
+      "s": "La Tribune",
+      "f": null
+    },
+    {
+      "d": "2026-11-09",
+      "i": "f34ac07902e7",
+      "t": "BCE : qui sont les deux candidats en lice pour remplacer Christine Lagarde ?",
+      "r": "Klaas Knot et Pablo Hernandez de Cos sont les deux candidats officiellement désignés pour succéder à Christine Lagarde à la tête de la Banque centrale européenne, dont le nom du futur dirigeant pourrait être connu en décembre.",
+      "c": "finance",
+      "s": "La Tribune",
+      "f": "inflation-bce"
+    },
+    {
+      "d": "2026-11-09",
+      "i": "eb07f8a2974c",
+      "t": "Le patron de Nvidia, Jensen Huang, reconnaît avoir eu une liaison extraconjugale avec une personne considérée comme une espionne de Pékin",
+      "r": "Le patron de Nvidia, Jensen Huang, a reconnu une liaison avec une personne soupçonnée d'être une espionne de Pékin, conduisant l'entreprise à lancer une enquête interne.",
+      "c": "mondialisation",
+      "s": "Le Monde",
+      "f": null
+    },
+    {
+      "d": "2026-11-09",
+      "i": "d48f4c6ad78d",
+      "t": "La contestation contre les data centers monte en Europe",
+      "r": "Des associations environnementales ont organisé des manifestations dans plusieurs pays européens pour réclamer un moratoire sur les centres de données.",
+      "c": "croissance",
+      "s": "Le Monde",
+      "f": null
+    },
+    {
+      "d": "2026-11-09",
+      "i": "ea522c953096",
+      "t": "1-0 pour l'humanité ? Le vote des élections de mi-mandat aux États-Unis remet l'IA, les centres de données et la tech à leur place",
+      "r": "Les résultats électoraux aux États-Unis marquent une évolution du débat politique, social et financier concernant l'intelligence artificielle et le pouvoir de la Silicon Valley.",
+      "c": "croissance",
+      "s": "The Guardian",
+      "f": "intelligence-artificielle"
+    },
+    {
+      "d": "2026-11-09",
+      "i": "2887e4f706f0",
+      "t": "COP 31 : jugées inefficaces et coûteuses, les conventions climat doivent-elles être réformées ?",
+      "r": "La question de la réforme des conventions climat est ouverte à l'ouverture de la COP 31 en raison de divergences entre États.",
+      "c": "croissance",
+      "s": "Alternatives Économiques",
+      "f": null
+    },
+    {
+      "d": "2026-11-09",
+      "i": "c41bb5910562",
+      "t": "En Nouvelle-Aquitaine, une première dans l’achat groupé d’énergie",
+      "r": "Neuf entreprises en Nouvelle-Aquitaine se sont associées pour un achat groupé d'énergie décarbonée sur une période de quinze ans.",
+      "c": "croissance",
+      "s": "Le Monde",
+      "f": null
+    },
+    {
+      "d": "2026-11-09",
+      "i": "20e38220237b",
+      "t": "Nvidia lance une enquête sur la liaison de son PDG avec une espionne chinoise présumée",
+      "r": "Jensen Huang a admis avoir été infidèle et coopère à une enquête de sécurité menée par Nvidia suite à sa liaison avec une espionne présumée.",
+      "c": "mondialisation",
+      "s": "BBC",
+      "f": null
+    },
+    {
+      "d": "2026-11-09",
+      "i": "1c4034f5bed2",
+      "t": "\"On met en péril la totalité de la chaîne alimentaire\" : bientôt des stocks stratégiques de blé ?",
+      "r": "La France lance une mission pour réfléchir à la constitution de stocks stratégiques de céréales, recommandée par l'Union européenne.",
+      "c": "mondialisation",
+      "s": "franceinfo",
+      "f": null
+    },
+    {
+      "d": "2026-11-09",
+      "i": "525373ac9a1d",
+      "t": "Les bureaux du constructeur automobile chinois BYD aux Pays-Bas perquisitionnés suite à des accusations de copie de véhicule par JLR",
+      "r": "Des huissiers ont saisi des dossiers numériques dans les bureaux néerlandais du constructeur chinois BYD à la suite d'une action en justice de Jaguar Land Rover.",
+      "c": "mondialisation",
+      "s": "The Guardian",
+      "f": "automobile-europe-chine"
+    },
+    {
+      "d": "2026-11-09",
+      "i": "f2a10769bf68",
+      "t": "Ils alertent sur une chute colossale des récoltes: en Amérique latine, les producteurs de bananes étranglés par El Niño et la flambée des coûts",
+      "r": "En Amérique latine, les producteurs de bananes font face à une chute des récoltes provoquée par le changement climatique et la hausse des coûts.",
+      "c": "mondialisation",
+      "s": "BFM Business",
+      "f": null
+    },
+    {
+      "d": "2026-11-09",
+      "i": "6daeef0fc915",
+      "t": "« Justice a été rendue ! » : la chute de Santiago Peña, président destitué du Paraguay, après l’effondrement d’une banque en ligne",
+      "r": "Au Paraguay, le président Santiago Peña a été destitué et placé en détention après la faillite d'une banque en ligne.",
+      "c": "finance",
+      "s": "La Tribune",
+      "f": null
+    },
+    {
+      "d": "2026-11-09",
+      "i": "12f3f77d3de7",
+      "t": "Union de l'épargne et de l'investissement : « Trois priorités ne doivent pas être abandonnées",
+      "r": "",
+      "c": "finance",
+      "s": "Les Echos",
+      "f": null
+    },
+    {
+      "d": "2026-11-09",
+      "i": "40895e801401",
+      "t": "Revendications des syndicats, pistes du gouvernement, fonction publique absente… Trois questions sur la conférence sociale organisée à Matignon",
+      "r": "L'intersyndicale maintient sa mobilisation à l'approche de la conférence sociale organisée à Matignon sur fond de revendications salariales.",
+      "c": "desequilibres",
+      "s": "franceinfo",
+      "f": "conjoncture-france"
+    },
+    {
+      "d": "2026-11-09",
+      "i": "7d73a054d463",
+      "t": "Proposition d'adoption d'une règle d'or en urgence : le coup de com' de Bardella",
+      "r": "Le président du Rassemblement national réclame au gouvernement un projet de loi constitutionnelle pour adopter une règle d'or budgétaire.",
+      "c": "desequilibres",
+      "s": "L'Opinion",
+      "f": "budget-2027"
+    },
+    {
+      "d": "2026-11-09",
+      "i": "3dff157f5aa0",
+      "t": "À l'aube d'un nouvel hiver glacial, des centaines de milliers d'Ukrainiens privés d'électricité après des frappes russes",
+      "r": "Une attaque russe contre les infrastructures énergétiques ukrainiennes prive plus de 600 000 personnes d'électricité dans les régions de Dnipropetrovsk et de Kharkiv.",
+      "c": "desequilibres",
+      "s": "La Tribune",
+      "f": "ukraine-sanctions"
+    },
+    {
+      "d": "2026-11-09",
+      "i": "71cdc42898d7",
+      "t": "Conférence sociale : ce que l'on peut attendre d'une hausse du SMIC",
+      "r": "",
+      "c": "desequilibres",
+      "s": "Les Echos",
+      "f": null
+    },
+    {
+      "d": "2026-11-09",
+      "i": "eaf6761cad13",
+      "t": "Sans croissance, les entreprises françaises peineront à augmenter les salaires, auxquels elles consacrent déjà une large part de leur richesse",
+      "r": "La rémunération du travail est au cœur de la conférence sociale, les entreprises redoutant qu'une hausse des salaires pèse sur leurs marges.",
+      "c": "entreprises",
+      "s": "Le Monde",
+      "f": "conjoncture-france"
+    },
+    {
+      "d": "2026-11-09",
+      "i": "3600df2d0037",
+      "t": "\"Si vous augmentez le SMIC, c'est obligé de maintenir le différentiel des autres salaires\" explique le président des Entrepreneurs Paris Île-de-France",
+      "r": "À la veille de la conférence sociale, les représentants patronaux réclament des allègements de charges et une baisse de la pression fiscale en contrepartie d'une hausse du SMIC.",
+      "c": "entreprises",
+      "s": "franceinfo",
+      "f": "conjoncture-france"
+    },
+    {
+      "d": "2026-11-09",
+      "i": "e11901c1b7ba",
+      "t": "Ils pompent l'eau de l'océan, l'envoient à 4.400 mètres d'altitude en traversant un désert: le chantier dantesque du Chili à 3,5 milliards de dollars pour relancer une mine de cuivre",
+      "r": "Une compagnie minière chilienne réalise un important projet de dessalement d'eau de mer pour alimenter une mine de cuivre située en altitude.",
+      "c": "entreprises",
+      "s": "BFM Business",
+      "f": null
+    },
+    {
+      "d": "2026-11-09",
+      "i": "da3a069f0744",
+      "t": "« Nous avons compris qu'il y avait un changement de paradigme » : Naval Group, Anduril et Boeing lancent la bataille des drones sous-marins géants",
+      "r": "",
+      "c": "entreprises",
+      "s": "Les Echos",
+      "f": null
+    },
+    {
+      "d": "2026-11-09",
+      "i": "0e7ea43e99ec",
+      "t": "Encadrement des loyers : « Investir dans un appartement à Paris est devenu moins rentable que de mettre son argent sur un livret A »",
+      "r": "L'encadrement des loyers à Paris rend l'investissement locatif moins rentable que le livret A, selon un rapport de think tank.",
+      "c": "epargne",
+      "s": "L'Opinion",
+      "f": null
+    },
     {
       "d": "2026-11-08",
       "i": "2fb6c22384c2",

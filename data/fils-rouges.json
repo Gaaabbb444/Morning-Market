@@ -1,6 +1,6 @@
 {
   "version_schema": 1,
-  "mis_a_jour_le": "2026-11-08T10:08:18+01:00",
+  "mis_a_jour_le": "2026-11-09T06:03:57+01:00",
   "fils": [
     {
       "id": "budget-2027",
@@ -1116,8 +1116,8 @@
         "finance",
         "desequilibres"
       ],
-      "ou_en_est_on": "La Banque centrale européenne maintient son principal taux directeur à 2,5 % pour faire face aux tensions inflationnistes, alors que l'inflation en France rebondit à 3,4 % sur un an en octobre en raison de la hausse des prix de l'énergie. Par ailleurs, l'institution se prépare à une transition institutionnelle majeure suite à l'annonce du départ anticipé de sa présidente Christine Lagarde pour le 7 février 2027, sur fond d'incertitudes monétaires persistantes.",
-      "ou_en_est_on_maj_le": "2026-11-02",
+      "ou_en_est_on": "Alors que la Banque centrale européenne a maintenu son principal taux directeur à 2,5 % pour juguler les tensions inflationnistes en zone euro, la succession institutionnelle s'accélère. Klaas Knot et Pablo Hernandez de Cos sont désormais officiellement en lice pour remplacer Christine Lagarde, dont le départ anticipé est programmé pour le 7 février 2027. La désignation du futur président pourrait intervenir dès le mois de décembre.",
+      "ou_en_est_on_maj_le": "2026-11-09",
       "evenements": [
         {
           "date": "2026-10-21",
@@ -1227,6 +1227,17 @@
               "titre": "Démission de Christine Lagarde de la BCE : un départ et de multiples hypothèses",
               "source": "La Tribune",
               "url": "https://www.latribune.fr/article/la-tribune-dimanche/dimanche-eco/18037574320478/demission-de-christine-lagarde-de-la-bce-un-depart-et-de-multiples-hypotheses"
+            }
+          ]
+        },
+        {
+          "date": "2026-11-09",
+          "resume": "Klaas Knot et Pablo Hernandez de Cos ont été officiellement désignés comme candidats pour succéder à Christine Lagarde à la présidence de la BCE, le choix final étant attendu pour décembre.",
+          "liens": [
+            {
+              "titre": "BCE : qui sont les deux candidats en lice pour remplacer Christine Lagarde ?",
+              "source": "La Tribune",
+              "url": "https://www.latribune.fr/article/banques-finance/1061172736547/bce-qui-sont-les-deux-candidats-en-lice-pour-remplacer-christine-lagarde"
             }
           ]
         }
@@ -1530,8 +1541,8 @@
         "mondialisation",
         "croissance"
       ],
-      "ou_en_est_on": "L'accord conclu entre Paris et Berlin pour protéger l'industrie automobile suscite une vive contestation des équipementiers, qui jugent ce texte trop favorable aux constructeurs. La filière s'alarme d'un risque d'accélération des suppressions d'emplois et des fermetures d'usines en Europe. Les acteurs comptent désormais peser sur le vote prévu au Parlement européen à la mi-décembre, dans un contexte déjà marqué par la restructuration des constructeurs face au marché chinois.",
-      "ou_en_est_on_maj_le": "2026-11-08",
+      "ou_en_est_on": "Alors que les équipementiers européens contestent le compromis franco-allemand avant un vote clé au Parlement européen, les frictions judiciaires directes s'accentuent entre constructeurs occidentaux et chinois. L'action en contrefaçon menée par Jaguar Land Rover contre BYD, marquée par des saisies judiciaires aux Pays-Bas, illustre le durcissement de la bataille concurrentielle et industrielle sur le marché automobile européen.",
+      "ou_en_est_on_maj_le": "2026-11-09",
       "evenements": [
         {
           "date": "2026-10-17",
@@ -1595,6 +1606,17 @@
               "titre": "Les équipementiers automobiles s’alarment des conséquences sociales de l’accord franco-allemand",
               "source": "Le Monde",
               "url": "https://www.lemonde.fr/economie/article/2026/11/07/les-equipementiers-automobiles-s-alarment-des-consequences-sociales-de-l-accord-franco-allemand_6808276_3234.html"
+            }
+          ]
+        },
+        {
+          "date": "2026-11-09",
+          "resume": "Les bureaux néerlandais du constructeur chinois BYD ont fait l'objet d'une saisie de documents par des huissiers mandatés par Jaguar Land Rover pour des soupçons de contrefaçon.",
+          "liens": [
+            {
+              "titre": "Chinese carmaker BYD’s offices in Netherlands raided over JLR ‘copycat car’ claim",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/business/2026/nov/08/chinese-carmaker-byd-offices-raided-netherlands-land-rover-copycat-claim"
             }
           ]
         }
@@ -1769,8 +1791,8 @@
         "desequilibres",
         "entreprises"
       ],
-      "ou_en_est_on": "La pression sociale s'intensifie avant la conférence sociale de Matignon, où la revalorisation du salaire minimum cristallise les débats entre syndicats et patronat, le gouvernement soulignant la nécessité de préserver l'emploi. Une quatrième journée de manifestations s'est déroulée contre la vie chère, tandis que la grande distribution alerte sur le recul de la consommation des ménages. Sur le marché du travail, l'Insee indique que le taux de chômage des moins de 25 ans a franchi le seuil des 21 % au deuxième trimestre.",
-      "ou_en_est_on_maj_le": "2026-11-08",
+      "ou_en_est_on": "La conférence sociale s'ouvre à Matignon sous la pression des mobilisations syndicales sur le pouvoir d'achat et les salaires, alors que les commerces parisiens pâtissent de la baisse de fréquentation consécutive aux défilés. Face à l'éventuelle hausse du SMIC, les représentants patronaux réclament des allègements fiscaux et de cotisations, soulignant le risque pesant sur des marges d'entreprises déjà faibles. De leur côté, les ménages continuent d'adapter leur consommation face à l'alourdissement des dépenses contraintes.",
+      "ou_en_est_on_maj_le": "2026-11-09",
       "evenements": [
         {
           "date": "2026-10-17",
@@ -2383,6 +2405,37 @@
               "url": "https://www.latribune.fr/article/la-tribune-dimanche/dimanche-eco/56135547000190/jean-pierre-farandou-ministre-du-travail-et-des-solidarites-on-peut-augmenter-le-smic-a-condition-de-ne-pas-nuire-a-l-emploi"
             }
           ]
+        },
+        {
+          "date": "2026-11-09",
+          "resume": "La conférence sociale s'ouvre à Matignon sur les salaires et le SMIC, dans un contexte où les entreprises redoutent une baisse de leurs marges sans croissance et où les commerces parisiens subissent l'impact des manifestations.",
+          "liens": [
+            {
+              "titre": "\"Conférence sociale\" du 9 novembre : quelles sont les mesures souhaitées par les Français pour le pouvoir d'achat ?",
+              "source": "franceinfo",
+              "url": "https://www.franceinfo.fr/economie/pouvoir-achat/conference-sociale-du-9-novembre-quelles-sont-les-mesures-souhaitees-par-les-francais-pour-le-pouvoir-d-achat_8273360.html#xtor=RSS-3-%5Bgeneral%5D"
+            },
+            {
+              "titre": "Revendications des syndicats, pistes du gouvernement, fonction publique absente… Trois questions sur la conférence sociale organisée à Matignon",
+              "source": "franceinfo",
+              "url": "https://www.franceinfo.fr/economie/pouvoir-achat/revendications-des-syndicats-pistes-du-gouvernement-fonction-publique-absente-trois-questions-sur-la-conference-sociale-organisee-a-matignon_8273354.html#xtor=RSS-3-%5Bgeneral%5D"
+            },
+            {
+              "titre": "Sans croissance, les entreprises françaises peineront à augmenter les salaires, auxquels elles consacrent déjà une large part de leur richesse",
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/economie/article/2026/11/09/sans-croissance-les-entreprises-francaises-peineront-a-augmenter-les-salaires-auxquels-elles-consacrent-deja-une-large-part-de-leur-richesse_6808603_3234.html"
+            },
+            {
+              "titre": "\"Si vous augmentez le SMIC, c'est obligé de maintenir le différentiel des autres salaires\" explique le président des Entrepreneurs Paris Île-de-France",
+              "source": "franceinfo",
+              "url": "https://www.franceinfo.fr/economie/emploi/si-vous-augmentez-le-smic-c-est-oblige-de-maintenir-le-differentiel-des-autres-salaires-explique-le-president-des-entrepreneurs-paris-ile-de-france_8273768.html#xtor=RSS-3-%5Bgeneral%5D"
+            },
+            {
+              "titre": "\"On tend à regarder vers le bas du rayon pour les marques repères\" : dans les feuilles de salaires des Français",
+              "source": "franceinfo",
+              "url": "https://www.franceinfo.fr/economie/pouvoir-achat/on-tend-a-regarder-vers-le-bas-du-rayon-pour-les-marques-reperes-dans-les-feuilles-de-salaires-des-francais_8273717.html#xtor=RSS-3-%5Bgeneral%5D"
+            }
+          ]
         }
       ]
     },
@@ -2397,8 +2450,8 @@
         "entreprises",
         "ue"
       ],
-      "ou_en_est_on": "Le brusque décrochage du Nasdaq après la victoire démocrate aux élections de mi-mandat alimente les craintes d'un krach et d'un resserrement réglementaire sur les investissements dans l'IA. Cette correction affecte directement les projets industriels : la valorisation espérée pour l'introduction en Bourse d'Anthropic a fondu entre 1 100 et 1 300 milliards de dollars, contre 2 000 milliards auparavant. Le secteur fait également face à des contraintes physiques grandissantes d'accès à l'eau et à l'électricité pour ses centres de données.",
-      "ou_en_est_on_maj_le": "2026-11-08",
+      "ou_en_est_on": "Après la correction boursière consécutive aux élections de mi-mandat américaines et la révision à la baisse des valorisations de firmes phares, le secteur de l'intelligence artificielle affronte une montée des contestations sociopolitiques. En Europe, des dizaines d'organisations écologistes exigent désormais un moratoire sur la construction de centres de données, soulignant l'accentuation des pressions réglementaires et des contraintes d'infrastructure sur le modèle de déploiement de l'IA.",
+      "ou_en_est_on_maj_le": "2026-11-09",
       "evenements": [
         {
           "date": "2026-10-17",
@@ -2867,6 +2920,22 @@
               "titre": "Bulle de l'IA : \"on est au début d'un krach\" 📉🫧",
               "source": "BFM Business",
               "url": "https://www.bfmtv.com/economie/video-bulle-de-l-ia-on-est-au-debut-d-un-krach_VN-202611070387.html"
+            }
+          ]
+        },
+        {
+          "date": "2026-11-09",
+          "resume": "Les critiques politiques et environnementales se renforcent autour du secteur, avec des manifestations dans une quinzaine de pays européens réclamant un moratoire sur les centres de données.",
+          "liens": [
+            {
+              "titre": "1-0 to humankind? US midterms vote puts AI, datacentres and the broligarchy back in their box | Heather Stewart",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/business/2026/nov/08/us-midterms-ai-datacentres-broligarchy-voter-backlash"
+            },
+            {
+              "titre": "La contestation contre les data centers monte en Europe",
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/economie/article/2026/11/08/la-contestation-contre-les-data-centers-monte-en-europe_6808448_3234.html"
             }
           ]
         }
