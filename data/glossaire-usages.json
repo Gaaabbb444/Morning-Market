@@ -1,6 +1,170 @@
 {
   "version_schema": 1,
   "notions": {
+    "independance-de-la-banque-centrale": [
+      {
+        "date": "2026-11-10",
+        "id": "d1d0e7a0952b",
+        "titre": "Succession de Christine Lagarde à la tête de la BCE : Paris pourrait soutenir Pablo Hernandez de Cos face à Klaas Knot dans la course à la présidence",
+        "source": "Le Monde",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-11-09",
+        "id": "f34ac07902e7",
+        "titre": "BCE : qui sont les deux candidats en lice pour remplacer Christine Lagarde ?",
+        "source": "La Tribune",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-10-30",
+        "id": "bcc18e705802",
+        "titre": "Christine Lagarde quittera la présidence de la Banque centrale européenne le 7 février 2027",
+        "source": "Toute l'Europe",
+        "contexte": "Top 5 du jour"
+      }
+    ],
+    "budget-de-l-union-europeenne": [
+      {
+        "date": "2026-11-10",
+        "id": "14842b10ab78",
+        "titre": "\"Tous, sans exception\": l’Allemagne exige que chaque pays de l’UE contribue équitablement au financement de l’Ukraine avant de négocier le prochain budget européen",
+        "source": "BFM Business",
+        "contexte": "Top 5 du jour"
+      }
+    ],
+    "pib-produit-interieur-brut": [
+      {
+        "date": "2026-11-10",
+        "id": "d07c044d5ca2",
+        "titre": "Prix des carburants, mobilisations sociales, débats budgétaires: face à une situation très incertaine, la Banque de France s'attend à une croissance modérée du PIB au quatrième trimestre",
+        "source": "BFM Business",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-11-05",
+        "id": "70624f076922",
+        "titre": "Une croissance de 0,5 % en 2026 est « difficilement atteignable », selon le Haut Conseil des finances publiques",
+        "source": "Le Monde",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-11-04",
+        "id": "225e71a6c917",
+        "titre": "Récession française : la consommation tient mais l’industrie plonge",
+        "source": "L'Opinion",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-10-30",
+        "id": "86940beef10b",
+        "titre": "Le PIB recule légèrement au troisième trimestre 2026 (-0,1 % après 0,0 %)",
+        "source": "INSEE",
+        "contexte": "Top 5 du jour"
+      }
+    ],
+    "deficit-public-et-solde-primaire": [
+      {
+        "date": "2026-11-10",
+        "id": "1cf014e395d8",
+        "titre": "La Cour des comptes repart à la charge contre les niches fiscales",
+        "source": "Le Monde",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-11-05",
+        "id": "fa30e66b169d",
+        "titre": "Budget 2027 : avant la bataille, l’État annule 3,8 milliards de crédits pour 2026",
+        "source": "Capital",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-11-03",
+        "id": "18db03c9d05f",
+        "titre": "« Ils ne tiennent plus le manche » : le budget de Sébastien Lecornu s’enfonce dans l’impasse",
+        "source": "L'Opinion",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-11-02",
+        "id": "72cc7fef130b",
+        "titre": "Budget : comment le gouvernement compte réduire de plus de 9 milliards d’euros le déficit de la Sécurité sociale",
+        "source": "Le Figaro",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-10-30",
+        "id": "5af0963a4958",
+        "titre": "Budget 2027 : les députés votent 28 milliards d’euros de dépenses supplémentaires",
+        "source": "Le Figaro",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-10-27",
+        "id": "36ad0562eb79",
+        "titre": "L'objectif de déficit public de 5% \"reste intangible\": David Amiel prévient que les 5 milliards d'euros pour répondre à la colère lycéenne devront \"être financés par des efforts supplémentaires\"",
+        "source": "BFM Business",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-10-26",
+        "id": "c26fa3c4d999",
+        "titre": "La colère sociale fragilise encore davantage les perspectives économiques de la France",
+        "source": "Le Monde",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-10-21",
+        "id": "6d9f67eeb539",
+        "titre": "Budget de la Sécu 2027 : la Cour des comptes juge «fragile» l’objectif de 12,7 milliards d'euros de déficit",
+        "source": "Capital",
+        "contexte": "Concept du jour"
+      },
+      {
+        "date": "2026-10-20",
+        "id": "2f73fb7a1b50",
+        "titre": "Budget 2027 : l’Assemblée nationale multiplie les cadeaux fiscaux non chiffrés",
+        "source": "Le Figaro",
+        "contexte": "Top 5 du jour"
+      }
+    ],
+    "inflation-par-la-demande-et-par-les-couts": [
+      {
+        "date": "2026-11-10",
+        "id": "7ff4f93fefb9",
+        "titre": "Le prix de référence du gaz augmentera encore en décembre, de 5,8%",
+        "source": "franceinfo",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-11-03",
+        "id": "6130605ab766",
+        "titre": "Carburants : la baisse du prix du gazole peut-elle durer ?",
+        "source": "franceinfo",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-10-31",
+        "id": "e88b04e610e0",
+        "titre": "Plus de 50 milliards de dollars de bénéfices au troisième trimestre: les géants du pétrole enregistrent des résultats records sur fond de tensions géopolitiques et de flambée des prix des hydrocarbures",
+        "source": "BFM Business",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-10-29",
+        "id": "ddbabbca0389",
+        "titre": "L’Europe entre dans la saison du chauffage avec des prix du gaz au plus haut",
+        "source": "Le Monde",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-10-18",
+        "id": "db61fda82ea6",
+        "titre": "Dans les rayons, la hausse des prix des produits frais risque de se poursuivre",
+        "source": "BFM Business",
+        "contexte": "Top 5 du jour"
+      }
+    ],
     "paradoxe-de-solow-paradoxe-de-la-productivite": [
       {
         "date": "2026-11-09",
@@ -82,22 +246,6 @@
         "titre": "\"Un superpétrolier a heurté une mine\": l'Iran intensifie ses attaques dans le détroit d'Ormuz, alors que le baril de pétrole frôle à nouveau les 110 dollars",
         "source": "BFM Business",
         "contexte": "Concept du jour"
-      }
-    ],
-    "independance-de-la-banque-centrale": [
-      {
-        "date": "2026-11-09",
-        "id": "f34ac07902e7",
-        "titre": "BCE : qui sont les deux candidats en lice pour remplacer Christine Lagarde ?",
-        "source": "La Tribune",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-10-30",
-        "id": "bcc18e705802",
-        "titre": "Christine Lagarde quittera la présidence de la Banque centrale européenne le 7 février 2027",
-        "source": "Toute l'Europe",
-        "contexte": "Top 5 du jour"
       }
     ],
     "chaine-de-valeur-mondiale": [
@@ -369,64 +517,6 @@
         "contexte": "Top 5 du jour"
       }
     ],
-    "deficit-public-et-solde-primaire": [
-      {
-        "date": "2026-11-05",
-        "id": "fa30e66b169d",
-        "titre": "Budget 2027 : avant la bataille, l’État annule 3,8 milliards de crédits pour 2026",
-        "source": "Capital",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-11-03",
-        "id": "18db03c9d05f",
-        "titre": "« Ils ne tiennent plus le manche » : le budget de Sébastien Lecornu s’enfonce dans l’impasse",
-        "source": "L'Opinion",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-11-02",
-        "id": "72cc7fef130b",
-        "titre": "Budget : comment le gouvernement compte réduire de plus de 9 milliards d’euros le déficit de la Sécurité sociale",
-        "source": "Le Figaro",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-10-30",
-        "id": "5af0963a4958",
-        "titre": "Budget 2027 : les députés votent 28 milliards d’euros de dépenses supplémentaires",
-        "source": "Le Figaro",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-10-27",
-        "id": "36ad0562eb79",
-        "titre": "L'objectif de déficit public de 5% \"reste intangible\": David Amiel prévient que les 5 milliards d'euros pour répondre à la colère lycéenne devront \"être financés par des efforts supplémentaires\"",
-        "source": "BFM Business",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-10-26",
-        "id": "c26fa3c4d999",
-        "titre": "La colère sociale fragilise encore davantage les perspectives économiques de la France",
-        "source": "Le Monde",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-10-21",
-        "id": "6d9f67eeb539",
-        "titre": "Budget de la Sécu 2027 : la Cour des comptes juge «fragile» l’objectif de 12,7 milliards d'euros de déficit",
-        "source": "Capital",
-        "contexte": "Concept du jour"
-      },
-      {
-        "date": "2026-10-20",
-        "id": "2f73fb7a1b50",
-        "titre": "Budget 2027 : l’Assemblée nationale multiplie les cadeaux fiscaux non chiffrés",
-        "source": "Le Figaro",
-        "contexte": "Top 5 du jour"
-      }
-    ],
     "politique-budgetaire": [
       {
         "date": "2026-11-05",
@@ -492,29 +582,6 @@
         "contexte": "Top 5 du jour"
       }
     ],
-    "pib-produit-interieur-brut": [
-      {
-        "date": "2026-11-05",
-        "id": "70624f076922",
-        "titre": "Une croissance de 0,5 % en 2026 est « difficilement atteignable », selon le Haut Conseil des finances publiques",
-        "source": "Le Monde",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-11-04",
-        "id": "225e71a6c917",
-        "titre": "Récession française : la consommation tient mais l’industrie plonge",
-        "source": "L'Opinion",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-10-30",
-        "id": "86940beef10b",
-        "titre": "Le PIB recule légèrement au troisième trimestre 2026 (-0,1 % après 0,0 %)",
-        "source": "INSEE",
-        "contexte": "Top 5 du jour"
-      }
-    ],
     "pacte-de-stabilite-et-de-croissance": [
       {
         "date": "2026-11-05",
@@ -560,36 +627,6 @@
         "id": "f2444713c4aa",
         "titre": "Croissance en berne et inflation en hausse : ce spectre de la récession qui plane sur la France",
         "source": "Le Figaro",
-        "contexte": "Top 5 du jour"
-      }
-    ],
-    "inflation-par-la-demande-et-par-les-couts": [
-      {
-        "date": "2026-11-03",
-        "id": "6130605ab766",
-        "titre": "Carburants : la baisse du prix du gazole peut-elle durer ?",
-        "source": "franceinfo",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-10-31",
-        "id": "e88b04e610e0",
-        "titre": "Plus de 50 milliards de dollars de bénéfices au troisième trimestre: les géants du pétrole enregistrent des résultats records sur fond de tensions géopolitiques et de flambée des prix des hydrocarbures",
-        "source": "BFM Business",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-10-29",
-        "id": "ddbabbca0389",
-        "titre": "L’Europe entre dans la saison du chauffage avec des prix du gaz au plus haut",
-        "source": "Le Monde",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-10-18",
-        "id": "db61fda82ea6",
-        "titre": "Dans les rayons, la hausse des prix des produits frais risque de se poursuivre",
-        "source": "BFM Business",
         "contexte": "Top 5 du jour"
       }
     ],

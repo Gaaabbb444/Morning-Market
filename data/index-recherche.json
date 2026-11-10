@@ -1,7 +1,304 @@
 {
   "version_schema": 1,
-  "mis_a_jour_le": "2026-11-09T10:28:59+01:00",
+  "mis_a_jour_le": "2026-11-10T05:52:57+01:00",
   "entrees": [
+    {
+      "d": "2026-11-10",
+      "i": "d1d0e7a0952b",
+      "t": "Succession de Christine Lagarde à la tête de la BCE : Paris pourrait soutenir Pablo Hernandez de Cos face à Klaas Knot dans la course à la présidence",
+      "r": "Emmanuel Macron et Friedrich Merz ont discuté ce week-end de la succession de Christine Lagarde à la tête de la Banque centrale européenne. Paris et Berlin espèrent départager les candidats espagnol Pablo Hernández de Cos et néerlandais Klaas Knot d'ici à quinze jours.",
+      "c": "finance",
+      "s": "Le Monde",
+      "f": null
+    },
+    {
+      "d": "2026-11-10",
+      "i": "14842b10ab78",
+      "t": "\"Tous, sans exception\": l’Allemagne exige que chaque pays de l’UE contribue équitablement au financement de l’Ukraine avant de négocier le prochain budget européen",
+      "r": "Dans une lettre adressée au président du Conseil européen, le chancelier allemand Friedrich Merz a réclamé un engagement de tous les pays de l'Union européenne à combler le déficit budgétaire de l'Ukraine avant d'entamer les discussions sur le prochain budget européen.",
+      "c": "ue",
+      "s": "BFM Business",
+      "f": "budget-ue"
+    },
+    {
+      "d": "2026-11-10",
+      "i": "d07c044d5ca2",
+      "t": "Prix des carburants, mobilisations sociales, débats budgétaires: face à une situation très incertaine, la Banque de France s'attend à une croissance modérée du PIB au quatrième trimestre",
+      "r": "La Banque de France a indiqué s'attendre à une croissance modérée du PIB français au quatrième trimestre, en raison d'une situation très incertaine marquée par les prix des carburants, les mobilisations sociales et les débats budgétaires.",
+      "c": "croissance",
+      "s": "BFM Business",
+      "f": "conjoncture-france"
+    },
+    {
+      "d": "2026-11-10",
+      "i": "1cf014e395d8",
+      "t": "La Cour des comptes repart à la charge contre les niches fiscales",
+      "r": "La Cour des comptes a souligné que le coût des niches et exonérations fiscales a augmenté de 42 % en euros constants en vingt ans, la France comptant encore 459 dispositifs dérogatoires qui fragilisent la norme fiscale.",
+      "c": "desequilibres",
+      "s": "Le Monde",
+      "f": null
+    },
+    {
+      "d": "2026-11-10",
+      "i": "7ff4f93fefb9",
+      "t": "Le prix de référence du gaz augmentera encore en décembre, de 5,8%",
+      "r": "La présidente de la CRE a annoncé que le prix de référence du gaz augmentera de 5,8 % en décembre, reflétant des prix de marché internationaux orientés à la hausse en raison d'une diminution de l'offre depuis la crise dans le détroit d'Ormuz.",
+      "c": "desequilibres",
+      "s": "franceinfo",
+      "f": "choc-petrolier-ormuz"
+    },
+    {
+      "d": "2026-11-10",
+      "i": "b8f2116afa3c",
+      "t": "Sécurité de l’IA : l’Elysée fait signer un « appel de Paris » à huit pays ainsi qu’à Sam Altman, Dario Amodei et Arthur Mensch",
+      "r": "Emmanuel Macron a réuni des dirigeants et des pays pour signer un appel plaidant pour des standards communs de classement des incidents liés à l'IA.",
+      "c": "croissance",
+      "s": "Le Monde",
+      "f": "intelligence-artificielle"
+    },
+    {
+      "d": "2026-11-10",
+      "i": "9c3af46fc80b",
+      "t": "Anthropic lance Fable 5.2, une version plus puissante et moins coûteuse de son modèle d’intelligence artificielle",
+      "r": "Anthropic lance Fable 5.2, une version plus puissante et moins coûteuse de son modèle d'intelligence artificielle, accessible à tous.",
+      "c": "croissance",
+      "s": "Le Figaro",
+      "f": "intelligence-artificielle"
+    },
+    {
+      "d": "2026-11-10",
+      "i": "6749a7638edc",
+      "t": "« Je ne comprends pas votre acharnement » : passe d’armes entre Arthur Mensch et la sénatrice Laure Darcos autour de sa proposition de loi sur les droits d’auteur et l’IA",
+      "r": "Le directeur général de Mistral AI critique une proposition de loi instaurant une présomption d'utilisation des contenus pour l'entraînement des IA.",
+      "c": "croissance",
+      "s": "Le Figaro",
+      "f": "intelligence-artificielle"
+    },
+    {
+      "d": "2026-11-10",
+      "i": "4cce9e8f395a",
+      "t": "Data centers : en pleine contestation sociétale, la filière appelle à plus de « pédagogie »",
+      "r": "Face aux contestations citoyennes et environnementales, la filière des data centers en France appelle à une plus grande pédagogie.",
+      "c": "croissance",
+      "s": "La Tribune",
+      "f": "intelligence-artificielle"
+    },
+    {
+      "d": "2026-11-10",
+      "i": "bc904b4f9aa6",
+      "t": "Le scandale autour de Jensen Huang happe un fervent partisan de la détente entre la Chine et les États-Unis",
+      "r": "Une affaire d'espionnage érafle la trêve entre la Chine et les États-Unis à la veille d'une visite ministérielle.",
+      "c": "mondialisation",
+      "s": "Le Figaro",
+      "f": null
+    },
+    {
+      "d": "2026-11-10",
+      "i": "dbac9c9134f9",
+      "t": "Guerre en Ukraine : à Abu Dhabi, l’Europe au menu mais pas à la table des négociations",
+      "r": "Moscou et Kiev ont accepté de participer à des négociations tripartites avec Washington organisées à Abu Dhabi.",
+      "c": "mondialisation",
+      "s": "L'Opinion",
+      "f": "ukraine-sanctions"
+    },
+    {
+      "d": "2026-11-10",
+      "i": "af27904d2dfd",
+      "t": "Attaques de navires en mer Noire : Ursula von der Leyen en Roumanie et en Bulgarie",
+      "r": "La présidente de la Commission européenne réaffirme la nécessité de rétablir la liberté de navigation en mer Noire lors de déplacements en Bulgarie et en Roumanie.",
+      "c": "mondialisation",
+      "s": "Toute l'Europe",
+      "f": null
+    },
+    {
+      "d": "2026-11-10",
+      "i": "db72dfe82ec0",
+      "t": "Maud Quessard : « La mise sous tutelle de l’Europe va rester au cœur du projet de Trump »",
+      "r": "Le revers des républicains aux élections de mi-mandat pourrait influencer la diplomatie américaine et les relations transatlantiques selon une experte.",
+      "c": "mondialisation",
+      "s": "Alternatives Économiques",
+      "f": null
+    },
+    {
+      "d": "2026-11-10",
+      "i": "eeb5159317df",
+      "t": "Nvidia : une tromperie de Jensen Huang qui coûte cher",
+      "r": "Les révélations concernant le PDG de Nvidia, Jensen Huang, font peser des incertitudes sur la gouvernance et la valorisation de l'entreprise.",
+      "c": "finance",
+      "s": "BFM Business",
+      "f": null
+    },
+    {
+      "d": "2026-11-10",
+      "i": "9e88044f20ea",
+      "t": "Thames Water demande à ses créanciers plus de temps pour rembourser sa dette de 20 milliards de livres",
+      "r": "La principale entreprise de distribution d'eau britannique a demandé à ses créanciers de reporter une partie de l'échéance de sa dette à mars 2028.",
+      "c": "finance",
+      "s": "The Guardian",
+      "f": null
+    },
+    {
+      "d": "2026-11-10",
+      "i": "01f52f780c4a",
+      "t": "Bourse : pourquoi Legrand joue dans la cour des grands de l'IA ? Et quel potentiel ? L'oeil du Loup de Zurich",
+      "r": "Legrand profite en Bourse de l'essor des data centers et des investissements liés à l'intelligence artificielle.",
+      "c": "finance",
+      "s": "Capital",
+      "f": "intelligence-artificielle"
+    },
+    {
+      "d": "2026-11-10",
+      "i": "7c114ee6efd9",
+      "t": "Le crédit européen résiste à la correction des valeurs tech américaines en Bourse",
+      "r": "",
+      "c": "finance",
+      "s": "Les Echos",
+      "f": null
+    },
+    {
+      "d": "2026-11-10",
+      "i": "6c653c6d8a88",
+      "t": "High fossil fuel prices spread inflation ‘like a cancer’, UN climate chief tells Cop31",
+      "r": "Le chef de l'ONU pour le climat a déclaré qu'une crise mondiale des prix des énergies fossiles propage l'inflation à travers la planète.",
+      "c": "desequilibres",
+      "s": "The Guardian",
+      "f": "inflation-bce"
+    },
+    {
+      "d": "2026-11-10",
+      "i": "a5d45c380ad2",
+      "t": "\"Si le Smic augmente, je suis obligé d'augmenter les autres\" : la hausse du salaire minimum vue par des salariés et dirigeants de PME",
+      "r": "La hausse du Smic au-dessus de 1 500 euros suscite des inquiétudes parmi les PME quant à la répercussion sur l'ensemble de la grille des salaires.",
+      "c": "desequilibres",
+      "s": "franceinfo",
+      "f": null
+    },
+    {
+      "d": "2026-11-10",
+      "i": "ac5d2efc094d",
+      "t": "Les TPE du bâtiment \"sont déjà au maximum\" et \"ne peuvent pas augmenter les salaires\", déplore le président de la Capeb après l'annonce de la hausse du smic",
+      "r": "Les TPE du bâtiment n'ont pas de marge de manœuvre pour augmenter les salaires en raison d'un manque d'activité conjoncturel.",
+      "c": "desequilibres",
+      "s": "franceinfo",
+      "f": "conjoncture-france"
+    },
+    {
+      "d": "2026-11-10",
+      "i": "900f3fa59445",
+      "t": "La hausse du smic par le gouvernement est une \"rupture symbolique\", estime l'économiste Michaël Zemmour",
+      "r": "La hausse du SMIC annoncée constitue une rupture symbolique et pourrait encourager les négociations salariales dans les entreprises selon l'économiste Michaël Zemmour.",
+      "c": "desequilibres",
+      "s": "franceinfo",
+      "f": "conjoncture-france"
+    },
+    {
+      "d": "2026-11-10",
+      "i": "85d05992c1c8",
+      "t": "« L'avenir en commun » de Jean-Luc Mélenchon, un programme de crise européenne",
+      "r": "Les mesures du programme de La France insoumise présenté par Jean-Luc Mélenchon pourraient placer la France au ban de l'Union européenne.",
+      "c": "ue",
+      "s": "L'Opinion",
+      "f": null
+    },
+    {
+      "d": "2026-11-10",
+      "i": "b27678e41885",
+      "t": "Défense : comment le dialogue franco-allemand se perpétue malgré tout",
+      "r": "La coopération militaire franco-allemande se poursuit malgré des difficultés sur certains projets conjoints.",
+      "c": "ue",
+      "s": "L'Opinion",
+      "f": null
+    },
+    {
+      "d": "2026-11-10",
+      "i": "1d33d0b4e243",
+      "t": "L'UE poursuit IBM et deux entreprises européennes concernant le système frontalier d'entrée/sortie en difficulté",
+      "r": "L'agence informatique de l'UE a engagé des poursuites judiciaires contre IBM, Atos et Leonardo en raison de retards dans la mise en place du nouveau système de gestion des frontières.",
+      "c": "ue",
+      "s": "The Guardian",
+      "f": null
+    },
+    {
+      "d": "2026-11-10",
+      "i": "bed0bc6c668e",
+      "t": "L'Europe dégaine un fonds de 10 milliards pour ses champions de la tech, mais sans la France",
+      "r": "",
+      "c": "ue",
+      "s": "Les Echos",
+      "f": null
+    },
+    {
+      "d": "2026-11-10",
+      "i": "eec41a5bd778",
+      "t": "Boeing va supprimer environ 5 % de ses effectifs dans l'aviation commerciale",
+      "r": "Boeing annonce la suppression d'environ 5 % de ses effectifs dans sa division d'avions commerciaux tout en modérant sa cadence de production.",
+      "c": "entreprises",
+      "s": "The Guardian",
+      "f": null
+    },
+    {
+      "d": "2026-11-10",
+      "i": "97a51e24a238",
+      "t": "Boeing taille dans ses effectifs: freiné par une production moins rapide que prévu, l’avionneur américain va supprimer 5% des postes dans l'aviation commerciale",
+      "r": "Boeing annonce la suppression de 5 % de ses postes dans l'aviation commerciale en raison d'une croissance de production inférieure aux prévisions.",
+      "c": "entreprises",
+      "s": "BFM Business",
+      "f": null
+    },
+    {
+      "d": "2026-11-10",
+      "i": "4cc2f1f340e2",
+      "t": "La France va se doter d'une nouvelle génération de satellites espions ultra performants",
+      "r": "La France attribue un contrat de plus de 1,5 milliard d'euros à Airbus et Thales pour la réalisation de la nouvelle génération de satellites militaires d'observation.",
+      "c": "entreprises",
+      "s": "La Tribune",
+      "f": null
+    },
+    {
+      "d": "2026-11-10",
+      "i": "f83d5fa2f1d5",
+      "t": "Affaire Nvidia : pourquoi la liaison de Jensen Huang avec une espionne chinoise pourrait faire vaciller tout le secteur de l’IA",
+      "r": "La liaison extraconjugueelle du PDG de Nvidia, Jensen Huang, fragilise la gouvernance du géant technologique et l'ensemble de son écosystème financier.",
+      "c": "entreprises",
+      "s": "Le Figaro",
+      "f": null
+    },
+    {
+      "d": "2026-11-10",
+      "i": "5bf6adf8b95a",
+      "t": "Nucléaire, lycées, défense... Comment l'Etat veut siphonner le Livret A",
+      "r": "Le gouvernement envisage de modifier le plafond et le taux du Livret A pour financer de nouveaux secteurs au-delà de l'habitat social.",
+      "c": "epargne",
+      "s": "Alternatives Économiques",
+      "f": "fiscalite-epargne-patrimoine"
+    },
+    {
+      "d": "2026-11-10",
+      "i": "e1b16a8851cd",
+      "t": "Pouvoir d'achat : bientôt 5 000 euros à toucher de l'épargne salariale",
+      "r": "Une proposition de loi soutenue par le gouvernement, examinée à l'Assemblée, permet un déblocage anticipé exceptionnel de l'épargne salariale.",
+      "c": "epargne",
+      "s": "L'Opinion",
+      "f": null
+    },
+    {
+      "d": "2026-11-10",
+      "i": "b377da4a4bce",
+      "t": "Simulation retraite bloquée par une erreur : que faire ?",
+      "r": "Une période de carrière mal enregistrée peut bloquer la simulation de retraite, nécessitant des solutions pour débloquer la situation.",
+      "c": "epargne",
+      "s": "Capital",
+      "f": "retraites"
+    },
+    {
+      "d": "2026-11-10",
+      "i": "f6342fbe8256",
+      "t": "Pour financer le foncier agricole de futurs exploitants, Feve mobilise l'épargne solidaire",
+      "r": "",
+      "c": "epargne",
+      "s": "Les Echos",
+      "f": null
+    },
     {
       "d": "2026-11-09",
       "i": "1103153f6e1f",

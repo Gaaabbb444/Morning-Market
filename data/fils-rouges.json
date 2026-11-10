@@ -1,6 +1,6 @@
 {
   "version_schema": 1,
-  "mis_a_jour_le": "2026-11-09T10:33:27+01:00",
+  "mis_a_jour_le": "2026-11-10T05:53:13+01:00",
   "fils": [
     {
       "id": "budget-2027",
@@ -1103,6 +1103,17 @@
               "url": "https://www.theguardian.com/world/2026/nov/07/strait-of-hormuz-qatar-plan-iran-nuclear-inspections"
             }
           ]
+        },
+        {
+          "date": "2026-11-10",
+          "resume": "Le prix de référence du gaz augmentera de 5,8 % en décembre en raison d'une offre réduite liée à la crise dans le détroit d'Ormuz.",
+          "liens": [
+            {
+              "titre": "Le prix de référence du gaz augmentera encore en décembre, de 5,8%",
+              "source": "franceinfo",
+              "url": "https://www.franceinfo.fr/environnement/energie/le-prix-de-reference-du-gaz-augmentera-encore-en-decembre-de-5-8_8274680.html#xtor=RSS-3-%5Bgeneral%5D"
+            }
+          ]
         }
       ]
     },
@@ -1377,6 +1388,17 @@
               "titre": "Sécurité européenne : les dirigeants européens rejettent le projet d’accord de Trump avec Moscou",
               "source": "L'Opinion",
               "url": "https://www.lopinion.fr/international/securite-europeenne-les-dirigeants-europeens-rejettent-le-projet-daccord-de-trump-avec-moscou"
+            }
+          ]
+        },
+        {
+          "date": "2026-11-10",
+          "resume": "Moscou et Kiev ont accepté de participer à des négociations tripartites avec Washington organisées à Abu Dhabi.",
+          "liens": [
+            {
+              "titre": "Guerre en Ukraine : à Abu Dhabi, l’Europe au menu mais pas à la table des négociations",
+              "source": "L'Opinion",
+              "url": "https://www.lopinion.fr/international/guerre-en-ukraine-a-abu-dhabi-leurope-au-menu-mais-pas-a-la-table-des-negociations"
             }
           ]
         }
@@ -1791,8 +1813,8 @@
         "desequilibres",
         "entreprises"
       ],
-      "ou_en_est_on": "La conférence sociale s'ouvre à Matignon sous la pression de la mobilisation syndicale pour le pouvoir d'achat et le relèvement du Smic. Le gouvernement est partagé entre l'urgence de répondre au mécontentement social et la défense d'un équilibre pour préserver l'emploi et les marges des entreprises. Alors que les organisations syndicales réclament des hausses importantes, le patronat, par la voix de l'U2P, avertit qu'il ne pourra supporter de telles hausses sans un retour sur le gel des allègements de cotisations. Parallèlement, la flambée des prix dans certains secteurs, comme les transports aériens, continue de peser sur le budget des ménages.",
-      "ou_en_est_on_maj_le": "2026-11-09",
+      "ou_en_est_on": "La conférence sociale s'ouvre à Matignon alors que le gouvernement annonce une revalorisation du Smic de 1,6 % pour répondre au mécontentement sur le pouvoir d'achat. Si certains économistes et le patronat redoutent un impact négatif sur l'emploi, la compétitivité et les marges des entreprises, cette mesure suscite des débats sur la structure des grilles salariales. En parallèle, la Banque de France anticipe une croissance modérée du PIB pour le quatrième trimestre dans un climat d'incertitude économique et sociale.",
+      "ou_en_est_on_maj_le": "2026-11-10",
       "evenements": [
         {
           "date": "2026-10-17",
@@ -2436,6 +2458,37 @@
               "url": "https://www.franceinfo.fr/economie/pouvoir-achat/on-tend-a-regarder-vers-le-bas-du-rayon-pour-les-marques-reperes-dans-les-feuilles-de-salaires-des-francais_8273717.html#xtor=RSS-3-%5Bgeneral%5D"
             }
           ]
+        },
+        {
+          "date": "2026-11-10",
+          "resume": "Face à la contestation sociale, le gouvernement annonce une hausse du Smic de 1,6 % au 1er décembre et ouvre le chantier de la réforme des allègements de charges, suscitant l'inquiétude des entreprises et des critiques d'économistes sur l'emploi.",
+          "liens": [
+            {
+              "titre": "Prix des carburants, mobilisations sociales, débats budgétaires: face à une situation très incertaine, la Banque de France s'attend à une croissance modérée du PIB au quatrième trimestre",
+              "source": "BFM Business",
+              "url": "https://www.bfmtv.com/economie/prix-des-carburants-mobilisations-sociales-debats-budgetaires-face-a-une-situation-tres-incertaine-la-banque-de-france-s-attend-a-une-croissance-moderee-du-pib-au-quatrieme-trimestre_AD-202611090879.html"
+            },
+            {
+              "titre": "Les TPE du bâtiment \"sont déjà au maximum\" et \"ne peuvent pas augmenter les salaires\", déplore le président de la Capeb après l'annonce de la hausse du smic",
+              "source": "franceinfo",
+              "url": "https://www.franceinfo.fr/economie/les-tpe-du-batiment-sont-deja-au-maximum-et-ne-peuvent-pas-augmenter-les-salaires-deplore-le-president-de-la-capeb-apres-l-annonce-de-la-hausse-du-smic_8275205.html#xtor=RSS-3-%5Bgeneral%5D"
+            },
+            {
+              "titre": "La hausse du smic par le gouvernement est une \"rupture symbolique\", estime l'économiste Michaël Zemmour",
+              "source": "franceinfo",
+              "url": "https://www.franceinfo.fr/replay-radio/la-question-des-informes/la-hausse-du-smic-par-le-gouvernement-est-une-rupture-symbolique-estime-l-economiste-michael-zemmour_8253634.html#xtor=RSS-3-%5Bgeneral%5D"
+            },
+            {
+              "titre": "Social : Sébastien Lecornu s’achète du temps",
+              "source": "L'Opinion",
+              "url": "https://www.lopinion.fr/economie/social-sebastien-lecornu-sachete-du-temps"
+            },
+            {
+              "titre": "« Qui se demande comment les entreprises vont financer toutes ces augmentations ? » : les chefs d’entreprise inquiets de la hausse du smic",
+              "source": "Le Figaro",
+              "url": "https://www.lefigaro.fr/economie/qui-se-demande-comment-les-entreprises-vont-financer-toutes-ces-augmentations-les-chefs-d-entreprise-inquiets-de-la-hausse-du-smic-20261109"
+            }
+          ]
         }
       ]
     },
@@ -2936,6 +2989,37 @@
               "titre": "La contestation contre les data centers monte en Europe",
               "source": "Le Monde",
               "url": "https://www.lemonde.fr/economie/article/2026/11/08/la-contestation-contre-les-data-centers-monte-en-europe_6808448_3234.html"
+            }
+          ]
+        },
+        {
+          "date": "2026-11-10",
+          "resume": "L'Élysée réunit plusieurs pays et dirigeants technologiques pour signer un appel en faveur de standards communs de sécurité de l'IA, tandis que le secteur continue de lancer de nouveaux modèles et fait face à des contestations croissantes sur les centres de données.",
+          "liens": [
+            {
+              "titre": "Sécurité de l’IA : l’Elysée fait signer un « appel de Paris » à huit pays ainsi qu’à Sam Altman, Dario Amodei et Arthur Mensch",
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/economie/article/2026/11/09/securite-de-l-ia-l-elysee-fait-signer-un-appel-de-paris-a-huit-pays-ainsi-qu-a-sam-altman-dario-amodei-et-arthur-mensch_6808706_3234.html"
+            },
+            {
+              "titre": "Anthropic lance Fable 5.2, une version plus puissante et moins coûteuse de son modèle d’intelligence artificielle",
+              "source": "Le Figaro",
+              "url": "https://www.lefigaro.fr/secteur/high-tech/anthropic-lance-fable-5-2-une-version-plus-puissante-et-moins-couteuse-de-son-modele-d-intelligence-artificielle-20261109"
+            },
+            {
+              "titre": "« Je ne comprends pas votre acharnement » : passe d’armes entre Arthur Mensch et la sénatrice Laure Darcos autour de sa proposition de loi sur les droits d’auteur et l’IA",
+              "source": "Le Figaro",
+              "url": "https://www.lefigaro.fr/medias/je-ne-comprends-pas-votre-acharnement-passe-d-armes-entre-arthur-mensch-et-la-senatrice-laure-darcos-autour-de-sa-proposition-de-loi-sur-les-droits-d-auteur-et-l-ia-20261109"
+            },
+            {
+              "titre": "The Guardian view on Jensen Huang’s affair: why did Trump ignore the warnings? | Editorial",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/commentisfree/2026/nov/09/the-guardian-view-on-jensen-huangs-affair-why-did-trump-ignore-the-warnings"
+            },
+            {
+              "titre": "Data centers : en pleine contestation sociétale, la filière appelle à plus de « pédagogie »",
+              "source": "La Tribune",
+              "url": "https://www.latribune.fr/article/tech/2647579992407314/data-centers-en-pleine-contestation-societale-la-filiere-appelle-a-plus-de-pedagogie"
             }
           ]
         }
