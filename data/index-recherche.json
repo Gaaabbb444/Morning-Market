@@ -1,6 +1,6 @@
 {
   "version_schema": 1,
-  "mis_a_jour_le": "2026-11-10T05:52:57+01:00",
+  "mis_a_jour_le": "2026-11-10T10:08:04+01:00",
   "entrees": [
     {
       "d": "2026-11-10",
@@ -85,6 +85,15 @@
     },
     {
       "d": "2026-11-10",
+      "i": "77db15343581",
+      "t": "La croissance du PIB en 2026 attendue «autour de 0,3%» plutôt que 0,4%, déclare le gouverneur de la Banque de France",
+      "r": "Le gouverneur de la Banque de France abaisse la prévision de croissance du PIB pour 2026 à environ 0,3 %, tout en écartant le risque de récession.",
+      "c": "croissance",
+      "s": "Le Figaro",
+      "f": "conjoncture-france"
+    },
+    {
+      "d": "2026-11-10",
       "i": "bc904b4f9aa6",
       "t": "Le scandale autour de Jensen Huang happe un fervent partisan de la détente entre la Chine et les États-Unis",
       "r": "Une affaire d'espionnage érafle la trêve entre la Chine et les États-Unis à la veille d'une visite ministérielle.",
@@ -118,6 +127,15 @@
       "c": "mondialisation",
       "s": "Alternatives Économiques",
       "f": null
+    },
+    {
+      "d": "2026-11-10",
+      "i": "573d8c836a0e",
+      "t": "Les industriels européens pourraient abandonner l'idée de rivaliser avec la Chine d'ici 2030, prévient le responsable du commerce",
+      "r": "L'Europe pourrait devoir permettre à ses entreprises de s'intégrer dans les chaînes d'approvisionnement des entreprises chinoises face aux risques de suppressions d'emplois.",
+      "c": "mondialisation",
+      "s": "The Guardian",
+      "f": "automobile-europe-chine"
     },
     {
       "d": "2026-11-10",
@@ -157,6 +175,15 @@
     },
     {
       "d": "2026-11-10",
+      "i": "d474c5c4b777",
+      "t": "French Tech : Trustpair valorisée plusieurs centaines de millions d'euros à la suite de son rachat",
+      "r": "",
+      "c": "finance",
+      "s": "Les Echos",
+      "f": null
+    },
+    {
+      "d": "2026-11-10",
       "i": "6c653c6d8a88",
       "t": "High fossil fuel prices spread inflation ‘like a cancer’, UN climate chief tells Cop31",
       "r": "Le chef de l'ONU pour le climat a déclaré qu'une crise mondiale des prix des énergies fossiles propage l'inflation à travers la planète.",
@@ -189,6 +216,15 @@
       "r": "La hausse du SMIC annoncée constitue une rupture symbolique et pourrait encourager les négociations salariales dans les entreprises selon l'économiste Michaël Zemmour.",
       "c": "desequilibres",
       "s": "franceinfo",
+      "f": "conjoncture-france"
+    },
+    {
+      "d": "2026-11-10",
+      "i": "564b63f511b0",
+      "t": "Au troisième trimestre 2026, le taux de chômage s’établit à 8,2 %, en hausse de 0,4 point sur un an",
+      "r": "Au troisième trimestre 2026, le taux de chômage s'établit à 8,2 % en France, en hausse de 0,4 point sur un an selon l'Insee.",
+      "c": "desequilibres",
+      "s": "INSEE",
       "f": "conjoncture-france"
     },
     {
@@ -265,6 +301,15 @@
     },
     {
       "d": "2026-11-10",
+      "i": "14ca8f0e7ea7",
+      "t": "Bourse : Thales, Dassault Aviation… «Les dépenses de défense ne font que débuter un supercycle de long terme»",
+      "r": "Le réarmement de l'Europe pourrait générer jusqu'à 3 000 milliards de dollars de dépenses d'équipements sur la prochaine décennie, dynamisant le secteur de la défense.",
+      "c": "entreprises",
+      "s": "Capital",
+      "f": null
+    },
+    {
+      "d": "2026-11-10",
       "i": "5bf6adf8b95a",
       "t": "Nucléaire, lycées, défense... Comment l'Etat veut siphonner le Livret A",
       "r": "Le gouvernement envisage de modifier le plafond et le taux du Livret A pour financer de nouveaux secteurs au-delà de l'habitat social.",
@@ -297,6 +342,15 @@
       "r": "",
       "c": "epargne",
       "s": "Les Echos",
+      "f": null
+    },
+    {
+      "d": "2026-11-10",
+      "i": "c2d298f6bd91",
+      "t": "Assurance-vie : la remontée des taux obligataires relance le pari des fonds datés",
+      "r": "La remontée des taux obligataires relance la popularité des fonds datés en assurance-vie, tout en maintenant un risque de perte en capital.",
+      "c": "epargne",
+      "s": "Le Monde",
       "f": null
     },
     {

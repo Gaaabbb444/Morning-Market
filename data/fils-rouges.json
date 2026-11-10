@@ -1,6 +1,6 @@
 {
   "version_schema": 1,
-  "mis_a_jour_le": "2026-11-10T05:53:13+01:00",
+  "mis_a_jour_le": "2026-11-10T10:08:29+01:00",
   "fils": [
     {
       "id": "budget-2027",
@@ -1813,7 +1813,7 @@
         "desequilibres",
         "entreprises"
       ],
-      "ou_en_est_on": "La conférence sociale s'ouvre à Matignon alors que le gouvernement annonce une revalorisation du Smic de 1,6 % pour répondre au mécontentement sur le pouvoir d'achat. Si certains économistes et le patronat redoutent un impact négatif sur l'emploi, la compétitivité et les marges des entreprises, cette mesure suscite des débats sur la structure des grilles salariales. En parallèle, la Banque de France anticipe une croissance modérée du PIB pour le quatrième trimestre dans un climat d'incertitude économique et sociale.",
+      "ou_en_est_on": "Face aux contestations sur le pouvoir d'achat, le gouvernement annonce une hausse du Smic de 1,6 % au 1er décembre, suscitant des réactions partagées entre syndicats et organisations patronales. Parallèlement, le taux de chômage s'établit à 8,2 % au troisième trimestre selon l'Insee, tandis que la Banque de France revoit sa prévision de croissance à 0,3 % pour 2026 dans un climat d'incertitude pour les entreprises.",
       "ou_en_est_on_maj_le": "2026-11-10",
       "evenements": [
         {
@@ -2461,7 +2461,7 @@
         },
         {
           "date": "2026-11-10",
-          "resume": "Face à la contestation sociale, le gouvernement annonce une hausse du Smic de 1,6 % au 1er décembre et ouvre le chantier de la réforme des allègements de charges, suscitant l'inquiétude des entreprises et des critiques d'économistes sur l'emploi.",
+          "resume": "Le gouvernement annonce une revalorisation du Smic de 1,6 % au 1er décembre, tandis que la Banque de France abaisse sa prévision de croissance pour 2026 à 0,3 % et que le taux de chômage s'établit à 8,2 % au troisième trimestre.",
           "liens": [
             {
               "titre": "Prix des carburants, mobilisations sociales, débats budgétaires: face à une situation très incertaine, la Banque de France s'attend à une croissance modérée du PIB au quatrième trimestre",
@@ -2503,8 +2503,8 @@
         "entreprises",
         "ue"
       ],
-      "ou_en_est_on": "Après la correction boursière consécutive aux élections de mi-mandat américaines et la révision à la baisse des valorisations de firmes phares, le secteur de l'intelligence artificielle affronte une montée des contestations sociopolitiques. En Europe, des dizaines d'organisations écologistes exigent désormais un moratoire sur la construction de centres de données, soulignant l'accentuation des pressions réglementaires et des contraintes d'infrastructure sur le modèle de déploiement de l'IA.",
-      "ou_en_est_on_maj_le": "2026-11-09",
+      "ou_en_est_on": "Le secteur de l'intelligence artificielle fait face à un renforcement de la régulation et des contestations croissantes. En France, le Conseil de l'IA et du numérique remet un rapport sur l'exploitation des vulnérabilités des utilisateurs, et l'Australie annonce la mise en place de garde-fous obligatoires pour encadrer les entreprises du secteur.",
+      "ou_en_est_on_maj_le": "2026-11-10",
       "evenements": [
         {
           "date": "2026-10-17",
@@ -2994,7 +2994,7 @@
         },
         {
           "date": "2026-11-10",
-          "resume": "L'Élysée réunit plusieurs pays et dirigeants technologiques pour signer un appel en faveur de standards communs de sécurité de l'IA, tandis que le secteur continue de lancer de nouveaux modèles et fait face à des contestations croissantes sur les centres de données.",
+          "resume": "Le Conseil de l'IA et du numérique remet son rapport sur l'exploitation des vulnérabilités des utilisateurs, tandis que l'Australie annonce des garde-fous obligatoires après un piratage.",
           "liens": [
             {
               "titre": "Sécurité de l’IA : l’Elysée fait signer un « appel de Paris » à huit pays ainsi qu’à Sam Altman, Dario Amodei et Arthur Mensch",
