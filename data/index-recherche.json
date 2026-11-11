@@ -1,7 +1,304 @@
 {
   "version_schema": 1,
-  "mis_a_jour_le": "2026-11-10T10:08:04+01:00",
+  "mis_a_jour_le": "2026-11-11T05:58:28+01:00",
   "entrees": [
+    {
+      "d": "2026-11-11",
+      "i": "8ea8493d0266",
+      "t": "Plus de 500 milliards d’euros en dix ans : ces fortunes englouties par la France rien que pour payer les intérêts de sa dette",
+      "r": "La charge de la dette publique française dépassera cette année tous les autres postes de dépenses de l'État, totalisant plus de 500 milliards d'euros d'intérêts cumulés sur les dix dernières années.",
+      "c": "desequilibres",
+      "s": "Le Figaro",
+      "f": "dette-marches"
+    },
+    {
+      "d": "2026-11-11",
+      "i": "4fb60736a818",
+      "t": "L'inflation américaine a progressé de 0,4 % en octobre alors que la hausse des prix ralentissait et que les coûts de l'essence baissaient",
+      "r": "L'indice des prix à la consommation aux États-Unis a augmenté de 0,4 % entre septembre et octobre, sous l'effet des hausses dans le logement, l'alimentation et l'énergie.",
+      "c": "desequilibres",
+      "s": "The Guardian",
+      "f": "inflation-bce"
+    },
+    {
+      "d": "2026-11-11",
+      "i": "faa8eb4afaf4",
+      "t": "Les très riches Français ont fait baisser leur impôt sur le revenu en 2025",
+      "r": "Les recettes de l'impôt sur le revenu ont augmenté de 1 % en 2025 pour atteindre 92,6 milliards d'euros, mais l'impôt moyen acquitté par les 0,1 % de ménages les plus aisés a baissé de 9 % selon Bercy.",
+      "c": "desequilibres",
+      "s": "Le Monde",
+      "f": "budget-2027"
+    },
+    {
+      "d": "2026-11-11",
+      "i": "e40b615f81e9",
+      "t": "Airbus veut investir 900 millions dans une usine géante près de Toulouse pour verrouiller sa montée en cadence",
+      "r": "Airbus prépare l'implantation d'un nouveau site industriel dédié aux mâts réacteurs près de Toulouse, mobilisant entre 600 et 900 millions d'euros d'investissement pour accompagner la hausse des commandes.",
+      "c": "entreprises",
+      "s": "La Tribune",
+      "f": "conjoncture-france"
+    },
+    {
+      "d": "2026-11-11",
+      "i": "edcb3aeaf575",
+      "t": "Partir à 62 ans, ne pas cotiser davantage et économiser 140 milliards d’euros: comment Jordan Bardella compte-t-il financer ses promesses qui coûteraient près de 15 milliards d’euros de plus par an?",
+      "r": "Le Rassemblement national réaffirme son projet de ramener l'âge légal de départ à 62 ans avec 42 années de cotisation, tout en introduisant une part de capitalisation via un fonds souverain nourri par l'épargne volontaire.",
+      "c": "desequilibres",
+      "s": "BFM Business",
+      "f": "presidentielle-2027"
+    },
+    {
+      "d": "2026-11-11",
+      "i": "a7e12dabfe80",
+      "t": "Des révélations sur la puissance des IA d’Anthropic ravivent les craintes d’une perte de contrôle «irréversible»",
+      "r": "Un laboratoire indépendant accuse Anthropic d'avoir omis ou caché l'accélération de ses recherches en intelligence artificielle, ravivant des craintes sur les risques.",
+      "c": "croissance",
+      "s": "Le Figaro",
+      "f": "intelligence-artificielle"
+    },
+    {
+      "d": "2026-11-11",
+      "i": "8f4b26ac70ea",
+      "t": "Baisse du prix du gazole : la libération des stocks stratégiques est-elle vraiment la seule explication ?",
+      "r": "La libération de stocks stratégiques de carburant contribue au recul des prix à la pompe, selon une analyse gouvernementale.",
+      "c": "croissance",
+      "s": "Le Figaro",
+      "f": "choc-petrolier-ormuz"
+    },
+    {
+      "d": "2026-11-11",
+      "i": "56f854560bed",
+      "t": "\"Ça aurait pu prendre deux mois, et là, on a mis deux semaines\" : la conception des publicités en pleine mue à l'heure de l'IA",
+      "r": "L'intelligence artificielle transforme la conception publicitaire, permettant aux annonceurs de produire plus rapidement et à moindre coût.",
+      "c": "croissance",
+      "s": "franceinfo",
+      "f": "intelligence-artificielle"
+    },
+    {
+      "d": "2026-11-11",
+      "i": "2ba204e414a3",
+      "t": "En accord avec le gouvernement, Microsoft s’implique dans la surveillance des risques liés aux IA",
+      "r": "Microsoft s'associe au gouvernement pour participer à la surveillance des risques liés à l'intelligence artificielle en France.",
+      "c": "croissance",
+      "s": "Le Figaro",
+      "f": "intelligence-artificielle"
+    },
+    {
+      "d": "2026-11-11",
+      "i": "081bac8cd0f5",
+      "t": "Nvidia : le scandale d’espionnage « révèle la face cachée de la guerre froide technologique à laquelle se livrent les Etats-Unis et la Chine »",
+      "r": "Les soupçons d'espionnage visant le dirigeant de Nvidia illustrent les tensions de la guerre technologique entre les États-Unis et la Chine.",
+      "c": "mondialisation",
+      "s": "Le Monde",
+      "f": null
+    },
+    {
+      "d": "2026-11-11",
+      "i": "3affe27e36d4",
+      "t": "Comment Nvidia s’est retrouvé au cœur d’un scandale international, entre espionne chinoise, guerre des puces et indifférence de Donald Trump",
+      "r": "Le fondateur de Nvidia est impliqué dans un scandale sur fond de rivalité technologique et d'embargo entre les États-Unis et la Chine.",
+      "c": "mondialisation",
+      "s": "Le Monde",
+      "f": null
+    },
+    {
+      "d": "2026-11-11",
+      "i": "1080ea75cd5f",
+      "t": "Les habitants des îles Falkland font face à des « conséquences dévastatrices » si l'Argentine bloque un projet pétrolier, selon le Royaume-Uni",
+      "r": "",
+      "c": "mondialisation",
+      "s": "The Guardian",
+      "f": null
+    },
+    {
+      "d": "2026-11-11",
+      "i": "c0c8b235715d",
+      "t": "AliExpress, Shein, Temu : pourquoi les petits colis peuvent-ils désormais coûter 5 euros de plus ?",
+      "r": "Depuis le 1er novembre, l'achat en ligne hors Union européenne entraîne des prélèvements s'ajoutant aux droits de douane.",
+      "c": "mondialisation",
+      "s": "Toute l'Europe",
+      "f": null
+    },
+    {
+      "d": "2026-11-11",
+      "i": "c23e5fca9d02",
+      "t": "IA : Anthropic maintient le timing de son entrée en Bourse et vise jusqu’à 1 400 milliards de dollars de valorisation",
+      "r": "La start-up Anthropic maintient son projet d'entrée en Bourse à Wall Street avec une valorisation ciblée de 1 400 milliards de dollars.",
+      "c": "finance",
+      "s": "Le Monde",
+      "f": null
+    },
+    {
+      "d": "2026-11-11",
+      "i": "ce5dbb7e24f6",
+      "t": "Nvidia : le scandale d’espionnage fait chuter de plus de 6 % à Wall Street l’entreprise américaine, qui perd sa place de deuxième capitalisation mondiale",
+      "r": "Nvidia perd plus de 6 % à Wall Street et voit sa capitalisation chuter de plus de 400 milliards de dollars après un scandale d'espionnage.",
+      "c": "finance",
+      "s": "Le Monde",
+      "f": "intelligence-artificielle"
+    },
+    {
+      "d": "2026-11-11",
+      "i": "adf593f41910",
+      "t": "Le créateur du chatbot Claude s'apprête à faire ses débuts en Bourse pour 1,300 milliards de dollars malgré un avertissement 'catastrophique' sur l'IA",
+      "r": "L'entreprise d'intelligence artificielle derrière le chatbot Claude proposera ses actions entre 70 et 78 dollars, un niveau inférieur aux attentes.",
+      "c": "finance",
+      "s": "BBC",
+      "f": null
+    },
+    {
+      "d": "2026-11-11",
+      "i": "a1514935e728",
+      "t": "Anthropic vise une valorisation allant jusqu'à 1 400 milliards de dollars lors de son introduction en bourse",
+      "r": "Le développeur du chatbot Claude cherche une valorisation allant jusqu'à 1 400 milliards de dollars pour son introduction en bourse.",
+      "c": "finance",
+      "s": "The Guardian",
+      "f": "intelligence-artificielle"
+    },
+    {
+      "d": "2026-11-11",
+      "i": "308dcd3e6c54",
+      "t": "« Le problème doit être réglé à Paris » : l'économiste en chef de la BCE exclut toute intervention en faveur de la dette française",
+      "r": "",
+      "c": "desequilibres",
+      "s": "Les Echos",
+      "f": "dette-marches"
+    },
+    {
+      "d": "2026-11-11",
+      "i": "3a1773d50c2e",
+      "t": "\"Si l'on garde les mêmes tendances…\" : L'essence repasse enfin sous la barre des deux euros, mais pour combien de temps ?",
+      "r": "Le prix du gazole baisse et le baril de pétrole repasse sous les 90 dollars, aidé par la mise en vente des réserves françaises.",
+      "c": "desequilibres",
+      "s": "franceinfo",
+      "f": "choc-petrolier-ormuz"
+    },
+    {
+      "d": "2026-11-11",
+      "i": "0460c0855ccd",
+      "t": "Biscuits, gâteaux, glaces, bonbons: en plein examen du budget de la Sécu, les sénateurs approuvent la création d'une taxe sur les produits sucrés (mais qui a été rejetée par les députés)",
+      "r": "Le Sénat approuve la création d'une taxe sur les produits sucrés dans le cadre de l'examen du projet de budget de la Sécurité sociale.",
+      "c": "desequilibres",
+      "s": "BFM Business",
+      "f": "budget-2027"
+    },
+    {
+      "d": "2026-11-11",
+      "i": "a0f8689b1ecc",
+      "t": "IA, études en alternance interrompues faute de stage... A Saint-Denis des jeunes au chômage tanguent entre intérim et découragement",
+      "r": "Les chiffres de l'Insee pour le troisième trimestre montrent que le chômage des 15-24 ans atteint 21 %, en hausse de 1,6 point sur un an.",
+      "c": "desequilibres",
+      "s": "franceinfo",
+      "f": "conjoncture-france"
+    },
+    {
+      "d": "2026-11-11",
+      "i": "f5dd0a1be31c",
+      "t": "Digital Fairness Act : l'UE veut imposer la résiliation en deux clics et interdire les pièges à abonnements",
+      "r": "La Commission européenne prépare le Digital Fairness Act pour interdire les pièges à abonnements et faciliter la résiliation en deux clics.",
+      "c": "ue",
+      "s": "La Tribune",
+      "f": null
+    },
+    {
+      "d": "2026-11-11",
+      "i": "997bcff61d7c",
+      "t": "La Grande-Bretagne disposée à discuter d'une contribution financière à l'UE pour intégrer le marché de l'électricité, selon un ministre",
+      "r": "Le Royaume-Uni est prêt à discuter de participations financières à des projets d'infrastructure dans les régions plus pauvres de l'UE en échange d'un accès au marché européen de l'électricité.",
+      "c": "ue",
+      "s": "The Guardian",
+      "f": null
+    },
+    {
+      "d": "2026-11-11",
+      "i": "e8caf4eb68ba",
+      "t": "Politique industrielle européenne : donner la priorité à la souveraineté ou au climat ?",
+      "r": "Le Pacte vert européen, promulgué en 2019, vise à concilier la préservation du climat et le renforcement de l'industrie par l'investissement et la décarbonation.",
+      "c": "ue",
+      "s": "Alternatives Économiques",
+      "f": null
+    },
+    {
+      "d": "2026-11-11",
+      "i": "8d87bc6a0a4b",
+      "t": "SAF : Bruxelles toujours ferme contre l'assouplissement des mandats",
+      "r": "La Commission européenne maintient sa position exigeant le triplement des mandats d'incorporation de carburants durables pour l'aviation d'ici 2030.",
+      "c": "ue",
+      "s": "La Tribune",
+      "f": null
+    },
+    {
+      "d": "2026-11-11",
+      "i": "4264cde99a11",
+      "t": "IA, cybersécurité, marketplace... Orange se rapproche du modèle de la « super-app »",
+      "r": "L'opérateur Orange lance une application mobile intégrant plusieurs modèles d'intelligence artificielle pour centraliser ses services et contenus.",
+      "c": "entreprises",
+      "s": "La Tribune",
+      "f": "intelligence-artificielle"
+    },
+    {
+      "d": "2026-11-11",
+      "i": "5eb1d48fa937",
+      "t": "Le milliardaire tchèque Daniel Kretinsky remporte son OPA sur Fnac Darty",
+      "r": "Le milliardaire Daniel Kretinsky devient l'actionnaire de contrôle de Fnac Darty à l'issue de son offre publique d'achat.",
+      "c": "entreprises",
+      "s": "Le Monde",
+      "f": null
+    },
+    {
+      "d": "2026-11-11",
+      "i": "273a3c58e834",
+      "t": "Le groupe Plesio, ex-Casino, s’accorde avec ses créanciers sur la restructuration de sa dette",
+      "r": "Le groupe Plesio, anciennement Casino, trouve un accord avec ses créanciers et son actionnaire pour réduire et rééchelonner sa dette.",
+      "c": "entreprises",
+      "s": "Le Monde",
+      "f": null
+    },
+    {
+      "d": "2026-11-11",
+      "i": "aaf4e374e495",
+      "t": "L’«AI Rebounding», ou quand des salariés remplacés par l’IA sont finalement… rappelés par leur employeur",
+      "r": "Une étude montre qu'une part des salariés américains remplacés par l'intelligence artificielle ont finalement été rappelé par leur employeur.",
+      "c": "entreprises",
+      "s": "Le Figaro",
+      "f": "intelligence-artificielle"
+    },
+    {
+      "d": "2026-11-11",
+      "i": "58a0e41035b3",
+      "t": "Vers une importante hausse du taux du livret A en février, porté par l’inflation ?",
+      "r": "Le livret A et le LDDS font partie des produits d'épargne réglementés dont les fonds placés sont actuellement rémunérés à 1,7%.",
+      "c": "epargne",
+      "s": "Le Figaro",
+      "f": "fiscalite-epargne-patrimoine"
+    },
+    {
+      "d": "2026-11-11",
+      "i": "c9be90735d35",
+      "t": "« Les règles éthiques du fonds souverain norvégien ont deux limites : celle de la géopolitique et celle de la rentabilité »",
+      "r": "Le fonds souverain norvégien doit concilier des investissements éthiques tout en faisant face aux limites de la géopolitique et de la rentabilité.",
+      "c": "epargne",
+      "s": "Le Monde",
+      "f": null
+    },
+    {
+      "d": "2026-11-11",
+      "i": "b15d37f26657",
+      "t": "Livret A, assurance-vie, ETF : où placer son argent pour obtenir un meilleur rendement ?",
+      "r": "Diversifier son épargne entre Livret A, assurance-vie, PEA et ETF permet d'optimiser les rendements et de préparer des objectifs patrimoniaux.",
+      "c": "epargne",
+      "s": "Capital",
+      "f": "fiscalite-epargne-patrimoine"
+    },
+    {
+      "d": "2026-11-11",
+      "i": "71cd5b4ea5d6",
+      "t": "Bourse : «la croissance de l’économie numérique se réinvente !» Actions, ETF… Comment investir ?",
+      "r": "Les fondamentaux de l'économie numérique restent solides, offrant des opportunités d'investissement en Bourse à travers des actions, ETF et OPCVM.",
+      "c": "epargne",
+      "s": "Capital",
+      "f": null
+    },
     {
       "d": "2026-11-10",
       "i": "d1d0e7a0952b",

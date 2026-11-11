@@ -1,6 +1,6 @@
 {
   "version_schema": 1,
-  "mis_a_jour_le": "2026-11-10T10:08:29+01:00",
+  "mis_a_jour_le": "2026-11-11T05:59:27+01:00",
   "fils": [
     {
       "id": "budget-2027",
@@ -514,6 +514,17 @@
               "url": "https://www.franceinfo.fr/politique/augmentation-du-smic-la-premiere-chose-qu-on-pourrait-faire-dans-un-budget-aujourd-hui-c-est-rehabiliter-l-impot-de-solidarite-sur-la-fortune-propose-guillaume-lacroix-president-du-parti-radical-de-gauche_8271443.html#xtor=RSS-3-%5Bgeneral%5D"
             }
           ]
+        },
+        {
+          "date": "2026-11-11",
+          "resume": "Lors de l'examen du projet de budget de la Sécurité sociale, le Sénat a approuvé la création d'une taxe sur les produits sucrés voulue par le gouvernement mais rejetée par les députés.",
+          "liens": [
+            {
+              "titre": "Biscuits, gâteaux, glaces, bonbons: en plein examen du budget de la Sécu, les sénateurs approuvent la création d'une taxe sur les produits sucrés (mais qui a été rejetée par les députés)",
+              "source": "BFM Business",
+              "url": "https://www.bfmtv.com/economie/economie-social/finances-publiques/biscuits-gateaux-glaces-bonbons-en-plein-examen-du-budget-de-la-secu-les-senateurs-approuvent-la-creation-d-une-taxe-sur-les-produits-sucres-mais-qui-a-ete-rejetee-par-les-deputes_AD-202611100861.html"
+            }
+          ]
         }
       ]
     },
@@ -789,6 +800,17 @@
               "url": "https://www.lemonde.fr/idees/article/2026/11/08/francois-villeroy-de-galhau-laisser-filer-la-dette-c-est-faire-des-choix-contre-la-jeunesse-des-choix-gerontocratiques_6808404_3232.html"
             }
           ]
+        },
+        {
+          "date": "2026-11-11",
+          "resume": "L'envolée de la dette publique porte la charge des intérêts à devenir le premier poste de dépenses de l'État, totalisant plus de 500 milliards d'euros absorbés en dix ans.",
+          "liens": [
+            {
+              "titre": "Plus de 500 milliards d’euros en dix ans : ces fortunes englouties par la France rien que pour payer les intérêts de sa dette",
+              "source": "Le Figaro",
+              "url": "https://www.lefigaro.fr/conjoncture/plus-de-500-milliards-d-euros-en-dix-ans-ces-fortunes-englouties-par-la-france-rien-que-pour-rembourser-sa-dette-20261110"
+            }
+          ]
         }
       ]
     },
@@ -802,8 +824,8 @@
         "mondialisation",
         "desequilibres"
       ],
-      "ou_en_est_on": "Sur le front géopolitique, le Qatar mène une médiation afin d'inciter Téhéran à autoriser des inspections de l'ONU sur ses sites nucléaires ciblés, ouvrant la perspective d'une réouverture du détroit d'Ormuz. Parallèlement, les tensions régionales et la flambée des cours ont fait grimper les bénéfices du géant saoudien Aramco. En France, les effets du déstockage des réserves stratégiques de gazole continuent de faire baisser temporairement les prix dans les stations-service.",
-      "ou_en_est_on_maj_le": "2026-11-08",
+      "ou_en_est_on": "Les tensions sur les marchés de l'énergie connaissent un répit notable avec un baril repassé sous la barre des 90 dollars après des déclarations d'apaisement de Donald Trump sur le conflit iranien. En France, les prix à la pompe poursuivent leur baisse, le litre de gazole repassant sous les deux euros grâce aux cours mondiaux et à la mobilisation des stocks stratégiques. Cette accalmie sur les carburants intervient toutefois dans un contexte où les tarifs réglementés du gaz restent orientés à la hausse pour décembre.",
+      "ou_en_est_on_maj_le": "2026-11-11",
       "evenements": [
         {
           "date": "2026-10-17",
@@ -1112,6 +1134,27 @@
               "titre": "Le prix de référence du gaz augmentera encore en décembre, de 5,8%",
               "source": "franceinfo",
               "url": "https://www.franceinfo.fr/environnement/energie/le-prix-de-reference-du-gaz-augmentera-encore-en-decembre-de-5-8_8274680.html#xtor=RSS-3-%5Bgeneral%5D"
+            }
+          ]
+        },
+        {
+          "date": "2026-11-11",
+          "resume": "Le cours du baril de pétrole repasse sous les 90 dollars et les prix des carburants reculent à la pompe, soutenus par le déstockage de réserves stratégiques et par des déclarations d'apaisement de Donald Trump sur le conflit avec l'Iran.",
+          "liens": [
+            {
+              "titre": "\"Si l'on garde les mêmes tendances…\" : L'essence repasse enfin sous la barre des deux euros, mais pour combien de temps ?",
+              "source": "franceinfo",
+              "url": "https://www.franceinfo.fr/economie/automobile/essence/si-l-on-garde-les-memes-tendances-l-essence-repasse-enfin-sous-la-barre-des-deux-euros-mais-pour-combien-de-temps_8276915.html#xtor=RSS-3-%5Beconomie%5D"
+            },
+            {
+              "titre": "Oil prices fall to lowest since August as Trump says Iran war is ‘effectively over’",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/business/2026/nov/10/oil-prices-fall-donald-trump-iran-war-ftse-100-markets"
+            },
+            {
+              "titre": "Baisse du prix du gazole : la libération des stocks stratégiques est-elle vraiment la seule explication ?",
+              "source": "Le Figaro",
+              "url": "https://www.lefigaro.fr/conjoncture/baisse-du-prix-du-gazole-la-liberation-des-stocks-strategiques-est-elle-vraiment-la-seule-explication-20261110"
             }
           ]
         }
@@ -1547,6 +1590,17 @@
               "titre": "Présidentielle 2027 : les candidats auditionnés par le patronat le 8 mars prochain au Grand Rex",
               "source": "Le Figaro",
               "url": "https://www.lefigaro.fr/elections/presidentielles/presidentielle-2027-les-candidats-auditionnes-par-le-patronat-le-8-mars-prochain-au-grand-rex-20261105"
+            }
+          ]
+        },
+        {
+          "date": "2026-11-11",
+          "resume": "Jordan Bardella réaffirme son projet de ramener l'âge légal de la retraite à 62 ans avec 42 annuités et d'introduire une part de capitalisation via un fonds souverain.",
+          "liens": [
+            {
+              "titre": "Partir à 62 ans, ne pas cotiser davantage et économiser 140 milliards d’euros: comment Jordan Bardella compte-t-il financer ses promesses qui coûteraient près de 15 milliards d’euros de plus par an?",
+              "source": "BFM Business",
+              "url": "https://www.bfmtv.com/economie/patrimoine/retraite/partir-a-62-ans-ne-pas-cotiser-davantage-et-economiser-140-milliards-d-euros-comment-jordan-bardella-compte-t-il-financer-ses-promesses-qui-couteraient-pres-de-15-milliards-d-euros-de-plus-par-an_AV-202611100981.html"
             }
           ]
         }
@@ -2489,6 +2543,32 @@
               "url": "https://www.lefigaro.fr/economie/qui-se-demande-comment-les-entreprises-vont-financer-toutes-ces-augmentations-les-chefs-d-entreprise-inquiets-de-la-hausse-du-smic-20261109"
             }
           ]
+        },
+        {
+          "date": "2026-11-11",
+          "resume": "Airbus annonce une concertation pour investir 900 millions d'euros dans une nouvelle usine près de Toulouse, tandis que le chômage des 15-24 ans atteint 21 % au troisième trimestre.",
+          "liens": [
+            {
+              "titre": "Airbus veut investir 900 millions dans une usine géante près de Toulouse pour verrouiller sa montée en cadence",
+              "source": "La Tribune",
+              "url": "https://www.latribune.fr/article/defense-aerospatiale/aeronautique-defense/13919017064807/airbus-veut-investir-900-millions-dans-une-usine-geante-pres-de-toulouse-pour-verrouiller-sa-montee-en-cadence"
+            },
+            {
+              "titre": "IA, études en alternance interrompues faute de stage... A Saint-Denis des jeunes au chômage tanguent entre intérim et découragement",
+              "source": "franceinfo",
+              "url": "https://www.franceinfo.fr/economie/emploi/chomage/ia-etudes-en-alternance-interrompues-faute-de-stage-a-saint-denis-des-jeunes-au-chomage-tanguent-entre-interim-et-decouragement_8276696.html#xtor=RSS-3-%5Beconomie%5D"
+            },
+            {
+              "titre": "Le chômage des jeunes, point noir du marché de l’emploi en France",
+              "source": "Le Figaro",
+              "url": "https://www.lefigaro.fr/social/le-chomage-des-jeunes-point-noir-du-marche-de-l-emploi-en-france-20261110"
+            },
+            {
+              "titre": "Le chômage des jeunes est \"un effet de la conjoncture\", estime Stéphane Carcillo, professeur au département d'économie de Sciences Po",
+              "source": "franceinfo",
+              "url": "https://www.franceinfo.fr/replay-radio/la-question-des-informes/le-chomage-des-jeunes-est-un-effet-de-la-conjoncture-estime-stephane-carcillo-professeur-au-departement-d-economie-de-sciences-po_8254987.html#xtor=RSS-3-%5Beconomie%5D"
+            }
+          ]
         }
       ]
     },
@@ -2503,8 +2583,8 @@
         "entreprises",
         "ue"
       ],
-      "ou_en_est_on": "Le secteur de l'intelligence artificielle fait face à un renforcement de la régulation et des contestations croissantes. En France, le Conseil de l'IA et du numérique remet un rapport sur l'exploitation des vulnérabilités des utilisateurs, et l'Australie annonce la mise en place de garde-fous obligatoires pour encadrer les entreprises du secteur.",
-      "ou_en_est_on_maj_le": "2026-11-10",
+      "ou_en_est_on": "Le marché de l'intelligence artificielle traverse une période de fortes turbulences boursières, illustrée par la chute de capitalisation de Nvidia et les révisions de valorisation pour l'introduction d'Anthropic. Parallèlement, les enjeux de sécurité prennent de l'ampleur avec des accusations de dissimulation visant certains modèles et un partenariat de surveillance noué par Microsoft avec les autorités françaises. Dans le même temps, les grands groupes comme Orange continuent d'intégrer ces technologies dans leurs offres commerciales auprès du grand public.",
+      "ou_en_est_on_maj_le": "2026-11-11",
       "evenements": [
         {
           "date": "2026-10-17",
@@ -3020,6 +3100,37 @@
               "titre": "Data centers : en pleine contestation sociétale, la filière appelle à plus de « pédagogie »",
               "source": "La Tribune",
               "url": "https://www.latribune.fr/article/tech/2647579992407314/data-centers-en-pleine-contestation-societale-la-filiere-appelle-a-plus-de-pedagogie"
+            }
+          ]
+        },
+        {
+          "date": "2026-11-11",
+          "resume": "Le secteur fait face à une forte volatilité avec la chute en Bourse de Nvidia après une affaire d'espionnage, des accusations de dissimulation visant Anthropic, tandis que Microsoft conclut un partenariat de sécurité avec les autorités françaises.",
+          "liens": [
+            {
+              "titre": "IA, cybersécurité, marketplace... Orange se rapproche du modèle de la « super-app »",
+              "source": "La Tribune",
+              "url": "https://www.latribune.fr/article/tech/telecoms/35573238967933/ia-cybersecurite-marketplace-orange-se-rapproche-du-modele-de-la-super-app"
+            },
+            {
+              "titre": "Des révélations sur la puissance des IA d’Anthropic ravivent les craintes d’une perte de contrôle «irréversible»",
+              "source": "Le Figaro",
+              "url": "https://www.lefigaro.fr/secteur/high-tech/des-revelations-sur-la-puissance-des-ia-d-anthropic-ravivent-les-craintes-d-une-perte-de-controle-irreversible-20261110"
+            },
+            {
+              "titre": "Nvidia : le scandale d’espionnage fait chuter de plus de 6 % à Wall Street l’entreprise américaine, qui perd sa place de deuxième capitalisation mondiale",
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/economie/article/2026/11/10/nvidia-le-scandale-d-espionnage-fait-chuter-de-plus-de-6-a-wall-street-l-entreprise-americaine-qui-perd-sa-place-de-deuxieme-capitalisation-mondiale_6808895_3234.html"
+            },
+            {
+              "titre": "Anthropic targets valuation of up to $1.4tn in stock market flotation",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/technology/2026/nov/10/anthropic-valuation-stock-market-flotation-ipo-wall-street-ai"
+            },
+            {
+              "titre": "En accord avec le gouvernement, Microsoft s’implique dans la surveillance des risques liés aux IA",
+              "source": "Le Figaro",
+              "url": "https://www.lefigaro.fr/secteur/high-tech/en-accord-avec-le-gouvernement-microsoft-s-implique-dans-la-surveillance-des-risques-lies-aux-ia-20261110"
             }
           ]
         }

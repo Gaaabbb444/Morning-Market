@@ -1,6 +1,123 @@
 {
   "version_schema": 1,
   "notions": {
+    "effet-boule-de-neige": [
+      {
+        "date": "2026-11-11",
+        "id": "8ea8493d0266",
+        "titre": "Plus de 500 milliards d’euros en dix ans : ces fortunes englouties par la France rien que pour payer les intérêts de sa dette",
+        "source": "Le Figaro",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-11-02",
+        "id": "92a232df0d43",
+        "titre": "Croissance, dette : la France perd pied",
+        "source": "L'Opinion",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-10-23",
+        "id": "7608def25ec1",
+        "titre": "Taux d’intérêt au-delà des 5 % : une hausse qui sanctionne un débat budgétaire enlisé",
+        "source": "Le Monde",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-10-23",
+        "id": "172c63158dd5",
+        "titre": "Du «spread» à l’«effet boule de neige», ces cinq rouages derrière la très dangereuse spirale de la dette française",
+        "source": "Le Figaro",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-10-22",
+        "id": "68e90a15b61f",
+        "titre": "En France, la menace d'une crise financière se précise",
+        "source": "franceinfo",
+        "contexte": "Top 5 du jour"
+      }
+    ],
+    "inflation": [
+      {
+        "date": "2026-11-11",
+        "id": "4fb60736a818",
+        "titre": "US inflation rose 0.4% in October as price increases cooled and gas costs dipped",
+        "source": "The Guardian",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-11-01",
+        "id": "113caf33f837",
+        "titre": "« Il ne faut pas renoncer, sinon, c’est la fin de la démocratie » : malgré des cortèges moins fournis, la jeunesse mobilisée",
+        "source": "La Tribune",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-10-31",
+        "id": "34d8bdd7b6b9",
+        "titre": "L'Insee prévoit une inflation à 3,4% sur un an en octobre, au plus haut depuis janvier 2024",
+        "source": "franceinfo",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-10-27",
+        "id": "1fc158ac434d",
+        "titre": "European gas prices soar to four-year high over winter supply fears",
+        "source": "The Guardian",
+        "contexte": "Top 5 du jour"
+      }
+    ],
+    "progressivite-de-l-impot": [
+      {
+        "date": "2026-11-11",
+        "id": "faa8eb4afaf4",
+        "titre": "Les très riches Français ont fait baisser leur impôt sur le revenu en 2025",
+        "source": "Le Monde",
+        "contexte": "Top 5 du jour"
+      }
+    ],
+    "investissement-fbcf": [
+      {
+        "date": "2026-11-11",
+        "id": "e40b615f81e9",
+        "titre": "Airbus veut investir 900 millions dans une usine géante près de Toulouse pour verrouiller sa montée en cadence",
+        "source": "La Tribune",
+        "contexte": "Top 5 du jour"
+      }
+    ],
+    "retraite-par-capitalisation": [
+      {
+        "date": "2026-11-11",
+        "id": "edcb3aeaf575",
+        "titre": "Partir à 62 ans, ne pas cotiser davantage et économiser 140 milliards d’euros: comment Jordan Bardella compte-t-il financer ses promesses qui coûteraient près de 15 milliards d’euros de plus par an?",
+        "source": "BFM Business",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-11-01",
+        "id": "29955208af0b",
+        "titre": "\"Ça a été une bombe pour moi, je me suis senti volé\": l'effondrement des fonds de pension après un pari financier raté inflige de lourdes pertes à des milliers de retraités chiliens qui pensaient avoir choisi le placement le moins risqué",
+        "source": "BFM Business",
+        "contexte": "Top 5 du jour"
+      }
+    ],
+    "dette-publique": [
+      {
+        "date": "2026-11-11",
+        "id": "8ea8493d0266",
+        "titre": "Plus de 500 milliards d’euros en dix ans : ces fortunes englouties par la France rien que pour payer les intérêts de sa dette",
+        "source": "Le Figaro",
+        "contexte": "Concept du jour"
+      },
+      {
+        "date": "2026-11-06",
+        "id": "c6585b5b1b1d",
+        "titre": "Debt of poorest countries at record $9.4tn high, World Bank data shows",
+        "source": "The Guardian",
+        "contexte": "Top 5 du jour"
+      }
+    ],
     "independance-de-la-banque-centrale": [
       {
         "date": "2026-11-10",
@@ -499,15 +616,6 @@
         "contexte": "Top 5 du jour"
       }
     ],
-    "dette-publique": [
-      {
-        "date": "2026-11-06",
-        "id": "c6585b5b1b1d",
-        "titre": "Debt of poorest countries at record $9.4tn high, World Bank data shows",
-        "source": "The Guardian",
-        "contexte": "Top 5 du jour"
-      }
-    ],
     "risque-systemique": [
       {
         "date": "2026-11-06",
@@ -630,36 +738,6 @@
         "contexte": "Top 5 du jour"
       }
     ],
-    "effet-boule-de-neige": [
-      {
-        "date": "2026-11-02",
-        "id": "92a232df0d43",
-        "titre": "Croissance, dette : la France perd pied",
-        "source": "L'Opinion",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-10-23",
-        "id": "7608def25ec1",
-        "titre": "Taux d’intérêt au-delà des 5 % : une hausse qui sanctionne un débat budgétaire enlisé",
-        "source": "Le Monde",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-10-23",
-        "id": "172c63158dd5",
-        "titre": "Du «spread» à l’«effet boule de neige», ces cinq rouages derrière la très dangereuse spirale de la dette française",
-        "source": "Le Figaro",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-10-22",
-        "id": "68e90a15b61f",
-        "titre": "En France, la menace d'une crise financière se précise",
-        "source": "franceinfo",
-        "contexte": "Top 5 du jour"
-      }
-    ],
     "droits-de-douane": [
       {
         "date": "2026-11-02",
@@ -692,38 +770,6 @@
         "titre": "Croissance, dette : la France perd pied",
         "source": "L'Opinion",
         "contexte": "Concept du jour"
-      }
-    ],
-    "inflation": [
-      {
-        "date": "2026-11-01",
-        "id": "113caf33f837",
-        "titre": "« Il ne faut pas renoncer, sinon, c’est la fin de la démocratie » : malgré des cortèges moins fournis, la jeunesse mobilisée",
-        "source": "La Tribune",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-10-31",
-        "id": "34d8bdd7b6b9",
-        "titre": "L'Insee prévoit une inflation à 3,4% sur un an en octobre, au plus haut depuis janvier 2024",
-        "source": "franceinfo",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-10-27",
-        "id": "1fc158ac434d",
-        "titre": "European gas prices soar to four-year high over winter supply fears",
-        "source": "The Guardian",
-        "contexte": "Top 5 du jour"
-      }
-    ],
-    "retraite-par-capitalisation": [
-      {
-        "date": "2026-11-01",
-        "id": "29955208af0b",
-        "titre": "\"Ça a été une bombe pour moi, je me suis senti volé\": l'effondrement des fonds de pension après un pari financier raté inflige de lourdes pertes à des milliers de retraités chiliens qui pensaient avoir choisi le placement le moins risqué",
-        "source": "BFM Business",
-        "contexte": "Top 5 du jour"
       }
     ],
     "notation-souveraine": [
