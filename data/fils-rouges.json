@@ -1,6 +1,6 @@
 {
   "version_schema": 1,
-  "mis_a_jour_le": "2026-11-11T05:59:27+01:00",
+  "mis_a_jour_le": "2026-11-11T10:14:54+01:00",
   "fils": [
     {
       "id": "budget-2027",
@@ -824,7 +824,7 @@
         "mondialisation",
         "desequilibres"
       ],
-      "ou_en_est_on": "Les tensions sur les marchés de l'énergie connaissent un répit notable avec un baril repassé sous la barre des 90 dollars après des déclarations d'apaisement de Donald Trump sur le conflit iranien. En France, les prix à la pompe poursuivent leur baisse, le litre de gazole repassant sous les deux euros grâce aux cours mondiaux et à la mobilisation des stocks stratégiques. Cette accalmie sur les carburants intervient toutefois dans un contexte où les tarifs réglementés du gaz restent orientés à la hausse pour décembre.",
+      "ou_en_est_on": "La détente sur les marchés pétroliers se confirme avec la reprise progressive de la circulation maritime dans le détroit d'Ormuz et le recul des cours du baril sous les 90 dollars. Cette baisse est alimentée par les perspectives d'assouplissement diplomatique entre Washington et Téhéran, Donald Trump jugeant très improbable une reprise du conflit. En France, cette dynamique soutient la diminution des prix des carburants à la pompe, malgré la perspective d'une hausse des tarifs réglementés du gaz en décembre.",
       "ou_en_est_on_maj_le": "2026-11-11",
       "evenements": [
         {
@@ -1139,7 +1139,7 @@
         },
         {
           "date": "2026-11-11",
-          "resume": "Le cours du baril de pétrole repasse sous les 90 dollars et les prix des carburants reculent à la pompe, soutenus par le déstockage de réserves stratégiques et par des déclarations d'apaisement de Donald Trump sur le conflit avec l'Iran.",
+          "resume": "Les cours du pétrole poursuivent leur repli alors que le trafic maritime reprend dans le détroit d'Ormuz, portés par des signes d'apaisement diplomatique entre Washington et Téhéran.",
           "liens": [
             {
               "titre": "\"Si l'on garde les mêmes tendances…\" : L'essence repasse enfin sous la barre des deux euros, mais pour combien de temps ?",
@@ -1155,6 +1155,11 @@
               "titre": "Baisse du prix du gazole : la libération des stocks stratégiques est-elle vraiment la seule explication ?",
               "source": "Le Figaro",
               "url": "https://www.lefigaro.fr/conjoncture/baisse-du-prix-du-gazole-la-liberation-des-stocks-strategiques-est-elle-vraiment-la-seule-explication-20261110"
+            },
+            {
+              "titre": "L'ÉDITO ÉCO - Les bateaux recommencent à passer dans le détroit d'Ormuz",
+              "source": "BFM Business",
+              "url": "https://www.bfmtv.com/economie/video-l-edito-eco-les-bateaux-recommencent-a-passer-dans-le-detroit-d-ormuz_VN-202611110303.html"
             }
           ]
         }
@@ -3105,7 +3110,7 @@
         },
         {
           "date": "2026-11-11",
-          "resume": "Le secteur fait face à une forte volatilité avec la chute en Bourse de Nvidia après une affaire d'espionnage, des accusations de dissimulation visant Anthropic, tandis que Microsoft conclut un partenariat de sécurité avec les autorités françaises.",
+          "resume": "L'ampleur des investissements consacrés à l'IA aux États-Unis atteint des niveaux sans précédent historique, tandis que les réflexions s'intensifient en France sur les défis d'emploi, de formation et le rôle de l'humain.",
           "liens": [
             {
               "titre": "IA, cybersécurité, marketplace... Orange se rapproche du modèle de la « super-app »",

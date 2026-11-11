@@ -1,6 +1,6 @@
 {
   "version_schema": 1,
-  "mis_a_jour_le": "2026-11-11T05:58:28+01:00",
+  "mis_a_jour_le": "2026-11-11T10:13:14+01:00",
   "entrees": [
     {
       "d": "2026-11-11",
@@ -85,6 +85,15 @@
     },
     {
       "d": "2026-11-11",
+      "i": "83ed06ca1694",
+      "t": "L'IA, le pari à 10 000 milliards de dollars qui fait tourner l'Amérique",
+      "r": "Les investissements dans l'intelligence artificielle aux États-Unis représentent une vague majeure sans équ précédent dans l'économie.",
+      "c": "croissance",
+      "s": "L'Opinion",
+      "f": "intelligence-artificielle"
+    },
+    {
+      "d": "2026-11-11",
       "i": "081bac8cd0f5",
       "t": "Nvidia : le scandale d’espionnage « révèle la face cachée de la guerre froide technologique à laquelle se livrent les Etats-Unis et la Chine »",
       "r": "Les soupçons d'espionnage visant le dirigeant de Nvidia illustrent les tensions de la guerre technologique entre les États-Unis et la Chine.",
@@ -118,6 +127,15 @@
       "c": "mondialisation",
       "s": "Toute l'Europe",
       "f": null
+    },
+    {
+      "d": "2026-11-11",
+      "i": "a32adf0f67e1",
+      "t": "L'ÉDITO ÉCO - Les bateaux recommencent à passer dans le détroit d'Ormuz",
+      "r": "Les cours du pétrole baissent après des signaux d'apaisement dans le détroit d'Ormuz et des déclarations de Donald Trump.",
+      "c": "mondialisation",
+      "s": "BFM Business",
+      "f": "choc-petrolier-ormuz"
     },
     {
       "d": "2026-11-11",
@@ -157,6 +175,15 @@
     },
     {
       "d": "2026-11-11",
+      "i": "8cb9a6cbd8a1",
+      "t": "L’IA agentique lance à la finance française un défi social d’ampleur",
+      "r": "L'émergence de l'intelligence artificielle agentique pose un défi social majeur pour la finance française.",
+      "c": "finance",
+      "s": "L'Opinion",
+      "f": "intelligence-artificielle"
+    },
+    {
+      "d": "2026-11-11",
       "i": "308dcd3e6c54",
       "t": "« Le problème doit être réglé à Paris » : l'économiste en chef de la BCE exclut toute intervention en faveur de la dette française",
       "r": "",
@@ -190,6 +217,15 @@
       "c": "desequilibres",
       "s": "franceinfo",
       "f": "conjoncture-france"
+    },
+    {
+      "d": "2026-11-11",
+      "i": "7e69e7caffa0",
+      "t": "Immobilier : les transactions ralentissent sur fond de hausse des taux d’intérêt",
+      "r": "Les transactions immobilières ralentissent sur fond de hausse des taux d'intérêt, tandis que les prix affichent une légère baisse.",
+      "c": "desequilibres",
+      "s": "Le Monde",
+      "f": null
     },
     {
       "d": "2026-11-11",
@@ -265,6 +301,15 @@
     },
     {
       "d": "2026-11-11",
+      "i": "379c33c79245",
+      "t": "Pour \"soutenir la croissance de son réseau régional\", la compagnie hongkongaise Cathay Pacific investit 5,1 milliards de dollars dans 11 nouveaux Airbus",
+      "r": "La compagnie aérienne Cathay Pacific investit 5,1 milliards de dollars dans l'acquisition de 11 nouveaux Airbus pour soutenir la croissance de son réseau régional.",
+      "c": "entreprises",
+      "s": "BFM Business",
+      "f": null
+    },
+    {
+      "d": "2026-11-11",
       "i": "58a0e41035b3",
       "t": "Vers une importante hausse du taux du livret A en février, porté par l’inflation ?",
       "r": "Le livret A et le LDDS font partie des produits d'épargne réglementés dont les fonds placés sont actuellement rémunérés à 1,7%.",
@@ -297,6 +342,15 @@
       "r": "Les fondamentaux de l'économie numérique restent solides, offrant des opportunités d'investissement en Bourse à travers des actions, ETF et OPCVM.",
       "c": "epargne",
       "s": "Capital",
+      "f": null
+    },
+    {
+      "d": "2026-11-11",
+      "i": "825e7c21c15e",
+      "t": "Immobilier de premier choix, ventes lentes : pourquoi le stock d'appartements de luxe vides s'accumule à Londres",
+      "r": "Les logements de grand standing dans les quartiers huppés de Londres peinent à trouver preneurs, laissant les promoteurs face à des coûts croissants.",
+      "c": "epargne",
+      "s": "The Guardian",
       "f": null
     },
     {
