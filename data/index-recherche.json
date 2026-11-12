@@ -1,7 +1,223 @@
 {
   "version_schema": 1,
-  "mis_a_jour_le": "2026-11-11T10:13:14+01:00",
+  "mis_a_jour_le": "2026-11-12T05:58:56+01:00",
   "entrees": [
+    {
+      "d": "2026-11-12",
+      "i": "6ba2e3320848",
+      "t": "Moody’s prévoit seulement 0,2 % de croissance en France pour 2026",
+      "r": "L'agence Moody's a révisé à la baisse ses prévisions de croissance pour la France en 2026, tablant sur une progression du PIB de seulement 0,2 %.",
+      "c": "croissance",
+      "s": "La Tribune",
+      "f": "conjoncture-france"
+    },
+    {
+      "d": "2026-11-12",
+      "i": "9e316ae07889",
+      "t": "REPORTAGE. \"Quoi de mieux pour faire passer le message que de paralyser le pays ?\" : en Espagne, une grève générale pour dénoncer la crise du logement",
+      "r": "Des centaines de milliers d'Espagnols ont participé à une grève générale pour dénoncer la crise du logement et la baisse du pouvoir d'achat, à quelques semaines des élections législatives.",
+      "c": "desequilibres",
+      "s": "franceinfo",
+      "f": null
+    },
+    {
+      "d": "2026-11-12",
+      "i": "d31232220165",
+      "t": "Sabotage, défaillances, événement exceptionnel : après la crise russe, l'Allemagne instaure une réserve stratégique de gaz",
+      "r": "Le gouvernement allemand a adopté un projet de loi instaurant une réserve stratégique de gaz pour faire face à d'éventuelles crises majeures, dans un contexte de stockages bas.",
+      "c": "croissance",
+      "s": "Le Figaro",
+      "f": null
+    },
+    {
+      "d": "2026-11-12",
+      "i": "71683ee034e8",
+      "t": "Allemagne : le mur de la dette à 200 milliards qui rattrape Friedrich Merz",
+      "r": "Les cinq économistes conseillant le gouvernement allemand exhortent le chancelier Friedrich Merz à mener une politique de consolidation budgétaire rigoureuse face à un mur de la dette évalué à 200 milliards.",
+      "c": "desequilibres",
+      "s": "L'Opinion",
+      "f": null
+    },
+    {
+      "d": "2026-11-12",
+      "i": "f20fe6245a2b",
+      "t": "1 400 milliards de dollars de valorisation : l'ambition folle d'Anthropic pour son entrée en Bourse",
+      "r": "L'entreprise Anthropic vise une valorisation de 1 400 milliards de dollars pour son introduction en Bourse, malgré un déficit persistant et des prévisions de dépenses colossales d'ici 2045.",
+      "c": "finance",
+      "s": "La Tribune",
+      "f": "intelligence-artificielle"
+    },
+    {
+      "d": "2026-11-12",
+      "i": "84b1df9f9fbd",
+      "t": "Des députés du Labour mettent en garde contre l'affaiblissement des objectifs pour les véhicules électriques avant des pourparlers décisifs",
+      "r": "Des députés britanniques exhortent le gouvernement à ne pas affaiblir ses objectifs en matière de véhicules électriques pour 2030.",
+      "c": "croissance",
+      "s": "The Guardian",
+      "f": "automobile-europe-chine"
+    },
+    {
+      "d": "2026-11-12",
+      "i": "e7c924d3a351",
+      "t": "\"Plusieurs dépôts pétroliers sont en rupture\": le patron de Coopérative U alerte sur les tensions d'approvisionnement en carburant dans le nord-est de la France",
+      "r": "Le niveau bas du Rhin perturbe les approvisionnements et entraîne des ruptures ponctuelles de carburant dans le nord-est de la France.",
+      "c": "croissance",
+      "s": "BFM Business",
+      "f": "choc-petrolier-ormuz"
+    },
+    {
+      "d": "2026-11-12",
+      "i": "bb448f349a97",
+      "t": "Batteries : dans le Pas-de-Calais, une gigafactory porte les espoirs de l'industrie automobile française",
+      "r": "Dans le Pas-de-Calais, une gigafactory de batteries illustre les espoirs de l'industrie automobile face à la transition vers les véhicules électriques.",
+      "c": "croissance",
+      "s": "franceinfo",
+      "f": "automobile-europe-chine"
+    },
+    {
+      "d": "2026-11-12",
+      "i": "9eb6db0e48c1",
+      "t": "« Comme les dinosaures, les énergies fossiles doivent disparaitre » : à la COP31, le chef de l'ONU cible le lobby des hydrocarbures",
+      "r": "Lors de la COP31, le chef de l'ONU a mis en cause le lobby des énergies fossiles et a appelé à prélever une partie de leurs bénéfices pour aider les pays exposés.",
+      "c": "croissance",
+      "s": "La Tribune",
+      "f": null
+    },
+    {
+      "d": "2026-11-12",
+      "i": "9d0d033d10a3",
+      "t": "« Aucun modèle ne sera plus utilisé » : l'armée allemande bannit ses drones chinois, craignant un risque d'espionnage",
+      "r": "Face aux tensions géopolitiques, l'Allemagne décide d'écarter les drones chinois et de privilégier des solutions nationales et européennes pour protéger ses infrastructures militaires.",
+      "c": "mondialisation",
+      "s": "La Tribune",
+      "f": null
+    },
+    {
+      "d": "2026-11-12",
+      "i": "a05266139980",
+      "t": "« Certains transporteurs immobilisent leurs flottes » : la crise du diesel augmente la pression sur la logistique aux Etats-Unis",
+      "r": "",
+      "c": "mondialisation",
+      "s": "Les Echos",
+      "f": null
+    },
+    {
+      "d": "2026-11-12",
+      "i": "6d98529d1367",
+      "t": "Engie «offre en Bourse un gros dividende et garde de solides arguments, mais gare à la dette !»",
+      "r": "L'action Engie présente de solides résultats et un rendement de dividende élevé, mais reste exposée à une dette importante suite à une acquisition.",
+      "c": "finance",
+      "s": "Capital",
+      "f": null
+    },
+    {
+      "d": "2026-11-12",
+      "i": "23565797d1ba",
+      "t": "Des affrontements éclates à Barcelone après que des milliers de personnes ont participé à la grève générale en Espagne",
+      "r": "Des dizaines de milliers de personnes participent à une grève générale en Espagne pour protester contre le coût de la vie et la crise du logement.",
+      "c": "desequilibres",
+      "s": "BBC",
+      "f": null
+    },
+    {
+      "d": "2026-11-12",
+      "i": "c46c040f4d7c",
+      "t": "« Une tâche d'une ampleur d'historique » : les experts du chancelier Merz mettent les pieds dans le plat sur la question de la dette allemande",
+      "r": "",
+      "c": "desequilibres",
+      "s": "Les Echos",
+      "f": null
+    },
+    {
+      "d": "2026-11-12",
+      "i": "a732b06a429c",
+      "t": "La hausse du smic mettra 164 branches professionnelles dans « l’illégalité », pointe la CGT",
+      "r": "La revalorisation du smic prévue le 1er décembre pourrait placer de nombreuses branches professionnelles en situation de non-conformité selon la CGT.",
+      "c": "desequilibres",
+      "s": "Le Monde",
+      "f": "conjoncture-france"
+    },
+    {
+      "d": "2026-11-12",
+      "i": "ef0f00fa6658",
+      "t": "Italie : pour boucler son budget, Meloni ouvre un nouveau front avec les banques",
+      "r": "Pour boucler son budget face à des marges de manœuvre réduites, le gouvernement italien multiplie les prélèvements sur le secteur financier.",
+      "c": "desequilibres",
+      "s": "L'Opinion",
+      "f": null
+    },
+    {
+      "d": "2026-11-12",
+      "i": "5d7c8014ac99",
+      "t": "Influenceurs, « interfaces trompeuses », jeux vidéo : l’UE veut mieux protéger les consommateurs en ligne",
+      "r": "La Commission européenne présente un projet de loi sur l'équité numérique prévoyant des amendes allant jusqu'à 6 % du chiffre d'affaires mondial.",
+      "c": "ue",
+      "s": "Le Monde",
+      "f": null
+    },
+    {
+      "d": "2026-11-12",
+      "i": "04acb444f2ba",
+      "t": "« C'est le moment de se projeter » : comment l'Europe se prépare à financer l'effort de guerre ukrainien sur le long terme",
+      "r": "",
+      "c": "ue",
+      "s": "Les Echos",
+      "f": "budget-ue"
+    },
+    {
+      "d": "2026-11-12",
+      "i": "4841e25df728",
+      "t": "« Eviter le pugilat collectif » : les pistes du Plan pour réformer l'inextricable budget européen",
+      "r": "",
+      "c": "ue",
+      "s": "Les Echos",
+      "f": "budget-ue"
+    },
+    {
+      "d": "2026-11-12",
+      "i": "4c36d7e86a00",
+      "t": "IA : une charte pour protéger les plus jeunes adoptée par des géants du secteur",
+      "r": "Des géants de l'intelligence artificielle, dont OpenAI et Anthropic, adoptent une charte visant à protéger les jeunes utilisateurs et à interdire certains contenus.",
+      "c": "entreprises",
+      "s": "L'Opinion",
+      "f": "intelligence-artificielle"
+    },
+    {
+      "d": "2026-11-12",
+      "i": "b4e48404e428",
+      "t": "Le patron de Nvidia, mis en cause pour une liaison avec une Chinoise soupçonnée d’espionnage, accusé d’avoir eu une seconde affaire sentimentale avec une salariée",
+      "r": "Le conseil d'administration de Nvidia se prépare à statuer sur le sort de son fondateur Jensen Huang, visé par des accusations d'affaires sentimentales avec des salariées.",
+      "c": "entreprises",
+      "s": "Le Monde",
+      "f": null
+    },
+    {
+      "d": "2026-11-12",
+      "i": "200b1bb92c18",
+      "t": "Easyjet passe sous pavillon américain mais promet que ses prix resteront \"abordables\": les actionnaires de la compagnie aérienne à bas coût approuvent très largement son rachat par le fonds d'investissement Apollo",
+      "r": "Les actionnaires d'Easyjet ont approuvé à 97 % le rachat de la compagnie aérienne britannique par le fonds d'investissement américain Apollo.",
+      "c": "entreprises",
+      "s": "BFM Business",
+      "f": null
+    },
+    {
+      "d": "2026-11-12",
+      "i": "cadd2275718e",
+      "t": "Bénéfices en forte hausse et ventes records : le géant pétrolier brésilien Petrobras carbure au 3e trimestre",
+      "r": "Au troisième trimestre, le géant pétrolier brésilien Petrobras a enregistré une hausse de 21,5 % de son bénéfice net, atteignant 7,7 milliards de dollars grâce à des ventes records.",
+      "c": "entreprises",
+      "s": "La Tribune",
+      "f": null
+    },
+    {
+      "d": "2026-11-12",
+      "i": "525a8e66829d",
+      "t": "Placements : les fonds français parmi les plus chers d'Europe",
+      "r": "",
+      "c": "epargne",
+      "s": "Les Echos",
+      "f": null
+    },
     {
       "d": "2026-11-11",
       "i": "8ea8493d0266",

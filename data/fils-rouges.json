@@ -1,6 +1,6 @@
 {
   "version_schema": 1,
-  "mis_a_jour_le": "2026-11-11T10:14:54+01:00",
+  "mis_a_jour_le": "2026-11-12T06:01:01+01:00",
   "fils": [
     {
       "id": "budget-2027",
@@ -1461,8 +1461,8 @@
       "categories": [
         "desequilibres"
       ],
-      "ou_en_est_on": "La campagne présidentielle de 2027 structure le calendrier politique et économique. Les organisations patronales (Medef, Les Entrepreneurs, U2P) annoncent une audition collective des candidats sur leurs programmes économiques en amont du premier tour. En parallèle, les enjeux de financement de la vie politique ressurgissent avec les démarches de Matignon incitant le secteur bancaire à prêter aux candidats, alors que les prétendants poursuivent leurs interventions sur les questions industrielles et de défense.",
-      "ou_en_est_on_maj_le": "2026-11-06",
+      "ou_en_est_on": "La campagne présidentielle de 2027 structure progressivement les débats économiques et politiques. Les candidats précisent leurs propositions programmatiques, qu'il s'agisse du temps de travail, des retraites ou de la fiscalité, tandis que les organisations patronales préparent des auditions collectives. En parallèle, les prétendants multiplient les contacts directs avec les représentants du monde économique et industriel.",
+      "ou_en_est_on_maj_le": "2026-11-12",
       "evenements": [
         {
           "date": "2026-10-20",
@@ -1606,6 +1606,17 @@
               "titre": "Partir à 62 ans, ne pas cotiser davantage et économiser 140 milliards d’euros: comment Jordan Bardella compte-t-il financer ses promesses qui coûteraient près de 15 milliards d’euros de plus par an?",
               "source": "BFM Business",
               "url": "https://www.bfmtv.com/economie/patrimoine/retraite/partir-a-62-ans-ne-pas-cotiser-davantage-et-economiser-140-milliards-d-euros-comment-jordan-bardella-compte-t-il-financer-ses-promesses-qui-couteraient-pres-de-15-milliards-d-euros-de-plus-par-an_AV-202611100981.html"
+            }
+          ]
+        },
+        {
+          "date": "2026-11-12",
+          "resume": "La candidate du Rassemblement national Marine Le Pen a poursuivi ses rencontres avec des dirigeants de grandes entreprises et la fédération France Industrie.",
+          "liens": [
+            {
+              "titre": "Présidentielle 2027 : Marine Le Pen a rencontré plusieurs dirigeants de grandes entreprises, dont Renault et Dassault, fin octobre",
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/economie/article/2026/11/11/presidentielle-2027-marine-le-pen-a-rencontre-plusieurs-dirigeants-de-grandes-entreprises-dont-renault-et-totalenergies-fin-octobre_6808967_3234.html"
             }
           ]
         }
@@ -1872,8 +1883,8 @@
         "desequilibres",
         "entreprises"
       ],
-      "ou_en_est_on": "Face aux contestations sur le pouvoir d'achat, le gouvernement annonce une hausse du Smic de 1,6 % au 1er décembre, suscitant des réactions partagées entre syndicats et organisations patronales. Parallèlement, le taux de chômage s'établit à 8,2 % au troisième trimestre selon l'Insee, tandis que la Banque de France revoit sa prévision de croissance à 0,3 % pour 2026 dans un climat d'incertitude pour les entreprises.",
-      "ou_en_est_on_maj_le": "2026-11-10",
+      "ou_en_est_on": "La conjoncture française reste marquée par des perspectives de croissance moroses, l'agence Moody's abaissant sa prévision à 0,2 % pour 2026. Parallèlement, l'annonce d'une revalorisation du smic au 1er décembre suscite des tensions sur le plan social et salarial, la CGT pointant le risque de non-conformité pour de nombreuses branches professionnelles. Cette situation s'ajoute à des contentieux prud'hommaux en hausse et à des contrastes sectoriels entre difficultés industrielles et dynamisme de certains grands chantiers.",
+      "ou_en_est_on_maj_le": "2026-11-12",
       "evenements": [
         {
           "date": "2026-10-17",
@@ -2574,6 +2585,22 @@
               "url": "https://www.franceinfo.fr/replay-radio/la-question-des-informes/le-chomage-des-jeunes-est-un-effet-de-la-conjoncture-estime-stephane-carcillo-professeur-au-departement-d-economie-de-sciences-po_8254987.html#xtor=RSS-3-%5Beconomie%5D"
             }
           ]
+        },
+        {
+          "date": "2026-11-12",
+          "resume": "L'agence Moody's révise à la baisse ses prévisions de croissance pour la France en 2026 à 0,2 %, tandis que la CGT alerte sur l'impact de la hausse du smic pour de nombreuses branches professionnelles.",
+          "liens": [
+            {
+              "titre": "Moody’s prévoit seulement 0,2 % de croissance en France pour 2026",
+              "source": "La Tribune",
+              "url": "https://www.latribune.fr/article/economie/4320375563790114/moodys-prevoit-seulement-0-2-de-croissance-en-france-pour-2026"
+            },
+            {
+              "titre": "La hausse du smic mettra 164 branches professionnelles dans « l’illégalité », pointe la CGT",
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/economie/article/2026/11/12/la-hausse-du-smic-mettra-164-branches-professionnelles-dans-l-illegalite-pointe-la-cgt_6809037_3234.html"
+            }
+          ]
         }
       ]
     },
@@ -2588,8 +2615,8 @@
         "entreprises",
         "ue"
       ],
-      "ou_en_est_on": "Le marché de l'intelligence artificielle traverse une période de fortes turbulences boursières, illustrée par la chute de capitalisation de Nvidia et les révisions de valorisation pour l'introduction d'Anthropic. Parallèlement, les enjeux de sécurité prennent de l'ampleur avec des accusations de dissimulation visant certains modèles et un partenariat de surveillance noué par Microsoft avec les autorités françaises. Dans le même temps, les grands groupes comme Orange continuent d'intégrer ces technologies dans leurs offres commerciales auprès du grand public.",
-      "ou_en_est_on_maj_le": "2026-11-11",
+      "ou_en_est_on": "Le secteur de l'intelligence artificielle combine des ambitions financières monumentales, illustrées par le projet d'introduction en Bourse d'Anthropic visant 1 400 milliards de dollars, et des initiatives de régulation. Face aux critiques et aux risques d'addiction ou d'exposition à des contenus inappropriés, plusieurs acteurs majeurs du secteur ont adopté une charte pour garantir la sûreté des jeunes utilisateurs. Parallèlement, les défis énergétiques liés à l'alimentation des centres de données et les turbulences boursières continuent d'animer le marché.",
+      "ou_en_est_on_maj_le": "2026-11-12",
       "evenements": [
         {
           "date": "2026-10-17",
@@ -3136,6 +3163,22 @@
               "titre": "En accord avec le gouvernement, Microsoft s’implique dans la surveillance des risques liés aux IA",
               "source": "Le Figaro",
               "url": "https://www.lefigaro.fr/secteur/high-tech/en-accord-avec-le-gouvernement-microsoft-s-implique-dans-la-surveillance-des-risques-lies-aux-ia-20261110"
+            }
+          ]
+        },
+        {
+          "date": "2026-11-12",
+          "resume": "Anthropic vise une valorisation de 1 400 milliards de dollars pour son introduction en Bourse, tandis que des géants de la tech adoptent une charte pour protéger les jeunes utilisateurs.",
+          "liens": [
+            {
+              "titre": "1 400 milliards de dollars de valorisation : l'ambition folle d'Anthropic pour son entrée en Bourse",
+              "source": "La Tribune",
+              "url": "https://www.latribune.fr/article/tech/12437381461892/1-400-milliards-de-dollars-de-valorisation-lambition-folle-danthropic-pour-son-entree-en-bourse"
+            },
+            {
+              "titre": "IA : une charte pour protéger les plus jeunes adoptée par des géants du secteur",
+              "source": "L'Opinion",
+              "url": "https://www.lopinion.fr/economie/ia-une-charte-pour-proteger-les-plus-jeunes-adoptee-par-des-geants-du-secteur"
             }
           ]
         }
