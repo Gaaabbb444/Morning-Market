@@ -1,6 +1,6 @@
 {
   "version_schema": 1,
-  "mis_a_jour_le": "2026-11-12T05:58:56+01:00",
+  "mis_a_jour_le": "2026-11-12T10:18:05+01:00",
   "entrees": [
     {
       "d": "2026-11-12",
@@ -85,6 +85,15 @@
     },
     {
       "d": "2026-11-12",
+      "i": "826cb0c90a03",
+      "t": "L'économie britannique connaît sa croissance la plus rapide depuis plus de deux ans",
+      "r": "Le PIB du Royaume-Uni a progressé de 0,7 % au troisième trimestre, marquant sa plus forte expansion depuis deux ans et demi selon les chiffres officiels.",
+      "c": "croissance",
+      "s": "The Guardian",
+      "f": null
+    },
+    {
+      "d": "2026-11-12",
       "i": "9d0d033d10a3",
       "t": "« Aucun modèle ne sera plus utilisé » : l'armée allemande bannit ses drones chinois, craignant un risque d'espionnage",
       "r": "Face aux tensions géopolitiques, l'Allemagne décide d'écarter les drones chinois et de privilégier des solutions nationales et européennes pour protéger ses infrastructures militaires.",
@@ -103,11 +112,38 @@
     },
     {
       "d": "2026-11-12",
+      "i": "08c92727bc21",
+      "t": "La baisse des prix du raffinage, signe d'un retour à la normale sur le marché pétrolier ?",
+      "r": "Selon l'Opep, le prix mondial du raffinage de pétrole a baissé en octobre après une forte hausse liée au conflit au Moyen-Orient.",
+      "c": "mondialisation",
+      "s": "franceinfo",
+      "f": "choc-petrolier-ormuz"
+    },
+    {
+      "d": "2026-11-12",
       "i": "6d98529d1367",
       "t": "Engie «offre en Bourse un gros dividende et garde de solides arguments, mais gare à la dette !»",
       "r": "L'action Engie présente de solides résultats et un rendement de dividende élevé, mais reste exposée à une dette importante suite à une acquisition.",
       "c": "finance",
       "s": "Capital",
+      "f": null
+    },
+    {
+      "d": "2026-11-12",
+      "i": "70017a86c469",
+      "t": "Bourse : quelles actions privilégier pour profiter du risque sur la France ou l’éviter ?",
+      "r": "Face au risque sur la France, les investisseurs en Bourse hésitent entre éviter ou exploiter cette situation selon le courtier TP Icap.",
+      "c": "finance",
+      "s": "Capital",
+      "f": "dette-marches"
+    },
+    {
+      "d": "2026-11-12",
+      "i": "1f9d29ef199b",
+      "t": "Anthropic, l'IPO à double détente",
+      "r": "",
+      "c": "finance",
+      "s": "Les Echos",
       "f": null
     },
     {
@@ -148,6 +184,15 @@
     },
     {
       "d": "2026-11-12",
+      "i": "aa00381db6c0",
+      "t": "En Allemagne, le comité des « sages » alerte : le réarmement est financé par un endettement excessif",
+      "r": "Le comité des « sages » allemand alerte sur le financement du réarmement par l'endettement, qui pourrait porter la dette publique à 98 % du PIB en 2040.",
+      "c": "desequilibres",
+      "s": "Le Figaro",
+      "f": null
+    },
+    {
+      "d": "2026-11-12",
       "i": "5d7c8014ac99",
       "t": "Influenceurs, « interfaces trompeuses », jeux vidéo : l’UE veut mieux protéger les consommateurs en ligne",
       "r": "La Commission européenne présente un projet de loi sur l'équité numérique prévoyant des amendes allant jusqu'à 6 % du chiffre d'affaires mondial.",
@@ -172,6 +217,24 @@
       "c": "ue",
       "s": "Les Echos",
       "f": "budget-ue"
+    },
+    {
+      "d": "2026-11-12",
+      "i": "3f4e238d98fb",
+      "t": "Recommandations publicitaires, abonnements forcés, prix mensongers… Bruxelles s’attaque aux pratiques trompeuses des sites marchands",
+      "r": "Bruxelles propose une loi sur l'équité numérique pour lutter contre les pratiques trompeuses des sites marchands et protéger les consommateurs.",
+      "c": "ue",
+      "s": "Le Figaro",
+      "f": null
+    },
+    {
+      "d": "2026-11-12",
+      "i": "a5de309bdaf0",
+      "t": "Qu'est-ce que la Communauté politique européenne ?",
+      "r": "La Communauté politique européenne constitue une instance informelle de coopération intergouvernementale réunissant 47 pays à l'initiative d'Emmanuel Macron.",
+      "c": "ue",
+      "s": "Toute l'Europe",
+      "f": null
     },
     {
       "d": "2026-11-12",
@@ -211,12 +274,57 @@
     },
     {
       "d": "2026-11-12",
+      "i": "bee007a93fb5",
+      "t": "Le conseil d'administration de Nvidia se réunirait pour décider de l'avenir du PDG Jensen Huang alors que le cours de l'action du géant des puces plonge",
+      "r": "Le conseil d'administration de Nvidia se réunit pour statuer sur l'avenir de son directeur général dans un contexte de baisse du cours boursier.",
+      "c": "entreprises",
+      "s": "The Guardian",
+      "f": null
+    },
+    {
+      "d": "2026-11-12",
       "i": "525a8e66829d",
       "t": "Placements : les fonds français parmi les plus chers d'Europe",
       "r": "",
       "c": "epargne",
       "s": "Les Echos",
       "f": null
+    },
+    {
+      "d": "2026-11-12",
+      "i": "157e9deb6a6d",
+      "t": "SCPI : faut-il vendre ou acheter des parts alors que le marché recule ?",
+      "r": "Le marché des SCPI traverse une phase de repli depuis 2023, interrogeant les investisseurs sur l'opportunité d'acheter ou de vendre des parts.",
+      "c": "epargne",
+      "s": "Capital",
+      "f": "fiscalite-epargne-patrimoine"
+    },
+    {
+      "d": "2026-11-12",
+      "i": "df3ead10ebb3",
+      "t": "Donation d’argent investie dans une société : quel rapport à la succession ?",
+      "r": "Le donataire d’une somme d’argent investie dans une société doit la valeur actuelle des titres, déduction faite de la plus-value liée à son travail.",
+      "c": "epargne",
+      "s": "Le Monde",
+      "f": "fiscalite-epargne-patrimoine"
+    },
+    {
+      "d": "2026-11-12",
+      "i": "709d252cc842",
+      "t": "« Si vous ne comprenez pas un document, il ne faut pas le signer » : derrière les promesses alléchantes du crowdfunding, ces montages qui peuvent piéger les épargnants",
+      "r": "",
+      "c": "epargne",
+      "s": "Les Echos",
+      "f": null
+    },
+    {
+      "d": "2026-11-12",
+      "i": "fc1c30552517",
+      "t": "« Il commence à y avoir plus de contrôles » : attention aux faux pas fiscaux avec la crypto",
+      "r": "",
+      "c": "epargne",
+      "s": "Les Echos",
+      "f": "fiscalite-epargne-patrimoine"
     },
     {
       "d": "2026-11-11",

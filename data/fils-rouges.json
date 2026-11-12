@@ -1,6 +1,6 @@
 {
   "version_schema": 1,
-  "mis_a_jour_le": "2026-11-12T06:01:01+01:00",
+  "mis_a_jour_le": "2026-11-12T10:18:19+01:00",
   "fils": [
     {
       "id": "budget-2027",
@@ -523,6 +523,17 @@
               "titre": "Biscuits, gâteaux, glaces, bonbons: en plein examen du budget de la Sécu, les sénateurs approuvent la création d'une taxe sur les produits sucrés (mais qui a été rejetée par les députés)",
               "source": "BFM Business",
               "url": "https://www.bfmtv.com/economie/economie-social/finances-publiques/biscuits-gateaux-glaces-bonbons-en-plein-examen-du-budget-de-la-secu-les-senateurs-approuvent-la-creation-d-une-taxe-sur-les-produits-sucres-mais-qui-a-ete-rejetee-par-les-deputes_AD-202611100861.html"
+            }
+          ]
+        },
+        {
+          "date": "2026-11-12",
+          "resume": "Le projet de budget 2027 ne prévoit pas de réformer le crédit d'impôt recherche ou le pacte Dutreil, malgré des critiques persistantes sur leur coût et leur efficacité.",
+          "liens": [
+            {
+              "titre": "Crédit d’impôt recherche, pacte Dutreil… : « Quitte à mettre un “pognon de dingue” dans les aides publiques aux entreprises, encore faudrait-il que la collectivité en ait pour son argent »",
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/idees/article/2026/11/12/credit-d-impot-recherche-pacte-dutreil-quitte-a-mettre-un-pognon-de-dingue-dans-les-aides-publiques-aux-entreprises-encore-faudrait-il-que-la-collectivite-en-ait-pour-son-argent_6809058_3232.html"
             }
           ]
         }
@@ -2588,7 +2599,7 @@
         },
         {
           "date": "2026-11-12",
-          "resume": "L'agence Moody's révise à la baisse ses prévisions de croissance pour la France en 2026 à 0,2 %, tandis que la CGT alerte sur l'impact de la hausse du smic pour de nombreuses branches professionnelles.",
+          "resume": "Le ministre du Travail réunit un comité de suivi des salaires avec les partenaires sociaux, tandis que le tribunal de commerce de Toulouse prononce la liquidation de l'usine Fibre Excellence de Saint-Gaudens.",
           "liens": [
             {
               "titre": "Moody’s prévoit seulement 0,2 % de croissance en France pour 2026",
@@ -2599,6 +2610,16 @@
               "titre": "La hausse du smic mettra 164 branches professionnelles dans « l’illégalité », pointe la CGT",
               "source": "Le Monde",
               "url": "https://www.lemonde.fr/economie/article/2026/11/12/la-hausse-du-smic-mettra-164-branches-professionnelles-dans-l-illegalite-pointe-la-cgt_6809037_3234.html"
+            },
+            {
+              "titre": "Colère sociale : le ministre du Travail réunit un «comité exceptionnel de suivi des salaires» ce jeudi",
+              "source": "Le Figaro",
+              "url": "https://www.lefigaro.fr/social/colere-sociale-le-ministre-du-travail-reunit-un-comite-exceptionnel-de-suivi-des-salaires-ce-jeudi-20261112"
+            },
+            {
+              "titre": "Fibre excellence : la liquidation de l'usine Saint-Gaudens prononcée, plus de 200 personnes licenciées",
+              "source": "La Tribune",
+              "url": "https://www.latribune.fr/article/entreprises-finance/industrie/22846972909802/fibre-excellence-la-liquidation-de-lusine-saint-gaudens-prononcee-plus-de-200-personnes-licenciees"
             }
           ]
         }
