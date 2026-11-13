@@ -1,7 +1,304 @@
 {
   "version_schema": 1,
-  "mis_a_jour_le": "2026-11-12T10:18:05+01:00",
+  "mis_a_jour_le": "2026-11-13T06:01:38+01:00",
   "entrees": [
+    {
+      "d": "2026-11-13",
+      "i": "fbcdf8b1016f",
+      "t": "Budget : la majorité sénatoriale veut diminuer le déficit de 6 milliards d'euros de plus",
+      "r": "La rapporteuse générale du Budget à la chambre haute a annoncé la volonté de la majorité de combler un trou supplémentaire de 0,2 % du PIB entre recettes et dépenses en 2027, tout en réduisant l’effort des collectivités.",
+      "c": "desequilibres",
+      "s": "L'Opinion",
+      "f": "budget-2027"
+    },
+    {
+      "d": "2026-11-13",
+      "i": "fd1c06c6dbc1",
+      "t": "Mercedes-Benz suspend tout nouvel investissement en Allemagne et envisage de fermer des usines dans les pays s'il n'arrive pas y réduire ses coûts",
+      "r": "Mercedes‑Benz a indiqué, dans un entretien interne diffusé aux salariés, qu’il examinait la possibilité de fermer des usines en Allemagne et de suspendre tout nouvel investissement, afin de réduire drastiquement ses coûts de production face à la concurrence chinoise.",
+      "c": "entreprises",
+      "s": "BFM Business",
+      "f": "automobile-europe-chine"
+    },
+    {
+      "d": "2026-11-13",
+      "i": "37bc7cb6c1d3",
+      "t": "Budget 2027 : Sébastien Lecornu veut faire de l’agriculture le terrain du compromis",
+      "r": "Le gouvernement annonce un soutien de plus de 2,2 milliards d'euros au secteur agricole, dont 725 millions pour le plan de relance et l'adaptation climatique.",
+      "c": "croissance",
+      "s": "Capital",
+      "f": "budget-2027"
+    },
+    {
+      "d": "2026-11-13",
+      "i": "5294232b48a2",
+      "t": "Logements : les promoteurs immobiliers s’enfoncent un peu plus dans la crise",
+      "r": "Selon la Fédération des promoteurs immobiliers de France, les réservations d’achat de logements neufs ont reculé de 24,4 % au troisième trimestre, sous l’effet de la hausse des taux et d’un contexte international inquiétant.",
+      "c": "desequilibres",
+      "s": "Le Monde",
+      "f": "conjoncture-france"
+    },
+    {
+      "d": "2026-11-13",
+      "i": "b4b275288cdf",
+      "t": "« La perte de Jensen Huang est un véritable coup dur » : la chute du patron de Nvidia provoque un séisme sur la planète IA",
+      "r": "Le départ contraint du fondateur et PDG de Nvidia, Jensen Huang, est décrit comme un véritable bouleversement pour l’entreprise et l’écosystème très dépendant de son leadership.",
+      "c": "entreprises",
+      "s": "Le Figaro",
+      "f": "intelligence-artificielle"
+    },
+    {
+      "d": "2026-11-13",
+      "i": "63582f48b13d",
+      "t": "\"La situation sera difficile dans les années à venir\"",
+      "r": "Pierre-Olivier Gourinchas souligne quatre enjeux majeurs pour la décennie à venir : la transformation démographique, l'intelligence artificielle, la compétition avec la Chine et le climat.",
+      "c": "croissance",
+      "s": "BFM Business",
+      "f": null
+    },
+    {
+      "d": "2026-11-13",
+      "i": "13e5498f59ae",
+      "t": "Plan de relance agricole : une enveloppe \"ridicule\" qui ne peut \"régler une crise structurelle\", juge le député écologiste Benoît Biteau",
+      "r": "Le plan de relance agricole pour 2027 est jugé insuffisant par le député Benoît Biteau et la FNSEA, qui réclame la garantie d'un revenu.",
+      "c": "croissance",
+      "s": "franceinfo",
+      "f": null
+    },
+    {
+      "d": "2026-11-13",
+      "i": "b563536e9855",
+      "t": "Hors de Londres, l’économie britannique est à bout de souffle",
+      "r": "Le Royaume-Uni connaît une croissance anémique depuis près de deux décennies, illustrant un malaise économique persistant en dehors de Londres.",
+      "c": "croissance",
+      "s": "Le Monde",
+      "f": "conjoncture-france"
+    },
+    {
+      "d": "2026-11-13",
+      "i": "c7d9e154b2a8",
+      "t": "« Le développement économique incarné par l’essor des data centers conduit l’humanité vers une fracture inégalitaire »",
+      "r": "Le développement des centres de données soulève des inquiétudes quant à l'accentuation des fractures inégalitaires au sein de la société.",
+      "c": "croissance",
+      "s": "Le Monde",
+      "f": null
+    },
+    {
+      "d": "2026-11-13",
+      "i": "1749840cafd7",
+      "t": "Russie-Ukraine : des négociations qui s'accélèrent",
+      "r": "Les discussions entre la Russie et l'Ukraine s'accélèrent, soulevant la question de la représentation de l'Europe et de leur impact sur les cours du pétrole.",
+      "c": "mondialisation",
+      "s": "BFM Business",
+      "f": "ukraine-sanctions"
+    },
+    {
+      "d": "2026-11-13",
+      "i": "06a62d89864e",
+      "t": "Les voitures chinoises accusées d'espionnage",
+      "r": "Un eurodéputé a saisi la Commission européenne et le gouvernement français pour signaler des risques d'espionnage liés aux véhicules chinois.",
+      "c": "mondialisation",
+      "s": "BFM Business",
+      "f": null
+    },
+    {
+      "d": "2026-11-13",
+      "i": "4d61f65015e1",
+      "t": "L'industrie automobile britannique va faire pression sur l'UE pour obtenir un report de deux ans des tarifs douaniers du Brexit sur les VE",
+      "r": "L'industrie automobile britannique se prépare à demander un report de deux ans sur les règles d'origine concernant les batteries de véhicules électriques.",
+      "c": "mondialisation",
+      "s": "The Guardian",
+      "f": "automobile-europe-chine"
+    },
+    {
+      "d": "2026-11-13",
+      "i": "ded9a0c83a7d",
+      "t": "Au Canada, « une usine fantôme de Stellantis est ballottée au rythme de la guerre commerciale et du réarmement mondial »",
+      "r": "Stellantis a annoncé la vente de son site industriel de Brampton en Ontario à l'industriel de défense canadien Roshel, illustrant les recompositions industrielles face à la guerre commerciale.",
+      "c": "mondialisation",
+      "s": "Le Monde",
+      "f": null
+    },
+    {
+      "d": "2026-11-13",
+      "i": "e531e972ab5f",
+      "t": "La succession de Christine Lagarde se prépare",
+      "r": "La succession de Christine Lagarde à la tête de la BCE se prépare alors que son mandat se termine plus tôt que prévu.",
+      "c": "finance",
+      "s": "BFM Business",
+      "f": "inflation-bce"
+    },
+    {
+      "d": "2026-11-13",
+      "i": "bd1c4a4307c7",
+      "t": "Nvidia : après la chute de Jensen Huang, qui peut sauver l'empire à 4 500 milliards de dollars ?",
+      "r": "Le départ du directeur général de Nvidia entraîne une forte baisse du cours de l'action, tandis que la directrice financière assure l'intérim.",
+      "c": "finance",
+      "s": "La Tribune",
+      "f": null
+    },
+    {
+      "d": "2026-11-13",
+      "i": "89400ca75518",
+      "t": "Nvidia : 800 milliards de dollars de capitalisation partis en fumée, le coût faramineux de la démission de Jensen Huang",
+      "r": "",
+      "c": "finance",
+      "s": "Les Echos",
+      "f": null
+    },
+    {
+      "d": "2026-11-13",
+      "i": "3fe320578a62",
+      "t": "L'industrie de l'IA à l'épreuve de la crise de Nvidia",
+      "r": "L'industrie de l'intelligence artificielle est fragilisée par l'affaire Jensen Huang, soulignant la forte dépendance de l'écosystème envers Nvidia.",
+      "c": "finance",
+      "s": "BFM Business",
+      "f": "intelligence-artificielle"
+    },
+    {
+      "d": "2026-11-13",
+      "i": "3de9bca05278",
+      "t": "Bruno Théret, économiste : « Ce n’est pas le système de protection sociale qu’il faut réformer, mais notre régime fiscal »",
+      "r": "L'économiste Bruno Théret estime qu'il faut adapter la protection sociale en révisant le régime fiscal plutôt qu'en réformant le système lui-même.",
+      "c": "desequilibres",
+      "s": "Le Monde",
+      "f": null
+    },
+    {
+      "d": "2026-11-13",
+      "i": "14aaada21bee",
+      "t": "Christine Lagarde devance Edouard Philippe et Gabriel Attal dans son premier sondage",
+      "r": "Un sondage pour l'élection présidentielle de 2027 place Marine Le Pen en tête et crédite la présidente de la BCE, Christine Lagarde, de 14 % d'intentions de vote.",
+      "c": "desequilibres",
+      "s": "L'Opinion",
+      "f": "presidentielle-2027"
+    },
+    {
+      "d": "2026-11-13",
+      "i": "6e1c0799bf40",
+      "t": "Projet de Bruno Le Maire : chômage limité à 12 mois, retraite à 65 ans, ce que contiennent ses 50 propositions",
+      "r": "L'ancien ministre de l'Économie Bruno Le Maire dévoile un projet de cinquante propositions prévoyant notamment un chômage limité à douze mois et le recul de l'âge de la retraite à 65 ans.",
+      "c": "desequilibres",
+      "s": "Capital",
+      "f": "presidentielle-2027"
+    },
+    {
+      "d": "2026-11-13",
+      "i": "ac06c08dc00b",
+      "t": "\"Ce n'est pas possible en 2032, il ne faut pas mentir\": Marine Tondelier veut toujours sortir du nucléaire si elle remporte la présidentielle mais assure qu'elle ne sera pas \"la candidate du black-out\"",
+      "r": "La candidate écologiste Marine Tondelier défend une hausse du salaire minimum à 2 000 euros net et confirme son objectif de sortie du nucléaire en cas de victoire présidentielle.",
+      "c": "desequilibres",
+      "s": "BFM Business",
+      "f": "presidentielle-2027"
+    },
+    {
+      "d": "2026-11-13",
+      "i": "0e8f27a85622",
+      "t": "EU Inc : pourquoi le statut unifié des entreprises européennes n’est pas pour tout de suite",
+      "r": "Les négociations sur le statut unifié des entreprises européennes patinent au Parlement européen, notamment en raison des désaccords sur les droits des salariés.",
+      "c": "ue",
+      "s": "La Tribune",
+      "f": null
+    },
+    {
+      "d": "2026-11-13",
+      "i": "fde9b1ba56cd",
+      "t": "EES : Bruxelles a attaqué IBM, Atos et Leonardo",
+      "r": "L'agence européenne EU-Lisa a engagé des actions en justice contre IBM, Atos et Leonardo en raison des retards du nouveau système EES.",
+      "c": "ue",
+      "s": "La Tribune",
+      "f": null
+    },
+    {
+      "d": "2026-11-13",
+      "i": "0ade4347dd10",
+      "t": "L'agenda européen : les principaux événements prévus du 16 au 22 novembre 2026",
+      "r": "Le premier Forum européen sur l'élargissement réunit à Bruxelles des dirigeants pour discuter des réformes nécessaires pour accueillir de nouveaux membres.",
+      "c": "ue",
+      "s": "Toute l'Europe",
+      "f": null
+    },
+    {
+      "d": "2026-11-13",
+      "i": "b31675ff92cf",
+      "t": "Abonnements piégés, fausses promotions, réseaux sociaux… l'Union européenne veut mieux protéger les consommateurs en ligne",
+      "r": "L'Union européenne souhaite renforcer la protection des consommateurs en ligne face aux pratiques commerciales trompeuses et aux fausses pressions d'achat.",
+      "c": "ue",
+      "s": "Toute l'Europe",
+      "f": null
+    },
+    {
+      "d": "2026-11-13",
+      "i": "8c4de1508a96",
+      "t": "Jensen Huang a démissionné, quel avenir pour Nvidia ?",
+      "r": "Jensen Huang a démissionné de son poste de directeur général de Nvidia et est remplacé par Colette Kress par intérim.",
+      "c": "entreprises",
+      "s": "BBC",
+      "f": "intelligence-artificielle"
+    },
+    {
+      "d": "2026-11-13",
+      "i": "6eff6376874d",
+      "t": "Jensen Huang était un échec total chez Nvidia – il devait partir",
+      "r": "Le départ de Jensen Huang de la tête de Nvidia fait suite à une affaire l'ayant rendu vulnérable sur le plan politique.",
+      "c": "entreprises",
+      "s": "The Guardian",
+      "f": "intelligence-artificielle"
+    },
+    {
+      "d": "2026-11-13",
+      "i": "033f16938689",
+      "t": "Du lavage de vaisselle chez Denny’s à la rockstar de l'IA : ascension et chute de Jensen Huang, le patron de Nvidia",
+      "r": "Jensen Huang a démissionné de son poste de directeur général de Nvidia après des allégations d'affaires, marquant un tournant pour le fabricant de puces.",
+      "c": "entreprises",
+      "s": "The Guardian",
+      "f": null
+    },
+    {
+      "d": "2026-11-13",
+      "i": "60de065f581f",
+      "t": "«Une légende remplace une légende» : Donald Trump suggère à Nvidia de recruter Tim Cook après la démission de son PDG Jensen Huang",
+      "r": "Après la démission du PDG de Nvidia Jensen Huang, Donald Trump suggère à l'entreprise de nommer Tim Cook à sa tête.",
+      "c": "entreprises",
+      "s": "Le Figaro",
+      "f": null
+    },
+    {
+      "d": "2026-11-13",
+      "i": "408b8587d754",
+      "t": "Budget 2027 : LMNP, PTZ parentalité, ce que la commission des finances du Sénat propose de changer",
+      "r": "La commission des finances du Sénat propose de modifier le projet de loi de finances 2027, notamment concernant les locations meublées et le PTZ parentalité.",
+      "c": "epargne",
+      "s": "Capital",
+      "f": "budget-2027"
+    },
+    {
+      "d": "2026-11-13",
+      "i": "f051dc143976",
+      "t": "Le patrimoine des ménages en hausse grâce à l’immobilier",
+      "r": "La richesse nationale a progressé de 1,2 % en 2025, portée notamment par l'immobilier, selon une note de la Banque de France et de l'Insee.",
+      "c": "epargne",
+      "s": "Le Figaro",
+      "f": null
+    },
+    {
+      "d": "2026-11-13",
+      "i": "260984bd9b99",
+      "t": "Les clés pour comprendre le débat sur les « gros héritages »",
+      "r": "La transmission par succession et sa fiscalité font débat pour l'élection présidentielle, une minorité de Français concentrant la majorité des biens hérités.",
+      "c": "epargne",
+      "s": "Le Monde",
+      "f": "presidentielle-2027"
+    },
+    {
+      "d": "2026-11-13",
+      "i": "28c82fbe02f5",
+      "t": "Fonds euros : face au spectre de rachats massifs, les assureurs écartent le scénario du pire",
+      "r": "",
+      "c": "epargne",
+      "s": "Les Echos",
+      "f": null
+    },
     {
       "d": "2026-11-12",
       "i": "6ba2e3320848",

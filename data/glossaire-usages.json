@@ -1,139 +1,130 @@
 {
   "version_schema": 1,
   "notions": {
-    "pib-produit-interieur-brut": [
+    "deficit-public-et-solde-primaire": [
       {
-        "date": "2026-11-12",
-        "id": "6ba2e3320848",
-        "titre": "Moody’s prévoit seulement 0,2 % de croissance en France pour 2026",
-        "source": "La Tribune",
+        "date": "2026-11-13",
+        "id": "fbcdf8b1016f",
+        "titre": "Budget : la majorité sénatoriale veut diminuer le déficit de 6 milliards d'euros de plus",
+        "source": "L'Opinion",
         "contexte": "Top 5 du jour"
       },
       {
         "date": "2026-11-10",
-        "id": "d07c044d5ca2",
-        "titre": "Prix des carburants, mobilisations sociales, débats budgétaires: face à une situation très incertaine, la Banque de France s'attend à une croissance modérée du PIB au quatrième trimestre",
-        "source": "BFM Business",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-11-05",
-        "id": "70624f076922",
-        "titre": "Une croissance de 0,5 % en 2026 est « difficilement atteignable », selon le Haut Conseil des finances publiques",
+        "id": "1cf014e395d8",
+        "titre": "La Cour des comptes repart à la charge contre les niches fiscales",
         "source": "Le Monde",
         "contexte": "Top 5 du jour"
       },
       {
-        "date": "2026-11-04",
-        "id": "225e71a6c917",
-        "titre": "Récession française : la consommation tient mais l’industrie plonge",
+        "date": "2026-11-05",
+        "id": "fa30e66b169d",
+        "titre": "Budget 2027 : avant la bataille, l’État annule 3,8 milliards de crédits pour 2026",
+        "source": "Capital",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-11-03",
+        "id": "18db03c9d05f",
+        "titre": "« Ils ne tiennent plus le manche » : le budget de Sébastien Lecornu s’enfonce dans l’impasse",
         "source": "L'Opinion",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-11-02",
+        "id": "72cc7fef130b",
+        "titre": "Budget : comment le gouvernement compte réduire de plus de 9 milliards d’euros le déficit de la Sécurité sociale",
+        "source": "Le Figaro",
         "contexte": "Top 5 du jour"
       },
       {
         "date": "2026-10-30",
-        "id": "86940beef10b",
-        "titre": "Le PIB recule légèrement au troisième trimestre 2026 (-0,1 % après 0,0 %)",
-        "source": "INSEE",
-        "contexte": "Top 5 du jour"
-      }
-    ],
-    "pouvoir-d-achat": [
-      {
-        "date": "2026-11-12",
-        "id": "9e316ae07889",
-        "titre": "REPORTAGE. \"Quoi de mieux pour faire passer le message que de paralyser le pays ?\" : en Espagne, une grève générale pour dénoncer la crise du logement",
-        "source": "franceinfo",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-11-08",
-        "id": "444f7f83820d",
-        "titre": "Tarifs de l'électricité pour les particuliers: le PDG d’EDF promet des prix de l’électricité stables \"jusqu’à la fin de l’hiver\"",
-        "source": "BFM Business",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-11-06",
-        "id": "c623b0cc3dbe",
-        "titre": "Manifestations : face à la colère de la rue, le gouvernement dégaine une conférence sociale",
-        "source": "L'Opinion",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-11-01",
-        "id": "15b4255dffb6",
-        "titre": "Carburants : les prix du gazole doivent baisser à partir de ce week-end",
+        "id": "5af0963a4958",
+        "titre": "Budget 2027 : les députés votent 28 milliards d’euros de dépenses supplémentaires",
         "source": "Le Figaro",
         "contexte": "Top 5 du jour"
       },
       {
         "date": "2026-10-27",
-        "id": "fa1814b3d302",
-        "titre": "Pouvoir d'achat : les salariés au SMIC réclament une hausse plus importante",
-        "source": "franceinfo",
+        "id": "36ad0562eb79",
+        "titre": "L'objectif de déficit public de 5% \"reste intangible\": David Amiel prévient que les 5 milliards d'euros pour répondre à la colère lycéenne devront \"être financés par des efforts supplémentaires\"",
+        "source": "BFM Business",
         "contexte": "Top 5 du jour"
       },
       {
         "date": "2026-10-26",
-        "id": "81d3a09a1c1c",
-        "titre": "\"On le dit, on continuera\" : une mobilisation sociale partie pour s'ancrer dans la durée ?",
-        "source": "franceinfo",
+        "id": "c26fa3c4d999",
+        "titre": "La colère sociale fragilise encore davantage les perspectives économiques de la France",
+        "source": "Le Monde",
         "contexte": "Top 5 du jour"
       },
       {
-        "date": "2026-10-25",
-        "id": "3cf1e8c28e56",
-        "titre": "12 à 18 centimes de moins par litre : les stocks de gazole libérés pourraient faire baisser les prix dès le 1er novembre",
-        "source": "BFM Business",
+        "date": "2026-10-21",
+        "id": "6d9f67eeb539",
+        "titre": "Budget de la Sécu 2027 : la Cour des comptes juge «fragile» l’objectif de 12,7 milliards d'euros de déficit",
+        "source": "Capital",
+        "contexte": "Concept du jour"
+      },
+      {
+        "date": "2026-10-20",
+        "id": "2f73fb7a1b50",
+        "titre": "Budget 2027 : l’Assemblée nationale multiplie les cadeaux fiscaux non chiffrés",
+        "source": "Le Figaro",
         "contexte": "Top 5 du jour"
       }
     ],
-    "choc-petrolier-choc-d-offre": [
+    "politique-industrielle": [
       {
-        "date": "2026-11-12",
-        "id": "d31232220165",
-        "titre": "Sabotage, défaillances, événement exceptionnel : après la crise russe, l'Allemagne instaure une réserve stratégique de gaz",
-        "source": "Le Figaro",
+        "date": "2026-11-13",
+        "id": "fd1c06c6dbc1",
+        "titre": "Mercedes-Benz suspend tout nouvel investissement en Allemagne et envisage de fermer des usines dans les pays s'il n'arrive pas y réduire ses coûts",
+        "source": "BFM Business",
         "contexte": "Top 5 du jour"
       },
       {
-        "date": "2026-11-09",
-        "id": "8561e3cd574a",
-        "titre": "Arabie saoudite : le quartier financier de Riyad attaqué, la tour du géant pétrolier Aramco endommagée",
+        "date": "2026-11-07",
+        "id": "ff4fb338c009",
+        "titre": "OPINION. « Automobile : faire du \"Made in Europe\" un levier de puissance industrielle »",
         "source": "La Tribune",
         "contexte": "Top 5 du jour"
       },
       {
-        "date": "2026-11-03",
-        "id": "fe2bd460e083",
-        "titre": "Oil price falls amid hope of a breakthrough to end Iran war",
-        "source": "The Guardian",
+        "date": "2026-11-07",
+        "id": "ae95fd4c8c98",
+        "titre": "L’Allemagne va entrer au capital de KNDS et contrôlera le géant de l’armement terrestre à parité avec la France",
+        "source": "Le Monde",
         "contexte": "Top 5 du jour"
       },
       {
-        "date": "2026-10-24",
-        "id": "d139ede9e737",
-        "titre": "Oil price rises above $117 a barrel amid fears US will renew strikes on Iran",
-        "source": "The Guardian",
+        "date": "2026-10-28",
+        "id": "ee8bc342e83a",
+        "titre": "France 2030 : le grand plan d’Emmanuel Macron face à un « mur budgétaire », alerte la Cour des comptes",
+        "source": "Le Monde",
         "contexte": "Top 5 du jour"
       },
       {
-        "date": "2026-10-23",
-        "id": "f742c3911c35",
-        "titre": "Oil prices jump to five-month high as attacks threaten global supply",
-        "source": "The Guardian",
+        "date": "2026-10-20",
+        "id": "ced71c54d04c",
+        "titre": "Intelligence artificielle : l’Allemagne scelle un partenariat avec Nvidia visant à accélérer son déploiement dans l’industrie",
+        "source": "Le Figaro",
         "contexte": "Top 5 du jour"
       },
       {
-        "date": "2026-10-17",
-        "id": "7333fdccc97b",
-        "titre": "\"Un superpétrolier a heurté une mine\": l'Iran intensifie ses attaques dans le détroit d'Ormuz, alors que le baril de pétrole frôle à nouveau les 110 dollars",
+        "date": "2026-10-18",
+        "id": "66580453350e",
+        "titre": "Il a tout appris chez Audi en Allemagne et puis il est devenu le \"père de la voiture électrique en Chine\": qui est Wan Gang, l'ingénieur dont une lettre à Pékin a déclenché la déferlante chinoise?",
         "source": "BFM Business",
-        "contexte": "Concept du jour"
+        "contexte": "Top 5 du jour"
       }
     ],
     "politique-budgetaire": [
+      {
+        "date": "2026-11-13",
+        "id": "37bc7cb6c1d3",
+        "titre": "Budget 2027 : Sébastien Lecornu veut faire de l’agriculture le terrain du compromis",
+        "source": "Capital",
+        "contexte": "Top 5 du jour"
+      },
       {
         "date": "2026-11-12",
         "id": "71683ee034e8",
@@ -203,6 +194,177 @@
         "titre": "Retraite, santé : la protection sociale, principal poste de dépenses de l’État",
         "source": "Le Figaro",
         "contexte": "Top 5 du jour"
+      }
+    ],
+    "pouvoir-d-achat": [
+      {
+        "date": "2026-11-13",
+        "id": "5294232b48a2",
+        "titre": "Logements : les promoteurs immobiliers s’enfoncent un peu plus dans la crise",
+        "source": "Le Monde",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-11-12",
+        "id": "9e316ae07889",
+        "titre": "REPORTAGE. \"Quoi de mieux pour faire passer le message que de paralyser le pays ?\" : en Espagne, une grève générale pour dénoncer la crise du logement",
+        "source": "franceinfo",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-11-08",
+        "id": "444f7f83820d",
+        "titre": "Tarifs de l'électricité pour les particuliers: le PDG d’EDF promet des prix de l’électricité stables \"jusqu’à la fin de l’hiver\"",
+        "source": "BFM Business",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-11-06",
+        "id": "c623b0cc3dbe",
+        "titre": "Manifestations : face à la colère de la rue, le gouvernement dégaine une conférence sociale",
+        "source": "L'Opinion",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-11-01",
+        "id": "15b4255dffb6",
+        "titre": "Carburants : les prix du gazole doivent baisser à partir de ce week-end",
+        "source": "Le Figaro",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-10-27",
+        "id": "fa1814b3d302",
+        "titre": "Pouvoir d'achat : les salariés au SMIC réclament une hausse plus importante",
+        "source": "franceinfo",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-10-26",
+        "id": "81d3a09a1c1c",
+        "titre": "\"On le dit, on continuera\" : une mobilisation sociale partie pour s'ancrer dans la durée ?",
+        "source": "franceinfo",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-10-25",
+        "id": "3cf1e8c28e56",
+        "titre": "12 à 18 centimes de moins par litre : les stocks de gazole libérés pourraient faire baisser les prix dès le 1er novembre",
+        "source": "BFM Business",
+        "contexte": "Top 5 du jour"
+      }
+    ],
+    "hypothese-d-instabilite-financiere": [
+      {
+        "date": "2026-11-13",
+        "id": "b4b275288cdf",
+        "titre": "« La perte de Jensen Huang est un véritable coup dur » : la chute du patron de Nvidia provoque un séisme sur la planète IA",
+        "source": "Le Figaro",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-10-26",
+        "id": "57a7e5606a5b",
+        "titre": "Comment des « prêts toxiques » chinois ont alimenté une spirale de surendettement en Zambie",
+        "source": "Le Monde",
+        "contexte": "Top 5 du jour"
+      }
+    ],
+    "investissement-fbcf": [
+      {
+        "date": "2026-11-13",
+        "id": "fd1c06c6dbc1",
+        "titre": "Mercedes-Benz suspend tout nouvel investissement en Allemagne et envisage de fermer des usines dans les pays s'il n'arrive pas y réduire ses coûts",
+        "source": "BFM Business",
+        "contexte": "Concept du jour"
+      },
+      {
+        "date": "2026-11-11",
+        "id": "e40b615f81e9",
+        "titre": "Airbus veut investir 900 millions dans une usine géante près de Toulouse pour verrouiller sa montée en cadence",
+        "source": "La Tribune",
+        "contexte": "Top 5 du jour"
+      }
+    ],
+    "pib-produit-interieur-brut": [
+      {
+        "date": "2026-11-12",
+        "id": "6ba2e3320848",
+        "titre": "Moody’s prévoit seulement 0,2 % de croissance en France pour 2026",
+        "source": "La Tribune",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-11-10",
+        "id": "d07c044d5ca2",
+        "titre": "Prix des carburants, mobilisations sociales, débats budgétaires: face à une situation très incertaine, la Banque de France s'attend à une croissance modérée du PIB au quatrième trimestre",
+        "source": "BFM Business",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-11-05",
+        "id": "70624f076922",
+        "titre": "Une croissance de 0,5 % en 2026 est « difficilement atteignable », selon le Haut Conseil des finances publiques",
+        "source": "Le Monde",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-11-04",
+        "id": "225e71a6c917",
+        "titre": "Récession française : la consommation tient mais l’industrie plonge",
+        "source": "L'Opinion",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-10-30",
+        "id": "86940beef10b",
+        "titre": "Le PIB recule légèrement au troisième trimestre 2026 (-0,1 % après 0,0 %)",
+        "source": "INSEE",
+        "contexte": "Top 5 du jour"
+      }
+    ],
+    "choc-petrolier-choc-d-offre": [
+      {
+        "date": "2026-11-12",
+        "id": "d31232220165",
+        "titre": "Sabotage, défaillances, événement exceptionnel : après la crise russe, l'Allemagne instaure une réserve stratégique de gaz",
+        "source": "Le Figaro",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-11-09",
+        "id": "8561e3cd574a",
+        "titre": "Arabie saoudite : le quartier financier de Riyad attaqué, la tour du géant pétrolier Aramco endommagée",
+        "source": "La Tribune",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-11-03",
+        "id": "fe2bd460e083",
+        "titre": "Oil price falls amid hope of a breakthrough to end Iran war",
+        "source": "The Guardian",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-10-24",
+        "id": "d139ede9e737",
+        "titre": "Oil price rises above $117 a barrel amid fears US will renew strikes on Iran",
+        "source": "The Guardian",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-10-23",
+        "id": "f742c3911c35",
+        "titre": "Oil prices jump to five-month high as attacks threaten global supply",
+        "source": "The Guardian",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-10-17",
+        "id": "7333fdccc97b",
+        "titre": "\"Un superpétrolier a heurté une mine\": l'Iran intensifie ses attaques dans le détroit d'Ormuz, alors que le baril de pétrole frôle à nouveau les 110 dollars",
+        "source": "BFM Business",
+        "contexte": "Concept du jour"
       }
     ],
     "innovation": [
@@ -306,15 +468,6 @@
         "contexte": "Top 5 du jour"
       }
     ],
-    "investissement-fbcf": [
-      {
-        "date": "2026-11-11",
-        "id": "e40b615f81e9",
-        "titre": "Airbus veut investir 900 millions dans une usine géante près de Toulouse pour verrouiller sa montée en cadence",
-        "source": "La Tribune",
-        "contexte": "Top 5 du jour"
-      }
-    ],
     "retraite-par-capitalisation": [
       {
         "date": "2026-11-11",
@@ -376,71 +529,6 @@
         "id": "14842b10ab78",
         "titre": "\"Tous, sans exception\": l’Allemagne exige que chaque pays de l’UE contribue équitablement au financement de l’Ukraine avant de négocier le prochain budget européen",
         "source": "BFM Business",
-        "contexte": "Top 5 du jour"
-      }
-    ],
-    "deficit-public-et-solde-primaire": [
-      {
-        "date": "2026-11-10",
-        "id": "1cf014e395d8",
-        "titre": "La Cour des comptes repart à la charge contre les niches fiscales",
-        "source": "Le Monde",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-11-05",
-        "id": "fa30e66b169d",
-        "titre": "Budget 2027 : avant la bataille, l’État annule 3,8 milliards de crédits pour 2026",
-        "source": "Capital",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-11-03",
-        "id": "18db03c9d05f",
-        "titre": "« Ils ne tiennent plus le manche » : le budget de Sébastien Lecornu s’enfonce dans l’impasse",
-        "source": "L'Opinion",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-11-02",
-        "id": "72cc7fef130b",
-        "titre": "Budget : comment le gouvernement compte réduire de plus de 9 milliards d’euros le déficit de la Sécurité sociale",
-        "source": "Le Figaro",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-10-30",
-        "id": "5af0963a4958",
-        "titre": "Budget 2027 : les députés votent 28 milliards d’euros de dépenses supplémentaires",
-        "source": "Le Figaro",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-10-27",
-        "id": "36ad0562eb79",
-        "titre": "L'objectif de déficit public de 5% \"reste intangible\": David Amiel prévient que les 5 milliards d'euros pour répondre à la colère lycéenne devront \"être financés par des efforts supplémentaires\"",
-        "source": "BFM Business",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-10-26",
-        "id": "c26fa3c4d999",
-        "titre": "La colère sociale fragilise encore davantage les perspectives économiques de la France",
-        "source": "Le Monde",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-10-21",
-        "id": "6d9f67eeb539",
-        "titre": "Budget de la Sécu 2027 : la Cour des comptes juge «fragile» l’objectif de 12,7 milliards d'euros de déficit",
-        "source": "Capital",
-        "contexte": "Concept du jour"
-      },
-      {
-        "date": "2026-10-20",
-        "id": "2f73fb7a1b50",
-        "titre": "Budget 2027 : l’Assemblée nationale multiplie les cadeaux fiscaux non chiffrés",
-        "source": "Le Figaro",
         "contexte": "Top 5 du jour"
       }
     ],
@@ -697,43 +785,6 @@
         "contexte": "Top 5 du jour"
       }
     ],
-    "politique-industrielle": [
-      {
-        "date": "2026-11-07",
-        "id": "ff4fb338c009",
-        "titre": "OPINION. « Automobile : faire du \"Made in Europe\" un levier de puissance industrielle »",
-        "source": "La Tribune",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-11-07",
-        "id": "ae95fd4c8c98",
-        "titre": "L’Allemagne va entrer au capital de KNDS et contrôlera le géant de l’armement terrestre à parité avec la France",
-        "source": "Le Monde",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-10-28",
-        "id": "ee8bc342e83a",
-        "titre": "France 2030 : le grand plan d’Emmanuel Macron face à un « mur budgétaire », alerte la Cour des comptes",
-        "source": "Le Monde",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-10-20",
-        "id": "ced71c54d04c",
-        "titre": "Intelligence artificielle : l’Allemagne scelle un partenariat avec Nvidia visant à accélérer son déploiement dans l’industrie",
-        "source": "Le Figaro",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-10-18",
-        "id": "66580453350e",
-        "titre": "Il a tout appris chez Audi en Allemagne et puis il est devenu le \"père de la voiture électrique en Chine\": qui est Wan Gang, l'ingénieur dont une lettre à Pékin a déclenché la déferlante chinoise?",
-        "source": "BFM Business",
-        "contexte": "Top 5 du jour"
-      }
-    ],
     "risque-systemique": [
       {
         "date": "2026-11-06",
@@ -975,15 +1026,6 @@
         "id": "a88d5a773650",
         "titre": "IA : la bulle s'effondre en Chine, 480 milliards de dollars déjà partis en fumée",
         "source": "La Tribune",
-        "contexte": "Top 5 du jour"
-      }
-    ],
-    "hypothese-d-instabilite-financiere": [
-      {
-        "date": "2026-10-26",
-        "id": "57a7e5606a5b",
-        "titre": "Comment des « prêts toxiques » chinois ont alimenté une spirale de surendettement en Zambie",
-        "source": "Le Monde",
         "contexte": "Top 5 du jour"
       }
     ],

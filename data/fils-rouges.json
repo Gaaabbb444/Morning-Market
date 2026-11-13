@@ -1,6 +1,6 @@
 {
   "version_schema": 1,
-  "mis_a_jour_le": "2026-11-12T10:18:19+01:00",
+  "mis_a_jour_le": "2026-11-13T06:04:10+01:00",
   "fils": [
     {
       "id": "budget-2027",
@@ -11,8 +11,8 @@
       "categories": [
         "desequilibres"
       ],
-      "ou_en_est_on": "L'exécutif envisage d'adopter le budget par le biais de l'article 49.3 ou par ordonnances, avec un texte proche de sa version initiale qui pourrait être complété par un second projet. Face aux tensions budgétaires, une majorité de députés réclame la fin des emprunts indexés sur l'inflation, tandis que le Rassemblement national plaide pour instaurer une règle d'or constitutionnelle interdisant le vote d'un budget qui accroîtrait la dette publique. Parallèlement, les arbitrages sur les prestations sociales se précisent, prévoyant des revalorisations ciblées mais excluant certaines allocations.",
-      "ou_en_est_on_maj_le": "2026-11-06",
+      "ou_en_est_on": "L'exécutif envisage d'adopter le budget par le biais de l'article 49.3 ou par ordonnances, tandis que les débats parlementaires s'intensifient. La majorité sénatoriale affiche sa volonté de combler le déficit de 6 milliards d'euros supplémentaires pour 2027 en modifiant plusieurs dispositions fiscales, tandis que le gouvernement fait de l'agriculture un terrain de compromis avec plus de 2,2 milliards d'euros de soutien annoncés. Parallèlement, les arbitrages sur les prestations sociales et les mesures fiscales continuent de diviser les parlementaires entre efforts sur les recettes et maîtrise des dépenses.",
+      "ou_en_est_on_maj_le": "2026-11-13",
       "evenements": [
         {
           "date": "2026-10-17",
@@ -534,6 +534,22 @@
               "titre": "Crédit d’impôt recherche, pacte Dutreil… : « Quitte à mettre un “pognon de dingue” dans les aides publiques aux entreprises, encore faudrait-il que la collectivité en ait pour son argent »",
               "source": "Le Monde",
               "url": "https://www.lemonde.fr/idees/article/2026/11/12/credit-d-impot-recherche-pacte-dutreil-quitte-a-mettre-un-pognon-de-dingue-dans-les-aides-publiques-aux-entreprises-encore-faudrait-il-que-la-collectivite-en-ait-pour-son-argent_6809058_3232.html"
+            }
+          ]
+        },
+        {
+          "date": "2026-11-13",
+          "resume": "La majorité sénatoriale souhaite réduire le déficit de 6 milliards d'euros supplémentaires pour 2027 et le gouvernement annonce un soutien global de plus de 2,2 milliards d'euros pour l'agriculture.",
+          "liens": [
+            {
+              "titre": "Budget : la majorité sénatoriale veut diminuer le déficit de 6 milliards d'euros de plus",
+              "source": "L'Opinion",
+              "url": "https://www.lopinion.fr/politique/budget-la-majorite-senatoriale-veut-diminuer-le-deficit-de-6-milliards-deuros-de-plus"
+            },
+            {
+              "titre": "Budget 2027 : Sébastien Lecornu veut faire de l’agriculture le terrain du compromis",
+              "source": "Capital",
+              "url": "https://www.capital.fr/economie-politique/budget-2027-sebastien-lecornu-veut-faire-de-lagriculture-le-terrain-du-compromis-1531793"
             }
           ]
         }
@@ -1310,6 +1326,17 @@
               "url": "https://www.latribune.fr/article/banques-finance/1061172736547/bce-qui-sont-les-deux-candidats-en-lice-pour-remplacer-christine-lagarde"
             }
           ]
+        },
+        {
+          "date": "2026-11-13",
+          "resume": "La succession de Christine Lagarde à la tête de la BCE se prépare activement alors que son mandat s'achève de manière anticipée en février 2027.",
+          "liens": [
+            {
+              "titre": "La succession de Christine Lagarde se prépare",
+              "source": "BFM Business",
+              "url": "https://www.bfmtv.com/economie/video-la-succession-de-christine-lagarde-se-prepare_VN-202611120879.html"
+            }
+          ]
         }
       ]
     },
@@ -1472,8 +1499,8 @@
       "categories": [
         "desequilibres"
       ],
-      "ou_en_est_on": "La campagne présidentielle de 2027 structure progressivement les débats économiques et politiques. Les candidats précisent leurs propositions programmatiques, qu'il s'agisse du temps de travail, des retraites ou de la fiscalité, tandis que les organisations patronales préparent des auditions collectives. En parallèle, les prétendants multiplient les contacts directs avec les représentants du monde économique et industriel.",
-      "ou_en_est_on_maj_le": "2026-11-12",
+      "ou_en_est_on": "La campagne présidentielle de 2027 structure les débats économiques alors que les prétendants précisent leurs programmes et multiplient les prises de position. Un récent sondage place Marine Le Pen en tête des intentions de vote et crédite la présidente de la BCE Christine Lagarde de 14 %, tandis que l'ancien ministre de l'Économie Bruno Le Maire a présenté cinquante propositions incluant un chômage limité à douze mois et le report de l'âge de la retraite à 65 ans. En parallèle, les candidats affinent leurs visions du secteur public et de la fiscalité devant les organisations représentatives.",
+      "ou_en_est_on_maj_le": "2026-11-13",
       "evenements": [
         {
           "date": "2026-10-20",
@@ -1630,6 +1657,22 @@
               "url": "https://www.lemonde.fr/economie/article/2026/11/11/presidentielle-2027-marine-le-pen-a-rencontre-plusieurs-dirigeants-de-grandes-entreprises-dont-renault-et-totalenergies-fin-octobre_6808967_3234.html"
             }
           ]
+        },
+        {
+          "date": "2026-11-13",
+          "resume": "De nouveaux sondages placent Marine Le Pen en tête et créditent Christine Lagarde de 14 % d'intentions de vote, tandis que Bruno Le Maire dévoile un projet de cinquante propositions.",
+          "liens": [
+            {
+              "titre": "Christine Lagarde devance Edouard Philippe et Gabriel Attal dans son premier sondage",
+              "source": "L'Opinion",
+              "url": "https://www.lopinion.fr/politique/christine-lagarde-devance-edouard-philippe-et-gabriel-attal-dans-son-premier-sondage"
+            },
+            {
+              "titre": "Projet de Bruno Le Maire : chômage limité à 12 mois, retraite à 65 ans, ce que contiennent ses 50 propositions",
+              "source": "Capital",
+              "url": "https://www.capital.fr/economie-politique/projet-de-bruno-le-maire-chomage-limite-a-12-mois-retraite-a-65-ans-ce-que-contiennent-ses-50-propositions-1531787"
+            }
+          ]
         }
       ]
     },
@@ -1644,8 +1687,8 @@
         "mondialisation",
         "croissance"
       ],
-      "ou_en_est_on": "Alors que les équipementiers européens contestent le compromis franco-allemand avant un vote clé au Parlement européen, les frictions judiciaires directes s'accentuent entre constructeurs occidentaux et chinois. L'action en contrefaçon menée par Jaguar Land Rover contre BYD, marquée par des saisies judiciaires aux Pays-Bas, illustre le durcissement de la bataille concurrentielle et industrielle sur le marché automobile européen.",
-      "ou_en_est_on_maj_le": "2026-11-09",
+      "ou_en_est_on": "Les constructeurs et équipementiers européens font face à des tensions croissantes entre le durcissement de la concurrence internationale, les litiges pour contrefaçon et les difficultés d'adaptation industrielle. Face à ces pressions, Mercedes-Benz a suspendu ses nouveaux investissements en Allemagne et étudie des fermetures de sites pour réduire ses coûts, tandis que les discussions se poursuivent au niveau européen sur les tarifs douaniers et les règles d'origine.",
+      "ou_en_est_on_maj_le": "2026-11-13",
       "evenements": [
         {
           "date": "2026-10-17",
@@ -1720,6 +1763,17 @@
               "titre": "Chinese carmaker BYD’s offices in Netherlands raided over JLR ‘copycat car’ claim",
               "source": "The Guardian",
               "url": "https://www.theguardian.com/business/2026/nov/08/chinese-carmaker-byd-offices-raided-netherlands-land-rover-copycat-claim"
+            }
+          ]
+        },
+        {
+          "date": "2026-11-13",
+          "resume": "Mercedes-Benz suspend ses investissements en Allemagne et envisage des fermetures d'usines pour faire face à la pression concurrentielle.",
+          "liens": [
+            {
+              "titre": "Mercedes-Benz suspend tout nouvel investissement en Allemagne et envisage de fermer des usines dans les pays s'il n'arrive pas y réduire ses coûts",
+              "source": "BFM Business",
+              "url": "https://www.bfmtv.com/economie/entreprises/mercedes-benz-suspend-tout-nouvel-investissement-en-allemagne-et-envisage-de-fermer-des-usines-dans-les-pays-s-il-n-arrive-pas-y-reduire-ses-couts_AD-202611120786.html"
             }
           ]
         }
@@ -1894,8 +1948,8 @@
         "desequilibres",
         "entreprises"
       ],
-      "ou_en_est_on": "La conjoncture française reste marquée par des perspectives de croissance moroses, l'agence Moody's abaissant sa prévision à 0,2 % pour 2026. Parallèlement, l'annonce d'une revalorisation du smic au 1er décembre suscite des tensions sur le plan social et salarial, la CGT pointant le risque de non-conformité pour de nombreuses branches professionnelles. Cette situation s'ajoute à des contentieux prud'hommaux en hausse et à des contrastes sectoriels entre difficultés industrielles et dynamisme de certains grands chantiers.",
-      "ou_en_est_on_maj_le": "2026-11-12",
+      "ou_en_est_on": "La conjoncture française reste pénalisée par des prévisions de croissance moroses et des tensions sociales persistantes autour du pouvoir d'achat et des salaires. Le secteur de la construction et de l'immobilier subit un décrochage marqué, avec une baisse des réservations de logements neufs de 24,4 % au troisième trimestre en raison des taux d'intérêt élevés. Cette situation s'ajoute à des contrastes sectoriels marqués entre la poursuite de certains investissements industriels et des liquidations d'entreprises.",
+      "ou_en_est_on_maj_le": "2026-11-13",
       "evenements": [
         {
           "date": "2026-10-17",
@@ -2622,6 +2676,17 @@
               "url": "https://www.latribune.fr/article/entreprises-finance/industrie/22846972909802/fibre-excellence-la-liquidation-de-lusine-saint-gaudens-prononcee-plus-de-200-personnes-licenciees"
             }
           ]
+        },
+        {
+          "date": "2026-11-13",
+          "resume": "Les réservations de logements neufs chutent de 24,4 % au troisième trimestre 2026, pénalisées par la hausse des taux d'intérêt.",
+          "liens": [
+            {
+              "titre": "Logements : les promoteurs immobiliers s’enfoncent un peu plus dans la crise",
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/economie/article/2026/11/12/logements-les-promoteurs-immobiliers-s-enfoncent-un-peu-plus-dans-la-crise_6809079_3234.html"
+            }
+          ]
         }
       ]
     },
@@ -2636,8 +2701,8 @@
         "entreprises",
         "ue"
       ],
-      "ou_en_est_on": "Le secteur de l'intelligence artificielle combine des ambitions financières monumentales, illustrées par le projet d'introduction en Bourse d'Anthropic visant 1 400 milliards de dollars, et des initiatives de régulation. Face aux critiques et aux risques d'addiction ou d'exposition à des contenus inappropriés, plusieurs acteurs majeurs du secteur ont adopté une charte pour garantir la sûreté des jeunes utilisateurs. Parallèlement, les défis énergétiques liés à l'alimentation des centres de données et les turbulences boursières continuent d'animer le marché.",
-      "ou_en_est_on_maj_le": "2026-11-12",
+      "ou_en_est_on": "Le secteur de l'intelligence artificielle est secoué par le départ contraint de Jensen Huang de la tête de Nvidia, un événement qui met en lumière la forte dépendance de l'écosystème mondial envers l'entreprise et ses garanties financières. Parallèlement, les acteurs de la tech continuent d'afficher des valorisations et des projets d'introduction en Bourse monumentaux, tout en faisant face à des exigences accrues de régulation, de protection des jeunes utilisateurs et d'adaptation des compétences en matière de formation.",
+      "ou_en_est_on_maj_le": "2026-11-13",
       "evenements": [
         {
           "date": "2026-10-17",
@@ -3200,6 +3265,32 @@
               "titre": "IA : une charte pour protéger les plus jeunes adoptée par des géants du secteur",
               "source": "L'Opinion",
               "url": "https://www.lopinion.fr/economie/ia-une-charte-pour-proteger-les-plus-jeunes-adoptee-par-des-geants-du-secteur"
+            }
+          ]
+        },
+        {
+          "date": "2026-11-13",
+          "resume": "Le départ contraint de Jensen Huang de la direction de Nvidia provoque un choc majeur et fragilise l'écosystème mondial de l'intelligence artificielle.",
+          "liens": [
+            {
+              "titre": "« La perte de Jensen Huang est un véritable coup dur » : la chute du patron de Nvidia provoque un séisme sur la planète IA",
+              "source": "Le Figaro",
+              "url": "https://www.lefigaro.fr/secteur/high-tech/la-perte-de-jensen-huang-est-un-veritable-coup-dur-la-chute-du-patron-de-nvidia-provoque-un-seisme-sur-la-planete-ia-20261112"
+            },
+            {
+              "titre": "Jensen Huang has resigned, what's next for Nvidia?",
+              "source": "BBC",
+              "url": "https://www.bbc.co.uk/news/videos/c6wy9l859r94o?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "titre": "Jensen Huang was a busted flush at Nvidia – he had to go | Nils Pratley",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/technology/nils-pratley-on-finance/2026/nov/12/jensen-huang-was-a-busted-flush-at-nvidia-he-had-to-go"
+            },
+            {
+              "titre": "L'industrie de l'IA à l'épreuve de la crise de Nvidia",
+              "source": "BFM Business",
+              "url": "https://www.bfmtv.com/economie/video-l-industrie-de-l-ia-a-l-epreuve-de-la-crise-de-nvidia_VN-202611120824.html"
             }
           ]
         }
