@@ -1,6 +1,6 @@
 {
   "version_schema": 1,
-  "mis_a_jour_le": "2026-11-13T06:04:10+01:00",
+  "mis_a_jour_le": "2026-11-13T10:16:02+01:00",
   "fils": [
     {
       "id": "budget-2027",
@@ -1202,8 +1202,8 @@
         "finance",
         "desequilibres"
       ],
-      "ou_en_est_on": "Alors que la Banque centrale européenne a maintenu son principal taux directeur à 2,5 % pour juguler les tensions inflationnistes en zone euro, la succession institutionnelle s'accélère. Klaas Knot et Pablo Hernandez de Cos sont désormais officiellement en lice pour remplacer Christine Lagarde, dont le départ anticipé est programmé pour le 7 février 2027. La désignation du futur président pourrait intervenir dès le mois de décembre.",
-      "ou_en_est_on_maj_le": "2026-11-09",
+      "ou_en_est_on": "Alors que la Banque centrale européenne a maintenu son principal taux directeur à 2,5 % pour juguler les tensions inflationnistes en zone euro, l'inflation en France atteint 3,4 % sur un an en octobre, portée par la hausse des prix de l'énergie. Parallèlement, la succession institutionnelle de la BCE s'accélère avec des candidats officiels pour remplacer Christine Lagarde, dont le départ est programmé pour le 7 février 2027.",
+      "ou_en_est_on_maj_le": "2026-11-13",
       "evenements": [
         {
           "date": "2026-10-21",
@@ -1329,12 +1329,17 @@
         },
         {
           "date": "2026-11-13",
-          "resume": "La succession de Christine Lagarde à la tête de la BCE se prépare activement alors que son mandat s'achève de manière anticipée en février 2027.",
+          "resume": "En octobre, l'inflation en France atteint 3,4 % sur un an, tirée par l'accélération des prix de l'énergie.",
           "liens": [
             {
               "titre": "La succession de Christine Lagarde se prépare",
               "source": "BFM Business",
               "url": "https://www.bfmtv.com/economie/video-la-succession-de-christine-lagarde-se-prepare_VN-202611120879.html"
+            },
+            {
+              "titre": "L'inflation a bien atteint 3,4 % sur un an en octobre, selon l'Insee",
+              "source": "Le Figaro",
+              "url": "https://www.lefigaro.fr/conso/l-inflation-a-bien-atteint-3-4-sur-un-an-en-octobre-selon-l-insee-20261113"
             }
           ]
         }
@@ -1948,7 +1953,7 @@
         "desequilibres",
         "entreprises"
       ],
-      "ou_en_est_on": "La conjoncture française reste pénalisée par des prévisions de croissance moroses et des tensions sociales persistantes autour du pouvoir d'achat et des salaires. Le secteur de la construction et de l'immobilier subit un décrochage marqué, avec une baisse des réservations de logements neufs de 24,4 % au troisième trimestre en raison des taux d'intérêt élevés. Cette situation s'ajoute à des contrastes sectoriels marqués entre la poursuite de certains investissements industriels et des liquidations d'entreprises.",
+      "ou_en_est_on": "La conjoncture française reste pénalisée par des prévisions de croissance moroses, un chômage élevé chez les jeunes et des difficultés structurelles de formation et de recrutement dans l'industrie. Le secteur de la construction et de l'immobilier subit un décrochage marqué avec une forte baisse des réservations de logements neufs au troisième trimestre, tandis que l'État et SNCF Réseau signent un contrat de performance pour moderniser le rail.",
       "ou_en_est_on_maj_le": "2026-11-13",
       "evenements": [
         {
@@ -2679,12 +2684,22 @@
         },
         {
           "date": "2026-11-13",
-          "resume": "Les réservations de logements neufs chutent de 24,4 % au troisième trimestre 2026, pénalisées par la hausse des taux d'intérêt.",
+          "resume": "À l'approche de la Semaine de l'industrie, la nécessité de rapprocher l'école et l'entreprise est soulignée pour réussir la réindustrialisation face aux difficultés de formation.",
           "liens": [
             {
               "titre": "Logements : les promoteurs immobiliers s’enfoncent un peu plus dans la crise",
               "source": "Le Monde",
               "url": "https://www.lemonde.fr/economie/article/2026/11/12/logements-les-promoteurs-immobiliers-s-enfoncent-un-peu-plus-dans-la-crise_6809079_3234.html"
+            },
+            {
+              "titre": "\"On n'a pas les compétences en France pour faire du Made in France\", déplore la vice-présidente du Mouvement des entreprises de taille intermédiaire",
+              "source": "franceinfo",
+              "url": "https://www.franceinfo.fr/economie/industrie/on-n-a-pas-les-competences-en-france-pour-faire-du-made-in-france-deplore-la-vice-presidente-du-mouvement-des-entreprises-de-taille-intermediaire_8280689.html#xtor=RSS-3-%5Beconomie%5D"
+            },
+            {
+              "titre": "OPINION. « Réindustrialiser la France suppose de rapprocher l'école et l'entreprise »",
+              "source": "La Tribune",
+              "url": "https://www.latribune.fr/article/idees/23229184293231/opinion-reindustrialiser-la-france-suppose-de-rapprocher-lecole-et-lentreprise"
             }
           ]
         }
@@ -2701,7 +2716,7 @@
         "entreprises",
         "ue"
       ],
-      "ou_en_est_on": "Le secteur de l'intelligence artificielle est secoué par le départ contraint de Jensen Huang de la tête de Nvidia, un événement qui met en lumière la forte dépendance de l'écosystème mondial envers l'entreprise et ses garanties financières. Parallèlement, les acteurs de la tech continuent d'afficher des valorisations et des projets d'introduction en Bourse monumentaux, tout en faisant face à des exigences accrues de régulation, de protection des jeunes utilisateurs et d'adaptation des compétences en matière de formation.",
+      "ou_en_est_on": "Le secteur de l'intelligence artificielle est secoué par le départ contraint de Jensen Huang de la tête de Nvidia à la suite d'un scandale, provoquant une chute du cours de l'entreprise et des auditions au Congrès américain sur la sécurité nationale. Parallèlement, les acteurs de la tech affichent des valorisations monumentales, à l'image d'Anthropic, tout en faisant face à des exigences accrues de régulation et à des transformations sur le marché du travail.",
       "ou_en_est_on_maj_le": "2026-11-13",
       "evenements": [
         {
@@ -3270,7 +3285,7 @@
         },
         {
           "date": "2026-11-13",
-          "resume": "Le départ contraint de Jensen Huang de la direction de Nvidia provoque un choc majeur et fragilise l'écosystème mondial de l'intelligence artificielle.",
+          "resume": "Le cours de Nvidia chute après le départ précipité de son patron-fondateur Jensen Huang, impliqué dans un scandale, provoquant des interrogations au Congrès américain.",
           "liens": [
             {
               "titre": "« La perte de Jensen Huang est un véritable coup dur » : la chute du patron de Nvidia provoque un séisme sur la planète IA",
@@ -3291,6 +3306,11 @@
               "titre": "L'industrie de l'IA à l'épreuve de la crise de Nvidia",
               "source": "BFM Business",
               "url": "https://www.bfmtv.com/economie/video-l-industrie-de-l-ia-a-l-epreuve-de-la-crise-de-nvidia_VN-202611120824.html"
+            },
+            {
+              "titre": "Nvidia scandal sparks US national security furore and calls to take tough line on China",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/technology/2026/nov/13/nvidia-scandal-sparks-us-national-security-concerns-china"
             }
           ]
         }
@@ -3306,8 +3326,8 @@
         "desequilibres",
         "epargne"
       ],
-      "ou_en_est_on": "Le cadre applicable aux départs en retraite demeure au cœur des affrontements parlementaires et des arbitrages pour 2027. Dans l'examen du PLFSS, les députés ont voté un mécanisme de congé payé visant à rétablir la possibilité d'un départ effectif à 62 ans pour contourner la réforme Borne. En parallèle, les futures modalités du cumul emploi-retraite pour 2027 prévoient un durcissement des conditions avant 67 ans, notamment un plafonnement des revenus et un abattement de la pension au-delà de 7 000 euros.",
-      "ou_en_est_on_maj_le": "2026-10-23",
+      "ou_en_est_on": "Le cadre applicable aux départs en retraite demeure au cœur des affrontements parlementaires et des arbitrages pour 2027. Les futures modalités du cumul emploi-retraite prévoient un durcissement des conditions avant 67 ans, incitant certains actifs à se tourner vers la surcote pour accroître leur pension. En parallèle, les débats persistent sur l'âge légal de départ et les conditions de validation des trimestres.",
+      "ou_en_est_on_maj_le": "2026-11-13",
       "evenements": [
         {
           "date": "2026-10-17",
@@ -3366,6 +3386,17 @@
               "titre": "Cumuler une pension de retraite et un salaire : les règles seront moins favorables à partir du 1er janvier",
               "source": "franceinfo",
               "url": "https://www.franceinfo.fr/replay-radio/c-est-mon-boulot/cumuler-une-pension-de-retraite-et-un-salaire-les-regles-seront-moins-favorables-a-partir-du-1er-janvier_8232067.html#xtor=RSS-3-%5Bgeneral%5D"
+            }
+          ]
+        },
+        {
+          "date": "2026-11-13",
+          "resume": "Le cumul emploi-retraite devenant moins avantageux en 2027, la surcote s'impose comme une alternative pour augmenter sa pension.",
+          "liens": [
+            {
+              "titre": "Cumul emploi-retraite ou surcote : quelle option rapporte le plus à partir de 2027",
+              "source": "Capital",
+              "url": "https://www.capital.fr/votre-retraite/cumul-emploi-retraite-ou-surcote-quelle-option-rapporte-le-plus-a-partir-de-2027-1531801"
             }
           ]
         }

@@ -1,6 +1,6 @@
 {
   "version_schema": 1,
-  "mis_a_jour_le": "2026-11-13T06:01:38+01:00",
+  "mis_a_jour_le": "2026-11-13T10:15:44+01:00",
   "entrees": [
     {
       "d": "2026-11-13",
@@ -85,6 +85,15 @@
     },
     {
       "d": "2026-11-13",
+      "i": "ad1406903304",
+      "t": "Une croissance sous la barre des 1%, une inflation à 7%... L'économie russe ralentit encore, freinée par les attaques de drones ukrainiennes",
+      "r": "La croissance de l'économie russe ralentit à 0,9 % au troisième trimestre, pénalisée par les attaques militaires ukrainiennes.",
+      "c": "croissance",
+      "s": "BFM Business",
+      "f": null
+    },
+    {
+      "d": "2026-11-13",
       "i": "1749840cafd7",
       "t": "Russie-Ukraine : des négociations qui s'accélèrent",
       "r": "Les discussions entre la Russie et l'Ukraine s'accélèrent, soulevant la question de la représentation de l'Europe et de leur impact sur les cours du pétrole.",
@@ -117,6 +126,15 @@
       "r": "Stellantis a annoncé la vente de son site industriel de Brampton en Ontario à l'industriel de défense canadien Roshel, illustrant les recompositions industrielles face à la guerre commerciale.",
       "c": "mondialisation",
       "s": "Le Monde",
+      "f": null
+    },
+    {
+      "d": "2026-11-13",
+      "i": "7e8f0d3f486b",
+      "t": "Affaire Nvidia: pourquoi les puces haut de gamme de l'entreprise sont-elles sous restriction vis-à-vis de la Chine?",
+      "r": "Pékin s'oppose aux restrictions américaines sur les puces de Nvidia, alors que des importations illégales en Chine ont été révélées.",
+      "c": "mondialisation",
+      "s": "BFM Business",
       "f": null
     },
     {
@@ -193,6 +211,15 @@
     },
     {
       "d": "2026-11-13",
+      "i": "109924b00309",
+      "t": "L'inflation a bien atteint 3,4 % sur un an en octobre, selon l'Insee",
+      "r": "En octobre, l'inflation en France atteint 3,4 % sur un an, tirée par l'accélération des prix de l'énergie.",
+      "c": "desequilibres",
+      "s": "Le Figaro",
+      "f": "inflation-bce"
+    },
+    {
+      "d": "2026-11-13",
       "i": "0e8f27a85622",
       "t": "EU Inc : pourquoi le statut unifié des entreprises européennes n’est pas pour tout de suite",
       "r": "Les négociations sur le statut unifié des entreprises européennes patinent au Parlement européen, notamment en raison des désaccords sur les droits des salariés.",
@@ -225,6 +252,15 @@
       "r": "L'Union européenne souhaite renforcer la protection des consommateurs en ligne face aux pratiques commerciales trompeuses et aux fausses pressions d'achat.",
       "c": "ue",
       "s": "Toute l'Europe",
+      "f": null
+    },
+    {
+      "d": "2026-11-13",
+      "i": "ce619eba8b16",
+      "t": "‘Win-win’ deal with EU could be done, Andy Burnham says",
+      "r": "Andy Burnham évoque la possibilité d'un accord gagnant-gagnant entre le Royaume-Uni et l'Union européenne se rapprochant des attentes initiales du Brexit.",
+      "c": "ue",
+      "s": "The Guardian",
       "f": null
     },
     {
@@ -265,6 +301,15 @@
     },
     {
       "d": "2026-11-13",
+      "i": "4c3839de0d3b",
+      "t": "En difficulté, le groupe minier Eramet lance son augmentation de capital, l'État va devenir son premier actionnaire",
+      "r": "Le groupe minier Eramet lance une augmentation de capital de 500 millions d'euros pour faire face à de lourdes pertes, l'État devenant son premier actionnaire.",
+      "c": "entreprises",
+      "s": "BFM Business",
+      "f": null
+    },
+    {
+      "d": "2026-11-13",
       "i": "408b8587d754",
       "t": "Budget 2027 : LMNP, PTZ parentalité, ce que la commission des finances du Sénat propose de changer",
       "r": "La commission des finances du Sénat propose de modifier le projet de loi de finances 2027, notamment concernant les locations meublées et le PTZ parentalité.",
@@ -298,6 +343,15 @@
       "c": "epargne",
       "s": "Les Echos",
       "f": null
+    },
+    {
+      "d": "2026-11-13",
+      "i": "17a6bc756c26",
+      "t": "Cumul emploi-retraite ou surcote : quelle option rapporte le plus à partir de 2027",
+      "r": "Le cumul emploi-retraite devenant moins avantageux en 2027, la surcote s'impose comme une alternative pour augmenter sa pension.",
+      "c": "epargne",
+      "s": "Capital",
+      "f": "retraites"
     },
     {
       "d": "2026-11-12",
