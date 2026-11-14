@@ -1,6 +1,6 @@
 {
   "version_schema": 1,
-  "mis_a_jour_le": "2026-11-14T05:56:05+01:00",
+  "mis_a_jour_le": "2026-11-14T10:03:43+01:00",
   "entrees": [
     {
       "d": "2026-11-14",
@@ -85,6 +85,15 @@
     },
     {
       "d": "2026-11-14",
+      "i": "c47deb0f3ef8",
+      "t": "OPINION. « Électrification : le monde ne change pas seulement d’énergie, il change de système »",
+      "r": "L'accélération de la consommation mondiale d'électricité impose de repenser la production, la flexibilité et les chaînes d'approvisionnement face aux enjeux de décarbonation.",
+      "c": "croissance",
+      "s": "La Tribune",
+      "f": null
+    },
+    {
+      "d": "2026-11-14",
       "i": "bc5f5d5f3c38",
       "t": "CMA CGM : le chiffre d'affaires trimestriel progresse de 31%",
       "r": "Porté par le dynamisme du commerce mondial et la reconstitution des stocks, CMA CGM enregistre une progression de 31 % de son chiffre d'affaires trimestriel.",
@@ -118,6 +127,15 @@
       "c": "mondialisation",
       "s": "Capital",
       "f": "presidentielle-2027"
+    },
+    {
+      "d": "2026-11-14",
+      "i": "20f03abf470f",
+      "t": "Il lui manque la protection sociale et des consommateurs: pourquoi malgré un PIB gigantesque de 20.000 milliards de dollars, la Chine n'arrive toujours pas à avoir une classe moyenne",
+      "r": "Malgré une forte croissance du PIB, la Chine peine à consolider sa classe moyenne en raison de lacunes dans la protection sociale et des consommateurs.",
+      "c": "mondialisation",
+      "s": "BFM Business",
+      "f": null
     },
     {
       "d": "2026-11-14",
@@ -193,6 +211,15 @@
     },
     {
       "d": "2026-11-14",
+      "i": "0640fe5a475e",
+      "t": "Un métier junior sur cinq exige désormais des compétences en intelligence artificielle",
+      "r": "Une étude montre qu'un métier junior sur cinq exige désormais des compétences en intelligence artificielle pour l'accès à l'emploi.",
+      "c": "desequilibres",
+      "s": "franceinfo",
+      "f": "conjoncture-france"
+    },
+    {
+      "d": "2026-11-14",
       "i": "fa9aa35fcbd5",
       "t": "Commerce en ligne : l’Europe en guerre contre les “dark patterns“",
       "r": "L'Union européenne propose de nouvelles règles pour interdire les interfaces trompeuses et mieux protéger les consommateurs en ligne.",
@@ -225,6 +252,15 @@
       "r": "La Commission européenne va devoir examiner une initiative citoyenne européenne demandant la suspension de l'accord d'association entre l'UE et Israël.",
       "c": "ue",
       "s": "Toute l'Europe",
+      "f": null
+    },
+    {
+      "d": "2026-11-14",
+      "i": "1ee028689038",
+      "t": "Une avancée Royaume-Uni-UE permettra des contrôles de style aéroportuaire à Eurotunnel pour éviter le « chaos » frontalier",
+      "r": "Des contrôles de type aéroportuaire vont être instaurés à l'Eurotunnel pour fluidifier le passage et éviter des perturbations aux frontières.",
+      "c": "ue",
+      "s": "The Guardian",
       "f": null
     },
     {
@@ -265,6 +301,15 @@
     },
     {
       "d": "2026-11-14",
+      "i": "e05c3d15de20",
+      "t": "L'espace aérien des Etats-Unis a rouvert après l'annulation de 6 000 vols",
+      "r": "Une panne géante due à du vieux matériel a provoqué la suspension des vols et l'annulation d'au moins 6 000 vols aux États-Unis.",
+      "c": "entreprises",
+      "s": "franceinfo",
+      "f": null
+    },
+    {
+      "d": "2026-11-14",
       "i": "d8f677d80bd3",
       "t": "Chute des ventes, prix en baisse : la grande panne de l’immobilier",
       "r": "Le marché immobilier fait face à une crise marquée par la baisse des ventes et des prix, pénalisé par la hausse des taux de crédit et l'inflation.",
@@ -298,6 +343,15 @@
       "c": "epargne",
       "s": "Capital",
       "f": null
+    },
+    {
+      "d": "2026-11-14",
+      "i": "6ce43b089c46",
+      "t": "Faut-il vraiment ouvrir un PER avant le 31 décembre ? La chronique de Jean-Jacques Manceau",
+      "r": "La question de l'opportunité d'ouvrir un plan d'épargne retraite avant la fin de l'année est posée pour les épargnants.",
+      "c": "epargne",
+      "s": "Capital",
+      "f": "fiscalite-epargne-patrimoine"
     },
     {
       "d": "2026-11-13",

@@ -1,6 +1,6 @@
 {
   "version_schema": 1,
-  "mis_a_jour_le": "2026-11-14T05:57:22+01:00",
+  "mis_a_jour_le": "2026-11-14T10:03:57+01:00",
   "fils": [
     {
       "id": "budget-2027",
@@ -1923,8 +1923,8 @@
       "categories": [
         "epargne"
       ],
-      "ou_en_est_on": "L'incertitude liée aux débats budgétaires pousse les épargnants vers la gestion de patrimoine hors de France, tandis que le gouvernement envisage de mobiliser jusqu'à 60 milliards d'euros de l'épargne réglementée, notamment du Livret A, pour financer la construction de nouveaux réacteurs nucléaires, une mesure contestée par la gauche. Parallèlement, le Conseil constitutionnel a censuré l'interdiction faite aux mutuelles et assureurs d'augmenter leurs tarifs au nom de la liberté d'entreprendre.",
-      "ou_en_est_on_maj_le": "2026-11-03",
+      "ou_en_est_on": "Le questionnement sur l'opportunité d'ouvrir un plan d'épargne retraite (PER) avant le 31 début décembre intervient alors que le gouvernement envisage de mobiliser l'épargne réglementée pour financer des projets d’infrastructure. Les épargnants évaluent les avantages fiscaux du PER face aux incertitudes budgétaires et aux débats sur l'utilisation du Livret A. Cette réflexion s'inscrit dans le contexte plus large de la fiscalité de l'épargne et du patrimoine.",
+      "ou_en_est_on_maj_le": "2026-11-14",
       "evenements": [
         {
           "date": "2026-10-17",
@@ -2044,6 +2044,17 @@
               "url": "https://www.capital.fr/immobilier/lmnp-2027-les-deputes-annulent-le-tour-de-vis-fiscal-mais-rien-nest-joue-1531538"
             }
           ]
+        },
+        {
+          "date": "2026-11-14",
+          "resume": "Une chronique de Capital questionne l'intérêt d'ouvrir un plan d'épargne retraite avant la fin de l'année pour les épargnants.",
+          "liens": [
+            {
+              "titre": "Faut-il vraiment ouvrir un PER avant le 31 décembre ? La chronique de Jean-Jacques Manceau",
+              "source": "Capital",
+              "url": "https://www.capital.fr/votre-argent/faut-il-vraiment-ouvrir-un-per-avant-le-31-decembre-la-chronique-de-jean-jacques-manceau-1531820"
+            }
+          ]
         }
       ]
     },
@@ -2058,7 +2069,7 @@
         "desequilibres",
         "entreprises"
       ],
-      "ou_en_est_on": "Le front social et salarial se tend en France à l'approche de la revalorisation du Smic au 1er décembre, qui concernera 12 % des salariés du privé et bouscule les grilles de rémunération. Dans la fonction publique, les mesures d'urgence annoncées pour les agents les moins rémunérés n'empêchent pas la CFDT de rejoindre l'appel à la grève du 17 novembre. En parallèle, l'économie reste freinée par une crise marquée de l'immobilier, touché par la hausse des taux de crédit et l'inflation.",
+      "ou_en_est_on": "Le marché du travail des jeunes montre une montée en puissance des compétences liées à l'intelligence artificielle. Selon une étude de Jobteaser, un emploi junior sur cinq exige ces compétences, ce qui accentue la pression sur les formations universitaires et les programmes d'insertion professionnelle. Les acteurs de l'enseignement supérieur sont ainsi incités à intégrer davantage d'IA dans leurs cursus. Cette évolution s'inscrit dans un contexte de transformation numérique plus large de l'économie française.",
       "ou_en_est_on_maj_le": "2026-11-14",
       "evenements": [
         {
@@ -2810,7 +2821,7 @@
         },
         {
           "date": "2026-11-14",
-          "resume": "Le gouvernement a proposé des points d'indice supplémentaires pour les bas salaires de la fonction publique, mais les syndicats jugent l'effort insuffisant et la CFDT rejoint l'appel à la grève du 17 novembre.",
+          "resume": "Une étude de Jobteaser indique qu'un emploi junior sur cinq requiert désormais des compétences en intelligence artificielle.",
           "liens": [
             {
               "titre": "Salaires des fonctionnaires : les mesures d’urgence du gouvernement jugées « insuffisantes » par les syndicats",
@@ -2852,8 +2863,8 @@
         "entreprises",
         "ue"
       ],
-      "ou_en_est_on": "Le secteur de l'intelligence artificielle est secoué par le départ contraint de Jensen Huang de la tête de Nvidia à la suite d'un scandale, provoquant une chute du cours de l'entreprise et des auditions au Congrès américain sur la sécurité nationale. Parallèlement, les acteurs de la tech affichent des valorisations monumentales, à l'image d'Anthropic, tout en faisant face à des exigences accrues de régulation et à des transformations sur le marché du travail.",
-      "ou_en_est_on_maj_le": "2026-11-13",
+      "ou_en_est_on": "La vente majoritaire d’Exaion à un groupe américain relance le débat sur la souveraineté des données et la nécessité d’un label de cloud souverain. Les autorités publiques et les acteurs du secteur technologique s’interrogent sur les conditions de protection des données sensibles hébergées en France. Cette question s’ajoute aux enjeux de régulation de l’intelligence artificielle et de compétitivité européenne dans le domaine du numérique.",
+      "ou_en_est_on_maj_le": "2026-11-14",
       "evenements": [
         {
           "date": "2026-10-17",
@@ -3449,6 +3460,17 @@
               "url": "https://www.theguardian.com/technology/2026/nov/13/nvidia-scandal-sparks-us-national-security-concerns-china"
             }
           ]
+        },
+        {
+          "date": "2026-11-14",
+          "resume": "La cession de 64 % d’Exaion, filiale d’EDF, à un groupe américain soulève la question d’un label de cloud souverain.",
+          "liens": [
+            {
+              "titre": "OPINION. « Pour un label de cloud souverain lisible par tous »",
+              "source": "La Tribune",
+              "url": "https://www.latribune.fr/article/idees/2245345894970714/opinion-pour-un-label-de-cloud-souverain-lisible-par-tous"
+            }
+          ]
         }
       ]
     },
@@ -3462,8 +3484,8 @@
         "desequilibres",
         "epargne"
       ],
-      "ou_en_est_on": "Le cadre applicable aux départs en retraite demeure au cœur des affrontements parlementaires et des arbitrages pour 2027. Les futures modalités du cumul emploi-retraite prévoient un durcissement des conditions avant 67 ans, incitant certains actifs à se tourner vers la surcote pour accroître leur pension. En parallèle, les débats persistent sur l'âge légal de départ et les conditions de validation des trimestres.",
-      "ou_en_est_on_maj_le": "2026-11-13",
+      "ou_en_est_on": "Le débat sur le financement des retraites se recentre sur la productivité. Jean‑Luc Mélenchon soutient que les progrès technologiques pourraient couvrir les besoins de financement sans augmenter le nombre de cotisants. En revanche, les économistes rappellent que la productivité française n’a progressé que de 0,3 % par an entre 2010 et 2024, limitant la portée de cet argument. Le parlement continue d’examiner les modalités de cumul emploi‑retraite et les conditions de surcote pour 2027.",
+      "ou_en_est_on_maj_le": "2026-11-14",
       "evenements": [
         {
           "date": "2026-10-17",
@@ -3533,6 +3555,17 @@
               "titre": "Cumul emploi-retraite ou surcote : quelle option rapporte le plus à partir de 2027",
               "source": "Capital",
               "url": "https://www.capital.fr/votre-retraite/cumul-emploi-retraite-ou-surcote-quelle-option-rapporte-le-plus-a-partir-de-2027-1531801"
+            }
+          ]
+        },
+        {
+          "date": "2026-11-14",
+          "resume": "Jean‑Luc Mélenchon argue que les gains de productivité suffisent à financer les retraites, tandis que les économistes soulignent la faible progression de la productivité française.",
+          "liens": [
+            {
+              "titre": "\"Le rapport entre cotisants et retraités n'a pas de sens\": pour Jean-Luc Mélenchon, pas besoin de travailler plus, la productivité suffit... Un raisonnement juste en théorie, beaucoup moins en pratique",
+              "source": "BFM Business",
+              "url": "https://www.bfmtv.com/economie/patrimoine/retraite/le-rapport-entre-cotisants-et-retraites-n-a-pas-de-sens-pour-melenchon-pas-besoin-de-travailler-plus-la-productivite-suffit-un-raisonnement-juste-en-theorie-beaucoup-moins-en-pratique_AV-202611140066.html"
             }
           ]
         }
