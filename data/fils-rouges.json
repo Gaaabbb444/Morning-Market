@@ -1,6 +1,6 @@
 {
   "version_schema": 1,
-  "mis_a_jour_le": "2026-11-13T10:16:02+01:00",
+  "mis_a_jour_le": "2026-11-14T05:57:22+01:00",
   "fils": [
     {
       "id": "budget-2027",
@@ -11,8 +11,8 @@
       "categories": [
         "desequilibres"
       ],
-      "ou_en_est_on": "L'exécutif envisage d'adopter le budget par le biais de l'article 49.3 ou par ordonnances, tandis que les débats parlementaires s'intensifient. La majorité sénatoriale affiche sa volonté de combler le déficit de 6 milliards d'euros supplémentaires pour 2027 en modifiant plusieurs dispositions fiscales, tandis que le gouvernement fait de l'agriculture un terrain de compromis avec plus de 2,2 milliards d'euros de soutien annoncés. Parallèlement, les arbitrages sur les prestations sociales et les mesures fiscales continuent de diviser les parlementaires entre efforts sur les recettes et maîtrise des dépenses.",
-      "ou_en_est_on_maj_le": "2026-11-13",
+      "ou_en_est_on": "Les discussions parlementaires se poursuivent alors que le Sénat a voté la partie recettes du budget de la Sécurité sociale tout en créant un besoin d'économies de 3,2 milliards d'euros par rapport au projet initial. Parallèlement, Matignon annonce vouloir remettre à plat les exonérations de cotisations patronales pour maîtriser une dépense de 75 milliards d'euros. Le débat oppose toujours partisans de coupes budgétaires ciblées et défenseurs de hausses fiscales pour réduire le déficit public.",
+      "ou_en_est_on_maj_le": "2026-11-14",
       "evenements": [
         {
           "date": "2026-10-17",
@@ -552,6 +552,27 @@
               "url": "https://www.capital.fr/economie-politique/budget-2027-sebastien-lecornu-veut-faire-de-lagriculture-le-terrain-du-compromis-1531793"
             }
           ]
+        },
+        {
+          "date": "2026-11-14",
+          "resume": "Le Sénat a adopté le volet recettes du budget de la Sécurité sociale en supprimant plusieurs mesures fiscales, creusant un écart de 3,2 milliards d'euros, tandis que Matignon envisage de mieux cibler les allègements de cotisations patronales.",
+          "liens": [
+            {
+              "titre": "Budget de la Sécu : le Sénat adopte les recettes mais doit trouver 3,2 milliards d'euros d'économies",
+              "source": "BFM Business",
+              "url": "https://www.bfmtv.com/economie/economie-social/finances-publiques/budget-de-la-secu-le-senat-adopte-les-recettes-mais-doit-trouver-3-2-milliards-d-euros-d-economies_AD-202611130836.html"
+            },
+            {
+              "titre": "Allègements de cotisations : Matignon veut « maîtriser durablement » leur coût",
+              "source": "L'Opinion",
+              "url": "https://www.lopinion.fr/economie/allegements-de-cotisations-matignon-veut-maitriser-durablement-leur-cout"
+            },
+            {
+              "titre": "Non, nous ne pouvons pas réduire le déficit sans augmenter les impôts",
+              "source": "Alternatives Économiques",
+              "url": "https://www.alternatives-economiques.fr/non-nous-ne-pouvons-pas-reduire-le-deficit-sans-augmenter-les-impots_13-11-2026"
+            }
+          ]
         }
       ]
     },
@@ -851,8 +872,8 @@
         "mondialisation",
         "desequilibres"
       ],
-      "ou_en_est_on": "La détente sur les marchés pétroliers se confirme avec la reprise progressive de la circulation maritime dans le détroit d'Ormuz et le recul des cours du baril sous les 90 dollars. Cette baisse est alimentée par les perspectives d'assouplissement diplomatique entre Washington et Téhéran, Donald Trump jugeant très improbable une reprise du conflit. En France, cette dynamique soutient la diminution des prix des carburants à la pompe, malgré la perspective d'une hausse des tarifs réglementés du gaz en décembre.",
-      "ou_en_est_on_maj_le": "2026-11-11",
+      "ou_en_est_on": "La détente sur les marchés pétroliers se précise : selon l'Agence internationale de l'énergie, l'offre mondiale a dépassé la demande en octobre et le marché redeviendrait excédentaire en fin d'année. Pour se prémunir contre de futurs chocs d'approvisionnement, les pays producteurs du Golfe et les importateurs asiatiques renforcent leurs capacités de stockage. En France, la baisse des prix du fioul stimule les commandes des ménages, bien que les tarifs globaux restent élevés.",
+      "ou_en_est_on_maj_le": "2026-11-14",
       "evenements": [
         {
           "date": "2026-10-17",
@@ -1189,6 +1210,32 @@
               "url": "https://www.bfmtv.com/economie/video-l-edito-eco-les-bateaux-recommencent-a-passer-dans-le-detroit-d-ormuz_VN-202611110303.html"
             }
           ]
+        },
+        {
+          "date": "2026-11-14",
+          "resume": "Selon l'Agence internationale de l'énergie, l'offre mondiale de pétrole a dépassé la demande en octobre et le marché devrait redevenir excédentaire au dernier trimestre 2026.",
+          "liens": [
+            {
+              "titre": "Le marché mondial du pétrole devrait redevenir excédentaire au dernier trimestre, selon l’Agence internationale de l’énergie",
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/economie/article/2026/11/13/le-marche-mondial-du-petrole-devrait-redevenir-excedentaire-au-dernier-trimestre-selon-l-agence-internationale-de-l-energie_6809326_3234.html"
+            },
+            {
+              "titre": "Global oil supply returns to surplus for first time since start of Iran war, says IEA",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/business/2026/nov/13/global-oil-supply-returns-to-surplus-for-first-time-since-start-of-iran-war-says-iea"
+            },
+            {
+              "titre": "Du Moyen-Orient à l’Asie, la grande course au stockage du pétrole",
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/economie/article/2026/11/13/du-moyen-orient-en-asie-la-grande-course-au-stockage-du-petrole_6809338_3234.html"
+            },
+            {
+              "titre": "\"Entre 150 et 170 coups de téléphone par jour\" : avec la baisse du prix du fioul, les livreurs sont débordés",
+              "source": "franceinfo",
+              "url": "https://www.franceinfo.fr/environnement/energie/entre-150-et-170-coups-de-telephone-par-jour-avec-la-baisse-du-prix-du-fioul-les-livreurs-sont-debordes_8281151.html#xtor=RSS-3-%5Beconomie%5D"
+            }
+          ]
         }
       ]
     },
@@ -1355,8 +1402,8 @@
         "mondialisation",
         "ue"
       ],
-      "ou_en_est_on": "Alors que les États-Unis ont récemment assoupli certaines restrictions sur les hydrocarbures russes, Donald Trump promet désormais un vaste accord avec Moscou qui pourrait concerner toute l'Europe. Les dirigeants européens s'opposent fermement à ce projet et insistent sur le fait que la sécurité du continent ne se négociera pas sans eux à l'approche de pourparlers à Abou Dhabi. Cette situation accentue les divergences stratégiques entre Washington et les capitales européennes sur le règlement du conflit.",
-      "ou_en_est_on_maj_le": "2026-11-08",
+      "ou_en_est_on": "Après l'échec des discussions d'Abou Dhabi, Washington et Kiev assurent que les représentants européens seront réintégrés aux futures négociations de paix. Cette perspective intervient alors que Moscou mise notamment sur l'usure économique de l'Ukraine et la fragilisation des soutiens occidentaux. En parallèle, des entreprises européennes, dont des patrons français réunis à Varsovie lors de Rebuild Ukraine, préparent déjà leur positionnement pour la reconstruction future du pays.",
+      "ou_en_est_on_maj_le": "2026-11-14",
       "evenements": [
         {
           "date": "2026-10-17",
@@ -1492,6 +1539,27 @@
               "url": "https://www.lopinion.fr/international/guerre-en-ukraine-a-abu-dhabi-leurope-au-menu-mais-pas-a-la-table-des-negociations"
             }
           ]
+        },
+        {
+          "date": "2026-11-14",
+          "resume": "Après l'échec des pourparlers d'Abou Dhabi, Kiev et Washington assurent que les Européens prendront part aux prochaines négociations, tandis que des entreprises françaises se mobilisent à Varsovie pour la reconstruction.",
+          "liens": [
+            {
+              "titre": "Guerre en Ukraine : les Européens de retour à la table des négociations",
+              "source": "L'Opinion",
+              "url": "https://www.lopinion.fr/international/guerre-en-ukraine-les-europeens-de-retour-a-la-table-des-negociations"
+            },
+            {
+              "titre": "« L’enjeu est d’être positionné le jour où la guerre s’arrêtera » : à Varsovie, ces patrons français qui misent sur la crise en Ukraine",
+              "source": "Le Figaro",
+              "url": "https://www.lefigaro.fr/conjoncture/l-enjeu-est-d-etre-positionne-le-jour-ou-la-guerre-s-arretera-a-varsovie-ces-patrons-francais-qui-misent-sur-la-crise-en-ukraine-20261113"
+            },
+            {
+              "titre": "Vladimir Poutine avait quatre plans pour vaincre l’Ukraine : il ne lui en reste plus que deux",
+              "source": "L'Opinion",
+              "url": "https://www.lopinion.fr/international/vladimir-poutine-avait-quatre-plans-pour-vaincre-lukraine-il-ne-lui-en-reste-plus-que-deux"
+            }
+          ]
         }
       ]
     },
@@ -1504,8 +1572,8 @@
       "categories": [
         "desequilibres"
       ],
-      "ou_en_est_on": "La campagne présidentielle de 2027 structure les débats économiques alors que les prétendants précisent leurs programmes et multiplient les prises de position. Un récent sondage place Marine Le Pen en tête des intentions de vote et crédite la présidente de la BCE Christine Lagarde de 14 %, tandis que l'ancien ministre de l'Économie Bruno Le Maire a présenté cinquante propositions incluant un chômage limité à douze mois et le report de l'âge de la retraite à 65 ans. En parallèle, les candidats affinent leurs visions du secteur public et de la fiscalité devant les organisations représentatives.",
-      "ou_en_est_on_maj_le": "2026-11-13",
+      "ou_en_est_on": "La campagne présidentielle de 2027 s'articule autour des thématiques du travail, du pouvoir d'achat et de la politique industrielle. Au Salon du Made in France, les prétendants opposent leurs approches entre protectionnisme et allègements fiscaux, tout en multipliant les propositions sur le logement locatif et l'évolution des salaires. Les débats continuent ainsi de mettre en scène des visions contrastées sur le rôle de l'État dans l'économie et la régulation des marchés.",
+      "ou_en_est_on_maj_le": "2026-11-14",
       "evenements": [
         {
           "date": "2026-10-20",
@@ -1678,6 +1746,32 @@
               "url": "https://www.capital.fr/economie-politique/projet-de-bruno-le-maire-chomage-limite-a-12-mois-retraite-a-65-ans-ce-que-contiennent-ses-50-propositions-1531787"
             }
           ]
+        },
+        {
+          "date": "2026-11-14",
+          "resume": "Les candidats à l'élection présidentielle de 2027 confrontent leurs propositions économiques sur le logement, la revalorisation du travail et le soutien au « produire français ».",
+          "liens": [
+            {
+              "titre": "Présidentielle 2027 : ce que proposent les candidats pour les propriétaires",
+              "source": "Capital",
+              "url": "https://www.capital.fr/immobilier/presidentielle-2027-ce-que-proposent-les-candidats-pour-les-proprietaires-1531813"
+            },
+            {
+              "titre": "«Travailler plus, pour gagner plus» : de Philippe à Mélenchon, le slogan de Sarkozy continue de structurer la campagne 20 ans plus tard",
+              "source": "Le Figaro",
+              "url": "https://www.lefigaro.fr/elections/presidentielles/travailler-plus-pour-gagner-plus-de-philippe-a-melenchon-le-slogan-de-sarkozy-continue-de-structurer-la-campagne-20-ans-plus-tard-20261113"
+            },
+            {
+              "titre": "Made in France : ce que proposent les candidats à la présidentielle 2027",
+              "source": "Capital",
+              "url": "https://www.capital.fr/economie-politique/made-in-france-ce-que-proposent-les-candidats-a-la-presidentielle-2027-1531835"
+            },
+            {
+              "titre": "Le salaire médian en France est \"une honte\", selon Bruno Le Maire, qui veut le doubler",
+              "source": "BFM Business",
+              "url": "https://www.bfmtv.com/economie/video-le-salaire-median-en-france-est-une-honte-selon-bruno-le-maire-qui-veut-le-doubler_VN-202611130849.html"
+            }
+          ]
         }
       ]
     },
@@ -1692,8 +1786,8 @@
         "mondialisation",
         "croissance"
       ],
-      "ou_en_est_on": "Les constructeurs et équipementiers européens font face à des tensions croissantes entre le durcissement de la concurrence internationale, les litiges pour contrefaçon et les difficultés d'adaptation industrielle. Face à ces pressions, Mercedes-Benz a suspendu ses nouveaux investissements en Allemagne et étudie des fermetures de sites pour réduire ses coûts, tandis que les discussions se poursuivent au niveau européen sur les tarifs douaniers et les règles d'origine.",
-      "ou_en_est_on_maj_le": "2026-11-13",
+      "ou_en_est_on": "Les constructeurs et équipementiers européens subissent une vive concurrence internationale et de lourdes difficultés d'adaptation industrielle. Face à la pression chinoise, Mercedes-Benz a gelé ses investissements en Allemagne et envisage des fermetures d'usines ou un allongement du temps de travail sans revalorisation, provoquant le refus du syndicat IG Metall. Dans le même temps, les débats européens se poursuivent sur les règles douanières et la protection industrielle.",
+      "ou_en_est_on_maj_le": "2026-11-14",
       "evenements": [
         {
           "date": "2026-10-17",
@@ -1779,6 +1873,17 @@
               "titre": "Mercedes-Benz suspend tout nouvel investissement en Allemagne et envisage de fermer des usines dans les pays s'il n'arrive pas y réduire ses coûts",
               "source": "BFM Business",
               "url": "https://www.bfmtv.com/economie/entreprises/mercedes-benz-suspend-tout-nouvel-investissement-en-allemagne-et-envisage-de-fermer-des-usines-dans-les-pays-s-il-n-arrive-pas-y-reduire-ses-couts_AD-202611120786.html"
+            }
+          ]
+        },
+        {
+          "date": "2026-11-14",
+          "resume": "Face à la concurrence chinoise et à la hausse des coûts, Mercedes-Benz gèle ses investissements nationaux et envisage d'allonger le temps de travail sans hausse de salaire, suscitant l'opposition d'IG Metall.",
+          "liens": [
+            {
+              "titre": "Mercedes-Benz : le comité d’entreprise et le syndicat IG Metall dénoncent des menaces de fermetures d’usines en Allemagne",
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/economie/article/2026/11/13/mercedes-benz-le-comite-d-entreprise-et-le-syndicat-ig-metall-denoncent-des-menaces-de-fermetures-d-usines-en-allemagne_6809327_3234.html"
             }
           ]
         }
@@ -1953,8 +2058,8 @@
         "desequilibres",
         "entreprises"
       ],
-      "ou_en_est_on": "La conjoncture française reste pénalisée par des prévisions de croissance moroses, un chômage élevé chez les jeunes et des difficultés structurelles de formation et de recrutement dans l'industrie. Le secteur de la construction et de l'immobilier subit un décrochage marqué avec une forte baisse des réservations de logements neufs au troisième trimestre, tandis que l'État et SNCF Réseau signent un contrat de performance pour moderniser le rail.",
-      "ou_en_est_on_maj_le": "2026-11-13",
+      "ou_en_est_on": "Le front social et salarial se tend en France à l'approche de la revalorisation du Smic au 1er décembre, qui concernera 12 % des salariés du privé et bouscule les grilles de rémunération. Dans la fonction publique, les mesures d'urgence annoncées pour les agents les moins rémunérés n'empêchent pas la CFDT de rejoindre l'appel à la grève du 17 novembre. En parallèle, l'économie reste freinée par une crise marquée de l'immobilier, touché par la hausse des taux de crédit et l'inflation.",
+      "ou_en_est_on_maj_le": "2026-11-14",
       "evenements": [
         {
           "date": "2026-10-17",
@@ -2700,6 +2805,37 @@
               "titre": "OPINION. « Réindustrialiser la France suppose de rapprocher l'école et l'entreprise »",
               "source": "La Tribune",
               "url": "https://www.latribune.fr/article/idees/23229184293231/opinion-reindustrialiser-la-france-suppose-de-rapprocher-lecole-et-lentreprise"
+            }
+          ]
+        },
+        {
+          "date": "2026-11-14",
+          "resume": "Le gouvernement a proposé des points d'indice supplémentaires pour les bas salaires de la fonction publique, mais les syndicats jugent l'effort insuffisant et la CFDT rejoint l'appel à la grève du 17 novembre.",
+          "liens": [
+            {
+              "titre": "Salaires des fonctionnaires : les mesures d’urgence du gouvernement jugées « insuffisantes » par les syndicats",
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/politique/article/2026/11/13/salaires-des-fonctionnaires-les-mesures-d-urgence-du-gouvernement-jugees-insuffisantes-par-les-syndicats_6809348_823448.html"
+            },
+            {
+              "titre": "Pouvoir d'achat : Sébastien Lecornu fait un petit geste à destination des fonctionnaires",
+              "source": "L'Opinion",
+              "url": "https://www.lopinion.fr/economie/pouvoir-dachat-sebastien-lecornu-fait-un-petit-geste-a-destination-des-fonctionnaires"
+            },
+            {
+              "titre": "La CFDT rejoint l'appel à la grève dans la fonction publique le 17 novembre, estimant que les propositions du gouvernement \"ne constituent pas de véritables avancées\"",
+              "source": "franceinfo",
+              "url": "https://www.franceinfo.fr/economie/greve/la-cfdt-rejoint-l-appel-a-la-greve-dans-la-fonction-publique-le-17-novembre-estimant-que-les-propositions-du-gouvernement-ne-constituent-pas-de-veritables-avancees_8281298.html#xtor=RSS-3-%5Beconomie%5D"
+            },
+            {
+              "titre": "Salaires des fonctionnaires : des points d'indice supplémentaires pour les agents les moins bien payés, annonce le gouvernement",
+              "source": "BFM Business",
+              "url": "https://www.bfmtv.com/economie/economie-social/salaires-des-fonctionnaires-des-points-d-indice-supplementaires-pour-les-agents-les-moins-bien-payes-annonce-le-gouvernement_AN-202611130795.html"
+            },
+            {
+              "titre": "Tout comprendre au smic, le salaire minimum que le gouvernement va revaloriser",
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/les-decodeurs/article/2026/11/13/tout-comprendre-au-smic-le-salaire-minimum-que-le-gouvernement-va-revaloriser_6809379_4355770.html"
             }
           ]
         }

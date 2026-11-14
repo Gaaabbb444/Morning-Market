@@ -1,7 +1,304 @@
 {
   "version_schema": 1,
-  "mis_a_jour_le": "2026-11-13T10:15:44+01:00",
+  "mis_a_jour_le": "2026-11-14T05:56:05+01:00",
   "entrees": [
+    {
+      "d": "2026-11-14",
+      "i": "dbda4ef768ec",
+      "t": "Mercedes-Benz : le comité d’entreprise et le syndicat IG Metall dénoncent des menaces de fermetures d’usines en Allemagne",
+      "r": "Sous la pression de la concurrence chinoise, de l'augmentation des coûts et de la chute des ventes, Mercedes-Benz envisage des fermetures d'usines en Allemagne et gèle ses investissements nationaux, provoquant l'opposition du syndicat IG Metall.",
+      "c": "entreprises",
+      "s": "Le Monde",
+      "f": "automobile-europe-chine"
+    },
+    {
+      "d": "2026-11-14",
+      "i": "ea73e67e82ee",
+      "t": "Le marché mondial du pétrole devrait redevenir excédentaire au dernier trimestre, selon l’Agence internationale de l’énergie",
+      "r": "L'Agence internationale de l'énergie (AIE) prévoit que l'offre mondiale de pétrole va dépasser la demande au dernier trimestre 2026, marquant un rééquilibrage du marché pour la première fois depuis le début de la guerre en Iran.",
+      "c": "croissance",
+      "s": "Le Monde",
+      "f": "choc-petrolier-ormuz"
+    },
+    {
+      "d": "2026-11-14",
+      "i": "09a484905f04",
+      "t": "Salaires des fonctionnaires : les mesures d’urgence du gouvernement jugées « insuffisantes » par les syndicats",
+      "r": "À l'issue d'une réunion à Matignon, les syndicats de la fonction publique ont jugé insuffisantes les propositions du gouvernement et le refus de dégeler le point d'indice, maintenant un appel à la grève.",
+      "c": "desequilibres",
+      "s": "Le Monde",
+      "f": "conjoncture-france"
+    },
+    {
+      "d": "2026-11-14",
+      "i": "e2d482a25b7f",
+      "t": "Budget de la Sécu : le Sénat adopte les recettes mais doit trouver 3,2 milliards d'euros d'économies",
+      "r": "Le Sénat a adopté la partie recettes du budget de la Sécurité sociale pour 2027 tout en creusant un écart de 3,2 milliards d'euros avec le texte initial, que la majorité entend compenser par des économies.",
+      "c": "desequilibres",
+      "s": "BFM Business",
+      "f": "budget-2027"
+    },
+    {
+      "d": "2026-11-14",
+      "i": "64593d4a19c3",
+      "t": "Allègements de cotisations : Matignon veut « maîtriser durablement » leur coût",
+      "r": "Le Premier ministre souhaite maîtriser durablement le coût des allègements de cotisations patronales, qui s'élèvent à 75 milliards d'euros, tout en envisageant de mieux cibler le dispositif après la hausse du SMIC.",
+      "c": "desequilibres",
+      "s": "L'Opinion",
+      "f": "budget-2027"
+    },
+    {
+      "d": "2026-11-14",
+      "i": "e6e0d5057bdf",
+      "t": "Du Moyen-Orient à l’Asie, la grande course au stockage du pétrole",
+      "r": "La crise du détroit d'Ormuz incite les pays du Golfe et l'Asie à développer leurs capacités de stockage pétrolier pour parer aux chocs d'approvisionnement.",
+      "c": "croissance",
+      "s": "Le Monde",
+      "f": "choc-petrolier-ormuz"
+    },
+    {
+      "d": "2026-11-14",
+      "i": "bf0e193b6c7d",
+      "t": "« Tout le monde a pris conscience de nos dépendances » : l'Europe veut créer des modèles aussi performants qu'OpenAI et Anthropic",
+      "r": "",
+      "c": "croissance",
+      "s": "Les Echos",
+      "f": "intelligence-artificielle"
+    },
+    {
+      "d": "2026-11-14",
+      "i": "fac817b7f008",
+      "t": "« L’enjeu est d’être positionné le jour où la guerre s’arrêtera » : à Varsovie, ces patrons français qui misent sur la crise en Ukraine",
+      "r": "Des patrons français se mobilisent à Varsovie lors du salon Rebuild Ukraine pour participer à la future reconstruction du pays.",
+      "c": "croissance",
+      "s": "Le Figaro",
+      "f": "ukraine-sanctions"
+    },
+    {
+      "d": "2026-11-14",
+      "i": "4ba6ba3a8b61",
+      "t": "L'offre mondiale de pétrole repasse en excédent pour la première fois depuis le début de la guerre en Iran, selon l'AIE",
+      "r": "Selon l'AIE, l'offre mondiale de pétrole dépasse la demande en octobre, marquant un retour à l'excédent pour la première fois depuis le début du conflit.",
+      "c": "croissance",
+      "s": "The Guardian",
+      "f": "choc-petrolier-ormuz"
+    },
+    {
+      "d": "2026-11-14",
+      "i": "bc5f5d5f3c38",
+      "t": "CMA CGM : le chiffre d'affaires trimestriel progresse de 31%",
+      "r": "Porté par le dynamisme du commerce mondial et la reconstitution des stocks, CMA CGM enregistre une progression de 31 % de son chiffre d'affaires trimestriel.",
+      "c": "mondialisation",
+      "s": "La Tribune",
+      "f": null
+    },
+    {
+      "d": "2026-11-14",
+      "i": "c502f704c0fd",
+      "t": "«C’est du gâchis» : accablé par la taxe sur les petits colis, l’aéroport Paris-Vatry pourrait cesser ses activités",
+      "r": "L'activité de l'aéroport Paris-Vatry chute fortement en raison d'une taxe sur les petits colis qui pousse les plateformes chinoises à éviter les aéroports français.",
+      "c": "mondialisation",
+      "s": "Le Figaro",
+      "f": null
+    },
+    {
+      "d": "2026-11-14",
+      "i": "dabb9c42293e",
+      "t": "La pression s'accroît sur le secrétaire au Commerce de Trump, Lutnick, après le scandale Nvidia",
+      "r": "Scott Bessent déclare sur CNBC que plusieurs agences gouvernementales étaient favorables à l'inclusion de Megaspeed sur la liste des entités.",
+      "c": "mondialisation",
+      "s": "BBC",
+      "f": null
+    },
+    {
+      "d": "2026-11-14",
+      "i": "7b1a7f65f752",
+      "t": "Made in France : ce que proposent les candidats à la présidentielle 2027",
+      "r": "Plusieurs candidats se sont positionnés sur le « produire français » au Salon du Made in France, entre mesures protectionnistes et baisses d'impôts.",
+      "c": "mondialisation",
+      "s": "Capital",
+      "f": "presidentielle-2027"
+    },
+    {
+      "d": "2026-11-14",
+      "i": "b41f2434d923",
+      "t": "Trump a acheté des actions Nvidia tout en aidant le fabricant de puces à modifier une règle d'exportation",
+      "r": "Donald Trump a acheté pour plusieurs millions de dollars d'actions Nvidia avant de revvoquer une règle de l'ère Biden limitant les ventes vers la Chine.",
+      "c": "finance",
+      "s": "The Guardian",
+      "f": null
+    },
+    {
+      "d": "2026-11-14",
+      "i": "3eb0d2a915a5",
+      "t": "Dollar au sommet : comment expliquer cette envolée ?",
+      "r": "Le dollar bénéficie de la solidité de l'économie américaine et d'un taux de chômage en baisse, attirant les investisseurs en quête d'une valeur refuge.",
+      "c": "finance",
+      "s": "BFM Business",
+      "f": null
+    },
+    {
+      "d": "2026-11-14",
+      "i": "90ae32ecd97b",
+      "t": "En Bourse, les inquiétudes grandissent autour de la dette d'Ubisoft",
+      "r": "",
+      "c": "finance",
+      "s": "Les Echos",
+      "f": null
+    },
+    {
+      "d": "2026-11-14",
+      "i": "d328f4f4b6d9",
+      "t": "Le courtier IG Group ferme des bureaux en Europe, la France en première ligne",
+      "r": "",
+      "c": "finance",
+      "s": "Les Echos",
+      "f": null
+    },
+    {
+      "d": "2026-11-14",
+      "i": "9eba7fbb00d5",
+      "t": "Pouvoir d'achat : Sébastien Lecornu fait un petit geste à destination des fonctionnaires",
+      "r": "Malgré le gel du point d'indice en 2027, la rémunération minimum des fonctionnaires augmentera automatiquement de 1,6 % au 1er décembre.",
+      "c": "desequilibres",
+      "s": "L'Opinion",
+      "f": "conjoncture-france"
+    },
+    {
+      "d": "2026-11-14",
+      "i": "a9cd3389e6e7",
+      "t": "Présidentielle 2027 : ce que proposent les candidats pour les propriétaires",
+      "r": "À l'approche de la présidentielle 2027, les candidats avancent des propositions divergentes concernant le logement, le Smic et le pouvoir d'achat.",
+      "c": "desequilibres",
+      "s": "Capital",
+      "f": "presidentielle-2027"
+    },
+    {
+      "d": "2026-11-14",
+      "i": "236716892ca4",
+      "t": "La CFDT rejoint l'appel à la grève dans la fonction publique le 17 novembre, estimant que les propositions du gouvernement \"ne constituent pas de véritables avancées\"",
+      "r": "Estimant les propositions gouvernementales insuffisantes face à la perte de pouvoir d'achat, la CFDT rejoint l'appel à la grève dans la fonction publique.",
+      "c": "desequilibres",
+      "s": "franceinfo",
+      "f": "conjoncture-france"
+    },
+    {
+      "d": "2026-11-14",
+      "i": "64daa9e65d08",
+      "t": "Salaires des fonctionnaires : des points d'indice supplémentaires pour les agents les moins bien payés, annonce le gouvernement",
+      "r": "Le gouvernement annonce l'attribution de points d'indice supplémentaires pour les fonctionnaires les moins bien rémunérés afin de corriger le tassement des grilles.",
+      "c": "desequilibres",
+      "s": "BFM Business",
+      "f": "conjoncture-france"
+    },
+    {
+      "d": "2026-11-14",
+      "i": "fa9aa35fcbd5",
+      "t": "Commerce en ligne : l’Europe en guerre contre les “dark patterns“",
+      "r": "L'Union européenne propose de nouvelles règles pour interdire les interfaces trompeuses et mieux protéger les consommateurs en ligne.",
+      "c": "ue",
+      "s": "franceinfo",
+      "f": null
+    },
+    {
+      "d": "2026-11-14",
+      "i": "23f1baad21e2",
+      "t": "France, Allemagne, Royaume-Uni, Italie, Pologne… L'Europe se choisit une représentation collégiale pour les futures négociations sur l'Ukraine",
+      "r": "",
+      "c": "ue",
+      "s": "Les Echos",
+      "f": "ukraine-sanctions"
+    },
+    {
+      "d": "2026-11-14",
+      "i": "62323fad6c03",
+      "t": "Coup de théâtre à Bruxelles, le Parlement européen torpille le coeur de la réforme sur l'épargne",
+      "r": "",
+      "c": "ue",
+      "s": "Les Echos",
+      "f": null
+    },
+    {
+      "d": "2026-11-14",
+      "i": "88fd0c78d1ed",
+      "t": "Suspension de l'accord d'association UE-Israël : la Commission européenne va devoir se prononcer",
+      "r": "La Commission européenne va devoir examiner une initiative citoyenne européenne demandant la suspension de l'accord d'association entre l'UE et Israël.",
+      "c": "ue",
+      "s": "Toute l'Europe",
+      "f": null
+    },
+    {
+      "d": "2026-11-14",
+      "i": "7a37cc01c839",
+      "t": "Pourquoi le scandale Nvidia est loin d'être terminé - Le Point",
+      "r": "La démission du PDG de Nvidia, Jensen Huang, suite à des révélations, provoque des ondes de choc sur l'économie mondiale.",
+      "c": "entreprises",
+      "s": "The Guardian",
+      "f": null
+    },
+    {
+      "d": "2026-11-14",
+      "i": "bb537a927436",
+      "t": "Ce que l’on sait de la panne d’Outlook et de Microsoft 365",
+      "r": "Plusieurs services de Microsoft ont subi d'importantes perturbations mondiales, affectant les entreprises et les gouvernements avant un rétablissement progressif.",
+      "c": "entreprises",
+      "s": "Le Monde",
+      "f": null
+    },
+    {
+      "d": "2026-11-14",
+      "i": "ab2939110785",
+      "t": "Nvidia : la démission de Jensen Huang, énième mauvaise nouvelle pour Donald Trump",
+      "r": "La démission du directeur général de Nvidia, Jensen Huang, s'ajoute aux difficultés politiques et financières de Donald Trump.",
+      "c": "entreprises",
+      "s": "L'Opinion",
+      "f": null
+    },
+    {
+      "d": "2026-11-14",
+      "i": "caa5e835352c",
+      "t": "Jaguar Land Rover annonce une perte trimestrielle de 451 millions de livres après la suppression de 4 000 postes",
+      "r": "Jaguar Land Rover enregistre une perte trimestrielle de 451 millions de livres et appelle à une coopération européenne face aux constructeurs chinois.",
+      "c": "entreprises",
+      "s": "The Guardian",
+      "f": null
+    },
+    {
+      "d": "2026-11-14",
+      "i": "d8f677d80bd3",
+      "t": "Chute des ventes, prix en baisse : la grande panne de l’immobilier",
+      "r": "Le marché immobilier fait face à une crise marquée par la baisse des ventes et des prix, pénalisé par la hausse des taux de crédit et l'inflation.",
+      "c": "epargne",
+      "s": "Le Figaro",
+      "f": "conjoncture-france"
+    },
+    {
+      "d": "2026-11-14",
+      "i": "2deac5e4fc88",
+      "t": "Immobilier locatif : ce qui pourrait encore changer pour les propriétaires bailleurs dans le budget 2027",
+      "r": "",
+      "c": "epargne",
+      "s": "Les Echos",
+      "f": "budget-2027"
+    },
+    {
+      "d": "2026-11-14",
+      "i": "b405e4c0f4e0",
+      "t": "Et si l'épargne finançait les infrastructures numériques souveraines ? « Proposons à chacun un Livret IA",
+      "r": "",
+      "c": "epargne",
+      "s": "Les Echos",
+      "f": "fiscalite-epargne-patrimoine"
+    },
+    {
+      "d": "2026-11-14",
+      "i": "2a51167088f7",
+      "t": "ETF de la semaine : Sept Magnifiques, actions mondiales et petites valeurs américaines",
+      "r": "Une sélection d'ETF permet de parier sur les géants américains, la Bourse mondiale et de petites capitalisations.",
+      "c": "epargne",
+      "s": "Capital",
+      "f": null
+    },
     {
       "d": "2026-11-13",
       "i": "fbcdf8b1016f",

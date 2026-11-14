@@ -1,6 +1,284 @@
 {
   "version_schema": 1,
   "notions": {
+    "desindustrialisation-et-reindustrialisation": [
+      {
+        "date": "2026-11-14",
+        "id": "dbda4ef768ec",
+        "titre": "Mercedes-Benz : le comité d’entreprise et le syndicat IG Metall dénoncent des menaces de fermetures d’usines en Allemagne",
+        "source": "Le Monde",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-11-08",
+        "id": "11bf96d5847c",
+        "titre": "Les équipementiers automobiles s’alarment des conséquences sociales de l’accord franco-allemand",
+        "source": "Le Monde",
+        "contexte": "Top 5 du jour"
+      }
+    ],
+    "choc-petrolier-choc-d-offre": [
+      {
+        "date": "2026-11-14",
+        "id": "ea73e67e82ee",
+        "titre": "Le marché mondial du pétrole devrait redevenir excédentaire au dernier trimestre, selon l’Agence internationale de l’énergie",
+        "source": "Le Monde",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-11-12",
+        "id": "d31232220165",
+        "titre": "Sabotage, défaillances, événement exceptionnel : après la crise russe, l'Allemagne instaure une réserve stratégique de gaz",
+        "source": "Le Figaro",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-11-09",
+        "id": "8561e3cd574a",
+        "titre": "Arabie saoudite : le quartier financier de Riyad attaqué, la tour du géant pétrolier Aramco endommagée",
+        "source": "La Tribune",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-11-03",
+        "id": "fe2bd460e083",
+        "titre": "Oil price falls amid hope of a breakthrough to end Iran war",
+        "source": "The Guardian",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-10-24",
+        "id": "d139ede9e737",
+        "titre": "Oil price rises above $117 a barrel amid fears US will renew strikes on Iran",
+        "source": "The Guardian",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-10-23",
+        "id": "f742c3911c35",
+        "titre": "Oil prices jump to five-month high as attacks threaten global supply",
+        "source": "The Guardian",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-10-17",
+        "id": "7333fdccc97b",
+        "titre": "\"Un superpétrolier a heurté une mine\": l'Iran intensifie ses attaques dans le détroit d'Ormuz, alors que le baril de pétrole frôle à nouveau les 110 dollars",
+        "source": "BFM Business",
+        "contexte": "Concept du jour"
+      }
+    ],
+    "pouvoir-d-achat": [
+      {
+        "date": "2026-11-14",
+        "id": "09a484905f04",
+        "titre": "Salaires des fonctionnaires : les mesures d’urgence du gouvernement jugées « insuffisantes » par les syndicats",
+        "source": "Le Monde",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-11-13",
+        "id": "5294232b48a2",
+        "titre": "Logements : les promoteurs immobiliers s’enfoncent un peu plus dans la crise",
+        "source": "Le Monde",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-11-12",
+        "id": "9e316ae07889",
+        "titre": "REPORTAGE. \"Quoi de mieux pour faire passer le message que de paralyser le pays ?\" : en Espagne, une grève générale pour dénoncer la crise du logement",
+        "source": "franceinfo",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-11-08",
+        "id": "444f7f83820d",
+        "titre": "Tarifs de l'électricité pour les particuliers: le PDG d’EDF promet des prix de l’électricité stables \"jusqu’à la fin de l’hiver\"",
+        "source": "BFM Business",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-11-06",
+        "id": "c623b0cc3dbe",
+        "titre": "Manifestations : face à la colère de la rue, le gouvernement dégaine une conférence sociale",
+        "source": "L'Opinion",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-11-01",
+        "id": "15b4255dffb6",
+        "titre": "Carburants : les prix du gazole doivent baisser à partir de ce week-end",
+        "source": "Le Figaro",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-10-27",
+        "id": "fa1814b3d302",
+        "titre": "Pouvoir d'achat : les salariés au SMIC réclament une hausse plus importante",
+        "source": "franceinfo",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-10-26",
+        "id": "81d3a09a1c1c",
+        "titre": "\"On le dit, on continuera\" : une mobilisation sociale partie pour s'ancrer dans la durée ?",
+        "source": "franceinfo",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-10-25",
+        "id": "3cf1e8c28e56",
+        "titre": "12 à 18 centimes de moins par litre : les stocks de gazole libérés pourraient faire baisser les prix dès le 1er novembre",
+        "source": "BFM Business",
+        "contexte": "Top 5 du jour"
+      }
+    ],
+    "soutenabilite-de-la-dette-publique": [
+      {
+        "date": "2026-11-14",
+        "id": "e2d482a25b7f",
+        "titre": "Budget de la Sécu : le Sénat adopte les recettes mais doit trouver 3,2 milliards d'euros d'économies",
+        "source": "BFM Business",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-11-08",
+        "id": "074e2f263f31",
+        "titre": "François Villeroy de Galhau : « Laisser filer la dette, c’est faire des choix contre la jeunesse, des choix gérontocratiques »",
+        "source": "Le Monde",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-10-24",
+        "id": "f05fd09f8d8d",
+        "titre": "Les taux 10 ans français au-dessus du 10 ans américain",
+        "source": "BFM Business",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-10-21",
+        "id": "6d9f67eeb539",
+        "titre": "Budget de la Sécu 2027 : la Cour des comptes juge «fragile» l’objectif de 12,7 milliards d'euros de déficit",
+        "source": "Capital",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-10-19",
+        "id": "b09456b32b0d",
+        "titre": "Anne de Guigné : « L’épargne des Français bientôt à la rescousse du désendettement ? »",
+        "source": "Le Figaro",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-10-19",
+        "id": "6825d2c17a9c",
+        "titre": "Retraite, santé : la protection sociale, principal poste de dépenses de l’État",
+        "source": "Le Figaro",
+        "contexte": "Concept du jour"
+      }
+    ],
+    "politique-budgetaire": [
+      {
+        "date": "2026-11-14",
+        "id": "64593d4a19c3",
+        "titre": "Allègements de cotisations : Matignon veut « maîtriser durablement » leur coût",
+        "source": "L'Opinion",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-11-13",
+        "id": "37bc7cb6c1d3",
+        "titre": "Budget 2027 : Sébastien Lecornu veut faire de l’agriculture le terrain du compromis",
+        "source": "Capital",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-11-12",
+        "id": "71683ee034e8",
+        "titre": "Allemagne : le mur de la dette à 200 milliards qui rattrape Friedrich Merz",
+        "source": "L'Opinion",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-11-05",
+        "id": "b48b3728223b",
+        "titre": "L'Assemblée nationale rejette à l'unanimité le budget de l'Etat 2027 en première lecture",
+        "source": "franceinfo",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-11-02",
+        "id": "ebb9141f734e",
+        "titre": "Le budget, pas encore adopté, est-il déjà caduc ? \"Oui\", affirme Philippe Juvin, rapporteur général de la commission des Finances à l'Assemblée nationale",
+        "source": "franceinfo",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-11-01",
+        "id": "e711d3ac219c",
+        "titre": "Livret A : une hausse du plafond à 30 000 euros envisagée pour financer les travaux dans les lycées",
+        "source": "franceinfo",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-10-29",
+        "id": "e6ca90b1ae20",
+        "titre": "\"Plus on fait d’enfants, plus l’État est présent\": Giorgia Meloni dévoile un budget axé sur la natalité et la défense, financé en partie en taxant les banques et les assurances",
+        "source": "BFM Business",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-10-27",
+        "id": "e1f84d25dee5",
+        "titre": "Où en sont les débats sur le PLF et le PLFSS 2027 ? Suivez les étapes de l'examen du budget à l'Assemblée et au Sénat",
+        "source": "franceinfo",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-10-25",
+        "id": "b74c30856b74",
+        "titre": "Healey’s first budget to include big devolution package to boost growth",
+        "source": "The Guardian",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-10-24",
+        "id": "7f6fcbdcfae8",
+        "titre": "PLFSS 2027 : à l’Assemblée, le budget de la Sécurité sociale rejeté après une saignée de 12 milliards d’euros",
+        "source": "Capital",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-10-20",
+        "id": "bc5dc2cd9f4f",
+        "titre": "Les députés ont déjà fait dérailler la trajectoire de réduction du déficit de la Sécurité sociale avant même le début des débats dans l’hémicycle sur le budget de la Sécu",
+        "source": "BFM Business",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-10-19",
+        "id": "6825d2c17a9c",
+        "titre": "Retraite, santé : la protection sociale, principal poste de dépenses de l’État",
+        "source": "Le Figaro",
+        "contexte": "Top 5 du jour"
+      }
+    ],
+    "chomage-classique-et-chomage-keynesien": [
+      {
+        "date": "2026-11-14",
+        "id": "dbda4ef768ec",
+        "titre": "Mercedes-Benz : le comité d’entreprise et le syndicat IG Metall dénoncent des menaces de fermetures d’usines en Allemagne",
+        "source": "Le Monde",
+        "contexte": "Concept du jour"
+      },
+      {
+        "date": "2026-10-21",
+        "id": "940f03c397a4",
+        "titre": "Commerces pillés : le gouvernement sort le chéquier, les patrons réclament de l’ordre",
+        "source": "Capital",
+        "contexte": "Top 5 du jour"
+      }
+    ],
     "deficit-public-et-solde-primaire": [
       {
         "date": "2026-11-13",
@@ -117,143 +395,6 @@
         "contexte": "Top 5 du jour"
       }
     ],
-    "politique-budgetaire": [
-      {
-        "date": "2026-11-13",
-        "id": "37bc7cb6c1d3",
-        "titre": "Budget 2027 : Sébastien Lecornu veut faire de l’agriculture le terrain du compromis",
-        "source": "Capital",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-11-12",
-        "id": "71683ee034e8",
-        "titre": "Allemagne : le mur de la dette à 200 milliards qui rattrape Friedrich Merz",
-        "source": "L'Opinion",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-11-05",
-        "id": "b48b3728223b",
-        "titre": "L'Assemblée nationale rejette à l'unanimité le budget de l'Etat 2027 en première lecture",
-        "source": "franceinfo",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-11-02",
-        "id": "ebb9141f734e",
-        "titre": "Le budget, pas encore adopté, est-il déjà caduc ? \"Oui\", affirme Philippe Juvin, rapporteur général de la commission des Finances à l'Assemblée nationale",
-        "source": "franceinfo",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-11-01",
-        "id": "e711d3ac219c",
-        "titre": "Livret A : une hausse du plafond à 30 000 euros envisagée pour financer les travaux dans les lycées",
-        "source": "franceinfo",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-10-29",
-        "id": "e6ca90b1ae20",
-        "titre": "\"Plus on fait d’enfants, plus l’État est présent\": Giorgia Meloni dévoile un budget axé sur la natalité et la défense, financé en partie en taxant les banques et les assurances",
-        "source": "BFM Business",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-10-27",
-        "id": "e1f84d25dee5",
-        "titre": "Où en sont les débats sur le PLF et le PLFSS 2027 ? Suivez les étapes de l'examen du budget à l'Assemblée et au Sénat",
-        "source": "franceinfo",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-10-25",
-        "id": "b74c30856b74",
-        "titre": "Healey’s first budget to include big devolution package to boost growth",
-        "source": "The Guardian",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-10-24",
-        "id": "7f6fcbdcfae8",
-        "titre": "PLFSS 2027 : à l’Assemblée, le budget de la Sécurité sociale rejeté après une saignée de 12 milliards d’euros",
-        "source": "Capital",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-10-20",
-        "id": "bc5dc2cd9f4f",
-        "titre": "Les députés ont déjà fait dérailler la trajectoire de réduction du déficit de la Sécurité sociale avant même le début des débats dans l’hémicycle sur le budget de la Sécu",
-        "source": "BFM Business",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-10-19",
-        "id": "6825d2c17a9c",
-        "titre": "Retraite, santé : la protection sociale, principal poste de dépenses de l’État",
-        "source": "Le Figaro",
-        "contexte": "Top 5 du jour"
-      }
-    ],
-    "pouvoir-d-achat": [
-      {
-        "date": "2026-11-13",
-        "id": "5294232b48a2",
-        "titre": "Logements : les promoteurs immobiliers s’enfoncent un peu plus dans la crise",
-        "source": "Le Monde",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-11-12",
-        "id": "9e316ae07889",
-        "titre": "REPORTAGE. \"Quoi de mieux pour faire passer le message que de paralyser le pays ?\" : en Espagne, une grève générale pour dénoncer la crise du logement",
-        "source": "franceinfo",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-11-08",
-        "id": "444f7f83820d",
-        "titre": "Tarifs de l'électricité pour les particuliers: le PDG d’EDF promet des prix de l’électricité stables \"jusqu’à la fin de l’hiver\"",
-        "source": "BFM Business",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-11-06",
-        "id": "c623b0cc3dbe",
-        "titre": "Manifestations : face à la colère de la rue, le gouvernement dégaine une conférence sociale",
-        "source": "L'Opinion",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-11-01",
-        "id": "15b4255dffb6",
-        "titre": "Carburants : les prix du gazole doivent baisser à partir de ce week-end",
-        "source": "Le Figaro",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-10-27",
-        "id": "fa1814b3d302",
-        "titre": "Pouvoir d'achat : les salariés au SMIC réclament une hausse plus importante",
-        "source": "franceinfo",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-10-26",
-        "id": "81d3a09a1c1c",
-        "titre": "\"On le dit, on continuera\" : une mobilisation sociale partie pour s'ancrer dans la durée ?",
-        "source": "franceinfo",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-10-25",
-        "id": "3cf1e8c28e56",
-        "titre": "12 à 18 centimes de moins par litre : les stocks de gazole libérés pourraient faire baisser les prix dès le 1er novembre",
-        "source": "BFM Business",
-        "contexte": "Top 5 du jour"
-      }
-    ],
     "hypothese-d-instabilite-financiere": [
       {
         "date": "2026-11-13",
@@ -321,50 +462,6 @@
         "titre": "Le PIB recule légèrement au troisième trimestre 2026 (-0,1 % après 0,0 %)",
         "source": "INSEE",
         "contexte": "Top 5 du jour"
-      }
-    ],
-    "choc-petrolier-choc-d-offre": [
-      {
-        "date": "2026-11-12",
-        "id": "d31232220165",
-        "titre": "Sabotage, défaillances, événement exceptionnel : après la crise russe, l'Allemagne instaure une réserve stratégique de gaz",
-        "source": "Le Figaro",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-11-09",
-        "id": "8561e3cd574a",
-        "titre": "Arabie saoudite : le quartier financier de Riyad attaqué, la tour du géant pétrolier Aramco endommagée",
-        "source": "La Tribune",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-11-03",
-        "id": "fe2bd460e083",
-        "titre": "Oil price falls amid hope of a breakthrough to end Iran war",
-        "source": "The Guardian",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-10-24",
-        "id": "d139ede9e737",
-        "titre": "Oil price rises above $117 a barrel amid fears US will renew strikes on Iran",
-        "source": "The Guardian",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-10-23",
-        "id": "f742c3911c35",
-        "titre": "Oil prices jump to five-month high as attacks threaten global supply",
-        "source": "The Guardian",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-10-17",
-        "id": "7333fdccc97b",
-        "titre": "\"Un superpétrolier a heurté une mine\": l'Iran intensifie ses attaques dans le détroit d'Ormuz, alors que le baril de pétrole frôle à nouveau les 110 dollars",
-        "source": "BFM Business",
-        "contexte": "Concept du jour"
       }
     ],
     "innovation": [
@@ -640,43 +737,6 @@
         "contexte": "Top 5 du jour"
       }
     ],
-    "soutenabilite-de-la-dette-publique": [
-      {
-        "date": "2026-11-08",
-        "id": "074e2f263f31",
-        "titre": "François Villeroy de Galhau : « Laisser filer la dette, c’est faire des choix contre la jeunesse, des choix gérontocratiques »",
-        "source": "Le Monde",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-10-24",
-        "id": "f05fd09f8d8d",
-        "titre": "Les taux 10 ans français au-dessus du 10 ans américain",
-        "source": "BFM Business",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-10-21",
-        "id": "6d9f67eeb539",
-        "titre": "Budget de la Sécu 2027 : la Cour des comptes juge «fragile» l’objectif de 12,7 milliards d'euros de déficit",
-        "source": "Capital",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-10-19",
-        "id": "b09456b32b0d",
-        "titre": "Anne de Guigné : « L’épargne des Français bientôt à la rescousse du désendettement ? »",
-        "source": "Le Figaro",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-10-19",
-        "id": "6825d2c17a9c",
-        "titre": "Retraite, santé : la protection sociale, principal poste de dépenses de l’État",
-        "source": "Le Figaro",
-        "contexte": "Concept du jour"
-      }
-    ],
     "competitivite-prix-et-hors-prix": [
       {
         "date": "2026-11-08",
@@ -711,15 +771,6 @@
         "id": "156d6c0b32a1",
         "titre": "Le 737 MAX 10 certifié, Boeing tourne enfin la page de la crise du MAX",
         "source": "La Tribune",
-        "contexte": "Top 5 du jour"
-      }
-    ],
-    "desindustrialisation-et-reindustrialisation": [
-      {
-        "date": "2026-11-08",
-        "id": "11bf96d5847c",
-        "titre": "Les équipementiers automobiles s’alarment des conséquences sociales de l’accord franco-allemand",
-        "source": "Le Monde",
         "contexte": "Top 5 du jour"
       }
     ],
@@ -1051,15 +1102,6 @@
         "id": "aeaf62698138",
         "titre": "Après l'accord franco-allemand sur la voiture, le « made in Europe » avance à pas comptés",
         "source": "L'Opinion",
-        "contexte": "Top 5 du jour"
-      }
-    ],
-    "chomage-classique-et-chomage-keynesien": [
-      {
-        "date": "2026-10-21",
-        "id": "940f03c397a4",
-        "titre": "Commerces pillés : le gouvernement sort le chéquier, les patrons réclament de l’ordre",
-        "source": "Capital",
         "contexte": "Top 5 du jour"
       }
     ],
