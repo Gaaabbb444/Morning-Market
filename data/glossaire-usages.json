@@ -1,6 +1,126 @@
 {
   "version_schema": 1,
   "notions": {
+    "taux-directeurs": [
+      {
+        "date": "2026-11-15",
+        "id": "759845822a92",
+        "titre": "Interest rate rises likely in coming months, Bank of England’s chief economist says",
+        "source": "The Guardian",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-10-30",
+        "id": "7bd3c0d5e104",
+        "titre": "La BCE maintient son principal taux directeur inchangé, à 2,5%",
+        "source": "Le Figaro",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-10-29",
+        "id": "8130eddc625c",
+        "titre": "La Réserve fédérale américaine choisit d’attendre avant de relever de nouveau ses taux, malgré l’inflation",
+        "source": "Le Monde",
+        "contexte": "Top 5 du jour"
+      }
+    ],
+    "pouvoir-d-achat": [
+      {
+        "date": "2026-11-15",
+        "id": "a06ffd401983",
+        "titre": "En Italie, Meta condamnée à 805 millions d’euros d’amende pour avoir accédé aux photos de ses utilisateurs sans leur consentement",
+        "source": "Le Figaro",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-11-15",
+        "id": "931a62b1ccf2",
+        "titre": "Surendettement : 10,2% de dossiers supplémentaires déposés à la Banque de France depuis le début de l'année 2026",
+        "source": "franceinfo",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-11-14",
+        "id": "09a484905f04",
+        "titre": "Salaires des fonctionnaires : les mesures d’urgence du gouvernement jugées « insuffisantes » par les syndicats",
+        "source": "Le Monde",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-11-13",
+        "id": "5294232b48a2",
+        "titre": "Logements : les promoteurs immobiliers s’enfoncent un peu plus dans la crise",
+        "source": "Le Monde",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-11-12",
+        "id": "9e316ae07889",
+        "titre": "REPORTAGE. \"Quoi de mieux pour faire passer le message que de paralyser le pays ?\" : en Espagne, une grève générale pour dénoncer la crise du logement",
+        "source": "franceinfo",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-11-08",
+        "id": "444f7f83820d",
+        "titre": "Tarifs de l'électricité pour les particuliers: le PDG d’EDF promet des prix de l’électricité stables \"jusqu’à la fin de l’hiver\"",
+        "source": "BFM Business",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-11-06",
+        "id": "c623b0cc3dbe",
+        "titre": "Manifestations : face à la colère de la rue, le gouvernement dégaine une conférence sociale",
+        "source": "L'Opinion",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-11-01",
+        "id": "15b4255dffb6",
+        "titre": "Carburants : les prix du gazole doivent baisser à partir de ce week-end",
+        "source": "Le Figaro",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-10-27",
+        "id": "fa1814b3d302",
+        "titre": "Pouvoir d'achat : les salariés au SMIC réclament une hausse plus importante",
+        "source": "franceinfo",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-10-26",
+        "id": "81d3a09a1c1c",
+        "titre": "\"On le dit, on continuera\" : une mobilisation sociale partie pour s'ancrer dans la durée ?",
+        "source": "franceinfo",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-10-25",
+        "id": "3cf1e8c28e56",
+        "titre": "12 à 18 centimes de moins par litre : les stocks de gazole libérés pourraient faire baisser les prix dès le 1er novembre",
+        "source": "BFM Business",
+        "contexte": "Top 5 du jour"
+      }
+    ],
+    "effets-de-reseau-marches-bifaces": [
+      {
+        "date": "2026-11-15",
+        "id": "29949a4e1ec4",
+        "titre": "Panne mondiale d'Outlook : Microsoft annonce la fin de l'incident",
+        "source": "L'Opinion",
+        "contexte": "Top 5 du jour"
+      }
+    ],
+    "croissance-endogene": [
+      {
+        "date": "2026-11-15",
+        "id": "81e41db92388",
+        "titre": "\"Des clients triés sur le volet\": Tesla ouvre les ventes de son robotaxi Cybercab à certains particuliers",
+        "source": "BFM Business",
+        "contexte": "Top 5 du jour"
+      }
+    ],
     "desindustrialisation-et-reindustrialisation": [
       {
         "date": "2026-11-14",
@@ -66,71 +186,6 @@
         "titre": "\"Un superpétrolier a heurté une mine\": l'Iran intensifie ses attaques dans le détroit d'Ormuz, alors que le baril de pétrole frôle à nouveau les 110 dollars",
         "source": "BFM Business",
         "contexte": "Concept du jour"
-      }
-    ],
-    "pouvoir-d-achat": [
-      {
-        "date": "2026-11-14",
-        "id": "09a484905f04",
-        "titre": "Salaires des fonctionnaires : les mesures d’urgence du gouvernement jugées « insuffisantes » par les syndicats",
-        "source": "Le Monde",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-11-13",
-        "id": "5294232b48a2",
-        "titre": "Logements : les promoteurs immobiliers s’enfoncent un peu plus dans la crise",
-        "source": "Le Monde",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-11-12",
-        "id": "9e316ae07889",
-        "titre": "REPORTAGE. \"Quoi de mieux pour faire passer le message que de paralyser le pays ?\" : en Espagne, une grève générale pour dénoncer la crise du logement",
-        "source": "franceinfo",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-11-08",
-        "id": "444f7f83820d",
-        "titre": "Tarifs de l'électricité pour les particuliers: le PDG d’EDF promet des prix de l’électricité stables \"jusqu’à la fin de l’hiver\"",
-        "source": "BFM Business",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-11-06",
-        "id": "c623b0cc3dbe",
-        "titre": "Manifestations : face à la colère de la rue, le gouvernement dégaine une conférence sociale",
-        "source": "L'Opinion",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-11-01",
-        "id": "15b4255dffb6",
-        "titre": "Carburants : les prix du gazole doivent baisser à partir de ce week-end",
-        "source": "Le Figaro",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-10-27",
-        "id": "fa1814b3d302",
-        "titre": "Pouvoir d'achat : les salariés au SMIC réclament une hausse plus importante",
-        "source": "franceinfo",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-10-26",
-        "id": "81d3a09a1c1c",
-        "titre": "\"On le dit, on continuera\" : une mobilisation sociale partie pour s'ancrer dans la durée ?",
-        "source": "franceinfo",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-10-25",
-        "id": "3cf1e8c28e56",
-        "titre": "12 à 18 centimes de moins par litre : les stocks de gazole libérés pourraient faire baisser les prix dès le 1er novembre",
-        "source": "BFM Business",
-        "contexte": "Top 5 du jour"
       }
     ],
     "soutenabilite-de-la-dette-publique": [
@@ -958,22 +1013,6 @@
         "id": "3bfe3b4cc9ea",
         "titre": "Cryptomonnaies : le plateforme Binance victime d'un piratage estimé à 5,6 milliards d'euros",
         "source": "franceinfo",
-        "contexte": "Top 5 du jour"
-      }
-    ],
-    "taux-directeurs": [
-      {
-        "date": "2026-10-30",
-        "id": "7bd3c0d5e104",
-        "titre": "La BCE maintient son principal taux directeur inchangé, à 2,5%",
-        "source": "Le Figaro",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-10-29",
-        "id": "8130eddc625c",
-        "titre": "La Réserve fédérale américaine choisit d’attendre avant de relever de nouveau ses taux, malgré l’inflation",
-        "source": "Le Monde",
         "contexte": "Top 5 du jour"
       }
     ],

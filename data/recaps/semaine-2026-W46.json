@@ -1,0 +1,90 @@
+{
+  "version_schema": 1,
+  "type": "semaine",
+  "periode": "2026-W46",
+  "libelle": "Semaine du 9 novembre au 15 novembre 2026",
+  "du": "2026-11-09",
+  "au": "2026-11-15",
+  "genere_le": "2026-11-15T05:59:05+01:00",
+  "accroche": "Productivité US rebond, conférence sociale France, succession Lagarde BCE, dette française record, hausse taux BoE",
+  "synthese": "Cette semaine a été marquée par une reprise de la productivité aux États-Unis, attribuée aux investissements antérieurs, tandis que la France se prépare à une conférence sociale axée sur le pouvoir d’achat. La succession de Christine Lagarde à la tête de la BCE a été éclaircie avec la désignation de deux candidats, reflétant les enjeux de gouvernance monétaire européenne. En France, la charge d’intérêts de la dette publique devient le premier poste de dépenses, soulignant la pression budgétaire croissante. Aux États-Unis, l’inflation d’octobre a progressé, même si la hausse des prix du carburant ralentit, illustrant des dynamiques inflationnistes différenciées. Enfin, le chief economist de la Banque d’Angleterre anticipe de nouvelles hausses de taux, indiquant une politique monétaire restrictive face à une inflation attendue à 5 % au printemps.",
+  "faits_marquants": [
+    {
+      "date": "2026-11-09",
+      "titre": "\"Je n'aurais jamais imaginé qu'elle soit aussi élevée\": contrairement à l'Europe, la productivité redécolle aux États-Unis mais pas encore grâce à l’IA",
+      "titre_fr": null,
+      "source": "BFM Business",
+      "url": "https://www.bfmtv.com/economie/je-n-aurais-jamais-imagine-qu-elle-soit-aussi-elevee-contrairement-a-l-europe-la-productivite-redecolle-aux-etats-unis-mais-pas-encore-grace-a-l-ia_AV-202611090085.html",
+      "categorie": "croissance",
+      "fil_rouge": null,
+      "article_id": "1103153f6e1f",
+      "a_retenir": "La productivité américaine redécollée montre l’impact des investissements passés sur la croissance."
+    },
+    {
+      "date": "2026-11-09",
+      "titre": "\"Conférence sociale\" du 9 novembre : quelles sont les mesures souhaitées par les Français pour le pouvoir d'achat ?",
+      "titre_fr": null,
+      "source": "franceinfo",
+      "url": "https://www.franceinfo.fr/economie/pouvoir-achat/conference-sociale-du-9-novembre-quelles-sont-les-mesures-souhaitees-par-les-francais-pour-le-pouvoir-d-achat_8273360.html#xtor=RSS-3-%5Bgeneral%5D",
+      "categorie": "desequilibres",
+      "fil_rouge": "conjoncture-france",
+      "article_id": "3abdd8accd24",
+      "a_retenir": "La conférence sociale française met en jeu les mesures de pouvoir d’achat, cruciales pour la demande intérieure."
+    },
+    {
+      "date": "2026-11-09",
+      "titre": "BCE : qui sont les deux candidats en lice pour remplacer Christine Lagarde ?",
+      "titre_fr": null,
+      "source": "La Tribune",
+      "url": "https://www.latribune.fr/article/banques-finance/1061172736547/bce-qui-sont-les-deux-candidats-en-lice-pour-remplacer-christine-lagarde",
+      "categorie": "finance",
+      "fil_rouge": "inflation-bce",
+      "article_id": "f34ac07902e7",
+      "a_retenir": "La désignation de Klaas Knot et Pablo Hernandez de Cos illustre la compétition pour la présidence de la BCE."
+    },
+    {
+      "date": "2026-11-11",
+      "titre": "Plus de 500 milliards d’euros en dix ans : ces fortunes englouties par la France rien que pour payer les intérêts de sa dette",
+      "titre_fr": null,
+      "source": "Le Figaro",
+      "url": "https://www.lefigaro.fr/conjoncture/plus-de-500-milliards-d-euros-en-dix-ans-ces-fortunes-englouties-par-la-france-rien-que-pour-rembourser-sa-dette-20261110",
+      "categorie": "desequilibres",
+      "fil_rouge": "dette-marches",
+      "article_id": "8ea8493d0266",
+      "a_retenir": "La charge d’intérêts de la dette publique devient le poste budgétaire majeur, affectant la marge de manœuvre fiscale."
+    },
+    {
+      "date": "2026-11-15",
+      "titre": "Interest rate rises likely in coming months, Bank of England’s chief economist says",
+      "titre_fr": "Des hausses de taux d'intérêt probables dans les mois à venir, selon le chef économiste de la Banque d'Angleterre / Une hausse rapide des taux d'intérêt semble inévitable, et les ménages devraient en faire les frais",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/nov/14/interest-rate-rises-inflation-bank-of-england-chief-economist",
+      "categorie": "finance",
+      "fil_rouge": "inflation-bce",
+      "article_id": "759845822a92",
+      "a_retenir": "Les prévisions de hausses de taux de la BoE signalent une politique monétaire stricte pour contenir l’inflation."
+    }
+  ],
+  "fils_rouges": [
+    {
+      "id": "budget-2027",
+      "evolution": "Le Sénat propose de réduire davantage le déficit public en 2027, ciblant une baisse supplémentaire de 0,2 % du PIB."
+    },
+    {
+      "id": "conjoncture-france",
+      "evolution": "Moody's prévoit une croissance de 0,2 % en 2026, tandis que la Banque de France anticipe une croissance modérée au T4, reflétant une conjoncture fragile."
+    },
+    {
+      "id": "inflation-bce",
+      "evolution": "Les candidats à la présidence de la BCE sont présentés, puis le chef économiste de la BoE évoque de nouvelles hausses de taux, soulignant les tensions inflationnistes en Europe."
+    },
+    {
+      "id": "automobile-europe-chine",
+      "evolution": "Mercedes‑Benz suspend tout nouvel investissement en Allemagne et envisage des fermetures d’usines, illustrant la pression concurrentielle de la Chine sur l’automobile européenne."
+    },
+    {
+      "id": "choc-petrolier-ormuz",
+      "evolution": "L’IEA prévoit un marché pétrolier excédentaire au dernier trimestre 2026, marquant un retournement après les tensions liées au détroit d’Ormuz."
+    }
+  ]
+}

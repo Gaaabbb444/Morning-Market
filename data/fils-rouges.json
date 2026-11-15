@@ -1,6 +1,6 @@
 {
   "version_schema": 1,
-  "mis_a_jour_le": "2026-11-14T10:03:57+01:00",
+  "mis_a_jour_le": "2026-11-15T05:56:38+01:00",
   "fils": [
     {
       "id": "budget-2027",
@@ -571,6 +571,17 @@
               "titre": "Non, nous ne pouvons pas réduire le déficit sans augmenter les impôts",
               "source": "Alternatives Économiques",
               "url": "https://www.alternatives-economiques.fr/non-nous-ne-pouvons-pas-reduire-le-deficit-sans-augmenter-les-impots_13-11-2026"
+            }
+          ]
+        },
+        {
+          "date": "2026-11-15",
+          "resume": "Le Sénat a adopté un amendement alourdissant la taxe prémix sur les boissons alcoolisées prêtes à boire dans le cadre de l'examen du budget de la Sécurité sociale.",
+          "liens": [
+            {
+              "titre": "Une canette de 25 cl représente \"l'équivalent de quatre shooters de vodka d'affilée\": le Sénat veut davantage taxer les \"Vody\", ces boissons qui mélangent sucre et alcool fort et dont raffolent les jeunes",
+              "source": "BFM Business",
+              "url": "https://www.bfmtv.com/economie/consommation/une-canette-de-25-cl-represente-l-equivalent-de-quatre-shooters-de-vodka-d-affilee-le-senat-veut-davantage-taxer-les-vody-ces-boissons-qui-melangent-sucre-et-alcool-fort-et-dont-raffolent-les-jeunes_AV-202611140261.html"
             }
           ]
         }
@@ -1558,6 +1569,17 @@
               "titre": "Vladimir Poutine avait quatre plans pour vaincre l’Ukraine : il ne lui en reste plus que deux",
               "source": "L'Opinion",
               "url": "https://www.lopinion.fr/international/vladimir-poutine-avait-quatre-plans-pour-vaincre-lukraine-il-ne-lui-en-reste-plus-que-deux"
+            }
+          ]
+        },
+        {
+          "date": "2026-11-15",
+          "resume": "Selon Volodymyr Zelensky, les États-Unis auraient proposé une cession du Donbass à l'Ukraine en échange d'une adhésion de Kiev à l'Otan.",
+          "liens": [
+            {
+              "titre": "Guerre en Ukraine : les Etats-Unis auraient proposé une cession du Donbass contre une adhésion de Kiev à l'Otan, indique Zelensky",
+              "source": "L'Opinion",
+              "url": "https://www.lopinion.fr/international/guerre-en-ukraine-les-etats-unis-ont-propose-une-cession-du-donbass-contre-une-adhesion-de-kiev-a-lotan-indique-zelensky"
             }
           ]
         }

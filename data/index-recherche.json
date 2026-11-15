@@ -1,7 +1,250 @@
 {
   "version_schema": 1,
-  "mis_a_jour_le": "2026-11-14T10:03:43+01:00",
+  "mis_a_jour_le": "2026-11-15T05:56:16+01:00",
   "entrees": [
+    {
+      "d": "2026-11-15",
+      "i": "759845822a92",
+      "t": "Des hausses de taux d'intérêt probables dans les mois à venir, selon le chef économiste de la Banque d'Angleterre / Une hausse rapide des taux d'intérêt semble inévitable, et les ménages devraient en faire les frais",
+      "r": "Huw Pill, économiste en chef de la Banque d’Angleterre, a indiqué que la banque devra probablement relever les taux d’intérêt le mois prochain et de nouveau au début 2027, après une hausse à 4 % ce mois-ci, pour combattre une inflation qui devrait atteindre 5 % au printemps prochain.",
+      "c": "finance",
+      "s": "The Guardian",
+      "f": "inflation-bce"
+    },
+    {
+      "d": "2026-11-15",
+      "i": "a06ffd401983",
+      "t": "En Italie, Meta condamnée à 805 millions d’euros d’amende pour avoir accédé aux photos de ses utilisateurs sans leur consentement",
+      "r": "L’Autorité italienne de protection des données a infligé à Meta une amende de 805 millions d’euros pour avoir accédé aux galeries photos d’environ 20 millions d’utilisateurs Android sans consentement spécifique.",
+      "c": "entreprises",
+      "s": "Le Figaro",
+      "f": null
+    },
+    {
+      "d": "2026-11-15",
+      "i": "29949a4e1ec4",
+      "t": "Panne mondiale d'Outlook : Microsoft annonce la fin de l'incident",
+      "r": "Microsoft a déclaré que des problèmes de serveurs étaient à l’origine d’une panne mondiale d’Outlook et Teams, qui a duré plus de 24 heures, avec des pertes mondiales estimées entre 300 et 500 millions de dollars pour les entreprises.",
+      "c": "entreprises",
+      "s": "L'Opinion",
+      "f": null
+    },
+    {
+      "d": "2026-11-15",
+      "i": "81e41db92388",
+      "t": "\"Des clients triés sur le volet\": Tesla ouvre les ventes de son robotaxi Cybercab à certains particuliers",
+      "r": "Tesla a annoncé l’ouverture de la vente de son Cybercab, un véhicule autonome sans volant ni pédales, à des particuliers triés sur le volet, avec un prix d’achat estimé à 29 990 $, un abonnement mensuel de 299 $ et un acompte non remboursable de 1 000 $.",
+      "c": "entreprises",
+      "s": "BFM Business",
+      "f": null
+    },
+    {
+      "d": "2026-11-15",
+      "i": "931a62b1ccf2",
+      "t": "Surendettement : 10,2% de dossiers supplémentaires déposés à la Banque de France depuis le début de l'année 2026",
+      "r": "Depuis le début de l’année 2026, les dossiers de surendettement déposés à la Banque de France ont augmenté de 10,2 % par rapport à l’année précédente, poursuivant une hausse de 9,8 % en 2025 et de 6 % en 2024, dans un contexte de baisse du pouvoir d’achat.",
+      "c": "desequilibres",
+      "s": "franceinfo",
+      "f": null
+    },
+    {
+      "d": "2026-11-15",
+      "i": "2e76b137cd00",
+      "t": "Le projet de loi pour relancer le logement enfin à l’Assemblée nationale",
+      "r": "L'Assemblée nationale s'apprête à examiner le projet de loi Relance logement visant à soutenir le secteur.",
+      "c": "croissance",
+      "s": "franceinfo",
+      "f": "conjoncture-france"
+    },
+    {
+      "d": "2026-11-15",
+      "i": "e939eceb3dd0",
+      "t": "Altman, Amodei, Musk… Les grands patrons de l’IA sont-ils vraiment les futurs maîtres du monde ?",
+      "r": "Les dirigeants des entreprises d'intelligence artificielle se positionnent à la tête de géants économiques engagés dans la course à la superintelligence.",
+      "c": "croissance",
+      "s": "Le Figaro",
+      "f": "intelligence-artificielle"
+    },
+    {
+      "d": "2026-11-15",
+      "i": "2a9e164b342a",
+      "t": "Il a tout d'un grand, surtout les retards : au Canada, le premier petit réacteur nucléaire occidental explose la facture et les délais",
+      "r": "",
+      "c": "croissance",
+      "s": "Les Echos",
+      "f": null
+    },
+    {
+      "d": "2026-11-15",
+      "i": "eeab88bac3b6",
+      "t": "« Il est Nvidia » : Jensen Huang, le pape de l'intelligence artificielle qui semblait intouchable",
+      "r": "",
+      "c": "croissance",
+      "s": "Les Echos",
+      "f": "intelligence-artificielle"
+    },
+    {
+      "d": "2026-11-15",
+      "i": "62ce5a6bed04",
+      "t": "Guerre en Ukraine : les Etats-Unis auraient proposé une cession du Donbass contre une adhésion de Kiev à l'Otan, indique Zelensky",
+      "r": "Selon Volodymyr Zelensky, les États-Unis auraient proposé une cession du Donbass à l'Ukraine en échange d'une adhésion de Kiev à l'Otan.",
+      "c": "mondialisation",
+      "s": "L'Opinion",
+      "f": "ukraine-sanctions"
+    },
+    {
+      "d": "2026-11-15",
+      "i": "58b0d5dd7116",
+      "t": "Un sommet inédit Trump-Xi-Poutine en vue à Shenzhen, en Chine, la semaine prochaine",
+      "r": "",
+      "c": "mondialisation",
+      "s": "Les Echos",
+      "f": null
+    },
+    {
+      "d": "2026-11-15",
+      "i": "e6ff120e40a3",
+      "t": "Des dirigeants mondiaux se rendent en Asie pour une série de sommets diplomatiques",
+      "r": "Des dirigeants mondiaux se réunissent en Asie pour des sommets diplomatiques successifs où le commerce, la technologie et la sécurité régionale occupent une place centrale.",
+      "c": "mondialisation",
+      "s": "The Guardian",
+      "f": null
+    },
+    {
+      "d": "2026-11-15",
+      "i": "796b977da194",
+      "t": "Andy Burnham déclare que le Royaume-Uni a « plus perdu que gagné » à travers le Brexit",
+      "r": "Le dirigeant critique les conséquences du Brexit et défend la recherche d'un accord avec l'Union européenne pour réduire le prix des denrées alimentaires.",
+      "c": "mondialisation",
+      "s": "The Guardian",
+      "f": null
+    },
+    {
+      "d": "2026-11-15",
+      "i": "4dbdc1708d9d",
+      "t": "Des hackers nord-coréens utilisant des deepfakes pour voler des cryptomonnaies : la terrifiante arnaque démasquée par le FBI",
+      "r": "Le FBI a révélé que des pirates nord-coréens ont utilisé des deepfakes en visioconférence pour dérober plus de 400 millions de dollars en cryptomonnaies.",
+      "c": "finance",
+      "s": "La Tribune",
+      "f": null
+    },
+    {
+      "d": "2026-11-15",
+      "i": "632a8c382697",
+      "t": "«Nous sommes très paranoïaques» : à quelques jours de son entrée en Bourse, le patron d’Anthropic défend sa priorité donnée à la sécurité de l’IA",
+      "r": "À l'approche de son introduction au Nasdaq, le patron d'Anthropic défend sa priorité accordée à la sécurité de l'intelligence artificielle.",
+      "c": "finance",
+      "s": "Le Figaro",
+      "f": "intelligence-artificielle"
+    },
+    {
+      "d": "2026-11-15",
+      "i": "7a409ea9e78e",
+      "t": "Mariage entre Schneider Electric et l'américain PTC : un jackpot record promis aux banquiers d'Evercore",
+      "r": "",
+      "c": "finance",
+      "s": "Les Echos",
+      "f": null
+    },
+    {
+      "d": "2026-11-15",
+      "i": "b005211cc571",
+      "t": "Mobilisations du 14 novembre : de nombreuses manifestations dans toute la France, notamment contre la vie chère",
+      "r": "De nombreuses manifestations se sont tenues en France contre la vie chère et pour les salaires, rassemblant entre 50 et 60 cortèges selon le ministère de l'Intérieur.",
+      "c": "desequilibres",
+      "s": "L'Opinion",
+      "f": null
+    },
+    {
+      "d": "2026-11-15",
+      "i": "94e3190f3822",
+      "t": "Pouvoir d'achat : les Antillais en première ligne face à la vie chère",
+      "r": "La vie chère dans les départements d'outre-mer alimente les frustrations sociales, avec des prix alimentaires nettement supérieurs à ceux de l'Hexagone.",
+      "c": "desequilibres",
+      "s": "franceinfo",
+      "f": null
+    },
+    {
+      "d": "2026-11-15",
+      "i": "934894a7c787",
+      "t": "Sur les réseaux sociaux, des astuces pour lutter contre le froid chez soi",
+      "r": "Face à l'inflation et aux difficultés financières, certains ménages français adoptent des astuces sur les réseaux sociaux pour économiser sur le chauffage.",
+      "c": "desequilibres",
+      "s": "franceinfo",
+      "f": null
+    },
+    {
+      "d": "2026-11-15",
+      "i": "03e99c94fa73",
+      "t": "Des milliers de Portugais manifestent contre la crise du logement",
+      "r": "Des milliers de Portugais ont manifesté contre la crise du logement après l'adoption d'une réforme facilitant les expulsions de locataires.",
+      "c": "desequilibres",
+      "s": "franceinfo",
+      "f": null
+    },
+    {
+      "d": "2026-11-15",
+      "i": "925a1aa3da21",
+      "t": "Lunettes connectées : « Où est donc l’Europe, qui aime tant se présenter comme la championne mondiale de la protection de la vie privée ? »",
+      "r": "Un collectif de chercheurs critique l'absence de réaction de l'Europe face aux risques de surveillance liés aux lunettes connectées.",
+      "c": "ue",
+      "s": "Le Monde",
+      "f": "intelligence-artificielle"
+    },
+    {
+      "d": "2026-11-15",
+      "i": "c77688313698",
+      "t": "États-Unis : plus de 16.000 vols annulés en deux jours après une panne géante des communications aériennes",
+      "r": "Le trafic aérien revient progressivement à la normale après une panne géante, obligeant les compagnies à réorganiser leurs programmes.",
+      "c": "entreprises",
+      "s": "Le Figaro",
+      "f": null
+    },
+    {
+      "d": "2026-11-15",
+      "i": "6fe125394cc4",
+      "t": "Cyberattaque sur une filiale de La Poste : 22 millions de personnes touchées par un vol de données",
+      "r": "",
+      "c": "entreprises",
+      "s": "Les Echos",
+      "f": null
+    },
+    {
+      "d": "2026-11-15",
+      "i": "ba6f5cdc0c95",
+      "t": "Le BHV restera fermé tout le week-end, la direction vise une réouverture «mardi ou mercredi»",
+      "r": "Le grand magasin BHV, en redressement judiciaire, est resté fermé tout le week-end à la suite d'une régularisation administrative et vise une réouverture prochaine.",
+      "c": "entreprises",
+      "s": "Le Figaro",
+      "f": null
+    },
+    {
+      "d": "2026-11-15",
+      "i": "a2fafccb073f",
+      "t": "Des responsables américains attribuent l'interruption des vols à une « maintenance de routine » alors que le chaos des voyages se poursuit",
+      "r": "Des milliers de vols ont été annulés suite à un arrêt des départs ordonné par l'administration fédérale, attribué à la maintenance d'un système vieillissant.",
+      "c": "entreprises",
+      "s": "The Guardian",
+      "f": null
+    },
+    {
+      "d": "2026-11-15",
+      "i": "bdbbd56f21c5",
+      "t": "Crédit immobilier : jusqu’à quel âge peut-on emprunter ?",
+      "r": "La loi ne fixe aucune limite d'âge pour souscrire un crédit immobilier, mais les conditions d'assurance et de durée peuvent restreindre l'accès au prêt.",
+      "c": "epargne",
+      "s": "Capital",
+      "f": null
+    },
+    {
+      "d": "2026-11-15",
+      "i": "9e39b3d32053",
+      "t": "Un contrat d'assurance-vie au Luxembourg protège-t-il vraiment de la loi Sapin II ?",
+      "r": "",
+      "c": "epargne",
+      "s": "Les Echos",
+      "f": "fiscalite-epargne-patrimoine"
+    },
     {
       "d": "2026-11-14",
       "i": "dbda4ef768ec",
