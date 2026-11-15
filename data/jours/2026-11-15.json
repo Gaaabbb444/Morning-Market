@@ -1,7 +1,7 @@
 {
   "version_schema": 1,
   "date": "2026-11-15",
-  "genere_le": "2026-11-15T05:56:16+01:00",
+  "genere_le": "2026-11-15T10:08:06+01:00",
   "mode_ia": "ia",
   "passages": [
     {
@@ -11,12 +11,20 @@
       "articles_collectes": 154,
       "nouvelles_infos": 106,
       "top5_modifie": false
+    },
+    {
+      "heure": "2026-11-15T10:08:06+01:00",
+      "type": "fin-de-matinee",
+      "mode_ia": "ia",
+      "articles_collectes": 165,
+      "nouvelles_infos": 35,
+      "top5_modifie": true
     }
   ],
   "essentiel": [
-    "Le chief economist de la Banque d’Angleterre prévoit de nouvelles hausses de taux pour lutter contre une inflation qui devrait atteindre 5 % au printemps prochain.",
-    "Meta a été condamnée en Italie à une amende de 805 millions d’euros pour avoir accédé aux photos de 20 millions d’utilisateurs sans consentement.",
-    "Une panne mondiale des services Outlook et Teams a duré plus de 24 heures, entraînant des pertes estimées entre 300 et 500 millions de dollars pour les entreprises."
+    "Le chief economist de la Banque d’Angleterre anticipe de nouvelles hausses de taux pour contenir une inflation qui devrait atteindre 5 % au printemps prochain.",
+    "La France affiche l’une des plus faibles croissances européennes, accentuant son recul dans le classement du PIB par habitant.",
+    "Une panne mondiale des services Outlook et Teams a duré plus de 24 heures, générant des pertes estimées entre 300 et 500 millions de dollars pour les entreprises."
   ],
   "top5": [
     {
@@ -131,43 +139,6 @@
       "analyse": "L’enjeu principal est la dépendance des entreprises aux services numériques, où une interruption entraîne des coûts directs et affecte la productivité globale."
     },
     {
-      "id": "81e41db92388",
-      "titre": "\"Des clients triés sur le volet\": Tesla ouvre les ventes de son robotaxi Cybercab à certains particuliers",
-      "titre_fr": null,
-      "source": "BFM Business",
-      "url": "https://www.bfmtv.com/economie/entreprises/des-clients-tries-sur-le-volet-tesla-ouvre-les-ventes-de-son-robotaxi-cybercab-a-certains-particuliers_AD-202611140241.html",
-      "publie_le": "2026-11-14T13:34:21+01:00",
-      "categorie": "entreprises",
-      "nb_sources": 3,
-      "autres_sources": [
-        {
-          "source": "Le Figaro",
-          "titre": "Tesla va vendre son Cybercab, une voiture autonome sans volant ni pédales, à des particuliers",
-          "url": "https://www.lefigaro.fr/societes/tesla-va-vendre-son-cybercab-une-voiture-autonome-sans-volant-ni-pedales-a-des-particuliers-20261114"
-        },
-        {
-          "source": "La Tribune",
-          "titre": "Robotaxis : Tesla ouvre les ventes de son Cybercab à certains particuliers",
-          "url": "https://www.latribune.fr/article/transports/automobile/1835610401596114/robotaxi-tesla-ouvre-les-ventes-de-son-cybercab-a-certains-particuliers"
-        }
-      ],
-      "resume": "Tesla a ouvert la vente de son robotaxi autonome Cybercab à certains particuliers pour un prix estimé à 29.990 dollars, assorti d'un abonnement mensuel.",
-      "documente": true,
-      "importance": 6,
-      "fil_rouge": null,
-      "rang": 4,
-      "pour_tes_copies": {
-        "theme": "croissance",
-        "theme_libelle": "Croissance, innovation et développement durable",
-        "notion_id": "croissance-endogene",
-        "notion_terme": "Croissance endogène",
-        "usage": "illustrer",
-        "texte": "Cet exemple montre comment l’innovation technologique peut générer une croissance endogène, pertinent dans une dissertation sur les moteurs de la croissance économique."
-      },
-      "faits": "Tesla a annoncé l’ouverture de la vente de son Cybercab, un véhicule autonome sans volant ni pédales, à des particuliers triés sur le volet, avec un prix d’achat estimé à 29 990 $, un abonnement mensuel de 299 $ et un acompte non remboursable de 1 000 $.",
-      "analyse": "L’enjeu économique est l’introduction d’un nouveau modèle de mobilité autonome qui pourrait transformer les coûts de transport et créer de nouveaux revenus récurrents via les abonnements."
-    },
-    {
       "id": "931a62b1ccf2",
       "titre": "Surendettement : 10,2% de dossiers supplémentaires déposés à la Banque de France depuis le début de l'année 2026",
       "titre_fr": null,
@@ -181,7 +152,7 @@
       "documente": true,
       "importance": 6,
       "fil_rouge": null,
-      "rang": 5,
+      "rang": 4,
       "pour_tes_copies": {
         "theme": "desequilibres",
         "theme_libelle": "Déséquilibres : chômage, inflation, inégalités, dette",
@@ -192,6 +163,32 @@
       },
       "faits": "Depuis le début de l’année 2026, les dossiers de surendettement déposés à la Banque de France ont augmenté de 10,2 % par rapport à l’année précédente, poursuivant une hausse de 9,8 % en 2025 et de 6 % en 2024, dans un contexte de baisse du pouvoir d’achat.",
       "analyse": "L’enjeu principal est la détérioration du pouvoir d’achat des ménages, qui alimente le surendettement et crée des pressions sur le système financier et les politiques sociales."
+    },
+    {
+      "id": "f9a756ec99e2",
+      "titre": "Le lent déclin économique de la France face au reste de l’Europe",
+      "titre_fr": null,
+      "source": "Le Monde",
+      "url": "https://www.lemonde.fr/economie/article/2026/11/15/le-lent-declin-economique-de-la-france-face-au-reste-de-l-europe_6810984_3234.html",
+      "publie_le": "2026-11-15T06:15:07+01:00",
+      "categorie": "croissance",
+      "nb_sources": 1,
+      "autres_sources": [],
+      "resume": "La France affiche l'une des plus faibles croissances européennes, ce qui fait tomber son PIB par habitant sous la moyenne européenne.",
+      "documente": true,
+      "importance": 8,
+      "fil_rouge": "conjoncture-france",
+      "rang": 5,
+      "pour_tes_copies": {
+        "theme": "croissance",
+        "theme_libelle": "Croissance, innovation et développement durable",
+        "notion_id": "croissance-economique",
+        "notion_terme": "Croissance économique",
+        "usage": "illustrer",
+        "texte": "Cet exemple illustre la notion de croissance économique différenciée entre pays, à mobiliser dans une dissertation comparant les performances macroéconomiques des économies européennes."
+      },
+      "faits": "L’Hexagone affiche l’une des plus faibles croissances européennes cette année, accentuant la chute du pays dans le classement européen en PIB par habitant, désormais en dessous de la moyenne.",
+      "analyse": "Une croissance plus faible que la moyenne européenne reflète un écart de productivité et d’investissement, ce qui entraîne un ralentissement du revenu par habitant relatif."
     }
   ],
   "par_categorie": {
@@ -255,6 +252,21 @@
         "documente": false,
         "importance": 6,
         "fil_rouge": "intelligence-artificielle"
+      },
+      {
+        "id": "21910072e3bf",
+        "titre": "Chine : au cinquième Plenum, « it’s not the economy, stupid ! »",
+        "titre_fr": null,
+        "source": "L'Opinion",
+        "url": "https://www.lopinion.fr/international/chine-au-cinquieme-plenum-its-not-the-economy-stupid",
+        "publie_le": "2026-11-15T09:55:00+01:00",
+        "categorie": "croissance",
+        "nb_sources": 1,
+        "autres_sources": [],
+        "resume": "L'absence de mention économique lors d'une réunion officielle en Chine incite à observer l'état réel de l'économie du pays.",
+        "documente": true,
+        "importance": 6,
+        "fil_rouge": null
       }
     ],
     "mondialisation": [
@@ -323,6 +335,21 @@
         "documente": true,
         "importance": 6,
         "fil_rouge": null
+      },
+      {
+        "id": "9dcb16b21a6c",
+        "titre": "La sévère concurrence du luxe chinois",
+        "titre_fr": null,
+        "source": "L'Opinion",
+        "url": "https://www.lopinion.fr/economie/la-severe-concurrence-du-luxe-chinois",
+        "publie_le": "2026-11-15T09:40:51+01:00",
+        "categorie": "mondialisation",
+        "nb_sources": 1,
+        "autres_sources": [],
+        "resume": "Après les secteurs de l'énergie et de la technologie, la Chine développe une vive concurrence dans le secteur du luxe.",
+        "documente": true,
+        "importance": 6,
+        "fil_rouge": null
       }
     ],
     "finance": [
@@ -369,6 +396,21 @@
         "resume": null,
         "documente": false,
         "importance": 4,
+        "fil_rouge": null
+      },
+      {
+        "id": "e2ba19038991",
+        "titre": "Pillages et dégradations: les assureurs prêts à durcir leurs conditions",
+        "titre_fr": null,
+        "source": "BFM Business",
+        "url": "https://www.bfmtv.com/economie/video-pillages-et-degradations-les-assureurs-prets-a-durcir-leurs-conditions_VN-202611150079.html",
+        "publie_le": "2026-11-15T06:32:46+01:00",
+        "categorie": "finance",
+        "nb_sources": 1,
+        "autres_sources": [],
+        "resume": "Le coût des dégradations lors des manifestations dépasse le milliard d'euros, poussant les assureurs à durcir leurs conditions.",
+        "documente": true,
+        "importance": 6,
         "fil_rouge": null
       }
     ],
@@ -438,6 +480,27 @@
         "documente": true,
         "importance": 5,
         "fil_rouge": null
+      },
+      {
+        "id": "33b396bf817a",
+        "titre": "Un montant de \"350 euros brut par an\": le ministre des Comptes publics confirme une revalorisation des plus bas salaires de la fonction publique",
+        "titre_fr": null,
+        "source": "BFM Business",
+        "url": "https://www.bfmtv.com/economie/economie-social/finances-publiques/un-montant-de-350-euros-brut-par-an-le-ministre-des-comptes-publics-confirme-une-revalorisation-des-plus-bas-salaires-de-la-fonction-publique_AV-202611150156.html",
+        "publie_le": "2026-11-15T10:02:04+01:00",
+        "categorie": "desequilibres",
+        "nb_sources": 2,
+        "autres_sources": [
+          {
+            "source": "franceinfo",
+            "titre": "Les revalorisations annoncées pour les plus bas salaires coûteront plus d'un milliard d'euros aux finances publiques, déclare le ministre David Amiel",
+            "url": "https://www.franceinfo.fr/economie/pouvoir-achat/il-y-aura-bien-une-hausse-des-points-pour-les-plus-bas-salaires-de-la-fonction-publique-confirme-le-ministre-david-amiel_8283254.html#xtor=RSS-3-%5Beconomie%5D"
+          }
+        ],
+        "resume": "Le ministre des Comptes publics confirme une revalorisation des plus bas salaires de la fonction publique de 350 euros brut par an.",
+        "documente": true,
+        "importance": 7,
+        "fil_rouge": "budget-2027"
       }
     ],
     "ue": [
@@ -523,6 +586,21 @@
         "documente": true,
         "importance": 5,
         "fil_rouge": null
+      },
+      {
+        "id": "6f3131193978",
+        "titre": "Des bateaux \"volants\" pour la Marine ?",
+        "titre_fr": null,
+        "source": "BFM Business",
+        "url": "https://www.bfmtv.com/economie/video-des-bateaux-volants-pour-la-marine_VN-202611150133.html",
+        "publie_le": "2026-11-15T09:00:05+01:00",
+        "categorie": "entreprises",
+        "nb_sources": 1,
+        "autres_sources": [],
+        "resume": "Une PME française développe des drones navals à technologie de bateaux volants pour répondre aux besoins de l'armée.",
+        "documente": true,
+        "importance": 5,
+        "fil_rouge": null
       }
     ],
     "epargne": [
@@ -555,14 +633,44 @@
         "documente": false,
         "importance": 4,
         "fil_rouge": "fiscalite-epargne-patrimoine"
+      },
+      {
+        "id": "21df665fd50e",
+        "titre": "Éco-PTZ copropriété : conditions, montant et durée du prêt collectif à taux zéro",
+        "titre_fr": null,
+        "source": "Capital",
+        "url": "https://www.capital.fr/immobilier/eco-ptz-copropriete-conditions-montant-et-duree-du-pret-collectif-a-taux-zero-1531824",
+        "publie_le": "2026-11-15T10:00:00+01:00",
+        "categorie": "epargne",
+        "nb_sources": 1,
+        "autres_sources": [],
+        "resume": "L'éco-PTZ collectif permet aux copropriétaires de financer la rénovation énergétique de leur immeuble en étalant leur effort d'épargne.",
+        "documente": true,
+        "importance": 5,
+        "fil_rouge": "fiscalite-epargne-patrimoine"
+      },
+      {
+        "id": "25da3a6fc5c3",
+        "titre": "Immobilier : les sommes reçues des promoteurs en échange du désistement d’un recours contre leur permis de construire doivent-elles être déclarées au fisc ?",
+        "titre_fr": null,
+        "source": "Le Monde",
+        "url": "https://www.lemonde.fr/argent/article/2026/11/15/immobilier-les-sommes-recues-des-promoteurs-en-echange-du-desistement-d-un-recours-contre-leur-permis-de-construire-doivent-elles-etre-declarees-au-fisc_6810993_1657007.html",
+        "publie_le": "2026-11-15T07:09:22+01:00",
+        "categorie": "epargne",
+        "nb_sources": 1,
+        "autres_sources": [],
+        "resume": "Bercy affirme que les indemnités reçues des promoteurs en échange du désistement d'un recours sont toujours taxables, malgré des distinctions jurisprudentielles.",
+        "documente": true,
+        "importance": 4,
+        "fil_rouge": null
       }
     ]
   },
   "concept": {
     "id": "taux-directeurs",
     "terme": "Taux directeurs",
-    "lien_actu": "L'annonce d'une hausse probable des taux d'intérêt par la Banque d'Angleterre illustre l'utilisation des taux directeurs par une banque centrale pour freiner la demande globale et tenter de maîtriser l'inflation.",
-    "usage_copie": "À mobiliser dans les sujets portant sur la politique monétaire, le rôle des banques centrales et l'arbitrage entre inflation et croissance.",
+    "lien_actu": "Les hausses de taux d'intérêt probables annoncées par la Banque d'Angleterre illustrent l'utilisation de ses taux directeurs pour lutter contre l'inflation en augmentant le coût du crédit, ce qui freine la demande globale.",
+    "usage_copie": "Ce concept s'mobilise dans les sujets de politique monétaire pour analyser les canaux de transmission des décisions des banques centrales vers l'économie réelle et la maîtrise de l'inflation.",
     "article_id": "759845822a92"
   },
   "citation_actu": {
@@ -574,15 +682,18 @@
   },
   "citation_economiste_id": null,
   "ids_traites": [
+    "02d460da8d49",
     "03e99c94fa73",
     "04862c3671c4",
     "048c28ea18a0",
     "064c8ed878c3",
     "06dcded7316a",
+    "07a0e80eef58",
     "07c2aefeb268",
     "08b4f510a077",
     "0c8aaca23e56",
     "0edc6e15947a",
+    "0f1f79f8f431",
     "124f2a4175e4",
     "12cf95ca738e",
     "13573c5ba108",
@@ -595,23 +706,34 @@
     "1ee028689038",
     "20f03abf470f",
     "21115f86b0ce",
+    "21910072e3bf",
+    "21df665fd50e",
     "24141e957ad6",
+    "2460d1d60ca9",
     "256ae27b72e4",
+    "25da3a6fc5c3",
     "2693065fc308",
     "29949a4e1ec4",
     "29d2853180da",
     "2a3ae86b48e1",
     "2a9e164b342a",
     "2b88645714ad",
+    "2c8768545bf7",
+    "2d16409d3b0e",
     "2e76b137cd00",
     "2ff304fb6b05",
     "32994a0a643b",
+    "32ef87f578f2",
+    "33b396bf817a",
+    "341f1648e04f",
     "3542703044d8",
     "379a310ca76f",
     "3b9caa6b0718",
     "40b183a40394",
     "412dda5862a0",
     "41d1a4fcf6fb",
+    "425207018768",
+    "437e88950154",
     "446a9f28f2db",
     "4638401d0256",
     "49e876385c1c",
@@ -621,6 +743,7 @@
     "4ce9d7e6bcdf",
     "4dbdc1708d9d",
     "4fb02c297984",
+    "50a9a400c10c",
     "51c5c11078df",
     "528bba6b65b8",
     "531043e9dceb",
@@ -630,17 +753,23 @@
     "5cbfb02975c3",
     "5d65e92e58ff",
     "5d74479755d5",
+    "5ea141aaa448",
     "619169fa2ff7",
     "6273f984fff6",
     "62ce5a6bed04",
     "632a8c382697",
+    "64f7f2bf9ea0",
     "653d412801c8",
     "665509d3e15a",
     "687557aaa6e9",
     "6ce43b089c46",
+    "6df4e3f19bb1",
+    "6f3131193978",
     "6f8f413a41ec",
     "6fe125394cc4",
     "70f60fba4ae9",
+    "716c7c664720",
+    "7478b5979de0",
     "7576f02e6d5d",
     "759845822a92",
     "796b977da194",
@@ -665,39 +794,54 @@
     "925a1aa3da21",
     "931a62b1ccf2",
     "934894a7c787",
+    "936ae24e1427",
     "93e2a4b9f246",
     "94e3190f3822",
     "97be0a73e690",
     "97f2e78b897a",
+    "981d23607431",
+    "99d8361d27b5",
+    "9bbc450964fc",
+    "9cb6202dcd17",
+    "9dcb16b21a6c",
     "9e39b3d32053",
     "a06ffd401983",
     "a20a765200c5",
     "a2fafccb073f",
     "a30183d3e77a",
     "a5f890ed74cf",
+    "a601ba5d99bf",
+    "a850934169be",
     "a96c5da9e82d",
     "aa3e3b504cf1",
     "ab910932e188",
     "ad7539a267d6",
     "af8d3c69ff90",
+    "affa6e403771",
     "b005211cc571",
     "b0ae71b27870",
     "b0b2a72902f4",
     "b0d5dfa387b4",
+    "b141f419b06e",
     "b19cbcaa696f",
+    "b3f1a3f997d4",
     "b4af62fcb160",
     "b67c4d635d9d",
     "ba0b6dfa1a3a",
     "ba6f5cdc0c95",
     "bdbbd56f21c5",
+    "bdfd75bbc9ed",
     "be1bf89fe628",
     "bead0b725e38",
     "c13a606ffaf3",
     "c14e53245a61",
     "c45402730d90",
+    "c763cbcf7a06",
     "c77688313698",
     "c898cf9189e9",
+    "ca559d1f7d02",
     "cb46fb23e0fc",
+    "ce34bd5e69db",
     "d4b40552c038",
     "d615ef5b363d",
     "d8f677d80bd3",
@@ -705,7 +849,11 @@
     "dd16e1b43ea1",
     "df438a4bcfdd",
     "e0c75295f90f",
+    "e260cc9cc84c",
+    "e2ba19038991",
+    "e2fe98948ccf",
     "e37cd850d939",
+    "e3c0774d3453",
     "e5417dbe97b7",
     "e5ed86cb3752",
     "e6ff120e40a3",
@@ -722,6 +870,7 @@
     "f58f3b69962a",
     "f6e39e219219",
     "f9874645223e",
+    "f9a756ec99e2",
     "fb70b998bf51",
     "fb9c40991b39",
     "fc9876cf97e0",

@@ -1,6 +1,6 @@
 {
   "version_schema": 1,
-  "mis_a_jour_le": "2026-11-15T05:56:16+01:00",
+  "mis_a_jour_le": "2026-11-15T10:08:06+01:00",
   "entrees": [
     {
       "d": "2026-11-15",
@@ -31,21 +31,21 @@
     },
     {
       "d": "2026-11-15",
-      "i": "81e41db92388",
-      "t": "\"Des clients triés sur le volet\": Tesla ouvre les ventes de son robotaxi Cybercab à certains particuliers",
-      "r": "Tesla a annoncé l’ouverture de la vente de son Cybercab, un véhicule autonome sans volant ni pédales, à des particuliers triés sur le volet, avec un prix d’achat estimé à 29 990 $, un abonnement mensuel de 299 $ et un acompte non remboursable de 1 000 $.",
-      "c": "entreprises",
-      "s": "BFM Business",
-      "f": null
-    },
-    {
-      "d": "2026-11-15",
       "i": "931a62b1ccf2",
       "t": "Surendettement : 10,2% de dossiers supplémentaires déposés à la Banque de France depuis le début de l'année 2026",
       "r": "Depuis le début de l’année 2026, les dossiers de surendettement déposés à la Banque de France ont augmenté de 10,2 % par rapport à l’année précédente, poursuivant une hausse de 9,8 % en 2025 et de 6 % en 2024, dans un contexte de baisse du pouvoir d’achat.",
       "c": "desequilibres",
       "s": "franceinfo",
       "f": null
+    },
+    {
+      "d": "2026-11-15",
+      "i": "f9a756ec99e2",
+      "t": "Le lent déclin économique de la France face au reste de l’Europe",
+      "r": "L’Hexagone affiche l’une des plus faibles croissances européennes cette année, accentuant la chute du pays dans le classement européen en PIB par habitant, désormais en dessous de la moyenne.",
+      "c": "croissance",
+      "s": "Le Monde",
+      "f": "conjoncture-france"
     },
     {
       "d": "2026-11-15",
@@ -85,6 +85,15 @@
     },
     {
       "d": "2026-11-15",
+      "i": "21910072e3bf",
+      "t": "Chine : au cinquième Plenum, « it’s not the economy, stupid ! »",
+      "r": "L'absence de mention économique lors d'une réunion officielle en Chine incite à observer l'état réel de l'économie du pays.",
+      "c": "croissance",
+      "s": "L'Opinion",
+      "f": null
+    },
+    {
+      "d": "2026-11-15",
       "i": "62ce5a6bed04",
       "t": "Guerre en Ukraine : les Etats-Unis auraient proposé une cession du Donbass contre une adhésion de Kiev à l'Otan, indique Zelensky",
       "r": "Selon Volodymyr Zelensky, les États-Unis auraient proposé une cession du Donbass à l'Ukraine en échange d'une adhésion de Kiev à l'Otan.",
@@ -121,6 +130,15 @@
     },
     {
       "d": "2026-11-15",
+      "i": "9dcb16b21a6c",
+      "t": "La sévère concurrence du luxe chinois",
+      "r": "Après les secteurs de l'énergie et de la technologie, la Chine développe une vive concurrence dans le secteur du luxe.",
+      "c": "mondialisation",
+      "s": "L'Opinion",
+      "f": null
+    },
+    {
+      "d": "2026-11-15",
       "i": "4dbdc1708d9d",
       "t": "Des hackers nord-coréens utilisant des deepfakes pour voler des cryptomonnaies : la terrifiante arnaque démasquée par le FBI",
       "r": "Le FBI a révélé que des pirates nord-coréens ont utilisé des deepfakes en visioconférence pour dérober plus de 400 millions de dollars en cryptomonnaies.",
@@ -144,6 +162,15 @@
       "r": "",
       "c": "finance",
       "s": "Les Echos",
+      "f": null
+    },
+    {
+      "d": "2026-11-15",
+      "i": "e2ba19038991",
+      "t": "Pillages et dégradations: les assureurs prêts à durcir leurs conditions",
+      "r": "Le coût des dégradations lors des manifestations dépasse le milliard d'euros, poussant les assureurs à durcir leurs conditions.",
+      "c": "finance",
+      "s": "BFM Business",
       "f": null
     },
     {
@@ -181,6 +208,15 @@
       "c": "desequilibres",
       "s": "franceinfo",
       "f": null
+    },
+    {
+      "d": "2026-11-15",
+      "i": "33b396bf817a",
+      "t": "Un montant de \"350 euros brut par an\": le ministre des Comptes publics confirme une revalorisation des plus bas salaires de la fonction publique",
+      "r": "Le ministre des Comptes publics confirme une revalorisation des plus bas salaires de la fonction publique de 350 euros brut par an.",
+      "c": "desequilibres",
+      "s": "BFM Business",
+      "f": "budget-2027"
     },
     {
       "d": "2026-11-15",
@@ -229,6 +265,15 @@
     },
     {
       "d": "2026-11-15",
+      "i": "6f3131193978",
+      "t": "Des bateaux \"volants\" pour la Marine ?",
+      "r": "Une PME française développe des drones navals à technologie de bateaux volants pour répondre aux besoins de l'armée.",
+      "c": "entreprises",
+      "s": "BFM Business",
+      "f": null
+    },
+    {
+      "d": "2026-11-15",
       "i": "bdbbd56f21c5",
       "t": "Crédit immobilier : jusqu’à quel âge peut-on emprunter ?",
       "r": "La loi ne fixe aucune limite d'âge pour souscrire un crédit immobilier, mais les conditions d'assurance et de durée peuvent restreindre l'accès au prêt.",
@@ -244,6 +289,24 @@
       "c": "epargne",
       "s": "Les Echos",
       "f": "fiscalite-epargne-patrimoine"
+    },
+    {
+      "d": "2026-11-15",
+      "i": "21df665fd50e",
+      "t": "Éco-PTZ copropriété : conditions, montant et durée du prêt collectif à taux zéro",
+      "r": "L'éco-PTZ collectif permet aux copropriétaires de financer la rénovation énergétique de leur immeuble en étalant leur effort d'épargne.",
+      "c": "epargne",
+      "s": "Capital",
+      "f": "fiscalite-epargne-patrimoine"
+    },
+    {
+      "d": "2026-11-15",
+      "i": "25da3a6fc5c3",
+      "t": "Immobilier : les sommes reçues des promoteurs en échange du désistement d’un recours contre leur permis de construire doivent-elles être déclarées au fisc ?",
+      "r": "Bercy affirme que les indemnités reçues des promoteurs en échange du désistement d'un recours sont toujours taxables, malgré des distinctions jurisprudentielles.",
+      "c": "epargne",
+      "s": "Le Monde",
+      "f": null
     },
     {
       "d": "2026-11-14",

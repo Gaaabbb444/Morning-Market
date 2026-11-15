@@ -112,12 +112,26 @@
         "contexte": "Top 5 du jour"
       }
     ],
-    "croissance-endogene": [
+    "croissance-economique": [
       {
         "date": "2026-11-15",
-        "id": "81e41db92388",
-        "titre": "\"Des clients triés sur le volet\": Tesla ouvre les ventes de son robotaxi Cybercab à certains particuliers",
-        "source": "BFM Business",
+        "id": "f9a756ec99e2",
+        "titre": "Le lent déclin économique de la France face au reste de l’Europe",
+        "source": "Le Monde",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-11-12",
+        "id": "6ba2e3320848",
+        "titre": "Moody’s prévoit seulement 0,2 % de croissance en France pour 2026",
+        "source": "La Tribune",
+        "contexte": "Concept du jour"
+      },
+      {
+        "date": "2026-10-19",
+        "id": "beb98fa83f9b",
+        "titre": "Électricité indisponible : Microsoft abandonne un mégaprojet d'IA au Royaume-Uni",
+        "source": "La Tribune",
         "contexte": "Top 5 du jour"
       }
     ],
@@ -524,22 +538,6 @@
         "date": "2026-11-12",
         "id": "f20fe6245a2b",
         "titre": "1 400 milliards de dollars de valorisation : l'ambition folle d'Anthropic pour son entrée en Bourse",
-        "source": "La Tribune",
-        "contexte": "Top 5 du jour"
-      }
-    ],
-    "croissance-economique": [
-      {
-        "date": "2026-11-12",
-        "id": "6ba2e3320848",
-        "titre": "Moody’s prévoit seulement 0,2 % de croissance en France pour 2026",
-        "source": "La Tribune",
-        "contexte": "Concept du jour"
-      },
-      {
-        "date": "2026-10-19",
-        "id": "beb98fa83f9b",
-        "titre": "Électricité indisponible : Microsoft abandonne un mégaprojet d'IA au Royaume-Uni",
         "source": "La Tribune",
         "contexte": "Top 5 du jour"
       }

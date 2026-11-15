@@ -1,6 +1,6 @@
 {
   "version_schema": 1,
-  "mis_a_jour_le": "2026-11-15T05:56:38+01:00",
+  "mis_a_jour_le": "2026-11-15T10:10:25+01:00",
   "fils": [
     {
       "id": "budget-2027",
@@ -11,8 +11,8 @@
       "categories": [
         "desequilibres"
       ],
-      "ou_en_est_on": "Les discussions parlementaires se poursuivent alors que le Sénat a voté la partie recettes du budget de la Sécurité sociale tout en créant un besoin d'économies de 3,2 milliards d'euros par rapport au projet initial. Parallèlement, Matignon annonce vouloir remettre à plat les exonérations de cotisations patronales pour maîtriser une dépense de 75 milliards d'euros. Le débat oppose toujours partisans de coupes budgétaires ciblées et défenseurs de hausses fiscales pour réduire le déficit public.",
-      "ou_en_est_on_maj_le": "2026-11-14",
+      "ou_en_est_on": "Le débat budgétaire porte sur les recettes et les dépenses, avec le Sénat ayant adopté le volet recettes du budget de la Sécurité sociale et un amendement sur la taxe prémix. Le gouvernement envisage de mieux cibler les allègements de cotisations patronales. Le ministre des Comptes publics a annoncé une revalorisation de 350 € brut par an des salaires les plus bas de la fonction publique, un coût estimé à plus d’un milliard d’euros. Cette mesure relance les discussions entre partisans de coupes ciblées et défenseurs d’une hausse des recettes.",
+      "ou_en_est_on_maj_le": "2026-11-15",
       "evenements": [
         {
           "date": "2026-10-17",
@@ -576,12 +576,17 @@
         },
         {
           "date": "2026-11-15",
-          "resume": "Le Sénat a adopté un amendement alourdissant la taxe prémix sur les boissons alcoolisées prêtes à boire dans le cadre de l'examen du budget de la Sécurité sociale.",
+          "resume": "Le ministre des Comptes publics confirme une revalorisation de 350 € brut annuel des plus bas salaires de la fonction publique, coûtant plus d’un milliard d’euros aux finances publiques.",
           "liens": [
             {
               "titre": "Une canette de 25 cl représente \"l'équivalent de quatre shooters de vodka d'affilée\": le Sénat veut davantage taxer les \"Vody\", ces boissons qui mélangent sucre et alcool fort et dont raffolent les jeunes",
               "source": "BFM Business",
               "url": "https://www.bfmtv.com/economie/consommation/une-canette-de-25-cl-represente-l-equivalent-de-quatre-shooters-de-vodka-d-affilee-le-senat-veut-davantage-taxer-les-vody-ces-boissons-qui-melangent-sucre-et-alcool-fort-et-dont-raffolent-les-jeunes_AV-202611140261.html"
+            },
+            {
+              "titre": "Un montant de \"350 euros brut par an\": le ministre des Comptes publics confirme une revalorisation des plus bas salaires de la fonction publique",
+              "source": "BFM Business",
+              "url": "https://www.bfmtv.com/economie/economie-social/finances-publiques/un-montant-de-350-euros-brut-par-an-le-ministre-des-comptes-publics-confirme-une-revalorisation-des-plus-bas-salaires-de-la-fonction-publique_AV-202611150156.html"
             }
           ]
         }
@@ -1594,8 +1599,8 @@
       "categories": [
         "desequilibres"
       ],
-      "ou_en_est_on": "La campagne présidentielle de 2027 s'articule autour des thématiques du travail, du pouvoir d'achat et de la politique industrielle. Au Salon du Made in France, les prétendants opposent leurs approches entre protectionnisme et allègements fiscaux, tout en multipliant les propositions sur le logement locatif et l'évolution des salaires. Les débats continuent ainsi de mettre en scène des visions contrastées sur le rôle de l'État dans l'économie et la régulation des marchés.",
-      "ou_en_est_on_maj_le": "2026-11-14",
+      "ou_en_est_on": "Les candidats à l’élection présidentielle de 2027 confrontent leurs programmes économiques sur le logement, le travail et le pouvoir d’achat. Au Salon du Made in France, le secteur industriel, jugé en manque de compétitivité, attend des mesures concrètes des prétendants. Les débats opposent des approches protectionnistes à des allègements fiscaux pour soutenir la production nationale. Cette dynamique place la question industrielle au cœur de la campagne.",
+      "ou_en_est_on_maj_le": "2026-11-15",
       "evenements": [
         {
           "date": "2026-10-20",
@@ -1794,6 +1799,17 @@
               "url": "https://www.bfmtv.com/economie/video-le-salaire-median-en-france-est-une-honte-selon-bruno-le-maire-qui-veut-le-doubler_VN-202611130849.html"
             }
           ]
+        },
+        {
+          "date": "2026-11-15",
+          "resume": "Le secteur industriel français, en manque de compétitivité, attend des propositions des candidats à l’élection présidentielle.",
+          "liens": [
+            {
+              "titre": "Made in France : quand l’industrie s’invite dans la présidentielle",
+              "source": "La Tribune",
+              "url": "https://www.latribune.fr/article/la-tribune-dimanche/dimanche-eco/40131389785882/made-in-france-quand-l-industrie-s-invite-dans-la-presidentielle"
+            }
+          ]
         }
       ]
     },
@@ -1945,8 +1961,8 @@
       "categories": [
         "epargne"
       ],
-      "ou_en_est_on": "Le questionnement sur l'opportunité d'ouvrir un plan d'épargne retraite (PER) avant le 31 début décembre intervient alors que le gouvernement envisage de mobiliser l'épargne réglementée pour financer des projets d’infrastructure. Les épargnants évaluent les avantages fiscaux du PER face aux incertitudes budgétaires et aux débats sur l'utilisation du Livret A. Cette réflexion s'inscrit dans le contexte plus large de la fiscalité de l'épargne et du patrimoine.",
-      "ou_en_est_on_maj_le": "2026-11-14",
+      "ou_en_est_on": "Le gouvernement envisage de mobiliser l’épargne réglementée, notamment le Livret A, pour financer des projets d’infrastructure, suscitant l’opposition de certains élus. Des amendements au Budget 2027 ont élargi le prêt à taux zéro et supprimé le tour de vis fiscal sur la location meublée non professionnelle. Une chronique de Capital interroge l’intérêt d’ouvrir un plan d’épargne retraite avant la fin de l’année, reflétant les incertitudes des épargnants. Le débat porte sur les avantages fiscaux du PER face aux perspectives budgétaires.",
+      "ou_en_est_on_maj_le": "2026-11-15",
       "evenements": [
         {
           "date": "2026-10-17",
@@ -2077,6 +2093,17 @@
               "url": "https://www.capital.fr/votre-argent/faut-il-vraiment-ouvrir-un-per-avant-le-31-decembre-la-chronique-de-jean-jacques-manceau-1531820"
             }
           ]
+        },
+        {
+          "date": "2026-11-15",
+          "resume": "Une chronique de Capital questionne l’intérêt d’ouvrir un plan d’épargne retraite avant la fin de l’année pour les épargnants.",
+          "liens": [
+            {
+              "titre": "Éco-PTZ copropriété : conditions, montant et durée du prêt collectif à taux zéro",
+              "source": "Capital",
+              "url": "https://www.capital.fr/immobilier/eco-ptz-copropriete-conditions-montant-et-duree-du-pret-collectif-a-taux-zero-1531824"
+            }
+          ]
         }
       ]
     },
@@ -2091,8 +2118,8 @@
         "desequilibres",
         "entreprises"
       ],
-      "ou_en_est_on": "Le marché du travail des jeunes montre une montée en puissance des compétences liées à l'intelligence artificielle. Selon une étude de Jobteaser, un emploi junior sur cinq exige ces compétences, ce qui accentue la pression sur les formations universitaires et les programmes d'insertion professionnelle. Les acteurs de l'enseignement supérieur sont ainsi incités à intégrer davantage d'IA dans leurs cursus. Cette évolution s'inscrit dans un contexte de transformation numérique plus large de l'économie française.",
-      "ou_en_est_on_maj_le": "2026-11-14",
+      "ou_en_est_on": "La croissance française se situe parmi les plus faibles d’Europe, entraînant une chute du PIB par habitant sous la moyenne européenne. L’augmentation du Smic de 350 € brut par an suscite des inquiétudes chez les employeurs face au poids des charges sociales. Une enquête Bpifrance révèle que la majorité des dirigeants de PME rencontrent des difficultés à recruter des personnes en situation de handicap. Malgré la crise générale, les ventes de vin de Bourgogne résistent grâce à la solidité de leurs exportations.",
+      "ou_en_est_on_maj_le": "2026-11-15",
       "evenements": [
         {
           "date": "2026-10-17",
@@ -2871,6 +2898,17 @@
               "url": "https://www.lemonde.fr/les-decodeurs/article/2026/11/13/tout-comprendre-au-smic-le-salaire-minimum-que-le-gouvernement-va-revaloriser_6809379_4355770.html"
             }
           ]
+        },
+        {
+          "date": "2026-11-15",
+          "resume": "La France enregistre l’une des plus faibles croissances européennes, faisant reculer son PIB par habitant sous la moyenne de l’UE.",
+          "liens": [
+            {
+              "titre": "Le lent déclin économique de la France face au reste de l’Europe",
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/economie/article/2026/11/15/le-lent-declin-economique-de-la-france-face-au-reste-de-l-europe_6810984_3234.html"
+            }
+          ]
         }
       ]
     },
@@ -2885,8 +2923,8 @@
         "entreprises",
         "ue"
       ],
-      "ou_en_est_on": "La vente majoritaire d’Exaion à un groupe américain relance le débat sur la souveraineté des données et la nécessité d’un label de cloud souverain. Les autorités publiques et les acteurs du secteur technologique s’interrogent sur les conditions de protection des données sensibles hébergées en France. Cette question s’ajoute aux enjeux de régulation de l’intelligence artificielle et de compétitivité européenne dans le domaine du numérique.",
-      "ou_en_est_on_maj_le": "2026-11-14",
+      "ou_en_est_on": "La cession de 64 % d’Exaion à un groupe américain a relancé le débat sur un label de cloud souverain. Parallèlement, une tribune du Monde compare la domination des géants de la tech à une approche coloniale, intensifiant les discussions sur la souveraineté des données. Les autorités publiques et les acteurs du secteur technologique s’interrogent sur les conditions de protection des données sensibles hébergées en France. Le sujet s’inscrit dans le cadre plus large de la régulation de l’intelligence artificielle et de la compétitivité européenne.",
+      "ou_en_est_on_maj_le": "2026-11-15",
       "evenements": [
         {
           "date": "2026-10-17",
@@ -3491,6 +3529,17 @@
               "titre": "OPINION. « Pour un label de cloud souverain lisible par tous »",
               "source": "La Tribune",
               "url": "https://www.latribune.fr/article/idees/2245345894970714/opinion-pour-un-label-de-cloud-souverain-lisible-par-tous"
+            }
+          ]
+        },
+        {
+          "date": "2026-11-15",
+          "resume": "Une tribune alerte sur la domination des dirigeants de la tech, comparée à une approche coloniale, relançant le débat sur la souveraineté numérique.",
+          "liens": [
+            {
+              "titre": "« Les citoyens s’apprêtent à n’être qu’une simple ressource gérée par des patrons de la tech tels que Musk, Thiel et Zuckerberg »",
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/idees/article/2026/11/15/les-citoyens-s-appretent-a-n-etre-qu-une-simple-ressource-geree-par-des-patrons-de-la-tech-tels-que-musk-thiel-et-zuckerberg_6811002_3232.html"
             }
           ]
         }
