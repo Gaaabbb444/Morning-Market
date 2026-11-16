@@ -1,7 +1,241 @@
 {
   "version_schema": 1,
-  "mis_a_jour_le": "2026-11-15T10:08:06+01:00",
+  "mis_a_jour_le": "2026-11-16T06:36:29+01:00",
   "entrees": [
+    {
+      "d": "2026-11-16",
+      "i": "25b1b03574fb",
+      "t": "ANALYSE. Finances publiques : comment éviter la faillite de l'Etat grâce à une dévaluation fiscale",
+      "r": "Pour éviter une crise de la dette et un défaut de l'État français, une forte contraction budgétaire apparaît inévitable selon une analyse.",
+      "c": "desequilibres",
+      "s": "L'Opinion",
+      "f": "dette-marches"
+    },
+    {
+      "d": "2026-11-16",
+      "i": "d490ac203a58",
+      "t": "Les Européens face au mur du financement de l’IA",
+      "r": "La présidente de la Commission européenne, Ursula von der Leyen, évalue à au moins 500 milliards d'euros les besoins d'investissements en Europe dans l'intelligence artificielle.",
+      "c": "croissance",
+      "s": "L'Opinion",
+      "f": "intelligence-artificielle"
+    },
+    {
+      "d": "2026-11-16",
+      "i": "8b6799cffb6c",
+      "t": "Ils représentent 70 milliards d'euros par an: le gouvernement veut toucher aux allègements de cotisations sur le travail, les entreprises craignent d'être mises \"au tapis\"",
+      "r": "Le gouvernement envisage de toucher aux allègements de cotisations sur le travail représentant 70 milliards d'euros par an, tandis que les entreprises craignent pour leur compétitivité.",
+      "c": "desequilibres",
+      "s": "BFM Business",
+      "f": "conjoncture-france"
+    },
+    {
+      "d": "2026-11-16",
+      "i": "ef52bb66c60c",
+      "t": "Alice Ekman, sinologue : « Malgré ses difficultés, la Chine veut accélérer la restructuration de la gouvernance mondiale et marginaliser les pays occidentaux »",
+      "r": "Pékin entend utiliser le sommet de la Coopération économique Asie-Pacifique (APEC) pour accélérer la restructuration de la gouvernance mondiale et marginaliser les pays occidentaux.",
+      "c": "mondialisation",
+      "s": "Le Monde",
+      "f": null
+    },
+    {
+      "d": "2026-11-16",
+      "i": "8a7efe8d1bb5",
+      "t": "68 ans dès 2030 et jusqu'à 72 ans à terme: la Grèce se prépare à un nouveau recul spectaculaire (et automatique) de l'âge de départ à la retraite",
+      "r": "La Grèce se prépare à un nouveau recul de l'âge de départ à la retraite, pouvant atteindre 72 ans à terme, en raison du vieillissement accéléré de sa population.",
+      "c": "desequilibres",
+      "s": "BFM Business",
+      "f": "retraites"
+    },
+    {
+      "d": "2026-11-16",
+      "i": "332cdd8b5414",
+      "t": "Stagnation des exportations et inflation élevée: l'économie japonaise est à l'arrêt au troisième trimestre avec une croissance nulle",
+      "r": "Le PIB du Japon a affiché une croissance nulle au troisième trimestre en raison de la stagnation des exportations et d'une inflation élevée.",
+      "c": "croissance",
+      "s": "BFM Business",
+      "f": null
+    },
+    {
+      "d": "2026-11-16",
+      "i": "36ded31e9e98",
+      "t": "« Arrêtez la course à l'IA » : à San Francisco, des manifestants réclament un traité sino-américain",
+      "r": "Des manifestants à San Francisco ont exhorté Donald Trump et Xi Jinping à mieux réguler l'intelligence artificielle face aux dangers qu'elle représente.",
+      "c": "croissance",
+      "s": "La Tribune",
+      "f": "intelligence-artificielle"
+    },
+    {
+      "d": "2026-11-16",
+      "i": "eaf79031cc27",
+      "t": "Jean-Pierre Robin : « À la recherche de la décennie perdue, 2017-2027, dont les Français sortent éreintés »",
+      "r": "La période allant de 2017 à 2027 est décrite comme une décennie marquée par une succession ininterrompue de crises économiques et sociales.",
+      "c": "croissance",
+      "s": "Le Figaro",
+      "f": "conjoncture-france"
+    },
+    {
+      "d": "2026-11-16",
+      "i": "eb62e4e932f5",
+      "t": "Inflation et IA : « On ne construit pas une nouvelle usine de puces en un claquement de doigts",
+      "r": "",
+      "c": "croissance",
+      "s": "Les Echos",
+      "f": "intelligence-artificielle"
+    },
+    {
+      "d": "2026-11-16",
+      "i": "c68e41a1a0d1",
+      "t": "« L’objectif de Pékin n’est pas seulement l’autosuffisance, c’est la dépendance des autres pays »",
+      "r": "La stratégie de Pékin vise à créer une dépendance des autres pays, un défi que l'Europe et la France peuvent contrer en surmontant leur aveuglement.",
+      "c": "mondialisation",
+      "s": "Le Monde",
+      "f": null
+    },
+    {
+      "d": "2026-11-16",
+      "i": "eb7b3eb94ce4",
+      "t": "Commerce, sécurité, énergie... Les puissances mondiales réunies au sommet de l'Asean, à Manille",
+      "r": "Le 49e sommet de l'Asean s'ouvre à Manille pour contrer l'influence de la Chine en Asie du Sud-Est, avec la participation de dirigeants internationaux.",
+      "c": "mondialisation",
+      "s": "La Tribune",
+      "f": null
+    },
+    {
+      "d": "2026-11-16",
+      "i": "bc3637567573",
+      "t": "Entre la France et le Cambodge, 29 accords conclus et un partenariat « tourné vers l'avenir »",
+      "r": "La France et le Cambodge ont conclu 29 accords économiques et de coopération lors du sommet de l'Organisation internationale de la francophonie à Phnom Penh.",
+      "c": "mondialisation",
+      "s": "La Tribune",
+      "f": null
+    },
+    {
+      "d": "2026-11-16",
+      "i": "c6f717fdbe76",
+      "t": "Un espion chinois présumé lié à l'ancien patron de Nvidia est parti en 2025, selon Megaspeed",
+      "r": "Le scandale chez Nvidia relance les interrogations sur le possible contournement des restrictions américaines à l'exportation de puces avancées vers la Chine.",
+      "c": "mondialisation",
+      "s": "BBC",
+      "f": null
+    },
+    {
+      "d": "2026-11-16",
+      "i": "501905f9bb02",
+      "t": "Des investisseurs poursuivent le géant des puces Intel après une chute de 29 % de son action",
+      "r": "Des investisseurs ont intenté une action collective contre Intel, accusant l'entreprise d'avoir dissimulé le ralentissement de ses ventes pour gonfler son cours boursier.",
+      "c": "finance",
+      "s": "BBC",
+      "f": null
+    },
+    {
+      "d": "2026-11-16",
+      "i": "e9f3d7f409b7",
+      "t": "Pourquoi le coup de pouce au Smic risque de disparaître avant même d'entrer en vigueur",
+      "r": "Le récent coup de pouce gouvernemental sur le Smic risque d'être annulé avant son entrée en vigueur en raison de la hausse actuelle des prix.",
+      "c": "desequilibres",
+      "s": "Alternatives Économiques",
+      "f": null
+    },
+    {
+      "d": "2026-11-16",
+      "i": "5c4a31697ab1",
+      "t": "Présidentielle 2027 : Edouard Philippe veut bâtir quatre millions de logements supplémentaires en 10 ans",
+      "r": "Édouard Philippe, candidat à la présidentielle, propose de construire quatre millions de logements supplémentaires en dix ans pour soutenir le pouvoir d'achat.",
+      "c": "desequilibres",
+      "s": "franceinfo",
+      "f": "presidentielle-2027"
+    },
+    {
+      "d": "2026-11-16",
+      "i": "7da594786227",
+      "t": "«Sur les courses de Noël, ça ira» : Michel-Édouard Leclerc écarte une nouvelle flambée des prix pour les fêtes",
+      "r": "Le secteur de la grande distribution écarte une nouvelle flambée des prix pour les fêtes, tout en soulignant la fragilité de la consommation pour l'année à venir.",
+      "c": "desequilibres",
+      "s": "Le Figaro",
+      "f": "conjoncture-france"
+    },
+    {
+      "d": "2026-11-16",
+      "i": "7712ac8774b6",
+      "t": "Budget : comment le RN refuse de s'afficher avec la gauche",
+      "r": "Le Rassemblement national multiplie les votes et abstentions stratégiques lors des débats budgétaires, cherchant à se positionner entre la droite et la gauche.",
+      "c": "desequilibres",
+      "s": "L'Opinion",
+      "f": "budget-2027"
+    },
+    {
+      "d": "2026-11-16",
+      "i": "141031297fd8",
+      "t": "Faux comptes à rebours, options payantes précochées… Que sont les «dark patterns», ces pièges numériques auxquels l’UE s’attaque ?",
+      "r": "L'Union européenne souhaite encadrer les interfaces trompeuses, ou dark patterns, utilisées sur les sites en ligne et réseaux sociaux pour protéger les consommateurs.",
+      "c": "ue",
+      "s": "Le Figaro",
+      "f": null
+    },
+    {
+      "d": "2026-11-16",
+      "i": "e043f4cff3c9",
+      "t": "L'Italie inflige une amende de 887 millions de dollars à Meta pour l'accès aux photos et vidéos d'utilisateurs Android",
+      "r": "L'autorité italienne de protection des données a sanctionné Meta d'une amende de 805 millions d'euros pour avoir accédé à des données d'utilisateurs sans leur consentement.",
+      "c": "entreprises",
+      "s": "The Guardian",
+      "f": null
+    },
+    {
+      "d": "2026-11-16",
+      "i": "9e29decc6c40",
+      "t": "Plus de 157 000 signataires, dont Elon Musk, demandent le retour de Jensen Huang à la tête de Nvidia",
+      "r": "Plus de 150 000 signataires, dont Elon Musk et des salariés de Nvidia, demandent le retour du directeur général Jensen Huang après son départ.",
+      "c": "entreprises",
+      "s": "Le Monde",
+      "f": null
+    },
+    {
+      "d": "2026-11-16",
+      "i": "84f64b2db0fd",
+      "t": "Coup dur pour Amazon avec la perte de 40 satellites due à l’échec de la fusée Vulcan",
+      "r": "Le lanceur Vulcan de United Launch Alliance a échoué à placer en orbite 40 satellites d'Amazon Leo suite à une anomalie.",
+      "c": "entreprises",
+      "s": "Le Monde",
+      "f": null
+    },
+    {
+      "d": "2026-11-16",
+      "i": "a70a5a7bedad",
+      "t": "22 millions de personnes concernées par une fuite massive de données d’une filiale de La Poste",
+      "r": "Maileva, filiale de La Poste, a subi une cyberattaque entraînant le vol des coordonnées personnelles de 22 millions de personnes.",
+      "c": "entreprises",
+      "s": "La Tribune",
+      "f": null
+    },
+    {
+      "d": "2026-11-16",
+      "i": "cd3b0215e870",
+      "t": "\"Les Français font un cadeau à l’État en y mettant leur argent\": le gouvernement veut remplir nos Livrets A et pourtant ce n'est pas la meilleure idée pour financer l'économie",
+      "r": "Le gouvernement encourage l'épargne sur le Livret A, bien que d'autres placements soient jugés plus adaptés pour financer des projets risqués de long terme.",
+      "c": "epargne",
+      "s": "BFM Business",
+      "f": null
+    },
+    {
+      "d": "2026-11-16",
+      "i": "b05bed44ef60",
+      "t": "Pouvoir d'achat : malgré la crise, les Français continuent à épargner, principalement par crainte de l'avenir",
+      "r": "Malgré la crise du pouvoir d'achat, l'épargne des Français atteint plus de 6 500 milliards d'euros et 80 % de la population continue d'épargner par crainte de l'avenir.",
+      "c": "epargne",
+      "s": "franceinfo",
+      "f": "conjoncture-france"
+    },
+    {
+      "d": "2026-11-16",
+      "i": "325200af6d77",
+      "t": "Logement : réhabiliter les propriétaires ou précipiter la crise",
+      "r": "Le débat autour de la fiscalité et du statut du propriétaire immobilier face aux critiques politiques et aux dispositifs existants.",
+      "c": "epargne",
+      "s": "L'Opinion",
+      "f": null
+    },
     {
       "d": "2026-11-15",
       "i": "759845822a92",

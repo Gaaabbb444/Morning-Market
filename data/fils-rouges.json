@@ -1,6 +1,6 @@
 {
   "version_schema": 1,
-  "mis_a_jour_le": "2026-11-15T10:10:25+01:00",
+  "mis_a_jour_le": "2026-11-16T06:40:41+01:00",
   "fils": [
     {
       "id": "budget-2027",
@@ -589,6 +589,22 @@
               "url": "https://www.bfmtv.com/economie/economie-social/finances-publiques/un-montant-de-350-euros-brut-par-an-le-ministre-des-comptes-publics-confirme-une-revalorisation-des-plus-bas-salaires-de-la-fonction-publique_AV-202611150156.html"
             }
           ]
+        },
+        {
+          "date": "2026-11-16",
+          "resume": "Le Rassemblement national multiplie les votes et abstentions stratégiques lors des débats budgétaires pour se positionner entre la droite et la gauche, tandis qu'en Allemagne, la baisse de la fiscalité de l'électricité a été écartée au Bundestag.",
+          "liens": [
+            {
+              "titre": "Budget : comment le RN refuse de s'afficher avec la gauche",
+              "source": "L'Opinion",
+              "url": "https://www.lopinion.fr/politique/budget-comment-le-rn-refuse-de-safficher-avec-la-gauche"
+            },
+            {
+              "titre": "Budget 2027 : Friedrich Merz effrite un peu plus son capital politique",
+              "source": "L'Opinion",
+              "url": "https://www.lopinion.fr/international/budget-2027-friedrich-merz-effrite-un-peu-plus-son-capital-politique"
+            }
+          ]
         }
       ]
     },
@@ -873,6 +889,17 @@
               "titre": "Plus de 500 milliards d’euros en dix ans : ces fortunes englouties par la France rien que pour payer les intérêts de sa dette",
               "source": "Le Figaro",
               "url": "https://www.lefigaro.fr/conjoncture/plus-de-500-milliards-d-euros-en-dix-ans-ces-fortunes-englouties-par-la-france-rien-que-pour-rembourser-sa-dette-20261110"
+            }
+          ]
+        },
+        {
+          "date": "2026-11-16",
+          "resume": "Une forte contraction budgétaire est présentée comme nécessaire pour éviter une crise de la dette et un défaut de l'État français, selon une analyse de L'Opinion.",
+          "liens": [
+            {
+              "titre": "ANALYSE. Finances publiques : comment éviter la faillite de l'Etat grâce à une dévaluation fiscale",
+              "source": "L'Opinion",
+              "url": "https://www.lopinion.fr/politique/analyse-finances-publiques-comment-eviter-la-faillite-de-letat-grace-a-une-devaluation-fiscale"
             }
           ]
         }
@@ -1808,6 +1835,17 @@
               "titre": "Made in France : quand l’industrie s’invite dans la présidentielle",
               "source": "La Tribune",
               "url": "https://www.latribune.fr/article/la-tribune-dimanche/dimanche-eco/40131389785882/made-in-france-quand-l-industrie-s-invite-dans-la-presidentielle"
+            }
+          ]
+        },
+        {
+          "date": "2026-11-16",
+          "resume": "Édouard Philippe, candidat à la présidentielle, propose de construire quatre millions de logements supplémentaires en dix ans pour soutenir le pouvoir d'achat.",
+          "liens": [
+            {
+              "titre": "Présidentielle 2027 : Edouard Philippe veut bâtir quatre millions de logements supplémentaires en 10 ans",
+              "source": "franceinfo",
+              "url": "https://www.franceinfo.fr/politique/edouard-philippe/presidentielle-2027-edouard-philippe-veut-batir-quatre-millions-de-logements-supplementaires-en-10-ans_8283821.html#xtor=RSS-3-%5Beconomie%5D"
             }
           ]
         }
@@ -2909,6 +2947,22 @@
               "url": "https://www.lemonde.fr/economie/article/2026/11/15/le-lent-declin-economique-de-la-france-face-au-reste-de-l-europe_6810984_3234.html"
             }
           ]
+        },
+        {
+          "date": "2026-11-16",
+          "resume": "Le gouvernement envisage de modifier les allègements de cotisations sur le travail, ce qui inquiète les entreprises, tandis qu'une nouvelle journée de mobilisation sociale rassemble diverses revendications à travers le pays.",
+          "liens": [
+            {
+              "titre": "Ils représentent 70 milliards d'euros par an: le gouvernement veut toucher aux allègements de cotisations sur le travail, les entreprises craignent d'être mises \"au tapis\"",
+              "source": "BFM Business",
+              "url": "https://www.bfmtv.com/economie/entreprises/ils-representent-70-milliards-d-euros-par-an-le-gouvernement-veut-toucher-aux-allegements-de-cotisations-sur-le-travail-les-entreprises-craignent-d-etre-mises-au-tapis_AD-202611150277.html"
+            },
+            {
+              "titre": "« Le mouvement ne s'essouffle pas, il prend racine » : moins d'affluence mais des revendications variées lors du cinquième samedi de mobilisation",
+              "source": "La Tribune",
+              "url": "https://www.latribune.fr/article/economie/3698056228289314/le-mouvement-ne-sessouffle-pas-il-prend-racine-moins-daffluence-mais-des-revendications-variees-lors-de-lacte-v-du-mouvement-social"
+            }
+          ]
         }
       ]
     },
@@ -3540,6 +3594,17 @@
               "titre": "« Les citoyens s’apprêtent à n’être qu’une simple ressource gérée par des patrons de la tech tels que Musk, Thiel et Zuckerberg »",
               "source": "Le Monde",
               "url": "https://www.lemonde.fr/idees/article/2026/11/15/les-citoyens-s-appretent-a-n-etre-qu-une-simple-ressource-geree-par-des-patrons-de-la-tech-tels-que-musk-thiel-et-zuckerberg_6811002_3232.html"
+            }
+          ]
+        },
+        {
+          "date": "2026-11-16",
+          "resume": "La présidente de la Commission européenne évalue à au moins 500 milliards d'euros les besoins d'investissements pour l'intelligence artificielle en Europe.",
+          "liens": [
+            {
+              "titre": "Les Européens face au mur du financement de l’IA",
+              "source": "L'Opinion",
+              "url": "https://www.lopinion.fr/international/les-europeens-face-au-mur-du-financement-de-lia"
             }
           ]
         }
