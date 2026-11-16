@@ -1,6 +1,6 @@
 {
   "version_schema": 1,
-  "mis_a_jour_le": "2026-11-16T06:40:41+01:00",
+  "mis_a_jour_le": "2026-11-16T11:23:11+01:00",
   "fils": [
     {
       "id": "budget-2027",
@@ -11,8 +11,8 @@
       "categories": [
         "desequilibres"
       ],
-      "ou_en_est_on": "Le débat budgétaire porte sur les recettes et les dépenses, avec le Sénat ayant adopté le volet recettes du budget de la Sécurité sociale et un amendement sur la taxe prémix. Le gouvernement envisage de mieux cibler les allègements de cotisations patronales. Le ministre des Comptes publics a annoncé une revalorisation de 350 € brut par an des salaires les plus bas de la fonction publique, un coût estimé à plus d’un milliard d’euros. Cette mesure relance les discussions entre partisans de coupes ciblées et défenseurs d’une hausse des recettes.",
-      "ou_en_est_on_maj_le": "2026-11-15",
+      "ou_en_est_on": "Le débat budgétaire porte sur les recettes, les dépenses et le respect de la cible de déficit public fixée à 5 % pour 2027 malgré la dégradation de la conjoncture. Le Sénat a adopté le volet recettes du budget de la Sécurité sociale, tandis que le gouvernement fait face aux inquiétudes des départements jugeant les efforts budgétaires demandés intenables. Parallèlement, le ministre des Comptes publics a annoncé une revalorisation des salaires les plus bas de la fonction publique pour un coût supérieur à un milliard d'euros.",
+      "ou_en_est_on_maj_le": "2026-11-16",
       "evenements": [
         {
           "date": "2026-10-17",
@@ -592,7 +592,7 @@
         },
         {
           "date": "2026-11-16",
-          "resume": "Le Rassemblement national multiplie les votes et abstentions stratégiques lors des débats budgétaires pour se positionner entre la droite et la gauche, tandis qu'en Allemagne, la baisse de la fiscalité de l'électricité a été écartée au Bundestag.",
+          "resume": "Le gouvernement maintient son objectif de ramener le déficit public à 5 % en 2027 malgré la dégradation conjoncturelle, tandis que des présidents de départements jugent la situation budgétaire intenable.",
           "liens": [
             {
               "titre": "Budget : comment le RN refuse de s'afficher avec la gauche",
@@ -603,6 +603,16 @@
               "titre": "Budget 2027 : Friedrich Merz effrite un peu plus son capital politique",
               "source": "L'Opinion",
               "url": "https://www.lopinion.fr/international/budget-2027-friedrich-merz-effrite-un-peu-plus-son-capital-politique"
+            },
+            {
+              "titre": "Budget 2027 : le gouvernement face au casse-tête d’une cible de déficit à 5 % intenable ?",
+              "source": "La Tribune",
+              "url": "https://www.latribune.fr/article/economie/59716640632010/budget-2027-le-gouvernement-face-au-casse-tete-d-une-cible-de-deficit-a-5-intenable"
+            },
+            {
+              "titre": "La situation autour du budget 2027 \"devient intenable\", préviennent des présidents de départements avant leur rendez-vous avec le Premier ministre",
+              "source": "franceinfo",
+              "url": "https://www.franceinfo.fr/economie/budget/la-situation-autour-du-budget-2027-devient-intenable-previennent-des-presidents-de-departements-avant-leur-rendez-vous-avec-le-premier-ministre_8284391.html#xtor=RSS-3-%5Beconomie%5D"
             }
           ]
         }
@@ -1626,8 +1636,8 @@
       "categories": [
         "desequilibres"
       ],
-      "ou_en_est_on": "Les candidats à l’élection présidentielle de 2027 confrontent leurs programmes économiques sur le logement, le travail et le pouvoir d’achat. Au Salon du Made in France, le secteur industriel, jugé en manque de compétitivité, attend des mesures concrètes des prétendants. Les débats opposent des approches protectionnistes à des allègements fiscaux pour soutenir la production nationale. Cette dynamique place la question industrielle au cœur de la campagne.",
-      "ou_en_est_on_maj_le": "2026-11-15",
+      "ou_en_est_on": "À l'approche du scrutin de 2027, les candidats confrontent leurs propositions économiques, dominées par les préoccupations liées au pouvoir d'achat, au logement et au travail. Les prétendants à l'Élysée débattent de mesures pour accroître le salaire net par rapport au brut et soutenir la production nationale. Les professionnels des ressources humaines et du secteur immobilier appellent les politiques à intégrer ces réalités concrètes dans leurs programmes.",
+      "ou_en_est_on_maj_le": "2026-11-16",
       "evenements": [
         {
           "date": "2026-10-20",
@@ -1840,12 +1850,27 @@
         },
         {
           "date": "2026-11-16",
-          "resume": "Édouard Philippe, candidat à la présidentielle, propose de construire quatre millions de logements supplémentaires en dix ans pour soutenir le pouvoir d'achat.",
+          "resume": "Les candidats à l'élection présidentielle de 2027 font face aux attentes sur le pouvoir d'achat, le logement et la revalorisation des salaires pour rapprocher le net du brut.",
           "liens": [
             {
               "titre": "Présidentielle 2027 : Edouard Philippe veut bâtir quatre millions de logements supplémentaires en 10 ans",
               "source": "franceinfo",
               "url": "https://www.franceinfo.fr/politique/edouard-philippe/presidentielle-2027-edouard-philippe-veut-batir-quatre-millions-de-logements-supplementaires-en-10-ans_8283821.html#xtor=RSS-3-%5Beconomie%5D"
+            },
+            {
+              "titre": "\"Le pouvoir d'achat, c'est d'abord la dépense de logement\" rappelle la directrice générale du promoteur Nexity",
+              "source": "franceinfo",
+              "url": "https://www.franceinfo.fr/economie/pouvoir-achat/logement/le-pouvoir-d-achat-c-est-d-abord-la-depense-de-logement-rappelle-la-directrice-generale-du-promoteur-nexity_8284460.html#xtor=RSS-3-%5Beconomie%5D"
+            },
+            {
+              "titre": "«Le travail ne paie plus assez» : comment les candidats à la présidentielle veulent rapprocher le salaire net du brut",
+              "source": "Le Figaro",
+              "url": "https://www.lefigaro.fr/elections/presidentielles/programmes/le-travail-ne-paie-plus-assez-comment-les-candidats-a-la-presidentielle-veulent-rapprocher-le-salaire-net-du-brut-20261116"
+            },
+            {
+              "titre": "EN DIRECT, présidentielle 2027 : « Pour le moment, la question du pouvoir d’achat semble souvent écraser toutes les autres »",
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/election-presidentielle-2027/live/2026/11/16/en-direct-presidentielle-2027-decouvrez-les-enseignements-de-la-nouvelle-enquete-fractures-francaises-une-grande-etude-sur-l-etat-d-esprit-des-francais-a-cinq-mois-de-l-election_6811633_6205049.html"
             }
           ]
         }
@@ -2156,8 +2181,8 @@
         "desequilibres",
         "entreprises"
       ],
-      "ou_en_est_on": "La croissance française se situe parmi les plus faibles d’Europe, entraînant une chute du PIB par habitant sous la moyenne européenne. L’augmentation du Smic de 350 € brut par an suscite des inquiétudes chez les employeurs face au poids des charges sociales. Une enquête Bpifrance révèle que la majorité des dirigeants de PME rencontrent des difficultés à recruter des personnes en situation de handicap. Malgré la crise générale, les ventes de vin de Bourgogne résistent grâce à la solidité de leurs exportations.",
-      "ou_en_est_on_maj_le": "2026-11-15",
+      "ou_en_est_on": "La croissance française se maintient parmi les plus faibles d'Europe, affectant le PIB par habitant. Les entreprises expriment de vives inquiétudes face au climat politique, aux prélèvements et aux modifications des allègements de cotisations sur le travail. Bpifrance relève que l'enjeu majeur pour les industriels se déplace désormais vers la compétitivité et la recherche de débouchés.",
+      "ou_en_est_on_maj_le": "2026-11-16",
       "evenements": [
         {
           "date": "2026-10-17",
@@ -2950,7 +2975,7 @@
         },
         {
           "date": "2026-11-16",
-          "resume": "Le gouvernement envisage de modifier les allègements de cotisations sur le travail, ce qui inquiète les entreprises, tandis qu'une nouvelle journée de mobilisation sociale rassemble diverses revendications à travers le pays.",
+          "resume": "L'industrie française freine ses investissements en raison du climat politique et des prélèvements, tandis que Bpifrance souligne que le principal défi de la réindustrialisation réside dans la compétitivité et la recherche de marchés.",
           "liens": [
             {
               "titre": "Ils représentent 70 milliards d'euros par an: le gouvernement veut toucher aux allègements de cotisations sur le travail, les entreprises craignent d'être mises \"au tapis\"",
@@ -2961,6 +2986,16 @@
               "titre": "« Le mouvement ne s'essouffle pas, il prend racine » : moins d'affluence mais des revendications variées lors du cinquième samedi de mobilisation",
               "source": "La Tribune",
               "url": "https://www.latribune.fr/article/economie/3698056228289314/le-mouvement-ne-sessouffle-pas-il-prend-racine-moins-daffluence-mais-des-revendications-variees-lors-de-lacte-v-du-mouvement-social"
+            },
+            {
+              "titre": "« Les entreprises vont plus mal que leur carnet de commandes » : le climat politique inquiète l’industrie française",
+              "source": "Le Figaro",
+              "url": "https://www.lefigaro.fr/economie/les-entreprises-vont-plus-mal-que-leur-carnet-de-commandes-le-climat-politique-inquiete-l-industrie-francaise-20261115"
+            },
+            {
+              "titre": "Raphaël Didier (Bpifrance) : « Le principal défi n'est plus de créer des usines, mais de leur trouver des marchés »",
+              "source": "L'Opinion",
+              "url": "https://www.lopinion.fr/economie/raphael-didier-bpifrance-le-principal-defi-nest-plus-de-creer-des-usines-mais-de-leur-trouver-des-marches"
             }
           ]
         }
@@ -2977,8 +3012,8 @@
         "entreprises",
         "ue"
       ],
-      "ou_en_est_on": "La cession de 64 % d’Exaion à un groupe américain a relancé le débat sur un label de cloud souverain. Parallèlement, une tribune du Monde compare la domination des géants de la tech à une approche coloniale, intensifiant les discussions sur la souveraineté des données. Les autorités publiques et les acteurs du secteur technologique s’interrogent sur les conditions de protection des données sensibles hébergées en France. Le sujet s’inscrit dans le cadre plus large de la régulation de l’intelligence artificielle et de la compétitivité européenne.",
-      "ou_en_est_on_maj_le": "2026-11-15",
+      "ou_en_est_on": "Les discussions sur la souveraineté numérique et la régulation de l'intelligence artificielle se doublent de préoccupations financières après les alertes du FMI sur une bulle spéculative. Les besoins d'investissements massifs en Europe s'accompagnent de débats éthiques et géopolitiques sur la domination des géants de la tech. Les marchés réagissent également aux soubresauts sectoriels, tandis que l'ONU souligne le rôle ambigu de l'IA face au climat.",
+      "ou_en_est_on_maj_le": "2026-11-16",
       "evenements": [
         {
           "date": "2026-10-17",
@@ -3599,12 +3634,27 @@
         },
         {
           "date": "2026-11-16",
-          "resume": "La présidente de la Commission européenne évalue à au moins 500 milliards d'euros les besoins d'investissements pour l'intelligence artificielle en Europe.",
+          "resume": "Le FMI met en garde contre une bulle financière de 1 400 milliards de dollars liée à l'intelligence artificielle, alors que les marchés subissent des tensions et que l'ONU appelle à en faire un outil face aux défis climatiques.",
           "liens": [
             {
               "titre": "Les Européens face au mur du financement de l’IA",
               "source": "L'Opinion",
               "url": "https://www.lopinion.fr/international/les-europeens-face-au-mur-du-financement-de-lia"
+            },
+            {
+              "titre": "OPINION. « La corde avec laquelle se pendront les géants de la Tech » (Michel Santi)",
+              "source": "La Tribune",
+              "url": "https://www.latribune.fr/article/idees/18244945718276/opinion-la-corde-avec-laquelle-se-pendront-les-geants-de-la-tech-michel-santi"
+            },
+            {
+              "titre": "AI sell-off resumes as Jensen Huang ‘discusses comeback as Nvidia CEO’ – business live",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/business/live/2026/nov/16/ai-sell-off-resumes-jensen-huang-discusses-comeback-nvidia-ceo-dollar-stock-markets-latest-news-updates"
+            },
+            {
+              "titre": "L’IA est «une arme à double tranchant» face aux bouleversements climatiques, alerte l’ONU",
+              "source": "Le Figaro",
+              "url": "https://www.lefigaro.fr/secteur/high-tech/climat-l-ia-recele-a-la-fois-un-immense-potentiel-et-un-grand-peril-selon-l-onu-20261116"
             }
           ]
         }

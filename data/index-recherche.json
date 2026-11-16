@@ -1,6 +1,6 @@
 {
   "version_schema": 1,
-  "mis_a_jour_le": "2026-11-16T06:36:29+01:00",
+  "mis_a_jour_le": "2026-11-16T11:22:49+01:00",
   "entrees": [
     {
       "d": "2026-11-16",
@@ -40,12 +40,12 @@
     },
     {
       "d": "2026-11-16",
-      "i": "8a7efe8d1bb5",
-      "t": "68 ans dès 2030 et jusqu'à 72 ans à terme: la Grèce se prépare à un nouveau recul spectaculaire (et automatique) de l'âge de départ à la retraite",
-      "r": "La Grèce se prépare à un nouveau recul de l'âge de départ à la retraite, pouvant atteindre 72 ans à terme, en raison du vieillissement accéléré de sa population.",
+      "i": "8d7bffb176e0",
+      "t": "Budget 2027 : le gouvernement face au casse-tête d’une cible de déficit à 5 % intenable ?",
+      "r": "Malgré la dégradation de la conjoncture économique, l’exécutif entend toujours ramener le déficit public à 5 % en 2027, au risque de casser le peu de croissance.",
       "c": "desequilibres",
-      "s": "BFM Business",
-      "f": "retraites"
+      "s": "La Tribune",
+      "f": "budget-2027"
     },
     {
       "d": "2026-11-16",
@@ -85,6 +85,15 @@
     },
     {
       "d": "2026-11-16",
+      "i": "d39b701c4d6e",
+      "t": "Raphaël Didier (Bpifrance) : « Le principal défi n'est plus de créer des usines, mais de leur trouver des marchés »",
+      "r": "Selon Raphaël Didier de Bpifrance, le principal défi de la réindustrialisation française se déplace vers la compétitivité et la recherche de débouchés pour les industriels.",
+      "c": "croissance",
+      "s": "L'Opinion",
+      "f": "conjoncture-france"
+    },
+    {
+      "d": "2026-11-16",
       "i": "c68e41a1a0d1",
       "t": "« L’objectif de Pékin n’est pas seulement l’autosuffisance, c’est la dépendance des autres pays »",
       "r": "La stratégie de Pékin vise à créer une dépendance des autres pays, un défi que l'Europe et la France peuvent contrer en surmontant leur aveuglement.",
@@ -121,12 +130,57 @@
     },
     {
       "d": "2026-11-16",
+      "i": "b1df35b1fde5",
+      "t": "\"Plus de PowerPoint que de permis\": malgré les milliards investis par Trump, les États-Unis peinent à ouvrir les mines de terres rares qui leur permettraient de se passer de la Chine",
+      "r": "Malgré les investissements américains, les États-Unis peinent à ouvrir des mines de terres rares pour s'affranchir de la dépendance à la Chine.",
+      "c": "mondialisation",
+      "s": "BFM Business",
+      "f": null
+    },
+    {
+      "d": "2026-11-16",
       "i": "501905f9bb02",
       "t": "Des investisseurs poursuivent le géant des puces Intel après une chute de 29 % de son action",
       "r": "Des investisseurs ont intenté une action collective contre Intel, accusant l'entreprise d'avoir dissimulé le ralentissement de ses ventes pour gonfler son cours boursier.",
       "c": "finance",
       "s": "BBC",
       "f": null
+    },
+    {
+      "d": "2026-11-16",
+      "i": "966621bfa5ff",
+      "t": "OPINION. « La corde avec laquelle se pendront les géants de la Tech » (Michel Santi)",
+      "r": "Le FMI met en garde contre une bulle financière de 1 400 milliards de dollars liée à l'intelligence artificielle et à des investissements circulants entre géants de la tech.",
+      "c": "finance",
+      "s": "La Tribune",
+      "f": "intelligence-artificielle"
+    },
+    {
+      "d": "2026-11-16",
+      "i": "6e08f93a1109",
+      "t": "La baisse des valeurs technologiques liées à l'IA reprend alors que Jensen Huang discute d'un retour comme PDG de Nvidia",
+      "r": "Les marchés financiers réagissent aux mouvements du secteur de l'intelligence artificielle et aux spéculations autour de la direction de Nvidia.",
+      "c": "finance",
+      "s": "The Guardian",
+      "f": "intelligence-artificielle"
+    },
+    {
+      "d": "2026-11-16",
+      "i": "853ec61a4b12",
+      "t": "Les Bourses asiatiques chutent, emportées par les doutes sur l'IA",
+      "r": "Les bourses d'Asie (Taïwan, Corée, Japon) enregistrent de fortes baisses en raison de doutes pesant sur le secteur de l'intelligence artificielle.",
+      "c": "finance",
+      "s": "L'Opinion",
+      "f": null
+    },
+    {
+      "d": "2026-11-16",
+      "i": "cfee503bed29",
+      "t": "Salaires, croissance, jeunesse... Le \"8h30 franceinfo\" de François Villeroy de Galhau",
+      "r": "François Villeroy de Galhau, ancien gouverneur de la Banque de France, est l'invité d'une émission matinale pour aborder les salaires, la croissance et la jeunesse.",
+      "c": "finance",
+      "s": "franceinfo",
+      "f": "inflation-bce"
     },
     {
       "d": "2026-11-16",
@@ -166,9 +220,45 @@
     },
     {
       "d": "2026-11-16",
+      "i": "3ab8d293c982",
+      "t": "« Les entreprises vont plus mal que leur carnet de commandes » : le climat politique inquiète l’industrie française",
+      "r": "L'industrie française freine ses investissements en raison du climat politique et des inquiétudes liées aux prélèvements, à la concurrence chinoise et à la lenteur européenne.",
+      "c": "desequilibres",
+      "s": "Le Figaro",
+      "f": "conjoncture-france"
+    },
+    {
+      "d": "2026-11-16",
       "i": "141031297fd8",
       "t": "Faux comptes à rebours, options payantes précochées… Que sont les «dark patterns», ces pièges numériques auxquels l’UE s’attaque ?",
       "r": "L'Union européenne souhaite encadrer les interfaces trompeuses, ou dark patterns, utilisées sur les sites en ligne et réseaux sociaux pour protéger les consommateurs.",
+      "c": "ue",
+      "s": "Le Figaro",
+      "f": null
+    },
+    {
+      "d": "2026-11-16",
+      "i": "b8964eebd370",
+      "t": "Plan de relance européen : où en est-on ?",
+      "r": "Le plan de relance européen NextGenerationEU, doté de 750 milliards d'euros, soutient l'économie post-Covid et les transitions écologique et numérique.",
+      "c": "ue",
+      "s": "Toute l'Europe",
+      "f": "budget-ue"
+    },
+    {
+      "d": "2026-11-16",
+      "i": "bca39723b925",
+      "t": "Andy Burnham déclare que le Brexit « n'a pas fonctionné » et qu'il signera un nouvel accord avec l'UE",
+      "r": "Le Premier ministre britannique estime que le Brexit n'a pas fonctionné et annonce vouloir négocier de nouveaux accords avec les dirigeants européens.",
+      "c": "ue",
+      "s": "The Guardian",
+      "f": null
+    },
+    {
+      "d": "2026-11-16",
+      "i": "bd2cdb005a33",
+      "t": "« On se tire une balle dans le pied » : quand le gouvernement favorise les verriers européens au détriment des industriels français",
+      "r": "La France ne met pas en œuvre des mesures financières européennes pour les verriers, contrairement à ses voisins, pour des raisons budgétaires.",
       "c": "ue",
       "s": "Le Figaro",
       "f": null
@@ -211,6 +301,15 @@
     },
     {
       "d": "2026-11-16",
+      "i": "a3c89b5c215f",
+      "t": "Eramet : « L’Etat sacrifie les petits et grands actionnaires minoritaires sur l’autel de la souveraineté nationale »",
+      "r": "Le groupe minier Eramet réalise une augmentation de capital de 500 millions d'euros, portant la participation de l'actionnaire public à 47 %.",
+      "c": "entreprises",
+      "s": "Le Monde",
+      "f": null
+    },
+    {
+      "d": "2026-11-16",
       "i": "cd3b0215e870",
       "t": "\"Les Français font un cadeau à l’État en y mettant leur argent\": le gouvernement veut remplir nos Livrets A et pourtant ce n'est pas la meilleure idée pour financer l'économie",
       "r": "Le gouvernement encourage l'épargne sur le Livret A, bien que d'autres placements soient jugés plus adaptés pour financer des projets risqués de long terme.",
@@ -235,6 +334,24 @@
       "c": "epargne",
       "s": "L'Opinion",
       "f": null
+    },
+    {
+      "d": "2026-11-16",
+      "i": "34fca8b9ef21",
+      "t": "Faciliter le déblocage de l'épargne salariale? L'Assemblée examine cette proposition pour soutenir le pouvoir d'achat des salariés (mais par le passé ça n'a jamais vraiment marché)",
+      "r": "L'Assemblée nationale examine une proposition de loi favorisant le déblocage de l'épargne salariale pour soutenir le pouvoir d'achat, malgré les réserves des syndicats.",
+      "c": "epargne",
+      "s": "BFM Business",
+      "f": "fiscalite-epargne-patrimoine"
+    },
+    {
+      "d": "2026-11-16",
+      "i": "b8aa7a54ce38",
+      "t": "Le plan d’épargne-retraite monte en puissance",
+      "r": "Promu dès 2019 comme solution d'épargne retraite pour tous, le plan d'épargne-retraite (PER) s'est imposé dans le portefeuille des Français malgré des réticences liées à sa complexité.",
+      "c": "epargne",
+      "s": "Le Monde",
+      "f": "fiscalite-epargne-patrimoine"
     },
     {
       "d": "2026-11-15",
