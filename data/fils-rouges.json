@@ -1,6 +1,6 @@
 {
   "version_schema": 1,
-  "mis_a_jour_le": "2026-11-17T14:08:03+01:00",
+  "mis_a_jour_le": "2026-11-17T18:43:23+01:00",
   "fils": [
     {
       "id": "budget-2027",
@@ -618,7 +618,7 @@
         },
         {
           "date": "2026-11-17",
-          "resume": "Le Sénat a rejeté la désindexation des retraites sur l'inflation et rétabli la réforme des retraites dans le budget de la Sécurité sociale, tandis que les fonctionnaires font grève pour demander des hausses de salaires.",
+          "resume": "Le Sénat a approuvé une disposition prévoyant un délai de carence d'un an pour le versement des allocations familiales à certains étrangers hors-UE dans le cadre de l'examen du budget de la Sécurité sociale.",
           "liens": [
             {
               "titre": "Le Sénat rejette la désindexation des retraites sur l'inflation prévue dans le budget de la Sécurité sociale",
@@ -634,6 +634,11 @@
               "titre": "Les syndicats affichent finalement leur unité lors d'une nouvelle mobilisation des fonctionnaires pour les salaires",
               "source": "franceinfo",
               "url": "https://www.franceinfo.fr/replay-radio/le-decryptage-eco/les-syndicats-affichent-finalement-leur-unite-lors-d-une-nouvelle-mobilisation-des-fonctionnaires-pour-les-salaires_8265092.html#xtor=RSS-3-%5Beconomie%5D"
+            },
+            {
+              "titre": "\"Un débat nauséabond\", \"les aspirations du peuple français\"... Pour économiser 1,8 million d'euros par an, le Sénat prive certains étrangers d'allocations familiales pendant un an",
+              "source": "BFM Business",
+              "url": "https://www.bfmtv.com/economie/economie-social/un-debat-nauseabond-les-aspirations-du-peuple-francais-pour-economiser-1-8-million-d-euros-par-an-le-senat-prive-certains-etrangers-d-allocations-familiales-pendant-un-an_AD-202611170813.html"
             }
           ]
         }
@@ -3112,7 +3117,7 @@
         "entreprises",
         "ue"
       ],
-      "ou_en_est_on": "Les discussions sur la régulation de l'intelligence artificielle se poursuivent alors que des études relèvent un impact négatif de l'IA sur la création d'emplois et les recrutements en France et que l'entreprise Anthropic maintient son introduction en Bourse. Parallèlement, les tensions géopolitiques s'intensifient entre Washington et Pékin autour des restrictions sur les puces et serveurs d'IA, et la Californie poursuit OpenAI pour des questions de sécurité.",
+      "ou_en_est_on": "La question de l'intelligence artificielle combine des préoccupations sur son impact direct sur le marché du travail — illustré par la baisse des offres d'emploi — et des interrogations financières liées aux investissements massifs et au financement de la dette par des acteurs européens et américains. Des voix s'élèvent pour avertir d'un risque de bulle spéculative à court terme, tandis que le secteur continue d'attirer des levées de fonds d'envergure.",
       "ou_en_est_on_maj_le": "2026-11-17",
       "evenements": [
         {
@@ -3760,7 +3765,7 @@
         },
         {
           "date": "2026-11-17",
-          "resume": "Plusieurs études mettent en lumière l'impact de l'intelligence artificielle sur l'emploi, tandis que la Chine menace de riposter aux restrictions américaines sur les puces.",
+          "resume": "Une étude met en lumière l'impact négatif de l'intelligence artificielle sur l'emploi avec 25 000 offres supprimées sur France Travail en trois mois, alors que la start-up Genesis AI lève 500 millions de dollars et que des inquiétudes persistent sur un risque de bulle financière.",
           "liens": [
             {
               "titre": "Pour la première fois, une étude établit un lien entre l'IA et les recrutements: 25.000 offres d'emploi ont disparu en seulement trois mois en France",
@@ -3801,8 +3806,8 @@
         "desequilibres",
         "epargne"
       ],
-      "ou_en_est_on": "Le débat sur le financement des retraites se recentre sur la productivité. Jean‑Luc Mélenchon soutient que les progrès technologiques pourraient couvrir les besoins de financement sans augmenter le nombre de cotisants. En revanche, les économistes rappellent que la productivité française n’a progressé que de 0,3 % par an entre 2010 et 2024, limitant la portée de cet argument. Le parlement continue d’examiner les modalités de cumul emploi‑retraite et les conditions de surcote pour 2027.",
-      "ou_en_est_on_maj_le": "2026-11-14",
+      "ou_en_est_on": "Le débat sur le système de retraites oppose différentes visions, de la proposition du Rassemblement national de fixer l'âge de départ entre 60 et 62 ans aux arguments sur les gains de productivité ou sur la comparaison des âges de départ avec les voisins européens selon l'OCDE. Les syndicats expriment des réserves face aux projets présentés, tandis que le Parlement examine parallèlement les conditions de cumul emploi-retraite et les paramètres financiers du budget de la Sécurité sociale.",
+      "ou_en_est_on_maj_le": "2026-11-17",
       "evenements": [
         {
           "date": "2026-10-17",
@@ -3883,6 +3888,27 @@
               "titre": "\"Le rapport entre cotisants et retraités n'a pas de sens\": pour Jean-Luc Mélenchon, pas besoin de travailler plus, la productivité suffit... Un raisonnement juste en théorie, beaucoup moins en pratique",
               "source": "BFM Business",
               "url": "https://www.bfmtv.com/economie/patrimoine/retraite/le-rapport-entre-cotisants-et-retraites-n-a-pas-de-sens-pour-melenchon-pas-besoin-de-travailler-plus-la-productivite-suffit-un-raisonnement-juste-en-theorie-beaucoup-moins-en-pratique_AV-202611140066.html"
+            }
+          ]
+        },
+        {
+          "date": "2026-11-17",
+          "resume": "Le Rassemblement national a dévoilé son projet de réforme des retraites, qui suscite des critiques syndicales malgré des paramètres jugés intéressants, tandis que l'OCDE pointe l'âge de départ plus précoce des Français par rapport à leurs voisins européens.",
+          "liens": [
+            {
+              "titre": "Un grand tour de vis : on vous explique le programme du RN sur les retraites",
+              "source": "BFM Business",
+              "url": "https://www.bfmtv.com/economie/video-un-grand-tour-de-vis-on-vous-explique-le-programme-du-rn-sur-les-retraites_VN-202611170808.html"
+            },
+            {
+              "titre": "Réforme des retraites présentée par le RN: \"Il y a derrière [des paramètres intéressants] beaucoup d'injustices futures\", craint Léonard Guillemot, responsable du dossier protection sociale à la CFTC",
+              "source": "BFM Business",
+              "url": "https://www.bfmtv.com/economie/patrimoine/retraite/video-reforme-des-retraites-presentee-par-le-rn-il-y-a-derriere-des-parametres-interessants-beaucoup-d-injustices-futures-craint-leonard-guillemot-responsable-du-dossier-protection-sociale-a-la-cftc_VN-202611170774.html"
+            },
+            {
+              "titre": "À quel âge les Français et leurs voisins européens partent-ils réellement à la retraite ?",
+              "source": "Le Figaro",
+              "url": "https://www.lefigaro.fr/conjoncture/a-quel-age-les-francais-et-leurs-voisins-europeens-partent-ils-reellement-a-la-retraite-20261117"
             }
           ]
         }

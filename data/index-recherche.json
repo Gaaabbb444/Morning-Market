@@ -1,6 +1,6 @@
 {
   "version_schema": 1,
-  "mis_a_jour_le": "2026-11-17T14:07:48+01:00",
+  "mis_a_jour_le": "2026-11-17T18:40:55+01:00",
   "entrees": [
     {
       "d": "2026-11-17",
@@ -85,6 +85,15 @@
     },
     {
       "d": "2026-11-17",
+      "i": "80bbf08ab52e",
+      "t": "Genesis AI lève 500 millions de dollars pour ses robots à tout faire et atteint 3,5 milliards de valorisation",
+      "r": "La start-up Genesis AI lève 500 millions de dollars, atteint une valorisation de 3,5 milliards et prévoit de déployer des robots et localiser sa production aux États-Unis.",
+      "c": "croissance",
+      "s": "La Tribune",
+      "f": "intelligence-artificielle"
+    },
+    {
+      "d": "2026-11-17",
       "i": "bf87b2822f81",
       "t": "La Chine promet de prendre des « mesures nécessaires » contre les restrictions américaines sur les puces d'IA, alors que les investisseurs se préparent aux résultats de Nvidia",
       "r": "La Chine a menacé de riposter après le durcissement par Washington des restrictions sur l'accès aux puces et serveurs d'intelligence artificielle.",
@@ -118,6 +127,15 @@
       "c": "mondialisation",
       "s": "BBC",
       "f": "intelligence-artificielle"
+    },
+    {
+      "d": "2026-11-17",
+      "i": "672946f2456e",
+      "t": "Comment les nouvelles restrictions américaines sur les puces en Asie du Sud-Est frapperont la Chine",
+      "r": "Les nouvelles règles américaines restreignent les exportations de puces ainsi que l'accès à leur puissance de calcul, dont la Chine dépend fortement.",
+      "c": "mondialisation",
+      "s": "BBC",
+      "f": null
     },
     {
       "d": "2026-11-17",
@@ -157,6 +175,15 @@
     },
     {
       "d": "2026-11-17",
+      "i": "10232b001b58",
+      "t": "L’IA est une bulle qui va exploser à court terme, alerte l’ancien président du gendarme boursier américain",
+      "r": "Les investissements massifs dans l'intelligence artificielle risquent de provoquer une crise à court terme selon l'ancien président du gendarme boursier américain Gary Gensler.",
+      "c": "finance",
+      "s": "Le Figaro",
+      "f": "intelligence-artificielle"
+    },
+    {
+      "d": "2026-11-17",
       "i": "0abc0cd53996",
       "t": "Âge d'entrée sur le marché du travail, départ légal entre 60 et 62 ans, décote durcie, part de capitalisation... Ce qu'il faut retenir de la réforme des retraites présentée par le RN",
       "r": "La candidate du Rassemblement national a présenté sa réforme des prévoyant de fixer l'âge de départ légal entre 60 et 62 ans.",
@@ -190,6 +217,15 @@
       "c": "desequilibres",
       "s": "Les Echos",
       "f": "budget-2027"
+    },
+    {
+      "d": "2026-11-17",
+      "i": "a91c7e218031",
+      "t": "Un grand tour de vis : on vous explique le programme du RN sur les retraites",
+      "r": "Le Rassemblement national a dévoilé ses propositions pour modifier le système de retraites français.",
+      "c": "desequilibres",
+      "s": "BFM Business",
+      "f": "retraites"
     },
     {
       "d": "2026-11-17",
@@ -229,6 +265,15 @@
     },
     {
       "d": "2026-11-17",
+      "i": "0e7349bdcdea",
+      "t": "Banque centrale européenne : l’Allemagne propose l’économiste Markus Brunnermeier au directoire, la présidence de Pablo Hernandez de Cos se profile",
+      "r": "L'Allemagne propose Markus Brunnermeier au directoire de la BCE, tandis que la présidence de Pablo Hernandez se profile.",
+      "c": "ue",
+      "s": "Le Monde",
+      "f": "inflation-bce"
+    },
+    {
+      "d": "2026-11-17",
       "i": "4f1223577724",
       "t": "L’incroyable scénario d’un possible retour de Jensen Huang à la tête de Nvidia",
       "r": "La Silicon Valley se mobilise à travers une pétition pour demander le retour de Jensen Huang à la tête de Nvidia après sa démission.",
@@ -265,6 +310,15 @@
     },
     {
       "d": "2026-11-17",
+      "i": "52d8a4cc5d73",
+      "t": "Iceye veut racheter Avio pour 2 milliards d'euros",
+      "r": "Le groupe finlandais Iceye a proposé de racheter l'italien Avio pour plus de deux milliards d'euros.",
+      "c": "entreprises",
+      "s": "La Tribune",
+      "f": null
+    },
+    {
+      "d": "2026-11-17",
       "i": "67f4c7bfb9c2",
       "t": "Épargne salariale : les députés votent un déblocage exceptionnel jusqu’à 10 000 euros",
       "r": "Les députés ont adopté un texte permettant un déblocage exceptionnel de l'épargne salariale jusqu'à 10 000 euros, suscitant des critiques de l'opposition.",
@@ -298,6 +352,15 @@
       "c": "epargne",
       "s": "Capital",
       "f": "fiscalite-epargne-patrimoine"
+    },
+    {
+      "d": "2026-11-17",
+      "i": "8652b08c5654",
+      "t": "Immobilier : la conversion de bureaux en logements se poursuit à l'Est de Paris",
+      "r": "",
+      "c": "epargne",
+      "s": "Les Echos",
+      "f": null
     },
     {
       "d": "2026-11-16",
