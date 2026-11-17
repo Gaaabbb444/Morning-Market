@@ -1,7 +1,304 @@
 {
   "version_schema": 1,
-  "mis_a_jour_le": "2026-11-16T11:22:49+01:00",
+  "mis_a_jour_le": "2026-11-17T14:07:48+01:00",
   "entrees": [
+    {
+      "d": "2026-11-17",
+      "i": "6c823ffe9b7c",
+      "t": "\"On a vu une forte hausse des écarts entre les taux d'emprunt\": la Commission européenne appelle la France et la Belgique à réduire leur déficit et leur dette",
+      "r": "La Commission européenne a exhorté la France et la Belgique à redresser leurs finances publiques en raison de la hausse de leurs coûts d’emprunt, tout en précisant qu’elle ne voyait aucun problème imminent de stabilité financière dans la zone euro.",
+      "c": "desequilibres",
+      "s": "BFM Business",
+      "f": "dette-marches"
+    },
+    {
+      "d": "2026-11-17",
+      "i": "3b6b643ddb19",
+      "t": "Prévisions économiques : la France devrait connaître la plus faible croissance de la zone euro en 2027",
+      "r": "Dans ses prévisions d’automne, la Commission européenne table sur une croissance française de 0,4 % en 2026 et de 0,6 % en 2027, bien inférieure aux prévisions pour la zone euro, et anticipe un taux de chômage dépassant 9 %.",
+      "c": "croissance",
+      "s": "Toute l'Europe",
+      "f": "conjoncture-france"
+    },
+    {
+      "d": "2026-11-17",
+      "i": "8b6c27fdadf7",
+      "t": "Rachat de Commerzbank : « UniCredit est en passe de réussir son OPA à 45 milliards d’euros en Allemagne et de transformer l’Europe bancaire »",
+      "r": "La Commission européenne a donné son feu vert au rachat de Commerzbank par UniCredit, une opération de 45 milliards d’euros visant à renforcer la solidité du secteur bancaire européen.",
+      "c": "entreprises",
+      "s": "Le Monde",
+      "f": null
+    },
+    {
+      "d": "2026-11-17",
+      "i": "9413d8a85d23",
+      "t": "Pour la première fois, une étude établit un lien entre l'IA et les recrutements: 25.000 offres d'emploi ont disparu en seulement trois mois en France",
+      "r": "Une étude de la Coface indique que 25 000 annonces d’emploi ont disparu du site France Travail au cours du dernier trimestre, les métiers les plus touchés étant la RH, la comptabilité‑gestion et la R&D.",
+      "c": "croissance",
+      "s": "BFM Business",
+      "f": "intelligence-artificielle"
+    },
+    {
+      "d": "2026-11-17",
+      "i": "82d2b5b7a69a",
+      "t": "« Nous voulons des prix sécurisés sur le long terme » : le cri d'alarme du patron de Solvay pour sauver la production de terres rares en Europe",
+      "r": "Le PDG de Solvay, Philippe Kehren, a demandé à la Commission européenne et aux industriels de garantir des prix planchers et des contrats d’achat à long terme pour sécuriser la filière européenne de terres rares face à la domination chinoise.",
+      "c": "mondialisation",
+      "s": "La Tribune",
+      "f": null
+    },
+    {
+      "d": "2026-11-17",
+      "i": "36e236b3d2f9",
+      "t": "Coup de tonnerre pour l’Europe : l'avion électrique du chinois Comac a effectué son premier vol avec équipage",
+      "r": "L'avion électrique Comac CE-25A a réalisé son premier vol avec équipage, illustrant les ambitions de la Chine dans l'aviation décarbonée.",
+      "c": "croissance",
+      "s": "La Tribune",
+      "f": null
+    },
+    {
+      "d": "2026-11-17",
+      "i": "7cda229dea0c",
+      "t": "Taux élevés et croissance faible : la France inquiète Goldman Sachs",
+      "r": "Dans ses prévisions mondiales pour 2027, la banque Goldman Sachs souligne les fragilités de la France avec une croissance qui serait quasi nulle.",
+      "c": "croissance",
+      "s": "L'Opinion",
+      "f": "conjoncture-france"
+    },
+    {
+      "d": "2026-11-17",
+      "i": "3fc945b0b1ad",
+      "t": "59 % des employeurs français jugent que l’IA n’aura pas ou peu d’effets dans 5 ans",
+      "r": "Une étude de l'Observatoire de France Travail montre que 59 % des employeurs jugent que l'IA n'aura pas ou peu d'effets dans cinq ans.",
+      "c": "croissance",
+      "s": "La Tribune",
+      "f": "intelligence-artificielle"
+    },
+    {
+      "d": "2026-11-17",
+      "i": "a5575add4bb0",
+      "t": "5G depuis l'espace : l'Europe teste ses premières briques",
+      "r": "Plusieurs acteurs européens testent des briques technologiques pour la 5G spatiale en vue d'un premier lancement prévu en 2027.",
+      "c": "croissance",
+      "s": "La Tribune",
+      "f": null
+    },
+    {
+      "d": "2026-11-17",
+      "i": "bf87b2822f81",
+      "t": "La Chine promet de prendre des « mesures nécessaires » contre les restrictions américaines sur les puces d'IA, alors que les investisseurs se préparent aux résultats de Nvidia",
+      "r": "La Chine a menacé de riposter après le durcissement par Washington des restrictions sur l'accès aux puces et serveurs d'intelligence artificielle.",
+      "c": "mondialisation",
+      "s": "The Guardian",
+      "f": "intelligence-artificielle"
+    },
+    {
+      "d": "2026-11-17",
+      "i": "1d3e61e0f336",
+      "t": "Comment Jensen Huang a permis à Pékin de contourner les restrictions sur les puces pour rester dans la course à l’IA",
+      "r": "Des data centers en Asie du Sud-Est exploitent une faille des contrôles américains à l'exportation pour fournir des puces et une puissance de calcul à des entreprises chinoises.",
+      "c": "mondialisation",
+      "s": "L'Opinion",
+      "f": "intelligence-artificielle"
+    },
+    {
+      "d": "2026-11-17",
+      "i": "c4518b95869a",
+      "t": "Le « made in Europe » menace l’écosystème industriel mis en place avec la Turquie",
+      "r": "La Turquie souhaite s'associer au dispositif de préférence européenne pour les voitures importées, malgré les menaces sur son écosystème industriel.",
+      "c": "mondialisation",
+      "s": "Le Monde",
+      "f": null
+    },
+    {
+      "d": "2026-11-17",
+      "i": "bfcaf275b27d",
+      "t": "Le gouvernement américain confirme une enquête sur l'entreprise technologique Megaspeed",
+      "r": "Une entreprise basée à Singapour est soupçonnée d'avoir facilité l'exportation de puces d'IA Nvidia vers la Chine en violation des règles américaines.",
+      "c": "mondialisation",
+      "s": "BBC",
+      "f": "intelligence-artificielle"
+    },
+    {
+      "d": "2026-11-17",
+      "i": "b3a84cfb558c",
+      "t": "« Inside Deutsche Bank » : les secrets inavouables du géant bancaire révélés par 15 millions de documents confidentiels",
+      "r": "Une enquête internationale portant sur 15 millions de documents révèle que Deutsche Bank a ignoré ses alertes pour blanchiment et clients sous sanctions.",
+      "c": "finance",
+      "s": "Le Monde",
+      "f": null
+    },
+    {
+      "d": "2026-11-17",
+      "i": "5f5527934acf",
+      "t": "« L’entrée en Bourse d’Anthropic est un test de confiance XXL des marchés financiers à l’égard du secteur de l’IA »",
+      "r": "Malgré les incertitudes politiques et sectorielles, l'entreprise Anthropic maintient son projet d'introduction en Bourse au Nasdaq le 19 novembre.",
+      "c": "finance",
+      "s": "Le Monde",
+      "f": "intelligence-artificielle"
+    },
+    {
+      "d": "2026-11-17",
+      "i": "59e6ae9bc1ba",
+      "t": "Des clients signalent des difficultés d'accès aux services en ligne de grandes banques américaines",
+      "r": "Plusieurs grandes banques américaines ont connu des pannes de services en ligne et des difficultés d'accès pour leurs clients suite à un problème technique.",
+      "c": "finance",
+      "s": "The Guardian",
+      "f": null
+    },
+    {
+      "d": "2026-11-17",
+      "i": "2eef86e8aa2f",
+      "t": "« Risque France », hausses de taux, tensions géopolitiques : les trésoriers français en première ligne",
+      "r": "",
+      "c": "finance",
+      "s": "Les Echos",
+      "f": "dette-marches"
+    },
+    {
+      "d": "2026-11-17",
+      "i": "0abc0cd53996",
+      "t": "Âge d'entrée sur le marché du travail, départ légal entre 60 et 62 ans, décote durcie, part de capitalisation... Ce qu'il faut retenir de la réforme des retraites présentée par le RN",
+      "r": "La candidate du Rassemblement national a présenté sa réforme des prévoyant de fixer l'âge de départ légal entre 60 et 62 ans.",
+      "c": "desequilibres",
+      "s": "BFM Business",
+      "f": "presidentielle-2027"
+    },
+    {
+      "d": "2026-11-17",
+      "i": "a4150f31df30",
+      "t": "Le Sénat rejette la désindexation des retraites sur l'inflation prévue dans le budget de la Sécurité sociale",
+      "r": "Le Sénat a rejeté la désindexation des retraites sur l'inflation et rétabli la réforme des retraites dans le budget de la Sécurité sociale.",
+      "c": "desequilibres",
+      "s": "franceinfo",
+      "f": "budget-2027"
+    },
+    {
+      "d": "2026-11-17",
+      "i": "1f6e8097b493",
+      "t": "Budget 2027 : les fonctionnaires de nouveau en grève contre le gel de leurs salaires",
+      "r": "Les fonctionnaires font grêve pour demander des hausses de salaires et la fin du gel du point d'indice, face au gouvernement qui invoque l'état des finances publiques.",
+      "c": "desequilibres",
+      "s": "L'Opinion",
+      "f": "budget-2027"
+    },
+    {
+      "d": "2026-11-17",
+      "i": "b388f0c8743a",
+      "t": "Budget 2027 : la facture des mesures anti-crise s'allonge dangereusement",
+      "r": "",
+      "c": "desequilibres",
+      "s": "Les Echos",
+      "f": "budget-2027"
+    },
+    {
+      "d": "2026-11-17",
+      "i": "d0e115c7db52",
+      "t": "Ukraine : Bruxelles prépare un prêt de 45 milliards et resserre l'étau sur les revenus russes",
+      "r": "",
+      "c": "ue",
+      "s": "Les Echos",
+      "f": "ukraine-sanctions"
+    },
+    {
+      "d": "2026-11-17",
+      "i": "414c911c5756",
+      "t": "Temu risque une nouvelle amende de l’UE pour un manque de contrôle des produits vendus",
+      "r": "La Commission européenne épingle à nouveau la plateforme Temu pour un manque de contrôle des produits vendus, ce que l'entreprise conteste.",
+      "c": "ue",
+      "s": "Le Figaro",
+      "f": null
+    },
+    {
+      "d": "2026-11-17",
+      "i": "0bb382b8e6bd",
+      "t": "750 millions de livres par semaine est-il le coût réel d'un retour dans l'UE – ou le retour du mythe du bus du Brexit ?",
+      "r": "Une nouvelle analyse issue des partisans du Brexit affirme qu'un retour de la Grande-Bretagne dans l'Union européenne coûterait 750 millions de livres par semaine.",
+      "c": "ue",
+      "s": "The Guardian",
+      "f": null
+    },
+    {
+      "d": "2026-11-17",
+      "i": "18c8b76b13b0",
+      "t": "OPINION. « 30% des Européens peinent à boucler leurs fins de mois... Où a échoué l'Europe ? »",
+      "r": "Une tribune interroge les difficultés économiques des Européens au regard des politiques d'austérité et des choix économiques de l'Union européenne.",
+      "c": "ue",
+      "s": "La Tribune",
+      "f": null
+    },
+    {
+      "d": "2026-11-17",
+      "i": "4f1223577724",
+      "t": "L’incroyable scénario d’un possible retour de Jensen Huang à la tête de Nvidia",
+      "r": "La Silicon Valley se mobilise à travers une pétition pour demander le retour de Jensen Huang à la tête de Nvidia après sa démission.",
+      "c": "entreprises",
+      "s": "Le Figaro",
+      "f": null
+    },
+    {
+      "d": "2026-11-17",
+      "i": "09e2dd3e7bda",
+      "t": "La rémunération moyenne des patrons du CAC 40 était de 7,5 millions d’euros en 2025, une hausse de 16 %",
+      "r": "La rémunération moyenne des dirigeants du CAC 40 a atteint 7,5 millions d'euros en 2025, affichant une hausse de 16 % selon Proxinvest.",
+      "c": "entreprises",
+      "s": "Le Monde",
+      "f": null
+    },
+    {
+      "d": "2026-11-17",
+      "i": "687a4006feb5",
+      "t": "Obsolescence programmée des iPhone : Apple sera jugé en juin 2027 à Paris, une première",
+      "r": "Apple sera jugé en juin 2027 à Paris pour des accusations d'obsolescence programmée visant à limiter les réparations et stimuler les ventes.",
+      "c": "entreprises",
+      "s": "Le Figaro",
+      "f": null
+    },
+    {
+      "d": "2026-11-17",
+      "i": "7d4307f50c7a",
+      "t": "La Californie poursuit OpenAI pour des risques liés à la sécurité après le piratage d'un agent autonome",
+      "r": "La Californie poursuit OpenAI, l'accusant d'avoir développé sa technologie sans tenir compte de la sécurité publique après un incident de piratage.",
+      "c": "entreprises",
+      "s": "The Guardian",
+      "f": "intelligence-artificielle"
+    },
+    {
+      "d": "2026-11-17",
+      "i": "67f4c7bfb9c2",
+      "t": "Épargne salariale : les députés votent un déblocage exceptionnel jusqu’à 10 000 euros",
+      "r": "Les députés ont adopté un texte permettant un déblocage exceptionnel de l'épargne salariale jusqu'à 10 000 euros, suscitant des critiques de l'opposition.",
+      "c": "epargne",
+      "s": "Capital",
+      "f": "fiscalite-epargne-patrimoine"
+    },
+    {
+      "d": "2026-11-17",
+      "i": "9959d643ced5",
+      "t": "Immobilier : pourquoi les prix ne baissent pas",
+      "r": "Les prix de l'immobilier reculent de moins de 1 % en France, n'offrant guère de gain de pouvoir d'achat malgré la hausse des taux.",
+      "c": "epargne",
+      "s": "L'Opinion",
+      "f": null
+    },
+    {
+      "d": "2026-11-17",
+      "i": "81faa99cb147",
+      "t": "Faut-il supprimer la règle des 35 % d'endettement maximum pour obtenir un crédit immobilier ?",
+      "r": "Les banques demandent la suppression du plafond de 35 % du taux d'effort maximal des emprunteurs pour libérer le marché immobilier.",
+      "c": "epargne",
+      "s": "L'Opinion",
+      "f": "fiscalite-epargne-patrimoine"
+    },
+    {
+      "d": "2026-11-17",
+      "i": "469df8089c4e",
+      "t": "Loi Relance logement : ce qui changerait pour les investisseurs locatifs",
+      "r": "Le projet de loi Relance logement prévoit des modifications pour l'investissement locatif et la rénovation énergétique à partir du 16 novembre.",
+      "c": "epargne",
+      "s": "Capital",
+      "f": "fiscalite-epargne-patrimoine"
+    },
     {
       "d": "2026-11-16",
       "i": "25b1b03574fb",
