@@ -1,6 +1,6 @@
 {
   "version_schema": 1,
-  "mis_a_jour_le": "2026-11-18T13:57:17+01:00",
+  "mis_a_jour_le": "2026-11-18T18:21:10+01:00",
   "entrees": [
     {
       "d": "2026-11-18",
@@ -31,21 +31,21 @@
     },
     {
       "d": "2026-11-18",
-      "i": "8b0032af7f11",
-      "t": "Aux Etats-Unis, des pannes en cascade rappellent la vulnérabilité des infrastructures américaines, accrue par l’IA",
-      "r": "Depuis le 12 novembre, une série de pannes en cascade a affecté de nombreuses structures américaines, de Microsoft à la NSA, en passant par J.P. Morgan et le système de communication aérien, révélant des risques croissants de cyber‑attaque.",
-      "c": "entreprises",
-      "s": "Le Monde",
-      "f": "intelligence-artificielle"
+      "i": "3909a60cd5bb",
+      "t": "Budget de la Sécu 2027 : pensions, mutuelles, cotisations, ce que le Sénat a modifié",
+      "r": "Les sénateurs ont adopté le projet de loi de financement de la Sécurité sociale pour 2027 le 18 novembre, estimant le déficit à 14 milliards d’euros, légèrement au-dessus des 12,7 milliards visés par le gouvernement.",
+      "c": "desequilibres",
+      "s": "Capital",
+      "f": "budget-2027"
     },
     {
       "d": "2026-11-18",
-      "i": "e3aa7e1af60a",
-      "t": "Hydrogène : les enjeux européens de la dorsale Hy-Fen",
-      "r": "Le projet de dorsale Hy‑Fen prévoit un pipeline de 850 km reliant Fos‑sur‑Mer à la frontière allemande, traversant plusieurs bassins industriels et sites de stockage d’hydrogène, intégré au corridor européen H2med.",
-      "c": "croissance",
-      "s": "La Tribune",
-      "f": null
+      "i": "be92a4fc3fa5",
+      "t": "Programme d’Édouard Philippe : travail, retraites, impôts, ce que propose le candidat",
+      "r": "Édouard Philippe propose de réduire la dépense publique, réformer les retraites, supprimer les 35 heures et baisser de 50 milliards d’euros les impôts de production, le 18 novembre.",
+      "c": "desequilibres",
+      "s": "Capital",
+      "f": "presidentielle-2027"
     },
     {
       "d": "2026-11-18",
@@ -85,6 +85,15 @@
     },
     {
       "d": "2026-11-18",
+      "i": "2e5a96ad7e46",
+      "t": "\"Motivé, pas effrayé\": le premier vol d'un avion 100% électrique en Chine stimule Airbus sur l'avion à hydrogène (que certains ne voient pas arriver avant le siècle prochain)",
+      "r": "Le constructeur Comac a réalisé le premier vol d'un avion 100 % électrique en Chine, illustrant les avancées dans ce secteur.",
+      "c": "croissance",
+      "s": "BFM Business",
+      "f": null
+    },
+    {
+      "d": "2026-11-18",
       "i": "73a4e66a1491",
       "t": "Un incendie ravage un navire gazier dans le détroit d'Ormuz après une frappe signalée",
       "r": "L'équipage d'un navire transportant du GPL a dû l'abandonner après avoir été touché par un projectile lors de sa navigation dans le détroit d'Ormuz.",
@@ -117,6 +126,15 @@
       "r": "Des frappes ont opposé les États-Unis et l'Iran, ciblant notamment un site de missiles sur l'île de Qeshm après des attaques au Koweït et à Bahreïn.",
       "c": "mondialisation",
       "s": "L'Opinion",
+      "f": null
+    },
+    {
+      "d": "2026-11-18",
+      "i": "051bb87d926e",
+      "t": "Droits de douane, enquêtes anti-dumping, quotas : les obstacles au commerce mondial se renforcent à grande vitesse",
+      "r": "",
+      "c": "mondialisation",
+      "s": "Les Echos",
       "f": null
     },
     {
@@ -157,6 +175,15 @@
     },
     {
       "d": "2026-11-18",
+      "i": "4570f08fceb4",
+      "t": "«C’est complètement flippant comme modèle économique» : le pari vertigineux d’Anthropic à Wall Street",
+      "r": "À la veille de son entrée en Bourse, la société Anthropic suscite l'attention des marchés par sa croissance et ses engagements financiers.",
+      "c": "finance",
+      "s": "Le Figaro",
+      "f": null
+    },
+    {
+      "d": "2026-11-18",
       "i": "dd14ebbcd37c",
       "t": "Priorité aux domaines régaliens et aux enseignants et statut de droit privé pour les autres: Édouard Philippe veut limiter le statut de fonctionnaire aux \"fonctions essentielles\"",
       "r": "Édouard Philippe propose de limiter le statut de fonctionnaire aux fonctions régaliennes et aux enseignants afin de réduire fortement les dépenses publiques.",
@@ -193,11 +220,56 @@
     },
     {
       "d": "2026-11-18",
+      "i": "4bb6d887f9a1",
+      "t": "Budget 2027 : au moins 12 milliards d'économies supplémentaires pour tenir le cap des 5 % de déficit",
+      "r": "La Commission européenne prévoyant une croissance de 0,6 % en 2027, la France devra trouver au moins 12 milliards d'euros d'économies pour viser un déficit à 5 %.",
+      "c": "desequilibres",
+      "s": "L'Opinion",
+      "f": "budget-2027"
+    },
+    {
+      "d": "2026-11-18",
       "i": "dcd6a14f5393",
       "t": "Bruxelles menace Temu d'une nouvelle amende pour non-respect des règles européennes",
       "r": "La Commission européenne menace la plateforme de commerce en ligne Temu de nouvelles sanctions en raison de la vente de produits dangereux et non conformes.",
       "c": "ue",
       "s": "franceinfo",
+      "f": null
+    },
+    {
+      "d": "2026-11-18",
+      "i": "36642cd441d9",
+      "t": "Le Royaume-Uni voulait interdire l'importation de foie-gras... Mais ce ne sera plus possible en raison l'accord agroalimentaire avec l'Europe qui se profile",
+      "r": "Un accord agroalimentaire en préparation entre l'Europe et le Royaume-Uni devrait permettre de pérenniser l'importation de certains produits.",
+      "c": "ue",
+      "s": "BFM Business",
+      "f": null
+    },
+    {
+      "d": "2026-11-18",
+      "i": "bbbbec68a3f8",
+      "t": "L’UE table sur une résilience durable de l’économie, portée par les exportations dans le domaine de l’IA",
+      "r": "L'UE anticipe une résilience économique portée par la hausse des exportations de biens liés aux investissements dans l'intelligence artificielle.",
+      "c": "ue",
+      "s": "L'Opinion",
+      "f": null
+    },
+    {
+      "d": "2026-11-18",
+      "i": "8c75e8966cd0",
+      "t": "Chips au bacon fumé interdites, marmelade rebaptisée : avant le sommet avec l’UE, le gouvernement britannique démonte des rumeurs",
+      "r": "Le premier ministre britannique évoque la possibilité d’une réintégration de l’UE, rappelant les passes d’armes du Brexit.",
+      "c": "ue",
+      "s": "Le Figaro",
+      "f": null
+    },
+    {
+      "d": "2026-11-18",
+      "i": "d008c38c9ffc",
+      "t": "« A la mise en place de l'EES, on nous avait annoncé qu'il allait permettre d'accélérer les temps de contrôle aux frontières, et c'est exactement l'inverse qui s'est passé. »",
+      "r": "Le nouveau système de contrôle renforcé aux frontières extérieures de l'Europe génère d'importantes files d'attente dans les aéroports, entraînant le dépôt d'une plainte.",
+      "c": "ue",
+      "s": "La Tribune",
       "f": null
     },
     {
@@ -238,6 +310,15 @@
     },
     {
       "d": "2026-11-18",
+      "i": "8a275c9cba19",
+      "t": "Jensen Huang avait fait des mois de lobbying pour que Washington assouplisse ses restrictions aux exportations: Nvidia cesse de livrer ses puissantes puces d'IA à la Chine",
+      "r": "Nvidia cesse de livrer ses puces d’IA avancées à la Chine après l’assouplissement des restrictions américaines.",
+      "c": "entreprises",
+      "s": "BFM Business",
+      "f": null
+    },
+    {
+      "d": "2026-11-18",
       "i": "7c6d287b4574",
       "t": "Assurance-vie : la chasse aux produits trop chers est ouverte",
       "r": "Les compagnies bancaires renforcent les contrôles sur les supports en unités de compte de l'assurance-vie pour trier les produits onéreux.",
@@ -270,6 +351,15 @@
       "r": "",
       "c": "epargne",
       "s": "Les Echos",
+      "f": null
+    },
+    {
+      "d": "2026-11-18",
+      "i": "519e36eeccfa",
+      "t": "Avantage en nature véhicule 2026 : le vrai coût de la voiture du dirigeant",
+      "r": "Les règles de calcul de l'avantage en nature lié aux véhicules de fonction impliquent des coûts variables pour les dirigeants et les entreprises.",
+      "c": "epargne",
+      "s": "BFM Business",
       "f": null
     },
     {

@@ -1,6 +1,6 @@
 {
   "version_schema": 1,
-  "mis_a_jour_le": "2026-11-18T13:57:43+01:00",
+  "mis_a_jour_le": "2026-11-18T18:22:27+01:00",
   "fils": [
     {
       "id": "budget-2027",
@@ -11,7 +11,7 @@
       "categories": [
         "desequilibres"
       ],
-      "ou_en_est_on": "Le débat budgétaire reste tendu alors que la Commission européenne abaisse sa prévision de croissance française à 0,4 % pour 2027, menaçant l'objectif de déficit du gouvernement. Parallèlement, le Sénat s'oriente vers l'adoption du volet recettes du budget de la Sécurité sociale avec un déficit ramené à 14 milliards d'euros, tout en intégrant des mesures sur les allocations familiales et des dispositions relatives au contrôle aérien.",
+      "ou_en_est_on": "Le débat budgétaire reste particulièrement tendu alors que la Commission européenne abaisse sa prévision de croissance française à 0,6 % pour 2027, contraignant le gouvernement à rechercher au moins 12 milliards d'euros d'économies supplémentaires pour espérer tenir son objectif de déficit à 5 %. Parallèlement, le Sénat a adopté le projet de budget de la Sécurité sociale, modifiant plusieurs dispositions relatives aux pensions et aux mesures correctives.",
       "ou_en_est_on_maj_le": "2026-11-18",
       "evenements": [
         {
@@ -644,7 +644,7 @@
         },
         {
           "date": "2026-11-18",
-          "resume": "La Commission européenne prévoit une croissance française limitée à 0,4 % en 2027, fragilisant l'objectif gouvernemental, tandis que le Sénat s'apprête à adopter le PLFSS ramenant le déficit de la Sécurité sociale à 14 milliards d'euros.",
+          "resume": "Le Sénat a adopté le projet de budget de la Sécurité sociale pour 2027 en modifiant plusieurs mesures, tandis que la Commission européenne anticipe une croissance française limitée contraignant le gouvernement à chercher d'importantes économies.",
           "liens": [
             {
               "titre": "L’économie française en panne dans une Europe qui tient le choc",
@@ -655,6 +655,16 @@
               "titre": "Budget de la Sécu : la copie du Sénat ramène le déficit à 14 milliards, proche de la cible gouvernementale",
               "source": "Le Figaro",
               "url": "https://www.lefigaro.fr/conjoncture/budget-de-la-secu-la-copie-du-senat-ramene-le-deficit-a-14-milliards-proche-de-la-cible-gouvernementale-20261118"
+            },
+            {
+              "titre": "Budget de la Sécu 2027 : pensions, mutuelles, cotisations, ce que le Sénat a modifié",
+              "source": "Capital",
+              "url": "https://www.capital.fr/economie-politique/budget-de-la-secu-2027-pensions-mutuelles-cotisations-ce-que-le-senat-a-modifie-1531957"
+            },
+            {
+              "titre": "Budget 2027 : au moins 12 milliards d'économies supplémentaires pour tenir le cap des 5 % de déficit",
+              "source": "L'Opinion",
+              "url": "https://www.lopinion.fr/economie/budget-2027-au-moins-12-milliards-deconomies-supplementaires-pour-tenir-le-cap-des-5-de-deficit"
             }
           ]
         }
@@ -963,6 +973,22 @@
               "titre": "\"On a vu une forte hausse des écarts entre les taux d'emprunt\": la Commission européenne appelle la France et la Belgique à réduire leur déficit et leur dette",
               "source": "BFM Business",
               "url": "https://www.bfmtv.com/economie/economie-social/finances-publiques/on-a-vu-une-forte-hausse-des-ecarts-entre-les-taux-d-emprunt-la-commission-europeenne-appelle-la-france-et-la-belgique-a-reduire-leur-deficit-et-leur-dette_AD-202611170537.html"
+            }
+          ]
+        },
+        {
+          "date": "2026-11-18",
+          "resume": "La BCE estime que la hausse du coût d'emprunt pour la France peut inciter à la prudence budgétaire, alors que la situation financière du pays fait l'objet de comparaisons historiques.",
+          "liens": [
+            {
+              "titre": "La situation financière de la France est-elle vraiment comparable à celle de la Grèce des années 2010 ?",
+              "source": "Le Figaro",
+              "url": "https://www.lefigaro.fr/conjoncture/la-situation-financiere-de-la-france-est-elle-vraiment-comparable-a-celle-de-la-grece-des-annees-2010-20261118"
+            },
+            {
+              "titre": "La Banque centrale européenne estime que c'est une bonne chose que la France emprunte parfois plus cher, pour l'inciter à faire des économies \"au moment opportun\"",
+              "source": "BFM Business",
+              "url": "https://www.bfmtv.com/economie/la-banque-centrale-europeenne-estime-que-c-est-une-bonne-chose-que-la-france-empreinte-parfois-plus-cher-pour-l-inciter-a-faire-des-economies-au-moment-opportun_AV-202611180676.html"
             }
           ]
         }
@@ -1982,7 +2008,7 @@
         },
         {
           "date": "2026-11-18",
-          "resume": "Le candidat Édouard Philippe avertit qu'une crise financière menace en cas de victoire des extrêmes, et le sportif Teddy Riner suspend un partenariat suite à l'annonce de sa candidature à l'Élysée.",
+          "resume": "Édouard Philippe a détaillé son projet présidentiel axé sur la réduction de la dépense publique, une réforme des retraites et une baisse des impôts de production.",
           "liens": [
             {
               "titre": "\"Ils soutenaient un sportif consensuel et se retrouvent avec un candidat qui va cliver\": les sponsors de Teddy Riner ne savent plus sur quel pied danser après son entrée dans la course à l'Élysée",
@@ -1993,6 +2019,11 @@
               "titre": "Édouard Philippe assure que la \"crise financière\" a déjà \"commencé\" et qu'elle conduira à une \"catastrophe\" si \"les mesures nécessaires\" ne sont pas prises en 2027",
               "source": "BFM Business",
               "url": "https://www.bfmtv.com/economie/economie-social/finances-publiques/edouard-philippe-assure-que-la-crise-financiere-a-deja-commence-et-qu-elle-conduira-a-une-catastrophe-si-les-mesures-necessaires-ne-sont-pas-prises-en-2027_AD-202611180522.html"
+            },
+            {
+              "titre": "Programme d’Édouard Philippe : travail, retraites, impôts, ce que propose le candidat",
+              "source": "Capital",
+              "url": "https://www.capital.fr/economie-politique/programme-dedouard-philippe-travail-retraites-impots-ce-que-propose-le-candidat-1531958"
             }
           ]
         }
@@ -3176,7 +3207,7 @@
         },
         {
           "date": "2026-11-18",
-          "resume": "Le président du Medef avertit qu'une hausse du Smic pourrait détruire des emplois, alors que les créations d'entreprises progressent fortement d'août à octobre 2026.",
+          "resume": "Le débat persiste sur l'impact de la hausse du Smic sur l'emploi entre le patronat et le gouvernement, tandis que les réservations hôtelières à Paris reculent suite à des violences.",
           "liens": [
             {
               "titre": "Avec l'augmentation du smic, \"on peut craindre 250 000 suppressions d'emplois\", affirme Patrick Martin, président du Medef",
@@ -3187,6 +3218,16 @@
               "titre": "Forte hausse sur un an des créations d’entreprises d’août à octobre 2026",
               "source": "INSEE",
               "url": "https://www.insee.fr/fr/statistiques/9140358"
+            },
+            {
+              "titre": "Hausse du Smic : la bataille des chiffres sur les destructions d’emplois",
+              "source": "L'Opinion",
+              "url": "https://www.lopinion.fr/economie/hausse-du-smic-la-bataille-des-chiffres-sur-les-destructions-demplois"
+            },
+            {
+              "titre": "\"Ce n’est pas un effondrement, mais...\": les violences à Paris mi-octobre ont fait instantanément reculer les réservations hôtelières, notamment dans les établissements haut de gamme",
+              "source": "BFM Business",
+              "url": "https://www.bfmtv.com/economie/consommation/ce-n-est-pas-un-effondrement-mais-les-violences-a-paris-mi-octobre-ont-fait-instantanement-reculer-les-reservations-hotelieres-notamment-dans-les-etablissements-haut-de-gamme_AV-202611180682.html"
             }
           ]
         }

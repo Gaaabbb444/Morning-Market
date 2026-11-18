@@ -91,25 +91,14 @@
         "contexte": "Top 5 du jour"
       }
     ],
-    "transition-energetique": [
-      {
-        "date": "2026-11-18",
-        "id": "e3aa7e1af60a",
-        "titre": "Hydrogène : les enjeux européens de la dorsale Hy-Fen",
-        "source": "La Tribune",
-        "contexte": "Top 5 du jour"
-      }
-    ],
-    "stagnation-seculaire": [
-      {
-        "date": "2026-11-18",
-        "id": "0bc9ad3e079d",
-        "titre": "L’économie française en panne dans une Europe qui tient le choc",
-        "source": "L'Opinion",
-        "contexte": "Concept du jour"
-      }
-    ],
     "deficit-public-et-solde-primaire": [
+      {
+        "date": "2026-11-18",
+        "id": "3909a60cd5bb",
+        "titre": "Budget de la Sécu 2027 : pensions, mutuelles, cotisations, ce que le Sénat a modifié",
+        "source": "Capital",
+        "contexte": "Top 5 du jour"
+      },
       {
         "date": "2026-11-17",
         "id": "6c823ffe9b7c",
@@ -193,6 +182,115 @@
         "titre": "Budget 2027 : l’Assemblée nationale multiplie les cadeaux fiscaux non chiffrés",
         "source": "Le Figaro",
         "contexte": "Top 5 du jour"
+      }
+    ],
+    "politique-budgetaire": [
+      {
+        "date": "2026-11-18",
+        "id": "be92a4fc3fa5",
+        "titre": "Programme d’Édouard Philippe : travail, retraites, impôts, ce que propose le candidat",
+        "source": "Capital",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-11-16",
+        "id": "8b6799cffb6c",
+        "titre": "Ils représentent 70 milliards d'euros par an: le gouvernement veut toucher aux allègements de cotisations sur le travail, les entreprises craignent d'être mises \"au tapis\"",
+        "source": "BFM Business",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-11-14",
+        "id": "64593d4a19c3",
+        "titre": "Allègements de cotisations : Matignon veut « maîtriser durablement » leur coût",
+        "source": "L'Opinion",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-11-13",
+        "id": "37bc7cb6c1d3",
+        "titre": "Budget 2027 : Sébastien Lecornu veut faire de l’agriculture le terrain du compromis",
+        "source": "Capital",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-11-12",
+        "id": "71683ee034e8",
+        "titre": "Allemagne : le mur de la dette à 200 milliards qui rattrape Friedrich Merz",
+        "source": "L'Opinion",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-11-05",
+        "id": "b48b3728223b",
+        "titre": "L'Assemblée nationale rejette à l'unanimité le budget de l'Etat 2027 en première lecture",
+        "source": "franceinfo",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-11-02",
+        "id": "ebb9141f734e",
+        "titre": "Le budget, pas encore adopté, est-il déjà caduc ? \"Oui\", affirme Philippe Juvin, rapporteur général de la commission des Finances à l'Assemblée nationale",
+        "source": "franceinfo",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-11-01",
+        "id": "e711d3ac219c",
+        "titre": "Livret A : une hausse du plafond à 30 000 euros envisagée pour financer les travaux dans les lycées",
+        "source": "franceinfo",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-10-29",
+        "id": "e6ca90b1ae20",
+        "titre": "\"Plus on fait d’enfants, plus l’État est présent\": Giorgia Meloni dévoile un budget axé sur la natalité et la défense, financé en partie en taxant les banques et les assurances",
+        "source": "BFM Business",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-10-27",
+        "id": "e1f84d25dee5",
+        "titre": "Où en sont les débats sur le PLF et le PLFSS 2027 ? Suivez les étapes de l'examen du budget à l'Assemblée et au Sénat",
+        "source": "franceinfo",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-10-25",
+        "id": "b74c30856b74",
+        "titre": "Healey’s first budget to include big devolution package to boost growth",
+        "source": "The Guardian",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-10-24",
+        "id": "7f6fcbdcfae8",
+        "titre": "PLFSS 2027 : à l’Assemblée, le budget de la Sécurité sociale rejeté après une saignée de 12 milliards d’euros",
+        "source": "Capital",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-10-20",
+        "id": "bc5dc2cd9f4f",
+        "titre": "Les députés ont déjà fait dérailler la trajectoire de réduction du déficit de la Sécurité sociale avant même le début des débats dans l’hémicycle sur le budget de la Sécu",
+        "source": "BFM Business",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-10-19",
+        "id": "6825d2c17a9c",
+        "titre": "Retraite, santé : la protection sociale, principal poste de dépenses de l’État",
+        "source": "Le Figaro",
+        "contexte": "Top 5 du jour"
+      }
+    ],
+    "stagnation-seculaire": [
+      {
+        "date": "2026-11-18",
+        "id": "0bc9ad3e079d",
+        "titre": "L’économie française en panne dans une Europe qui tient le choc",
+        "source": "L'Opinion",
+        "contexte": "Concept du jour"
       }
     ],
     "risque-systemique": [
@@ -386,99 +484,6 @@
         "id": "66580453350e",
         "titre": "Il a tout appris chez Audi en Allemagne et puis il est devenu le \"père de la voiture électrique en Chine\": qui est Wan Gang, l'ingénieur dont une lettre à Pékin a déclenché la déferlante chinoise?",
         "source": "BFM Business",
-        "contexte": "Top 5 du jour"
-      }
-    ],
-    "politique-budgetaire": [
-      {
-        "date": "2026-11-16",
-        "id": "8b6799cffb6c",
-        "titre": "Ils représentent 70 milliards d'euros par an: le gouvernement veut toucher aux allègements de cotisations sur le travail, les entreprises craignent d'être mises \"au tapis\"",
-        "source": "BFM Business",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-11-14",
-        "id": "64593d4a19c3",
-        "titre": "Allègements de cotisations : Matignon veut « maîtriser durablement » leur coût",
-        "source": "L'Opinion",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-11-13",
-        "id": "37bc7cb6c1d3",
-        "titre": "Budget 2027 : Sébastien Lecornu veut faire de l’agriculture le terrain du compromis",
-        "source": "Capital",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-11-12",
-        "id": "71683ee034e8",
-        "titre": "Allemagne : le mur de la dette à 200 milliards qui rattrape Friedrich Merz",
-        "source": "L'Opinion",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-11-05",
-        "id": "b48b3728223b",
-        "titre": "L'Assemblée nationale rejette à l'unanimité le budget de l'Etat 2027 en première lecture",
-        "source": "franceinfo",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-11-02",
-        "id": "ebb9141f734e",
-        "titre": "Le budget, pas encore adopté, est-il déjà caduc ? \"Oui\", affirme Philippe Juvin, rapporteur général de la commission des Finances à l'Assemblée nationale",
-        "source": "franceinfo",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-11-01",
-        "id": "e711d3ac219c",
-        "titre": "Livret A : une hausse du plafond à 30 000 euros envisagée pour financer les travaux dans les lycées",
-        "source": "franceinfo",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-10-29",
-        "id": "e6ca90b1ae20",
-        "titre": "\"Plus on fait d’enfants, plus l’État est présent\": Giorgia Meloni dévoile un budget axé sur la natalité et la défense, financé en partie en taxant les banques et les assurances",
-        "source": "BFM Business",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-10-27",
-        "id": "e1f84d25dee5",
-        "titre": "Où en sont les débats sur le PLF et le PLFSS 2027 ? Suivez les étapes de l'examen du budget à l'Assemblée et au Sénat",
-        "source": "franceinfo",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-10-25",
-        "id": "b74c30856b74",
-        "titre": "Healey’s first budget to include big devolution package to boost growth",
-        "source": "The Guardian",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-10-24",
-        "id": "7f6fcbdcfae8",
-        "titre": "PLFSS 2027 : à l’Assemblée, le budget de la Sécurité sociale rejeté après une saignée de 12 milliards d’euros",
-        "source": "Capital",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-10-20",
-        "id": "bc5dc2cd9f4f",
-        "titre": "Les députés ont déjà fait dérailler la trajectoire de réduction du déficit de la Sécurité sociale avant même le début des débats dans l’hémicycle sur le budget de la Sécu",
-        "source": "BFM Business",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-10-19",
-        "id": "6825d2c17a9c",
-        "titre": "Retraite, santé : la protection sociale, principal poste de dépenses de l’État",
-        "source": "Le Figaro",
         "contexte": "Top 5 du jour"
       }
     ],
