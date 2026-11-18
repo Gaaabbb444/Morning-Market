@@ -1,6 +1,6 @@
 {
   "version_schema": 1,
-  "mis_a_jour_le": "2026-11-17T18:43:23+01:00",
+  "mis_a_jour_le": "2026-11-18T13:57:43+01:00",
   "fils": [
     {
       "id": "budget-2027",
@@ -11,8 +11,8 @@
       "categories": [
         "desequilibres"
       ],
-      "ou_en_est_on": "Le débat budgétaire porte sur les recettes, les dépenses et le respect de la cible de déficit public fixée à 5 % pour 2027. Le Sénat a adopté le volet recettes du budget de la Sécurité sociale tout en rejetant la désindexation des retraites et en rétablissant la réforme des retraites, tandis que le gouvernement fait face à une grève des fonctionnaires réclamant des hausses de salaires et la fin du gel du point d'indice malgré l'état des finances publiques.",
-      "ou_en_est_on_maj_le": "2026-11-17",
+      "ou_en_est_on": "Le débat budgétaire reste tendu alors que la Commission européenne abaisse sa prévision de croissance française à 0,4 % pour 2027, menaçant l'objectif de déficit du gouvernement. Parallèlement, le Sénat s'oriente vers l'adoption du volet recettes du budget de la Sécurité sociale avec un déficit ramené à 14 milliards d'euros, tout en intégrant des mesures sur les allocations familiales et des dispositions relatives au contrôle aérien.",
+      "ou_en_est_on_maj_le": "2026-11-18",
       "evenements": [
         {
           "date": "2026-10-17",
@@ -639,6 +639,22 @@
               "titre": "\"Un débat nauséabond\", \"les aspirations du peuple français\"... Pour économiser 1,8 million d'euros par an, le Sénat prive certains étrangers d'allocations familiales pendant un an",
               "source": "BFM Business",
               "url": "https://www.bfmtv.com/economie/economie-social/un-debat-nauseabond-les-aspirations-du-peuple-francais-pour-economiser-1-8-million-d-euros-par-an-le-senat-prive-certains-etrangers-d-allocations-familiales-pendant-un-an_AD-202611170813.html"
+            }
+          ]
+        },
+        {
+          "date": "2026-11-18",
+          "resume": "La Commission européenne prévoit une croissance française limitée à 0,4 % en 2027, fragilisant l'objectif gouvernemental, tandis que le Sénat s'apprête à adopter le PLFSS ramenant le déficit de la Sécurité sociale à 14 milliards d'euros.",
+          "liens": [
+            {
+              "titre": "L’économie française en panne dans une Europe qui tient le choc",
+              "source": "L'Opinion",
+              "url": "https://www.lopinion.fr/international/leconomie-francaise-en-panne-dans-une-europe-qui-tient-le-choc"
+            },
+            {
+              "titre": "Budget de la Sécu : la copie du Sénat ramène le déficit à 14 milliards, proche de la cible gouvernementale",
+              "source": "Le Figaro",
+              "url": "https://www.lefigaro.fr/conjoncture/budget-de-la-secu-la-copie-du-senat-ramene-le-deficit-a-14-milliards-proche-de-la-cible-gouvernementale-20261118"
             }
           ]
         }
@@ -1326,6 +1342,22 @@
               "url": "https://www.franceinfo.fr/environnement/energie/entre-150-et-170-coups-de-telephone-par-jour-avec-la-baisse-du-prix-du-fioul-les-livreurs-sont-debordes_8281151.html#xtor=RSS-3-%5Beconomie%5D"
             }
           ]
+        },
+        {
+          "date": "2026-11-18",
+          "resume": "L'équipage d'un navire transportant du GPL a dû abandonner son navire après une attaque dans le détroit d'Ormuz, tandis qu'une étude de l'Insee cartographie les ménages vulnérables face aux prix élevés des carburants.",
+          "liens": [
+            {
+              "titre": "Inferno engulfs gas tanker in strait of Hormuz after reported strike – video",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/world/video/2026/nov/17/inferno-engulfs-gas-tanker-in-strait-of-hormuz-after-reported-strike-video"
+            },
+            {
+              "titre": "Carburants : qui sont les Français piégés par l’envolée des prix ?",
+              "source": "Alternatives Économiques",
+              "url": "https://www.alternatives-economiques.fr/carburants-qui-sont-les-francais-pieges-par-l-envolee-des-prix_18-11-2026"
+            }
+          ]
         }
       ]
     },
@@ -1661,6 +1693,17 @@
               "url": "https://www.lopinion.fr/international/guerre-en-ukraine-les-etats-unis-ont-propose-une-cession-du-donbass-contre-une-adhesion-de-kiev-a-lotan-indique-zelensky"
             }
           ]
+        },
+        {
+          "date": "2026-11-18",
+          "resume": "L'Union européenne propose un nouveau prêt de 45 milliards d'euros pour aider l'Ukraine à combler son déficit budgétaire et soutenir son effort de guerre pour l'année 2027.",
+          "liens": [
+            {
+              "titre": "Pour aider l'Ukraine à combler son déficit budgétaire de 70 milliards d'euros en 2027, l'Union européenne propose un nouveau prêt de 45 milliards d'euros",
+              "source": "BFM Business",
+              "url": "https://www.bfmtv.com/economie/economie-social/union-europeenne/pour-aider-l-ukraine-a-combler-son-deficit-budgetaire-de-70-milliards-d-euros-en-2027-l-union-europeenne-propose-un-nouveau-pret-de-45-milliards-d-euros_AD-202611180511.html"
+            }
+          ]
         }
       ]
     },
@@ -1934,6 +1977,22 @@
               "titre": "Fiscalité, trafic, A320 : l’aérien et l’aéronautique français mettent la pression sur les candidats à l’Élysée",
               "source": "La Tribune",
               "url": "https://www.latribune.fr/article/defense-aerospatiale/12925429069663/fiscalite-trafic-a320-l-aerien-et-l-aeronautique-francais-mettent-la-pression-sur-les-candidats-a-l-elysee"
+            }
+          ]
+        },
+        {
+          "date": "2026-11-18",
+          "resume": "Le candidat Édouard Philippe avertit qu'une crise financière menace en cas de victoire des extrêmes, et le sportif Teddy Riner suspend un partenariat suite à l'annonce de sa candidature à l'Élysée.",
+          "liens": [
+            {
+              "titre": "\"Ils soutenaient un sportif consensuel et se retrouvent avec un candidat qui va cliver\": les sponsors de Teddy Riner ne savent plus sur quel pied danser après son entrée dans la course à l'Élysée",
+              "source": "BFM Business",
+              "url": "https://www.bfmtv.com/economie/entreprises/ils-soutenaient-un-sportif-consensuel-et-se-retrouvent-avec-un-candidat-qui-va-cliver-les-sponsors-de-teddy-riner-ne-savent-plus-sur-quel-pied-danser-apres-son-entree-dans-la-course-a-l-elysee_AD-202611180544.html"
+            },
+            {
+              "titre": "Édouard Philippe assure que la \"crise financière\" a déjà \"commencé\" et qu'elle conduira à une \"catastrophe\" si \"les mesures nécessaires\" ne sont pas prises en 2027",
+              "source": "BFM Business",
+              "url": "https://www.bfmtv.com/economie/economie-social/finances-publiques/edouard-philippe-assure-que-la-crise-financiere-a-deja-commence-et-qu-elle-conduira-a-une-catastrophe-si-les-mesures-necessaires-ne-sont-pas-prises-en-2027_AD-202611180522.html"
             }
           ]
         }
@@ -2239,6 +2298,17 @@
               "titre": "Épargne salariale : les députés votent un déblocage exceptionnel jusqu’à 10 000 euros",
               "source": "Capital",
               "url": "https://www.capital.fr/votre-argent/epargne-salariale-les-deputes-votent-un-deblocage-exceptionnel-jusqua-10-000-euros-1531892"
+            }
+          ]
+        },
+        {
+          "date": "2026-11-18",
+          "resume": "Le paiement fractionné en plusieurs fois sera assimilé à un crédit à la consommation afin de lutter contre le surendettement des moins de 30 ans.",
+          "liens": [
+            {
+              "titre": "Le paiement en 3 fois devient un crédit à la consommation",
+              "source": "franceinfo",
+              "url": "https://www.franceinfo.fr/economie/le-paiement-en-3-fois-devient-un-credit-a-la-consommation_8287988.html#xtor=RSS-3-%5Beconomie%5D"
             }
           ]
         }
@@ -3103,6 +3173,22 @@
               "url": "https://www.bfmtv.com/economie/entreprises/video-nous-sommes-a-l-antichambre-de-la-mort-economique-des-entreprises-de-proximite-constate-bernard-cohen-hadad-president-des-entrepreneurs-paris_VN-202611170550.html"
             }
           ]
+        },
+        {
+          "date": "2026-11-18",
+          "resume": "Le président du Medef avertit qu'une hausse du Smic pourrait détruire des emplois, alors que les créations d'entreprises progressent fortement d'août à octobre 2026.",
+          "liens": [
+            {
+              "titre": "Avec l'augmentation du smic, \"on peut craindre 250 000 suppressions d'emplois\", affirme Patrick Martin, président du Medef",
+              "source": "franceinfo",
+              "url": "https://www.franceinfo.fr/politique/avec-l-augmentation-du-smic-on-peut-craindre-250-000-suppressions-d-emplois-affirme-patrick-martin-president-du-medef_8287838.html#xtor=RSS-3-%5Beconomie%5D"
+            },
+            {
+              "titre": "Forte hausse sur un an des créations d’entreprises d’août à octobre 2026",
+              "source": "INSEE",
+              "url": "https://www.insee.fr/fr/statistiques/9140358"
+            }
+          ]
         }
       ]
     },
@@ -3791,6 +3877,22 @@
               "titre": "California sues OpenAI over safety concerns after rogue agent hacking",
               "source": "The Guardian",
               "url": "https://www.theguardian.com/technology/2026/nov/16/california-openai-rogue-agent-hacking-lawsuit"
+            }
+          ]
+        },
+        {
+          "date": "2026-11-18",
+          "resume": "Le Figaro conclut un partenariat stratégique avec OpenAI pour intégrer ses contenus à ChatGPT, tandis que Jensen Huang quitte la tête de Nvidia sur fond de scandale d'espionnage.",
+          "liens": [
+            {
+              "titre": "« ChatGPT sera plus complet et plus fiable en 2027 grâce à nos contenus » : Le Figaro scelle un accord stratégique avec OpenAI",
+              "source": "Le Figaro",
+              "url": "https://www.lefigaro.fr/medias/chatgpt-sera-plus-complet-et-plus-fiable-en-2027-grace-a-nos-contenus-le-figaro-scelle-un-accord-strategique-avec-openai-20261118"
+            },
+            {
+              "titre": "Jensen Huang, ex-patron de Nvidia, sera entendu au Congrès, le 1ᵉʳ décembre, sur sa liaison avec une Chinoise soupçonnée d’espionnage",
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/international/article/2026/11/17/jensen-huang-ex-patron-de-nvidia-sera-entendu-au-congres-le-1-decembre-sur-sa-liaison-avec-une-chinoise-soupconnee-d-espionnage_6813021_3210.html"
             }
           ]
         }

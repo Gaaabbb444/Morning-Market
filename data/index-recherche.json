@@ -1,7 +1,277 @@
 {
   "version_schema": 1,
-  "mis_a_jour_le": "2026-11-17T18:40:55+01:00",
+  "mis_a_jour_le": "2026-11-18T13:57:17+01:00",
   "entrees": [
+    {
+      "d": "2026-11-18",
+      "i": "0bc9ad3e079d",
+      "t": "L’économie française en panne dans une Europe qui tient le choc",
+      "r": "Avec 0,4 %, la France pourrait enregistrer l’an prochain la croissance la plus faible parmi les Vingt‑Sept, selon les prévisions de la Commission européenne. Le gouvernement risque d’envisager de nouvelles mesures d’économies pour boucler le budget 2027.",
+      "c": "desequilibres",
+      "s": "L'Opinion",
+      "f": "budget-2027"
+    },
+    {
+      "d": "2026-11-18",
+      "i": "69d12907ae6a",
+      "t": "Pour aider l'Ukraine à combler son déficit budgétaire de 70 milliards d'euros en 2027, l'Union européenne propose un nouveau prêt de 45 milliards d'euros",
+      "r": "L’Union européenne propose un nouveau prêt de 45 milliards d’euros pour aider l’Ukraine à combler son déficit budgétaire de 70 milliards d’euros en 2027 et soutenir son effort de guerre.",
+      "c": "ue",
+      "s": "BFM Business",
+      "f": "ukraine-sanctions"
+    },
+    {
+      "d": "2026-11-18",
+      "i": "bec93ec6de44",
+      "t": "Le paiement en 3 fois devient un crédit à la consommation",
+      "r": "Le paiement fractionné en trois ou quatre fois sans frais sera considéré comme un prêt à la consommation à partir du 20 novembre, avec conditions de solvabilité, afin de lutter contre le surendettement des jeunes.",
+      "c": "epargne",
+      "s": "franceinfo",
+      "f": "fiscalite-epargne-patrimoine"
+    },
+    {
+      "d": "2026-11-18",
+      "i": "8b0032af7f11",
+      "t": "Aux Etats-Unis, des pannes en cascade rappellent la vulnérabilité des infrastructures américaines, accrue par l’IA",
+      "r": "Depuis le 12 novembre, une série de pannes en cascade a affecté de nombreuses structures américaines, de Microsoft à la NSA, en passant par J.P. Morgan et le système de communication aérien, révélant des risques croissants de cyber‑attaque.",
+      "c": "entreprises",
+      "s": "Le Monde",
+      "f": "intelligence-artificielle"
+    },
+    {
+      "d": "2026-11-18",
+      "i": "e3aa7e1af60a",
+      "t": "Hydrogène : les enjeux européens de la dorsale Hy-Fen",
+      "r": "Le projet de dorsale Hy‑Fen prévoit un pipeline de 850 km reliant Fos‑sur‑Mer à la frontière allemande, traversant plusieurs bassins industriels et sites de stockage d’hydrogène, intégré au corridor européen H2med.",
+      "c": "croissance",
+      "s": "La Tribune",
+      "f": null
+    },
+    {
+      "d": "2026-11-18",
+      "i": "6f062df68566",
+      "t": "« C’est l’affrontement de deux visions du monde » : à la COP31, le grand retour de la fracture Nord-Sud",
+      "r": "À la COP31, l'Europe refuse de nouveaux engagements financiers réclamés par les pays du Sud face aux grands émergents.",
+      "c": "croissance",
+      "s": "L'Opinion",
+      "f": null
+    },
+    {
+      "d": "2026-11-18",
+      "i": "6af73e49fd3f",
+      "t": "Le Royaume-Uni soutient l'idée de nouvelles taxes sur les secteurs polluants pour financer les coûts de l'action climatique",
+      "r": "Le Royaume-Uni s'est joint à une déclaration en faveur de taxes ciblées sur les émetteurs importants pour faire face à la crise climatique.",
+      "c": "croissance",
+      "s": "The Guardian",
+      "f": null
+    },
+    {
+      "d": "2026-11-18",
+      "i": "6889b4153231",
+      "t": "Électricité : la France aborde l'hiver sous le signe de l'abondance, malgré la crise énergétique mondiale",
+      "r": "Selon le gestionnaire RTE, la France aborde l'hiver sans risque de pénurie d'électricité grâce à une production nucléaire abondante et une consommation modérée.",
+      "c": "croissance",
+      "s": "La Tribune",
+      "f": null
+    },
+    {
+      "d": "2026-11-18",
+      "i": "55fc03be626e",
+      "t": "Nouvelles cultures ou abandon du métier : après l’arrachage des vignes, la difficile reconversion des viticulteurs",
+      "r": "Plusieurs plans de réduction de la production viticole ont été mis en place, entraînant une reconversion difficile des viticulteurs dans le Bordelais et le Languedoc.",
+      "c": "croissance",
+      "s": "Le Figaro",
+      "f": "conjoncture-france"
+    },
+    {
+      "d": "2026-11-18",
+      "i": "73a4e66a1491",
+      "t": "Un incendie ravage un navire gazier dans le détroit d'Ormuz après une frappe signalée",
+      "r": "L'équipage d'un navire transportant du GPL a dû l'abandonner après avoir été touché par un projectile lors de sa navigation dans le détroit d'Ormuz.",
+      "c": "mondialisation",
+      "s": "The Guardian",
+      "f": "choc-petrolier-ormuz"
+    },
+    {
+      "d": "2026-11-18",
+      "i": "1d7d5e61ed5e",
+      "t": "Guerre au Moyen-Orient : les Etats-Unis frappent une île du détroit d'Ormuz, l'Iran rend coup pour coup en ciblant des pays du Golfe",
+      "r": "",
+      "c": "mondialisation",
+      "s": "Les Echos",
+      "f": "choc-petrolier-ormuz"
+    },
+    {
+      "d": "2026-11-18",
+      "i": "c6a7d09ce045",
+      "t": "Introvertie, discrète, richissime : qui est Tatiana Kim, la « Jeff Bezos » russe sanctionnée par l’Union européenne ?",
+      "r": "La fondatrice de la plateforme de e-commerce Wildberries fait l'objet de sanctions de l'Union européenne en raison du soutien de son entreprise à l'effort de guerre russe.",
+      "c": "mondialisation",
+      "s": "Le Figaro",
+      "f": null
+    },
+    {
+      "d": "2026-11-18",
+      "i": "50c3727c1051",
+      "t": "Guerre en Iran : les frappes reprennent entre Washington et Téhéran",
+      "r": "Des frappes ont opposé les États-Unis et l'Iran, ciblant notamment un site de missiles sur l'île de Qeshm après des attaques au Koweït et à Bahreïn.",
+      "c": "mondialisation",
+      "s": "L'Opinion",
+      "f": null
+    },
+    {
+      "d": "2026-11-18",
+      "i": "579f4e9df168",
+      "t": "Anthropic : faut-il vraiment souscrire des actions ? L’introduction en Bourse peut-elle décevoir ?",
+      "r": "L'introduction en Bourse d'Anthropic soulève des interrogations sur sa forte valorisation au regard des incertitudes pesant sur ses profits futurs et sa gouvernance.",
+      "c": "finance",
+      "s": "Capital",
+      "f": null
+    },
+    {
+      "d": "2026-11-18",
+      "i": "dcfaa3a193e2",
+      "t": "Risks from AI valuations, fiscal imbalances and geoeconomic tensions weigh on financial stability outlook",
+      "r": "",
+      "c": "finance",
+      "s": "BCE",
+      "f": "inflation-bce"
+    },
+    {
+      "d": "2026-11-18",
+      "i": "87a632982f84",
+      "t": "Bourse : Christopher Waller, «le président de l’ombre de la Fed» qui a fait décoller les taux à long terme !",
+      "r": "Les déclarations de Christopher Waller, membre du conseil des gouverneurs de la Fed, ont entraîné une remontée brutale des taux d'intérêt à long terme.",
+      "c": "finance",
+      "s": "Capital",
+      "f": "inflation-bce"
+    },
+    {
+      "d": "2026-11-18",
+      "i": "1dfaa8486240",
+      "t": "« Inside Deutsche Bank » : comment le géant bancaire a découvert qu’il avait servi d’intermédiaire à un gigantesque réseau de blanchiment",
+      "r": "Un analyste de Deutsche Bank a mis en lumière un réseau de blanchiment international ayant exfiltré des fonds à travers des montages financiers complexes.",
+      "c": "finance",
+      "s": "Le Monde",
+      "f": null
+    },
+    {
+      "d": "2026-11-18",
+      "i": "dd14ebbcd37c",
+      "t": "Priorité aux domaines régaliens et aux enseignants et statut de droit privé pour les autres: Édouard Philippe veut limiter le statut de fonctionnaire aux \"fonctions essentielles\"",
+      "r": "Édouard Philippe propose de limiter le statut de fonctionnaire aux fonctions régaliennes et aux enseignants afin de réduire fortement les dépenses publiques.",
+      "c": "desequilibres",
+      "s": "BFM Business",
+      "f": "budget-2027"
+    },
+    {
+      "d": "2026-11-18",
+      "i": "ce85e4df2dea",
+      "t": "Avec l'augmentation du smic, \"on peut craindre 250 000 suppressions d'emplois\", affirme Patrick Martin, président du Medef",
+      "r": "Selon le président du Medef Patrick Martin, la hausse du Smic de 1,6 % prévue en décembre pourrait entraîner des suppressions d'emplois.",
+      "c": "desequilibres",
+      "s": "franceinfo",
+      "f": "conjoncture-france"
+    },
+    {
+      "d": "2026-11-18",
+      "i": "105998b657b8",
+      "t": "Présidentielle : les écueils de la retraite version Marine Le Pen",
+      "r": "Les propositions du Rassemblement national sur les retraites risquent d'alourdir les finances publiques en omettant les bénéfices de l'allongement de la durée de carrière.",
+      "c": "desequilibres",
+      "s": "L'Opinion",
+      "f": "retraites"
+    },
+    {
+      "d": "2026-11-18",
+      "i": "96a9ab34c411",
+      "t": "Les factures d'énergie en Grande-Bretagne devraient augmenter de 26 % pour atteindre 2 166 £ à partir de janvier",
+      "r": "Les factures d'énergie des ménages britanniques sont prévues en forte hausse en janvier, alimentant une inflation qui atteint 3,6 %.",
+      "c": "desequilibres",
+      "s": "The Guardian",
+      "f": null
+    },
+    {
+      "d": "2026-11-18",
+      "i": "dcd6a14f5393",
+      "t": "Bruxelles menace Temu d'une nouvelle amende pour non-respect des règles européennes",
+      "r": "La Commission européenne menace la plateforme de commerce en ligne Temu de nouvelles sanctions en raison de la vente de produits dangereux et non conformes.",
+      "c": "ue",
+      "s": "franceinfo",
+      "f": null
+    },
+    {
+      "d": "2026-11-18",
+      "i": "2b875786198c",
+      "t": "Jensen Huang serait « honoré » de revenir, mais Nvidia n’en veut pas",
+      "r": "Le conseil d'administration de Nvidia a réaffirmé qu'il n'avait pas l'intention de rappeler Jensen Huang à la direction, tout en affichant des résultats trimestriels solides.",
+      "c": "entreprises",
+      "s": "La Tribune",
+      "f": null
+    },
+    {
+      "d": "2026-11-18",
+      "i": "a5cb460da1b8",
+      "t": "La Californie interdit les voitures autonomes Waymo sur les autoroutes",
+      "r": "L'État de Californie a banni les véhicules autonomes de Waymo de ses autoroutes, les qualifiant de danger imminent après plusieurs incidents de circulation.",
+      "c": "entreprises",
+      "s": "The Guardian",
+      "f": null
+    },
+    {
+      "d": "2026-11-18",
+      "i": "daa9959cb12c",
+      "t": "Nvidia double son chiffre d'affaires tandis que le conseil d'administration affirme qu'il n'a pas l'intention de réintégrer Jensen Huang",
+      "r": "Nvidia publie de solides résultats trimestriels tout en confirmant que Jensen Huang ne sera pas réinstallé au poste de directeur général.",
+      "c": "entreprises",
+      "s": "The Guardian",
+      "f": null
+    },
+    {
+      "d": "2026-11-18",
+      "i": "888f43e505a7",
+      "t": "\"Cela nous coûte 130 euros par minute de retard\": les compagnies sont toujours remontées contre le contrôle aérien français qui est \"très loin des standards\"",
+      "r": "Les compagnies aériennes critiquent les performances du contrôle aérien français, tandis que l'État promet des recrutements dans le cadre du budget 2027.",
+      "c": "entreprises",
+      "s": "BFM Business",
+      "f": "budget-2027"
+    },
+    {
+      "d": "2026-11-18",
+      "i": "7c6d287b4574",
+      "t": "Assurance-vie : la chasse aux produits trop chers est ouverte",
+      "r": "Les compagnies bancaires renforcent les contrôles sur les supports en unités de compte de l'assurance-vie pour trier les produits onéreux.",
+      "c": "epargne",
+      "s": "Le Monde",
+      "f": null
+    },
+    {
+      "d": "2026-11-18",
+      "i": "0e8201bd0e7a",
+      "t": "Pouvoir d’achat immobilier : combien de m² pour 1 000 euros par mois dans 32 villes",
+      "r": "Une étude montre de fortes disparités de pouvoir d'achat immobilier selon les villes françaises pour une même mensualité.",
+      "c": "epargne",
+      "s": "Capital",
+      "f": null
+    },
+    {
+      "d": "2026-11-18",
+      "i": "d653ccdddb10",
+      "t": "Conseillers en gestion de patrimoine : Eres étend son réseau avec l'acquisition de la fintech Wizio",
+      "r": "",
+      "c": "epargne",
+      "s": "Les Echos",
+      "f": null
+    },
+    {
+      "d": "2026-11-18",
+      "i": "0183e4a5ec13",
+      "t": "« Management package » : cette nouvelle bataille fiscale qui se joue en coulisse",
+      "r": "",
+      "c": "epargne",
+      "s": "Les Echos",
+      "f": null
+    },
     {
       "d": "2026-11-17",
       "i": "6c823ffe9b7c",
