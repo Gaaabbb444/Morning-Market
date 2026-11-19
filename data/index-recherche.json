@@ -1,7 +1,286 @@
 {
   "version_schema": 1,
-  "mis_a_jour_le": "2026-11-18T18:21:10+01:00",
+  "mis_a_jour_le": "2026-11-19T13:49:56+01:00",
   "entrees": [
+    {
+      "d": "2026-11-19",
+      "i": "9215859984b7",
+      "t": "72 millions de dollars par salarié en moyenne: l'introduction en Bourse d'Anthropic fait exploser les fortunes (dont celle de l'acteur Ashton Kutcher)",
+      "r": "Anthropic a réalisé une introduction en Bourse historique, levant environ 107 milliards de dollars et étant valorisée à 1 500 milliards de dollars.",
+      "c": "finance",
+      "s": "BFM Business",
+      "f": "intelligence-artificielle"
+    },
+    {
+      "d": "2026-11-19",
+      "i": "f40b2eda78ae",
+      "t": "Blocage d'Ormuz : comment cette crise historique a instauré un nouvel ordre énergétique mondial",
+      "r": "Selon l’Agence internationale de l’énergie, la crise d’Ormuz a instauré un nouvel ordre énergétique, poussant les pays à accélérer l’électrification, le nucléaire et les énergies renouvelables.",
+      "c": "mondialisation",
+      "s": "La Tribune",
+      "f": "choc-petrolier-ormuz"
+    },
+    {
+      "d": "2026-11-19",
+      "i": "dd4080bc3211",
+      "t": "Ukraine : la Commission européenne propose un nouveau prêt de 45 milliards d'euros, dans un contexte budgétaire tendu",
+      "r": "La Commission européenne a proposé un nouveau prêt de 45 milliards d’euros à l’Ukraine pour combler son déficit de guerre, quatre gouvernements refusant de s’associer à ce financement.",
+      "c": "ue",
+      "s": "Toute l'Europe",
+      "f": "budget-ue"
+    },
+    {
+      "d": "2026-11-19",
+      "i": "3a42e9135665",
+      "t": "Aux Etats-Unis, Wall Street met fin à l’euphorie généralisée sur l’IA et cherche à trier les gagnants et les perdants de cette révolution",
+      "r": "La dégringolade en Bourse de Nvidia illustre le recul du secteur de l’IA après six mois de croissance à deux chiffres, les investisseurs s’interrogeant sur le modèle économique et le niveau d’endettement des sociétés.",
+      "c": "finance",
+      "s": "Le Monde",
+      "f": "intelligence-artificielle"
+    },
+    {
+      "d": "2026-11-19",
+      "i": "7b8bd78c6de6",
+      "t": "Gabriel Zucman veut régulariser les \"impayés\" des milliardaires grâce à un impôt censé rapporter l'équivalent de 8% du PIB de la France",
+      "r": "Gabriel Zucman propose de créer un impôt pour régulariser les «impayés» des milliardaires, s’ajoutant à l’impôt sur le patrimoine des ultra‑riches.",
+      "c": "desequilibres",
+      "s": "BFM Business",
+      "f": null
+    },
+    {
+      "d": "2026-11-19",
+      "i": "4b5a4171aaee",
+      "t": "«Nous avons besoin de 500 millions à 1 milliard d’euros pour engager la production» : Atea, premier avion hybride électrique européen, prêt à décoller",
+      "r": "La start-up Ascendance Technologies appelle à un soutien financier public et privé pour engager la production de son avion hybride électrique.",
+      "c": "croissance",
+      "s": "Le Figaro",
+      "f": null
+    },
+    {
+      "d": "2026-11-19",
+      "i": "03b14489ed8f",
+      "t": "Pannes, espions et introductions en bourse de mille milliards de dollars : est-ce notre futur en matière d'IA ?",
+      "r": "Le secteur technologique fait face à d'importants changements de direction chez Nvidia et à des perturbations informatiques liées à des pannes.",
+      "c": "croissance",
+      "s": "The Guardian",
+      "f": "intelligence-artificielle"
+    },
+    {
+      "d": "2026-11-19",
+      "i": "0afd492311cc",
+      "t": "En quoi l’affaire Nvidia met en danger Donald Trump ? Comprendre en trois minutes",
+      "r": "L'administration de Donald Trump traverse une crise politique sur fond de scandale lié à l'entreprise de microprocesseurs Nvidia.",
+      "c": "croissance",
+      "s": "Le Monde",
+      "f": null
+    },
+    {
+      "d": "2026-11-19",
+      "i": "e9e1c038bca0",
+      "t": "OPINION. « Les émissions mondiales de CO2 baissent. Et c'est la croissance qui l'a permis »",
+      "r": "Les émissions mondiales de CO2 d'origine fossile devraient baisser d'environ 0,4 % en 2026 pour s'établir à 38,2 milliards de tonnes.",
+      "c": "croissance",
+      "s": "La Tribune",
+      "f": null
+    },
+    {
+      "d": "2026-11-19",
+      "i": "41c0f0af284a",
+      "t": "Pétrole : pourquoi le détroit d’Ormuz va perdre son rôle stratégique",
+      "r": "Selon l'Agence internationale de l'énergie, la guerre en Iran transforme les marchés mondiaux des hydrocarbures et modifie le rôle stratégique du détroit d'Ormuz.",
+      "c": "mondialisation",
+      "s": "Le Figaro",
+      "f": "choc-petrolier-ormuz"
+    },
+    {
+      "d": "2026-11-19",
+      "i": "62f2f407086b",
+      "t": "\"Les cocos de Paimpol ne doivent plus financer le Coca d’Atlanta\": Serge Papin appelle à \"faire évoluer le rapport de force traditionnel\" des négociations commerciales à quelques jours de leur ouverture",
+      "r": "À l'approche des négociations commerciales, un appel est lancé pour faire évoluer le rapport de force et flécher l'inflation vers les agriculteurs.",
+      "c": "mondialisation",
+      "s": "BFM Business",
+      "f": null
+    },
+    {
+      "d": "2026-11-19",
+      "i": "2d14614eea62",
+      "t": "« L’impopularité des droits de douane imposés par Donald Trump révèle les limites de sa politique économique, fondée sur une illusion »",
+      "r": "L'impopularité des droits de douane de Donald Trump illustre les limites de sa politique protectionniste, selon l'économiste Antoine Bouët.",
+      "c": "mondialisation",
+      "s": "Le Monde",
+      "f": null
+    },
+    {
+      "d": "2026-11-19",
+      "i": "1f85972ab257",
+      "t": "[Comparatif] UE/Chine : radiographie du duel entre deux puissances économiques aux modèles différents",
+      "r": "L'Union européenne et la Chine affichent des PIB comparables mais reposent sur des modèles économiques et historiques profondément différents.",
+      "c": "mondialisation",
+      "s": "Toute l'Europe",
+      "f": null
+    },
+    {
+      "d": "2026-11-19",
+      "i": "8ea62b1fb64a",
+      "t": "Anthropic entre en Bourse aujourd'hui en levant 81 milliards de dollars lors d'une introduction record",
+      "r": "The company behind the Claude chatbot is floating on the stock market with a multi-billion dollar valuation, marking a major milestone for the sector.",
+      "c": "finance",
+      "s": "The Guardian",
+      "f": "intelligence-artificielle"
+    },
+    {
+      "d": "2026-11-19",
+      "i": "ace6802d3b2f",
+      "t": "Anthropic va lever environ 79,4 milliards de dollars en Bourse, dépassant l’offre initiale record de SpaceX",
+      "r": "La start-up Anthropic s'apprête à lever environ 79,4 milliards de dollars en Bourse, réalisant ainsi la plus importante levée de fonds de l'histoire.",
+      "c": "finance",
+      "s": "Le Figaro",
+      "f": null
+    },
+    {
+      "d": "2026-11-19",
+      "i": "7ab38cb8c62b",
+      "t": "Véritable test pour le secteur de l'IA, Anthropic, créateur de l'IA Claude, entre en bourse avec une valorisation astronomique",
+      "r": "La start-up Anthropic fait son entrée à Wall Street avec une valorisation de 1 500 milliards de dollars, soulevant des interrogations sur une possible bulle de l'IA.",
+      "c": "finance",
+      "s": "franceinfo",
+      "f": "intelligence-artificielle"
+    },
+    {
+      "d": "2026-11-19",
+      "i": "0a4eeca95ef8",
+      "t": "Simon Jack : L'introduction en bourse record d'Anthropic peut-elle stopper l'éclatement de la bulle de l'IA ?",
+      "r": "L'entrée en bourse très attendue d'Anthropic devrait le placer parmi les dix entreprises américaines les plus valorisées, malgré un avenir incertain.",
+      "c": "finance",
+      "s": "BBC",
+      "f": "intelligence-artificielle"
+    },
+    {
+      "d": "2026-11-19",
+      "i": "5aba02a2c22a",
+      "t": "\"Un risque avéré d’insoutenabilité financière\": la Cour des comptes recommande de geler la future ligne à grande vitesse entre Toulouse et Bordeaux dont les travaux doivent commencer",
+      "r": "La Cour des comptes recommande de geler le projet de ligne à grande vitesse entre Toulouse et Bordeaux en raison de risques d'insoutenabilité financière.",
+      "c": "desequilibres",
+      "s": "BFM Business",
+      "f": null
+    },
+    {
+      "d": "2026-11-19",
+      "i": "18b9d37643bd",
+      "t": "Les femmes travaillent \"gratuitement\" à partir de jeudi à 10h51 jusqu'à la fin de l'année, selon Les Glorieuses",
+      "r": "Selon le collectif Les Glorieuses, les femmes travaillent gratuitement à partir de ce jeudi en raison des inégalités de rémunération persistantes.",
+      "c": "desequilibres",
+      "s": "franceinfo",
+      "f": null
+    },
+    {
+      "d": "2026-11-19",
+      "i": "2c6433ea8558",
+      "t": "«Un montant particulièrement élevé» : les violences du 17 octobre ont coûté 207 millions d’euros, selon France Assureurs",
+      "r": "Les violences et exactions survenues lors de manifestations ont coûté 207 millions d'euros selon France Assureurs.",
+      "c": "desequilibres",
+      "s": "Le Figaro",
+      "f": "conjoncture-france"
+    },
+    {
+      "d": "2026-11-19",
+      "i": "8043c27ef73f",
+      "t": "«Nous ne pouvons pas laisser ces salariés dans l’incertitude» : le Parlement pérennise le dispositif Territoires zéro chômeur longue durée",
+      "r": "Les députés ont adopté le texte pérennisant le dispositif Territoires zéro chômeur longue durée après le 31 décembre.",
+      "c": "desequilibres",
+      "s": "Le Figaro",
+      "f": "conjoncture-france"
+    },
+    {
+      "d": "2026-11-19",
+      "i": "241f5742d801",
+      "t": "La Commission européenne visée par une cyberattaque assistée par l’IA, des données personnelles potentiellement compromises",
+      "r": "La Commission européenne a été la cible d'une cyberattaque assistée par l'intelligence artificielle, compromettant potentiellement des données personnelles.",
+      "c": "ue",
+      "s": "Le Figaro",
+      "f": null
+    },
+    {
+      "d": "2026-11-19",
+      "i": "1d1cf71532e1",
+      "t": "[Infographie] Que fait l'Union européenne pour soutenir les demandeurs d'emploi ?",
+      "r": "L'Union européenne agit autour de quatre priorités pour soutenir l'emploi : réduire le chômage de longue durée, améliorer les compétences, aider les jeunes et faciliter la mobilité.",
+      "c": "ue",
+      "s": "Toute l'Europe",
+      "f": null
+    },
+    {
+      "d": "2026-11-19",
+      "i": "3f380f2e798a",
+      "t": "Trouvée en une heure grâce à l’IA, une faille critique dans le langage informatique Java met les États en alerte",
+      "r": "Une faille critique dans le langage Java a été détectée rapidement grâce à l'intelligence artificielle, alertant plusieurs États.",
+      "c": "entreprises",
+      "s": "Le Figaro",
+      "f": "intelligence-artificielle"
+    },
+    {
+      "d": "2026-11-19",
+      "i": "fd20c8af2cca",
+      "t": "«Droits voisins» : le Parlement adopte une loi pour que les plateformes rémunèrent mieux la presse",
+      "r": "Le Parlement a adopté une loi relative aux droits voisins afin de garantir une meilleure rémunération des éditeurs de presse par les plateformes numériques.",
+      "c": "entreprises",
+      "s": "Le Figaro",
+      "f": null
+    },
+    {
+      "d": "2026-11-19",
+      "i": "dbd61edbb48e",
+      "t": "Elle a \"posé de meilleures questions\": le géant de l'audit KPMG teste l'IA sur les comptes d'une entreprise cotée et elle fait mieux que les experts-comptables",
+      "r": "Le cabinet KPMG a testé avec succès l'utilisation de l'intelligence artificielle pour réaliser l'audit des comptes d'une société britannique cotée.",
+      "c": "entreprises",
+      "s": "BFM Business",
+      "f": "intelligence-artificielle"
+    },
+    {
+      "d": "2026-11-19",
+      "i": "a995c33de1b3",
+      "t": "BAE supprime 1 000 postes dans son siège et ses activités aériennes",
+      "r": "Le groupe de défense BAE Systems annonce la suppression de plus de 1 000 emplois, suscitant des appels à de nouvelles commandes publiques.",
+      "c": "entreprises",
+      "s": "The Guardian",
+      "f": null
+    },
+    {
+      "d": "2026-11-19",
+      "i": "aae0e3c48088",
+      "t": "Crédit à la consommation : ce qui change avec l'entrée en vigueur de la directive européenne",
+      "r": "La directive européenne encadrant le crédit à la consommation entre en vigueur, renforçant la protection des consommateurs tout en durcissant certaines conditions d'emprunt.",
+      "c": "epargne",
+      "s": "Toute l'Europe",
+      "f": null
+    },
+    {
+      "d": "2026-11-19",
+      "i": "22be3e4d0684",
+      "t": "Près de 14 millions de titulaires : le plan d’épargne-retraite (PER) a toujours plus d'adeptes",
+      "r": "Le plan d'épargne-retraite (PER) dépasse les 14 millions de titulaires, un succès salué par le ministre de l'Économie.",
+      "c": "epargne",
+      "s": "Le Figaro",
+      "f": "fiscalite-epargne-patrimoine"
+    },
+    {
+      "d": "2026-11-19",
+      "i": "f7612866a140",
+      "t": "\"Les Français ne placent pas spontanément l'éthique en tête\": lorsqu'il s'agit d'épargner, plusieurs critères rentrent en compte (et pas uniquement le rendement)",
+      "r": "Selon un sondage Ipsos pour Distingo Bank, le rendement de l'épargne est jugé aussi important que l'absence de frais, la disponibilité et la sécurité.",
+      "c": "epargne",
+      "s": "BFM Business",
+      "f": "fiscalite-epargne-patrimoine"
+    },
+    {
+      "d": "2026-11-19",
+      "i": "52f30a7a4df3",
+      "t": "Dispositif Jeanbrun : SCPI, travaux, location à un proche, ce que les députés ont voté",
+      "r": "Les députés ont adopté en séance publique un article modifiant le dispositif d'investissement locatif Jeanbrun succédant au Pinel dans le cadre du projet de loi de relance du logement.",
+      "c": "epargne",
+      "s": "Capital",
+      "f": "fiscalite-epargne-patrimoine"
+    },
     {
       "d": "2026-11-18",
       "i": "0bc9ad3e079d",

@@ -1,6 +1,6 @@
 {
   "version_schema": 1,
-  "mis_a_jour_le": "2026-11-18T18:22:27+01:00",
+  "mis_a_jour_le": "2026-11-19T13:50:20+01:00",
   "fils": [
     {
       "id": "budget-2027",
@@ -665,6 +665,17 @@
               "titre": "Budget 2027 : au moins 12 milliards d'économies supplémentaires pour tenir le cap des 5 % de déficit",
               "source": "L'Opinion",
               "url": "https://www.lopinion.fr/economie/budget-2027-au-moins-12-milliards-deconomies-supplementaires-pour-tenir-le-cap-des-5-de-deficit"
+            }
+          ]
+        },
+        {
+          "date": "2026-11-19",
+          "resume": "Le projet de budget de l'État pour 2027 prévoit cinq milliards d'euros d'économies pour les collectivités, provoquant de vives réactions parmi les élus locaux.",
+          "liens": [
+            {
+              "titre": "\"La colère des élus est très forte\" : face à la baisse de dotation prévue, des maires placent un ruban noir sur les panneaux de leur ville",
+              "source": "franceinfo",
+              "url": "https://www.franceinfo.fr/economie/budget/la-colere-des-elus-est-tres-forte-face-a-la-baisse-de-dotation-prevue-des-maires-placent-un-ruban-noir-sur-les-panneaux-de-leur-ville_8289602.html#xtor=RSS-3-%5Beconomie%5D"
             }
           ]
         }
@@ -1382,6 +1393,27 @@
               "titre": "Carburants : qui sont les Français piégés par l’envolée des prix ?",
               "source": "Alternatives Économiques",
               "url": "https://www.alternatives-economiques.fr/carburants-qui-sont-les-francais-pieges-par-l-envolee-des-prix_18-11-2026"
+            }
+          ]
+        },
+        {
+          "date": "2026-11-19",
+          "resume": "Selon l'Agence internationale de l'énergie, la crise dans le détroit d'Ormuz accélère durablement l'électrification, le nucléaire et le développement des énergies renouvelables.",
+          "liens": [
+            {
+              "titre": "Blocage d'Ormuz : comment cette crise historique a instauré un nouvel ordre énergétique mondial",
+              "source": "La Tribune",
+              "url": "https://www.latribune.fr/article/entreprises-finance/energie-environnement/1955375196074/blocage-dormuz-comment-cette-crise-historique-a-instaure-un-nouvel-ordre-energetique-mondial"
+            },
+            {
+              "titre": "Pétrole : pourquoi le détroit d’Ormuz va perdre son rôle stratégique",
+              "source": "Le Figaro",
+              "url": "https://www.lefigaro.fr/conjoncture/petrole-pourquoi-le-detroit-d-ormuz-va-perdre-son-role-strategique-20261119"
+            },
+            {
+              "titre": "La crise dans le détroit d’Ormuz favorise une « étroite convergence entre sécurité énergétique et objectifs climatiques », selon le directeur de l’AIE, Fatih Birol",
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/economie/article/2026/11/19/la-crise-du-detroit-d-ormuz-favorise-une-etroite-convergence-entre-securite-energetique-et-objectifs-climatiques-selon-le-directeur-de-l-aie-fatih-birol_6813236_3234.html"
             }
           ]
         }
@@ -2165,6 +2197,17 @@
               "url": "https://www.lopinion.fr/international/kristen-michal-premier-ministre-estonien-zelensky-a-le-soutien-des-europeens"
             }
           ]
+        },
+        {
+          "date": "2026-11-19",
+          "resume": "La Commission européenne propose un nouveau prêt de 45 milliards d'euros pour soutenir l'Ukraine, ce qui ravive les tensions lors des négociations budgétaires européennes.",
+          "liens": [
+            {
+              "titre": "Ukraine : la Commission européenne propose un nouveau prêt de 45 milliards d'euros, dans un contexte budgétaire tendu",
+              "source": "Toute l'Europe",
+              "url": "https://www.touteleurope.eu/l-ue-dans-le-monde/ukraine-la-commission-europeenne-propose-un-nouveau-pret-de-45-milliards-d-euros-dans-un-contexte-budgetaire-tendu/"
+            }
+          ]
         }
       ]
     },
@@ -2340,6 +2383,17 @@
               "titre": "Le paiement en 3 fois devient un crédit à la consommation",
               "source": "franceinfo",
               "url": "https://www.franceinfo.fr/economie/le-paiement-en-3-fois-devient-un-credit-a-la-consommation_8287988.html#xtor=RSS-3-%5Beconomie%5D"
+            }
+          ]
+        },
+        {
+          "date": "2026-11-19",
+          "resume": "Un sondage Ipsos indique que le rendement de l'épargne est jugé aussi crucial par les épargnants que l'absence de frais et la sécurité des fonds.",
+          "liens": [
+            {
+              "titre": "\"Les Français ne placent pas spontanément l'éthique en tête\": lorsqu'il s'agit d'épargner, plusieurs critères rentrent en compte (et pas uniquement le rendement)",
+              "source": "BFM Business",
+              "url": "https://www.bfmtv.com/economie/patrimoine/les-francais-ne-placent-pas-spontanement-l-ethique-en-tete-lorsqu-il-s-agit-d-epargner-plusieurs-criteres-rentrent-en-compte-et-pas-uniquement-le-rendement_AN-202611190502.html"
             }
           ]
         }
@@ -3230,6 +3284,22 @@
               "url": "https://www.bfmtv.com/economie/consommation/ce-n-est-pas-un-effondrement-mais-les-violences-a-paris-mi-octobre-ont-fait-instantanement-reculer-les-reservations-hotelieres-notamment-dans-les-etablissements-haut-de-gamme_AV-202611180682.html"
             }
           ]
+        },
+        {
+          "date": "2026-11-19",
+          "resume": "Les violences survenues lors de manifestations ont coûté 207 millions d'euros selon France Assureurs, tandis que la situation financière de la supply chain aéronautique se redresse.",
+          "liens": [
+            {
+              "titre": "«Un montant particulièrement élevé» : les violences du 17 octobre ont coûté 207 millions d’euros, selon France Assureurs",
+              "source": "Le Figaro",
+              "url": "https://www.lefigaro.fr/conjoncture/un-montant-particulierement-eleve-les-violences-du-17-octobre-ont-coute-207-millions-d-euros-selon-france-assureurs-20261119"
+            },
+            {
+              "titre": "Aéronautique : moins de 200 millions d'euros à rembourser, les finances de la supply chain rebondissent en France",
+              "source": "La Tribune",
+              "url": "https://www.latribune.fr/article/defense-aerospatiale/aeronautique-defense/10800253133527/aeronautique-moins-de-200-millions-deuros-a-rembourser-les-finances-de-la-supply-chain-rebondissent-en-france"
+            }
+          ]
         }
       ]
     },
@@ -3244,8 +3314,8 @@
         "entreprises",
         "ue"
       ],
-      "ou_en_est_on": "La question de l'intelligence artificielle combine des préoccupations sur son impact direct sur le marché du travail — illustré par la baisse des offres d'emploi — et des interrogations financières liées aux investissements massifs et au financement de la dette par des acteurs européens et américains. Des voix s'élèvent pour avertir d'un risque de bulle spéculative à court terme, tandis que le secteur continue d'attirer des levées de fonds d'envergure.",
-      "ou_en_est_on_maj_le": "2026-11-17",
+      "ou_en_est_on": "L'actualité du secteur est marquée par l'entrée en Bourse historique d'Anthropic pour une valorisation de 1 500 milliards de dollars, constituant un test grandeur nature pour Wall Street. Parallèlement, des questions persistent concernant le niveau d'endettement des sociétés, la rentabilité des modèles économiques et l'augmentation des émissions de carbone liées aux centres de données. Des outils d'intelligence artificielle continuent par ailleurs d'être testés avec succès dans l'audit financier ou la cybersécurité.",
+      "ou_en_est_on_maj_le": "2026-11-19",
       "evenements": [
         {
           "date": "2026-10-17",
@@ -3934,6 +4004,37 @@
               "titre": "Jensen Huang, ex-patron de Nvidia, sera entendu au Congrès, le 1ᵉʳ décembre, sur sa liaison avec une Chinoise soupçonnée d’espionnage",
               "source": "Le Monde",
               "url": "https://www.lemonde.fr/international/article/2026/11/17/jensen-huang-ex-patron-de-nvidia-sera-entendu-au-congres-le-1-decembre-sur-sa-liaison-avec-une-chinoise-soupconnee-d-espionnage_6813021_3210.html"
+            }
+          ]
+        },
+        {
+          "date": "2026-11-19",
+          "resume": "L'entreprise Anthropic réalise une introduction en Bourse historique avec une valorisation de 1 500 milliards de dollars, tandis que le secteur fait face à des interrogations sur sa bulle financière et ses impacts environnementaux.",
+          "liens": [
+            {
+              "titre": "72 millions de dollars par salarié en moyenne: l'introduction en Bourse d'Anthropic fait exploser les fortunes (dont celle de l'acteur Ashton Kutcher)",
+              "source": "BFM Business",
+              "url": "https://www.bfmtv.com/economie/72-millions-de-dollars-par-salarie-en-moyenne-l-introduction-en-bourse-d-anthropic-fait-exploser-les-fortunes-dont-celle-de-l-acteur-ashton-kutcher_AV-202611190455.html"
+            },
+            {
+              "titre": "Anthropic to float on the stock market today as it raises $81bn in record IPO – business live",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/business/live/2026/nov/19/anthropic-float-stock-market-nasdaq-raises-81bn-record-ipo-latest-news-updates"
+            },
+            {
+              "titre": "Véritable test pour le secteur de l'IA, Anthropic, créateur de l'IA Claude, entre en bourse avec une valorisation astronomique",
+              "source": "franceinfo",
+              "url": "https://www.franceinfo.fr/replay-radio/le-decryptage-eco/veritable-test-pour-le-secteur-de-l-ia-anthropic-createur-de-l-ia-claude-entre-en-bourse-avec-une-valorisation-astronomique_8268659.html#xtor=RSS-3-%5Beconomie%5D"
+            },
+            {
+              "titre": "Aux Etats-Unis, Wall Street met fin à l’euphorie généralisée sur l’IA et cherche à trier les gagnants et les perdants de cette révolution",
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/economie/article/2026/11/19/aux-etats-unis-wall-street-met-fin-a-l-euphorie-generalisee-sur-l-ia-et-cherche-a-trier-les-gagnants-et-les-perdants-de-cette-revolution_6813232_3234.html"
+            },
+            {
+              "titre": "Trouvée en une heure grâce à l’IA, une faille critique dans le langage informatique Java met les États en alerte",
+              "source": "Le Figaro",
+              "url": "https://www.lefigaro.fr/secteur/high-tech/trouvee-en-une-heure-grace-a-l-ia-une-faille-critique-dans-le-langage-informatique-java-met-les-etats-en-alerte-20261119"
             }
           ]
         }
