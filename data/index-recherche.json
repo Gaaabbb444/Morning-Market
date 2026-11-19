@@ -1,6 +1,6 @@
 {
   "version_schema": 1,
-  "mis_a_jour_le": "2026-11-19T13:49:56+01:00",
+  "mis_a_jour_le": "2026-11-19T18:28:16+01:00",
   "entrees": [
     {
       "d": "2026-11-19",
@@ -85,6 +85,15 @@
     },
     {
       "d": "2026-11-19",
+      "i": "3e5c462fb7d5",
+      "t": "A Lyon, le promoteur immobilier Nexity livre des logements conçus sans climatisation ni chauffage",
+      "r": "Le promoteur Nexity a inauguré à Lyon un immeuble résidentiel conçu pour maintenir une température régulée sans recours au chauffage ni à la climatisation.",
+      "c": "croissance",
+      "s": "Le Monde",
+      "f": null
+    },
+    {
+      "d": "2026-11-19",
       "i": "41c0f0af284a",
       "t": "Pétrole : pourquoi le détroit d’Ormuz va perdre son rôle stratégique",
       "r": "Selon l'Agence internationale de l'énergie, la guerre en Iran transforme les marchés mondiaux des hydrocarbures et modifie le rôle stratégique du détroit d'Ormuz.",
@@ -117,6 +126,15 @@
       "r": "L'Union européenne et la Chine affichent des PIB comparables mais reposent sur des modèles économiques et historiques profondément différents.",
       "c": "mondialisation",
       "s": "Toute l'Europe",
+      "f": null
+    },
+    {
+      "d": "2026-11-19",
+      "i": "db3bf8ac8d6f",
+      "t": "Exportations : la Corée du Sud intègre un club très fermé en franchissant le seuil des 1.000 milliards de dollars",
+      "r": "",
+      "c": "mondialisation",
+      "s": "Les Echos",
       "f": null
     },
     {
@@ -157,6 +175,15 @@
     },
     {
       "d": "2026-11-19",
+      "i": "23e4229d8f3b",
+      "t": "Anthropic CEO acknowledges AI has 'very real risks' shortly before IPO – video",
+      "r": "Le PDG d'Anthropic a souligné les risques de l'intelligence artificielle peu avant l'introduction en bourse de l'entreprise sur le Nasdaq.",
+      "c": "finance",
+      "s": "The Guardian",
+      "f": "intelligence-artificielle"
+    },
+    {
+      "d": "2026-11-19",
       "i": "5aba02a2c22a",
       "t": "\"Un risque avéré d’insoutenabilité financière\": la Cour des comptes recommande de geler la future ligne à grande vitesse entre Toulouse et Bordeaux dont les travaux doivent commencer",
       "r": "La Cour des comptes recommande de geler le projet de ligne à grande vitesse entre Toulouse et Bordeaux en raison de risques d'insoutenabilité financière.",
@@ -193,6 +220,15 @@
     },
     {
       "d": "2026-11-19",
+      "i": "206c42a34615",
+      "t": "Comment le monde s'adapte au pire choc énergétique de l'histoire",
+      "r": "Face aux crises, l'Agence internationale de l'énergie élargit l'éventail des futurs énergétiques possibles, selon le World Energy Outlook.",
+      "c": "desequilibres",
+      "s": "L'Opinion",
+      "f": null
+    },
+    {
+      "d": "2026-11-19",
       "i": "241f5742d801",
       "t": "La Commission européenne visée par une cyberattaque assistée par l’IA, des données personnelles potentiellement compromises",
       "r": "La Commission européenne a été la cible d'une cyberattaque assistée par l'intelligence artificielle, compromettant potentiellement des données personnelles.",
@@ -205,6 +241,15 @@
       "i": "1d1cf71532e1",
       "t": "[Infographie] Que fait l'Union européenne pour soutenir les demandeurs d'emploi ?",
       "r": "L'Union européenne agit autour de quatre priorités pour soutenir l'emploi : réduire le chômage de longue durée, améliorer les compétences, aider les jeunes et faciliter la mobilité.",
+      "c": "ue",
+      "s": "Toute l'Europe",
+      "f": null
+    },
+    {
+      "d": "2026-11-19",
+      "i": "6bce7252f2bf",
+      "t": "L'agenda européen : les principaux événements prévus du 23 au 29 novembre 2026",
+      "r": "L'agenda européen du 23 au 29 novembre 2026 prévoit l'adoption de conclusions sur les régions ultrapériphériques, incluant territoires français d'outre-mer.",
       "c": "ue",
       "s": "Toute l'Europe",
       "f": null
@@ -247,6 +292,15 @@
     },
     {
       "d": "2026-11-19",
+      "i": "04a613312e0e",
+      "t": "\"La direction de Volkswagen poignarde ses salariés dans le dos\": le syndicat allemand IG Metall dénonce un \"catalogue de l'horreur\" et promet \"un \"conflit âpre, acharné et éprouvant\"",
+      "r": "Le constructeur Volkswagen fait face à la concurrence chinoise et réclame un allègement des coûts du travail, provoquant la colère du syndicat IG Metall.",
+      "c": "entreprises",
+      "s": "BFM Business",
+      "f": "automobile-europe-chine"
+    },
+    {
+      "d": "2026-11-19",
       "i": "aae0e3c48088",
       "t": "Crédit à la consommation : ce qui change avec l'entrée en vigueur de la directive européenne",
       "r": "La directive européenne encadrant le crédit à la consommation entre en vigueur, renforçant la protection des consommateurs tout en durcissant certaines conditions d'emprunt.",
@@ -280,6 +334,15 @@
       "c": "epargne",
       "s": "Capital",
       "f": "fiscalite-epargne-patrimoine"
+    },
+    {
+      "d": "2026-11-19",
+      "i": "231dfa1159bf",
+      "t": "Une nouvelle SCPI disparaît faute d’épargnants",
+      "r": "La SCPI Vitality, spécialisée dans l'immobilier du sport et du bien-être, va être absorbée par Newgen faute d'épargnants.",
+      "c": "epargne",
+      "s": "Le Monde",
+      "f": null
     },
     {
       "d": "2026-11-18",

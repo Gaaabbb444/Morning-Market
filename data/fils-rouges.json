@@ -1,6 +1,6 @@
 {
   "version_schema": 1,
-  "mis_a_jour_le": "2026-11-19T13:50:20+01:00",
+  "mis_a_jour_le": "2026-11-19T18:28:35+01:00",
   "fils": [
     {
       "id": "budget-2027",
@@ -670,12 +670,17 @@
         },
         {
           "date": "2026-11-19",
-          "resume": "Le projet de budget de l'État pour 2027 prévoit cinq milliards d'euros d'économies pour les collectivités, provoquant de vives réactions parmi les élus locaux.",
+          "resume": "Le Rassemblement national indique ne pas s'opposer à la suppression de l'abattement fiscal des 10 % pour les retraités sous condition d'indexation des pensions, dans le cadre des discussions sur le budget 2027.",
           "liens": [
             {
               "titre": "\"La colère des élus est très forte\" : face à la baisse de dotation prévue, des maires placent un ruban noir sur les panneaux de leur ville",
               "source": "franceinfo",
               "url": "https://www.franceinfo.fr/economie/budget/la-colere-des-elus-est-tres-forte-face-a-la-baisse-de-dotation-prevue-des-maires-placent-un-ruban-noir-sur-les-panneaux-de-leur-ville_8289602.html#xtor=RSS-3-%5Beconomie%5D"
+            },
+            {
+              "titre": "Budget 2027 : le RN prêt à approuver la suppression de l'abattement pour les retraités",
+              "source": "L'Opinion",
+              "url": "https://www.lopinion.fr/politique/budget-2027-le-rn-pret-a-approuver-la-suppression-de-labattement-pour-les-retraites"
             }
           ]
         }
@@ -1398,7 +1403,7 @@
         },
         {
           "date": "2026-11-19",
-          "resume": "Selon l'Agence internationale de l'énergie, la crise dans le détroit d'Ormuz accélère durablement l'électrification, le nucléaire et le développement des énergies renouvelables.",
+          "resume": "La baisse des prix des carburants se confirme avec un prix moyen du litre de Sans-plomb repassé sous la barre des deux euros.",
           "liens": [
             {
               "titre": "Blocage d'Ormuz : comment cette crise historique a instauré un nouvel ordre énergétique mondial",
@@ -1414,6 +1419,11 @@
               "titre": "La crise dans le détroit d’Ormuz favorise une « étroite convergence entre sécurité énergétique et objectifs climatiques », selon le directeur de l’AIE, Fatih Birol",
               "source": "Le Monde",
               "url": "https://www.lemonde.fr/economie/article/2026/11/19/la-crise-du-detroit-d-ormuz-favorise-une-etroite-convergence-entre-securite-energetique-et-objectifs-climatiques-selon-le-directeur-de-l-aie-fatih-birol_6813236_3234.html"
+            },
+            {
+              "titre": "\"C'est toujours ça de pris\" : des automobilistes saluent la baisse significative du prix des carburants",
+              "source": "franceinfo",
+              "url": "https://www.franceinfo.fr/economie/transports/prix-des-carburants/c-est-toujours-ca-de-pris-des-automobilistes-saluent-la-baisse-significative-du-prix-des-carburants_8290100.html#xtor=RSS-3-%5Beconomie%5D"
             }
           ]
         }
@@ -1567,6 +1577,17 @@
               "titre": "L'inflation a bien atteint 3,4 % sur un an en octobre, selon l'Insee",
               "source": "Le Figaro",
               "url": "https://www.lefigaro.fr/conso/l-inflation-a-bien-atteint-3-4-sur-un-an-en-octobre-selon-l-insee-20261113"
+            }
+          ]
+        },
+        {
+          "date": "2026-11-19",
+          "resume": "Le FMI avertit que la forte demande mondiale en intelligence artificielle pourrait contraindre les banques centrales à relever leurs taux d'intérêt.",
+          "liens": [
+            {
+              "titre": "AI demand will push up interest rates around the world, IMF head warns",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/world/2026/nov/19/imf-head-warns-ai-demand-push-up-interest-rates-apec"
             }
           ]
         }
@@ -2056,6 +2077,17 @@
               "titre": "Programme d’Édouard Philippe : travail, retraites, impôts, ce que propose le candidat",
               "source": "Capital",
               "url": "https://www.capital.fr/economie-politique/programme-dedouard-philippe-travail-retraites-impots-ce-que-propose-le-candidat-1531958"
+            }
+          ]
+        },
+        {
+          "date": "2026-11-19",
+          "resume": "Le candidat Jean-Luc Mélenchon a rencontré plusieurs grands patrons français, dont Martin Bouygues, pour évoquer notamment son programme sur le logement.",
+          "liens": [
+            {
+              "titre": "Il ne quitte plus les grands patrons: après son dîner avec Bernard Arnault et Patrick Pouyanné, Jean-Luc Mélenchon rencontre Martin Bouygues pour parler logement",
+              "source": "BFM Business",
+              "url": "https://www.bfmtv.com/economie/il-ne-quitte-plus-les-grands-patrons-apres-son-diner-avec-bernard-arnault-et-patrick-pouyanne-jean-luc-melenchon-rencontre-martin-bouygues-pour-parler-logement_AV-202611190645.html"
             }
           ]
         }
@@ -4009,7 +4041,7 @@
         },
         {
           "date": "2026-11-19",
-          "resume": "L'entreprise Anthropic réalise une introduction en Bourse historique avec une valorisation de 1 500 milliards de dollars, tandis que le secteur fait face à des interrogations sur sa bulle financière et ses impacts environnementaux.",
+          "resume": "L'entreprise Anthropic réalise une introduction en Bourse historique sur le Nasdaq, tandis que son PDG souligne les risques liés à l'intelligence artificielle.",
           "liens": [
             {
               "titre": "72 millions de dollars par salarié en moyenne: l'introduction en Bourse d'Anthropic fait exploser les fortunes (dont celle de l'acteur Ashton Kutcher)",
@@ -4153,6 +4185,17 @@
               "titre": "À quel âge les Français et leurs voisins européens partent-ils réellement à la retraite ?",
               "source": "Le Figaro",
               "url": "https://www.lefigaro.fr/conjoncture/a-quel-age-les-francais-et-leurs-voisins-europeens-partent-ils-reellement-a-la-retraite-20261117"
+            }
+          ]
+        },
+        {
+          "date": "2026-11-19",
+          "resume": "Le plan retraite du Rassemblement national prévoyant des départs à 60 ans est vivement critiqué, notamment pour sa pénalisation des travailleurs manquant de trimestres.",
+          "liens": [
+            {
+              "titre": "Le plan retraite de Marine Le Pen ? Deux arnaques et un hold-up !",
+              "source": "Alternatives Économiques",
+              "url": "https://www.alternatives-economiques.fr/le-plan-retraite-de-marine-le-pen-deux-arnaques-et-un-hold-up_19-11-2026"
             }
           ]
         }
