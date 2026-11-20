@@ -1,7 +1,286 @@
 {
   "version_schema": 1,
-  "mis_a_jour_le": "2026-11-19T18:28:16+01:00",
+  "mis_a_jour_le": "2026-11-20T13:47:31+01:00",
   "entrees": [
+    {
+      "d": "2026-11-20",
+      "i": "d8fdcd3b9c02",
+      "t": "Budget 2027 : pourquoi le Sénat doit trouver 12 milliards d’euros d'économies supplémentaires",
+      "r": "Le Sénat examine à partir du vendredi 20 novembre le projet de loi de finances 2027 et doit trouver 12 milliards d’euros d’économies supplémentaires ; le ministre des Comptes publics indique que le Sénat propose déjà 6 milliards comme point de départ.",
+      "c": "desequilibres",
+      "s": "La Tribune",
+      "f": "budget-2027"
+    },
+    {
+      "d": "2026-11-20",
+      "i": "5e9b39d83381",
+      "t": "En novembre 2026, le climat des affaires dans le commerce de détail et d’automobiles se dégrade de nouveau",
+      "r": "En novembre 2026, l’indice synthétique du climat des affaires chute à 90 dans le commerce de détail et l’automobile, à 97 dans les services et à 104 dans l’industrie, chaque secteur perdant des points par rapport à la moyenne de longue période (100).",
+      "c": "croissance",
+      "s": "INSEE",
+      "f": "conjoncture-france"
+    },
+    {
+      "d": "2026-11-20",
+      "i": "f042ad99a768",
+      "t": "C'est l'économie européenne la plus dynamique en 2026: grâce à son champion Novo Nordisk, la croissance du Danemark devrait dépasser 4% cette année (mais les consommateurs et les entreprises en profitent peu)",
+      "r": "Grâce aux exportations de son champion Novo Nordisk, le Danemark devrait enregistrer une croissance supérieure à 4 % en 2026.",
+      "c": "croissance",
+      "s": "BFM Business",
+      "f": null
+    },
+    {
+      "d": "2026-11-20",
+      "i": "68a23e4f5a8e",
+      "t": "Encadrement des loyers : la prolongation de deux ans définitivement adoptée",
+      "r": "L’Assemblée nationale a voté le 19 novembre la prolongation de deux ans de l’encadrement des loyers dans 70 villes, avec 148 voix pour et 95 contre.",
+      "c": "desequilibres",
+      "s": "Capital",
+      "f": null
+    },
+    {
+      "d": "2026-11-20",
+      "i": "d8feb2cc9d10",
+      "t": "BCE : après Christine Lagarde, un probable trio pour affronter les tempêtes",
+      "r": "La présidence de la Banque centrale européenne sera confiée à un Espagnol, tandis que Laurence Boone pourrait prendre la direction des opérations de marché de la BCE.",
+      "c": "finance",
+      "s": "L'Opinion",
+      "f": "inflation-bce"
+    },
+    {
+      "d": "2026-11-20",
+      "i": "4770e0ec5ddb",
+      "t": "Comment la France a échoué à enrayer sa désindustrialisation : « Plus de 3 000 usines ont fermé depuis 2009 »",
+      "r": "La France est devenue un pays de consommation de biens étrangers, marquée par la fermeture de plus de 3 000 usines depuis 2009.",
+      "c": "croissance",
+      "s": "Le Monde",
+      "f": "conjoncture-france"
+    },
+    {
+      "d": "2026-11-20",
+      "i": "8bbb80a3d75a",
+      "t": "Peau artificielle vivante : Urgo veut greffer les premiers patients avant 2040",
+      "r": "L'industriel français Urgo a mis au point une peau artificielle vivante prête à être greffée, constituant une première mondiale après cinq ans de recherche.",
+      "c": "croissance",
+      "s": "La Tribune",
+      "f": null
+    },
+    {
+      "d": "2026-11-20",
+      "i": "8b7fc0156385",
+      "t": "OPINION. « La difficile relance de l'industrie française »",
+      "r": "La réindustrialisation de la France se heurte à la difficulté de former ses ingénieurs.",
+      "c": "croissance",
+      "s": "La Tribune",
+      "f": "conjoncture-france"
+    },
+    {
+      "d": "2026-11-20",
+      "i": "acef416db182",
+      "t": "En septembre 2026, le volume des ventes dans le commerce augmente légèrement (+0,2 %)",
+      "r": "En septembre 2026, le volume des ventes dans le commerce augmente légèrement de 0,2 % sur un mois.",
+      "c": "croissance",
+      "s": "INSEE",
+      "f": "conjoncture-france"
+    },
+    {
+      "d": "2026-11-20",
+      "i": "d4ad8ba37bc1",
+      "t": "Six ans après le Brexit, le Royaume-Uni a-t-il gagné au change en quittant l'Europe ?",
+      "r": "Six ans après le Brexit, les relations économiques et les nouveaux sujets de coopération entre le Royaume-Uni et l'Union européenne font l'objet de discussions à Bruxelles.",
+      "c": "mondialisation",
+      "s": "franceinfo",
+      "f": null
+    },
+    {
+      "d": "2026-11-20",
+      "i": "68455d6818eb",
+      "t": "Une première brique avant un retour dans l'UE? Dix ans après le Brexit, Londres annonce la conclusion d'un accord avec Bruxelles (mais un point bloque toujours)",
+      "r": "Le Royaume-Uni et l'Union européenne ont annoncé la conclusion d'un accord pour lever certains obstacles liés au Brexit sur les produits alimentaires et la mobilité.",
+      "c": "mondialisation",
+      "s": "BFM Business",
+      "f": null
+    },
+    {
+      "d": "2026-11-20",
+      "i": "28fefe16dbf3",
+      "t": "La Californie vise Nvidia dans une enquête sur les puces d'IA en Chine",
+      "r": "La Californie mène une enquête sur le fabricant de puces d'intelligence artificielle Nvidia suite au départ de son ancien dirigeant.",
+      "c": "mondialisation",
+      "s": "BBC",
+      "f": "intelligence-artificielle"
+    },
+    {
+      "d": "2026-11-20",
+      "i": "c8606f7a59d7",
+      "t": "Le Royaume-Uni affirme qu'un accord de réinitialisation avec l'UE est conclu mais que les discussions se poursuivront « dans certains domaines »",
+      "r": "Les négociations entre Londres et Bruxelles se poursuivent autour de conditions complémentaires concernant notamment les frais de scolarité.",
+      "c": "mondialisation",
+      "s": "The Guardian",
+      "f": null
+    },
+    {
+      "d": "2026-11-20",
+      "i": "5bd0a548ad8f",
+      "t": "IA : l’action Anthropic finit sa première journée en hausse de 17 % et valorise l’entreprise à 1 280 milliards de dollars",
+      "r": "L'introduction en Bourse d'Anthropic se solde par une hausse de 17 %, valorisant l'entreprise à 1 280 milliards de dollars malgré des inquiétudes à Wall Street.",
+      "c": "finance",
+      "s": "Le Monde",
+      "f": "intelligence-artificielle"
+    },
+    {
+      "d": "2026-11-20",
+      "i": "18b598518360",
+      "t": "Les actions d'Anthropic chutent dans les échanges avant l'ouverture alors qu'une correction sur l'IA touche les marchés mondiaux",
+      "r": "Les marchés financiers mondiaux subissent des turbulences liées au secteur de l'intelligence artificielle, tandis que les autorités américaines mènent des investigations.",
+      "c": "finance",
+      "s": "The Guardian",
+      "f": null
+    },
+    {
+      "d": "2026-11-20",
+      "i": "bb283f6d8574",
+      "t": "LCL accusé d'avoir fait payer 26 millions d'euros de frais évitables à ses clients: l'AMF réclame 4 millions d'euros d'amende",
+      "r": "L'AMF réclame 4 millions d'euros d'amende contre LCL, accusé d'avoir fait payer des frais évitables à ses clients sur des investissements plus coûteux.",
+      "c": "finance",
+      "s": "BFM Business",
+      "f": null
+    },
+    {
+      "d": "2026-11-20",
+      "i": "0bfe80871def",
+      "t": "Les étranges pratiques comptables passées de Worldline",
+      "r": "Des documents révèlent que l'entreprise française Worldline a retardé des paiements de fournisseurs, une pratique que des petits porteurs entendent exploiter.",
+      "c": "finance",
+      "s": "Le Figaro",
+      "f": null
+    },
+    {
+      "d": "2026-11-20",
+      "i": "376d663488f2",
+      "t": "\"Avouez que c’est un peu bizarre, c’est une anomalie\": Jean-Pierre Farandou est favorable à la suppression de l'abattement fiscal des retraités, comme le propose le Sénat",
+      "r": "Le ministre du Travail et des Solidarités Jean-Pierre Farandou s'est dit favorable à la suppression de l'abattement fiscal des retraités et a critiqué le projet de Marine Le Pen sur les retraites.",
+      "c": "desequilibres",
+      "s": "BFM Business",
+      "f": "budget-2027"
+    },
+    {
+      "d": "2026-11-20",
+      "i": "139c869e5027",
+      "t": "« Rompre avec la facilité de la dette publique » : vingt ans après son rapport retentissant, le nouvel avertissement de Michel Pébereau",
+      "r": "",
+      "c": "desequilibres",
+      "s": "Les Echos",
+      "f": "budget-2027"
+    },
+    {
+      "d": "2026-11-20",
+      "i": "4200bf3e23fd",
+      "t": "Surtaxe sur les bénéfices, retraites, prime d'activité… les grands enjeux du débat sur le budget au Sénat",
+      "r": "",
+      "c": "desequilibres",
+      "s": "Les Echos",
+      "f": "budget-2027"
+    },
+    {
+      "d": "2026-11-20",
+      "i": "f5879bea9c72",
+      "t": "Dominique de Villepin annonce sa candidature à l’élection présidentielle de 2027",
+      "r": "Dominique de Villepin a officialisé sa candidature à l'élection présidentielle de 2027 et dévoilé les axes de sa vision économique.",
+      "c": "desequilibres",
+      "s": "La Tribune",
+      "f": "presidentielle-2027"
+    },
+    {
+      "d": "2026-11-20",
+      "i": "69f31729ee24",
+      "t": "Les institutions européennes, cibles de choix pour les cyberassaillants",
+      "r": "Les institutions européennes, et notamment la Commission, font face à des cyberattaques de plus en plus sophistiquées s'appuyant sur l'intelligence artificielle.",
+      "c": "ue",
+      "s": "L'Opinion",
+      "f": null
+    },
+    {
+      "d": "2026-11-20",
+      "i": "b09e06c07aa7",
+      "t": "Méthane : l’UE reporte l’entrée en vigueur de son règlement pionnier au nom de la sécurité énergétique",
+      "r": "L'Union européenne reporte l'entrée en vigueur de son règlement sur le méthane afin de garantir la sécurité énergétique.",
+      "c": "ue",
+      "s": "Le Monde",
+      "f": null
+    },
+    {
+      "d": "2026-11-20",
+      "i": "540b43fe343b",
+      "t": "Scandale Jensen Huang : la Californie ouvre une enquête sur Nvidia et les ventes de puces à la Chine",
+      "r": "La Californie ouvre une enquête sur Nvidia, soupçonné d'avoir caché à ses investisseurs les risques de fuite de puces d'intelligence artificielle vers la Chine.",
+      "c": "entreprises",
+      "s": "Le Figaro",
+      "f": null
+    },
+    {
+      "d": "2026-11-20",
+      "i": "85bd778ba282",
+      "t": "\"Les mesures initiales ne suffisent plus à assurer notre avenir\": Lufthansa va supprimer 1.000 postes au sein de sa principale compagnie aérienne",
+      "r": "La compagnie aérienne Lufthansa annonce la suppression de 1.000 postes au sein de sa principale structure, en raison de coûts élevés et de perturbations géopolitiques.",
+      "c": "entreprises",
+      "s": "BFM Business",
+      "f": "conjoncture-france"
+    },
+    {
+      "d": "2026-11-20",
+      "i": "80e01dc1e336",
+      "t": "Industrie pharmaceutique : « Les Agnelli et les Peugeot misent sur les Mérieux pour s’éloigner des essieux »",
+      "r": "Le véhicule d'investissement Exor a annoncé avoir doublé sa participation au capital de BioMérieux, illustrant un investissement stratégique dans le secteur de la santé.",
+      "c": "entreprises",
+      "s": "Le Monde",
+      "f": null
+    },
+    {
+      "d": "2026-11-20",
+      "i": "1f8b98e01c5b",
+      "t": "Du cloud à l’IA, les nouvelles ambitions du français OVH",
+      "r": "L'opérateur de data centers OVH se lance dans les logiciels d'intelligence artificielle avec une suite bureautique et un modèle.",
+      "c": "entreprises",
+      "s": "Le Monde",
+      "f": "intelligence-artificielle"
+    },
+    {
+      "d": "2026-11-20",
+      "i": "9bfde484004b",
+      "t": "Agios, découverts, paiements fractionnés… Ce qui change pour votre argent à partir du 20 novembre",
+      "r": "Une directive européenne renforce les contrôles sur les découverts bancaires, les agios et durcit les règles encadrant les prêts à la consommation.",
+      "c": "epargne",
+      "s": "Le Figaro",
+      "f": "fiscalite-epargne-patrimoine"
+    },
+    {
+      "d": "2026-11-20",
+      "i": "d0fc49a5431b",
+      "t": "Polypensionnés : comment est calculée la retraite après une carrière dans plusieurs régimes",
+      "r": "Le calcul des pensions pour les polypensionnés et la complexité des règles applicables selon les régimes de retraite soulèvent des difficultés d'accès pour les assurés.",
+      "c": "epargne",
+      "s": "Capital",
+      "f": "retraites"
+    },
+    {
+      "d": "2026-11-20",
+      "i": "0477da7de823",
+      "t": "\"Plus de restrictions\" avec la réforme du crédit à la consommation, \"c'est la bonne direction\", estime une association de lutte contre le surendettement",
+      "r": "Les banques doivent désormais évaluer la solvabilité de leurs clients avant d'accorder des découverts bancaires, assimilés à des crédits à la consommation.",
+      "c": "epargne",
+      "s": "franceinfo",
+      "f": null
+    },
+    {
+      "d": "2026-11-20",
+      "i": "b437bf12f7ea",
+      "t": "2 500 euros sans loyer ni crédit ou 5 000 euros avec un loyer : le choix de 59% des Français",
+      "r": "Selon une enquête d'Immonot, 59% des internautes interrogés privilégient un logement entièrement payé à un salaire deux fois plus élevé.",
+      "c": "epargne",
+      "s": "Capital",
+      "f": null
+    },
     {
       "d": "2026-11-19",
       "i": "9215859984b7",

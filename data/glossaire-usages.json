@@ -1,6 +1,282 @@
 {
   "version_schema": 1,
   "notions": {
+    "politique-budgetaire": [
+      {
+        "date": "2026-11-20",
+        "id": "d8fdcd3b9c02",
+        "titre": "Budget 2027 : pourquoi le Sénat doit trouver 12 milliards d’euros d'économies supplémentaires",
+        "source": "La Tribune",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-11-18",
+        "id": "be92a4fc3fa5",
+        "titre": "Programme d’Édouard Philippe : travail, retraites, impôts, ce que propose le candidat",
+        "source": "Capital",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-11-16",
+        "id": "8b6799cffb6c",
+        "titre": "Ils représentent 70 milliards d'euros par an: le gouvernement veut toucher aux allègements de cotisations sur le travail, les entreprises craignent d'être mises \"au tapis\"",
+        "source": "BFM Business",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-11-14",
+        "id": "64593d4a19c3",
+        "titre": "Allègements de cotisations : Matignon veut « maîtriser durablement » leur coût",
+        "source": "L'Opinion",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-11-13",
+        "id": "37bc7cb6c1d3",
+        "titre": "Budget 2027 : Sébastien Lecornu veut faire de l’agriculture le terrain du compromis",
+        "source": "Capital",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-11-12",
+        "id": "71683ee034e8",
+        "titre": "Allemagne : le mur de la dette à 200 milliards qui rattrape Friedrich Merz",
+        "source": "L'Opinion",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-11-05",
+        "id": "b48b3728223b",
+        "titre": "L'Assemblée nationale rejette à l'unanimité le budget de l'Etat 2027 en première lecture",
+        "source": "franceinfo",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-11-02",
+        "id": "ebb9141f734e",
+        "titre": "Le budget, pas encore adopté, est-il déjà caduc ? \"Oui\", affirme Philippe Juvin, rapporteur général de la commission des Finances à l'Assemblée nationale",
+        "source": "franceinfo",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-11-01",
+        "id": "e711d3ac219c",
+        "titre": "Livret A : une hausse du plafond à 30 000 euros envisagée pour financer les travaux dans les lycées",
+        "source": "franceinfo",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-10-29",
+        "id": "e6ca90b1ae20",
+        "titre": "\"Plus on fait d’enfants, plus l’État est présent\": Giorgia Meloni dévoile un budget axé sur la natalité et la défense, financé en partie en taxant les banques et les assurances",
+        "source": "BFM Business",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-10-27",
+        "id": "e1f84d25dee5",
+        "titre": "Où en sont les débats sur le PLF et le PLFSS 2027 ? Suivez les étapes de l'examen du budget à l'Assemblée et au Sénat",
+        "source": "franceinfo",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-10-25",
+        "id": "b74c30856b74",
+        "titre": "Healey’s first budget to include big devolution package to boost growth",
+        "source": "The Guardian",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-10-24",
+        "id": "7f6fcbdcfae8",
+        "titre": "PLFSS 2027 : à l’Assemblée, le budget de la Sécurité sociale rejeté après une saignée de 12 milliards d’euros",
+        "source": "Capital",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-10-20",
+        "id": "bc5dc2cd9f4f",
+        "titre": "Les députés ont déjà fait dérailler la trajectoire de réduction du déficit de la Sécurité sociale avant même le début des débats dans l’hémicycle sur le budget de la Sécu",
+        "source": "BFM Business",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-10-19",
+        "id": "6825d2c17a9c",
+        "titre": "Retraite, santé : la protection sociale, principal poste de dépenses de l’État",
+        "source": "Le Figaro",
+        "contexte": "Top 5 du jour"
+      }
+    ],
+    "croissance-economique": [
+      {
+        "date": "2026-11-20",
+        "id": "5e9b39d83381",
+        "titre": "En novembre 2026, le climat des affaires dans le commerce de détail et d’automobiles se dégrade de nouveau",
+        "source": "INSEE",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-11-18",
+        "id": "0bc9ad3e079d",
+        "titre": "L’économie française en panne dans une Europe qui tient le choc",
+        "source": "L'Opinion",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-11-17",
+        "id": "3b6b643ddb19",
+        "titre": "Prévisions économiques : la France devrait connaître la plus faible croissance de la zone euro en 2027",
+        "source": "Toute l'Europe",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-11-15",
+        "id": "f9a756ec99e2",
+        "titre": "Le lent déclin économique de la France face au reste de l’Europe",
+        "source": "Le Monde",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-11-12",
+        "id": "6ba2e3320848",
+        "titre": "Moody’s prévoit seulement 0,2 % de croissance en France pour 2026",
+        "source": "La Tribune",
+        "contexte": "Concept du jour"
+      },
+      {
+        "date": "2026-10-19",
+        "id": "beb98fa83f9b",
+        "titre": "Électricité indisponible : Microsoft abandonne un mégaprojet d'IA au Royaume-Uni",
+        "source": "La Tribune",
+        "contexte": "Top 5 du jour"
+      }
+    ],
+    "competitivite-prix-et-hors-prix": [
+      {
+        "date": "2026-11-20",
+        "id": "f042ad99a768",
+        "titre": "C'est l'économie européenne la plus dynamique en 2026: grâce à son champion Novo Nordisk, la croissance du Danemark devrait dépasser 4% cette année (mais les consommateurs et les entreprises en profitent peu)",
+        "source": "BFM Business",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-11-17",
+        "id": "82d2b5b7a69a",
+        "titre": "« Nous voulons des prix sécurisés sur le long terme » : le cri d'alarme du patron de Solvay pour sauver la production de terres rares en Europe",
+        "source": "La Tribune",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-11-08",
+        "id": "468d0b159145",
+        "titre": "Jean Pisani-Ferry : « La Chine manque d’une stratégie macroéconomique de nature à corriger ses déséquilibres persistants »",
+        "source": "Le Monde",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-11-07",
+        "id": "ff4fb338c009",
+        "titre": "OPINION. « Automobile : faire du \"Made in Europe\" un levier de puissance industrielle »",
+        "source": "La Tribune",
+        "contexte": "Concept du jour"
+      },
+      {
+        "date": "2026-11-03",
+        "id": "36f95db9f57b",
+        "titre": "Négociations commerciales : la grande distribution boycotte la réunion de Bercy",
+        "source": "Capital",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-10-25",
+        "id": "d58b6e3c608d",
+        "titre": "Le Japon dépend à 95% des États-Unis pour ses importations militaires mais commence à se tourner vers l'Europe (le français Thales est le premier à poser le pied sur l'archipel)",
+        "source": "BFM Business",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-10-21",
+        "id": "156d6c0b32a1",
+        "titre": "Le 737 MAX 10 certifié, Boeing tourne enfin la page de la crise du MAX",
+        "source": "La Tribune",
+        "contexte": "Top 5 du jour"
+      }
+    ],
+    "inflation-par-la-demande-et-par-les-couts": [
+      {
+        "date": "2026-11-20",
+        "id": "68a23e4f5a8e",
+        "titre": "Encadrement des loyers : la prolongation de deux ans définitivement adoptée",
+        "source": "Capital",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-11-10",
+        "id": "7ff4f93fefb9",
+        "titre": "Le prix de référence du gaz augmentera encore en décembre, de 5,8%",
+        "source": "franceinfo",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-11-03",
+        "id": "6130605ab766",
+        "titre": "Carburants : la baisse du prix du gazole peut-elle durer ?",
+        "source": "franceinfo",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-10-31",
+        "id": "e88b04e610e0",
+        "titre": "Plus de 50 milliards de dollars de bénéfices au troisième trimestre: les géants du pétrole enregistrent des résultats records sur fond de tensions géopolitiques et de flambée des prix des hydrocarbures",
+        "source": "BFM Business",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-10-29",
+        "id": "ddbabbca0389",
+        "titre": "L’Europe entre dans la saison du chauffage avec des prix du gaz au plus haut",
+        "source": "Le Monde",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-10-18",
+        "id": "db61fda82ea6",
+        "titre": "Dans les rayons, la hausse des prix des produits frais risque de se poursuivre",
+        "source": "BFM Business",
+        "contexte": "Top 5 du jour"
+      }
+    ],
+    "independance-de-la-banque-centrale": [
+      {
+        "date": "2026-11-20",
+        "id": "d8feb2cc9d10",
+        "titre": "BCE : après Christine Lagarde, un probable trio pour affronter les tempêtes",
+        "source": "L'Opinion",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-11-10",
+        "id": "d1d0e7a0952b",
+        "titre": "Succession de Christine Lagarde à la tête de la BCE : Paris pourrait soutenir Pablo Hernandez de Cos face à Klaas Knot dans la course à la présidence",
+        "source": "Le Monde",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-11-09",
+        "id": "f34ac07902e7",
+        "titre": "BCE : qui sont les deux candidats en lice pour remplacer Christine Lagarde ?",
+        "source": "La Tribune",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-10-30",
+        "id": "bcc18e705802",
+        "titre": "Christine Lagarde quittera la présidence de la Banque centrale européenne le 7 février 2027",
+        "source": "Toute l'Europe",
+        "contexte": "Top 5 du jour"
+      }
+    ],
     "bulle-speculative": [
       {
         "date": "2026-11-19",
@@ -94,43 +370,6 @@
         "id": "57a7e5606a5b",
         "titre": "Comment des « prêts toxiques » chinois ont alimenté une spirale de surendettement en Zambie",
         "source": "Le Monde",
-        "contexte": "Top 5 du jour"
-      }
-    ],
-    "croissance-economique": [
-      {
-        "date": "2026-11-18",
-        "id": "0bc9ad3e079d",
-        "titre": "L’économie française en panne dans une Europe qui tient le choc",
-        "source": "L'Opinion",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-11-17",
-        "id": "3b6b643ddb19",
-        "titre": "Prévisions économiques : la France devrait connaître la plus faible croissance de la zone euro en 2027",
-        "source": "Toute l'Europe",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-11-15",
-        "id": "f9a756ec99e2",
-        "titre": "Le lent déclin économique de la France face au reste de l’Europe",
-        "source": "Le Monde",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-11-12",
-        "id": "6ba2e3320848",
-        "titre": "Moody’s prévoit seulement 0,2 % de croissance en France pour 2026",
-        "source": "La Tribune",
-        "contexte": "Concept du jour"
-      },
-      {
-        "date": "2026-10-19",
-        "id": "beb98fa83f9b",
-        "titre": "Électricité indisponible : Microsoft abandonne un mégaprojet d'IA au Royaume-Uni",
-        "source": "La Tribune",
         "contexte": "Top 5 du jour"
       }
     ],
@@ -264,106 +503,6 @@
         "contexte": "Top 5 du jour"
       }
     ],
-    "politique-budgetaire": [
-      {
-        "date": "2026-11-18",
-        "id": "be92a4fc3fa5",
-        "titre": "Programme d’Édouard Philippe : travail, retraites, impôts, ce que propose le candidat",
-        "source": "Capital",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-11-16",
-        "id": "8b6799cffb6c",
-        "titre": "Ils représentent 70 milliards d'euros par an: le gouvernement veut toucher aux allègements de cotisations sur le travail, les entreprises craignent d'être mises \"au tapis\"",
-        "source": "BFM Business",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-11-14",
-        "id": "64593d4a19c3",
-        "titre": "Allègements de cotisations : Matignon veut « maîtriser durablement » leur coût",
-        "source": "L'Opinion",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-11-13",
-        "id": "37bc7cb6c1d3",
-        "titre": "Budget 2027 : Sébastien Lecornu veut faire de l’agriculture le terrain du compromis",
-        "source": "Capital",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-11-12",
-        "id": "71683ee034e8",
-        "titre": "Allemagne : le mur de la dette à 200 milliards qui rattrape Friedrich Merz",
-        "source": "L'Opinion",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-11-05",
-        "id": "b48b3728223b",
-        "titre": "L'Assemblée nationale rejette à l'unanimité le budget de l'Etat 2027 en première lecture",
-        "source": "franceinfo",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-11-02",
-        "id": "ebb9141f734e",
-        "titre": "Le budget, pas encore adopté, est-il déjà caduc ? \"Oui\", affirme Philippe Juvin, rapporteur général de la commission des Finances à l'Assemblée nationale",
-        "source": "franceinfo",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-11-01",
-        "id": "e711d3ac219c",
-        "titre": "Livret A : une hausse du plafond à 30 000 euros envisagée pour financer les travaux dans les lycées",
-        "source": "franceinfo",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-10-29",
-        "id": "e6ca90b1ae20",
-        "titre": "\"Plus on fait d’enfants, plus l’État est présent\": Giorgia Meloni dévoile un budget axé sur la natalité et la défense, financé en partie en taxant les banques et les assurances",
-        "source": "BFM Business",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-10-27",
-        "id": "e1f84d25dee5",
-        "titre": "Où en sont les débats sur le PLF et le PLFSS 2027 ? Suivez les étapes de l'examen du budget à l'Assemblée et au Sénat",
-        "source": "franceinfo",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-10-25",
-        "id": "b74c30856b74",
-        "titre": "Healey’s first budget to include big devolution package to boost growth",
-        "source": "The Guardian",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-10-24",
-        "id": "7f6fcbdcfae8",
-        "titre": "PLFSS 2027 : à l’Assemblée, le budget de la Sécurité sociale rejeté après une saignée de 12 milliards d’euros",
-        "source": "Capital",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-10-20",
-        "id": "bc5dc2cd9f4f",
-        "titre": "Les députés ont déjà fait dérailler la trajectoire de réduction du déficit de la Sécurité sociale avant même le début des débats dans l’hémicycle sur le budget de la Sécu",
-        "source": "BFM Business",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-10-19",
-        "id": "6825d2c17a9c",
-        "titre": "Retraite, santé : la protection sociale, principal poste de dépenses de l’État",
-        "source": "Le Figaro",
-        "contexte": "Top 5 du jour"
-      }
-    ],
     "stagnation-seculaire": [
       {
         "date": "2026-11-18",
@@ -409,50 +548,6 @@
         "id": "aefc29f5f987",
         "titre": "Malgré un taux de chômage au plus haut, \"44% des entreprises ont des difficultés de recrutement\", constate le directeur général de France Travail",
         "source": "BFM Business",
-        "contexte": "Top 5 du jour"
-      }
-    ],
-    "competitivite-prix-et-hors-prix": [
-      {
-        "date": "2026-11-17",
-        "id": "82d2b5b7a69a",
-        "titre": "« Nous voulons des prix sécurisés sur le long terme » : le cri d'alarme du patron de Solvay pour sauver la production de terres rares en Europe",
-        "source": "La Tribune",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-11-08",
-        "id": "468d0b159145",
-        "titre": "Jean Pisani-Ferry : « La Chine manque d’une stratégie macroéconomique de nature à corriger ses déséquilibres persistants »",
-        "source": "Le Monde",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-11-07",
-        "id": "ff4fb338c009",
-        "titre": "OPINION. « Automobile : faire du \"Made in Europe\" un levier de puissance industrielle »",
-        "source": "La Tribune",
-        "contexte": "Concept du jour"
-      },
-      {
-        "date": "2026-11-03",
-        "id": "36f95db9f57b",
-        "titre": "Négociations commerciales : la grande distribution boycotte la réunion de Bercy",
-        "source": "Capital",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-10-25",
-        "id": "d58b6e3c608d",
-        "titre": "Le Japon dépend à 95% des États-Unis pour ses importations militaires mais commence à se tourner vers l'Europe (le français Thales est le premier à poser le pied sur l'archipel)",
-        "source": "BFM Business",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-10-21",
-        "id": "156d6c0b32a1",
-        "titre": "Le 737 MAX 10 certifié, Boeing tourne enfin la page de la crise du MAX",
-        "source": "La Tribune",
         "contexte": "Top 5 du jour"
       }
     ],
@@ -921,66 +1016,6 @@
         "id": "c6585b5b1b1d",
         "titre": "Debt of poorest countries at record $9.4tn high, World Bank data shows",
         "source": "The Guardian",
-        "contexte": "Top 5 du jour"
-      }
-    ],
-    "independance-de-la-banque-centrale": [
-      {
-        "date": "2026-11-10",
-        "id": "d1d0e7a0952b",
-        "titre": "Succession de Christine Lagarde à la tête de la BCE : Paris pourrait soutenir Pablo Hernandez de Cos face à Klaas Knot dans la course à la présidence",
-        "source": "Le Monde",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-11-09",
-        "id": "f34ac07902e7",
-        "titre": "BCE : qui sont les deux candidats en lice pour remplacer Christine Lagarde ?",
-        "source": "La Tribune",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-10-30",
-        "id": "bcc18e705802",
-        "titre": "Christine Lagarde quittera la présidence de la Banque centrale européenne le 7 février 2027",
-        "source": "Toute l'Europe",
-        "contexte": "Top 5 du jour"
-      }
-    ],
-    "inflation-par-la-demande-et-par-les-couts": [
-      {
-        "date": "2026-11-10",
-        "id": "7ff4f93fefb9",
-        "titre": "Le prix de référence du gaz augmentera encore en décembre, de 5,8%",
-        "source": "franceinfo",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-11-03",
-        "id": "6130605ab766",
-        "titre": "Carburants : la baisse du prix du gazole peut-elle durer ?",
-        "source": "franceinfo",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-10-31",
-        "id": "e88b04e610e0",
-        "titre": "Plus de 50 milliards de dollars de bénéfices au troisième trimestre: les géants du pétrole enregistrent des résultats records sur fond de tensions géopolitiques et de flambée des prix des hydrocarbures",
-        "source": "BFM Business",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-10-29",
-        "id": "ddbabbca0389",
-        "titre": "L’Europe entre dans la saison du chauffage avec des prix du gaz au plus haut",
-        "source": "Le Monde",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-10-18",
-        "id": "db61fda82ea6",
-        "titre": "Dans les rayons, la hausse des prix des produits frais risque de se poursuivre",
-        "source": "BFM Business",
         "contexte": "Top 5 du jour"
       }
     ],

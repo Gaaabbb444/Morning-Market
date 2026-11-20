@@ -1,6 +1,6 @@
 {
   "version_schema": 1,
-  "mis_a_jour_le": "2026-11-19T18:28:35+01:00",
+  "mis_a_jour_le": "2026-11-20T13:49:44+01:00",
   "fils": [
     {
       "id": "budget-2027",
@@ -11,8 +11,8 @@
       "categories": [
         "desequilibres"
       ],
-      "ou_en_est_on": "Le débat budgétaire reste particulièrement tendu alors que la Commission européenne abaisse sa prévision de croissance française à 0,6 % pour 2027, contraignant le gouvernement à rechercher au moins 12 milliards d'euros d'économies supplémentaires pour espérer tenir son objectif de déficit à 5 %. Parallèlement, le Sénat a adopté le projet de budget de la Sécurité sociale, modifiant plusieurs dispositions relatives aux pensions et aux mesures correctives.",
-      "ou_en_est_on_maj_le": "2026-11-18",
+      "ou_en_est_on": "Le débat budgétaire reste particulièrement tendu alors que la Commission européenne abaisse sa prévision de croissance française, contraignant l'exécutif à rechercher d'importantes économies supplémentaires. Le Sénat entame l'examen du projet de loi de finances pour 2027 pour tenter d'ajuster la copie budgétaire après le rejet du texte par l'Assemblée nationale. Parallèlement, le gouvernement et les parlementaires discutent de mesures d'économies ciblées, incluant une réflexion sur la fiscalité des retraités.",
+      "ou_en_est_on_maj_le": "2026-11-20",
       "evenements": [
         {
           "date": "2026-10-17",
@@ -681,6 +681,22 @@
               "titre": "Budget 2027 : le RN prêt à approuver la suppression de l'abattement pour les retraités",
               "source": "L'Opinion",
               "url": "https://www.lopinion.fr/politique/budget-2027-le-rn-pret-a-approuver-la-suppression-de-labattement-pour-les-retraites"
+            }
+          ]
+        },
+        {
+          "date": "2026-11-20",
+          "resume": "Le Sénat entame l'examen du projet de loi de finances pour 2027 afin de trouver de nouvelles économies, tandis que le ministre Jean-Pierre Farandou se dit favorable à la suppression de l'abattement fiscal des retraités.",
+          "liens": [
+            {
+              "titre": "Budget 2027 : pourquoi le Sénat doit trouver 12 milliards d’euros d'économies supplémentaires",
+              "source": "La Tribune",
+              "url": "https://www.latribune.fr/article/economie/33803303392615/budget-2027-pourquoi-le-senat-doit-encore-trouver-12-milliards-d-euros-deconomies-supplementaires"
+            },
+            {
+              "titre": "\"Avouez que c’est un peu bizarre, c’est une anomalie\": Jean-Pierre Farandou est favorable à la suppression de l'abattement fiscal des retraités, comme le propose le Sénat",
+              "source": "BFM Business",
+              "url": "https://www.bfmtv.com/economie/patrimoine/retraite/avouez-que-c-est-un-peu-bizarre-c-est-une-anomalie-jean-pierre-farandou-est-favorable-a-la-suppression-de-l-abattement-fiscal-des-retraites-comme-le-propose-le-senat_AV-202611200417.html"
             }
           ]
         }
@@ -1795,8 +1811,8 @@
       "categories": [
         "desequilibres"
       ],
-      "ou_en_est_on": "À l'approche du scrutin de 2027, les candidats confrontent leurs propositions économiques sur le pouvoir d'achat, le logement, le travail et la question des services publics. Marine Le Pen a présenté une réforme des retraites fixant l'âge de départ légal entre 60 et 62 ans, tandis que divers secteurs, comme l'aéronautique, interpellent les prétendants à l'Élysée sur la fiscalité et la compétitivité.",
-      "ou_en_est_on_maj_le": "2026-11-17",
+      "ou_en_est_on": "À l'approche du scrutin de 2027, les candidats confrontent leurs propositions économiques sur le pouvoir d'achat, le logement, le travail et la question des services publics, tandis que de nouvelles personnalités officialisent leur candidature. Marine Le Pen a présenté une réforme des retraites fixant l'âge de départ légal entre 60 et 62 ans, et Édouard Philippe a détaillé son projet axé sur la baisse de la dépense publique.",
+      "ou_en_est_on_maj_le": "2026-11-20",
       "evenements": [
         {
           "date": "2026-10-20",
@@ -2088,6 +2104,17 @@
               "titre": "Il ne quitte plus les grands patrons: après son dîner avec Bernard Arnault et Patrick Pouyanné, Jean-Luc Mélenchon rencontre Martin Bouygues pour parler logement",
               "source": "BFM Business",
               "url": "https://www.bfmtv.com/economie/il-ne-quitte-plus-les-grands-patrons-apres-son-diner-avec-bernard-arnault-et-patrick-pouyanne-jean-luc-melenchon-rencontre-martin-bouygues-pour-parler-logement_AV-202611190645.html"
+            }
+          ]
+        },
+        {
+          "date": "2026-11-20",
+          "resume": "Dominique de Villepin a officialisé sa candidature à l'élection présidentielle de 2027, rejoignant la liste des prétendants à l'Élysée.",
+          "liens": [
+            {
+              "titre": "Dominique de Villepin annonce sa candidature à l’élection présidentielle de 2027",
+              "source": "La Tribune",
+              "url": "https://www.latribune.fr/article/la-tribune-dimanche/politique/presidentielle/32060324940216/dominique-de-villepin-annonce-sa-candidature-a-l-election-presidentielle-de-2027"
             }
           ]
         }
