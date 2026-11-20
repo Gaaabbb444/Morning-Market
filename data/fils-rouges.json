@@ -1,6 +1,6 @@
 {
   "version_schema": 1,
-  "mis_a_jour_le": "2026-11-20T13:49:44+01:00",
+  "mis_a_jour_le": "2026-11-20T18:03:49+01:00",
   "fils": [
     {
       "id": "budget-2027",
@@ -4223,6 +4223,17 @@
               "titre": "Le plan retraite de Marine Le Pen ? Deux arnaques et un hold-up !",
               "source": "Alternatives Économiques",
               "url": "https://www.alternatives-economiques.fr/le-plan-retraite-de-marine-le-pen-deux-arnaques-et-un-hold-up_19-11-2026"
+            }
+          ]
+        },
+        {
+          "date": "2026-11-20",
+          "resume": "Le Rassemblement national a présenté son projet de réforme des retraites, qui suscite des critiques pour son impact négatif sur les carrières hachées et notamment sur les femmes.",
+          "liens": [
+            {
+              "titre": "Les ouvriers qualifiés, professions intermédiaires et fonctionnaires, gagnants de la réforme des retraites du RN? Le projet pénaliserait les carrières hachées et notamment les femmes",
+              "source": "BFM Business",
+              "url": "https://www.bfmtv.com/economie/patrimoine/retraite/les-ouvriers-qualifies-professions-intermediaires-et-fonctionnaires-gagnants-de-la-reforme-des-retraites-du-rn-le-projet-sanctionnerait-les-carrieres-hachees-et-notamment-les-femmes_AD-202611200611.html"
             }
           ]
         }

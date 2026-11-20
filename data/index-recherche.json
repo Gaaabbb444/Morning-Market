@@ -1,6 +1,6 @@
 {
   "version_schema": 1,
-  "mis_a_jour_le": "2026-11-20T13:47:31+01:00",
+  "mis_a_jour_le": "2026-11-20T18:01:31+01:00",
   "entrees": [
     {
       "d": "2026-11-20",
@@ -85,6 +85,15 @@
     },
     {
       "d": "2026-11-20",
+      "i": "f65177a1399e",
+      "t": "Présidentielle 2027 : « Les industriels attendent des engagements chiffrés »",
+      "r": "",
+      "c": "croissance",
+      "s": "Les Echos",
+      "f": "presidentielle-2027"
+    },
+    {
+      "d": "2026-11-20",
       "i": "d4ad8ba37bc1",
       "t": "Six ans après le Brexit, le Royaume-Uni a-t-il gagné au change en quittant l'Europe ?",
       "r": "Six ans après le Brexit, les relations économiques et les nouveaux sujets de coopération entre le Royaume-Uni et l'Union européenne font l'objet de discussions à Bruxelles.",
@@ -115,6 +124,15 @@
       "i": "c8606f7a59d7",
       "t": "Le Royaume-Uni affirme qu'un accord de réinitialisation avec l'UE est conclu mais que les discussions se poursuivront « dans certains domaines »",
       "r": "Les négociations entre Londres et Bruxelles se poursuivent autour de conditions complémentaires concernant notamment les frais de scolarité.",
+      "c": "mondialisation",
+      "s": "The Guardian",
+      "f": null
+    },
+    {
+      "d": "2026-11-20",
+      "i": "fcf91da59b74",
+      "t": "« Nouveau Gloucestershire » : un vignoble britannique dévoile sa réponse au beaujolais pour 2026",
+      "r": "Un vignoble du Gloucestershire a dévoilé son millésime 2026 après un été chaud, se positionnant face à la tradition automnale française.",
       "c": "mondialisation",
       "s": "The Guardian",
       "f": null
@@ -157,6 +175,15 @@
     },
     {
       "d": "2026-11-20",
+      "i": "903713a77e32",
+      "t": "Les géants historiques de l'IA perdent 3500 milliards de dollars de capitalisation en six semaines",
+      "r": "Les géants de l'IA ont perdu 3 500 milliards de dollars de capitalisation en six semaines, sous l'effet de scandales et de craintes réglementaires.",
+      "c": "finance",
+      "s": "Le Figaro",
+      "f": null
+    },
+    {
+      "d": "2026-11-20",
       "i": "376d663488f2",
       "t": "\"Avouez que c’est un peu bizarre, c’est une anomalie\": Jean-Pierre Farandou est favorable à la suppression de l'abattement fiscal des retraités, comme le propose le Sénat",
       "r": "Le ministre du Travail et des Solidarités Jean-Pierre Farandou s'est dit favorable à la suppression de l'abattement fiscal des retraités et a critiqué le projet de Marine Le Pen sur les retraites.",
@@ -193,6 +220,15 @@
     },
     {
       "d": "2026-11-20",
+      "i": "baaedf006fdc",
+      "t": "\"Dans quel monde vivent ces magistrats?\": les patrons et des élus chargent la Cour des comptes qui recommande de geler le projet de ligne à grande vitesse Bordeaux-Toulouse",
+      "r": "Le Medef conteste vivement la recommandation de la Cour des comptes de geler le projet de ligne à grande vitesse Bordeaux-Toulouse.",
+      "c": "desequilibres",
+      "s": "BFM Business",
+      "f": null
+    },
+    {
+      "d": "2026-11-20",
       "i": "69f31729ee24",
       "t": "Les institutions européennes, cibles de choix pour les cyberassaillants",
       "r": "Les institutions européennes, et notamment la Commission, font face à des cyberattaques de plus en plus sophistiquées s'appuyant sur l'intelligence artificielle.",
@@ -207,6 +243,33 @@
       "r": "L'Union européenne reporte l'entrée en vigueur de son règlement sur le méthane afin de garantir la sécurité énergétique.",
       "c": "ue",
       "s": "Le Monde",
+      "f": null
+    },
+    {
+      "d": "2026-11-20",
+      "i": "13709e78612f",
+      "t": "Élus locaux et eurodéputés alertent sur le budget et l'architecture de la future politique agricole commune (PAC) après 2027",
+      "r": "La Commission européenne a présenté une proposition de budget pour 2028-2034 intégrant les financements de la politique agricole commune dans un vaste fonds commun.",
+      "c": "ue",
+      "s": "Toute l'Europe",
+      "f": "budget-ue"
+    },
+    {
+      "d": "2026-11-20",
+      "i": "0ae5c0793861",
+      "t": "« Aux Britanniques de décider quelle relation de long terme ils veulent » : dix ans après le Brexit, l'Europe et le Royaume-Uni font un pas l'un vers l'autre",
+      "r": "",
+      "c": "ue",
+      "s": "Les Echos",
+      "f": null
+    },
+    {
+      "d": "2026-11-20",
+      "i": "85e09eb71294",
+      "t": "Communes : à quoi sert concrètement l'Union européenne dans nos villes et villages ?",
+      "r": "L'Union européenne joue un rôle dans les services locaux, mais les électeurs se concentrent surtout sur le logement, la circulation et la sécurité.",
+      "c": "ue",
+      "s": "Toute l'Europe",
       "f": null
     },
     {
@@ -247,6 +310,15 @@
     },
     {
       "d": "2026-11-20",
+      "i": "6855aaaac971",
+      "t": "L’Oréal va investir près de 300 millions d’euros en France d’ici 2029 pour moderniser ses usines et ses laboratoires",
+      "r": "L'Oréal prévoit un investissement de près de 300 millions d'euros en France pour moderniser ses sites et renforcer la R&D, notamment l'IA.",
+      "c": "entreprises",
+      "s": "Le Figaro",
+      "f": null
+    },
+    {
+      "d": "2026-11-20",
       "i": "9bfde484004b",
       "t": "Agios, découverts, paiements fractionnés… Ce qui change pour votre argent à partir du 20 novembre",
       "r": "Une directive européenne renforce les contrôles sur les découverts bancaires, les agios et durcit les règles encadrant les prêts à la consommation.",
@@ -277,6 +349,15 @@
       "i": "b437bf12f7ea",
       "t": "2 500 euros sans loyer ni crédit ou 5 000 euros avec un loyer : le choix de 59% des Français",
       "r": "Selon une enquête d'Immonot, 59% des internautes interrogés privilégient un logement entièrement payé à un salaire deux fois plus élevé.",
+      "c": "epargne",
+      "s": "Capital",
+      "f": null
+    },
+    {
+      "d": "2026-11-20",
+      "i": "24b2ec747608",
+      "t": "ETF de la semaine : MSCI World IMI, intelligence artificielle et actions américaines",
+      "r": "Natixis cote à Paris un ETF actif sur les grandes valeurs américaines, tandis que Morgan Stanley et BlackRock proposent de nouvelles alternatives d'investissement.",
       "c": "epargne",
       "s": "Capital",
       "f": null
