@@ -1,6 +1,6 @@
 {
   "version_schema": 1,
-  "mis_a_jour_le": "2026-11-21T13:28:46+01:00",
+  "mis_a_jour_le": "2026-11-21T17:14:01+01:00",
   "fils": [
     {
       "id": "budget-2027",
@@ -2491,8 +2491,8 @@
         "desequilibres",
         "entreprises"
       ],
-      "ou_en_est_on": "La croissance française se maintient parmi les plus faibles d'Europe, la Commission européenne prévoyant 0,4 % en 2026 et 0,6 % en 2027, un constat partagé par Goldman Sachs qui anticipe une croissance quasi nulle. Les intentions d'embauche des cadres atteignent un niveau historiquement bas et une journée de grève nationale perturbe les transports ainsi que la fonction publique, sur fond d'inquiétudes des entreprises face aux prélèvements.",
-      "ou_en_est_on_maj_le": "2026-11-17",
+      "ou_en_est_on": "La croissance française reste très faible, la Commission européenne prévoyant 0,4 % en 2026 et 0,6 % en 2027. Les tensions sociales se manifestent notamment lors d'une journée de protestation à Paris, où la mobilisation a diminué dans l'après-midi. Le secteur médico-social continue de créer des emplois, masquant les difficultés de l'économie sociale et solidaire. Les violences urbaines ont conduit à l'ouverture d'un guichet d'aide financière pouvant atteindre 10 000 euros pour les commerces affectés.",
+      "ou_en_est_on_maj_le": "2026-11-21",
       "evenements": [
         {
           "date": "2026-10-17",
@@ -3381,6 +3381,17 @@
               "url": "https://www.latribune.fr/article/defense-aerospatiale/aeronautique-defense/10800253133527/aeronautique-moins-de-200-millions-deuros-a-rembourser-les-finances-de-la-supply-chain-rebondissent-en-france"
             }
           ]
+        },
+        {
+          "date": "2026-11-21",
+          "resume": "Une nouvelle journée de mobilisation sociale s'est déroulée dans le calme à Paris, avec une participation en baisse dans l'après-midi.",
+          "liens": [
+            {
+              "titre": "Manifestations du 21 novembre : le nombre de personnes mobilisées en baisse dans l’après-midi, le cortège parisien est arrivé place de la Nation",
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/societe/article/2026/11/21/manifestations-du-21-novembre-le-nombre-de-personnes-mobilisees-en-baisse-dans-l-apres-midi-le-cortege-parisien-est-arrive-place-de-la-nation_6813913_3225.html"
+            }
+          ]
         }
       ]
     },
@@ -3395,7 +3406,7 @@
         "entreprises",
         "ue"
       ],
-      "ou_en_est_on": "L'actualité du secteur est marquée par l'entrée en Bourse historique d'Anthropic pour une valorisation record, constituant un test grandeur nature pour Wall Street avant une correction des marchés face aux doutes sur la rentabilité. Parallèlement, des questions persistent concernant le niveau d'endettement des sociétés, le modèle économique des modèles d'intelligence artificielle et l'impact de nouvelles réglementations américaines sur les capacités de calcul.",
+      "ou_en_est_on": "L'entrée en bourse d'Anthropic a marqué le secteur de l'IA, tandis que Wall Street a chuté en raison d'inquiétudes sur le modèle économique des data centers. Un nouveau risque apparaît avec le modèle de CoreWeave, qui montre une forte dépendance à la dette pour financer les centres de données IA. Ces tensions financières soulignent les défis de rentabilité et de financement du secteur. Les régulations américaines et européennes restent à surveiller pour leur impact sur la souveraineté technologique.",
       "ou_en_est_on_maj_le": "2026-11-21",
       "evenements": [
         {
@@ -4121,12 +4132,17 @@
         },
         {
           "date": "2026-11-21",
-          "resume": "Wall Street a chuté en raison d'inquiétudes sur le modèle économique de l'intelligence artificielle, l'avenir des data centers et les difficultés du fabricant Nvidia.",
+          "resume": "Le modèle économique des centres de données pour l'intelligence artificielle, illustré par CoreWeave, repose sur des investissements lourds et une forte exposition à la dette.",
           "liens": [
             {
               "titre": "Aux Etats-Unis, Wall Street en déroute après la dégringolade des sociétés liées à l’IA",
               "source": "Le Monde",
               "url": "https://www.lemonde.fr/economie/article/2026/11/21/aux-etats-unis-wall-street-en-deroute-apres-la-degringolade-des-societes-liees-a-l-intelligence-artificielle_6813811_3234.html"
+            },
+            {
+              "titre": "‘Little room for error’: what a debt-laden cloud computing company says about the AI boom",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/business/2026/nov/21/debt-laden-cloud-computing-company-coreweave-ai-boom"
             }
           ]
         }

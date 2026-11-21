@@ -1,8 +1,8 @@
 {
   "version_schema": 1,
   "date": "2026-11-21",
-  "genere_le": "2026-11-21T13:27:52+01:00",
-  "mode_ia": "partiel",
+  "genere_le": "2026-11-21T17:12:43+01:00",
+  "mode_ia": "ia",
   "passages": [
     {
       "heure": "2026-11-21T13:27:52+01:00",
@@ -10,6 +10,14 @@
       "mode_ia": "partiel",
       "articles_collectes": 271,
       "nouvelles_infos": 134,
+      "top5_modifie": false
+    },
+    {
+      "heure": "2026-11-21T17:12:43+01:00",
+      "type": "fin-de-matinee",
+      "mode_ia": "ia",
+      "articles_collectes": 219,
+      "nouvelles_infos": 20,
       "top5_modifie": false
     }
   ],
@@ -193,6 +201,21 @@
         "documente": false,
         "importance": 6,
         "fil_rouge": "intelligence-artificielle"
+      },
+      {
+        "id": "75223984811d",
+        "titre": "Pourquoi la France est-elle trop lente à construire des logements ?",
+        "titre_fr": null,
+        "source": "franceinfo",
+        "url": "https://www.franceinfo.fr/vrai-ou-fake/pourquoi-la-france-est-elle-trop-lente-a-construire-des-logements_8293841.html#xtor=RSS-3-%5Beconomie%5D",
+        "publie_le": "2026-11-21T16:53:31+01:00",
+        "categorie": "croissance",
+        "nb_sources": 1,
+        "autres_sources": [],
+        "resume": "Les promoteurs immobiliers attribuent la faiblesse de la construction de logements en France à un excès de bureaucratie et de normes réglementaires.",
+        "documente": true,
+        "importance": 5,
+        "fil_rouge": "conjoncture-france"
       }
     ],
     "mondialisation": [
@@ -255,6 +278,21 @@
         "documente": true,
         "importance": 7,
         "fil_rouge": "intelligence-artificielle"
+      },
+      {
+        "id": "1e9896097c5f",
+        "titre": "L'Union européenne et l'Indonésie renforcent leur lien commercial",
+        "titre_fr": null,
+        "source": "La Tribune",
+        "url": "https://www.latribune.fr/article/economie/20981268770617/lunion-europeenne-et-lindonesie-renforcent-leur-lien-commercial",
+        "publie_le": "2026-11-21T16:58:47+01:00",
+        "categorie": "mondialisation",
+        "nb_sources": 1,
+        "autres_sources": [],
+        "resume": "L'Union européenne et l'Indonésie ont signé un accord commercial à Bruxelles pour ouvrir leurs marchés respectifs, avec une entrée en vigueur prévue début 2027.",
+        "documente": true,
+        "importance": 6,
+        "fil_rouge": null
       }
     ],
     "finance": [
@@ -316,6 +354,21 @@
         "resume": "L'introduction en Bourse et la correction du titre de la société Anthropic illustrent les promesses et les doutes entourant le modèle économique de l'intelligence artificielle.",
         "documente": true,
         "importance": 6,
+        "fil_rouge": "intelligence-artificielle"
+      },
+      {
+        "id": "8e797836f2dc",
+        "titre": "‘Little room for error’: what a debt-laden cloud computing company says about the AI boom",
+        "titre_fr": "« Marge d'erreur minime » : ce qu'une entreprise de cloud computing endettée révèle sur le boom de l'intelligence artificielle",
+        "source": "The Guardian",
+        "url": "https://www.theguardian.com/business/2026/nov/21/debt-laden-cloud-computing-company-coreweave-ai-boom",
+        "publie_le": "2026-11-21T14:00:01+01:00",
+        "categorie": "finance",
+        "nb_sources": 1,
+        "autres_sources": [],
+        "resume": "Le modèle économique des centres de données pour l'intelligence artificielle, illustré par CoreWeave, repose sur des investissements lourds et une forte exposition à la dette.",
+        "documente": true,
+        "importance": 7,
         "fil_rouge": "intelligence-artificielle"
       }
     ],
@@ -391,6 +444,21 @@
         "documente": true,
         "importance": 6,
         "fil_rouge": "conjoncture-france"
+      },
+      {
+        "id": "9770e62c99ff",
+        "titre": "Cet ancien journaliste de Radio France a hérité d'une des missions les plus compliquées d'Europe: sauver les finances du pays qui affiche le plus gros déficit de l'UE à près de 8% du PIB",
+        "titre_fr": null,
+        "source": "BFM Business",
+        "url": "https://www.bfmtv.com/economie/economie-social/union-europeenne/cet-ancien-journaliste-de-radio-france-a-herite-d-une-des-missions-les-plus-compliquees-d-europe-sauver-les-finances-du-pays-qui-affiche-le-plus-gros-deficit-de-l-ue-a-pres-de-8-du-pib_AV-202611210329.html",
+        "publie_le": "2026-11-21T14:25:51+01:00",
+        "categorie": "desequilibres",
+        "nb_sources": 1,
+        "autres_sources": [],
+        "resume": "Luca Niculescu a été nommé Premier ministre de Roumanie, pays affichant le plus grand déficit de l'Union européenne, proche de 8% du PIB.",
+        "documente": true,
+        "importance": 7,
+        "fil_rouge": null
       }
     ],
     "ue": [
@@ -531,6 +599,21 @@
         "documente": true,
         "importance": 6,
         "fil_rouge": null
+      },
+      {
+        "id": "88d36076e8f4",
+        "titre": "OPINION. « Assurance : la dette technique se paie désormais cash »",
+        "titre_fr": null,
+        "source": "La Tribune",
+        "url": "https://www.latribune.fr/article/idees/2401725407419114/opinion-assurance-la-dette-technique-se-paie-desormais-cash",
+        "publie_le": "2026-11-21T14:33:01+01:00",
+        "categorie": "entreprises",
+        "nb_sources": 1,
+        "autres_sources": [],
+        "resume": "Les assureurs doivent faire face à la dette technique, devenue un enjeu stratégique majeur au-delà du seul cadre informatique.",
+        "documente": true,
+        "importance": 5,
+        "fil_rouge": null
       }
     ],
     "epargne": [
@@ -593,6 +676,21 @@
         "documente": true,
         "importance": 4,
         "fil_rouge": "fiscalite-epargne-patrimoine"
+      },
+      {
+        "id": "fad4e0f60c5d",
+        "titre": "Taux d’usure : ces dossiers de crédit immobilier qui frôlent le plafond",
+        "titre_fr": null,
+        "source": "Capital",
+        "url": "https://www.capital.fr/immobilier/taux-dusure-ces-dossiers-de-credit-immobilier-qui-frolent-le-plafond-1532039",
+        "publie_le": "2026-11-21T16:00:00+01:00",
+        "categorie": "epargne",
+        "nb_sources": 1,
+        "autres_sources": [],
+        "resume": "La remontée des taux de crédit immobilier, proches de 4% sur les durées longues, ravive la problématique du taux d'usure pour certains emprunteurs.",
+        "documente": true,
+        "importance": 6,
+        "fil_rouge": null
       }
     ]
   },
@@ -612,11 +710,14 @@
   },
   "citation_economiste_id": null,
   "ids_traites": [
+    "00ca2ea992d7",
     "01e6abe63cee",
     "020a5e7dab74",
     "024b33d9a226",
+    "024ea3e3ecfe",
     "04a6904a5887",
     "05145f49dfce",
+    "096f3981edeb",
     "0a52e49c7aba",
     "0ae5c0793861",
     "0bf43f4fcdbd",
@@ -642,6 +743,7 @@
     "1d796e9f4618",
     "1ddf650fa975",
     "1e807bc6452b",
+    "1e9896097c5f",
     "1ee8e00a0815",
     "2035a5ed9a18",
     "238f17324e39",
@@ -680,6 +782,7 @@
     "3fc5d6635097",
     "41a333d608be",
     "427b8088e153",
+    "43492785d247",
     "44eb0f91212e",
     "455c92f83d62",
     "46f95d79347d",
@@ -690,6 +793,7 @@
     "4d77d19a514f",
     "4d787d2eb67f",
     "4e1d43855f98",
+    "4e73940bc6db",
     "4f6023ff12d7",
     "4fe75681c059",
     "5076576918c0",
@@ -709,16 +813,19 @@
     "5af676427cfd",
     "5b5e77b6ee8e",
     "5b8ee440c401",
+    "5ca08722fc45",
     "5e9b39d83381",
     "5eaea9ff2c81",
     "5ebf853562b4",
     "5f31f3cebb72",
     "5f9e6b5ffe18",
     "619a6a5c2b00",
+    "62126f15378b",
     "6285356ac07a",
     "6360c1cfd15d",
     "6362ba575127",
     "63edacd4bbe5",
+    "64f1acbdec80",
     "652be52186b3",
     "65ccb3e9bc94",
     "666ead922d82",
@@ -728,6 +835,7 @@
     "6de1ffc4bb0d",
     "71cf120e2f6e",
     "740e3d44a1f4",
+    "75223984811d",
     "767c2779862d",
     "791e5d9e93ad",
     "7940d7245935",
@@ -735,6 +843,7 @@
     "7abcb9e67aa8",
     "7c8524948cf5",
     "7ccd8f5fc92d",
+    "7dae26eea440",
     "7e3b75f098fb",
     "7f16c526e747",
     "7f340cfffd78",
@@ -743,6 +852,7 @@
     "80ac659d6f41",
     "80e01dc1e336",
     "819d3babef6f",
+    "82b339cdf0a8",
     "8317488b354a",
     "833bcfbf97b6",
     "834fc76dd527",
@@ -754,6 +864,8 @@
     "85e09eb71294",
     "86d96001aafc",
     "8718b1e5848a",
+    "88c805c0cd80",
+    "88d36076e8f4",
     "897be7698f1d",
     "8a14584317a3",
     "8b7fc0156385",
@@ -764,6 +876,7 @@
     "8d712a22a6f0",
     "8e3ceec613f9",
     "8e3d04f61529",
+    "8e797836f2dc",
     "9013d855baa2",
     "902e12fbd307",
     "903713a77e32",
@@ -777,6 +890,7 @@
     "9662abec37e4",
     "96a7f9767d2d",
     "9703f79f5f78",
+    "9770e62c99ff",
     "9864dad3b78a",
     "98bc7692f0a1",
     "995c968ac1ce",
@@ -821,6 +935,7 @@
     "bfbb3329b2f4",
     "c010c6fd658d",
     "c2fa783f43bb",
+    "c387456b748d",
     "c3c7c8d0f052",
     "c4ca046c6a0f",
     "c5606a8f91a0",
@@ -844,6 +959,7 @@
     "d544944123e0",
     "d571ef983979",
     "d6576c2d9652",
+    "d8f18419cf43",
     "d8feb2cc9d10",
     "dac64b4dc60d",
     "daca1b98d745",
@@ -863,6 +979,9 @@
     "e4ae2b37811f",
     "e59ebff73cb2",
     "e64862e6fc6c",
+    "e8478c6bc3fd",
+    "e91b0439cd34",
+    "e9401ec9825b",
     "e94cf0629e2e",
     "e98fbe9c2820",
     "ef44d394f3d9",
@@ -877,11 +996,13 @@
     "f64d2ed4e89b",
     "f65177a1399e",
     "f6ee0cdf7fc2",
+    "fad4e0f60c5d",
     "fbff333e86db",
     "fca2b650ec58",
     "fcf91da59b74",
     "fd2811614640",
     "fdc5297a2c67",
-    "fe6ef9bacb31"
+    "fe6ef9bacb31",
+    "ff3a294586b3"
   ]
 }

@@ -1,6 +1,6 @@
 {
   "version_schema": 1,
-  "mis_a_jour_le": "2026-11-21T13:27:52+01:00",
+  "mis_a_jour_le": "2026-11-21T17:12:43+01:00",
   "entrees": [
     {
       "d": "2026-11-21",
@@ -85,6 +85,15 @@
     },
     {
       "d": "2026-11-21",
+      "i": "75223984811d",
+      "t": "Pourquoi la France est-elle trop lente à construire des logements ?",
+      "r": "Les promoteurs immobiliers attribuent la faiblesse de la construction de logements en France à un excès de bureaucratie et de normes réglementaires.",
+      "c": "croissance",
+      "s": "franceinfo",
+      "f": "conjoncture-france"
+    },
+    {
+      "d": "2026-11-21",
       "i": "8e3ceec613f9",
       "t": "Trump menace de « pénalités terribles » les entreprises technologiques américaines qui construisent des centres de données à l'étranger",
       "r": "Donald Trump a menacé d'imposer de lourdes pénalités aux entreprises technologiques américaines construisant des centres de données hors des États-Unis.",
@@ -118,6 +127,15 @@
       "c": "mondialisation",
       "s": "L'Opinion",
       "f": "intelligence-artificielle"
+    },
+    {
+      "d": "2026-11-21",
+      "i": "1e9896097c5f",
+      "t": "L'Union européenne et l'Indonésie renforcent leur lien commercial",
+      "r": "L'Union européenne et l'Indonésie ont signé un accord commercial à Bruxelles pour ouvrir leurs marchés respectifs, avec une entrée en vigueur prévue début 2027.",
+      "c": "mondialisation",
+      "s": "La Tribune",
+      "f": null
     },
     {
       "d": "2026-11-21",
@@ -157,6 +175,15 @@
     },
     {
       "d": "2026-11-21",
+      "i": "8e797836f2dc",
+      "t": "« Marge d'erreur minime » : ce qu'une entreprise de cloud computing endettée révèle sur le boom de l'intelligence artificielle",
+      "r": "Le modèle économique des centres de données pour l'intelligence artificielle, illustré par CoreWeave, repose sur des investissements lourds et une forte exposition à la dette.",
+      "c": "finance",
+      "s": "The Guardian",
+      "f": "intelligence-artificielle"
+    },
+    {
+      "d": "2026-11-21",
       "i": "80ac659d6f41",
       "t": "« L’explosion de l’extrême richesse constitue le fait social majeur de notre temps » : le manifeste de plus de 110 intellectuels contre l’oligarchie",
       "r": "Plus de 110 intellectuels, dont quatre prix Nobel, appellent dans une tribune à contrer l'explosion de l'extrême richesse et du pouvoir des milliardaires.",
@@ -190,6 +217,15 @@
       "c": "desequilibres",
       "s": "franceinfo",
       "f": "conjoncture-france"
+    },
+    {
+      "d": "2026-11-21",
+      "i": "9770e62c99ff",
+      "t": "Cet ancien journaliste de Radio France a hérité d'une des missions les plus compliquées d'Europe: sauver les finances du pays qui affiche le plus gros déficit de l'UE à près de 8% du PIB",
+      "r": "Luca Niculescu a été nommé Premier ministre de Roumanie, pays affichant le plus grand déficit de l'Union européenne, proche de 8% du PIB.",
+      "c": "desequilibres",
+      "s": "BFM Business",
+      "f": null
     },
     {
       "d": "2026-11-21",
@@ -265,6 +301,15 @@
     },
     {
       "d": "2026-11-21",
+      "i": "88d36076e8f4",
+      "t": "OPINION. « Assurance : la dette technique se paie désormais cash »",
+      "r": "Les assureurs doivent faire face à la dette technique, devenue un enjeu stratégique majeur au-delà du seul cadre informatique.",
+      "c": "entreprises",
+      "s": "La Tribune",
+      "f": null
+    },
+    {
+      "d": "2026-11-21",
       "i": "01e6abe63cee",
       "t": "Capitalisation : votre retraite placée en bourse ?",
       "r": "La question des retraites par capitalisation et du placement des pensions en bourse revient au cœur des débats parmi les candidats à la présidentielle.",
@@ -298,6 +343,15 @@
       "c": "epargne",
       "s": "Le Monde",
       "f": "fiscalite-epargne-patrimoine"
+    },
+    {
+      "d": "2026-11-21",
+      "i": "fad4e0f60c5d",
+      "t": "Taux d’usure : ces dossiers de crédit immobilier qui frôlent le plafond",
+      "r": "La remontée des taux de crédit immobilier, proches de 4% sur les durées longues, ravive la problématique du taux d'usure pour certains emprunteurs.",
+      "c": "epargne",
+      "s": "Capital",
+      "f": null
     },
     {
       "d": "2026-11-20",
