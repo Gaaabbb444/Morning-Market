@@ -1,6 +1,6 @@
 {
   "version_schema": 1,
-  "mis_a_jour_le": "2026-11-20T18:03:49+01:00",
+  "mis_a_jour_le": "2026-11-21T13:28:46+01:00",
   "fils": [
     {
       "id": "budget-2027",
@@ -11,8 +11,8 @@
       "categories": [
         "desequilibres"
       ],
-      "ou_en_est_on": "Le débat budgétaire reste particulièrement tendu alors que la Commission européenne abaisse sa prévision de croissance française, contraignant l'exécutif à rechercher d'importantes économies supplémentaires. Le Sénat entame l'examen du projet de loi de finances pour 2027 pour tenter d'ajuster la copie budgétaire après le rejet du texte par l'Assemblée nationale. Parallèlement, le gouvernement et les parlementaires discutent de mesures d'économies ciblées, incluant une réflexion sur la fiscalité des retraités.",
-      "ou_en_est_on_maj_le": "2026-11-20",
+      "ou_en_est_on": "Le débat budgétaire reste particulièrement tendu alors que la Commission européenne abaisse sa prévision de croissance française, contraignant l'exécutif à rechercher d'importantes économies supplémentaires, estimées à plus de 6 milliards d'euros. Le Sénat poursuit l'examen du projet de loi de finances pour 2027 pour tenter d'ajuster la copie budgétaire après le rejet du texte par l'Assemblée nationale. Parallèlement, le gouvernement et les parlementaires discutent de mesures d'économies ciblées, incluant une réflexion sur la fiscalité des retraités.",
+      "ou_en_est_on_maj_le": "2026-11-21",
       "evenements": [
         {
           "date": "2026-10-17",
@@ -697,6 +697,17 @@
               "titre": "\"Avouez que c’est un peu bizarre, c’est une anomalie\": Jean-Pierre Farandou est favorable à la suppression de l'abattement fiscal des retraités, comme le propose le Sénat",
               "source": "BFM Business",
               "url": "https://www.bfmtv.com/economie/patrimoine/retraite/avouez-que-c-est-un-peu-bizarre-c-est-une-anomalie-jean-pierre-farandou-est-favorable-a-la-suppression-de-l-abattement-fiscal-des-retraites-comme-le-propose-le-senat_AV-202611200417.html"
+            }
+          ]
+        },
+        {
+          "date": "2026-11-21",
+          "resume": "Le gouvernement doit trouver d'urgence plus de 6 milliards d'euros d'économies supplémentaires pour maintenir l'objectif de déficit en raison d'une croissance faible et de mesures sur le pouvoir d'achat.",
+          "liens": [
+            {
+              "titre": "Pourquoi le gouvernement doit trouver d’urgence plus de 6 milliards d’euros d’économies supplémentaires",
+              "source": "Le Figaro",
+              "url": "https://www.lefigaro.fr/conjoncture/pourquoi-le-gouvernement-doit-trouver-d-urgence-plus-de-6-milliards-d-euros-d-economies-supplementaires-20261120"
             }
           ]
         }
@@ -2243,8 +2254,8 @@
       "categories": [
         "ue"
       ],
-      "ou_en_est_on": "Le financement des engagements européens fait l'objet de nouvelles discussions budgétaires. Le Premier ministre estonien Kristen Michal a souligné qu'un emprunt commun des Vingt-Sept serait probablement nécessaire pour assurer le soutien financier à l'Ukraine en 2027. Ce type de mécanisme ravive le débat au sein de l'UE sur le recours à de la dette mutualisée face aux dépenses géopolitiques et de sécurité.",
-      "ou_en_est_on_maj_le": "2026-10-19",
+      "ou_en_est_on": "Le financement des engagements européens fait l'objet de nouvelles discussions budgétaires avec la présentation par Antonio Costa d'un projet de budget de l'UE pour la période 2028-2034 réduit de 204 milliards d'euros, jugé insuffisant par l'Élysée. Le Premier ministre estonien Kristen Michal a par ailleurs souligné qu'un emprunt commun des Vingt-Sept serait probablement nécessaire pour assurer le soutien financier à l'Ukraine en 2027.",
+      "ou_en_est_on_maj_le": "2026-11-21",
       "evenements": [
         {
           "date": "2026-10-19",
@@ -2265,6 +2276,17 @@
               "titre": "Ukraine : la Commission européenne propose un nouveau prêt de 45 milliards d'euros, dans un contexte budgétaire tendu",
               "source": "Toute l'Europe",
               "url": "https://www.touteleurope.eu/l-ue-dans-le-monde/ukraine-la-commission-europeenne-propose-un-nouveau-pret-de-45-milliards-d-euros-dans-un-contexte-budgetaire-tendu/"
+            }
+          ]
+        },
+        {
+          "date": "2026-11-21",
+          "resume": "Le président du Conseil européen a présenté un projet de budget pour 2028-2034 réduit de 204 milliards d'euros, une proposition rejetée par l'Élysée.",
+          "liens": [
+            {
+              "titre": "L'UE propose un budget réduit de 204 milliards d'euros pour la période 2028-2034: \"le compte n'y est pas\", en particulier pour les agriculteurs, selon l'Élysée",
+              "source": "BFM Business",
+              "url": "https://www.bfmtv.com/economie/economie-social/union-europeenne/l-ue-propose-un-budget-reduit-de-204-milliards-d-euros-pour-la-periode-2028-2034-le-compte-n-y-est-pas-en-particulier-pour-les-agriculteurs-selon-l-elysee_AD-202611210299.html"
             }
           ]
         }
@@ -3373,8 +3395,8 @@
         "entreprises",
         "ue"
       ],
-      "ou_en_est_on": "L'actualité du secteur est marquée par l'entrée en Bourse historique d'Anthropic pour une valorisation de 1 500 milliards de dollars, constituant un test grandeur nature pour Wall Street. Parallèlement, des questions persistent concernant le niveau d'endettement des sociétés, la rentabilité des modèles économiques et l'augmentation des émissions de carbone liées aux centres de données. Des outils d'intelligence artificielle continuent par ailleurs d'être testés avec succès dans l'audit financier ou la cybersécurité.",
-      "ou_en_est_on_maj_le": "2026-11-19",
+      "ou_en_est_on": "L'actualité du secteur est marquée par l'entrée en Bourse historique d'Anthropic pour une valorisation record, constituant un test grandeur nature pour Wall Street avant une correction des marchés face aux doutes sur la rentabilité. Parallèlement, des questions persistent concernant le niveau d'endettement des sociétés, le modèle économique des modèles d'intelligence artificielle et l'impact de nouvelles réglementations américaines sur les capacités de calcul.",
+      "ou_en_est_on_maj_le": "2026-11-21",
       "evenements": [
         {
           "date": "2026-10-17",
@@ -4094,6 +4116,17 @@
               "titre": "Trouvée en une heure grâce à l’IA, une faille critique dans le langage informatique Java met les États en alerte",
               "source": "Le Figaro",
               "url": "https://www.lefigaro.fr/secteur/high-tech/trouvee-en-une-heure-grace-a-l-ia-une-faille-critique-dans-le-langage-informatique-java-met-les-etats-en-alerte-20261119"
+            }
+          ]
+        },
+        {
+          "date": "2026-11-21",
+          "resume": "Wall Street a chuté en raison d'inquiétudes sur le modèle économique de l'intelligence artificielle, l'avenir des data centers et les difficultés du fabricant Nvidia.",
+          "liens": [
+            {
+              "titre": "Aux Etats-Unis, Wall Street en déroute après la dégringolade des sociétés liées à l’IA",
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/economie/article/2026/11/21/aux-etats-unis-wall-street-en-deroute-apres-la-degringolade-des-societes-liees-a-l-intelligence-artificielle_6813811_3234.html"
             }
           ]
         }

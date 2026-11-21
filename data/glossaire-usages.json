@@ -1,6 +1,43 @@
 {
   "version_schema": 1,
   "notions": {
+    "indice-boursier": [
+      {
+        "date": "2026-11-21",
+        "id": "9703f79f5f78",
+        "titre": "Aux Etats-Unis, Wall Street en déroute après la dégringolade des sociétés liées à l’IA",
+        "source": "Le Monde",
+        "contexte": "Concept du jour"
+      },
+      {
+        "date": "2026-11-07",
+        "id": "cd3e75a722bb",
+        "titre": "Global stocks fall amid ‘big worries over AI’ after Democrats’ midterms triumph",
+        "source": "The Guardian",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-11-06",
+        "id": "dcb771ac6630",
+        "titre": "Nasdaq sees worst day in 18 months as investors bet on AI slowdown after Democrats’ election triumph",
+        "source": "The Guardian",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-11-05",
+        "id": "9dbb0c54a36e",
+        "titre": "Midterms 2026 : Wall Street salue la vague démocrate au Congrès et ses promesses de certitudes et de statu quo",
+        "source": "Le Monde",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-10-26",
+        "id": "c3a9567da3a3",
+        "titre": "Violences urbaines, flambée des taux d’intérêt… Le décrochage du CAC 40, un reflet des désordres français",
+        "source": "Le Figaro",
+        "contexte": "Top 5 du jour"
+      }
+    ],
     "politique-budgetaire": [
       {
         "date": "2026-11-20",
@@ -1062,36 +1099,6 @@
         "id": "b405a941f93c",
         "titre": "\"On va évidemment en discuter\": une hausse du Smic avant le 1er janvier \"fait partie des débats\", selon Roland Lescure",
         "source": "BFM Business",
-        "contexte": "Top 5 du jour"
-      }
-    ],
-    "indice-boursier": [
-      {
-        "date": "2026-11-07",
-        "id": "cd3e75a722bb",
-        "titre": "Global stocks fall amid ‘big worries over AI’ after Democrats’ midterms triumph",
-        "source": "The Guardian",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-11-06",
-        "id": "dcb771ac6630",
-        "titre": "Nasdaq sees worst day in 18 months as investors bet on AI slowdown after Democrats’ election triumph",
-        "source": "The Guardian",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-11-05",
-        "id": "9dbb0c54a36e",
-        "titre": "Midterms 2026 : Wall Street salue la vague démocrate au Congrès et ses promesses de certitudes et de statu quo",
-        "source": "Le Monde",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-10-26",
-        "id": "c3a9567da3a3",
-        "titre": "Violences urbaines, flambée des taux d’intérêt… Le décrochage du CAC 40, un reflet des désordres français",
-        "source": "Le Figaro",
         "contexte": "Top 5 du jour"
       }
     ],

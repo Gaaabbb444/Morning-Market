@@ -1,7 +1,304 @@
 {
   "version_schema": 1,
-  "mis_a_jour_le": "2026-11-20T18:01:31+01:00",
+  "mis_a_jour_le": "2026-11-21T13:27:52+01:00",
   "entrees": [
+    {
+      "d": "2026-11-21",
+      "i": "85434c63fb03",
+      "t": "L'UE propose un budget réduit de 204 milliards d'euros pour la période 2028-2034: \"le compte n'y est pas\", en particulier pour les agriculteurs, selon l'Élysée",
+      "r": "Le président du Conseil européen a présenté un projet de budget pour 2028-2034 réduit de 204 milliards d'euros, une proposition rejetée par l'Élysée.",
+      "c": "ue",
+      "s": "BFM Business",
+      "f": "budget-ue"
+    },
+    {
+      "d": "2026-11-21",
+      "i": "740e3d44a1f4",
+      "t": "Pourquoi le gouvernement doit trouver d’urgence plus de 6 milliards d’euros d’économies supplémentaires",
+      "r": "Le gouvernement doit trouver d'urgence plus de 6 milliards d'euros d'économies pour maintenir l'objectif de déficit en raison d'une croissance faible et de mesures sur le pouvoir d'achat.",
+      "c": "desequilibres",
+      "s": "Le Figaro",
+      "f": "budget-2027"
+    },
+    {
+      "d": "2026-11-21",
+      "i": "9703f79f5f78",
+      "t": "Aux Etats-Unis, Wall Street en déroute après la dégringolade des sociétés liées à l’IA",
+      "r": "Wall Street a chuté en raison d'inquiétudes sur le modèle économique de l'intelligence artificielle, l'avenir des data centers et les difficultés du fabricant Nvidia.",
+      "c": "finance",
+      "s": "Le Monde",
+      "f": "intelligence-artificielle"
+    },
+    {
+      "d": "2026-11-21",
+      "i": "e4ae2b37811f",
+      "t": "L'entreprise créatrice de Claude, Anthropic, vaut-elle vraiment 1 300 milliards de dollars ? - Les dernières actualités",
+      "r": "L'entreprise d'intelligence artificielle Anthropic a réalisé des débuts boursiers historiques, atteignant une valorisation maximale de 1 300 milliards de dollars lors de sa première séance.",
+      "c": "finance",
+      "s": "The Guardian",
+      "f": null
+    },
+    {
+      "d": "2026-11-21",
+      "i": "834fc76dd527",
+      "t": "La Bourse de Wall Street enregistre des centaines de milliards de dollars de pertes, pénalisée par le secteur de l'IA",
+      "r": "Wall Street a enregistré d'importantes pertes, l'indice Nasdaq reculant de 5,28 % en raison de la baisse des valeurs technologiques liées à l'intelligence artificielle.",
+      "c": "finance",
+      "s": "franceinfo",
+      "f": null
+    },
+    {
+      "d": "2026-11-21",
+      "i": "398adce4c4a5",
+      "t": "La Chine s'engage en faveur de l'électrification bas carbone et de l'aide aux autres pays pour progresser",
+      "r": "La Chine promeut l'électrification rapide de son économie via l'énergie bas carbone et s'engage à aider d'autres pays dans cette démarche.",
+      "c": "croissance",
+      "s": "The Guardian",
+      "f": null
+    },
+    {
+      "d": "2026-11-21",
+      "i": "3ba5d7fc67a7",
+      "t": "L'Argentine soutient un nouveau mégaprojet de gaz naturel liquéfié, d'un investissement total de 50 milliards de dollars d'ici à 2050",
+      "r": "L'Argentine soutient le projet de gaz naturel liquéfié Argentina LNG, bénéficiant d'un régime d'avantages mis en place par le gouvernement de Javier Milei.",
+      "c": "croissance",
+      "s": "BFM Business",
+      "f": null
+    },
+    {
+      "d": "2026-11-21",
+      "i": "3bd155737057",
+      "t": "« La fin de l'humanité » : la quête de mains robotiques va-t-elle nous rendre obsolètes ?",
+      "r": "Les ingénieurs cherchent à doter les robots de la dextérité des mains humaines, notamment pour automatiser les tâches dans la logistique et l'industrie.",
+      "c": "croissance",
+      "s": "The Guardian",
+      "f": "intelligence-artificielle"
+    },
+    {
+      "d": "2026-11-21",
+      "i": "2bfba1a2bca3",
+      "t": "IA : avec une nouvelle génération de fibre optique, la Chine pourrait « prendre le dessus sur l'ensemble de ses concurrents",
+      "r": "",
+      "c": "croissance",
+      "s": "Les Echos",
+      "f": "intelligence-artificielle"
+    },
+    {
+      "d": "2026-11-21",
+      "i": "8e3ceec613f9",
+      "t": "Trump menace de « pénalités terribles » les entreprises technologiques américaines qui construisent des centres de données à l'étranger",
+      "r": "Donald Trump a menacé d'imposer de lourdes pénalités aux entreprises technologiques américaines construisant des centres de données hors des États-Unis.",
+      "c": "mondialisation",
+      "s": "The Guardian",
+      "f": "intelligence-artificielle"
+    },
+    {
+      "d": "2026-11-21",
+      "i": "36fb31620a7c",
+      "t": "Trump menace d'interdire aux entreprises américaines de construire des centres de données d'IA à l'étranger",
+      "r": "Le président américain a évoqué une possible interdiction pour les entreprises de son pays de bâtir des centres de données d'intelligence artificielle à l'étranger.",
+      "c": "mondialisation",
+      "s": "BBC",
+      "f": "intelligence-artificielle"
+    },
+    {
+      "d": "2026-11-21",
+      "i": "fca2b650ec58",
+      "t": "Minerais critiques : au Kenya, un consortium américain met la main sur un site prometteur",
+      "r": "Le ministère kényan des mines a attribué l'exploitation du site de Mrima Hill au consortium Frontier Minerals, une avancée pour Washington face aux restrictions chinoises.",
+      "c": "mondialisation",
+      "s": "Le Monde",
+      "f": null
+    },
+    {
+      "d": "2026-11-21",
+      "i": "aa6d3493bd69",
+      "t": "La nouvelle réglementation américaine sur les puces frappe de plein fouet les géants chinois de l’IA",
+      "r": "Les nouvelles réglementations américaines restreignent l'accès de la Chine aux capacités de calcul avancées, pénalisant ses ambitions dans l'intelligence artificielle.",
+      "c": "mondialisation",
+      "s": "L'Opinion",
+      "f": "intelligence-artificielle"
+    },
+    {
+      "d": "2026-11-21",
+      "i": "a86f5e491b4b",
+      "t": "La pire semaine depuis le Covid : la tech s'effondre à Wall Street et entraîne le reste des marchés mondiaux",
+      "r": "",
+      "c": "finance",
+      "s": "Les Echos",
+      "f": null
+    },
+    {
+      "d": "2026-11-21",
+      "i": "aafdeb5eb3fa",
+      "t": "« L’entrée en Bourse d’Anthropic est probablement davantage dictée par la peur que par la foi en l’avenir de l’IA »",
+      "r": "L'entrée en bourse d'Anthropic viserait davantage à transférer les risques du secteur de l'intelligence artificielle vers les épargnants qu'à répondre à un besoin de financement.",
+      "c": "finance",
+      "s": "Le Monde",
+      "f": "intelligence-artificielle"
+    },
+    {
+      "d": "2026-11-21",
+      "i": "53db836fae57",
+      "t": "Comment l'éclatement de la bulle IA pourrait faire dérailler l'économie mondiale",
+      "r": "",
+      "c": "finance",
+      "s": "Les Echos",
+      "f": "intelligence-artificielle"
+    },
+    {
+      "d": "2026-11-21",
+      "i": "525a550de28b",
+      "t": "Anthropic ou le pari de plus en plus vertigineux de l’IA",
+      "r": "L'introduction en Bourse et la correction du titre de la société Anthropic illustrent les promesses et les doutes entourant le modèle économique de l'intelligence artificielle.",
+      "c": "finance",
+      "s": "Le Monde",
+      "f": "intelligence-artificielle"
+    },
+    {
+      "d": "2026-11-21",
+      "i": "80ac659d6f41",
+      "t": "« L’explosion de l’extrême richesse constitue le fait social majeur de notre temps » : le manifeste de plus de 110 intellectuels contre l’oligarchie",
+      "r": "Plus de 110 intellectuels, dont quatre prix Nobel, appellent dans une tribune à contrer l'explosion de l'extrême richesse et du pouvoir des milliardaires.",
+      "c": "desequilibres",
+      "s": "Le Monde",
+      "f": null
+    },
+    {
+      "d": "2026-11-21",
+      "i": "4bc867c8db63",
+      "t": "Budget : députés et sénateurs s'entendent pour valider la fin de gestion 2026",
+      "r": "Députés et sénateurs sont parvenus à un accord en commission mixte paritaire sur le projet de budget de fin de gestion pour 2026.",
+      "c": "desequilibres",
+      "s": "L'Opinion",
+      "f": null
+    },
+    {
+      "d": "2026-11-21",
+      "i": "50de8a8ce2bc",
+      "t": "L'association Droit au logement appelle à \"renforcer l'encadrement des loyers\" et à \"produire du logement social\"",
+      "r": "L'association Droit au logement et la Fondation pour le logement des défavorisés appellent à renforcer l'encadrement des loyers et à produire du logement social face à la vie chère.",
+      "c": "desequilibres",
+      "s": "franceinfo",
+      "f": null
+    },
+    {
+      "d": "2026-11-21",
+      "i": "d08c59ea70a9",
+      "t": "Fin d'année très morose pour l'emploi des cadres",
+      "r": "L'emploi des cadres connaît un net ralentissement pour la fin d'année, avec des intentions d'embauche en forte baisse parmi les entreprises.",
+      "c": "desequilibres",
+      "s": "franceinfo",
+      "f": "conjoncture-france"
+    },
+    {
+      "d": "2026-11-21",
+      "i": "849d571e5e17",
+      "t": "Quel impact le Brexit a-t-il eu sur les économies du Royaume-Uni et de l'UE ?",
+      "r": "Le Royaume-Uni et l'Union européenne tiennent un sommet à Bruxelles pour examiner le contexte économique et les relations bilatérales après le Brexit.",
+      "c": "ue",
+      "s": "The Guardian",
+      "f": null
+    },
+    {
+      "d": "2026-11-21",
+      "i": "2ca8c27f9e0a",
+      "t": "Téléphonie mobile par satellite : le chemin tortueux des opérateurs européens vers une constellation souveraine",
+      "r": "Plusieurs grands opérateurs européens unissent leurs forces pour développer un service mobile par satellite souverain face à la concurrence, malgré des obstacles techniques et financiers.",
+      "c": "ue",
+      "s": "Le Monde",
+      "f": null
+    },
+    {
+      "d": "2026-11-21",
+      "i": "e98fbe9c2820",
+      "t": "Avis du Guardian sur la Grande-Bretagne et l'Europe : le rééquilibrage de Burnham ne peut pas être le terminus | Éditorial",
+      "r": "Andy Burnham a annoncé un accord pour atténuer certaines barrières post-Brexit, bien que des sources européennes tempèrent la portée de ces mesures.",
+      "c": "ue",
+      "s": "The Guardian",
+      "f": null
+    },
+    {
+      "d": "2026-11-21",
+      "i": "767c2779862d",
+      "t": "Le Royaume-Uni va explorer des liens encore plus étroits avec l'UE après avoir conclu un accord, selon Burnham",
+      "r": "L'accord conclu entre le Royaume-Uni et l'Union européenne porte notamment sur les exportations alimentaires britanniques, l'échange de quotas d'émission et la jeunesse.",
+      "c": "ue",
+      "s": "BBC",
+      "f": null
+    },
+    {
+      "d": "2026-11-21",
+      "i": "5ebf853562b4",
+      "t": "« GTA VI » s’offre un lancement record avec 3,79 milliards de dollars de ventes dès le premier jour",
+      "r": "Le jeu vidéo GTA VI a réalisé un lancement record en générant 3,79 milliards de dollars de ventes dès son premier jour.",
+      "c": "entreprises",
+      "s": "Le Monde",
+      "f": null
+    },
+    {
+      "d": "2026-11-21",
+      "i": "f64d2ed4e89b",
+      "t": "Il y a 9 ans, Airbus avait enterré leur projet: aujourd'hui le révolutionnaire avion hybride de ces 4 ingénieurs qui \"décolle comme un hélicoptère\" est prêt à s'envoler",
+      "r": "L'entreprise Ascendance a dévoilé un avion hybride à décollage et atterrissage vertical et affirme avoir reçu plus de 630 lettres d'intention d'achat.",
+      "c": "entreprises",
+      "s": "BFM Business",
+      "f": null
+    },
+    {
+      "d": "2026-11-21",
+      "i": "c591d3c8ec9b",
+      "t": "Sommet Choose France : « Une cinquantaine de nouveaux projets industriels sera présentée », annonce le ministre de l’Industrie",
+      "r": "Le ministre de l'Industrie annonce la présentation d'une cinquantaine de nouveaux projets industriels lors de la seconde édition du sommet Choose France.",
+      "c": "entreprises",
+      "s": "La Tribune",
+      "f": "conjoncture-france"
+    },
+    {
+      "d": "2026-11-21",
+      "i": "96a7f9767d2d",
+      "t": "Un juge approuve le versement de 7,25 milliards de dollars par Bayer pour régler les plaintes affirmant que le Roundup provoque le cancer",
+      "r": "Un juge du Missouri a validé un accord amiable de 7,25 milliards de dollars pour clore les poursuites visant le désherbant Roundup de Bayer.",
+      "c": "entreprises",
+      "s": "The Guardian",
+      "f": null
+    },
+    {
+      "d": "2026-11-21",
+      "i": "01e6abe63cee",
+      "t": "Capitalisation : votre retraite placée en bourse ?",
+      "r": "La question des retraites par capitalisation et du placement des pensions en bourse revient au cœur des débats parmi les candidats à la présidentielle.",
+      "c": "epargne",
+      "s": "franceinfo",
+      "f": "presidentielle-2027"
+    },
+    {
+      "d": "2026-11-21",
+      "i": "63edacd4bbe5",
+      "t": "Avantage fiscal, inquiétudes pour l’avenir… Comment le plan d’épargne-retraite a conquis près de 14 millions de Français",
+      "r": "Le plan d'épargne-retraite (PER) poursuit sa croissance en 2026, atteignant près de 14 millions de titulaires et 165 milliards d'euros d'encours.",
+      "c": "epargne",
+      "s": "Le Figaro",
+      "f": "fiscalite-epargne-patrimoine"
+    },
+    {
+      "d": "2026-11-21",
+      "i": "0bf43f4fcdbd",
+      "t": "Rachat de RTT, abondement : l’argent à récupérer avant le 31 décembre. La chronique de Jean-Jacques Manceau",
+      "r": "La période de fin d'année invite les épargnants à optimiser leurs placements en gérant le rachat de RTT et l'abondement auprès de leur employeur.",
+      "c": "epargne",
+      "s": "Capital",
+      "f": "fiscalite-epargne-patrimoine"
+    },
+    {
+      "d": "2026-11-21",
+      "i": "0ece2ac3e5d4",
+      "t": "Quelles précautions prendre quand on prête une somme d’argent à un proche ?",
+      "r": "Il est recommandé d'établir un contrat rédigé par un professionnel pour encadrer le prêt d'une somme d'argent à un proche.",
+      "c": "epargne",
+      "s": "Le Monde",
+      "f": "fiscalite-epargne-patrimoine"
+    },
     {
       "d": "2026-11-20",
       "i": "d8fdcd3b9c02",
