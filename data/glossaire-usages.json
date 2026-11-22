@@ -1,44 +1,14 @@
 {
   "version_schema": 1,
   "notions": {
-    "indice-boursier": [
+    "politique-budgetaire": [
       {
-        "date": "2026-11-21",
-        "id": "9703f79f5f78",
-        "titre": "Aux Etats-Unis, Wall Street en déroute après la dégringolade des sociétés liées à l’IA",
-        "source": "Le Monde",
-        "contexte": "Concept du jour"
-      },
-      {
-        "date": "2026-11-07",
-        "id": "cd3e75a722bb",
-        "titre": "Global stocks fall amid ‘big worries over AI’ after Democrats’ midterms triumph",
-        "source": "The Guardian",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-11-06",
-        "id": "dcb771ac6630",
-        "titre": "Nasdaq sees worst day in 18 months as investors bet on AI slowdown after Democrats’ election triumph",
-        "source": "The Guardian",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-11-05",
-        "id": "9dbb0c54a36e",
-        "titre": "Midterms 2026 : Wall Street salue la vague démocrate au Congrès et ses promesses de certitudes et de statu quo",
-        "source": "Le Monde",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-10-26",
-        "id": "c3a9567da3a3",
-        "titre": "Violences urbaines, flambée des taux d’intérêt… Le décrochage du CAC 40, un reflet des désordres français",
+        "date": "2026-11-22",
+        "id": "7e636f38e472",
+        "titre": "Budget : Emmanuel Macron réfléchirait à convoquer le Congrès pour instaurer une règle d'or",
         "source": "Le Figaro",
         "contexte": "Top 5 du jour"
-      }
-    ],
-    "politique-budgetaire": [
+      },
       {
         "date": "2026-11-20",
         "id": "d8fdcd3b9c02",
@@ -141,6 +111,207 @@
         "date": "2026-10-19",
         "id": "6825d2c17a9c",
         "titre": "Retraite, santé : la protection sociale, principal poste de dépenses de l’État",
+        "source": "Le Figaro",
+        "contexte": "Top 5 du jour"
+      }
+    ],
+    "paradoxe-de-solow-paradoxe-de-la-productivite": [
+      {
+        "date": "2026-11-22",
+        "id": "fbf73cf622a6",
+        "titre": "Les offres d'emploi décrochent dans les métiers les plus exposés à l'IA",
+        "source": "franceinfo",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-11-09",
+        "id": "1103153f6e1f",
+        "titre": "\"Je n'aurais jamais imaginé qu'elle soit aussi élevée\": contrairement à l'Europe, la productivité redécolle aux États-Unis mais pas encore grâce à l’IA",
+        "source": "BFM Business",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-10-23",
+        "id": "d81b9e74fa94",
+        "titre": "Il engloutit des centaines de milliards dans l'IA sans savoir quand (et si) ils rapporteront: Mark Zuckerberg glace les marchés, Meta chute lourdement à Wall Street",
+        "source": "BFM Business",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-10-18",
+        "id": "11308ac14c50",
+        "titre": "\"Nous on se pose la question de freiner...\": l'IA génère déjà un tiers de la croissance américaine, presque rien en France: pourquoi les milliards investis dans les data centers ne rapportent pas encore",
+        "source": "BFM Business",
+        "contexte": "Top 5 du jour"
+      }
+    ],
+    "chomage-definition-du-bit": [
+      {
+        "date": "2026-11-22",
+        "id": "24834da47d2c",
+        "titre": "Les offres d'emploi au Smic de plus en plus nombreuses",
+        "source": "BFM Business",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-11-17",
+        "id": "9413d8a85d23",
+        "titre": "Pour la première fois, une étude établit un lien entre l'IA et les recrutements: 25.000 offres d'emploi ont disparu en seulement trois mois en France",
+        "source": "BFM Business",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-11-07",
+        "id": "a59fe565fe17",
+        "titre": "Marché du travail aux Etats-Unis : chômage en baisse, créations d’emplois en hausse",
+        "source": "Le Monde",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-10-26",
+        "id": "aefc29f5f987",
+        "titre": "Malgré un taux de chômage au plus haut, \"44% des entreprises ont des difficultés de recrutement\", constate le directeur général de France Travail",
+        "source": "BFM Business",
+        "contexte": "Top 5 du jour"
+      }
+    ],
+    "chaine-de-valeur-mondiale": [
+      {
+        "date": "2026-11-22",
+        "id": "e09dc443d765",
+        "titre": "États-Unis : Le gendarme boursier américain va enquêter sur les pratiques comptables de Nvidia, en pleine affaire Huang",
+        "source": "La Tribune",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-11-16",
+        "id": "ef52bb66c60c",
+        "titre": "Alice Ekman, sinologue : « Malgré ses difficultés, la Chine veut accélérer la restructuration de la gouvernance mondiale et marginaliser les pays occidentaux »",
+        "source": "Le Monde",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-11-09",
+        "id": "eb07f8a2974c",
+        "titre": "Le patron de Nvidia, Jensen Huang, reconnaît avoir eu une liaison extraconjugale avec une personne considérée comme une espionne de Pékin",
+        "source": "Le Monde",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-11-01",
+        "id": "274d3e22af88",
+        "titre": "La stabilité économique mondiale à nouveau menacée par une possible escalade entre les Etats-Unis et l'Iran",
+        "source": "La Tribune",
+        "contexte": "Top 5 du jour"
+      }
+    ],
+    "sanctions-economiques": [
+      {
+        "date": "2026-11-22",
+        "id": "42b414ed040e",
+        "titre": "C'est le troisième plus grand réseau ferroviaire du monde, mais la guerre en Ukraine est en train de le mettre à genoux: la Russie n'a jamais transporté aussi peu de marchandises par train depuis 16 ans",
+        "source": "BFM Business",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-10-28",
+        "id": "a88d5a773650",
+        "titre": "IA : la bulle s'effondre en Chine, 480 milliards de dollars déjà partis en fumée",
+        "source": "La Tribune",
+        "contexte": "Top 5 du jour"
+      }
+    ],
+    "soutenabilite-de-la-dette-publique": [
+      {
+        "date": "2026-11-22",
+        "id": "7e636f38e472",
+        "titre": "Budget : Emmanuel Macron réfléchirait à convoquer le Congrès pour instaurer une règle d'or",
+        "source": "Le Figaro",
+        "contexte": "Concept du jour"
+      },
+      {
+        "date": "2026-11-16",
+        "id": "25b1b03574fb",
+        "titre": "ANALYSE. Finances publiques : comment éviter la faillite de l'Etat grâce à une dévaluation fiscale",
+        "source": "L'Opinion",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-11-14",
+        "id": "e2d482a25b7f",
+        "titre": "Budget de la Sécu : le Sénat adopte les recettes mais doit trouver 3,2 milliards d'euros d'économies",
+        "source": "BFM Business",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-11-08",
+        "id": "074e2f263f31",
+        "titre": "François Villeroy de Galhau : « Laisser filer la dette, c’est faire des choix contre la jeunesse, des choix gérontocratiques »",
+        "source": "Le Monde",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-10-24",
+        "id": "f05fd09f8d8d",
+        "titre": "Les taux 10 ans français au-dessus du 10 ans américain",
+        "source": "BFM Business",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-10-21",
+        "id": "6d9f67eeb539",
+        "titre": "Budget de la Sécu 2027 : la Cour des comptes juge «fragile» l’objectif de 12,7 milliards d'euros de déficit",
+        "source": "Capital",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-10-19",
+        "id": "b09456b32b0d",
+        "titre": "Anne de Guigné : « L’épargne des Français bientôt à la rescousse du désendettement ? »",
+        "source": "Le Figaro",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-10-19",
+        "id": "6825d2c17a9c",
+        "titre": "Retraite, santé : la protection sociale, principal poste de dépenses de l’État",
+        "source": "Le Figaro",
+        "contexte": "Concept du jour"
+      }
+    ],
+    "indice-boursier": [
+      {
+        "date": "2026-11-21",
+        "id": "9703f79f5f78",
+        "titre": "Aux Etats-Unis, Wall Street en déroute après la dégringolade des sociétés liées à l’IA",
+        "source": "Le Monde",
+        "contexte": "Concept du jour"
+      },
+      {
+        "date": "2026-11-07",
+        "id": "cd3e75a722bb",
+        "titre": "Global stocks fall amid ‘big worries over AI’ after Democrats’ midterms triumph",
+        "source": "The Guardian",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-11-06",
+        "id": "dcb771ac6630",
+        "titre": "Nasdaq sees worst day in 18 months as investors bet on AI slowdown after Democrats’ election triumph",
+        "source": "The Guardian",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-11-05",
+        "id": "9dbb0c54a36e",
+        "titre": "Midterms 2026 : Wall Street salue la vague démocrate au Congrès et ses promesses de certitudes et de statu quo",
+        "source": "Le Monde",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-10-26",
+        "id": "c3a9567da3a3",
+        "titre": "Violences urbaines, flambée des taux d’intérêt… Le décrochage du CAC 40, un reflet des désordres français",
         "source": "Le Figaro",
         "contexte": "Top 5 du jour"
       }
@@ -565,86 +736,12 @@
         "contexte": "Top 5 du jour"
       }
     ],
-    "chomage-definition-du-bit": [
-      {
-        "date": "2026-11-17",
-        "id": "9413d8a85d23",
-        "titre": "Pour la première fois, une étude établit un lien entre l'IA et les recrutements: 25.000 offres d'emploi ont disparu en seulement trois mois en France",
-        "source": "BFM Business",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-11-07",
-        "id": "a59fe565fe17",
-        "titre": "Marché du travail aux Etats-Unis : chômage en baisse, créations d’emplois en hausse",
-        "source": "Le Monde",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-10-26",
-        "id": "aefc29f5f987",
-        "titre": "Malgré un taux de chômage au plus haut, \"44% des entreprises ont des difficultés de recrutement\", constate le directeur général de France Travail",
-        "source": "BFM Business",
-        "contexte": "Top 5 du jour"
-      }
-    ],
     "union-bancaire": [
       {
         "date": "2026-11-17",
         "id": "8b6c27fdadf7",
         "titre": "Rachat de Commerzbank : « UniCredit est en passe de réussir son OPA à 45 milliards d’euros en Allemagne et de transformer l’Europe bancaire »",
         "source": "Le Monde",
-        "contexte": "Concept du jour"
-      }
-    ],
-    "soutenabilite-de-la-dette-publique": [
-      {
-        "date": "2026-11-16",
-        "id": "25b1b03574fb",
-        "titre": "ANALYSE. Finances publiques : comment éviter la faillite de l'Etat grâce à une dévaluation fiscale",
-        "source": "L'Opinion",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-11-14",
-        "id": "e2d482a25b7f",
-        "titre": "Budget de la Sécu : le Sénat adopte les recettes mais doit trouver 3,2 milliards d'euros d'économies",
-        "source": "BFM Business",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-11-08",
-        "id": "074e2f263f31",
-        "titre": "François Villeroy de Galhau : « Laisser filer la dette, c’est faire des choix contre la jeunesse, des choix gérontocratiques »",
-        "source": "Le Monde",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-10-24",
-        "id": "f05fd09f8d8d",
-        "titre": "Les taux 10 ans français au-dessus du 10 ans américain",
-        "source": "BFM Business",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-10-21",
-        "id": "6d9f67eeb539",
-        "titre": "Budget de la Sécu 2027 : la Cour des comptes juge «fragile» l’objectif de 12,7 milliards d'euros de déficit",
-        "source": "Capital",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-10-19",
-        "id": "b09456b32b0d",
-        "titre": "Anne de Guigné : « L’épargne des Français bientôt à la rescousse du désendettement ? »",
-        "source": "Le Figaro",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-10-19",
-        "id": "6825d2c17a9c",
-        "titre": "Retraite, santé : la protection sociale, principal poste de dépenses de l’État",
-        "source": "Le Figaro",
         "contexte": "Concept du jour"
       }
     ],
@@ -696,29 +793,6 @@
         "id": "66580453350e",
         "titre": "Il a tout appris chez Audi en Allemagne et puis il est devenu le \"père de la voiture électrique en Chine\": qui est Wan Gang, l'ingénieur dont une lettre à Pékin a déclenché la déferlante chinoise?",
         "source": "BFM Business",
-        "contexte": "Top 5 du jour"
-      }
-    ],
-    "chaine-de-valeur-mondiale": [
-      {
-        "date": "2026-11-16",
-        "id": "ef52bb66c60c",
-        "titre": "Alice Ekman, sinologue : « Malgré ses difficultés, la Chine veut accélérer la restructuration de la gouvernance mondiale et marginaliser les pays occidentaux »",
-        "source": "Le Monde",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-11-09",
-        "id": "eb07f8a2974c",
-        "titre": "Le patron de Nvidia, Jensen Huang, reconnaît avoir eu une liaison extraconjugale avec une personne considérée comme une espionne de Pékin",
-        "source": "Le Monde",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-11-01",
-        "id": "274d3e22af88",
-        "titre": "La stabilité économique mondiale à nouveau menacée par une possible escalade entre les Etats-Unis et l'Iran",
-        "source": "La Tribune",
         "contexte": "Top 5 du jour"
       }
     ],
@@ -1056,29 +1130,6 @@
         "contexte": "Top 5 du jour"
       }
     ],
-    "paradoxe-de-solow-paradoxe-de-la-productivite": [
-      {
-        "date": "2026-11-09",
-        "id": "1103153f6e1f",
-        "titre": "\"Je n'aurais jamais imaginé qu'elle soit aussi élevée\": contrairement à l'Europe, la productivité redécolle aux États-Unis mais pas encore grâce à l’IA",
-        "source": "BFM Business",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-10-23",
-        "id": "d81b9e74fa94",
-        "titre": "Il engloutit des centaines de milliards dans l'IA sans savoir quand (et si) ils rapporteront: Mark Zuckerberg glace les marchés, Meta chute lourdement à Wall Street",
-        "source": "BFM Business",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-10-18",
-        "id": "11308ac14c50",
-        "titre": "\"Nous on se pose la question de freiner...\": l'IA génère déjà un tiers de la croissance américaine, presque rien en France: pourquoi les milliards investis dans les data centers ne rapportent pas encore",
-        "source": "BFM Business",
-        "contexte": "Top 5 du jour"
-      }
-    ],
     "boucle-prix-salaires": [
       {
         "date": "2026-11-09",
@@ -1324,15 +1375,6 @@
         "date": "2026-10-20",
         "id": "47bb58bce44c",
         "titre": "Budget 2027 : les retraités pourraient assumer près de 60 % de l’effort financier pesant sur les ménages",
-        "source": "La Tribune",
-        "contexte": "Top 5 du jour"
-      }
-    ],
-    "sanctions-economiques": [
-      {
-        "date": "2026-10-28",
-        "id": "a88d5a773650",
-        "titre": "IA : la bulle s'effondre en Chine, 480 milliards de dollars déjà partis en fumée",
         "source": "La Tribune",
         "contexte": "Top 5 du jour"
       }

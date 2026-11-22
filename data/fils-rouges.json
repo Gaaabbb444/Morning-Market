@@ -1,6 +1,6 @@
 {
   "version_schema": 1,
-  "mis_a_jour_le": "2026-11-21T17:14:01+01:00",
+  "mis_a_jour_le": "2026-11-22T13:33:18+01:00",
   "fils": [
     {
       "id": "budget-2027",
@@ -11,8 +11,8 @@
       "categories": [
         "desequilibres"
       ],
-      "ou_en_est_on": "Le débat budgétaire reste particulièrement tendu alors que la Commission européenne abaisse sa prévision de croissance française, contraignant l'exécutif à rechercher d'importantes économies supplémentaires, estimées à plus de 6 milliards d'euros. Le Sénat poursuit l'examen du projet de loi de finances pour 2027 pour tenter d'ajuster la copie budgétaire après le rejet du texte par l'Assemblée nationale. Parallèlement, le gouvernement et les parlementaires discutent de mesures d'économies ciblées, incluant une réflexion sur la fiscalité des retraités.",
-      "ou_en_est_on_maj_le": "2026-11-21",
+      "ou_en_est_on": "Le débat budgétaire reste particulièrement tendu alors que la Commission européenne abaisse sa prévision de croissance française, contraignant l'exécutif à rechercher d'importantes économies supplémentaires. Le Sénat poursuit l'examen du projet de loi de finances pour 2027 pour tenter d'ajuster la copie budgétaire, tandis que l'ancien ministre de l'Économie Thierry Breton dénonce une indiscipline budgétaire. Parallèlement, l'éventualité de convoquer le Congrès pour instaurer une règle d'or budgétaire suscite des réactions contrastées parmi les oppositions politiques.",
+      "ou_en_est_on_maj_le": "2026-11-22",
       "evenements": [
         {
           "date": "2026-10-17",
@@ -708,6 +708,27 @@
               "titre": "Pourquoi le gouvernement doit trouver d’urgence plus de 6 milliards d’euros d’économies supplémentaires",
               "source": "Le Figaro",
               "url": "https://www.lefigaro.fr/conjoncture/pourquoi-le-gouvernement-doit-trouver-d-urgence-plus-de-6-milliards-d-euros-d-economies-supplementaires-20261120"
+            }
+          ]
+        },
+        {
+          "date": "2026-11-22",
+          "resume": "Emmanuel Macron envisagerait de convoquer le Congrès afin d'instaurer une règle d'or budgétaire, une initiative saluée par la droite et le Rassemblement national qui critiquent toutefois la politique budgétaire de l'exécutif.",
+          "liens": [
+            {
+              "titre": "Budget : Emmanuel Macron réfléchirait à convoquer le Congrès pour instaurer une règle d'or",
+              "source": "Le Figaro",
+              "url": "https://www.lefigaro.fr/politique/budget-emmanuel-macron-reflechirait-a-convoquer-le-congres-pour-instaurer-une-regle-d-or-20261122"
+            },
+            {
+              "titre": "«Un bouclier qui protège les Français»: la droite et le RN sont prêts à soutenir un projet de règle d'or budgétaire",
+              "source": "Le Figaro",
+              "url": "https://www.lefigaro.fr/politique/un-bouclier-qui-protege-les-francais-la-droite-et-le-rn-sont-prets-a-soutenir-un-projet-de-regle-d-or-budgetaire-20261122"
+            },
+            {
+              "titre": "\"On souffre en France d'une indiscipline budgétaire\", dénonce Thierry Breton, ancien ministre de l'Économie",
+              "source": "BFM Business",
+              "url": "https://www.bfmtv.com/economie/video-on-souffre-en-france-d-une-indiscipline-budgetaire-denonce-thierry-breton-ancien-ministre-de-l-economie_VN-202611210455.html"
             }
           ]
         }

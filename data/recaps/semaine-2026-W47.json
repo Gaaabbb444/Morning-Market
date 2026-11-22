@@ -1,0 +1,98 @@
+{
+  "version_schema": 1,
+  "type": "semaine",
+  "periode": "2026-W47",
+  "libelle": "Semaine du 16 novembre au 22 novembre 2026",
+  "du": "2026-11-16",
+  "au": "2026-11-22",
+  "genere_le": "2026-11-22T13:33:44+01:00",
+  "accroche": "Déficit public 5 % cible, IA investissement 500 md€, crise Ormuz, prêt Ukraine 45 md€, climat des affaires en baisse",
+  "synthese": "Cette semaine, le gouvernement français se fixe l’objectif de ramener le déficit public à 5 % en 2027, ce qui suscite des débats sur la soutenabilité budgétaire. La Commission européenne signale une croissance française très faible (0,4 % en 2026, 0,6 % en 2027) et appelle la France et la Belgique à réduire leurs déficits, reflétant les tensions sur les marchés de la dette. L’Union européenne propose un prêt de 45 milliards d’euros à l’Ukraine, illustrant les enjeux budgétaires liés à la guerre. Le secteur de l’intelligence artificielle reste central : l’UE estime à 500 milliards d’euros les besoins d’investissement, tandis que l’introduction en Bourse d’Anthropic montre l’ampleur des valorisations. Enfin, la crise du détroit d’Ormuz accentue la transition énergétique et le climat des affaires français se détériore, avec des indices de commerce de détail, services et industrie en baisse.",
+  "faits_marquants": [
+    {
+      "date": "2026-11-16",
+      "titre": "Budget 2027 : le gouvernement face au casse-tête d’une cible de déficit à 5 % intenable ?",
+      "titre_fr": null,
+      "source": "La Tribune",
+      "url": "https://www.latribune.fr/article/economie/59716640632010/budget-2027-le-gouvernement-face-au-casse-tete-d-une-cible-de-deficit-a-5-intenable",
+      "categorie": "desequilibres",
+      "fil_rouge": "budget-2027",
+      "article_id": "8d7bffb176e0",
+      "a_retenir": "Le gouvernement vise un déficit de 5 % en 2027, objectif qui conditionne les marges de manœuvre budgétaires."
+    },
+    {
+      "date": "2026-11-17",
+      "titre": "\"On a vu une forte hausse des écarts entre les taux d'emprunt\": la Commission européenne appelle la France et la Belgique à réduire leur déficit et leur dette",
+      "titre_fr": null,
+      "source": "BFM Business",
+      "url": "https://www.bfmtv.com/economie/economie-social/finances-publiques/on-a-vu-une-forte-hausse-des-ecarts-entre-les-taux-d-emprunt-la-commission-europeenne-appelle-la-france-et-la-belgique-a-reduire-leur-deficit-et-leur-dette_AD-202611170537.html",
+      "categorie": "desequilibres",
+      "fil_rouge": "dette-marches",
+      "article_id": "6c823ffe9b7c",
+      "a_retenir": "La Commission européenne demande à la France et à la Belgique de réduire déficit et dette, soulignant la pression des marchés de la dette."
+    },
+    {
+      "date": "2026-11-18",
+      "titre": "Pour aider l'Ukraine à combler son déficit budgétaire de 70 milliards d'euros en 2027, l'Union européenne propose un nouveau prêt de 45 milliards d'euros",
+      "titre_fr": null,
+      "source": "BFM Business",
+      "url": "https://www.bfmtv.com/economie/economie-social/union-europeenne/pour-aider-l-ukraine-a-combler-son-deficit-budgetaire-de-70-milliards-d-euros-en-2027-l-union-europeenne-propose-un-nouveau-pret-de-45-milliards-d-euros_AD-202611180511.html",
+      "categorie": "ue",
+      "fil_rouge": "ukraine-sanctions",
+      "article_id": "69d12907ae6a",
+      "a_retenir": "L’UE propose un prêt de 45 milliards d’euros à l’Ukraine, illustrant le rôle de la solidarité financière dans la zone euro."
+    },
+    {
+      "date": "2026-11-19",
+      "titre": "Blocage d'Ormuz : comment cette crise historique a instauré un nouvel ordre énergétique mondial",
+      "titre_fr": null,
+      "source": "La Tribune",
+      "url": "https://www.latribune.fr/article/entreprises-finance/energie-environnement/1955375196074/blocage-dormuz-comment-cette-crise-historique-a-instaure-un-nouvel-ordre-energetique-mondial",
+      "categorie": "mondialisation",
+      "fil_rouge": "choc-petrolier-ormuz",
+      "article_id": "f40b2eda78ae",
+      "a_retenir": "La crise du détroit d’Ormuz accélère la transition énergétique mondiale, affectant les marchés du pétrole."
+    },
+    {
+      "date": "2026-11-20",
+      "titre": "En novembre 2026, le climat des affaires dans le commerce de détail et d’automobiles se dégrade de nouveau",
+      "titre_fr": null,
+      "source": "INSEE",
+      "url": "https://www.insee.fr/fr/statistiques/9147338",
+      "categorie": "croissance",
+      "fil_rouge": "conjoncture-france",
+      "article_id": "5e9b39d83381",
+      "a_retenir": "Le climat des affaires français se dégrade en novembre, indicateur clé de la conjoncture économique."
+    }
+  ],
+  "fils_rouges": [
+    {
+      "id": "budget-2027",
+      "evolution": "Le débat budgétaire s’intensifie : cible déficit 5 %, recherche d’économies de 12 md€ et proposition de règle d’or."
+    },
+    {
+      "id": "dette-marches",
+      "evolution": "La Commission européenne alerte sur la hausse des écarts de taux d’emprunt, incitant à réduire déficit et dette."
+    },
+    {
+      "id": "intelligence-artificielle",
+      "evolution": "L’UE estime à 500 md€ les besoins d’investissement IA, tandis que l’IPO d’Anthropic montre des valorisations élevées et l’étude révèle la perte d’offres d’emploi liées à l’IA."
+    },
+    {
+      "id": "conjoncture-france",
+      "evolution": "Les prévisions de croissance restent les plus faibles de la zone euro et le climat des affaires se détériore."
+    },
+    {
+      "id": "ukraine-sanctions",
+      "evolution": "L’UE avance un prêt de 45 md€ à l’Ukraine, suscitant des débats entre États membres sur le financement de la guerre."
+    },
+    {
+      "id": "choc-petrolier-ormuz",
+      "evolution": "La crise d’Ormuz est présentée comme un facteur accélérant la transition énergétique et modifiant les dynamiques pétrolières."
+    },
+    {
+      "id": "inflation-bce",
+      "evolution": "Des discussions émergent sur la future présidence de la BCE et les stratégies face à l’inflation, après le mandat de Lagarde."
+    }
+  ]
+}

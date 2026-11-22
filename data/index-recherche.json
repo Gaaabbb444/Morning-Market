@@ -1,7 +1,268 @@
 {
   "version_schema": 1,
-  "mis_a_jour_le": "2026-11-21T17:12:43+01:00",
+  "mis_a_jour_le": "2026-11-22T13:31:33+01:00",
   "entrees": [
+    {
+      "d": "2026-11-22",
+      "i": "7e636f38e472",
+      "t": "Budget : Emmanuel Macron réfléchirait à convoquer le Congrès pour instaurer une règle d'or",
+      "r": "Le président de la République Emmanuel Macron envisage de convoquer le Congrès afin d'instaurer une règle d'or budgétaire, en s'appuyant sur un projet de loi constitutionnelle voté en 2011 sous le gouvernement de François Fillon.",
+      "c": "desequilibres",
+      "s": "Le Figaro",
+      "f": "budget-2027"
+    },
+    {
+      "d": "2026-11-22",
+      "i": "fbf73cf622a6",
+      "t": "Les offres d'emploi décrochent dans les métiers les plus exposés à l'IA",
+      "r": "Une étude observe une chute des offres d'emploi dans les métiers les plus exposés à l'intelligence artificielle, suggérant un gel ou un renoncement aux embauches par les entreprises.",
+      "c": "desequilibres",
+      "s": "franceinfo",
+      "f": "intelligence-artificielle"
+    },
+    {
+      "d": "2026-11-22",
+      "i": "24834da47d2c",
+      "t": "Les offres d'emploi au Smic de plus en plus nombreuses",
+      "r": "Le Smic sera revalorisé de 1,6% le 1er décembre pour franchir la barre des 1 500 euros net, dans un contexte où la proportion d'offres d'emploi au niveau du Smic atteint des niveaux élevés.",
+      "c": "desequilibres",
+      "s": "BFM Business",
+      "f": "conjoncture-france"
+    },
+    {
+      "d": "2026-11-22",
+      "i": "e09dc443d765",
+      "t": "États-Unis : Le gendarme boursier américain va enquêter sur les pratiques comptables de Nvidia, en pleine affaire Huang",
+      "r": "Le gendarme boursier américain, la SEC, a lancé une enquête sur les pratiques comptables du fabricant de puces Nvidia, sur fond de départ de son patron Jensen Huang.",
+      "c": "finance",
+      "s": "La Tribune",
+      "f": null
+    },
+    {
+      "d": "2026-11-22",
+      "i": "42b414ed040e",
+      "t": "C'est le troisième plus grand réseau ferroviaire du monde, mais la guerre en Ukraine est en train de le mettre à genoux: la Russie n'a jamais transporté aussi peu de marchandises par train depuis 16 ans",
+      "r": "La compagnie ferroviaire nationale russe RJD enregistre un volume de fret au plus bas depuis seize ans en raison des conséquences économiques de la guerre en Ukraine.",
+      "c": "mondialisation",
+      "s": "BFM Business",
+      "f": null
+    },
+    {
+      "d": "2026-11-22",
+      "i": "e792dd5221e4",
+      "t": "Choose France : l'investissement des entreprises, nouveau point noir de l'économie française",
+      "r": "",
+      "c": "croissance",
+      "s": "Les Echos",
+      "f": "conjoncture-france"
+    },
+    {
+      "d": "2026-11-22",
+      "i": "f4008ab115ff",
+      "t": "COP31 : un projet de texte final proposé, sans mention de la sortie des énergies fossiles",
+      "r": "La 31e conférence internationale pour le climat peine à aboutir à des engagements clairs concernant la sortie des énergies fossiles.",
+      "c": "croissance",
+      "s": "La Tribune",
+      "f": null
+    },
+    {
+      "d": "2026-11-22",
+      "i": "4a075d83e060",
+      "t": "Il est milliardaire mais n'a aucun diplôme, il scrute la \"boîte noire\" de Claude: qui est Chris Olah, le visage méconnu d’Anthropic qui a demandé l'aide du pape pour encadrer l'IA?",
+      "r": "Chris Olah, responsable de l'interprétabilité chez Anthropic, analyse le fonctionnement profond de l'intelligence artificielle Claude et évoque des observations d'introspection.",
+      "c": "croissance",
+      "s": "BFM Business",
+      "f": "intelligence-artificielle"
+    },
+    {
+      "d": "2026-11-22",
+      "i": "702d49d4f3db",
+      "t": "Anne Le Hénanff, ministre déléguée chargée de l’IA et du numérique : « Le modèle américain des data centers n’a rien à voir avec le nôtre »",
+      "r": "La ministre déléguée chargée de l’IA défend l’implantation à grande échelle des data centers dans les territoires malgré les contestations locales.",
+      "c": "croissance",
+      "s": "La Tribune",
+      "f": "intelligence-artificielle"
+    },
+    {
+      "d": "2026-11-22",
+      "i": "f1ce9b718108",
+      "t": "Après dix ans de négociations, l'Europe et l'Indonésie signent leur traité de libre-échange",
+      "r": "",
+      "c": "mondialisation",
+      "s": "Les Echos",
+      "f": null
+    },
+    {
+      "d": "2026-11-22",
+      "i": "bd1b6bb49887",
+      "t": "Mais où est donc passé l’argent du pétrole vénézuélien? Sous contrôle américain, les exportations ont rapporté plus de 12 milliards de dollars en neuf mois, mais des recettes manquent à l'appel",
+      "r": "Sous contrôle américain depuis janvier 2026, les exportations de pétrole vénézuélien ont rapporté plus de 12 milliards de dollars en neuf mois, malgré des écarts de déclaration.",
+      "c": "mondialisation",
+      "s": "BFM Business",
+      "f": null
+    },
+    {
+      "d": "2026-11-22",
+      "i": "0ea430def483",
+      "t": "Howard Lutnick est l'allié de Trump depuis des décennies. Ses liens avec Nvidia pourraient causer sa perte",
+      "r": "Le secrétaire au Commerce américain fait face à un examen minutieux de ses liens avec la vente de puces à la Chine.",
+      "c": "mondialisation",
+      "s": "The Guardian",
+      "f": null
+    },
+    {
+      "d": "2026-11-22",
+      "i": "cbf3a9bff7b4",
+      "t": "« Des dégâts matériels, sans blessures signalées » : Bahreïn accuse l’Iran d’avoir frappé l’un de ses sites industriels",
+      "r": "Une frappe iranienne a provoqué un incendie sur un site industriel au Bahreïn, Téhéran affirmant riposter à des tirs américains.",
+      "c": "mondialisation",
+      "s": "La Tribune",
+      "f": null
+    },
+    {
+      "d": "2026-11-22",
+      "i": "03503136bbe5",
+      "t": "Donald Trump reçoit les plus gros détenteurs de sa cryptomonnaie, qui l'a considérablement enrichi",
+      "r": "Donald Trump organise un gala avec les principaux détenteurs de sa cryptomonnaie, illustrant les liens entre sa fortune et cette industrie.",
+      "c": "finance",
+      "s": "franceinfo",
+      "f": null
+    },
+    {
+      "d": "2026-11-22",
+      "i": "1beb3cf0f531",
+      "t": "IA : ils deviennent millionnaires en 24h",
+      "r": "L'entrée en Bourse de la start-up d'intelligence artificielle Anthropic a permis à certains de ses employés de devenir millionnaires.",
+      "c": "finance",
+      "s": "franceinfo",
+      "f": "intelligence-artificielle"
+    },
+    {
+      "d": "2026-11-22",
+      "i": "53258ff1adbd",
+      "t": "Banques en ligne : la contre-offensive des grandes banques commence à porter ses fruits auprès des jeunes",
+      "r": "",
+      "c": "finance",
+      "s": "Les Echos",
+      "f": null
+    },
+    {
+      "d": "2026-11-22",
+      "i": "2aaec3b9a9e8",
+      "t": "Un député critique les projets de registres des bénéficiaires effectifs des entreprises à Guernesey et Jersey",
+      "r": "Un député critique les projets de registres d'entreprises dans les îles de Guernesey et Jersey, jugeant l'accès insuffisant pour lutter contre la criminalité financière.",
+      "c": "finance",
+      "s": "BBC",
+      "f": null
+    },
+    {
+      "d": "2026-11-22",
+      "i": "944c9fddf794",
+      "t": "Budget 2027 : la piste du 49.3 tient la corde",
+      "r": "",
+      "c": "desequilibres",
+      "s": "Les Echos",
+      "f": "budget-2027"
+    },
+    {
+      "d": "2026-11-22",
+      "i": "61eeb1e2df89",
+      "t": "\"On souffre en France d'une indiscipline budgétaire\", dénonce Thierry Breton, ancien ministre de l'Économie",
+      "r": "L'ancien ministre de l'Économie Thierry Breton dénonce une indiscipline budgétaire en France et estime que le pays n'est plus entendu en Europe.",
+      "c": "desequilibres",
+      "s": "BFM Business",
+      "f": "budget-2027"
+    },
+    {
+      "d": "2026-11-22",
+      "i": "0ee482a77ecb",
+      "t": "«Un bouclier qui protège les Français»: la droite et le RN sont prêts à soutenir un projet de règle d'or budgétaire",
+      "r": "La droite et le Rassemblement national se disent prêts à soutenir un projet de règle d'or budgétaire tout en imputant à l'exécutif la hausse de la dette.",
+      "c": "desequilibres",
+      "s": "Le Figaro",
+      "f": "budget-2027"
+    },
+    {
+      "d": "2026-11-22",
+      "i": "a5544ea894fa",
+      "t": "Piketty, Zucman ou le procès de la fortune",
+      "r": "L'économiste Gabriel Zucman relance son projet de taxation des grandes fortunes à travers un nouveau manifeste.",
+      "c": "desequilibres",
+      "s": "L'Opinion",
+      "f": "fiscalite-epargne-patrimoine"
+    },
+    {
+      "d": "2026-11-22",
+      "i": "2606cafd4f33",
+      "t": "Un accord sur l'alimentation entre le Royaume-Uni et l'UE salué par les entreprises britanniques : « Nous sommes de toute façon plutôt alignés »",
+      "r": "Les producteurs britanniques accueillent favorablement l'accord conclu avec l'UE visant à supprimer la grande majorité des contrôles physiques sur l'alimentation, les plantes et les produits animaux.",
+      "c": "ue",
+      "s": "The Guardian",
+      "f": null
+    },
+    {
+      "d": "2026-11-22",
+      "i": "c1c1baa7ddd0",
+      "t": "Paolo Bulgari, le petit-fils du fondateur de la fameuse marque de joaillerie, est mort à l'âge de 89 ans",
+      "r": "Paolo Bulgari, président historique de la marque de joaillerie et petit-fils du fondateur, est mort à l'âge de 89 ans.",
+      "c": "entreprises",
+      "s": "franceinfo",
+      "f": null
+    },
+    {
+      "d": "2026-11-22",
+      "i": "59b6b2270a24",
+      "t": "Entre contraintes budgétaires et envie de \"faire durer\" les fêtes, pourquoi Noël déboule de plus en plus tôt",
+      "r": "Les entreprises avancent la période commerciale de Noël pour répondre aux évolutions des comportements d'achat et aux contraintes budgétaires des consommateurs.",
+      "c": "entreprises",
+      "s": "franceinfo",
+      "f": null
+    },
+    {
+      "d": "2026-11-22",
+      "i": "9eade0408225",
+      "t": "Pannes informatiques, IA et théories du complot : pourquoi assistons-nous à autant de pannes ?",
+      "r": "Suite à des perturbations chez des compagnies aériennes et des entreprises, de nombreuses personnes s'interrogent sur la fiabilité des systèmes mondiaux.",
+      "c": "entreprises",
+      "s": "The Guardian",
+      "f": null
+    },
+    {
+      "d": "2026-11-22",
+      "i": "1b8dae99397c",
+      "t": "Un entrepôt XXL de 80.000 m² et des livraisons d’Helsinki à Lisbonne: comment fait le site Internet Vente unique, le repreneur d’Habitat pour défier la crise qui met le secteur de l’ameublement à terre?",
+      "r": "Le site Internet Vente-unique.com utilise un entrepôt XXL à Amblainville pour expédier des meubles à travers l'Europe et faire face à la crise du secteur.",
+      "c": "entreprises",
+      "s": "BFM Business",
+      "f": "conjoncture-france"
+    },
+    {
+      "d": "2026-11-22",
+      "i": "bb0caccb1b93",
+      "t": "Comment Edouard Philippe veut révolutionner la fiscalité de l’immobilier",
+      "r": "Édouard Philippe a présenté ses propositions en matière de fiscalité immobilière pour répondre à la crise du logement.",
+      "c": "epargne",
+      "s": "L'Opinion",
+      "f": "fiscalite-epargne-patrimoine"
+    },
+    {
+      "d": "2026-11-22",
+      "i": "242f07cc83fc",
+      "t": "Il nous a demandé de transférer sa résidence fiscale en deux jours » : les confidences de deux avocates d'exilés fiscaux",
+      "r": "",
+      "c": "epargne",
+      "s": "Les Echos",
+      "f": "fiscalite-epargne-patrimoine"
+    },
+    {
+      "d": "2026-11-22",
+      "i": "1f1544b0959d",
+      "t": "Jacques Attali, Élise Lucet, Jean-Luc Mélenchon… Ces arnaques financières via des vidéos détournées qui coûtent des millions d’euros aux épargnants",
+      "r": "Les réseaux sociaux favorisent l'essor d'arnaques financières utilisant des vidéos de célébrités, parfois générées par l'intelligence artificielle, pour promouvoir de faux placements.",
+      "c": "epargne",
+      "s": "Le Figaro",
+      "f": null
+    },
     {
       "d": "2026-11-21",
       "i": "85434c63fb03",

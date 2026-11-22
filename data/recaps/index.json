@@ -2,6 +2,14 @@
   "version_schema": 1,
   "recaps": [
     {
+      "fichier": "recaps/semaine-2026-W47.json",
+      "type": "semaine",
+      "periode": "2026-W47",
+      "libelle": "Semaine du 16 novembre au 22 novembre 2026",
+      "du": "2026-11-16",
+      "au": "2026-11-22"
+    },
+    {
       "fichier": "recaps/semaine-2026-W46.json",
       "type": "semaine",
       "periode": "2026-W46",
