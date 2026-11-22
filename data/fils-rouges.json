@@ -1,6 +1,6 @@
 {
   "version_schema": 1,
-  "mis_a_jour_le": "2026-11-22T13:33:18+01:00",
+  "mis_a_jour_le": "2026-11-22T17:22:34+01:00",
   "fils": [
     {
       "id": "budget-2027",
@@ -2163,8 +2163,8 @@
         "mondialisation",
         "croissance"
       ],
-      "ou_en_est_on": "Les constructeurs et équipementiers européens subissent une vive concurrence internationale et de lourdes difficultés d'adaptation industrielle. Face à la pression chinoise, Mercedes-Benz a gelé ses investissements en Allemagne et envisage des fermetures d'usines ou un allongement du temps de travail sans revalorisation, provoquant le refus du syndicat IG Metall. Dans le même temps, les débats européens se poursuivent sur les règles douanières et la protection industrielle.",
-      "ou_en_est_on_maj_le": "2026-11-14",
+      "ou_en_est_on": "Les constructeurs européens font face à une concurrence accrue de la Chine, poussant Mercedes‑Benz à suspendre ses investissements en Allemagne et à envisager des fermetures d'usines ou l'allongement du temps de travail. Le syndicat IG Metall s'oppose à ces mesures. Le récent arrêt de la cour néerlandaise interdit à BYD de vendre son SUV clone du Defender dans l'UE, soulignant les enjeux de propriété intellectuelle dans le secteur. Ces développements renforcent le débat européen sur les règles douanières et la protection industrielle.",
+      "ou_en_est_on_maj_le": "2026-11-22",
       "evenements": [
         {
           "date": "2026-10-17",
@@ -2261,6 +2261,17 @@
               "titre": "Mercedes-Benz : le comité d’entreprise et le syndicat IG Metall dénoncent des menaces de fermetures d’usines en Allemagne",
               "source": "Le Monde",
               "url": "https://www.lemonde.fr/economie/article/2026/11/13/mercedes-benz-le-comite-d-entreprise-et-le-syndicat-ig-metall-denoncent-des-menaces-de-fermetures-d-usines-en-allemagne_6809327_3234.html"
+            }
+          ]
+        },
+        {
+          "date": "2026-11-22",
+          "resume": "Une cour néerlandaise a interdit à BYD de commercialiser son SUV clone du Defender dans l'Union européenne pour violation de propriété intellectuelle.",
+          "liens": [
+            {
+              "titre": "Court bans China’s BYD from selling ‘Defender clone’ SUV in EU",
+              "source": "The Guardian",
+              "url": "https://www.theguardian.com/business/2026/nov/22/court-bans-china-byd-selling-defender-clone-suv-in-eu"
             }
           ]
         }

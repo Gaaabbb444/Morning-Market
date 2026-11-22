@@ -1,6 +1,6 @@
 {
   "version_schema": 1,
-  "mis_a_jour_le": "2026-11-22T13:31:33+01:00",
+  "mis_a_jour_le": "2026-11-22T17:21:32+01:00",
   "entrees": [
     {
       "d": "2026-11-22",
@@ -85,6 +85,15 @@
     },
     {
       "d": "2026-11-22",
+      "i": "c47b09c82efc",
+      "t": "« Les Etats-Unis ont clairement intérêt à ce que les modèles IA ouverts ne l’emportent pas »",
+      "r": "Europe cherche à préserver souveraineté numérique face aux ambitions américaines en IA, selon Pauline Thomson.",
+      "c": "croissance",
+      "s": "L'Opinion",
+      "f": null
+    },
+    {
+      "d": "2026-11-22",
       "i": "f1ce9b718108",
       "t": "Après dix ans de négociations, l'Europe et l'Indonésie signent leur traité de libre-échange",
       "r": "",
@@ -117,6 +126,15 @@
       "r": "Une frappe iranienne a provoqué un incendie sur un site industriel au Bahreïn, Téhéran affirmant riposter à des tirs américains.",
       "c": "mondialisation",
       "s": "La Tribune",
+      "f": null
+    },
+    {
+      "d": "2026-11-22",
+      "i": "12e4cbe57aec",
+      "t": "Court bans China’s BYD from selling ‘Defender clone’ SUV in EU",
+      "r": "Cour néerlandaise interdit à BYD de vendre son SUV clone Defender en Union européenne pour violation de propriété intellectuelle.",
+      "c": "mondialisation",
+      "s": "The Guardian",
       "f": null
     },
     {
@@ -157,6 +175,15 @@
     },
     {
       "d": "2026-11-22",
+      "i": "e790d4c3f4d5",
+      "t": "\"The Altruits\": la cryptomonnaie pour les nuls",
+      "r": "Netflix examine le scandale FTX et ses dérives dans la série 'Les Altruistes', révélant escroquerie de 8 milliards.",
+      "c": "finance",
+      "s": "franceinfo",
+      "f": null
+    },
+    {
+      "d": "2026-11-22",
       "i": "944c9fddf794",
       "t": "Budget 2027 : la piste du 49.3 tient la corde",
       "r": "",
@@ -190,6 +217,15 @@
       "c": "desequilibres",
       "s": "L'Opinion",
       "f": "fiscalite-epargne-patrimoine"
+    },
+    {
+      "d": "2026-11-22",
+      "i": "f443b6dc67ee",
+      "t": "Centrica boss says he is 'hugely concerned' over impact of soaring energy bills",
+      "r": "Chef d'entreprise britannique s'inquiète de hausse des factures d'énergie, risque d'augmentation des impayés.",
+      "c": "desequilibres",
+      "s": "BBC",
+      "f": null
     },
     {
       "d": "2026-11-22",
@@ -235,6 +271,15 @@
       "c": "entreprises",
       "s": "BFM Business",
       "f": "conjoncture-france"
+    },
+    {
+      "d": "2026-11-22",
+      "i": "93000ba93e86",
+      "t": "Dans le Nord, Vanderschooten fait le pari de relancer le linge de maison « made in France »",
+      "r": "Entreprise familiale à Nieppe relance linge de maison fabriqué en France face à crise du pouvoir d’achat.",
+      "c": "entreprises",
+      "s": "Le Monde",
+      "f": null
     },
     {
       "d": "2026-11-22",
