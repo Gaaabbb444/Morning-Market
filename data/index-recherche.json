@@ -1,7 +1,250 @@
 {
   "version_schema": 1,
-  "mis_a_jour_le": "2026-11-22T17:21:32+01:00",
+  "mis_a_jour_le": "2026-11-23T15:26:15+01:00",
   "entrees": [
+    {
+      "d": "2026-11-23",
+      "i": "5f6a610d6270",
+      "t": "« La chute des Bourses asiatiques ressemble plus à un krach qu’à une simple correction »",
+      "r": "Les bourses asiatiques, notamment en Corée du Sud et à Taïwan, subissent de fortes chutes suite à la baisse de Wall Street, poussant les autorités à intervenir.",
+      "c": "finance",
+      "s": "Le Monde",
+      "f": null
+    },
+    {
+      "d": "2026-11-23",
+      "i": "7e9cb7afd43e",
+      "t": "L'économie française n'en finit plus de ralentir: déjà bonnet d'âne de la zone euro, la France s'enfonce encore plus dans le ralentissement et risque désormais la récession",
+      "r": "L'activité du secteur privé français se contracte en novembre à son niveau le plus bas en six mois, faisant redouter une récession sur fond d'incertitudes.",
+      "c": "croissance",
+      "s": "BFM Business",
+      "f": "conjoncture-france"
+    },
+    {
+      "d": "2026-11-23",
+      "i": "81630a7e441d",
+      "t": "Sommet Choose France 2026 : \"On a à la fois plus de projets et plus de montants investis\", souligne le ministre de l'Économie, Roland Lescure",
+      "r": "Plus de 200 projets industriels et près de 15 milliards d’euros d’investissements seront présentés lors du sommet Choose France 2026, réunissant plus de 250 dirigeants d’entreprises.",
+      "c": "entreprises",
+      "s": "franceinfo",
+      "f": null
+    },
+    {
+      "d": "2026-11-23",
+      "i": "13caff96d842",
+      "t": "Budget : une règle d'or bientôt dans la Constitution française pour sortir de la spirale de la dette ?",
+      "r": "Le gouvernement envisage d’inscrire une règle d’or budgétaire dans la Constitution pour limiter le déficit public.",
+      "c": "finance",
+      "s": "Toute l'Europe",
+      "f": "budget-2027"
+    },
+    {
+      "d": "2026-11-23",
+      "i": "c84fdaf0c093",
+      "t": "Emmanuel Macron au Figaro : «La règle d’or budgétaire peut être une idée à explorer»",
+      "r": "Le président confirme qu’il envisage d’inscrire une règle d’or budgétaire dans la Constitution, conditionnée à la situation budgétaire.",
+      "c": "finance",
+      "s": "Le Figaro",
+      "f": "budget-2027"
+    },
+    {
+      "d": "2026-11-23",
+      "i": "b77ad0d63b47",
+      "t": "Kokou Agbo-Bloua (Société Générale) : « Il n’y a pas de bulle de l’IA mais une révolution industrielle qui aura des effets profonds »",
+      "r": "",
+      "c": "croissance",
+      "s": "Le Figaro",
+      "f": null
+    },
+    {
+      "d": "2026-11-23",
+      "i": "4ffb16477d3d",
+      "t": "Protection des plantes : la recherche accélère, les solutions se diversifient",
+      "r": "La recherche mobilise de nouvelles technologies comme l'intelligence artificielle et le biocontrôle pour développer des solutions diversifiées de protection des plantes.",
+      "c": "croissance",
+      "s": "L'Opinion",
+      "f": null
+    },
+    {
+      "d": "2026-11-23",
+      "i": "3ab7d4523eb5",
+      "t": "Antoine Izambard et Pierre Gastineau, journalistes : « La contestation des résultats de la présidentielle est un scénario qui monte »",
+      "r": "",
+      "c": "croissance",
+      "s": "La Tribune",
+      "f": null
+    },
+    {
+      "d": "2026-11-23",
+      "i": "7890c5def2e1",
+      "t": "Comment l’essor de l'IA accapare les ressources et étouffe les autres secteurs",
+      "r": "",
+      "c": "croissance",
+      "s": "L'Opinion",
+      "f": null
+    },
+    {
+      "d": "2026-11-23",
+      "i": "cc0e150861e6",
+      "t": "Les Européens ont passé 10 ans à négocier un accord de libre-échange avec l'Indonésie, pendant ce temps la Chine s'est installée sur place et contrôle désormais 75% de la production de nickel",
+      "r": "Alors que Bruxelles conclut un accord de libre-échange avec l'Indonésie après dix ans de négociations, la Chine contrôle désormais une large part de la production locale de nickel.",
+      "c": "mondialisation",
+      "s": "BFM Business",
+      "f": null
+    },
+    {
+      "d": "2026-11-23",
+      "i": "c5d9ad63c773",
+      "t": "Après le rendez-vous manqué de Shenzhen, Kim Jong-un dicte son agenda à Donald Trump",
+      "r": "",
+      "c": "mondialisation",
+      "s": "L'Opinion",
+      "f": null
+    },
+    {
+      "d": "2026-11-23",
+      "i": "f871ea3bd4f7",
+      "t": "Origines, objectifs, calendrier… Quatre questions sur la \"règle d'or\" qu'Emmanuel Macron veut mettre en place",
+      "r": "Le président réfléchit à instaurer une règle d’or budgétaire afin de contraindre les futurs gouvernements à adopter des budgets à l’équilibre.",
+      "c": "finance",
+      "s": "franceinfo",
+      "f": "budget-2027"
+    },
+    {
+      "d": "2026-11-23",
+      "i": "261097f540d3",
+      "t": "Anthropic’s IPO was great for the tech elite – and not so great for the rest of us | Steven Greenhouse",
+      "r": "Anthropic a levé 81 bn USD lors de son IPO, bénéfices pour fondateurs mais inquiétudes pour travailleurs et marché.",
+      "c": "finance",
+      "s": "The Guardian",
+      "f": null
+    },
+    {
+      "d": "2026-11-23",
+      "i": "108921d16660",
+      "t": "NHS caterer Compass ‘plans stock market switch’ in blow to London",
+      "r": "Compass, société FTSE 100, prévoit passer son listing principal de Londres à New York, impact négatif pour marché britannique.",
+      "c": "finance",
+      "s": "The Guardian",
+      "f": null
+    },
+    {
+      "d": "2026-11-23",
+      "i": "3d6ca69932bd",
+      "t": "\"Règle d'or\" budgétaire dans la Constitution : \"Ça se regarde\", confirme Roland Lescure, qui précise qu'il \"faut créer une certaine forme de consensus, un débat politique\" autour de cette question",
+      "r": "Le ministre de l’Économie a confirmé qu’un Congrès pour inscrire une éventuelle règle d’or budgétaire dans la Constitution est à l’étude.",
+      "c": "finance",
+      "s": "franceinfo",
+      "f": "budget-2027"
+    },
+    {
+      "d": "2026-11-23",
+      "i": "c72ff59a4cbb",
+      "t": "Budget de la France : à quoi servirait la \"règle d'or budgétaire\" souhaitée par Emmanuel Macron ?",
+      "r": "",
+      "c": "desequilibres",
+      "s": "franceinfo",
+      "f": null
+    },
+    {
+      "d": "2026-11-23",
+      "i": "1dfbf244af1a",
+      "t": "\"Règle d'or\" budgétaire : \"Une idée démocrate, ni de droite ni de gauche\", explique l'ancien commissaire européen Thierry Breton",
+      "r": "",
+      "c": "desequilibres",
+      "s": "franceinfo",
+      "f": null
+    },
+    {
+      "d": "2026-11-23",
+      "i": "09ab7fb87ffd",
+      "t": "Pour stabiliser la dette, faut-il vraiment passer par une cure d'austérité ?",
+      "r": "",
+      "c": "desequilibres",
+      "s": "Alternatives Économiques",
+      "f": null
+    },
+    {
+      "d": "2026-11-23",
+      "i": "a3acd7228660",
+      "t": "« Macroéconomiquement, ça ne tient pas » : ces risques que la réforme des retraites du RN ferait peser sur la croissance et le déficit",
+      "r": "",
+      "c": "desequilibres",
+      "s": "Les Echos",
+      "f": null
+    },
+    {
+      "d": "2026-11-23",
+      "i": "dceb979879bc",
+      "t": "Budget 2028-2034 de l'UE : le président du Conseil européen propose de réduire l'enveloppe de 204 milliards d’euros",
+      "r": "",
+      "c": "ue",
+      "s": "Toute l'Europe",
+      "f": null
+    },
+    {
+      "d": "2026-11-23",
+      "i": "f1f7365db55f",
+      "t": "Les financements européens accessibles aux collectivités territoriales",
+      "r": "",
+      "c": "ue",
+      "s": "Toute l'Europe",
+      "f": null
+    },
+    {
+      "d": "2026-11-23",
+      "i": "337ebf2a5818",
+      "t": "Le Digital Fairness Act, un projet de règlement européen qui affole l’industrie du jeu vidéo",
+      "r": "",
+      "c": "ue",
+      "s": "Le Monde",
+      "f": null
+    },
+    {
+      "d": "2026-11-23",
+      "i": "a0834c580628",
+      "t": "Qui sont les chefs d'État et de gouvernement des pays de l'Union européenne ?",
+      "r": "",
+      "c": "ue",
+      "s": "Toute l'Europe",
+      "f": null
+    },
+    {
+      "d": "2026-11-23",
+      "i": "c1e34f913a83",
+      "t": "La désindustrialisation accélère en France",
+      "r": "La France a vu plus de fermetures que d’ouvertures d’usines ces trois dernières années, malgré 15 milliards d’euros d’investissements annoncés lors du sommet Choose France.",
+      "c": "entreprises",
+      "s": "BFM Business",
+      "f": "conjoncture-france"
+    },
+    {
+      "d": "2026-11-23",
+      "i": "505a5cad4038",
+      "t": "DIRECT. Sommet Choose France : Emmanuel Macron annonce la création de \"zones industrielles à fort potentiel\" où les procédures d'installation seront simplifiées",
+      "r": "Le président annonce la création de zones industrielles à fort potentiel, avec des procédures d’installation simplifiées pour accélérer la création de sites industriels.",
+      "c": "entreprises",
+      "s": "franceinfo",
+      "f": null
+    },
+    {
+      "d": "2026-11-23",
+      "i": "416200d9e7b3",
+      "t": "Chez Airbus, Emmanuel Macron encourage la filière aéronatique à \"aller plus vite\" pour produire plus et à \"ne pas attendre les résultats\" de la concurrence chinoise",
+      "r": "Président Macron visite Airbus à Toulouse pour inaugurer nouvelle ligne d'assemblage de l'A320.",
+      "c": "entreprises",
+      "s": "BFM Business",
+      "f": null
+    },
+    {
+      "d": "2026-11-23",
+      "i": "2029748c77b8",
+      "t": "Sommet Choose France : \"Il y a un investissement qui marche à deux vitesses en France\", résume l'économiste Thomas Grjebine",
+      "r": "Économiste Thomas Grjebine souligne disparités d'investissement en France lors du sommet Choose France.",
+      "c": "entreprises",
+      "s": "franceinfo",
+      "f": null
+    },
     {
       "d": "2026-11-22",
       "i": "7e636f38e472",
