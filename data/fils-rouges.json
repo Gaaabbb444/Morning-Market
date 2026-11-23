@@ -1,6 +1,6 @@
 {
   "version_schema": 1,
-  "mis_a_jour_le": "2026-11-22T17:22:34+01:00",
+  "mis_a_jour_le": "2026-11-23T21:20:11+01:00",
   "fils": [
     {
       "id": "budget-2027",
@@ -11,8 +11,8 @@
       "categories": [
         "desequilibres"
       ],
-      "ou_en_est_on": "Le débat budgétaire reste particulièrement tendu alors que la Commission européenne abaisse sa prévision de croissance française, contraignant l'exécutif à rechercher d'importantes économies supplémentaires. Le Sénat poursuit l'examen du projet de loi de finances pour 2027 pour tenter d'ajuster la copie budgétaire, tandis que l'ancien ministre de l'Économie Thierry Breton dénonce une indiscipline budgétaire. Parallèlement, l'éventualité de convoquer le Congrès pour instaurer une règle d'or budgétaire suscite des réactions contrastées parmi les oppositions politiques.",
-      "ou_en_est_on_maj_le": "2026-11-22",
+      "ou_en_est_on": "Le débat budgétaire s'intensifie alors que le Sénat commence l'examen des articles du projet de loi de finances pour 2027, incluant des amendements sur la location meublée non professionnelle et la suppression de certains avantages fiscaux. Parallèlement, l'hypothèse d'inscrire une règle d'or budgétaire dans la Constitution suscite des réactions contrastées parmi les acteurs politiques et les parlementaires. L'exécutif cherche à rassurer les marchés financiers face aux difficultés persistantes sur la trajectoire des comptes publics.",
+      "ou_en_est_on_maj_le": "2026-11-23",
       "evenements": [
         {
           "date": "2026-10-17",
@@ -729,6 +729,37 @@
               "titre": "\"On souffre en France d'une indiscipline budgétaire\", dénonce Thierry Breton, ancien ministre de l'Économie",
               "source": "BFM Business",
               "url": "https://www.bfmtv.com/economie/video-on-souffre-en-france-d-une-indiscipline-budgetaire-denonce-thierry-breton-ancien-ministre-de-l-economie_VN-202611210455.html"
+            }
+          ]
+        },
+        {
+          "date": "2026-11-23",
+          "resume": "Le Sénat entame l'examen du projet de loi de finances pour 2027, abordant notamment les dispositions relatives à la location meublée non professionnelle et au débat sur la règle d'or budgétaire.",
+          "liens": [
+            {
+              "titre": "Règle budgétaire : le piège en or d'Emmanuel Macron",
+              "source": "L'Opinion",
+              "url": "https://www.lopinion.fr/politique/regle-budgetaire-le-piege-en-or-demmanuel-macron"
+            },
+            {
+              "titre": "LMNP 2027 : 18 amendements au Sénat pour supprimer le plafonnement de l'amortissement",
+              "source": "Capital",
+              "url": "https://www.capital.fr/immobilier/lmnp-2027-18-amendements-au-senat-pour-supprimer-le-plafonnement-de-l-amortissement-1532090"
+            },
+            {
+              "titre": "La \"règle d'or\" budgétaire envisagée par Emmanuel Macron, un dispositif pensé pour \"calmer les marchés financiers\" et garantir l'équilibre des comptes publics",
+              "source": "franceinfo",
+              "url": "https://www.franceinfo.fr/economie/crise/crise-de-la-dette/la-regle-d-or-budgetaire-envisagee-par-emmanuel-macron-un-dispositif-pense-pour-calmer-les-marches-financiers-et-garantir-l-equilibre-des-comptes-publics_8295920.html#xtor=RSS-3-%5Beconomie%5D"
+            },
+            {
+              "titre": "Le président de la commission des finances de l'Assemblée nationale, Éric Coquerel, se dit \"fondamentalement opposé\" au projet d'instauration d'une \"règle d'or\" budgétaire",
+              "source": "franceinfo",
+              "url": "https://www.franceinfo.fr/economie/le-depute-insoumis-eric-coquerel-se-dit-fondamentalement-oppose-au-projet-d-instauration-d-une-regle-d-or-budgetaire_8296287.html#xtor=RSS-3-%5Beconomie%5D"
+            },
+            {
+              "titre": "Grande transmission : le budget 2027, entre incitations et fiscalité renforcée",
+              "source": "L'Opinion",
+              "url": "https://www.lopinion.fr/patrimoine/grande-transmission-le-budget-2027-entre-incitations-et-fiscalite-renforcee"
             }
           ]
         }

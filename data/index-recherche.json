@@ -1,6 +1,6 @@
 {
   "version_schema": 1,
-  "mis_a_jour_le": "2026-11-23T15:26:15+01:00",
+  "mis_a_jour_le": "2026-11-23T21:19:53+01:00",
   "entrees": [
     {
       "d": "2026-11-23",
@@ -85,6 +85,15 @@
     },
     {
       "d": "2026-11-23",
+      "i": "27efb89eb8fa",
+      "t": "\"Si un jour, j'ai un cadeau à faire peut-être plus important, je pourrai récupérer l'argent\" : comment les plateformes de seconde main permettent à certains d'arrondir leurs fins de mois",
+      "r": "Face à la baisse du pouvoir d'achat, la vente de biens sur les plateformes de seconde main permet à certains utilisateurs de financer leurs dépenses courantes.",
+      "c": "croissance",
+      "s": "franceinfo",
+      "f": null
+    },
+    {
+      "d": "2026-11-23",
       "i": "cc0e150861e6",
       "t": "Les Européens ont passé 10 ans à négocier un accord de libre-échange avec l'Indonésie, pendant ce temps la Chine s'est installée sur place et contrôle désormais 75% de la production de nickel",
       "r": "Alors que Bruxelles conclut un accord de libre-échange avec l'Indonésie après dix ans de négociations, la Chine contrôle désormais une large part de la production locale de nickel.",
@@ -139,6 +148,15 @@
     },
     {
       "d": "2026-11-23",
+      "i": "5ce0cc5fd87e",
+      "t": "Règle budgétaire : le piège en or d'Emmanuel Macron",
+      "r": "Le débat sur l’inscription d’une règle d’or budgétaire dans la Constitution se poursuit, avec des positions variées sur la gestion des déficits.",
+      "c": "finance",
+      "s": "L'Opinion",
+      "f": "budget-2027"
+    },
+    {
+      "d": "2026-11-23",
       "i": "c72ff59a4cbb",
       "t": "Budget de la France : à quoi servirait la \"règle d'or budgétaire\" souhaitée par Emmanuel Macron ?",
       "r": "",
@@ -172,6 +190,15 @@
       "c": "desequilibres",
       "s": "Les Echos",
       "f": null
+    },
+    {
+      "d": "2026-11-23",
+      "i": "132c5ea58d38",
+      "t": "Partir à 65 ans, moins augmenter les pensions, tailler dans les départs anticipés... Les remèdes choc de la Cour des comptes pour éviter l'explosion du déficit des retraites (45 milliards en 2050)",
+      "r": "La Cour des comptes propose de maîtriser le déficit des retraites en augmentant l’âge de départ et en sous-indexant les pensions.",
+      "c": "desequilibres",
+      "s": "BFM Business",
+      "f": "retraites"
     },
     {
       "d": "2026-11-23",
@@ -244,6 +271,24 @@
       "c": "entreprises",
       "s": "franceinfo",
       "f": null
+    },
+    {
+      "d": "2026-11-23",
+      "i": "44e6a4cf6581",
+      "t": "EN DIRECT, Jensen Huang réintégré chez Nvidia à la surprise générale : le dirigeant accueilli sous les applaudissements de centaines de salariés",
+      "r": "Le conseil d’administration de Nvidia a réintégré Jensen Huang comme directeur général et président, dix jours après sa démission liée à un scandale.",
+      "c": "entreprises",
+      "s": "Le Monde",
+      "f": null
+    },
+    {
+      "d": "2026-11-23",
+      "i": "1ea980f20fab",
+      "t": "Comment fonctionne la solidarité fiscale dans le couple ?",
+      "r": "Les couples mariés ou pacsés sont soumis à la solidarité fiscale, les tenant conjointement responsables du paiement des impôts communs, même après une séparation.",
+      "c": "epargne",
+      "s": "Ministère de l'Économie",
+      "f": "fiscalite-epargne-patrimoine"
     },
     {
       "d": "2026-11-22",
