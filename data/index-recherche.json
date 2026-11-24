@@ -1,7 +1,295 @@
 {
   "version_schema": 1,
-  "mis_a_jour_le": "2026-11-23T21:19:53+01:00",
+  "mis_a_jour_le": "2026-11-24T15:48:22+01:00",
   "entrees": [
+    {
+      "d": "2026-11-24",
+      "i": "b4c77b26ae48",
+      "t": "Budget : Sébastien Lecornu tend la main aux parlementaires pour un compromis, sans toucher au déficit",
+      "r": "Premier ministre propose compromis budgétaire 2027, priorités agriculture, éducation, pouvoir d’achat, logement, collectivités.",
+      "c": "finance",
+      "s": "Le Figaro",
+      "f": "budget-2027"
+    },
+    {
+      "d": "2026-11-24",
+      "i": "fc3047a3f321",
+      "t": "L’UE limite les importations de voitures hybrides en provenance de Chine, comme convenu le mois dernier avec Pékin",
+      "r": "UE plafonne exportations de voitures hybrides chinoises à 350 000/an pour protéger l’industrie européenne.",
+      "c": "ue",
+      "s": "Le Monde",
+      "f": "automobile-europe-chine"
+    },
+    {
+      "d": "2026-11-24",
+      "i": "91bb7d50f527",
+      "t": "La France veut son stock de terres rares",
+      "r": "France veut créer des stocks stratégiques de terres rares pour réduire dépendance à la Chine.",
+      "c": "entreprises",
+      "s": "franceinfo",
+      "f": null
+    },
+    {
+      "d": "2026-11-24",
+      "i": "e3c0d9ba328f",
+      "t": "Sanofi, en s’offrant l’américain Insmed, se lance dans la plus importante acquisition de son histoire depuis 2004",
+      "r": "Sanofi rachète Insmed pour 37,6 milliards d’euros, renforçant son portefeuille de traitements respiratoires.",
+      "c": "entreprises",
+      "s": "Le Monde",
+      "f": null
+    },
+    {
+      "d": "2026-11-24",
+      "i": "210e9d89a4d1",
+      "t": "Guerre en Ukraine : Kiev revendique des frappes contre deux navires russes en Libye",
+      "r": "Ukraine a frappé deux navires russes en Libye, étendant le conflit à la Méditerranée.",
+      "c": "desequilibres",
+      "s": "Toute l'Europe",
+      "f": "ukraine-sanctions"
+    },
+    {
+      "d": "2026-11-24",
+      "i": "be76f9da6f41",
+      "t": "« Nous faisons de l’innovation technique un usage sans discernement »",
+      "r": "",
+      "c": "croissance",
+      "s": "L'Opinion",
+      "f": null
+    },
+    {
+      "d": "2026-11-24",
+      "i": "8040fe591597",
+      "t": "A Lyon, PulseLife a commencé à tester son agent conversationnel IA dans les services d'urgence",
+      "r": "",
+      "c": "croissance",
+      "s": "La Tribune",
+      "f": null
+    },
+    {
+      "d": "2026-11-24",
+      "i": "db17619b0a48",
+      "t": "OPINION. « L’inclusion financière ne peut exister sans confiance »",
+      "r": "",
+      "c": "croissance",
+      "s": "La Tribune",
+      "f": null
+    },
+    {
+      "d": "2026-11-24",
+      "i": "bdd96297814a",
+      "t": "Workait, la start-up qui permet aux salariés de louer leur double numérique",
+      "r": "",
+      "c": "croissance",
+      "s": "L'Opinion",
+      "f": null
+    },
+    {
+      "d": "2026-11-24",
+      "i": "fe276f4c025c",
+      "t": "« Les primes ne suffisent plus à couvrir les pertes liées à la guerre » : le vrai coût du commerce maritime en mer Noire et dans le détroit d'Ormuz",
+      "r": "",
+      "c": "mondialisation",
+      "s": "Les Echos",
+      "f": null
+    },
+    {
+      "d": "2026-11-24",
+      "i": "eb6725cc04c2",
+      "t": "Une première dans l'espace pour le Pakistan et la Chine",
+      "r": "",
+      "c": "mondialisation",
+      "s": "L'Opinion",
+      "f": null
+    },
+    {
+      "d": "2026-11-24",
+      "i": "93e525b67e8d",
+      "t": "La difficile quête de souveraineté de la filière drones, dépendante de composants critiques chinois",
+      "r": "",
+      "c": "mondialisation",
+      "s": "Le Monde",
+      "f": null
+    },
+    {
+      "d": "2026-11-24",
+      "i": "d040f8999dcf",
+      "t": "Les épargnants ont retiré près de 10 milliards d’euros de leurs Livret A depuis janvier, un record depuis dix ans",
+      "r": "Épargnants ont retiré près de 10 milliards d’euros du Livret A depuis janvier, record depuis 2008.",
+      "c": "finance",
+      "s": "Le Monde",
+      "f": "fiscalite-epargne-patrimoine"
+    },
+    {
+      "d": "2026-11-24",
+      "i": "3c1e588d96b3",
+      "t": "Budget 2027 : \"Tout le monde fait des efforts. Il n'y a pas un ciblage des retraités\", assure Serge Papin, ministre du Commerce et du Pouvoir d'achat",
+      "r": "Serge Papin souligne que le budget 2027 vise à soutenir le pouvoir d'achat, tout en supprimant l'abattement des 10 % des retraités.",
+      "c": "finance",
+      "s": "franceinfo",
+      "f": "budget-2027"
+    },
+    {
+      "d": "2026-11-24",
+      "i": "0cc30de42739",
+      "t": "Budget 2027 : le Sénat approuve un allègement de fiscalité des dons d’argent entre générations",
+      "r": "La mesure d’allègement de fiscalité des dons d’argent entre générations est incluse dans le projet de budget 2027.",
+      "c": "finance",
+      "s": "Le Figaro",
+      "f": "budget-2027"
+    },
+    {
+      "d": "2026-11-24",
+      "i": "cc46f0e32fc1",
+      "t": "« Et si c'était vous le ministre ? » : un simulateur permet de tout savoir sur le budget de l’Education nationale",
+      "r": "Un simulateur calcule le coût des mesures budgétaires de l’Éducation nationale.",
+      "c": "finance",
+      "s": "L'Opinion",
+      "f": "budget-2027"
+    },
+    {
+      "d": "2026-11-24",
+      "i": "5611106078e5",
+      "t": "En octobre 2026, les prix du pétrole et du gaz continuent d’augmenter fortement",
+      "r": "En octobre 2026, le prix du pétrole en euros augmente fortement (+9,2 % sur un mois) et celui du gaz (+15,2 %) suit la même tendance globalement.",
+      "c": "desequilibres",
+      "s": "INSEE",
+      "f": null
+    },
+    {
+      "d": "2026-11-24",
+      "i": "78381e493ab2",
+      "t": "Suppression de l'abattement fiscal de 10% appliqué aux pensions de retraites : \"Je salue le choix courageux du Sénat\", confie David Amiel, ministre des Comptes publics",
+      "r": "",
+      "c": "desequilibres",
+      "s": "franceinfo",
+      "f": null
+    },
+    {
+      "d": "2026-11-24",
+      "i": "2dd09e96514f",
+      "t": "Seuls six étudiants sur dix ont reçu une proposition de master en 2026",
+      "r": "Le nombre d’étudiants recevant une proposition de master a chuté de sept points en un an.",
+      "c": "desequilibres",
+      "s": "franceinfo",
+      "f": null
+    },
+    {
+      "d": "2026-11-24",
+      "i": "98a3d361c628",
+      "t": "Onze mois de salaire à débourser en seulement trois mois: le coût exorbitant d'un départ pour les femmes victimes de violences conjugales",
+      "r": "Une femme victime de violences conjugales doit dépenser 16 842 euros en trois mois, près de onze mois de salaire.",
+      "c": "desequilibres",
+      "s": "BFM Business",
+      "f": null
+    },
+    {
+      "d": "2026-11-24",
+      "i": "cfbaf1a56a53",
+      "t": "Au Parlement européen, ce qui change et ce qui reste négociable pour le secteur agroalimentaire",
+      "r": "",
+      "c": "ue",
+      "s": "L'Opinion",
+      "f": null
+    },
+    {
+      "d": "2026-11-24",
+      "i": "ff0ca2562849",
+      "t": "Un convoi de solidarité pour l'Ukraine s'arrête à Strasbourg et fait entendre sa voix au Parlement européen",
+      "r": "",
+      "c": "ue",
+      "s": "Toute l'Europe",
+      "f": null
+    },
+    {
+      "d": "2026-11-24",
+      "i": "a176747b2c80",
+      "t": "PAC : Emmanuel Macron recevra les syndicats agricoles mercredi pour faire le point sur le prochain budget européen",
+      "r": "",
+      "c": "ue",
+      "s": "Le Monde",
+      "f": null
+    },
+    {
+      "d": "2026-11-24",
+      "i": "9f84839aeeb1",
+      "t": "Pourquoi rouvrir le débat sur le Brexit est un risque politique pour Andy Burnham",
+      "r": "Les résultats ambigus du sommet soulignent la difficulté des négociations entre le Royaume‑Uni et l’Union européenne.",
+      "c": "ue",
+      "s": "L'Opinion",
+      "f": "ukraine-sanctions"
+    },
+    {
+      "d": "2026-11-24",
+      "i": "4ef34ef7b2e1",
+      "t": "Bientôt des voitures chinoises \"made in France\"? Le géant automobile BYD entre en négociations exclusives pour racheter l'usine française d'Hambach",
+      "r": "BYD négocie l'acquisition de l'usine de Hambach pour produire en France, renforçant sa présence européenne.",
+      "c": "entreprises",
+      "s": "BFM Business",
+      "f": null
+    },
+    {
+      "d": "2026-11-24",
+      "i": "175063e39734",
+      "t": "« Lego a posé une brique de plus dans sa conquête du monde des jeux »",
+      "r": "Lego ouvre nouvelle usine au Portugal, renforçant sa capacité de production mondiale.",
+      "c": "entreprises",
+      "s": "Le Monde",
+      "f": null
+    },
+    {
+      "d": "2026-11-24",
+      "i": "c623a20f6de4",
+      "t": "Automobile : les ventes de voitures neuves dans l’UE augmentent, tirées par les véhicules électriques",
+      "r": "Ventes de voitures neuves UE augmentent de 5,4 %, électriques représentant près d’un quart des immatriculations.",
+      "c": "entreprises",
+      "s": "Le Monde",
+      "f": null
+    },
+    {
+      "d": "2026-11-24",
+      "i": "f5c76b22f48a",
+      "t": "«Les Français veulent se faire plaisir» : malgré l’inflation, le secteur du jouet en route vers une nouvelle année record",
+      "r": "Le secteur du jouet a vendu 267 millions de jouets, atteignant un chiffre d’affaires proche de 5 milliards d’euros.",
+      "c": "entreprises",
+      "s": "Le Figaro",
+      "f": null
+    },
+    {
+      "d": "2026-11-24",
+      "i": "86cdf4d7262f",
+      "t": "\"Les ménages ont été amenés à puiser dans leur épargne\" : on vous explique pourquoi le livret A est laissé pour compte",
+      "r": "",
+      "c": "epargne",
+      "s": "franceinfo",
+      "f": null
+    },
+    {
+      "d": "2026-11-24",
+      "i": "7ff857ab1510",
+      "t": "Transfert de PER, PERP ou Madelin : frais, délais, quand changer de contrat",
+      "r": "",
+      "c": "epargne",
+      "s": "Capital",
+      "f": null
+    },
+    {
+      "d": "2026-11-24",
+      "i": "c1eaa2db9d8f",
+      "t": "Assurance-vie : que penser des fonds euros nouvelle génération ?",
+      "r": "",
+      "c": "epargne",
+      "s": "Le Monde",
+      "f": null
+    },
+    {
+      "d": "2026-11-24",
+      "i": "d98a45c78ff9",
+      "t": "Grande transmission : les outils pour optimiser sa succession fiscale",
+      "r": "",
+      "c": "epargne",
+      "s": "L'Opinion",
+      "f": null
+    },
     {
       "d": "2026-11-23",
       "i": "5f6a610d6270",
