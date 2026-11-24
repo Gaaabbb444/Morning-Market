@@ -1,9 +1,9 @@
 {
   "version_schema": 1,
   "derniere_execution": {
-    "debut": "2026-11-24T15:44:16+01:00",
-    "fin": "2026-11-24T15:48:22+01:00",
-    "type": "matin",
+    "debut": "2026-11-24T20:32:03+01:00",
+    "fin": "2026-11-24T20:35:51+01:00",
+    "type": "fin-de-matinee",
     "resultat": "partiel"
   },
   "derniere_edition": "2026-11-24",
@@ -14,7 +14,7 @@
       "etat": "ok",
       "articles": 20,
       "message": null,
-      "dernier_succes": "2026-11-24T15:44:26+01:00"
+      "dernier_succes": "2026-11-24T20:32:14+01:00"
     },
     {
       "id": "lemonde-argent",
@@ -22,7 +22,7 @@
       "etat": "ok",
       "articles": 6,
       "message": null,
-      "dernier_succes": "2026-11-24T15:44:26+01:00"
+      "dernier_succes": "2026-11-24T20:32:14+01:00"
     },
     {
       "id": "figaro-eco",
@@ -30,7 +30,7 @@
       "etat": "ok",
       "articles": 18,
       "message": null,
-      "dernier_succes": "2026-11-24T15:44:26+01:00"
+      "dernier_succes": "2026-11-24T20:32:14+01:00"
     },
     {
       "id": "figaro-placement",
@@ -38,7 +38,7 @@
       "etat": "vide",
       "articles": 0,
       "message": "aucun article récent",
-      "dernier_succes": "2026-11-24T15:44:26+01:00"
+      "dernier_succes": "2026-11-24T20:32:14+01:00"
     },
     {
       "id": "franceinfo-eco",
@@ -46,23 +46,23 @@
       "etat": "ok",
       "articles": 20,
       "message": null,
-      "dernier_succes": "2026-11-24T15:44:26+01:00"
+      "dernier_succes": "2026-11-24T20:32:14+01:00"
     },
     {
       "id": "lesechos",
       "nom": "Les Echos",
       "etat": "ok",
-      "articles": 100,
+      "articles": 99,
       "message": null,
-      "dernier_succes": "2026-11-24T15:44:26+01:00"
+      "dernier_succes": "2026-11-24T20:32:14+01:00"
     },
     {
       "id": "latribune",
       "nom": "La Tribune",
       "etat": "ok",
-      "articles": 19,
+      "articles": 20,
       "message": null,
-      "dernier_succes": "2026-11-24T15:44:26+01:00"
+      "dernier_succes": "2026-11-24T20:32:14+01:00"
     },
     {
       "id": "bfm-business",
@@ -70,47 +70,47 @@
       "etat": "ok",
       "articles": 13,
       "message": null,
-      "dernier_succes": "2026-11-24T15:44:26+01:00"
+      "dernier_succes": "2026-11-24T20:32:14+01:00"
     },
     {
       "id": "capital",
       "nom": "Capital",
       "etat": "ok",
-      "articles": 7,
+      "articles": 10,
       "message": null,
-      "dernier_succes": "2026-11-24T15:44:26+01:00"
+      "dernier_succes": "2026-11-24T20:32:14+01:00"
     },
     {
       "id": "alternatives-eco",
       "nom": "Alternatives Économiques",
       "etat": "ok",
-      "articles": 3,
+      "articles": 4,
       "message": null,
-      "dernier_succes": "2026-11-24T15:44:26+01:00"
+      "dernier_succes": "2026-11-24T20:32:14+01:00"
     },
     {
       "id": "lopinion",
       "nom": "L'Opinion",
       "etat": "ok",
-      "articles": 69,
+      "articles": 71,
       "message": null,
-      "dernier_succes": "2026-11-24T15:44:26+01:00"
+      "dernier_succes": "2026-11-24T20:32:14+01:00"
     },
     {
       "id": "toute-l-europe",
       "nom": "Toute l'Europe",
       "etat": "ok",
-      "articles": 12,
+      "articles": 9,
       "message": null,
-      "dernier_succes": "2026-11-24T15:44:26+01:00"
+      "dernier_succes": "2026-11-24T20:32:14+01:00"
     },
     {
       "id": "bce",
       "nom": "BCE",
       "etat": "ok",
-      "articles": 3,
+      "articles": 2,
       "message": null,
-      "dernier_succes": "2026-11-24T15:44:26+01:00"
+      "dernier_succes": "2026-11-24T20:32:14+01:00"
     },
     {
       "id": "insee",
@@ -118,7 +118,7 @@
       "etat": "ok",
       "articles": 2,
       "message": null,
-      "dernier_succes": "2026-11-24T15:44:26+01:00"
+      "dernier_succes": "2026-11-24T20:32:14+01:00"
     },
     {
       "id": "economie-gouv",
@@ -126,15 +126,15 @@
       "etat": "ok",
       "articles": 4,
       "message": null,
-      "dernier_succes": "2026-11-24T15:44:26+01:00"
+      "dernier_succes": "2026-11-24T20:32:14+01:00"
     },
     {
       "id": "bbc-business",
       "nom": "BBC",
       "etat": "ok",
-      "articles": 22,
+      "articles": 17,
       "message": null,
-      "dernier_succes": "2026-11-24T15:44:26+01:00"
+      "dernier_succes": "2026-11-24T20:32:14+01:00"
     },
     {
       "id": "guardian-business",
@@ -150,84 +150,84 @@
       "id": "cac40",
       "etat": "ok",
       "source_utilisee": "principale",
-      "dernier_succes": "2026-11-24T15:44:27+01:00",
+      "dernier_succes": "2026-11-24T20:32:16+01:00",
       "message": null
     },
     {
       "id": "eurostoxx50",
       "etat": "ok",
       "source_utilisee": "principale",
-      "dernier_succes": "2026-11-24T15:44:27+01:00",
+      "dernier_succes": "2026-11-24T20:32:16+01:00",
       "message": null
     },
     {
       "id": "sp500",
       "etat": "ok",
       "source_utilisee": "principale",
-      "dernier_succes": "2026-11-24T15:44:27+01:00",
+      "dernier_succes": "2026-11-24T20:32:16+01:00",
       "message": null
     },
     {
       "id": "brent",
       "etat": "ok",
       "source_utilisee": "principale",
-      "dernier_succes": "2026-11-24T15:44:28+01:00",
+      "dernier_succes": "2026-11-24T20:32:16+01:00",
       "message": null
     },
     {
       "id": "or",
       "etat": "ok",
       "source_utilisee": "principale",
-      "dernier_succes": "2026-11-24T15:44:28+01:00",
+      "dernier_succes": "2026-11-24T20:32:16+01:00",
       "message": null
     },
     {
       "id": "eur-usd",
       "etat": "ok",
       "source_utilisee": "principale",
-      "dernier_succes": "2026-11-24T15:44:30+01:00",
+      "dernier_succes": "2026-11-24T20:32:17+01:00",
       "message": null
     },
     {
       "id": "taux-depot-bce",
       "etat": "ok",
       "source_utilisee": "principale",
-      "dernier_succes": "2026-11-24T15:44:35+01:00",
+      "dernier_succes": "2026-11-24T20:32:18+01:00",
       "message": null
     },
     {
       "id": "taux-10-ans-france",
       "etat": "ok",
       "source_utilisee": "principale",
-      "dernier_succes": "2026-11-24T15:44:37+01:00",
+      "dernier_succes": "2026-11-24T20:32:19+01:00",
       "message": null
     },
     {
       "id": "inflation-france",
       "etat": "ok",
       "source_utilisee": "principale",
-      "dernier_succes": "2026-11-24T15:44:38+01:00",
+      "dernier_succes": "2026-11-24T20:32:19+01:00",
       "message": null
     },
     {
       "id": "inflation-zone-euro",
       "etat": "ok",
       "source_utilisee": "principale",
-      "dernier_succes": "2026-11-24T15:44:38+01:00",
+      "dernier_succes": "2026-11-24T20:32:20+01:00",
       "message": null
     },
     {
       "id": "chomage-france",
       "etat": "ok",
       "source_utilisee": "principale",
-      "dernier_succes": "2026-11-24T15:44:39+01:00",
+      "dernier_succes": "2026-11-24T20:32:21+01:00",
       "message": null
     },
     {
       "id": "pib-france",
       "etat": "ok",
       "source_utilisee": "principale",
-      "dernier_succes": "2026-11-24T15:44:39+01:00",
+      "dernier_succes": "2026-11-24T20:32:21+01:00",
       "message": null
     }
   ],
@@ -236,159 +236,111 @@
       "gemini",
       "groq"
     ],
-    "requetes": 30,
+    "requetes": 21,
     "requetes_par_modele": {
       "gemini/gemini-3.5-flash-lite": 15,
-      "groq/openai/gpt-oss-20b": 9,
-      "gemini/gemini-3.8-flash": 6
+      "groq/openai/gpt-oss-20b": 3,
+      "gemini/gemini-3.8-flash": 2,
+      "groq/openai/gpt-oss-120b": 1
     },
     "erreurs": [
       {
         "tache": "classement",
+        "fournisseur": "gemini",
+        "modele": "gemini-3.5-flash-lite",
+        "nature": "erreur serveur (503)",
+        "detail": "nouvel essai"
+      },
+      {
+        "tache": "classement",
+        "fournisseur": "gemini",
+        "modele": "gemini-3.5-flash-lite",
+        "nature": "erreur 503",
+        "detail": "[{\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAILABLE\"\n  }\n}\n]"
+      },
+      {
+        "tache": "classement",
+        "fournisseur": "gemini",
+        "modele": "gemini-3.5-flash-lite",
+        "nature": "erreur serveur (503)",
+        "detail": "nouvel essai"
+      },
+      {
+        "tache": "classement",
+        "fournisseur": "gemini",
+        "modele": "gemini-3.5-flash-lite",
+        "nature": "erreur 503",
+        "detail": "[{\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAILABLE\"\n  }\n}\n]"
+      },
+      {
+        "tache": "classement",
+        "fournisseur": "gemini",
+        "modele": "gemini-3.5-flash-lite",
+        "nature": "erreur serveur (503)",
+        "detail": "nouvel essai"
+      },
+      {
+        "tache": "classement",
+        "fournisseur": "gemini",
+        "modele": "gemini-3.5-flash-lite",
+        "nature": "erreur 503",
+        "detail": "[{\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAILABLE\"\n  }\n}\n]"
+      },
+      {
+        "tache": "classement",
+        "fournisseur": "gemini",
+        "modele": "gemini-3.5-flash-lite",
+        "nature": "erreur serveur (503)",
+        "detail": "nouvel essai"
+      },
+      {
+        "tache": "citation",
+        "fournisseur": "gemini",
+        "modele": "gemini-3.5-flash-lite",
+        "nature": "erreur serveur (503)",
+        "detail": "nouvel essai"
+      },
+      {
+        "tache": "fils-rouges",
+        "fournisseur": "gemini",
+        "modele": "gemini-3.8-flash",
+        "nature": "erreur serveur (503)",
+        "detail": "nouvel essai"
+      },
+      {
+        "tache": "fils-rouges",
+        "fournisseur": "gemini",
+        "modele": "gemini-3.8-flash",
+        "nature": "erreur 503",
+        "detail": "[{\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAILABLE\"\n  }\n}\n]"
+      },
+      {
+        "tache": "fils-rouges",
         "fournisseur": "groq",
-        "modele": "openai/gpt-oss-20b",
-        "nature": "quota (429)",
-        "detail": "nouvel essai dans 25 s"
+        "modele": "openai/gpt-oss-120b",
+        "nature": "erreur 413",
+        "detail": "{\"error\":{\"message\":\"Request too large for model `openai/gpt-oss-120b` in organization `org_01m55k726eekfsb21rp89p8mpg` service tier `on_demand` on tokens per minute (TPM): Limit 8000, Requested 9754,"
       },
       {
-        "tache": "classement",
-        "fournisseur": "groq",
-        "modele": "openai/gpt-oss-20b",
-        "nature": "réponse refusée",
-        "detail": "seulement 6/20 événements classés"
-      },
-      {
-        "tache": "classement",
-        "fournisseur": "gemini",
-        "modele": "gemini-3.8-flash",
-        "nature": "erreur serveur (503)",
-        "detail": "nouvel essai"
-      },
-      {
-        "tache": "classement",
-        "fournisseur": "gemini",
-        "modele": "gemini-3.8-flash",
-        "nature": "erreur 503",
-        "detail": "[{\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAILABLE\"\n  }\n}\n]"
-      },
-      {
-        "tache": "classement",
+        "tache": "fils-rouges",
         "fournisseur": "gemini",
         "modele": "gemini-3.5-flash-lite",
         "nature": "erreur serveur (503)",
         "detail": "nouvel essai"
       },
       {
-        "tache": "classement",
+        "tache": "fils-rouges",
         "fournisseur": "gemini",
         "modele": "gemini-3.5-flash-lite",
         "nature": "erreur 503",
         "detail": "[{\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAILABLE\"\n  }\n}\n]"
-      },
-      {
-        "tache": "classement",
-        "fournisseur": "gemini",
-        "modele": "gemini-3.5-flash-lite",
-        "nature": "erreur serveur (503)",
-        "detail": "nouvel essai"
-      },
-      {
-        "tache": "classement",
-        "fournisseur": "gemini",
-        "modele": "gemini-3.5-flash-lite",
-        "nature": "erreur 503",
-        "detail": "[{\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAILABLE\"\n  }\n}\n]"
-      },
-      {
-        "tache": "classement",
-        "fournisseur": "groq",
-        "modele": "openai/gpt-oss-20b",
-        "nature": "quota (429)",
-        "detail": "nouvel essai dans 10 s"
-      },
-      {
-        "tache": "classement",
-        "fournisseur": "groq",
-        "modele": "openai/gpt-oss-20b",
-        "nature": "quota (429)",
-        "detail": "fournisseur suivant"
-      },
-      {
-        "tache": "classement",
-        "fournisseur": "gemini",
-        "modele": "gemini-3.8-flash",
-        "nature": "erreur serveur (503)",
-        "detail": "nouvel essai"
-      },
-      {
-        "tache": "classement",
-        "fournisseur": "gemini",
-        "modele": "gemini-3.8-flash",
-        "nature": "erreur 503",
-        "detail": "[{\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAILABLE\"\n  }\n}\n]"
-      },
-      {
-        "tache": "classement",
-        "fournisseur": "gemini",
-        "modele": "gemini-3.5-flash-lite",
-        "nature": "erreur serveur (503)",
-        "detail": "nouvel essai"
-      },
-      {
-        "tache": "classement",
-        "fournisseur": "gemini",
-        "modele": "gemini-3.5-flash-lite",
-        "nature": "erreur 503",
-        "detail": "[{\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAILABLE\"\n  }\n}\n]"
-      },
-      {
-        "tache": "classement",
-        "fournisseur": "groq",
-        "modele": "openai/gpt-oss-20b",
-        "nature": "réponse illisible",
-        "detail": "{\"evenements\":[{\"id\":\"3035cfe673d9\",\"pertinent\":true,\"categorie\":\"entreprises\",\"importance\":4,\"fil_rouge\":null,\"titre_fr\":null,\"resume\":null},{\"id\":\"1fb61d583959\",\"pertinent\":true,\"categorie\":\"finance"
-      },
-      {
-        "tache": "classement",
-        "fournisseur": "gemini",
-        "modele": "gemini-3.8-flash",
-        "nature": "erreur serveur (503)",
-        "detail": "nouvel essai"
-      },
-      {
-        "tache": "classement",
-        "fournisseur": "gemini",
-        "modele": "gemini-3.8-flash",
-        "nature": "erreur 503",
-        "detail": "[{\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAILABLE\"\n  }\n}\n]"
-      },
-      {
-        "tache": "classement",
-        "fournisseur": "gemini",
-        "modele": "gemini-3.5-flash-lite",
-        "nature": "erreur serveur (503)",
-        "detail": "nouvel essai"
-      },
-      {
-        "tache": "classement",
-        "fournisseur": "gemini",
-        "modele": "gemini-3.5-flash-lite",
-        "nature": "erreur 503",
-        "detail": "[{\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAILABLE\"\n  }\n}\n]"
-      },
-      {
-        "tache": "classement",
-        "fournisseur": "gemini",
-        "modele": "gemini-3.5-flash-lite",
-        "nature": "erreur serveur (503)",
-        "detail": "nouvel essai"
       }
     ],
     "etapes": {
-      "classement": "partiel",
-      "top5": "sans-ia",
-      "concept": "sans-ia",
-      "citation_actu": "aucune",
+      "classement": "ia",
+      "top5": "inchange",
+      "concept": "ia",
+      "citation_actu": "ia",
       "fils_rouges": "sans-ia"
     }
   },

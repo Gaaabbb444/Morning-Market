@@ -1,6 +1,6 @@
 {
   "version_schema": 1,
-  "mis_a_jour_le": "2026-11-24T15:48:22+01:00",
+  "mis_a_jour_le": "2026-11-24T20:35:21+01:00",
   "entrees": [
     {
       "d": "2026-11-24",
@@ -85,6 +85,15 @@
     },
     {
       "d": "2026-11-24",
+      "i": "6bd9cf36ff3e",
+      "t": "Même les États-Unis ne savent pas les fabriquer: EDF va investir plus d'un milliard d'euros en Bourgogne dans la plus grande forge du monde pour produire les pièces de réacteurs nucléaires",
+      "r": "Framatome (EDF) investit plus d'un milliard d'euros au Creusot pour construire une forge géante destinée aux réacteurs nucléaires, concurrençant l'Asie.",
+      "c": "croissance",
+      "s": "BFM Business",
+      "f": "conjoncture-france"
+    },
+    {
+      "d": "2026-11-24",
       "i": "fe276f4c025c",
       "t": "« Les primes ne suffisent plus à couvrir les pertes liées à la guerre » : le vrai coût du commerce maritime en mer Noire et dans le détroit d'Ormuz",
       "r": "",
@@ -108,6 +117,24 @@
       "r": "",
       "c": "mondialisation",
       "s": "Le Monde",
+      "f": null
+    },
+    {
+      "d": "2026-11-24",
+      "i": "e99a49c43d82",
+      "t": "La gifle électorale ne l'a pas fait changer de cap: Trump s'apprête à (encore) relever les droits de douane contre l'Europe et la Chine",
+      "r": "Quatre mois après sa dernière offensive douanière, Donald Trump s'apprête à relever les taxes sur les importations européennes à 15%, contre 10 à 12,5% actuellement.",
+      "c": "mondialisation",
+      "s": "BFM Business",
+      "f": null
+    },
+    {
+      "d": "2026-11-24",
+      "i": "ca686ffcb9fe",
+      "t": "Les Etats-Unis soupçonnent l’Iran de mener de nouvelles cyberattaques contre des navires",
+      "r": "Selon des responsables américains, l'Iran est soupçonné d'avoir mené des cyberattaques contre une cinquantaine de navires.",
+      "c": "mondialisation",
+      "s": "L'Opinion",
       "f": null
     },
     {
@@ -148,6 +175,15 @@
     },
     {
       "d": "2026-11-24",
+      "i": "fbe28481ca79",
+      "t": "Nvidia va-t-il lourdement replonger en Bourse, alors que de nombreux dangers menacent ? L’oeil de Momentum",
+      "r": "Des risques réglementaires, de valorisation, de gouvernance et géopolitiques rendent l’avenir de l’action Nvidia incertain selon l’analyse financière et technique.",
+      "c": "finance",
+      "s": "Capital",
+      "f": null
+    },
+    {
+      "d": "2026-11-24",
       "i": "5611106078e5",
       "t": "En octobre 2026, les prix du pétrole et du gaz continuent d’augmenter fortement",
       "r": "En octobre 2026, le prix du pétrole en euros augmente fortement (+9,2 % sur un mois) et celui du gaz (+15,2 %) suit la même tendance globalement.",
@@ -181,6 +217,15 @@
       "c": "desequilibres",
       "s": "BFM Business",
       "f": null
+    },
+    {
+      "d": "2026-11-24",
+      "i": "d47f6ef3246d",
+      "t": "Coup de tonnerre au Sénat : pourtant promise, la suppression de l'abattement pour les retraités rejetée",
+      "r": "Le Sénat a rejeté l’abattement fiscal de 10 % pour les retraités, malgré l’initiative du gouvernement visant à compenser l’indexation des retraites sur l’inflation.",
+      "c": "desequilibres",
+      "s": "L'Opinion",
+      "f": "budget-2027"
     },
     {
       "d": "2026-11-24",
@@ -220,6 +265,15 @@
     },
     {
       "d": "2026-11-24",
+      "i": "e98e733ee84e",
+      "t": "Budget 2027 : Bruxelles valide la copie française, mais ne cache pas ses craintes",
+      "r": "La Commission européenne a donné un avis favorable sur le budget 2027 présenté par le gouvernement français, soulignant la trajectoire de redressement convenue.",
+      "c": "ue",
+      "s": "La Tribune",
+      "f": "budget-ue"
+    },
+    {
+      "d": "2026-11-24",
       "i": "4ef34ef7b2e1",
       "t": "Bientôt des voitures chinoises \"made in France\"? Le géant automobile BYD entre en négociations exclusives pour racheter l'usine française d'Hambach",
       "r": "BYD négocie l'acquisition de l'usine de Hambach pour produire en France, renforçant sa présence européenne.",
@@ -252,6 +306,15 @@
       "r": "Le secteur du jouet a vendu 267 millions de jouets, atteignant un chiffre d’affaires proche de 5 milliards d’euros.",
       "c": "entreprises",
       "s": "Le Figaro",
+      "f": null
+    },
+    {
+      "d": "2026-11-24",
+      "i": "60789fe36e6f",
+      "t": "Faisal Islam: Fears over the AI boom haven't gone away",
+      "r": "Il y avait des craintes légitimes avant le départ soudain de Huang chez Nvidia, et son retour ne résoudra pas ces inquiétudes.",
+      "c": "entreprises",
+      "s": "BBC",
       "f": null
     },
     {
@@ -289,6 +352,15 @@
       "c": "epargne",
       "s": "L'Opinion",
       "f": null
+    },
+    {
+      "d": "2026-11-24",
+      "i": "966cfeac452c",
+      "t": "Retraites : de plus en plus de Français séduits par l'option du PER",
+      "r": "Le Plan épargne-retraite (PER) dépasse les 14 millions de détenteurs, témoignant de l'attrait des Français pour la capitalisation en complément de leur retraite.",
+      "c": "epargne",
+      "s": "franceinfo",
+      "f": "retraites"
     },
     {
       "d": "2026-11-23",

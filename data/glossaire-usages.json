@@ -1,6 +1,29 @@
 {
   "version_schema": 1,
   "notions": {
+    "protectionnisme": [
+      {
+        "date": "2026-11-24",
+        "id": "fc3047a3f321",
+        "titre": "L’UE limite les importations de voitures hybrides en provenance de Chine, comme convenu le mois dernier avec Pékin",
+        "source": "Le Monde",
+        "contexte": "Concept du jour"
+      },
+      {
+        "date": "2026-11-07",
+        "id": "5458919a91fe",
+        "titre": "Deux semaines avant les retrouvailles entre Donald Trump et Xi Jinping, les États-Unis mettent la pression sur la Chine pour qu'elle respecte l'accord commercial \"immédiatement\"",
+        "source": "BFM Business",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-10-29",
+        "id": "62751b6eb3f6",
+        "titre": "Toyota, Hyundai, Stellantis… Comment Donald Trump a gagné son bras de fer avec les constructeurs automobiles",
+        "source": "Le Figaro",
+        "contexte": "Top 5 du jour"
+      }
+    ],
     "deficit-public-et-solde-primaire": [
       {
         "date": "2026-11-23",
@@ -1157,22 +1180,6 @@
         "id": "b405a941f93c",
         "titre": "\"On va évidemment en discuter\": une hausse du Smic avant le 1er janvier \"fait partie des débats\", selon Roland Lescure",
         "source": "BFM Business",
-        "contexte": "Top 5 du jour"
-      }
-    ],
-    "protectionnisme": [
-      {
-        "date": "2026-11-07",
-        "id": "5458919a91fe",
-        "titre": "Deux semaines avant les retrouvailles entre Donald Trump et Xi Jinping, les États-Unis mettent la pression sur la Chine pour qu'elle respecte l'accord commercial \"immédiatement\"",
-        "source": "BFM Business",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-10-29",
-        "id": "62751b6eb3f6",
-        "titre": "Toyota, Hyundai, Stellantis… Comment Donald Trump a gagné son bras de fer avec les constructeurs automobiles",
-        "source": "Le Figaro",
         "contexte": "Top 5 du jour"
       }
     ],
