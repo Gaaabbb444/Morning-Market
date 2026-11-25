@@ -1,6 +1,233 @@
 {
   "version_schema": 1,
   "notions": {
+    "taux-directeurs": [
+      {
+        "date": "2026-11-25",
+        "id": "650bce487d22",
+        "titre": "Une inflation qui grimpe à 3,8% et une croissance qui bondit à 4,3%: l'économie américaine tourne à plein régime et pourrait contraindre la Fed à relever encore ses taux",
+        "source": "BFM Business",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-11-15",
+        "id": "759845822a92",
+        "titre": "Interest rate rises likely in coming months, Bank of England’s chief economist says",
+        "source": "The Guardian",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-10-30",
+        "id": "7bd3c0d5e104",
+        "titre": "La BCE maintient son principal taux directeur inchangé, à 2,5%",
+        "source": "Le Figaro",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-10-29",
+        "id": "8130eddc625c",
+        "titre": "La Réserve fédérale américaine choisit d’attendre avant de relever de nouveau ses taux, malgré l’inflation",
+        "source": "Le Monde",
+        "contexte": "Top 5 du jour"
+      }
+    ],
+    "droits-de-douane": [
+      {
+        "date": "2026-11-25",
+        "id": "7c310b46dc8e",
+        "titre": "L’administration Trump annonce de nouveaux droits de douane contre ses principaux partenaires commerciaux, dont l’Union européenne, la Chine et le Mexique",
+        "source": "Le Monde",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-11-02",
+        "id": "92391b6e1d8e",
+        "titre": "Temu, Shein, AliExpress... une nouvelle taxe de deux euros appliquée aux produits importés dans l'Union européenne",
+        "source": "La Tribune",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-10-24",
+        "id": "a344deb0b7ae",
+        "titre": "White House lifts tariffs on some Canadian goods as midterm elections loom",
+        "source": "BBC",
+        "contexte": "Top 5 du jour"
+      }
+    ],
+    "budget-de-l-union-europeenne": [
+      {
+        "date": "2026-11-25",
+        "id": "9c50961272ef",
+        "titre": "En pleine discorde entre les 27 sur le futur budget de l'UE, Emmanuel Macron prévient que faute d'accord en décembre, il ne poursuivra pas les négociations",
+        "source": "BFM Business",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-11-19",
+        "id": "dd4080bc3211",
+        "titre": "Ukraine : la Commission européenne propose un nouveau prêt de 45 milliards d'euros, dans un contexte budgétaire tendu",
+        "source": "Toute l'Europe",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-11-18",
+        "id": "69d12907ae6a",
+        "titre": "Pour aider l'Ukraine à combler son déficit budgétaire de 70 milliards d'euros en 2027, l'Union européenne propose un nouveau prêt de 45 milliards d'euros",
+        "source": "BFM Business",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-11-10",
+        "id": "14842b10ab78",
+        "titre": "\"Tous, sans exception\": l’Allemagne exige que chaque pays de l’UE contribue équitablement au financement de l’Ukraine avant de négocier le prochain budget européen",
+        "source": "BFM Business",
+        "contexte": "Top 5 du jour"
+      }
+    ],
+    "politique-industrielle": [
+      {
+        "date": "2026-11-25",
+        "id": "6dd5339e436e",
+        "titre": "L’Union européenne veut se doter d’une stratégie industrielle sur l’informatique quantique",
+        "source": "Le Monde",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-11-16",
+        "id": "d490ac203a58",
+        "titre": "Les Européens face au mur du financement de l’IA",
+        "source": "L'Opinion",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-11-13",
+        "id": "fd1c06c6dbc1",
+        "titre": "Mercedes-Benz suspend tout nouvel investissement en Allemagne et envisage de fermer des usines dans les pays s'il n'arrive pas y réduire ses coûts",
+        "source": "BFM Business",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-11-07",
+        "id": "ff4fb338c009",
+        "titre": "OPINION. « Automobile : faire du \"Made in Europe\" un levier de puissance industrielle »",
+        "source": "La Tribune",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-11-07",
+        "id": "ae95fd4c8c98",
+        "titre": "L’Allemagne va entrer au capital de KNDS et contrôlera le géant de l’armement terrestre à parité avec la France",
+        "source": "Le Monde",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-10-28",
+        "id": "ee8bc342e83a",
+        "titre": "France 2030 : le grand plan d’Emmanuel Macron face à un « mur budgétaire », alerte la Cour des comptes",
+        "source": "Le Monde",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-10-20",
+        "id": "ced71c54d04c",
+        "titre": "Intelligence artificielle : l’Allemagne scelle un partenariat avec Nvidia visant à accélérer son déploiement dans l’industrie",
+        "source": "Le Figaro",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-10-18",
+        "id": "66580453350e",
+        "titre": "Il a tout appris chez Audi en Allemagne et puis il est devenu le \"père de la voiture électrique en Chine\": qui est Wan Gang, l'ingénieur dont une lettre à Pékin a déclenché la déferlante chinoise?",
+        "source": "BFM Business",
+        "contexte": "Top 5 du jour"
+      }
+    ],
+    "pouvoir-d-achat": [
+      {
+        "date": "2026-11-25",
+        "id": "e40831adda66",
+        "titre": "«10% des salariés ont refusé un emploi faute de pouvoir se loger» : les Français piégés par la crise du logement",
+        "source": "Le Figaro",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-11-15",
+        "id": "a06ffd401983",
+        "titre": "En Italie, Meta condamnée à 805 millions d’euros d’amende pour avoir accédé aux photos de ses utilisateurs sans leur consentement",
+        "source": "Le Figaro",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-11-15",
+        "id": "931a62b1ccf2",
+        "titre": "Surendettement : 10,2% de dossiers supplémentaires déposés à la Banque de France depuis le début de l'année 2026",
+        "source": "franceinfo",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-11-14",
+        "id": "09a484905f04",
+        "titre": "Salaires des fonctionnaires : les mesures d’urgence du gouvernement jugées « insuffisantes » par les syndicats",
+        "source": "Le Monde",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-11-13",
+        "id": "5294232b48a2",
+        "titre": "Logements : les promoteurs immobiliers s’enfoncent un peu plus dans la crise",
+        "source": "Le Monde",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-11-12",
+        "id": "9e316ae07889",
+        "titre": "REPORTAGE. \"Quoi de mieux pour faire passer le message que de paralyser le pays ?\" : en Espagne, une grève générale pour dénoncer la crise du logement",
+        "source": "franceinfo",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-11-08",
+        "id": "444f7f83820d",
+        "titre": "Tarifs de l'électricité pour les particuliers: le PDG d’EDF promet des prix de l’électricité stables \"jusqu’à la fin de l’hiver\"",
+        "source": "BFM Business",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-11-06",
+        "id": "c623b0cc3dbe",
+        "titre": "Manifestations : face à la colère de la rue, le gouvernement dégaine une conférence sociale",
+        "source": "L'Opinion",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-11-01",
+        "id": "15b4255dffb6",
+        "titre": "Carburants : les prix du gazole doivent baisser à partir de ce week-end",
+        "source": "Le Figaro",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-10-27",
+        "id": "fa1814b3d302",
+        "titre": "Pouvoir d'achat : les salariés au SMIC réclament une hausse plus importante",
+        "source": "franceinfo",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-10-26",
+        "id": "81d3a09a1c1c",
+        "titre": "\"On le dit, on continuera\" : une mobilisation sociale partie pour s'ancrer dans la durée ?",
+        "source": "franceinfo",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-10-25",
+        "id": "3cf1e8c28e56",
+        "titre": "12 à 18 centimes de moins par litre : les stocks de gazole libérés pourraient faire baisser les prix dès le 1er novembre",
+        "source": "BFM Business",
+        "contexte": "Top 5 du jour"
+      }
+    ],
     "protectionnisme": [
       {
         "date": "2026-11-24",
@@ -633,29 +860,6 @@
         "contexte": "Top 5 du jour"
       }
     ],
-    "budget-de-l-union-europeenne": [
-      {
-        "date": "2026-11-19",
-        "id": "dd4080bc3211",
-        "titre": "Ukraine : la Commission européenne propose un nouveau prêt de 45 milliards d'euros, dans un contexte budgétaire tendu",
-        "source": "Toute l'Europe",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-11-18",
-        "id": "69d12907ae6a",
-        "titre": "Pour aider l'Ukraine à combler son déficit budgétaire de 70 milliards d'euros en 2027, l'Union européenne propose un nouveau prêt de 45 milliards d'euros",
-        "source": "BFM Business",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-11-10",
-        "id": "14842b10ab78",
-        "titre": "\"Tous, sans exception\": l’Allemagne exige que chaque pays de l’UE contribue équitablement au financement de l’Ukraine avant de négocier le prochain budget européen",
-        "source": "BFM Business",
-        "contexte": "Top 5 du jour"
-      }
-    ],
     "efficience-des-marches": [
       {
         "date": "2026-11-19",
@@ -775,57 +979,6 @@
         "contexte": "Concept du jour"
       }
     ],
-    "politique-industrielle": [
-      {
-        "date": "2026-11-16",
-        "id": "d490ac203a58",
-        "titre": "Les Européens face au mur du financement de l’IA",
-        "source": "L'Opinion",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-11-13",
-        "id": "fd1c06c6dbc1",
-        "titre": "Mercedes-Benz suspend tout nouvel investissement en Allemagne et envisage de fermer des usines dans les pays s'il n'arrive pas y réduire ses coûts",
-        "source": "BFM Business",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-11-07",
-        "id": "ff4fb338c009",
-        "titre": "OPINION. « Automobile : faire du \"Made in Europe\" un levier de puissance industrielle »",
-        "source": "La Tribune",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-11-07",
-        "id": "ae95fd4c8c98",
-        "titre": "L’Allemagne va entrer au capital de KNDS et contrôlera le géant de l’armement terrestre à parité avec la France",
-        "source": "Le Monde",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-10-28",
-        "id": "ee8bc342e83a",
-        "titre": "France 2030 : le grand plan d’Emmanuel Macron face à un « mur budgétaire », alerte la Cour des comptes",
-        "source": "Le Monde",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-10-20",
-        "id": "ced71c54d04c",
-        "titre": "Intelligence artificielle : l’Allemagne scelle un partenariat avec Nvidia visant à accélérer son déploiement dans l’industrie",
-        "source": "Le Figaro",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-10-18",
-        "id": "66580453350e",
-        "titre": "Il a tout appris chez Audi en Allemagne et puis il est devenu le \"père de la voiture électrique en Chine\": qui est Wan Gang, l'ingénieur dont une lettre à Pékin a déclenché la déferlante chinoise?",
-        "source": "BFM Business",
-        "contexte": "Top 5 du jour"
-      }
-    ],
     "croissance-endogene": [
       {
         "date": "2026-11-16",
@@ -833,108 +986,6 @@
         "titre": "Les Européens face au mur du financement de l’IA",
         "source": "L'Opinion",
         "contexte": "Concept du jour"
-      }
-    ],
-    "taux-directeurs": [
-      {
-        "date": "2026-11-15",
-        "id": "759845822a92",
-        "titre": "Interest rate rises likely in coming months, Bank of England’s chief economist says",
-        "source": "The Guardian",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-10-30",
-        "id": "7bd3c0d5e104",
-        "titre": "La BCE maintient son principal taux directeur inchangé, à 2,5%",
-        "source": "Le Figaro",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-10-29",
-        "id": "8130eddc625c",
-        "titre": "La Réserve fédérale américaine choisit d’attendre avant de relever de nouveau ses taux, malgré l’inflation",
-        "source": "Le Monde",
-        "contexte": "Top 5 du jour"
-      }
-    ],
-    "pouvoir-d-achat": [
-      {
-        "date": "2026-11-15",
-        "id": "a06ffd401983",
-        "titre": "En Italie, Meta condamnée à 805 millions d’euros d’amende pour avoir accédé aux photos de ses utilisateurs sans leur consentement",
-        "source": "Le Figaro",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-11-15",
-        "id": "931a62b1ccf2",
-        "titre": "Surendettement : 10,2% de dossiers supplémentaires déposés à la Banque de France depuis le début de l'année 2026",
-        "source": "franceinfo",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-11-14",
-        "id": "09a484905f04",
-        "titre": "Salaires des fonctionnaires : les mesures d’urgence du gouvernement jugées « insuffisantes » par les syndicats",
-        "source": "Le Monde",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-11-13",
-        "id": "5294232b48a2",
-        "titre": "Logements : les promoteurs immobiliers s’enfoncent un peu plus dans la crise",
-        "source": "Le Monde",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-11-12",
-        "id": "9e316ae07889",
-        "titre": "REPORTAGE. \"Quoi de mieux pour faire passer le message que de paralyser le pays ?\" : en Espagne, une grève générale pour dénoncer la crise du logement",
-        "source": "franceinfo",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-11-08",
-        "id": "444f7f83820d",
-        "titre": "Tarifs de l'électricité pour les particuliers: le PDG d’EDF promet des prix de l’électricité stables \"jusqu’à la fin de l’hiver\"",
-        "source": "BFM Business",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-11-06",
-        "id": "c623b0cc3dbe",
-        "titre": "Manifestations : face à la colère de la rue, le gouvernement dégaine une conférence sociale",
-        "source": "L'Opinion",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-11-01",
-        "id": "15b4255dffb6",
-        "titre": "Carburants : les prix du gazole doivent baisser à partir de ce week-end",
-        "source": "Le Figaro",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-10-27",
-        "id": "fa1814b3d302",
-        "titre": "Pouvoir d'achat : les salariés au SMIC réclament une hausse plus importante",
-        "source": "franceinfo",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-10-26",
-        "id": "81d3a09a1c1c",
-        "titre": "\"On le dit, on continuera\" : une mobilisation sociale partie pour s'ancrer dans la durée ?",
-        "source": "franceinfo",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-10-25",
-        "id": "3cf1e8c28e56",
-        "titre": "12 à 18 centimes de moins par litre : les stocks de gazole libérés pourraient faire baisser les prix dès le 1er novembre",
-        "source": "BFM Business",
-        "contexte": "Top 5 du jour"
       }
     ],
     "effets-de-reseau-marches-bifaces": [
@@ -1228,22 +1279,6 @@
         "id": "f2444713c4aa",
         "titre": "Croissance en berne et inflation en hausse : ce spectre de la récession qui plane sur la France",
         "source": "Le Figaro",
-        "contexte": "Top 5 du jour"
-      }
-    ],
-    "droits-de-douane": [
-      {
-        "date": "2026-11-02",
-        "id": "92391b6e1d8e",
-        "titre": "Temu, Shein, AliExpress... une nouvelle taxe de deux euros appliquée aux produits importés dans l'Union européenne",
-        "source": "La Tribune",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-10-24",
-        "id": "a344deb0b7ae",
-        "titre": "White House lifts tariffs on some Canadian goods as midterm elections loom",
-        "source": "BBC",
         "contexte": "Top 5 du jour"
       }
     ],

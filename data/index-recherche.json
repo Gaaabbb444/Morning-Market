@@ -1,7 +1,250 @@
 {
   "version_schema": 1,
-  "mis_a_jour_le": "2026-11-24T20:35:21+01:00",
+  "mis_a_jour_le": "2026-11-25T15:15:25+01:00",
   "entrees": [
+    {
+      "d": "2026-11-25",
+      "i": "650bce487d22",
+      "t": "Une inflation qui grimpe à 3,8% et une croissance qui bondit à 4,3%: l'économie américaine tourne à plein régime et pourrait contraindre la Fed à relever encore ses taux",
+      "r": "L'inflation américaine atteint 3,8 % en octobre, deuxième mois consécutif en hausse, et la croissance du PIB a atteint 4,3 % en rythme annualisé au troisième trimestre, ce qui renforce la perspective d’une nouvelle hausse des taux de la Fed.",
+      "c": "finance",
+      "s": "BFM Business",
+      "f": "inflation-bce"
+    },
+    {
+      "d": "2026-11-25",
+      "i": "7c310b46dc8e",
+      "t": "L’administration Trump annonce de nouveaux droits de douane contre ses principaux partenaires commerciaux, dont l’Union européenne, la Chine et le Mexique",
+      "r": "L’administration Trump annonce de nouveaux droits de douane contre ses principaux partenaires commerciaux, dont l’Union européenne, la Chine et le Mexique, s’ajoutant aux surtaxes déjà annoncées pour lutter contre le travail forcé.",
+      "c": "mondialisation",
+      "s": "Le Monde",
+      "f": null
+    },
+    {
+      "d": "2026-11-25",
+      "i": "9c50961272ef",
+      "t": "En pleine discorde entre les 27 sur le futur budget de l'UE, Emmanuel Macron prévient que faute d'accord en décembre, il ne poursuivra pas les négociations",
+      "r": "Le Conseil européen a présenté un projet de budget de 204 milliards d’euros, inférieur à la proposition de la Commission, privant la France de plusieurs milliards d’aides de la PAC, proposition à laquelle s’oppose l’Élysée.",
+      "c": "ue",
+      "s": "BFM Business",
+      "f": "budget-ue"
+    },
+    {
+      "d": "2026-11-25",
+      "i": "6dd5339e436e",
+      "t": "L’Union européenne veut se doter d’une stratégie industrielle sur l’informatique quantique",
+      "r": "La Commission a présenté le Quantum Act, un plan visant à accélérer le passage à l’usage industriel de l’informatique quantique, en associant capitaux publics et privés pour renforcer l’indépendance technologique de l’Europe.",
+      "c": "croissance",
+      "s": "Le Monde",
+      "f": "intelligence-artificielle"
+    },
+    {
+      "d": "2026-11-25",
+      "i": "e40831adda66",
+      "t": "«10% des salariés ont refusé un emploi faute de pouvoir se loger» : les Français piégés par la crise du logement",
+      "r": "Selon Le Figaro, 10 % des salariés ont refusé un emploi faute de pouvoir se loger ; le secteur du logement connaît un effondrement de la construction neuve, une baisse du marché de l’ancien et une réduction drastique des offres de location, une crise jamais vue depuis la Seconde Guerre mondiale.",
+      "c": "desequilibres",
+      "s": "Le Figaro",
+      "f": null
+    },
+    {
+      "d": "2026-11-25",
+      "i": "a97707409095",
+      "t": "« Dans la finance, l’IA oblige chacun à être meilleur dans son cœur de métier »",
+      "r": "La révolution de l'intelligence artificielle est comparable à la révolution industrielle, mais ses effets sur l'emploi et la croissance seront progressifs.",
+      "c": "croissance",
+      "s": "Le Monde",
+      "f": "intelligence-artificielle"
+    },
+    {
+      "d": "2026-11-25",
+      "i": "7940036035fa",
+      "t": "Les États-Unis annoncent de nouveaux droits de douane sur de nombreux pays, dont la Chine",
+      "r": "The US administration announces new levies affecting major trading partners including China and the EU.",
+      "c": "mondialisation",
+      "s": "BBC",
+      "f": null
+    },
+    {
+      "d": "2026-11-25",
+      "i": "6374c90d4660",
+      "t": "Le géant chinois Huawei reconnu coupable de vol de secrets industriels aux Etats-Unis",
+      "r": "L'entreprise chinoise Huawei est reconnue coupable de vol de secrets industriels aux États-Unis, des accusations qu'elle conteste.",
+      "c": "mondialisation",
+      "s": "franceinfo",
+      "f": null
+    },
+    {
+      "d": "2026-11-25",
+      "i": "e673f84fd831",
+      "t": "L'inflation a atteint près de 77% sur un an dans le pays: pris en étau entre la guerre et les sanctions occidentales, l'Iran veut freiner la hausse des prix mais se dit prêt à résister au blocus américain",
+      "r": "L'inflation atteint près de 77 % sur un an en Iran, pays pris en étau entre la guerre, les sanctions occidentales et un blocus américain.",
+      "c": "mondialisation",
+      "s": "BFM Business",
+      "f": null
+    },
+    {
+      "d": "2026-11-25",
+      "i": "e344606c78ec",
+      "t": "La RDC impose un nouvel embargo sur les exportations de cobalt pour faire monter les cours",
+      "r": "La RDC interdit l’exportation de cobalt pour faire monter les prix, alors que la transformation est majoritairement contrôlée par la Chine.",
+      "c": "mondialisation",
+      "s": "Le Monde",
+      "f": null
+    },
+    {
+      "d": "2026-11-25",
+      "i": "062c26a5b244",
+      "t": "Déficit public : le Parlement entérine 5,4% du PIB cette année, au lieu des 5% prévus",
+      "r": "Après un premier rejet à l'Assemblée le 12 novembre, le Parlement a définitivement adopté, mardi 24 novembre, le projet de loi de finances de fin de gestion pour 2026, fixant le déficit public à 5,4 % du PIB.",
+      "c": "finance",
+      "s": "Capital",
+      "f": "budget-2027"
+    },
+    {
+      "d": "2026-11-25",
+      "i": "b05b3d81edf7",
+      "t": "5% de déficit pour la Bulgarie, 5,4% pour la France: c'est pourtant le premier pays que Bruxelles s'apprête à sanctionner pour déficit excessif et pas le second",
+      "r": "La Bulgarie risque une amende de 23 millions d’euros pour déficit excessif, alors que la France est à 5,4 % du PIB, mais n’est pas sanctionnée.",
+      "c": "finance",
+      "s": "BFM Business",
+      "f": null
+    },
+    {
+      "d": "2026-11-25",
+      "i": "9bc6c6937738",
+      "t": "Pire que la bulle Internet : les conséquences d'un krach de l'IA sur l'économie",
+      "r": "Un éventuel krach lié à l'intelligence artificielle pourrait engendrer de lourdes conséquences pour l'économie américaine, dont l'ampleur fait l'objet de débats entre économistes.",
+      "c": "finance",
+      "s": "L'Opinion",
+      "f": "intelligence-artificielle"
+    },
+    {
+      "d": "2026-11-25",
+      "i": "43493093aa9b",
+      "t": "[Chronique radio] Succession de Christine Lagarde : que se joue-t-il à la BCE ?",
+      "r": "Le départ anticipé de Christine Lagarde de la tête de la BCE ouvre la course à sa succession et des négociations complexes.",
+      "c": "finance",
+      "s": "Toute l'Europe",
+      "f": null
+    },
+    {
+      "d": "2026-11-25",
+      "i": "ef5d26d07a60",
+      "t": "OPINION « Budget : un milliard d’économies ne rapporte pas toujours un milliard »",
+      "r": "Le ralentissement de l'activité pèse sur les finances publiques, rendant nécessaire l'analyse fine des effets des économies budgétaires sur l'emploi et les recettes.",
+      "c": "desequilibres",
+      "s": "La Tribune",
+      "f": "budget-2027"
+    },
+    {
+      "d": "2026-11-25",
+      "i": "71b48a45b44a",
+      "t": "« Mon mari a fait un faux contrat de travail » : ces Français prêts à tout pour décrocher un logement à louer",
+      "r": "Face à la crise du logement, les candidats recourent à des pratiques frauduleuses pour louer.",
+      "c": "desequilibres",
+      "s": "Le Figaro",
+      "f": null
+    },
+    {
+      "d": "2026-11-25",
+      "i": "3bf6fa81e5f2",
+      "t": "La Cour des comptes alerte sur des risques de fraude et d'abus dans les formations en apprentissage",
+      "r": "La Cour des comptes alerte sur des risques importants de fraude et d'abus dans le financement public des formations en apprentissage.",
+      "c": "desequilibres",
+      "s": "franceinfo",
+      "f": "conjoncture-france"
+    },
+    {
+      "d": "2026-11-25",
+      "i": "5d72877786a9",
+      "t": "Grèce : 14.000 manifestants dans la rue pour réclamer des hausses de salaires face à la vie chère",
+      "r": "Plusieurs milliers de manifestants ont défilé en Grèce pour réclamer des hausses de salaires face à la hausse du coût de la vie.",
+      "c": "desequilibres",
+      "s": "Le Figaro",
+      "f": null
+    },
+    {
+      "d": "2026-11-25",
+      "i": "c27abb24f19c",
+      "t": "La Coordination rurale va demander à Emmanuel Macron de refuser tout accord sur la PAC qui ne permette pas aux \"agriculteurs de vivre de leur production\"",
+      "r": "Emmanuel Macron reçoit les syndicats agricoles pour aborder le prochain budget européen et défendre la sanctuarisation de la Politique agricole commune.",
+      "c": "ue",
+      "s": "franceinfo",
+      "f": "budget-ue"
+    },
+    {
+      "d": "2026-11-25",
+      "i": "9dc5153495b0",
+      "t": "Pourquoi « l’incertitude considérable » du budget de la France inquiète Bruxelles",
+      "r": "La Commission européenne salue les efforts du gouvernement mais s'inquiète de l'incertitude budgétaire en France, jugeant l'adoption du projet de loi essentiel.",
+      "c": "ue",
+      "s": "Le Figaro",
+      "f": "budget-2027"
+    },
+    {
+      "d": "2026-11-25",
+      "i": "f3dcc1e9854e",
+      "t": "Espagne, Belgique… comment font ces pays qui n'arrivent pas à faire voter leur budget ?",
+      "r": "",
+      "c": "ue",
+      "s": "Les Echos",
+      "f": null
+    },
+    {
+      "d": "2026-11-25",
+      "i": "f95224ce7b49",
+      "t": "Les dangereuses complaisances de Donald Trump envers Nvidia",
+      "r": "En soutenant la prospérité de Wall Street au détriment du respect de la loi, le président américain favorise les dérives du secteur technologique.",
+      "c": "entreprises",
+      "s": "Le Monde",
+      "f": "intelligence-artificielle"
+    },
+    {
+      "d": "2026-11-25",
+      "i": "95796c0025c0",
+      "t": "Quand l’Etat américain capitule face aux géants de la tech",
+      "r": "Le soutien de Donald Trump au patron de Nvidia illustre la subordination du politique face au pouvoir économique.",
+      "c": "entreprises",
+      "s": "L'Opinion",
+      "f": "intelligence-artificielle"
+    },
+    {
+      "d": "2026-11-25",
+      "i": "715d1c045374",
+      "t": "Entre croissance et concurrence, comment la SNCF muscle son jeu sur l’axe Atlantique",
+      "r": "SNCF Voyageurs a dévoilé un programme d’investissement de 300 millions d’euros sur son axe Atlantique, destiné à moderniser ses sites de maintenance et les rames de trains.",
+      "c": "entreprises",
+      "s": "La Tribune",
+      "f": null
+    },
+    {
+      "d": "2026-11-25",
+      "i": "2ba755db447c",
+      "t": "« Too big to fail » : derrière le retour de Jensen Huang, l’ultradépendance de l’Amérique à l’IA",
+      "r": "Le retour de Jensen Huang à la tête de Nvidia, avec le soutien de Donald Trump, met en lumière la dépendance de l'économie américaine à l'intelligence artificielle.",
+      "c": "entreprises",
+      "s": "Le Figaro",
+      "f": "intelligence-artificielle"
+    },
+    {
+      "d": "2026-11-25",
+      "i": "196b4461bfe5",
+      "t": "Plans d’épargne-retraite : une économie d’impôt à soupeser",
+      "r": "Les plans d’épargne-retraite permettent de déduire les cotisations du revenu imposable, mais la mécanique fiscale comporte plusieurs ressorts.",
+      "c": "epargne",
+      "s": "Le Monde",
+      "f": null
+    },
+    {
+      "d": "2026-11-25",
+      "i": "377b9f5bcf3b",
+      "t": "En novembre 2026, la confiance des ménages reste dégradée",
+      "r": "En novembre 2026, la confiance des ménages reste dégradée, l’indicateur de climat de l’épargne diminue de deux points.",
+      "c": "epargne",
+      "s": "INSEE",
+      "f": null
+    },
     {
       "d": "2026-11-24",
       "i": "b4c77b26ae48",
