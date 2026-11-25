@@ -1,6 +1,6 @@
 {
   "version_schema": 1,
-  "mis_a_jour_le": "2026-11-23T21:20:11+01:00",
+  "mis_a_jour_le": "2026-11-25T19:45:03+01:00",
   "fils": [
     {
       "id": "budget-2027",
@@ -11,8 +11,8 @@
       "categories": [
         "desequilibres"
       ],
-      "ou_en_est_on": "Le débat budgétaire s'intensifie alors que le Sénat commence l'examen des articles du projet de loi de finances pour 2027, incluant des amendements sur la location meublée non professionnelle et la suppression de certains avantages fiscaux. Parallèlement, l'hypothèse d'inscrire une règle d'or budgétaire dans la Constitution suscite des réactions contrastées parmi les acteurs politiques et les parlementaires. L'exécutif cherche à rassurer les marchés financiers face aux difficultés persistantes sur la trajectoire des comptes publics.",
-      "ou_en_est_on_maj_le": "2026-11-23",
+      "ou_en_est_on": "Le débat budgétaire s'intensifie alors que le Sénat examine le projet de loi de finances pour 2027 et que l'exécutif appelle au compromis, tout en évoquant le recours potentiel à l'article 49.3 de la Constitution. Parallèlement, l'idée d'une règle d'or budgétaire pour limiter les déficits continue de susciter des discussions sur son efficacité économique et son impact sur les investissements d'avenir. Le gouvernement cherche à maîtriser la trajectoire des comptes publics face aux exigences de réduction des déficits.",
+      "ou_en_est_on_maj_le": "2026-11-25",
       "evenements": [
         {
           "date": "2026-10-17",
@@ -760,6 +760,17 @@
               "titre": "Grande transmission : le budget 2027, entre incitations et fiscalité renforcée",
               "source": "L'Opinion",
               "url": "https://www.lopinion.fr/patrimoine/grande-transmission-le-budget-2027-entre-incitations-et-fiscalite-renforcee"
+            }
+          ]
+        },
+        {
+          "date": "2026-11-25",
+          "resume": "Le chef du gouvernement appelle au compromis pour l'adoption du budget 2027 et évoque le recours possible à l'article 49.3.",
+          "liens": [
+            {
+              "titre": "Sébastien Lecornu n'a pas de \"volonté de passage en force\" et appelle au \"compromis\" pour faire adopter le budget 2027",
+              "source": "franceinfo",
+              "url": "https://www.franceinfo.fr/economie/budget/sebastien-lecornu-n-a-pas-de-volonte-de-passage-en-force-et-appelle-au-compromis-pour-faire-adopter-le-budget-2027_8299881.html#xtor=RSS-3-%5Beconomie%5D"
             }
           ]
         }
@@ -3469,8 +3480,8 @@
         "entreprises",
         "ue"
       ],
-      "ou_en_est_on": "L'entrée en bourse d'Anthropic a marqué le secteur de l'IA, tandis que Wall Street a chuté en raison d'inquiétudes sur le modèle économique des data centers. Un nouveau risque apparaît avec le modèle de CoreWeave, qui montre une forte dépendance à la dette pour financer les centres de données IA. Ces tensions financières soulignent les défis de rentabilité et de financement du secteur. Les régulations américaines et européennes restent à surveiller pour leur impact sur la souveraineté technologique.",
-      "ou_en_est_on_maj_le": "2026-11-21",
+      "ou_en_est_on": "Le secteur de l'intelligence artificielle fait face à des défis de financement et de forte volatilité sur les marchés, incitant les investisseurs à la prudence. Pour tenter de combler son retard technologique, l'Europe envisage la mise en place d'un fonds souverain de 50 milliards d'euros, mêlant fonds publics et privés. Ces initiatives s'ajoutent aux questionnements sur la rentabilité des infrastructures et la régulation européenne.",
+      "ou_en_est_on_maj_le": "2026-11-25",
       "evenements": [
         {
           "date": "2026-10-17",
@@ -4206,6 +4217,22 @@
               "titre": "‘Little room for error’: what a debt-laden cloud computing company says about the AI boom",
               "source": "The Guardian",
               "url": "https://www.theguardian.com/business/2026/nov/21/debt-laden-cloud-computing-company-coreweave-ai-boom"
+            }
+          ]
+        },
+        {
+          "date": "2026-11-25",
+          "resume": "L'Europe envisage la création d'un fonds souverain doté de 50 milliards d'euros pour soutenir les projets d'intelligence artificielle, tandis que la volatilité du marché incite à la prudence.",
+          "liens": [
+            {
+              "titre": "Les européens musclent leur jeu sur l'IA",
+              "source": "BFM Business",
+              "url": "https://www.bfmtv.com/economie/video-les-europeens-musclent-leur-jeu-sur-l-ia_VN-202611250858.html"
+            },
+            {
+              "titre": "L’investissement dans l’IA devient de plus en plus complexe",
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/argent/article/2026/11/25/l-investissement-dans-l-ia-devient-de-plus-en-plus-complexe_6815136_1657007.html"
             }
           ]
         }

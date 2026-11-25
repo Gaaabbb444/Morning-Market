@@ -1,6 +1,6 @@
 {
   "version_schema": 1,
-  "mis_a_jour_le": "2026-11-25T15:15:25+01:00",
+  "mis_a_jour_le": "2026-11-25T19:44:50+01:00",
   "entrees": [
     {
       "d": "2026-11-25",
@@ -58,6 +58,42 @@
     },
     {
       "d": "2026-11-25",
+      "i": "ff317fe3bf57",
+      "t": "Les européens musclent leur jeu sur l'IA",
+      "r": "L'Europe envisage la création d'un fonds souverain doté de 50 milliards d'euros pour soutenir les projets d'intelligence artificielle.",
+      "c": "croissance",
+      "s": "BFM Business",
+      "f": "intelligence-artificielle"
+    },
+    {
+      "d": "2026-11-25",
+      "i": "34434fb3bc63",
+      "t": "Frappes en profondeur : l'inquiétant retard français",
+      "r": "Les Européens accusent un retard dans l'armement et les capacités de frappe en profondeur par rapport aux belligérants en Ukraine.",
+      "c": "croissance",
+      "s": "L'Opinion",
+      "f": null
+    },
+    {
+      "d": "2026-11-25",
+      "i": "11f558591eda",
+      "t": "Des méga-camions de 60 tonnes avec deux remorques bientôt sur nos routes? Les acteurs du fret ferroviaire s'inquiètent d'un feu vert européen et appellent la France à \"ne rien céder\"",
+      "r": "L'association 4F s'insurge contre un projet européen autorisant des méga-camions de 60 tonnes, qu'elle juge préjudiciable au fret ferroviaire et au climat.",
+      "c": "croissance",
+      "s": "BFM Business",
+      "f": null
+    },
+    {
+      "d": "2026-11-25",
+      "i": "f77f62b81800",
+      "t": "Décarbonation : L'Atag pousse au développement de la production d'hydrogène",
+      "r": "L'Atag appelle les gouvernements à intégrer l'hydrogène dans leurs stratégies énergétiques et à établir des cadres politiques solides.",
+      "c": "croissance",
+      "s": "La Tribune",
+      "f": null
+    },
+    {
+      "d": "2026-11-25",
       "i": "7940036035fa",
       "t": "Les États-Unis annoncent de nouveaux droits de douane sur de nombreux pays, dont la Chine",
       "r": "The US administration announces new levies affecting major trading partners including China and the EU.",
@@ -88,6 +124,15 @@
       "i": "e344606c78ec",
       "t": "La RDC impose un nouvel embargo sur les exportations de cobalt pour faire monter les cours",
       "r": "La RDC interdit l’exportation de cobalt pour faire monter les prix, alors que la transformation est majoritairement contrôlée par la Chine.",
+      "c": "mondialisation",
+      "s": "Le Monde",
+      "f": null
+    },
+    {
+      "d": "2026-11-25",
+      "i": "fc4a0067cb44",
+      "t": "« Cartel des parfums » : l’UE inflige près d’un demi-milliard d’euros d’amendes à trois industriels du secteur",
+      "r": "L'Union européenne inflige une amende de près d'un demi-milliard d'euros à trois industriels du parfum pour entente sur les prix.",
       "c": "mondialisation",
       "s": "Le Monde",
       "f": null
@@ -130,6 +175,15 @@
     },
     {
       "d": "2026-11-25",
+      "i": "0b1ba0351c64",
+      "t": "L’Allemagne prête à adopter un endettement historique, un tournant soutenu par une figure de l’orthodoxie économique",
+      "r": "Le gouvernement Merz soutient un investissement infrastructure et défense financé par la dette, soutenu par Isabel Schnabel, figure de l’orthodoxie monétaire.",
+      "c": "finance",
+      "s": "Le Monde",
+      "f": "dette-marches"
+    },
+    {
+      "d": "2026-11-25",
       "i": "ef5d26d07a60",
       "t": "OPINION « Budget : un milliard d’économies ne rapporte pas toujours un milliard »",
       "r": "Le ralentissement de l'activité pèse sur les finances publiques, rendant nécessaire l'analyse fine des effets des économies budgétaires sur l'emploi et les recettes.",
@@ -166,6 +220,15 @@
     },
     {
       "d": "2026-11-25",
+      "i": "49214ffb6474",
+      "t": "Sébastien Lecornu n'a pas de \"volonté de passage en force\" et appelle au \"compromis\" pour faire adopter le budget 2027",
+      "r": "Le chef du gouvernement appelle au compromis pour l'adoption du budget 2027 et évoque le recours possible à l'article 49.3.",
+      "c": "desequilibres",
+      "s": "franceinfo",
+      "f": "budget-2027"
+    },
+    {
+      "d": "2026-11-25",
       "i": "c27abb24f19c",
       "t": "La Coordination rurale va demander à Emmanuel Macron de refuser tout accord sur la PAC qui ne permette pas aux \"agriculteurs de vivre de leur production\"",
       "r": "Emmanuel Macron reçoit les syndicats agricoles pour aborder le prochain budget européen et défendre la sanctuarisation de la Politique agricole commune.",
@@ -189,6 +252,15 @@
       "r": "",
       "c": "ue",
       "s": "Les Echos",
+      "f": null
+    },
+    {
+      "d": "2026-11-25",
+      "i": "a6831170445a",
+      "t": "Le Parlement européen adopte un paquet pharmaceutique pour lutter contre les pénuries et les inégalités d'accès aux médicaments",
+      "r": "Le Parlement européen a adopté un paquet pharmaceutique destiné à lutter contre les pénuries de médicaments et à stimuler l'innovation.",
+      "c": "ue",
+      "s": "Toute l'Europe",
       "f": null
     },
     {
@@ -229,6 +301,15 @@
     },
     {
       "d": "2026-11-25",
+      "i": "54a7e0efc109",
+      "t": "Le groupement Mousquetaires en passe de racheter Chronodrive à Auchan",
+      "r": "Le groupement Les Mousquetaires envisage de racheter l'enseigne Chronodrive à Auchan, avec une finalisation possible en 2027.",
+      "c": "entreprises",
+      "s": "franceinfo",
+      "f": null
+    },
+    {
+      "d": "2026-11-25",
       "i": "196b4461bfe5",
       "t": "Plans d’épargne-retraite : une économie d’impôt à soupeser",
       "r": "Les plans d’épargne-retraite permettent de déduire les cotisations du revenu imposable, mais la mécanique fiscale comporte plusieurs ressorts.",
@@ -243,6 +324,15 @@
       "r": "En novembre 2026, la confiance des ménages reste dégradée, l’indicateur de climat de l’épargne diminue de deux points.",
       "c": "epargne",
       "s": "INSEE",
+      "f": null
+    },
+    {
+      "d": "2026-11-25",
+      "i": "ea56b4cfb999",
+      "t": "LVMH, Hermès, Kering, Dior… «Opportunité d’investissement en Bourse pour un placement à long terme !»",
+      "r": "L'analyse financière met en avant les fondamentaux et le potentiel d'investissement à long terme des grandes valeurs du luxe.",
+      "c": "epargne",
+      "s": "Capital",
       "f": null
     },
     {
