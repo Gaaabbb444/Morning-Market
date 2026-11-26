@@ -1,6 +1,6 @@
 {
   "version_schema": 1,
-  "mis_a_jour_le": "2026-11-26T14:46:31+01:00",
+  "mis_a_jour_le": "2026-11-26T19:34:03+01:00",
   "fils": [
     {
       "id": "budget-2027",
@@ -11,7 +11,7 @@
       "categories": [
         "desequilibres"
       ],
-      "ou_en_est_on": "Le débat budgétaire se poursuit alors que le Sénat examine le projet de loi de finances pour 2027, approuvant notamment un effort de cinq milliards d'euros demandé aux grandes entreprises. Parallèlement, l'examen du projet de budget de la Sécurité sociale connaît des blocages, l'échec d'un accord en commission mixte paritaire renvoyant le texte à l'Assemblée nationale. L'exécutif cherche à maîtriser la trajectoire des comptes publics tout en faisant face aux critiques sur le coût du travail et la fiscalité.",
+      "ou_en_est_on": "Le débat budgétaire se poursuit alors que le Sénat examine le projet de loi de finances pour 2027, approuvant un effort demandé aux grandes entreprises. Parallèlement, le Premier ministre Sébastien Lecornu a alerté sur les risques d'une absence de budget tout en se disant favorable à une règle d'or budgétaire. Une convention citoyenne de 150 membres a par ailleurs été lancée par le CESE pour formuler des propositions sur la réduction du déficit public, alors que le budget de la Sécurité sociale reste lié à l'État.",
       "ou_en_est_on_maj_le": "2026-11-26",
       "evenements": [
         {
@@ -776,7 +776,7 @@
         },
         {
           "date": "2026-11-26",
-          "resume": "Le Sénat a approuvé un effort de cinq milliards d'euros demandé aux grandes entreprises pour réduire le déficit, tandis que députés et sénateurs ont échoué à trouver un accord sur le budget de la Sécurité sociale.",
+          "resume": "Le Premier ministre Sébastien Lecornu a alerté sur les risques d'une absence de budget et s'est dit favorable à une règle d'or budgétaire, tandis qu'une convention citoyenne de 150 membres a été lancée pour formuler des propositions sur le déficit.",
           "liens": [
             {
               "titre": "Budget de la Sécurité sociale 2027 : députés et sénateurs échouent à trouver un accord",
@@ -1576,8 +1576,8 @@
         "finance",
         "desequilibres"
       ],
-      "ou_en_est_on": "Alors que la Banque centrale européenne a maintenu son principal taux directeur à 2,5 % pour juguler les tensions inflationnistes en zone euro, l'inflation en France atteint 3,4 % sur un an en octobre, portée par la hausse des prix de l'énergie. Parallèlement, la succession institutionnelle de la BCE s'accélère avec des candidats officiels pour remplacer Christine Lagarde, dont le départ est programmé pour le 7 février 2027.",
-      "ou_en_est_on_maj_le": "2026-11-13",
+      "ou_en_est_on": "Les dirigeants de la zone euro ont désigné l'Espagnol Pablo Hernández de Cos pour succéder à Christine Lagarde à la présidence de la Banque centrale européenne à partir de février 2027. Cette nomination intervient alors que le taux directeur est maintenu à 2,5 % et que l'inflation en France atteint 3,4 % sur un an en octobre, portée par la hausse des prix de l'énergie.",
+      "ou_en_est_on_maj_le": "2026-11-26",
       "evenements": [
         {
           "date": "2026-10-21",
@@ -1727,6 +1727,22 @@
               "url": "https://www.theguardian.com/world/2026/nov/19/imf-head-warns-ai-demand-push-up-interest-rates-apec"
             }
           ]
+        },
+        {
+          "date": "2026-11-26",
+          "resume": "Les chefs d'État et de gouvernement de la zone euro se sont accordés sur la nomination de l'Espagnol Pablo Hernández de Cos pour succéder à Christine Lagarde à la présidence de la BCE en février 2027.",
+          "liens": [
+            {
+              "titre": "BCE : l'Espagnol Pablo Hernández de Cos devrait, sauf surprise, succéder à Christine Lagarde en février 2027",
+              "source": "Toute l'Europe",
+              "url": "https://www.touteleurope.eu/economie-et-social/bce-l-espagnol-pablo-hernandez-cos-devrait-sauf-surprise-succeder-a-christine-lagarde-en-fevrier-2027/"
+            },
+            {
+              "titre": "A la tête de la BCE, un trio fraîchement nommé pour protéger l’Europe de l’inflation… et peut-être la France d’une attaque sur les marchés",
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/economie/article/2026/11/26/a-la-tete-de-la-bce-un-trio-fraichement-nomme-pour-proteger-l-europe-de-l-inflation-et-peut-etre-la-france-d-une-attaque-sur-les-marches_6815550_3234.html"
+            }
+          ]
         }
       ]
     },
@@ -1740,8 +1756,8 @@
         "mondialisation",
         "ue"
       ],
-      "ou_en_est_on": "Après l'échec des discussions d'Abou Dhabi, Washington et Kiev assurent que les représentants européens seront réintégrés aux futures négociations de paix. Cette perspective intervient alors que Moscou mise notamment sur l'usure économique de l'Ukraine et la fragilisation des soutiens occidentaux. En parallèle, des entreprises européennes, dont des patrons français réunis à Varsovie lors de Rebuild Ukraine, préparent déjà leur positionnement pour la reconstruction future du pays.",
-      "ou_en_est_on_maj_le": "2026-11-14",
+      "ou_en_est_on": "Les discussions sur le soutien financier et la reconstruction de l'Ukraine se poursuivent, marquées par le refus de la Slovaquie, de la Hongrie et de la République tchèque de contribuer au prêt de 45 milliards d'euros proposé par l'Union européenne, ce qui suscite les critiques de Berlin. Washington et Kiev assurent par ailleurs que les Européens seront intégrés aux futures négociations de paix, tandis que des entreprises européennes se préparent pour la reconstruction.",
+      "ou_en_est_on_maj_le": "2026-11-26",
       "evenements": [
         {
           "date": "2026-10-17",
@@ -1920,6 +1936,17 @@
               "url": "https://www.bfmtv.com/economie/economie-social/union-europeenne/pour-aider-l-ukraine-a-combler-son-deficit-budgetaire-de-70-milliards-d-euros-en-2027-l-union-europeenne-propose-un-nouveau-pret-de-45-milliards-d-euros_AD-202611180511.html"
             }
           ]
+        },
+        {
+          "date": "2026-11-26",
+          "resume": "La Slovaquie, la Hongrie et la République tchèque refusent de contribuer au prêt européen de 45 milliards d'euros pour l'Ukraine, provoquant des tensions avec Berlin.",
+          "liens": [
+            {
+              "titre": "Trois pays européens qui disent non à l'aide à l'Ukraine, Berlin brandit la menace budgétaire",
+              "source": "L'Opinion",
+              "url": "https://www.lopinion.fr/international/trois-pays-europeens-qui-disent-non-a-laide-a-lukraine-berlin-brandit-la-menace-budgetaire"
+            }
+          ]
         }
       ]
     },
@@ -1932,8 +1959,8 @@
       "categories": [
         "desequilibres"
       ],
-      "ou_en_est_on": "À l'approche du scrutin de 2027, les candidats confrontent leurs propositions économiques sur le pouvoir d'achat, le logement, le travail et la question des services publics, tandis que de nouvelles personnalités officialisent leur candidature. Marine Le Pen a présenté une réforme des retraites fixant l'âge de départ légal entre 60 et 62 ans, et Édouard Philippe a détaillé son projet axé sur la baisse de la dépense publique.",
-      "ou_en_est_on_maj_le": "2026-11-20",
+      "ou_en_est_on": "À l'approche du scrutin de 2027, les candidats précisent leurs programmes économiques. Marine Le Pen propose de rendre progressif l'impôt sur les sociétés pour les PME et de supprimer la surtaxe sur les grands groupes, tandis qu'Édouard Philippe a détaillé son projet de santé prévoyant des économies sur les retraités et chômeurs. Par ailleurs, des notes de think tanks pointent les incohérences de certains programmes et des acteurs économiques expriment leurs inquiétudes face aux propositions en présence.",
+      "ou_en_est_on_maj_le": "2026-11-26",
       "evenements": [
         {
           "date": "2026-10-20",
@@ -2236,6 +2263,22 @@
               "titre": "Dominique de Villepin annonce sa candidature à l’élection présidentielle de 2027",
               "source": "La Tribune",
               "url": "https://www.latribune.fr/article/la-tribune-dimanche/politique/presidentielle/32060324940216/dominique-de-villepin-annonce-sa-candidature-a-l-election-presidentielle-de-2027"
+            }
+          ]
+        },
+        {
+          "date": "2026-11-26",
+          "resume": "Marine Le Pen a présenté un projet de réforme fiscale sur l'impôt sur les sociétés pour les PME, et Édouard Philippe a détaillé son programme de santé axé sur des économies concernant les retraités et chômeurs.",
+          "liens": [
+            {
+              "titre": "Présidentielle 2027 : Marine Le Pen courtise les PME avec un nouveau projet de réforme fiscale",
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/politique/article/2026/11/26/presidentielle-2027-marine-le-pen-courtise-les-pme-avec-un-nouveau-projet-de-reforme-fiscale_6815572_823448.html"
+            },
+            {
+              "titre": "Dépenser moins pour les retraités et les chômeurs mais plus pour les malades: malgré un déficit de près de 16 milliards d'euros, Édouard Philippe explique comment il veut dépenser plus dans la santé",
+              "source": "BFM Business",
+              "url": "https://www.bfmtv.com/economie/economie-social/depenser-moins-pour-les-retraites-et-les-chomeurs-mais-plus-pour-les-malades-malgre-un-deficit-de-pres-de-16-milliards-d-euros-edouard-philippe-explique-comment-il-veut-depenser-plus-dans-la-sante_AV-202611260756.html"
             }
           ]
         }

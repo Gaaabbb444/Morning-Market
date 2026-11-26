@@ -1,7 +1,16 @@
 {
   "version_schema": 1,
-  "mis_a_jour_le": "2026-11-26T14:46:16+01:00",
+  "mis_a_jour_le": "2026-11-26T19:31:02+01:00",
   "entrees": [
+    {
+      "d": "2026-11-26",
+      "i": "ea8619c5b980",
+      "t": "BCE : l'Espagnol Pablo Hernández de Cos devrait, sauf surprise, succéder à Christine Lagarde en février 2027",
+      "r": "Les chefs d'État ou de gouvernement des pays de la zone euro se sont accordés sur la nomination de l'Espagnol Pablo Hernández de Cos à la présidence de la Banque centrale européenne en février 2027, pour succéder à Christine Lagarde. Actuellement directeur de la Banque des règlements internationaux, il a été préféré au Néerlandais Klaas Knot.",
+      "c": "finance",
+      "s": "Toute l'Europe",
+      "f": "inflation-bce"
+    },
     {
       "d": "2026-11-26",
       "i": "40d4984378b8",
@@ -27,15 +36,6 @@
       "r": "Malgré quatre années consécutives d'excédents budgétaires et une baisse importante de sa dette publique en six ans, le Portugal refuse de baisser ses impôts pour s'offrir une cinquième année d'excédent.",
       "c": "desequilibres",
       "s": "BFM Business",
-      "f": null
-    },
-    {
-      "d": "2026-11-26",
-      "i": "8fb2fc21c7a8",
-      "t": "Airbags Takata : Stellantis et l’équipementier Joyson Safety Systems France ont été perquisitionnés, selon le parquet de Paris",
-      "r": "Le constructeur automobile Stellantis et l'équipementier Joyson Safety Systems France ont été perquisitionnés dans le cadre d'une information judiciaire menée à Paris concernant le scandale des airbags défaillants Takata.",
-      "c": "entreprises",
-      "s": "Le Monde",
       "f": null
     },
     {
@@ -85,6 +85,15 @@
     },
     {
       "d": "2026-11-26",
+      "i": "7f2127fd7c3f",
+      "t": "«Une erreur délibérée» : Trump exige une «enquête» sur le taux de croissance américain publié avant les élections de mi-mandat",
+      "r": "Le président américain exige une enquête après la révision à la hausse des estimations de croissance du troisième trimestre, qualifiée d'erreur délibérée.",
+      "c": "croissance",
+      "s": "Le Figaro",
+      "f": null
+    },
+    {
+      "d": "2026-11-26",
       "i": "e985cff163de",
       "t": "Ce que nous savons des taxes de Thanksgiving de Trump",
       "r": "Donald Trump cible la Chine, l'Union européenne et douze autres juridictions dans le cadre d'un nouveau cycle de droits de douane.",
@@ -121,6 +130,15 @@
     },
     {
       "d": "2026-11-26",
+      "i": "2961db11b4d8",
+      "t": "De plus en plus de produits agricoles russes dans les assiettes des consommateurs chinois",
+      "r": "Sous l'effet des sanctions occidentales, la Russie réoriente ses exportations de produits agricoles vers la Chine.",
+      "c": "mondialisation",
+      "s": "L'Opinion",
+      "f": null
+    },
+    {
+      "d": "2026-11-26",
       "i": "b6badd90585c",
       "t": "« Le sauvetage de Nvidia est bien plus dangereux que celui des banques après la crise de 2008 »",
       "r": "L'interventionnisme pour éviter un krach de Nvidia est qualifié de très risqué par des historiens, qui rappellent des précédents historiques majeurs.",
@@ -145,6 +163,24 @@
       "c": "finance",
       "s": "BBC",
       "f": null
+    },
+    {
+      "d": "2026-11-26",
+      "i": "b86a1a677c60",
+      "t": "A la tête de la BCE, un trio fraîchement nommé pour protéger l’Europe de l’inflation… et peut-être la France d’une attaque sur les marchés",
+      "r": "Les dirigeants de la zone euro ont désigné les nouveaux responsables de la Banque centrale européenne, dont l'Espagnol Pablo Hernandez de Cos.",
+      "c": "finance",
+      "s": "Le Monde",
+      "f": "inflation-bce"
+    },
+    {
+      "d": "2026-11-26",
+      "i": "2fdc19a16125",
+      "t": "Accord définitif à Bruxelles pour la reconfiguration de la BCE",
+      "r": "",
+      "c": "finance",
+      "s": "Les Echos",
+      "f": "inflation-bce"
     },
     {
       "d": "2026-11-26",
@@ -184,6 +220,15 @@
     },
     {
       "d": "2026-11-26",
+      "i": "84402a136d35",
+      "t": "S&P maintiendra-t-elle le statu quo sur la note de la France ?",
+      "r": "L'agence S&P Global Ratings doit rendre son verdict sur la note souveraine de la France dans un contexte de déficit élevé.",
+      "c": "desequilibres",
+      "s": "La Tribune",
+      "f": "dette-marches"
+    },
+    {
+      "d": "2026-11-26",
       "i": "1fb47858f2d7",
       "t": "Sommet UE-Balkans : Bruxelles veut accélérer l'intégration de la région",
       "r": "À la veille d'un sommet européen, les dirigeants de l'Union européenne affichent leur volonté d'accélérer l'intégration des Balkans occidentaux.",
@@ -217,6 +262,15 @@
       "c": "ue",
       "s": "Les Echos",
       "f": "ukraine-sanctions"
+    },
+    {
+      "d": "2026-11-26",
+      "i": "c4b5934a5173",
+      "t": "\"Un risque existentiel\": la presse européenne souhaite bon courage au nouveau patron de la BCE pour gérer le \"canard boiteux\" de l'UE, la France",
+      "r": "La presse europ\néenne s'interroge sur les défis de la France pour le nouveau patron de la BCE, face à la dette et l'instabilité.",
+      "c": "ue",
+      "s": "BFM Business",
+      "f": "dette-marches"
     },
     {
       "d": "2026-11-26",
@@ -256,6 +310,15 @@
     },
     {
       "d": "2026-11-26",
+      "i": "b85726ccb3a8",
+      "t": "La vente du diamantaire De Beers se dessine, dans un secteur ébranlé par les pierres de synthèse",
+      "r": "Un consortium d'entreprises et d'États producteurs se positionne pour racheter le diamantaire De Beers à Anglo American.",
+      "c": "entreprises",
+      "s": "Le Monde",
+      "f": null
+    },
+    {
+      "d": "2026-11-26",
       "i": "6adc72770678",
       "t": "Loc'Avantages, Denormandie : ce que le Sénat a voté pour les bailleurs",
       "r": "Le Sénat a adopté en première lecture des amendements au budget 2027 modifiant Loc'Avantages et prolongeant le dispositif Denormandie pour soutenir l'investissement locatif.",
@@ -279,6 +342,24 @@
       "r": "La sixième édition des Rencontres de l'épargne aborde les liens entre épargne et intelligence artificielle.",
       "c": "epargne",
       "s": "Le Monde",
+      "f": null
+    },
+    {
+      "d": "2026-11-26",
+      "i": "bbc95eee1de0",
+      "t": "Livret A ou livret bancaire : lequel rapporte le plus après la flat tax à 31,4%",
+      "r": "L'application de la flat tax modifie l'arbitrage entre les livrets réglementés et les autres produits d'épargne bânéficiant de taux bruts.",
+      "c": "epargne",
+      "s": "Capital",
+      "f": null
+    },
+    {
+      "d": "2026-11-26",
+      "i": "fe6205267351",
+      "t": "Des millions de personnes vont voir leurs mensualités moyennes de prêt immobilier augmenter de 100 £",
+      "r": "De nombreux emprunteurs font face à des remboursements hypothécaires plus élevés lors du renouvellement de leurs offres à taux fixe.",
+      "c": "epargne",
+      "s": "BBC",
       "f": null
     },
     {

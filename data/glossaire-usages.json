@@ -1,6 +1,43 @@
 {
   "version_schema": 1,
   "notions": {
+    "independance-de-la-banque-centrale": [
+      {
+        "date": "2026-11-26",
+        "id": "ea8619c5b980",
+        "titre": "BCE : l'Espagnol Pablo Hernández de Cos devrait, sauf surprise, succéder à Christine Lagarde en février 2027",
+        "source": "Toute l'Europe",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-11-20",
+        "id": "d8feb2cc9d10",
+        "titre": "BCE : après Christine Lagarde, un probable trio pour affronter les tempêtes",
+        "source": "L'Opinion",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-11-10",
+        "id": "d1d0e7a0952b",
+        "titre": "Succession de Christine Lagarde à la tête de la BCE : Paris pourrait soutenir Pablo Hernandez de Cos face à Klaas Knot dans la course à la présidence",
+        "source": "Le Monde",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-11-09",
+        "id": "f34ac07902e7",
+        "titre": "BCE : qui sont les deux candidats en lice pour remplacer Christine Lagarde ?",
+        "source": "La Tribune",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-10-30",
+        "id": "bcc18e705802",
+        "titre": "Christine Lagarde quittera la présidence de la Banque centrale européenne le 7 février 2027",
+        "source": "Toute l'Europe",
+        "contexte": "Top 5 du jour"
+      }
+    ],
     "politique-budgetaire": [
       {
         "date": "2026-11-26",
@@ -196,71 +233,6 @@
         "contexte": "Concept du jour"
       }
     ],
-    "politique-industrielle": [
-      {
-        "date": "2026-11-26",
-        "id": "8fb2fc21c7a8",
-        "titre": "Airbags Takata : Stellantis et l’équipementier Joyson Safety Systems France ont été perquisitionnés, selon le parquet de Paris",
-        "source": "Le Monde",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-11-25",
-        "id": "6dd5339e436e",
-        "titre": "L’Union européenne veut se doter d’une stratégie industrielle sur l’informatique quantique",
-        "source": "Le Monde",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-11-16",
-        "id": "d490ac203a58",
-        "titre": "Les Européens face au mur du financement de l’IA",
-        "source": "L'Opinion",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-11-13",
-        "id": "fd1c06c6dbc1",
-        "titre": "Mercedes-Benz suspend tout nouvel investissement en Allemagne et envisage de fermer des usines dans les pays s'il n'arrive pas y réduire ses coûts",
-        "source": "BFM Business",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-11-07",
-        "id": "ff4fb338c009",
-        "titre": "OPINION. « Automobile : faire du \"Made in Europe\" un levier de puissance industrielle »",
-        "source": "La Tribune",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-11-07",
-        "id": "ae95fd4c8c98",
-        "titre": "L’Allemagne va entrer au capital de KNDS et contrôlera le géant de l’armement terrestre à parité avec la France",
-        "source": "Le Monde",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-10-28",
-        "id": "ee8bc342e83a",
-        "titre": "France 2030 : le grand plan d’Emmanuel Macron face à un « mur budgétaire », alerte la Cour des comptes",
-        "source": "Le Monde",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-10-20",
-        "id": "ced71c54d04c",
-        "titre": "Intelligence artificielle : l’Allemagne scelle un partenariat avec Nvidia visant à accélérer son déploiement dans l’industrie",
-        "source": "Le Figaro",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-10-18",
-        "id": "66580453350e",
-        "titre": "Il a tout appris chez Audi en Allemagne et puis il est devenu le \"père de la voiture électrique en Chine\": qui est Wan Gang, l'ingénieur dont une lettre à Pékin a déclenché la déferlante chinoise?",
-        "source": "BFM Business",
-        "contexte": "Top 5 du jour"
-      }
-    ],
     "politique-europeenne-de-concurrence": [
       {
         "date": "2026-11-26",
@@ -349,6 +321,64 @@
         "date": "2026-11-10",
         "id": "14842b10ab78",
         "titre": "\"Tous, sans exception\": l’Allemagne exige que chaque pays de l’UE contribue équitablement au financement de l’Ukraine avant de négocier le prochain budget européen",
+        "source": "BFM Business",
+        "contexte": "Top 5 du jour"
+      }
+    ],
+    "politique-industrielle": [
+      {
+        "date": "2026-11-25",
+        "id": "6dd5339e436e",
+        "titre": "L’Union européenne veut se doter d’une stratégie industrielle sur l’informatique quantique",
+        "source": "Le Monde",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-11-16",
+        "id": "d490ac203a58",
+        "titre": "Les Européens face au mur du financement de l’IA",
+        "source": "L'Opinion",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-11-13",
+        "id": "fd1c06c6dbc1",
+        "titre": "Mercedes-Benz suspend tout nouvel investissement en Allemagne et envisage de fermer des usines dans les pays s'il n'arrive pas y réduire ses coûts",
+        "source": "BFM Business",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-11-07",
+        "id": "ff4fb338c009",
+        "titre": "OPINION. « Automobile : faire du \"Made in Europe\" un levier de puissance industrielle »",
+        "source": "La Tribune",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-11-07",
+        "id": "ae95fd4c8c98",
+        "titre": "L’Allemagne va entrer au capital de KNDS et contrôlera le géant de l’armement terrestre à parité avec la France",
+        "source": "Le Monde",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-10-28",
+        "id": "ee8bc342e83a",
+        "titre": "France 2030 : le grand plan d’Emmanuel Macron face à un « mur budgétaire », alerte la Cour des comptes",
+        "source": "Le Monde",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-10-20",
+        "id": "ced71c54d04c",
+        "titre": "Intelligence artificielle : l’Allemagne scelle un partenariat avec Nvidia visant à accélérer son déploiement dans l’industrie",
+        "source": "Le Figaro",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-10-18",
+        "id": "66580453350e",
+        "titre": "Il a tout appris chez Audi en Allemagne et puis il est devenu le \"père de la voiture électrique en Chine\": qui est Wan Gang, l'ingénieur dont une lettre à Pékin a déclenché la déferlante chinoise?",
         "source": "BFM Business",
         "contexte": "Top 5 du jour"
       }
@@ -841,36 +871,6 @@
         "id": "db61fda82ea6",
         "titre": "Dans les rayons, la hausse des prix des produits frais risque de se poursuivre",
         "source": "BFM Business",
-        "contexte": "Top 5 du jour"
-      }
-    ],
-    "independance-de-la-banque-centrale": [
-      {
-        "date": "2026-11-20",
-        "id": "d8feb2cc9d10",
-        "titre": "BCE : après Christine Lagarde, un probable trio pour affronter les tempêtes",
-        "source": "L'Opinion",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-11-10",
-        "id": "d1d0e7a0952b",
-        "titre": "Succession de Christine Lagarde à la tête de la BCE : Paris pourrait soutenir Pablo Hernandez de Cos face à Klaas Knot dans la course à la présidence",
-        "source": "Le Monde",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-11-09",
-        "id": "f34ac07902e7",
-        "titre": "BCE : qui sont les deux candidats en lice pour remplacer Christine Lagarde ?",
-        "source": "La Tribune",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-10-30",
-        "id": "bcc18e705802",
-        "titre": "Christine Lagarde quittera la présidence de la Banque centrale européenne le 7 février 2027",
-        "source": "Toute l'Europe",
         "contexte": "Top 5 du jour"
       }
     ],
