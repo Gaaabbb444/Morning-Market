@@ -1,6 +1,6 @@
 {
   "version_schema": 1,
-  "mis_a_jour_le": "2026-11-25T19:45:03+01:00",
+  "mis_a_jour_le": "2026-11-26T14:46:31+01:00",
   "fils": [
     {
       "id": "budget-2027",
@@ -11,8 +11,8 @@
       "categories": [
         "desequilibres"
       ],
-      "ou_en_est_on": "Le débat budgétaire s'intensifie alors que le Sénat examine le projet de loi de finances pour 2027 et que l'exécutif appelle au compromis, tout en évoquant le recours potentiel à l'article 49.3 de la Constitution. Parallèlement, l'idée d'une règle d'or budgétaire pour limiter les déficits continue de susciter des discussions sur son efficacité économique et son impact sur les investissements d'avenir. Le gouvernement cherche à maîtriser la trajectoire des comptes publics face aux exigences de réduction des déficits.",
-      "ou_en_est_on_maj_le": "2026-11-25",
+      "ou_en_est_on": "Le débat budgétaire se poursuit alors que le Sénat examine le projet de loi de finances pour 2027, approuvant notamment un effort de cinq milliards d'euros demandé aux grandes entreprises. Parallèlement, l'examen du projet de budget de la Sécurité sociale connaît des blocages, l'échec d'un accord en commission mixte paritaire renvoyant le texte à l'Assemblée nationale. L'exécutif cherche à maîtriser la trajectoire des comptes publics tout en faisant face aux critiques sur le coût du travail et la fiscalité.",
+      "ou_en_est_on_maj_le": "2026-11-26",
       "evenements": [
         {
           "date": "2026-10-17",
@@ -773,6 +773,37 @@
               "url": "https://www.franceinfo.fr/economie/budget/sebastien-lecornu-n-a-pas-de-volonte-de-passage-en-force-et-appelle-au-compromis-pour-faire-adopter-le-budget-2027_8299881.html#xtor=RSS-3-%5Beconomie%5D"
             }
           ]
+        },
+        {
+          "date": "2026-11-26",
+          "resume": "Le Sénat a approuvé un effort de cinq milliards d'euros demandé aux grandes entreprises pour réduire le déficit, tandis que députés et sénateurs ont échoué à trouver un accord sur le budget de la Sécurité sociale.",
+          "liens": [
+            {
+              "titre": "Budget de la Sécurité sociale 2027 : députés et sénateurs échouent à trouver un accord",
+              "source": "Le Figaro",
+              "url": "https://www.lefigaro.fr/social/budget-de-la-securite-sociale-2027-deputes-et-senateurs-echouent-a-trouver-un-accord-20261126"
+            },
+            {
+              "titre": "Budget : les Mulliez attaquent le PLFSS 2027, accusé d'augmenter le coût du travail",
+              "source": "La Tribune",
+              "url": "https://www.latribune.fr/article/economie/finances-publiques/68769592712131/budget-les-mulliez-attaquent-le-plfss-2027-accuse-daugmenter-le-cout-du-travail"
+            },
+            {
+              "titre": "La France, quatrième en Europe en matière de dépenses de santé",
+              "source": "franceinfo",
+              "url": "https://www.franceinfo.fr/replay-radio/le-brief-eco/la-france-quatrieme-en-europe-en-matiere-de-depenses-de-sante_8278487.html#xtor=RSS-3-%5Beconomie%5D"
+            },
+            {
+              "titre": "Budget 2027 : le Sénat approuve l’effort de cinq milliards d’euros demandé aux grandes entreprises",
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/politique/article/2026/11/26/budget-2027-le-senat-approuve-l-effort-de-cinq-milliards-d-euros-demande-aux-grandes-entreprises_6815197_823448.html"
+            },
+            {
+              "titre": "Taxer l’aviation d’affaires ne fera pas redécoller la France !",
+              "source": "L'Opinion",
+              "url": "https://www.lopinion.fr/economie/taxer-laviation-daffaires-ne-fera-pas-redecoller-la-france"
+            }
+          ]
         }
       ]
     },
@@ -786,8 +817,8 @@
         "desequilibres",
         "finance"
       ],
-      "ou_en_est_on": "L'agence de notation Fitch a abaissé la perspective de la dette française de stable à négative, pointant une détérioration budgétaire, tandis que la Commission européenne exhorte la France et la Belgique à réduire leur déficit et leur dette en raison de la hausse des coûts d'emprunt.",
-      "ou_en_est_on_maj_le": "2026-11-17",
+      "ou_en_est_on": "L'agence de notation Fitch a abaissé la perspective de la dette française de stable à négative, pointant une détérioration budgétaire, tandis que la Commission européenne exhorte la France et la Belgique à réduire leur déficit et leur dette en raison de la hausse des coûts d'emprunt. Face à ces tensions, les discussions se poursuivent sur les mécanismes d'optimisation de la gestion de la dette publique, comme l'allongement de la maturité des émissions obligataires.",
+      "ou_en_est_on_maj_le": "2026-11-26",
       "evenements": [
         {
           "date": "2026-10-19",
@@ -1095,6 +1126,22 @@
               "titre": "La Banque centrale européenne estime que c'est une bonne chose que la France emprunte parfois plus cher, pour l'inciter à faire des économies \"au moment opportun\"",
               "source": "BFM Business",
               "url": "https://www.bfmtv.com/economie/la-banque-centrale-europeenne-estime-que-c-est-une-bonne-chose-que-la-france-empreinte-parfois-plus-cher-pour-l-inciter-a-faire-des-economies-au-moment-opportun_AV-202611180676.html"
+            }
+          ]
+        },
+        {
+          "date": "2026-11-26",
+          "resume": "Des analyses soulignent que l'émission de titres de dette à plus long terme ou le recours à un grand emprunt national constituent des pistes pour modifier le profil des créanciers et mieux absorber la hausse des taux.",
+          "liens": [
+            {
+              "titre": "Les promesses et les pièges d'un grand emprunt national",
+              "source": "Alternatives Économiques",
+              "url": "https://www.alternatives-economiques.fr/les-promesses-et-les-pieges-d-un-grand-emprunt-national_26-11-2026"
+            },
+            {
+              "titre": "Pour mieux gérer la dette publique, faut-il emprunter à plus long terme ?",
+              "source": "Alternatives Économiques",
+              "url": "https://www.alternatives-economiques.fr/pour-mieux-gerer-la-dette-publique-faut-il-emprunter-a-plus-long-terme_26-11-2026"
             }
           ]
         }
@@ -3480,8 +3527,8 @@
         "entreprises",
         "ue"
       ],
-      "ou_en_est_on": "Le secteur de l'intelligence artificielle fait face à des défis de financement et de forte volatilité sur les marchés, incitant les investisseurs à la prudence. Pour tenter de combler son retard technologique, l'Europe envisage la mise en place d'un fonds souverain de 50 milliards d'euros, mêlant fonds publics et privés. Ces initiatives s'ajoutent aux questionnements sur la rentabilité des infrastructures et la régulation européenne.",
-      "ou_en_est_on_maj_le": "2026-11-25",
+      "ou_en_est_on": "Le secteur de l'intelligence artificielle fait face à des défis de financement et de forte volatilité sur les marchés, incitant les investisseurs à la prudence. Pour tenter de combler son retard technologique, l'Europe envisage la mise en place d'un fonds souverain de 50 milliards d'euros, mêlant fonds publics et privés. Parallèlement, le développement de nouvelles infrastructures spatiales et l'impact de l'IA sur l'emploi de bureau amènent les DRH à réévaluer les besoins en compétences.",
+      "ou_en_est_on_maj_le": "2026-11-26",
       "evenements": [
         {
           "date": "2026-10-17",
@@ -4233,6 +4280,32 @@
               "titre": "L’investissement dans l’IA devient de plus en plus complexe",
               "source": "Le Monde",
               "url": "https://www.lemonde.fr/argent/article/2026/11/25/l-investissement-dans-l-ia-devient-de-plus-en-plus-complexe_6815136_1657007.html"
+            }
+          ]
+        },
+        {
+          "date": "2026-11-26",
+          "resume": "Les États-Unis ont autorisé SpaceX à déployer un million de satellites pour des centres de données orbitaux, tandis que les entreprises chinoises accélèrent leur autonomie technologique malgré les restrictions américaines.",
+          "liens": [
+            {
+              "titre": "Les Etats-Unis autorisent SpaceX à déployer un million de satellites pour des centres de données orbitaux",
+              "source": "Les Echos",
+              "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNY2pIMWk0c1ZyMTJnX3lzQnZBeHpibmZFZXkwVXNOSW1GM3RUeXFjWkx6Z0J2YWJoRzRVSUZxRE05REd0cnc0STZjNFlZN0pvRjlobGx6bGNNSFAwRlNsc3l6dFI4Y3dpWGJhZnBpWDhyTGNsQmppVHltOHRfYnFfX0hQWW5SS3htQ255WC1OVFhlWjRET3Y1MzAxbWdhd3h5VXpXN2tpUzJ4X1IwQ2FpZjJkVk1vQkRPZXlaV2ZTV0lFNzJ1dnQ4S0ZTMXhnQnNYd0hhNGJiZzB5Z3lYckFJWUlaTjhjMm1qeWw0ZmkwenJOMG84SnhDMy12eVBtZHBNSFFibkNn?oc=5"
+            },
+            {
+              "titre": "Malgré l'affaire Nvidia et les freins américains, l'IA chinoise n'a pas dit son dernier mot",
+              "source": "L'Opinion",
+              "url": "https://www.lopinion.fr/international/malgre-laffaire-nvidia-et-les-freins-americains-lia-chinoise-na-pas-dit-son-dernier-mot"
+            },
+            {
+              "titre": "Pourquoi Muse, l'agent IA quasi autonome de Meta, relance les inquiétudes sur son utilisation des données personnelles",
+              "source": "franceinfo",
+              "url": "https://www.franceinfo.fr/internet/intelligence-artificielle/pourquoi-muse-l-agent-ia-quasi-autonome-de-meta-relance-les-inquietudes-sur-son-utilisation-des-donnees-personnelles_8297907.html#xtor=RSS-3-%5Beconomie%5D"
+            },
+            {
+              "titre": "«J’invite les parents à dépasser leurs idées reçues» : face à l’IA, les DRH appellent à réhabiliter d’urgence les métiers manuels et du soin",
+              "source": "Le Figaro",
+              "url": "https://www.lefigaro.fr/vie-professionnelle/les-cols-blancs-n-ont-pas-le-monopole-de-l-intelligence-face-a-l-ia-les-drh-appellent-a-rehabiliter-d-urgence-les-metiers-manuels-et-du-soin-20261126"
             }
           ]
         }

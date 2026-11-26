@@ -1,7 +1,286 @@
 {
   "version_schema": 1,
-  "mis_a_jour_le": "2026-11-25T19:44:50+01:00",
+  "mis_a_jour_le": "2026-11-26T14:46:16+01:00",
   "entrees": [
+    {
+      "d": "2026-11-26",
+      "i": "40d4984378b8",
+      "t": "Budget de la Sécurité sociale 2027 : députés et sénateurs échouent à trouver un accord",
+      "r": "Réunis en commission mixte paritaire, sept députés et sept sénateurs n'ont pas réussi à s'entendre sur le projet de loi de financement de la Sécurité sociale 2027. Le texte est renvoyé à l'Assemblée nationale pour une nouvelle lecture.",
+      "c": "desequilibres",
+      "s": "Le Figaro",
+      "f": "budget-2027"
+    },
+    {
+      "d": "2026-11-26",
+      "i": "c3cfae6fdb3a",
+      "t": "MIDI ÉCO - Les paiements par carte ont dépassé pour la première fois les espèces dans les commerces de la zone euro",
+      "r": "Selon une étude de la Banque centrale européenne, les paiements par carte ont dépassé pour la première fois les règlements en espèces dans les commerces de la zone euro en 2026. Cette tendance est particulièrement marquée en France.",
+      "c": "finance",
+      "s": "BFM Business",
+      "f": null
+    },
+    {
+      "d": "2026-11-26",
+      "i": "5552ebbf2442",
+      "t": "Alors que l'Europe croule sous les déficits, le Portugal refuse, lui, de baisser les impôts pour s'offrir une cinquième année consécutive d'excédent budgétaire",
+      "r": "Malgré quatre années consécutives d'excédents budgétaires et une baisse importante de sa dette publique en six ans, le Portugal refuse de baisser ses impôts pour s'offrir une cinquième année d'excédent.",
+      "c": "desequilibres",
+      "s": "BFM Business",
+      "f": null
+    },
+    {
+      "d": "2026-11-26",
+      "i": "8fb2fc21c7a8",
+      "t": "Airbags Takata : Stellantis et l’équipementier Joyson Safety Systems France ont été perquisitionnés, selon le parquet de Paris",
+      "r": "Le constructeur automobile Stellantis et l'équipementier Joyson Safety Systems France ont été perquisitionnés dans le cadre d'une information judiciaire menée à Paris concernant le scandale des airbags défaillants Takata.",
+      "c": "entreprises",
+      "s": "Le Monde",
+      "f": null
+    },
+    {
+      "d": "2026-11-26",
+      "i": "3bafa49ee210",
+      "t": "« Pour le cartel des parfums, finalement, c’est le consommateur qui a payé l’addition »",
+      "r": "Les groupes suisses Firmenich et Givaudan ainsi que l'américain IFF ont été condamnés par la Commission européenne et l'Autorité britannique de la concurrence à plus de 500 millions d'euros d'amendes pour entente sur les prix.",
+      "c": "entreprises",
+      "s": "Le Monde",
+      "f": null
+    },
+    {
+      "d": "2026-11-26",
+      "i": "84910c89b245",
+      "t": "OPINION. « La recherche duale, un investissement pour la France de demain »",
+      "r": "La recherche duale, à la croisée de l'industrie et des besoins militaires, est présentée comme un investissement clé pour préparer les technologies de demain.",
+      "c": "croissance",
+      "s": "La Tribune",
+      "f": null
+    },
+    {
+      "d": "2026-11-26",
+      "i": "615897517f9a",
+      "t": "Transport en Ile-de-France : le point sur les grands travaux et les perturbations jusqu’à la fin de l’été 2027",
+      "r": "Île-de-France Mobilités va investir 4 milliards d'euros pour la régénération et la modernisation du réseau de transport francilien en 2027.",
+      "c": "croissance",
+      "s": "Le Monde",
+      "f": null
+    },
+    {
+      "d": "2026-11-26",
+      "i": "991584da5249",
+      "t": "Corse : le tourisme reste une locomotive de la croissance, malgré des résultats contrastés",
+      "r": "Entre 2000 et 2023, le PIB de la Corse a progressé de 2,4 % par an, stimulé par des investissements publics, malgré des fragilités dans le tourisme.",
+      "c": "croissance",
+      "s": "Le Monde",
+      "f": "conjoncture-france"
+    },
+    {
+      "d": "2026-11-26",
+      "i": "6dcb81f659df",
+      "t": "S'inspirer de la reconstruction express de Notre-Dame pour accélérer les procédures: 177 projets industriels ont bénéficié de cette nouvelle méthode, dont une vingtaine réalisés \"partiellement\" ou \"totalement\"",
+      "r": "La « méthode Notre-Dame » est appliquée à plusieurs dizaines de projets industriels pour accélérer les procédures administratives en France.",
+      "c": "croissance",
+      "s": "BFM Business",
+      "f": "conjoncture-france"
+    },
+    {
+      "d": "2026-11-26",
+      "i": "e985cff163de",
+      "t": "Ce que nous savons des taxes de Thanksgiving de Trump",
+      "r": "Donald Trump cible la Chine, l'Union européenne et douze autres juridictions dans le cadre d'un nouveau cycle de droits de douane.",
+      "c": "mondialisation",
+      "s": "BBC",
+      "f": null
+    },
+    {
+      "d": "2026-11-26",
+      "i": "e400a90be716",
+      "t": "Malgré l'affaire Nvidia et les freins américains, l'IA chinoise n'a pas dit son dernier mot",
+      "r": "Malgré les restrictions américaines, les entreprises chinoises soutenues par l'État accélèrent leur autonomie dans le domaine de l'intelligence artificielle.",
+      "c": "mondialisation",
+      "s": "L'Opinion",
+      "f": "intelligence-artificielle"
+    },
+    {
+      "d": "2026-11-26",
+      "i": "b69c72f7a3a1",
+      "t": "Un nouveau traité Royaume-Uni - UE comporte une clause de résiliation à 10 ans",
+      "r": "Le texte d'un nouveau traité entre le Royaume-Uni et l'Union européenne est publié avec une clause de résiliation décennale.",
+      "c": "mondialisation",
+      "s": "BBC",
+      "f": null
+    },
+    {
+      "d": "2026-11-26",
+      "i": "f423534418ad",
+      "t": "INFOGRAPHIES. Aide à l'Ukraine : où se situe la France parmi les principaux pays donateurs ?",
+      "r": "La France est le troisième pays contributeur à l'effort de guerre pour l'Ukraine, mais le quatorzième si ce montant est rapporté au PIB.",
+      "c": "mondialisation",
+      "s": "franceinfo",
+      "f": "ukraine-sanctions"
+    },
+    {
+      "d": "2026-11-26",
+      "i": "b6badd90585c",
+      "t": "« Le sauvetage de Nvidia est bien plus dangereux que celui des banques après la crise de 2008 »",
+      "r": "L'interventionnisme pour éviter un krach de Nvidia est qualifié de très risqué par des historiens, qui rappellent des précédents historiques majeurs.",
+      "c": "finance",
+      "s": "Le Monde",
+      "f": null
+    },
+    {
+      "d": "2026-11-26",
+      "i": "68a57714714c",
+      "t": "« Nous avons réalisé 85 % de notre objectif » : deux ans après son arrivée, le patron d'HSBC dévoile les prochains chapitres de sa transformation",
+      "r": "",
+      "c": "finance",
+      "s": "Les Echos",
+      "f": null
+    },
+    {
+      "d": "2026-11-26",
+      "i": "3c955476371f",
+      "t": "Explication des indemnités de financement automobile",
+      "r": "Des millions de personnes pourraient bénéficier d'indemnités à la suite d'accords de commission entre prêteurs et concessionnaires.",
+      "c": "finance",
+      "s": "BBC",
+      "f": null
+    },
+    {
+      "d": "2026-11-26",
+      "i": "4b6c9f111e11",
+      "t": "Budget : les Mulliez attaquent le PLFSS 2027, accusé d'augmenter le coût du travail",
+      "r": "La famille Mulliez demande le retrait de l'article 7 du projet de loi de financement de la sécurité sociale 2027, qu'elle accuse d'augmenter le coût du travail.",
+      "c": "desequilibres",
+      "s": "La Tribune",
+      "f": "budget-2027"
+    },
+    {
+      "d": "2026-11-26",
+      "i": "39ba8ad97a94",
+      "t": "Sortie du nucléaire, blocage des prix : Terra Nova alerte sur le volet énergétique du programme de LFI",
+      "r": "Terra Nova critique le volet énergétique du programme de LFI, qui prévoit la sortie du nucléaire et le blocage des prix sans chiffrage précis.",
+      "c": "desequilibres",
+      "s": "Le Figaro",
+      "f": "presidentielle-2027"
+    },
+    {
+      "d": "2026-11-26",
+      "i": "580d15a24ae4",
+      "t": "En octobre 2026, les prix de production de l’industrie française augmentent de 1,5 % sur un mois et de 9,6 % sur un an",
+      "r": "En octobre 2026, les prix de production de l'industrie française ralentissent sur un mois tandis que les prix agricoles à la production ralentissent sur un an.",
+      "c": "desequilibres",
+      "s": "INSEE",
+      "f": "conjoncture-france"
+    },
+    {
+      "d": "2026-11-26",
+      "i": "ca53211a1ff9",
+      "t": "«Le système actuel permet des entorses assez injustes» : Charles Alloncle défend la réforme des retraites proposée par Marine Le Pen",
+      "r": "Un porte-parole de la campagne de Marine Le Pen défend la réforme des retraites du parti, mettant en avant la proportionnalité pour les carrières longues.",
+      "c": "desequilibres",
+      "s": "Le Figaro",
+      "f": "presidentielle-2027"
+    },
+    {
+      "d": "2026-11-26",
+      "i": "1fb47858f2d7",
+      "t": "Sommet UE-Balkans : Bruxelles veut accélérer l'intégration de la région",
+      "r": "À la veille d'un sommet européen, les dirigeants de l'Union européenne affichent leur volonté d'accélérer l'intégration des Balkans occidentaux.",
+      "c": "ue",
+      "s": "Toute l'Europe",
+      "f": null
+    },
+    {
+      "d": "2026-11-26",
+      "i": "a3b60f36d8df",
+      "t": "Budget : combien versent la France et les autres pays à l'Union européenne ?",
+      "r": "En 2027, la contribution française au budget de l'Union européenne devrait atteindre 30,9 milliards d'euros, un montant recalculé chaque année selon les engagements pris.",
+      "c": "ue",
+      "s": "Toute l'Europe",
+      "f": "budget-ue"
+    },
+    {
+      "d": "2026-11-26",
+      "i": "3ea50832396a",
+      "t": "Les syndicats d’agriculteurs montent au créneau avant des discussions-clés sur la nouvelle politique agricole commune",
+      "r": "Les syndicats agricoles manifestent à Bruxelles alors que s'ouvrent des négociations cruciales sur le budget de la future politique agricole commune.",
+      "c": "ue",
+      "s": "Le Monde",
+      "f": null
+    },
+    {
+      "d": "2026-11-26",
+      "i": "f60f24758754",
+      "t": "Aide à l'Ukraine : l'Europe affiche ses divisions",
+      "r": "",
+      "c": "ue",
+      "s": "Les Echos",
+      "f": "ukraine-sanctions"
+    },
+    {
+      "d": "2026-11-26",
+      "i": "fc5be79c0b1e",
+      "t": "Les Etats-Unis autorisent SpaceX à déployer un million de satellites pour des centres de données orbitaux",
+      "r": "The Starmind constellation aims to be the most cost and energy-efficient way to meet the growing demand for AI computing power.",
+      "c": "entreprises",
+      "s": "Les Echos",
+      "f": "intelligence-artificielle"
+    },
+    {
+      "d": "2026-11-26",
+      "i": "8117946c3e00",
+      "t": "Choose France: L’Oréal investit près de 300 millions d’euros sur la production française d’ici à 2029",
+      "r": "L'Oréal investit près de 300 millions d'euros dans la production française d'ici 2029 pour accélérer sa transition environnementale et intégrer l'intelligence artificielle.",
+      "c": "entreprises",
+      "s": "BFM Business",
+      "f": "conjoncture-france"
+    },
+    {
+      "d": "2026-11-26",
+      "i": "be193981c2ee",
+      "t": "Le patron de Groupe ADP estime que la France n'est \"pas le pays le moins risqué\" pour investir mais prévoit d'injecter plus de 8 milliards d'euros pour moderniser les aéroports parisiens",
+      "r": "Le Groupe ADP prévoit d'investir plus de 8 milliards d'euros pour moderniser les aéroports parisiens, malgré un climat d'investissement jugé risqué en France.",
+      "c": "entreprises",
+      "s": "BFM Business",
+      "f": "conjoncture-france"
+    },
+    {
+      "d": "2026-11-26",
+      "i": "7ff441133321",
+      "t": "C'est le plus important contrat de son histoire: Babcock va réaliser la maintenance des sous-marins nucléaires de la Royal Navy pour plus de 10 milliards d'euros",
+      "r": "L'entreprise Babcock décroche un contrat majeur de plus de 10 milliards d'euros pour la maintenance des sous-marins nucléaires britanniques.",
+      "c": "entreprises",
+      "s": "BFM Business",
+      "f": null
+    },
+    {
+      "d": "2026-11-26",
+      "i": "6adc72770678",
+      "t": "Loc'Avantages, Denormandie : ce que le Sénat a voté pour les bailleurs",
+      "r": "Le Sénat a adopté en première lecture des amendements au budget 2027 modifiant Loc'Avantages et prolongeant le dispositif Denormandie pour soutenir l'investissement locatif.",
+      "c": "epargne",
+      "s": "Capital",
+      "f": "fiscalite-epargne-patrimoine"
+    },
+    {
+      "d": "2026-11-26",
+      "i": "e470f0dc400d",
+      "t": "Où investir en 2027 : la stratégie pour ne pas tout miser sur un seul scénario",
+      "r": "Face aux incertitudes sur les marchés et l'inflation, la stratégie d'investissement pour 2027 consiste à diversifier son portefeuille en le séparant en deux.",
+      "c": "epargne",
+      "s": "Capital",
+      "f": null
+    },
+    {
+      "d": "2026-11-26",
+      "i": "ab5a2a33283e",
+      "t": "Rencontres de l’épargne｜Epargner à l’heure de l’IA - LIVE",
+      "r": "La sixième édition des Rencontres de l'épargne aborde les liens entre épargne et intelligence artificielle.",
+      "c": "epargne",
+      "s": "Le Monde",
+      "f": null
+    },
     {
       "d": "2026-11-25",
       "i": "650bce487d22",
