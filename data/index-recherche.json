@@ -1,6 +1,6 @@
 {
   "version_schema": 1,
-  "mis_a_jour_le": "2026-11-27T14:47:06+01:00",
+  "mis_a_jour_le": "2026-11-27T19:16:15+01:00",
   "entrees": [
     {
       "d": "2026-11-27",
@@ -31,21 +31,21 @@
     },
     {
       "d": "2026-11-27",
-      "i": "beec9695d631",
-      "t": "Énergie, services, produits manufacturés… L’inflation a ralenti à 2,9% sur un an en novembre, annonce l’Insee",
-      "r": "L’inflation a ralenti à 2,9 % sur un an en novembre, selon l’Insee, après être passée de 0,3 % en janvier 2026 à 2,9 % en octobre.",
-      "c": "desequilibres",
-      "s": "Le Figaro",
-      "f": "inflation-bce"
-    },
-    {
-      "d": "2026-11-27",
       "i": "05ed41fcd5fb",
       "t": "« Nous avons peur d'allumer notre chauffage »",
       "r": "Les factures d’énergie vont augmenter de 26 % pour des millions de ménages en janvier, suite à une forte hausse des prix du gaz déclenchée par la guerre en Iran.",
       "c": "desequilibres",
       "s": "BBC",
       "f": "choc-petrolier-ormuz"
+    },
+    {
+      "d": "2026-11-27",
+      "i": "0883a53f3a0e",
+      "t": "Budget 2027 : le gouvernement contraint de réviser sa prévision de croissance",
+      "r": "Le ministre des Comptes publics, David Amiel, a reconnu que l'hypothèse de croissance de 1 % pour 2027 ne tenait plus la route et qu'il faudra trouver plusieurs milliards de plus pour tenir le déficit à 5 %, cible présentée comme intangible.",
+      "c": "desequilibres",
+      "s": "L'Opinion",
+      "f": "budget-2027"
     },
     {
       "d": "2026-11-27",
@@ -81,6 +81,15 @@
       "r": "Face à l'essor de l'intelligence artificielle, la France devrait privilégier des centres de données plus petits et proches des ressources énergétiques.",
       "c": "croissance",
       "s": "La Tribune",
+      "f": null
+    },
+    {
+      "d": "2026-11-27",
+      "i": "95ee7f88dd0b",
+      "t": "Elections législatives en Espagne : les graphiques pour comprendre le dynamisme économique du pays et ses limites",
+      "r": "La croissance économique espagnole surclasse celle de ses voisins, portée par le tourisme, l'immigration et les fonds européens, malgré un chômage qui reste élevé.",
+      "c": "croissance",
+      "s": "Le Monde",
       "f": null
     },
     {
@@ -121,6 +130,15 @@
     },
     {
       "d": "2026-11-27",
+      "i": "a4f1504ee26c",
+      "t": "500 embauches et une voiture encore produite nulle part dans le monde: les ambitions du géant chinois BYD pour son usine française se précisent",
+      "r": "Le constructeur chinois BYD prévoit de recruter 500 salariés supplémentaires sur le site mosellan d'Ineos Automotive, portant ses effectifs à environ 1 500 personnes.",
+      "c": "mondialisation",
+      "s": "BFM Business",
+      "f": "automobile-europe-chine"
+    },
+    {
+      "d": "2026-11-27",
       "i": "e1af13fd9319",
       "t": "Au Brésil, Lula nomme un banquier au ministère des finances pour tenter de rassurer les marchés",
       "r": "Au Brésil, la nomination d'un banquier au ministère des finances vise à rassurer les marchés après la forte chute de la Bourse et du real.",
@@ -154,6 +172,15 @@
       "c": "finance",
       "s": "Les Echos",
       "f": "dette-marches"
+    },
+    {
+      "d": "2026-11-27",
+      "i": "818d7a33e40d",
+      "t": "Des \"colombes\" pour remplacer les \"faucons\" à la BCE ?",
+      "r": "La direction que prendra la nouvelle équipe dirigeante de la Banque centrale européenne soulève des interrogations sur l'orientation de sa politique monétaire.",
+      "c": "finance",
+      "s": "BFM Business",
+      "f": "inflation-bce"
     },
     {
       "d": "2026-11-27",
@@ -193,6 +220,15 @@
     },
     {
       "d": "2026-11-27",
+      "i": "14272634769b",
+      "t": "Le groupe d’experts sur le smic s’inquiète de la « smicardisation » de la France",
+      "r": "Le groupe d'experts sur le Smic s'inquiète de la smicardisation et critique l'hausse du salaire minimum combinée au gel des allègements de cotisations.",
+      "c": "desequilibres",
+      "s": "Le Monde",
+      "f": "conjoncture-france"
+    },
+    {
+      "d": "2026-11-27",
       "i": "236aeef3039e",
       "t": "Europe : revenir dans la course numérique au lieu de taxer",
       "r": "Les institutions européennes imposent taxes et pénalités aux entreprises et consommateurs pour obtenir ce qu'elles n'obtiennent pas directement des États.",
@@ -225,6 +261,15 @@
       "r": "L'examen du projet de loi Résilience par l'Assemblée nationale offre l'opportunité de transposer la directive européenne NIS 2 pour anticiper les crises numériques.",
       "c": "ue",
       "s": "La Tribune",
+      "f": null
+    },
+    {
+      "d": "2026-11-27",
+      "i": "d82a76488d7c",
+      "t": "Pourquoi la France verse 1,4 milliard d'euros par an à l’Union européenne pour ses déchets plastiques",
+      "r": "La contribution plastique versée par la France à l'Union européenne vise à alimenter le budget communautaire tout en incitant les États à recycler.",
+      "c": "ue",
+      "s": "Toute l'Europe",
       "f": null
     },
     {
@@ -262,6 +307,15 @@
       "c": "entreprises",
       "s": "Le Monde",
       "f": "presidentielle-2027"
+    },
+    {
+      "d": "2026-11-27",
+      "i": "d8ea8b4b9adf",
+      "t": "Face à la désindustrialisation, la métallurgie allemande sacrifie, sous conditions, les 35 heures",
+      "r": "Face à la désindustrialisation, la métallurgie allemande signe un accord salarial prévoyant des baisses de salaire en échange de garanties sur l'emploi.",
+      "c": "entreprises",
+      "s": "L'Opinion",
+      "f": null
     },
     {
       "d": "2026-11-27",

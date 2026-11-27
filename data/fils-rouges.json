@@ -1,6 +1,6 @@
 {
   "version_schema": 1,
-  "mis_a_jour_le": "2026-11-27T14:47:50+01:00",
+  "mis_a_jour_le": "2026-11-27T19:16:31+01:00",
   "fils": [
     {
       "id": "budget-2027",
@@ -11,8 +11,8 @@
       "categories": [
         "desequilibres"
       ],
-      "ou_en_est_on": "Le débat budgétaire se poursuit alors que le Sénat examine le projet de loi de finances pour 2027, approuvant un effort demandé aux grandes entreprises. Parallèlement, le Premier ministre Sébastien Lecornu a alerté sur les risques d'une absence de budget tout en se disant favorable à une règle d'or budgétaire. Une convention citoyenne de 150 membres a par ailleurs été lancée par le CESE pour formuler des propositions sur la réduction du déficit public, alors que le budget de la Sécurité sociale reste lié à l'État.",
-      "ou_en_est_on_maj_le": "2026-11-26",
+      "ou_en_est_on": "Le débat budgétaire se poursuit alors que le gouvernement est contraint de réviser sa prévision de croissance pour 2027, rendant nécessaire de trouver des milliards supplémentaires pour tenir l'objectif de déficit fixé à 5 %. Parallèlement, le Sénat a examiné le projet de loi de finances, approuvant un effort demandé aux grandes entreprises et rétablissant le taux réduit de TVA à 10 % sur les services de télévision payante, tandis que le malus écologique s'apprête à être durci au 1er janvier.",
+      "ou_en_est_on_maj_le": "2026-11-27",
       "evenements": [
         {
           "date": "2026-10-17",
@@ -807,7 +807,7 @@
         },
         {
           "date": "2026-11-27",
-          "resume": "Lors du congrès des maires, Sébastien Lecornu a défendu le redressement des comptes, tandis que le Sénat a rétabli le taux réduit de TVA à 10% sur les services de télévision payante.",
+          "resume": "Le ministre des Comptes publics a reconnu que la prévision de croissance pour 2027 ne tenait plus, tandis que le malus écologique se durcira au 1er janvier.",
           "liens": [
             {
               "titre": "Congrès des maires : taxe d'habitation, règle d'or, ce que Sébastien Lecornu a répondu aux élus",
@@ -818,6 +818,16 @@
               "titre": "La proposition avait provoqué la fureur de Canal+ : les sénateurs suppriment le doublement de la TVA sur les services de télévision payante du projet de buget pour 2027",
               "source": "BFM Business",
               "url": "https://www.bfmtv.com/economie/economie-social/la-proposition-avait-provoque-la-fureur-de-canal-les-senateurs-suppriment-le-doublement-de-la-tva-sur-les-services-de-television-payante-du-projet-de-buget-pour-2027_AV-202611270452.html"
+            },
+            {
+              "titre": "Budget 2027 : le gouvernement contraint de réviser sa prévision de croissance",
+              "source": "L'Opinion",
+              "url": "https://www.lopinion.fr/economie/budget-2027-le-gouvernement-contraint-de-reviser-sa-prevision-de-croissance"
+            },
+            {
+              "titre": "Malus 2027 : barème, montants et voitures concernées au 1er janvier",
+              "source": "Capital",
+              "url": "https://www.capital.fr/auto/malus-2027-bareme-montants-et-voitures-concernees-au-1er-janvier-1532203"
             }
           ]
         }
@@ -2742,7 +2752,7 @@
         "desequilibres",
         "entreprises"
       ],
-      "ou_en_est_on": "L'économie française entre en récession au troisième trimestre 2026 avec un recul du PIB de 0,2 %, tandis que la consommation des ménages en biens se stabilise en octobre. Parallèlement, la ministre de l'Agriculture met en garde contre l'agressivité des négociations commerciales à venir et les PME de l'aéronautique bénéficient de délais de paiement améliorés.",
+      "ou_en_est_on": "L'économie française entre en récession au troisième trimestre 2026 avec un recul du PIB de 0,2 %, tandis que la consommation des ménages en biens reste stable en octobre. À l'approche des négociations commerciales pour 2027, les distributeurs appellent à la modération des hausses de prix face à des ménages aux marges réduites, et le groupe d'experts sur le Smic s'inquiète du phénomène de smicardisation.",
       "ou_en_est_on_maj_le": "2026-11-27",
       "evenements": [
         {
@@ -3646,7 +3656,7 @@
         },
         {
           "date": "2026-11-27",
-          "resume": "Au troisième trimestre 2026, le PIB recule de 0,2 %, plaçant l'économie en récession, tandis que la consommation des ménages en biens reste stable en octobre.",
+          "resume": "Au troisième trimestre 2026, le PIB recule de 0,2 %, plaçant l'économie en récession, et la grande distribution demande aux industriels de modérer leurs prix pour 2027.",
           "liens": [
             {
               "titre": "Au troisième trimestre 2026, le PIB recule (-0,2 % après 0,0 %) et le pouvoir d’achat des ménages rebondit (+0,2 % par unité de consommation après -0,5 %)",
@@ -3657,6 +3667,16 @@
               "titre": "La consommation des ménages en biens est stable en octobre 2026 (après -0,9 %)",
               "source": "INSEE",
               "url": "https://www.insee.fr/fr/statistiques/9164347"
+            },
+            {
+              "titre": "\"Les Français n'ont à l'heure actuelle plus de marges de manœuvre\": Carrefour, Leclerc, Intermarché, U et Auchan écrivent aux multinationales pour leur demander de limiter leurs hausses de prix en 2027",
+              "source": "BFM Business",
+              "url": "https://www.bfmtv.com/economie/consommation/les-francais-n-ont-a-l-heure-actuelle-plus-de-marges-de-man-uvre-carrefour-leclerc-intermarche-u-et-auchan-ecrivent-aux-multinationales-pour-leur-demander-de-limiter-leurs-hausses-de-prix-en-2027_AN-202611270671.html"
+            },
+            {
+              "titre": "Recyclage des panneaux solaire : Rosi Alpes vise 5 000 tonnes en Isère et s’étend en Europe",
+              "source": "La Tribune",
+              "url": "https://www.latribune.fr/article/climat/2232095056310614/recyclage-des-panneaux-solaire-rosi-alpes-vise-5-000-tonnes-en-isere-et-s-etend-en-europe"
             }
           ]
         }
