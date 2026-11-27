@@ -1,6 +1,6 @@
 {
   "version_schema": 1,
-  "mis_a_jour_le": "2026-11-26T19:34:03+01:00",
+  "mis_a_jour_le": "2026-11-27T14:47:50+01:00",
   "fils": [
     {
       "id": "budget-2027",
@@ -804,6 +804,22 @@
               "url": "https://www.lopinion.fr/economie/taxer-laviation-daffaires-ne-fera-pas-redecoller-la-france"
             }
           ]
+        },
+        {
+          "date": "2026-11-27",
+          "resume": "Lors du congrès des maires, Sébastien Lecornu a défendu le redressement des comptes, tandis que le Sénat a rétabli le taux réduit de TVA à 10% sur les services de télévision payante.",
+          "liens": [
+            {
+              "titre": "Congrès des maires : taxe d'habitation, règle d'or, ce que Sébastien Lecornu a répondu aux élus",
+              "source": "Capital",
+              "url": "https://www.capital.fr/economie-politique/congres-des-maires-taxe-d-habitation-regle-d-or-ce-que-sebastien-lecornu-a-repondu-aux-elus-1532201"
+            },
+            {
+              "titre": "La proposition avait provoqué la fureur de Canal+ : les sénateurs suppriment le doublement de la TVA sur les services de télévision payante du projet de buget pour 2027",
+              "source": "BFM Business",
+              "url": "https://www.bfmtv.com/economie/economie-social/la-proposition-avait-provoque-la-fureur-de-canal-les-senateurs-suppriment-le-doublement-de-la-tva-sur-les-services-de-television-payante-du-projet-de-buget-pour-2027_AV-202611270452.html"
+            }
+          ]
         }
       ]
     },
@@ -1142,6 +1158,17 @@
               "titre": "Pour mieux gérer la dette publique, faut-il emprunter à plus long terme ?",
               "source": "Alternatives Économiques",
               "url": "https://www.alternatives-economiques.fr/pour-mieux-gerer-la-dette-publique-faut-il-emprunter-a-plus-long-terme_26-11-2026"
+            }
+          ]
+        },
+        {
+          "date": "2026-11-27",
+          "resume": "L'agence de notation Standard & Poor's doit rendre son avis sur la note financière de la France, une décision très attendue au vu de l'ampleur du déficit.",
+          "liens": [
+            {
+              "titre": "Dette : pourquoi les agences S&P, Fitch et Moody’s sont si complaisantes envers la France",
+              "source": "Le Figaro",
+              "url": "https://www.lefigaro.fr/conjoncture/dette-pourquoi-les-agences-s-p-fitch-et-moody-s-sont-si-complaisantes-envers-la-france-20261127"
             }
           ]
         }
@@ -1563,6 +1590,17 @@
               "url": "https://www.franceinfo.fr/economie/transports/prix-des-carburants/c-est-toujours-ca-de-pris-des-automobilistes-saluent-la-baisse-significative-du-prix-des-carburants_8290100.html#xtor=RSS-3-%5Beconomie%5D"
             }
           ]
+        },
+        {
+          "date": "2026-11-27",
+          "resume": "Les factures d'énergie vont fortement augmenter pour de nombreux foyers en janvier en raison de la hausse des prix du gaz provoquée par le conflit en Iran.",
+          "liens": [
+            {
+              "titre": "'We're scared to turn our heating on'",
+              "source": "BBC",
+              "url": "https://www.bbc.co.uk/news/videos/c6jd7yj4ve9xo?at_medium=RSS&at_campaign=rss"
+            }
+          ]
         }
       ]
     },
@@ -1741,6 +1779,22 @@
               "titre": "A la tête de la BCE, un trio fraîchement nommé pour protéger l’Europe de l’inflation… et peut-être la France d’une attaque sur les marchés",
               "source": "Le Monde",
               "url": "https://www.lemonde.fr/economie/article/2026/11/26/a-la-tete-de-la-bce-un-trio-fraichement-nomme-pour-proteger-l-europe-de-l-inflation-et-peut-etre-la-france-d-une-attaque-sur-les-marches_6815550_3234.html"
+            }
+          ]
+        },
+        {
+          "date": "2026-11-27",
+          "resume": "L'Insee annonce un ralentissement de l'inflation à 2,9% sur un an en novembre, tandis que des voix plaident pour l'utilisation d'outils monétaires climatiques à la tête de la BCE.",
+          "liens": [
+            {
+              "titre": "Énergie, services, produits manufacturés… L’inflation a ralenti à 2,9% sur un an en novembre, annonce l’Insee",
+              "source": "Le Figaro",
+              "url": "https://www.lefigaro.fr/conjoncture/energie-services-produits-manufactures-l-inflation-a-ralenti-a-2-9-sur-un-an-en-novembre-annonce-l-insee-20261127"
+            },
+            {
+              "titre": "Jézabel Couppey-Soubeyran, économiste : « Pour mettre la politique monétaire au service de la transition écologique, c’est un “pivert” qu’il faut à la tête de la BCE »",
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/idees/article/2026/11/27/jezabel-couppey-soubeyran-economiste-pour-mettre-la-politique-monetaire-au-service-de-la-transition-ecologique-c-est-un-pic-vert-qu-il-faut-a-la-tete-de-la-bce_6815809_3232.html"
             }
           ]
         }
@@ -2281,6 +2335,17 @@
               "url": "https://www.bfmtv.com/economie/economie-social/depenser-moins-pour-les-retraites-et-les-chomeurs-mais-plus-pour-les-malades-malgre-un-deficit-de-pres-de-16-milliards-d-euros-edouard-philippe-explique-comment-il-veut-depenser-plus-dans-la-sante_AV-202611260756.html"
             }
           ]
+        },
+        {
+          "date": "2026-11-27",
+          "resume": "À l'approche de l'élection présidentielle, les professionnels du secteur du jeu vidéo interpellent les candidats et réclament un renforcement du crédit d'impôt.",
+          "liens": [
+            {
+              "titre": "Jeu vidéo : en crise, le secteur interpelle les candidats à l’élection présidentielle",
+              "source": "Le Monde",
+              "url": "https://www.lemonde.fr/politique/article/2026/11/27/jeu-video-en-crise-le-secteur-interpelle-les-candidats-a-l-election-presidentielle_6815838_823448.html"
+            }
+          ]
         }
       ]
     },
@@ -2406,6 +2471,17 @@
               "url": "https://www.theguardian.com/business/2026/nov/22/court-bans-china-byd-selling-defender-clone-suv-in-eu"
             }
           ]
+        },
+        {
+          "date": "2026-11-27",
+          "resume": "Face à la baisse des commandes et à la concurrence des constructeurs chinois, Stellantis place des salariés en chômage partiel sur les sites de Rennes et Mulhouse.",
+          "liens": [
+            {
+              "titre": "\"On est quand même inquiets pour l'avenir du site\" : des salariés de Stellantis mis en chômage partiel à Rennes et Mulhouse face aux difficultés du groupe",
+              "source": "franceinfo",
+              "url": "https://www.franceinfo.fr/economie/industrie/on-est-quand-meme-inquiets-pour-l-avenir-du-site-des-salaries-de-stellantis-mis-en-chomage-partiel-a-rennes-et-mulhouse-face-aux-difficultes-du-groupe_8303127.html#xtor=RSS-3-%5Beconomie%5D"
+            }
+          ]
         }
       ]
     },
@@ -2451,6 +2527,17 @@
               "titre": "L'UE propose un budget réduit de 204 milliards d'euros pour la période 2028-2034: \"le compte n'y est pas\", en particulier pour les agriculteurs, selon l'Élysée",
               "source": "BFM Business",
               "url": "https://www.bfmtv.com/economie/economie-social/union-europeenne/l-ue-propose-un-budget-reduit-de-204-milliards-d-euros-pour-la-periode-2028-2034-le-compte-n-y-est-pas-en-particulier-pour-les-agriculteurs-selon-l-elysee_AD-202611210299.html"
+            }
+          ]
+        },
+        {
+          "date": "2026-11-27",
+          "resume": "À la suite d'un échec des négociations sur le budget européen, Emmanuel Macron a fixé un ultimatum au 31 décembre pour parvenir à un accord.",
+          "liens": [
+            {
+              "titre": "« S’il n’y a pas d’accord au 31 décembre… » : l’ultimatum de Macron pour trouver un deal sur le budget européen",
+              "source": "L'Opinion",
+              "url": "https://www.lopinion.fr/international/sil-ny-a-pas-daccord-au-31-decembre-lultimatum-de-macron-pour-trouver-un-deal-sur-le-budget-europeen"
             }
           ]
         }
@@ -2655,8 +2742,8 @@
         "desequilibres",
         "entreprises"
       ],
-      "ou_en_est_on": "La croissance française reste très faible, la Commission européenne prévoyant 0,4 % en 2026 et 0,6 % en 2027. Les tensions sociales se manifestent notamment lors d'une journée de protestation à Paris, où la mobilisation a diminué dans l'après-midi. Le secteur médico-social continue de créer des emplois, masquant les difficultés de l'économie sociale et solidaire. Les violences urbaines ont conduit à l'ouverture d'un guichet d'aide financière pouvant atteindre 10 000 euros pour les commerces affectés.",
-      "ou_en_est_on_maj_le": "2026-11-21",
+      "ou_en_est_on": "L'économie française entre en récession au troisième trimestre 2026 avec un recul du PIB de 0,2 %, tandis que la consommation des ménages en biens se stabilise en octobre. Parallèlement, la ministre de l'Agriculture met en garde contre l'agressivité des négociations commerciales à venir et les PME de l'aéronautique bénéficient de délais de paiement améliorés.",
+      "ou_en_est_on_maj_le": "2026-11-27",
       "evenements": [
         {
           "date": "2026-10-17",
@@ -3556,6 +3643,22 @@
               "url": "https://www.lemonde.fr/societe/article/2026/11/21/manifestations-du-21-novembre-le-nombre-de-personnes-mobilisees-en-baisse-dans-l-apres-midi-le-cortege-parisien-est-arrive-place-de-la-nation_6813913_3225.html"
             }
           ]
+        },
+        {
+          "date": "2026-11-27",
+          "resume": "Au troisième trimestre 2026, le PIB recule de 0,2 %, plaçant l'économie en récession, tandis que la consommation des ménages en biens reste stable en octobre.",
+          "liens": [
+            {
+              "titre": "Au troisième trimestre 2026, le PIB recule (-0,2 % après 0,0 %) et le pouvoir d’achat des ménages rebondit (+0,2 % par unité de consommation après -0,5 %)",
+              "source": "INSEE",
+              "url": "https://www.insee.fr/fr/statistiques/9165918"
+            },
+            {
+              "titre": "La consommation des ménages en biens est stable en octobre 2026 (après -0,9 %)",
+              "source": "INSEE",
+              "url": "https://www.insee.fr/fr/statistiques/9164347"
+            }
+          ]
         }
       ]
     },
@@ -4349,6 +4452,22 @@
               "titre": "«J’invite les parents à dépasser leurs idées reçues» : face à l’IA, les DRH appellent à réhabiliter d’urgence les métiers manuels et du soin",
               "source": "Le Figaro",
               "url": "https://www.lefigaro.fr/vie-professionnelle/les-cols-blancs-n-ont-pas-le-monopole-de-l-intelligence-face-a-l-ia-les-drh-appellent-a-rehabiliter-d-urgence-les-metiers-manuels-et-du-soin-20261126"
+            }
+          ]
+        },
+        {
+          "date": "2026-11-27",
+          "resume": "Pour réduire leurs coûts, des groupes du CAC 40 s'intéressent aux modèles d'intelligence artificielle chinois, tandis que les laboratoires de ce pays développent des modèles ouverts à bas coût.",
+          "liens": [
+            {
+              "titre": "« Nous sommes en discussion avec un tiers des pays de l’Apec » : l’intelligence artificielle chinoise à la conquête du monde",
+              "source": "Le Figaro",
+              "url": "https://www.lefigaro.fr/economie/nous-sommes-en-discussion-avec-un-tiers-des-pays-de-l-apec-l-intelligence-artificielle-chinoise-a-la-conquete-du-monde-20261126"
+            },
+            {
+              "titre": "« Tout le monde les regarde » : moins chers et adaptables, les modèles chinois d’IA séduisent aussi les grands groupes français",
+              "source": "Le Figaro",
+              "url": "https://www.lefigaro.fr/secteur/high-tech/tout-le-monde-les-regarde-moins-chers-et-adaptables-les-modeles-chinois-d-ia-seduisent-aussi-les-grands-groupes-francais-20261126"
             }
           ]
         }

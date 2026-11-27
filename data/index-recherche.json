@@ -1,7 +1,304 @@
 {
   "version_schema": 1,
-  "mis_a_jour_le": "2026-11-26T19:31:02+01:00",
+  "mis_a_jour_le": "2026-11-27T14:47:06+01:00",
   "entrees": [
+    {
+      "d": "2026-11-27",
+      "i": "67cebbcfeb0d",
+      "t": "Au troisième trimestre 2026, le PIB recule (-0,2 % après 0,0 %) et le pouvoir d’achat des ménages rebondit (+0,2 % par unité de consommation après -0,5 %)",
+      "r": "Le produit intérieur brut (PIB) en volume recule de 0,2 % au troisième trimestre 2026, après une stabilité au trimestre précédent, plaçant la France en récession technique ; l’acquis de croissance annuel est de +0,1 %.",
+      "c": "desequilibres",
+      "s": "INSEE",
+      "f": "conjoncture-france"
+    },
+    {
+      "d": "2026-11-27",
+      "i": "ae851eee3292",
+      "t": "« S’il n’y a pas d’accord au 31 décembre… » : l’ultimatum de Macron pour trouver un deal sur le budget européen",
+      "r": "Le président Macron a lancé un compte à rebours serré pour obtenir un accord sur le budget européen, estimant qu’il ne disposera plus de légitimité suffisante après l’élection présidentielle.",
+      "c": "ue",
+      "s": "L'Opinion",
+      "f": "budget-ue"
+    },
+    {
+      "d": "2026-11-27",
+      "i": "88750b95bcf6",
+      "t": "Dette : pourquoi les agences S&P, Fitch et Moody’s sont si complaisantes envers la France",
+      "r": "L’agence de notation Standard & Poor’s pourrait réviser à la baisse la note souveraine de la France, ce qui pourrait faire fluctuer les taux d’intérêt de la dette française.",
+      "c": "desequilibres",
+      "s": "Le Figaro",
+      "f": "dette-marches"
+    },
+    {
+      "d": "2026-11-27",
+      "i": "beec9695d631",
+      "t": "Énergie, services, produits manufacturés… L’inflation a ralenti à 2,9% sur un an en novembre, annonce l’Insee",
+      "r": "L’inflation a ralenti à 2,9 % sur un an en novembre, selon l’Insee, après être passée de 0,3 % en janvier 2026 à 2,9 % en octobre.",
+      "c": "desequilibres",
+      "s": "Le Figaro",
+      "f": "inflation-bce"
+    },
+    {
+      "d": "2026-11-27",
+      "i": "05ed41fcd5fb",
+      "t": "« Nous avons peur d'allumer notre chauffage »",
+      "r": "Les factures d’énergie vont augmenter de 26 % pour des millions de ménages en janvier, suite à une forte hausse des prix du gaz déclenchée par la guerre en Iran.",
+      "c": "desequilibres",
+      "s": "BBC",
+      "f": "choc-petrolier-ormuz"
+    },
+    {
+      "d": "2026-11-27",
+      "i": "609288fe236b",
+      "t": "La consommation des ménages en biens est stable en octobre 2026 (après -0,9 %)",
+      "r": "En octobre 2026, les dépenses de consommation des ménages en biens sont stables en volume, la baisse de la consommation d'énergie étant compensée par les biens fabriqués.",
+      "c": "croissance",
+      "s": "INSEE",
+      "f": "conjoncture-france"
+    },
+    {
+      "d": "2026-11-27",
+      "i": "724611b1e299",
+      "t": "Dépendance étrangère, explosion de la demande électrique… Ce rapport qui tempère l'enthousiasme français pour les data centers",
+      "r": "",
+      "c": "croissance",
+      "s": "Les Echos",
+      "f": null
+    },
+    {
+      "d": "2026-11-27",
+      "i": "972f22f46e27",
+      "t": "Le Black Friday, un vendredi vraiment noir pour la pollution textile",
+      "r": "À l'occasion du Black Friday, des analyses soulignent l'impact environnemental élevé du secteur textile, l'une des industries les plus polluantes.",
+      "c": "croissance",
+      "s": "Alternatives Économiques",
+      "f": null
+    },
+    {
+      "d": "2026-11-27",
+      "i": "ad49b28423ba",
+      "t": "OPINION. « Data centers : la France doit choisir les territoires plutôt que le gigantisme »",
+      "r": "Face à l'essor de l'intelligence artificielle, la France devrait privilégier des centres de données plus petits et proches des ressources énergétiques.",
+      "c": "croissance",
+      "s": "La Tribune",
+      "f": null
+    },
+    {
+      "d": "2026-11-27",
+      "i": "64d2b93cefe3",
+      "t": "Le Brésil déplore les propos d'Emmanuel Macron sur la viande brésilienne \"dopée\"",
+      "r": "Emmanuel Macron réaffirme son opposition à l'accord UE-Mercosur et critique la viande brésilienne, saluant sa suspension par l'Union européenne.",
+      "c": "mondialisation",
+      "s": "franceinfo",
+      "f": null
+    },
+    {
+      "d": "2026-11-27",
+      "i": "810b9a7a24cf",
+      "t": "Il faut \"qu'on reconnaisse qu'on est en retard technologiquement\": Bruno Le Maire appelle à doubler les droits de douane européens sur les voitures électriques chinoises",
+      "r": "Bruno Le Maire appelle à doubler les droits de douane européens sur les voitures électriques chinoises face au retard technologique européen.",
+      "c": "mondialisation",
+      "s": "BFM Business",
+      "f": null
+    },
+    {
+      "d": "2026-11-27",
+      "i": "92433f06c107",
+      "t": "A Shanghaï, l’essor des marques chinoises menace les champions européens du luxe",
+      "r": "À Shanghai, l'émergence de marques locales concurrence les acteurs traditionnels du luxe européen, menacés de la même manière que l'industrie automobile.",
+      "c": "mondialisation",
+      "s": "Le Monde",
+      "f": null
+    },
+    {
+      "d": "2026-11-27",
+      "i": "61c738ecd697",
+      "t": "Pour convaincre la Suisse d'acheter son bouclier antimissile plutôt que celui d'Israël, la France lui propose de participer à son développement",
+      "r": "La France propose à la Suisse de participer au développement du système de défense aérienne SAMP/T NG pour emporter le contrat.",
+      "c": "mondialisation",
+      "s": "BFM Business",
+      "f": null
+    },
+    {
+      "d": "2026-11-27",
+      "i": "e1af13fd9319",
+      "t": "Au Brésil, Lula nomme un banquier au ministère des finances pour tenter de rassurer les marchés",
+      "r": "Au Brésil, la nomination d'un banquier au ministère des finances vise à rassurer les marchés après la forte chute de la Bourse et du real.",
+      "c": "finance",
+      "s": "Le Monde",
+      "f": null
+    },
+    {
+      "d": "2026-11-27",
+      "i": "68d12cc1e2c8",
+      "t": "L'Asie a fait un pari majeur sur l'IA avec Nvidia. Que va-t-il se passer maintenant ?",
+      "r": "Les marchés boursiers asiatiques ont connu de fortes fluctuations à la suite du retour de Jensen Huang comme PDG de Nvidia.",
+      "c": "finance",
+      "s": "BBC",
+      "f": null
+    },
+    {
+      "d": "2026-11-27",
+      "i": "333e95083bf5",
+      "t": "Jézabel Couppey-Soubeyran, économiste : « Pour mettre la politique monétaire au service de la transition écologique, c’est un “pivert” qu’il faut à la tête de la BCE »",
+      "r": "L'économiste Jézabel Couppey-Soubeyran plaide pour l'utilisation d'outils monétaires comme les taux différenciés afin d'intégrer la transition écologique à la tête de la BCE.",
+      "c": "finance",
+      "s": "Le Monde",
+      "f": "inflation-bce"
+    },
+    {
+      "d": "2026-11-27",
+      "i": "dfcf1c99dea9",
+      "t": "Les hedge funds n'ont pas (encore) mené d'attaques spéculatives coordonnées et massives contre la dette française",
+      "r": "",
+      "c": "finance",
+      "s": "Les Echos",
+      "f": "dette-marches"
+    },
+    {
+      "d": "2026-11-27",
+      "i": "f0d00815926b",
+      "t": "OPINION. « La crise budgétaire de la France est aussi un problème européen »",
+      "r": "La crise budgétaire française pose un défi européen, incitant à s'interroger sur le rôle de la BCE et du MES pour le redressement.",
+      "c": "desequilibres",
+      "s": "La Tribune",
+      "f": "budget-2027"
+    },
+    {
+      "d": "2026-11-27",
+      "i": "933ce0fdd29f",
+      "t": "Dépenses publiques : et si l'on regardait enfin du côté des aides aux entreprises ?",
+      "r": "Les aides aux entreprises, estimées entre 166 et 211 milliards d'euros, représentent un important gisement d'économies potentielles pour les dépenses publiques.",
+      "c": "desequilibres",
+      "s": "Alternatives Économiques",
+      "f": "budget-2027"
+    },
+    {
+      "d": "2026-11-27",
+      "i": "eb4dcfedd4ed",
+      "t": "Congrès des maires : taxe d'habitation, règle d'or, ce que Sébastien Lecornu a répondu aux élus",
+      "r": "Lors du congrès des maires, les élus ont exprimé leurs inquiétudes concernant les finances locales et le budget 2027, tandis que Sébastien Lecornu a défendu le redressement des comptes.",
+      "c": "desequilibres",
+      "s": "Capital",
+      "f": "budget-2027"
+    },
+    {
+      "d": "2026-11-27",
+      "i": "c5bab6c51fa3",
+      "t": "Auchan, Decathlon, Kiabi : quand la famille Mulliez prend la plume pour dénoncer la hausse du coût du travail prévue dans le budget 2027",
+      "r": "",
+      "c": "desequilibres",
+      "s": "Les Echos",
+      "f": "budget-2027"
+    },
+    {
+      "d": "2026-11-27",
+      "i": "236aeef3039e",
+      "t": "Europe : revenir dans la course numérique au lieu de taxer",
+      "r": "Les institutions européennes imposent taxes et pénalités aux entreprises et consommateurs pour obtenir ce qu'elles n'obtiennent pas directement des États.",
+      "c": "ue",
+      "s": "L'Opinion",
+      "f": null
+    },
+    {
+      "d": "2026-11-27",
+      "i": "540b51f49497",
+      "t": "Le Royaume-Uni va payer des frais de « participation » pour mettre en œuvre les accords avec l'UE",
+      "r": "De nouveaux documents juridiques révèlent les détails de la contribution financière du Royaume-Uni aux frais de fonctionnement de l'Union européenne.",
+      "c": "ue",
+      "s": "BBC",
+      "f": "budget-ue"
+    },
+    {
+      "d": "2026-11-27",
+      "i": "8a4f8d9b3eef",
+      "t": "Via Mediterra, ce front commun de quatre régions du sud de l’Europe pour accélérer l’arc ferroviaire méditerranéen",
+      "r": "Quatre régions du sud de l'Europe ont lancé Via Mediterra à Bruxelles pour peser sur les crédits européens et accélérer le corridor ferroviaire méditerranéen.",
+      "c": "ue",
+      "s": "La Tribune",
+      "f": null
+    },
+    {
+      "d": "2026-11-27",
+      "i": "92d739a744a2",
+      "t": "OPINION. « PJL Résilience : la France ne doit pas se contenter de cocher la case européenne »",
+      "r": "L'examen du projet de loi Résilience par l'Assemblée nationale offre l'opportunité de transposer la directive européenne NIS 2 pour anticiper les crises numériques.",
+      "c": "ue",
+      "s": "La Tribune",
+      "f": null
+    },
+    {
+      "d": "2026-11-27",
+      "i": "63eccf963e72",
+      "t": "Cette entreprise bretonne fabrique des lasers pour les armées et l'industrie spatiale: Thales veut s'en emparer pour bâtir un champion européen",
+      "r": "Thales entre en négociations exclusives pour acquérir 51,6 % de Lumibird, valorisant le spécialiste breton des technologies laser à environ 440 millions d'euros.",
+      "c": "entreprises",
+      "s": "BFM Business",
+      "f": null
+    },
+    {
+      "d": "2026-11-27",
+      "i": "09a4f0af3d89",
+      "t": "La Finlande, la Lituanie, les Pays-Bas, la Norvège et la Suède sortent le chéquier: les cinq pays européens commandent 400 véhicules de combat pour 6 milliards de dollars",
+      "r": "Cinq pays européens commandent plus de 400 véhicules de combat CV90 au groupe suédois BAE Systems Hägglunds pour un montant de 6 milliards de dollars.",
+      "c": "entreprises",
+      "s": "BFM Business",
+      "f": null
+    },
+    {
+      "d": "2026-11-27",
+      "i": "b37016bd8ac5",
+      "t": "\"On est quand même inquiets pour l'avenir du site\" : des salariés de Stellantis mis en chômage partiel à Rennes et Mulhouse face aux difficultés du groupe",
+      "r": "Face à la baisse des commandes et à la concurrence des constructeurs chinois, Stellantis place des salariés en chômage partiel à Rennes et Mulhouse.",
+      "c": "entreprises",
+      "s": "franceinfo",
+      "f": "automobile-europe-chine"
+    },
+    {
+      "d": "2026-11-27",
+      "i": "36bd47943366",
+      "t": "Jeu vidéo : en crise, le secteur interpelle les candidats à l’élection présidentielle",
+      "r": "Le secteur du jeu vidéo, en difficulté, interpelle les candidats à l'élection présidentielle et réclame un renforcement du crédit d'impôt.",
+      "c": "entreprises",
+      "s": "Le Monde",
+      "f": "presidentielle-2027"
+    },
+    {
+      "d": "2026-11-27",
+      "i": "833bfb05624f",
+      "t": "Logement neuf : le Sénat vote une TVA à 5,5% pour les investisseurs",
+      "r": "Le Sénat vote une baisse de la TVA à 5,5 % pour les investisseurs dans le logement neuf destiné à la location afin de relancer le marché.",
+      "c": "epargne",
+      "s": "Capital",
+      "f": null
+    },
+    {
+      "d": "2026-11-27",
+      "i": "93353634e2e3",
+      "t": "ETF actifs : quand-est ce que payer plus cher qu'un ETF indiciel vaut le coup ?",
+      "r": "Les ETF actifs se multiplient dans les enveloppes d'épargne, mêlant gestion active et frais bas des ETF indiciels.",
+      "c": "epargne",
+      "s": "Capital",
+      "f": null
+    },
+    {
+      "d": "2026-11-27",
+      "i": "7cea8927b8c1",
+      "t": "«11 milliards de dollars de retraites partis en fumée» : au Chili, le coup de poker qui a anéanti l’épargne de millions de travailleurs",
+      "r": "Au Chili, des pertes importantes sur un fonds de pension par capitalisation relancent les critiques contre le système de retraite.",
+      "c": "epargne",
+      "s": "Le Figaro",
+      "f": null
+    },
+    {
+      "d": "2026-11-27",
+      "i": "3bf8324228fb",
+      "t": "Assurance-vie : pourquoi les épargnants se ruent-ils au Luxembourg ?",
+      "r": "L'assurance-vie luxembourgeoise attire de plus en plus d'épargnants français en raison de recherches de sécurité et du contexte politique actuel.",
+      "c": "epargne",
+      "s": "Le Monde",
+      "f": "fiscalite-epargne-patrimoine"
+    },
     {
       "d": "2026-11-26",
       "i": "ea8619c5b980",

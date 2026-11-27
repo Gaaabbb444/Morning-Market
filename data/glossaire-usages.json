@@ -1,6 +1,247 @@
 {
   "version_schema": 1,
   "notions": {
+    "pib-produit-interieur-brut": [
+      {
+        "date": "2026-11-27",
+        "id": "67cebbcfeb0d",
+        "titre": "Au troisième trimestre 2026, le PIB recule (-0,2 % après 0,0 %) et le pouvoir d’achat des ménages rebondit (+0,2 % par unité de consommation après -0,5 %)",
+        "source": "INSEE",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-11-12",
+        "id": "6ba2e3320848",
+        "titre": "Moody’s prévoit seulement 0,2 % de croissance en France pour 2026",
+        "source": "La Tribune",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-11-10",
+        "id": "d07c044d5ca2",
+        "titre": "Prix des carburants, mobilisations sociales, débats budgétaires: face à une situation très incertaine, la Banque de France s'attend à une croissance modérée du PIB au quatrième trimestre",
+        "source": "BFM Business",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-11-05",
+        "id": "70624f076922",
+        "titre": "Une croissance de 0,5 % en 2026 est « difficilement atteignable », selon le Haut Conseil des finances publiques",
+        "source": "Le Monde",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-11-04",
+        "id": "225e71a6c917",
+        "titre": "Récession française : la consommation tient mais l’industrie plonge",
+        "source": "L'Opinion",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-10-30",
+        "id": "86940beef10b",
+        "titre": "Le PIB recule légèrement au troisième trimestre 2026 (-0,1 % après 0,0 %)",
+        "source": "INSEE",
+        "contexte": "Top 5 du jour"
+      }
+    ],
+    "budget-de-l-union-europeenne": [
+      {
+        "date": "2026-11-27",
+        "id": "ae851eee3292",
+        "titre": "« S’il n’y a pas d’accord au 31 décembre… » : l’ultimatum de Macron pour trouver un deal sur le budget européen",
+        "source": "L'Opinion",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-11-25",
+        "id": "9c50961272ef",
+        "titre": "En pleine discorde entre les 27 sur le futur budget de l'UE, Emmanuel Macron prévient que faute d'accord en décembre, il ne poursuivra pas les négociations",
+        "source": "BFM Business",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-11-19",
+        "id": "dd4080bc3211",
+        "titre": "Ukraine : la Commission européenne propose un nouveau prêt de 45 milliards d'euros, dans un contexte budgétaire tendu",
+        "source": "Toute l'Europe",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-11-18",
+        "id": "69d12907ae6a",
+        "titre": "Pour aider l'Ukraine à combler son déficit budgétaire de 70 milliards d'euros en 2027, l'Union européenne propose un nouveau prêt de 45 milliards d'euros",
+        "source": "BFM Business",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-11-10",
+        "id": "14842b10ab78",
+        "titre": "\"Tous, sans exception\": l’Allemagne exige que chaque pays de l’UE contribue équitablement au financement de l’Ukraine avant de négocier le prochain budget européen",
+        "source": "BFM Business",
+        "contexte": "Top 5 du jour"
+      }
+    ],
+    "notation-souveraine": [
+      {
+        "date": "2026-11-27",
+        "id": "88750b95bcf6",
+        "titre": "Dette : pourquoi les agences S&P, Fitch et Moody’s sont si complaisantes envers la France",
+        "source": "Le Figaro",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-10-31",
+        "id": "558c3360d143",
+        "titre": "L’agence Fitch maintient la note de la dette souveraine de la France mais dégrade sa perspective",
+        "source": "Le Monde",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-10-23",
+        "id": "fa684d4ef153",
+        "titre": "Dette : pourquoi la note de la France devrait être dégradée par Moody’s",
+        "source": "La Tribune",
+        "contexte": "Top 5 du jour"
+      }
+    ],
+    "inflation": [
+      {
+        "date": "2026-11-27",
+        "id": "beec9695d631",
+        "titre": "Énergie, services, produits manufacturés… L’inflation a ralenti à 2,9% sur un an en novembre, annonce l’Insee",
+        "source": "Le Figaro",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-11-18",
+        "id": "bec93ec6de44",
+        "titre": "Le paiement en 3 fois devient un crédit à la consommation",
+        "source": "franceinfo",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-11-11",
+        "id": "4fb60736a818",
+        "titre": "US inflation rose 0.4% in October as price increases cooled and gas costs dipped",
+        "source": "The Guardian",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-11-01",
+        "id": "113caf33f837",
+        "titre": "« Il ne faut pas renoncer, sinon, c’est la fin de la démocratie » : malgré des cortèges moins fournis, la jeunesse mobilisée",
+        "source": "La Tribune",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-10-31",
+        "id": "34d8bdd7b6b9",
+        "titre": "L'Insee prévoit une inflation à 3,4% sur un an en octobre, au plus haut depuis janvier 2024",
+        "source": "franceinfo",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-10-27",
+        "id": "1fc158ac434d",
+        "titre": "European gas prices soar to four-year high over winter supply fears",
+        "source": "The Guardian",
+        "contexte": "Top 5 du jour"
+      }
+    ],
+    "pouvoir-d-achat": [
+      {
+        "date": "2026-11-27",
+        "id": "05ed41fcd5fb",
+        "titre": "'We're scared to turn our heating on'",
+        "source": "BBC",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-11-25",
+        "id": "e40831adda66",
+        "titre": "«10% des salariés ont refusé un emploi faute de pouvoir se loger» : les Français piégés par la crise du logement",
+        "source": "Le Figaro",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-11-15",
+        "id": "a06ffd401983",
+        "titre": "En Italie, Meta condamnée à 805 millions d’euros d’amende pour avoir accédé aux photos de ses utilisateurs sans leur consentement",
+        "source": "Le Figaro",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-11-15",
+        "id": "931a62b1ccf2",
+        "titre": "Surendettement : 10,2% de dossiers supplémentaires déposés à la Banque de France depuis le début de l'année 2026",
+        "source": "franceinfo",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-11-14",
+        "id": "09a484905f04",
+        "titre": "Salaires des fonctionnaires : les mesures d’urgence du gouvernement jugées « insuffisantes » par les syndicats",
+        "source": "Le Monde",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-11-13",
+        "id": "5294232b48a2",
+        "titre": "Logements : les promoteurs immobiliers s’enfoncent un peu plus dans la crise",
+        "source": "Le Monde",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-11-12",
+        "id": "9e316ae07889",
+        "titre": "REPORTAGE. \"Quoi de mieux pour faire passer le message que de paralyser le pays ?\" : en Espagne, une grève générale pour dénoncer la crise du logement",
+        "source": "franceinfo",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-11-08",
+        "id": "444f7f83820d",
+        "titre": "Tarifs de l'électricité pour les particuliers: le PDG d’EDF promet des prix de l’électricité stables \"jusqu’à la fin de l’hiver\"",
+        "source": "BFM Business",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-11-06",
+        "id": "c623b0cc3dbe",
+        "titre": "Manifestations : face à la colère de la rue, le gouvernement dégaine une conférence sociale",
+        "source": "L'Opinion",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-11-01",
+        "id": "15b4255dffb6",
+        "titre": "Carburants : les prix du gazole doivent baisser à partir de ce week-end",
+        "source": "Le Figaro",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-10-27",
+        "id": "fa1814b3d302",
+        "titre": "Pouvoir d'achat : les salariés au SMIC réclament une hausse plus importante",
+        "source": "franceinfo",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-10-26",
+        "id": "81d3a09a1c1c",
+        "titre": "\"On le dit, on continuera\" : une mobilisation sociale partie pour s'ancrer dans la durée ?",
+        "source": "franceinfo",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-10-25",
+        "id": "3cf1e8c28e56",
+        "titre": "12 à 18 centimes de moins par litre : les stocks de gazole libérés pourraient faire baisser les prix dès le 1er novembre",
+        "source": "BFM Business",
+        "contexte": "Top 5 du jour"
+      }
+    ],
     "independance-de-la-banque-centrale": [
       {
         "date": "2026-11-26",
@@ -295,36 +536,6 @@
         "contexte": "Top 5 du jour"
       }
     ],
-    "budget-de-l-union-europeenne": [
-      {
-        "date": "2026-11-25",
-        "id": "9c50961272ef",
-        "titre": "En pleine discorde entre les 27 sur le futur budget de l'UE, Emmanuel Macron prévient que faute d'accord en décembre, il ne poursuivra pas les négociations",
-        "source": "BFM Business",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-11-19",
-        "id": "dd4080bc3211",
-        "titre": "Ukraine : la Commission européenne propose un nouveau prêt de 45 milliards d'euros, dans un contexte budgétaire tendu",
-        "source": "Toute l'Europe",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-11-18",
-        "id": "69d12907ae6a",
-        "titre": "Pour aider l'Ukraine à combler son déficit budgétaire de 70 milliards d'euros en 2027, l'Union européenne propose un nouveau prêt de 45 milliards d'euros",
-        "source": "BFM Business",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-11-10",
-        "id": "14842b10ab78",
-        "titre": "\"Tous, sans exception\": l’Allemagne exige que chaque pays de l’UE contribue équitablement au financement de l’Ukraine avant de négocier le prochain budget européen",
-        "source": "BFM Business",
-        "contexte": "Top 5 du jour"
-      }
-    ],
     "politique-industrielle": [
       {
         "date": "2026-11-25",
@@ -379,92 +590,6 @@
         "date": "2026-10-18",
         "id": "66580453350e",
         "titre": "Il a tout appris chez Audi en Allemagne et puis il est devenu le \"père de la voiture électrique en Chine\": qui est Wan Gang, l'ingénieur dont une lettre à Pékin a déclenché la déferlante chinoise?",
-        "source": "BFM Business",
-        "contexte": "Top 5 du jour"
-      }
-    ],
-    "pouvoir-d-achat": [
-      {
-        "date": "2026-11-25",
-        "id": "e40831adda66",
-        "titre": "«10% des salariés ont refusé un emploi faute de pouvoir se loger» : les Français piégés par la crise du logement",
-        "source": "Le Figaro",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-11-15",
-        "id": "a06ffd401983",
-        "titre": "En Italie, Meta condamnée à 805 millions d’euros d’amende pour avoir accédé aux photos de ses utilisateurs sans leur consentement",
-        "source": "Le Figaro",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-11-15",
-        "id": "931a62b1ccf2",
-        "titre": "Surendettement : 10,2% de dossiers supplémentaires déposés à la Banque de France depuis le début de l'année 2026",
-        "source": "franceinfo",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-11-14",
-        "id": "09a484905f04",
-        "titre": "Salaires des fonctionnaires : les mesures d’urgence du gouvernement jugées « insuffisantes » par les syndicats",
-        "source": "Le Monde",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-11-13",
-        "id": "5294232b48a2",
-        "titre": "Logements : les promoteurs immobiliers s’enfoncent un peu plus dans la crise",
-        "source": "Le Monde",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-11-12",
-        "id": "9e316ae07889",
-        "titre": "REPORTAGE. \"Quoi de mieux pour faire passer le message que de paralyser le pays ?\" : en Espagne, une grève générale pour dénoncer la crise du logement",
-        "source": "franceinfo",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-11-08",
-        "id": "444f7f83820d",
-        "titre": "Tarifs de l'électricité pour les particuliers: le PDG d’EDF promet des prix de l’électricité stables \"jusqu’à la fin de l’hiver\"",
-        "source": "BFM Business",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-11-06",
-        "id": "c623b0cc3dbe",
-        "titre": "Manifestations : face à la colère de la rue, le gouvernement dégaine une conférence sociale",
-        "source": "L'Opinion",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-11-01",
-        "id": "15b4255dffb6",
-        "titre": "Carburants : les prix du gazole doivent baisser à partir de ce week-end",
-        "source": "Le Figaro",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-10-27",
-        "id": "fa1814b3d302",
-        "titre": "Pouvoir d'achat : les salariés au SMIC réclament une hausse plus importante",
-        "source": "franceinfo",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-10-26",
-        "id": "81d3a09a1c1c",
-        "titre": "\"On le dit, on continuera\" : une mobilisation sociale partie pour s'ancrer dans la durée ?",
-        "source": "franceinfo",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-10-25",
-        "id": "3cf1e8c28e56",
-        "titre": "12 à 18 centimes de moins par litre : les stocks de gazole libérés pourraient faire baisser les prix dès le 1er novembre",
         "source": "BFM Business",
         "contexte": "Top 5 du jour"
       }
@@ -947,43 +1072,6 @@
         "contexte": "Top 5 du jour"
       }
     ],
-    "inflation": [
-      {
-        "date": "2026-11-18",
-        "id": "bec93ec6de44",
-        "titre": "Le paiement en 3 fois devient un crédit à la consommation",
-        "source": "franceinfo",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-11-11",
-        "id": "4fb60736a818",
-        "titre": "US inflation rose 0.4% in October as price increases cooled and gas costs dipped",
-        "source": "The Guardian",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-11-01",
-        "id": "113caf33f837",
-        "titre": "« Il ne faut pas renoncer, sinon, c’est la fin de la démocratie » : malgré des cortèges moins fournis, la jeunesse mobilisée",
-        "source": "La Tribune",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-10-31",
-        "id": "34d8bdd7b6b9",
-        "titre": "L'Insee prévoit une inflation à 3,4% sur un an en octobre, au plus haut depuis janvier 2024",
-        "source": "franceinfo",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-10-27",
-        "id": "1fc158ac434d",
-        "titre": "European gas prices soar to four-year high over winter supply fears",
-        "source": "The Guardian",
-        "contexte": "Top 5 du jour"
-      }
-    ],
     "stagnation-seculaire": [
       {
         "date": "2026-11-18",
@@ -1132,43 +1220,6 @@
         "id": "e40b615f81e9",
         "titre": "Airbus veut investir 900 millions dans une usine géante près de Toulouse pour verrouiller sa montée en cadence",
         "source": "La Tribune",
-        "contexte": "Top 5 du jour"
-      }
-    ],
-    "pib-produit-interieur-brut": [
-      {
-        "date": "2026-11-12",
-        "id": "6ba2e3320848",
-        "titre": "Moody’s prévoit seulement 0,2 % de croissance en France pour 2026",
-        "source": "La Tribune",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-11-10",
-        "id": "d07c044d5ca2",
-        "titre": "Prix des carburants, mobilisations sociales, débats budgétaires: face à une situation très incertaine, la Banque de France s'attend à une croissance modérée du PIB au quatrième trimestre",
-        "source": "BFM Business",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-11-05",
-        "id": "70624f076922",
-        "titre": "Une croissance de 0,5 % en 2026 est « difficilement atteignable », selon le Haut Conseil des finances publiques",
-        "source": "Le Monde",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-11-04",
-        "id": "225e71a6c917",
-        "titre": "Récession française : la consommation tient mais l’industrie plonge",
-        "source": "L'Opinion",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-10-30",
-        "id": "86940beef10b",
-        "titre": "Le PIB recule légèrement au troisième trimestre 2026 (-0,1 % après 0,0 %)",
-        "source": "INSEE",
         "contexte": "Top 5 du jour"
       }
     ],
@@ -1337,22 +1388,6 @@
         "titre": "Croissance, dette : la France perd pied",
         "source": "L'Opinion",
         "contexte": "Concept du jour"
-      }
-    ],
-    "notation-souveraine": [
-      {
-        "date": "2026-10-31",
-        "id": "558c3360d143",
-        "titre": "L’agence Fitch maintient la note de la dette souveraine de la France mais dégrade sa perspective",
-        "source": "Le Monde",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-10-23",
-        "id": "fa684d4ef153",
-        "titre": "Dette : pourquoi la note de la France devrait être dégradée par Moody’s",
-        "source": "La Tribune",
-        "contexte": "Top 5 du jour"
       }
     ],
     "action": [
