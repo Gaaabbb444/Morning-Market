@@ -1,6 +1,6 @@
 {
   "version_schema": 1,
-  "mis_a_jour_le": "2026-11-28T13:53:22+01:00",
+  "mis_a_jour_le": "2026-11-28T17:56:31+01:00",
   "entrees": [
     {
       "d": "2026-11-28",
@@ -85,6 +85,15 @@
     },
     {
       "d": "2026-11-28",
+      "i": "ff82415dce6a",
+      "t": "Elle représentait 75% des exportations du pays et 5% de son PIB: le Panama veut rouvrir sa gigantesque mine de cuivre car la laisser fermée lui coûte trop cher",
+      "r": "Le Panama envisage de rouvrir sa plus grande mine de cuivre, fermée depuis 2023, malgré les tensions sociales et environnementales.",
+      "c": "croissance",
+      "s": "BFM Business",
+      "f": null
+    },
+    {
+      "d": "2026-11-28",
       "i": "267c51e0f369",
       "t": "Une nouvelle règle donne l’avantage aux Etats-Unis dans la course à l’IA face à la Chine",
       "r": "Washington renforce ses règles pour limiter l'accès des entreprises chinoises aux puces Nvidia dans la course à l'intelligence artificielle.",
@@ -99,6 +108,24 @@
       "r": "Le blé constitue un instrument de puissance géopolitique majeur dans les rapports de force internationaux, aux côtés de la Russie.",
       "c": "mondialisation",
       "s": "L'Opinion",
+      "f": null
+    },
+    {
+      "d": "2026-11-28",
+      "i": "19458b816091",
+      "t": "Pétrole : la menace d'une offre excédentaire fait reculer les cours malgré les tensions au Moyen-Orient",
+      "r": "Les cours du pétrole reculent en raison de la menace d'une offre excédentaire, avant la réunion de l'Opep+ sur ses quotas pour 2027.",
+      "c": "mondialisation",
+      "s": "La Tribune",
+      "f": "choc-petrolier-ormuz"
+    },
+    {
+      "d": "2026-11-28",
+      "i": "7175ec1e577d",
+      "t": "L'Argentine réclamait la suspension d'un projet pétrolier autorisé par le Royaume-Uni au large des îles Malouines: le Tribunal du droit de la mer rejette la demande de Buenos Aires et donne raison à Londres",
+      "r": "Le Tribunal du droit de la mer a rejeté la demande de l'Argentine visant à suspendre un projet pétrolier autorisé par le Royaume-Uni aux îles Malouines.",
+      "c": "mondialisation",
+      "s": "BFM Business",
       "f": null
     },
     {
@@ -126,6 +153,15 @@
       "r": "",
       "c": "finance",
       "s": "Les Echos",
+      "f": null
+    },
+    {
+      "d": "2026-11-28",
+      "i": "8f17adc05eae",
+      "t": "Binance, géant mondial des cryptomonnaies, prépare sa sortie de l’Europe, faute de visa des régulateurs",
+      "r": "La plateforme de cryptoactifs Binance prépare sa sortie de l'Union européenne après avoir échoué à obtenir l'agrément indispensable.",
+      "c": "finance",
+      "s": "Le Monde",
       "f": null
     },
     {
@@ -166,9 +202,27 @@
     },
     {
       "d": "2026-11-28",
+      "i": "ac5bc9d1527d",
+      "t": "Sur les marchés, la dette française reprend son souffle",
+      "r": "",
+      "c": "desequilibres",
+      "s": "Les Echos",
+      "f": "dette-marches"
+    },
+    {
+      "d": "2026-11-28",
       "i": "d8d581a45831",
       "t": "Nos voitures polluent-elles moins grâce aux règles européennes ?",
       "r": "Le transport routier demeure une source majeure d'émissions d'oxydes d'azote et de particules fines, soulevant la question de l'efficacité des règles européennes.",
+      "c": "ue",
+      "s": "Toute l'Europe",
+      "f": null
+    },
+    {
+      "d": "2026-11-28",
+      "i": "41ed693b5f45",
+      "t": "La Caisse des Dépôts et La Cassa Depositi renforcent leur coopération pour répondre aux grands défis européens",
+      "r": "La Caisse des Dépôts et la Cassa Depositi e Prestiti ont renforcé leur coopération pour répondre aux grands défis européens lors d'une rencontre à Rome.",
       "c": "ue",
       "s": "Toute l'Europe",
       "f": null
@@ -211,6 +265,15 @@
     },
     {
       "d": "2026-11-28",
+      "i": "40907d5ab66b",
+      "t": "Les grandes cuvées de Nicolas Feuillatte",
+      "r": "Présentation de la marque Nicolas Feuillatte, principale union de coopératives champenoises regroupant des milliers de vignerons.",
+      "c": "entreprises",
+      "s": "L'Opinion",
+      "f": null
+    },
+    {
+      "d": "2026-11-28",
       "i": "6cb2b4c74b91",
       "t": "\"Les classes moyennes devront payer plus pour transmettre leur assurance vie\": un amendement adopté au Sénat pourrait alourdir la fiscalité de 10.500 euros par bénéficiaire",
       "r": "Le Sénat a adopté un amendement au budget réduisant l'abattement fiscal de l'assurance vie de 152 500 à 100 000 euros par bénéficiaire.",
@@ -243,6 +306,15 @@
       "r": "L'acompte sur salaire est présenté comme un droit méconnu et une solution moins coûteuse que le découvert bancaire en fin de mois.",
       "c": "epargne",
       "s": "Capital",
+      "f": null
+    },
+    {
+      "d": "2026-11-28",
+      "i": "621e0b688d6f",
+      "t": "Immobilier : Les hauts, les bas et les débats",
+      "r": "Le marché immobilier fait face à des taux en hausse et au décrochage de la construction neuve, tout en s'imposant dans le débat politique.",
+      "c": "epargne",
+      "s": "franceinfo",
       "f": null
     },
     {

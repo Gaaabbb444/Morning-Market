@@ -1,6 +1,6 @@
 {
   "version_schema": 1,
-  "mis_a_jour_le": "2026-11-28T13:53:45+01:00",
+  "mis_a_jour_le": "2026-11-28T17:59:06+01:00",
   "fils": [
     {
       "id": "budget-2027",
@@ -11,8 +11,8 @@
       "categories": [
         "desequilibres"
       ],
-      "ou_en_est_on": "Le débat budgétaire se poursuit alors que le gouvernement est contraint de réviser sa prévision de croissance pour 2027, rendant nécessaire de trouver des milliards supplémentaires pour tenir l'objectif de déficit fixé à 5 %. Parallèlement, le Sénat a examiné le projet de loi de finances, approuvant un effort demandé aux grandes entreprises et rétablissant le taux réduit de TVA à 10 % sur les services de télévision payante, tandis que le malus écologique s'apprête à être durci au 1er janvier.",
-      "ou_en_est_on_maj_le": "2026-11-27",
+      "ou_en_est_on": "Le débat budgétaire se poursuit avec la révision à la hausse du déficit prévu pour 2027. Le Sénat a adopté une taxe de cinq euros par jour pour les détenus solvables, mesure soutenue par les Républicains et contestée par la gauche. Cette initiative s'ajoute aux efforts demandés aux grandes entreprises et au rétablissement du taux réduit de TVA à 10 % sur les services de télévision payante. Le gouvernement maintient son objectif de déficit public à 5 % pour 2027.",
+      "ou_en_est_on_maj_le": "2026-11-28",
       "evenements": [
         {
           "date": "2026-10-17",
@@ -833,12 +833,17 @@
         },
         {
           "date": "2026-11-28",
-          "resume": "Roland Lescure qualifie la décision de S&P d'avertissement et maintient l'objectif d'un déficit public à 5 % pour 2027.",
+          "resume": "Le Sénat a voté à main levée une contribution forfaitaire de cinq euros par jour aux frais d'incarcération pour les détenus solvables, proposition issue des Républicains et critiquée par la gauche.",
           "liens": [
             {
               "titre": "Roland Lescure voit un \"avertissement\" dans la décision de S&P et maintient l'objectif d'un déficit public à 5% en 2027",
               "source": "franceinfo",
               "url": "https://www.franceinfo.fr/economie/crise/crise-de-la-dette/roland-lescure-voit-un-avertissement-dans-la-decision-de-s-p-et-maintient-l-objectif-d-un-deficit-public-a-5-en-2027_8304339.html#xtor=RSS-3-%5Beconomie%5D"
+            },
+            {
+              "titre": "Budget 2027 : le Sénat vote une taxe de cinq euros par jour pour les détenus solvables",
+              "source": "La Tribune",
+              "url": "https://www.latribune.fr/article/banques-finance/32930611705287/budget-2027-le-senat-vote-une-taxe-de-cinq-euros-par-jour-pour-les-detenus-solvables"
             }
           ]
         }
@@ -1226,8 +1231,8 @@
         "mondialisation",
         "desequilibres"
       ],
-      "ou_en_est_on": "La détente sur les marchés pétroliers se précise : selon l'Agence internationale de l'énergie, l'offre mondiale a dépassé la demande en octobre et le marché redeviendrait excédentaire en fin d'année. Pour se prémunir contre de futurs chocs d'approvisionnement, les pays producteurs du Golfe et les importateurs asiatiques renforcent leurs capacités de stockage. En France, la baisse des prix du fioul stimule les commandes des ménages, bien que les tarifs globaux restent élevés.",
-      "ou_en_est_on_maj_le": "2026-11-14",
+      "ou_en_est_on": "La tension au Moyen-Orient persiste, mais les marchés anticipent désormais une offre excédentaire qui fait baisser les prix du pétrole. Cette perspective intervient avant la réunion de l'Opep+ prévue ce dimanche, où seront définis les quotas pour 2027. En France, la baisse des prix du fioul soutient les achats des ménages, tandis que les tarifs globaux restent élevés. Les acteurs du secteur surveillent les décisions de l'Opep+ comme principal déterminant de l'évolution des cours.",
+      "ou_en_est_on_maj_le": "2026-11-28",
       "evenements": [
         {
           "date": "2026-10-17",
@@ -1641,6 +1646,17 @@
               "titre": "'We're scared to turn our heating on'",
               "source": "BBC",
               "url": "https://www.bbc.co.uk/news/videos/c6jd7yj4ve9xo?at_medium=RSS&at_campaign=rss"
+            }
+          ]
+        },
+        {
+          "date": "2026-11-28",
+          "resume": "Les cours du pétrole ont reculé, les investisseurs anticipant une offre excédentaire dès la fin d'année, avant la réunion de l'Opep+ sur les quotas pour 2027.",
+          "liens": [
+            {
+              "titre": "Pétrole : la menace d'une offre excédentaire fait reculer les cours malgré les tensions au Moyen-Orient",
+              "source": "La Tribune",
+              "url": "https://www.latribune.fr/article/entreprises-finance/energie-environnement/29787161946587/petrole-la-menace-dune-offre-excedentaire-fait-reculer-les-cours-malgre-les-tensions-au-moyen-orient"
             }
           ]
         }
@@ -2784,8 +2800,8 @@
         "desequilibres",
         "entreprises"
       ],
-      "ou_en_est_on": "L'économie française entre en récession au troisième trimestre 2026 avec un recul du PIB de 0,2 %, tandis que la consommation des ménages en biens reste stable en octobre. À l'approche des négociations commerciales pour 2027, les distributeurs appellent à la modération des hausses de prix face à des ménages aux marges réduites, et le groupe d'experts sur le Smic s'inquiète du phénomène de smicardisation.",
-      "ou_en_est_on_maj_le": "2026-11-27",
+      "ou_en_est_on": "L'économie française est en récession au troisième trimestre 2026, avec un recul du PIB de 0,2 %. La consommation des ménages en biens reste stable, tandis que la grande distribution demande aux industriels de modérer leurs prix pour 2027. Deux économistes analysent ces indicateurs lors d'une émission hebdomadaire, soulignant la faiblesse de la croissance et la résilience de la consommation. Le débat s'inscrit dans le contexte des négociations commerciales à venir pour 2027.",
+      "ou_en_est_on_maj_le": "2026-11-28",
       "evenements": [
         {
           "date": "2026-10-17",
@@ -3709,6 +3725,17 @@
               "titre": "Recyclage des panneaux solaire : Rosi Alpes vise 5 000 tonnes en Isère et s’étend en Europe",
               "source": "La Tribune",
               "url": "https://www.latribune.fr/article/climat/2232095056310614/recyclage-des-panneaux-solaire-rosi-alpes-vise-5-000-tonnes-en-isere-et-s-etend-en-europe"
+            }
+          ]
+        },
+        {
+          "date": "2026-11-28",
+          "resume": "Des économistes débattent de la situation économique française, caractérisée par une croissance en berne et une consommation stable.",
+          "liens": [
+            {
+              "titre": "Croissance en berne, consommation stable… Où va l’économie française ?",
+              "source": "franceinfo",
+              "url": "https://www.franceinfo.fr/replay-radio/les-debats-de-l-eco/croissance-en-berne-consommation-stable-ou-va-l-economie-francaise_8281877.html#xtor=RSS-3-%5Beconomie%5D"
             }
           ]
         }

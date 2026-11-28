@@ -1,6 +1,6 @@
 {
   "version_schema": 1,
-  "mis_a_jour_le": "2026-11-28T13:52:26+01:00",
+  "mis_a_jour_le": "2026-11-28T17:56:25+01:00",
   "indicateurs": [
     {
       "id": "cac40",
@@ -411,7 +411,7 @@
         ]
       ],
       "etat": "ok",
-      "dernier_succes": "2026-11-28T13:52:20+01:00"
+      "dernier_succes": "2026-11-28T17:56:19+01:00"
     },
     {
       "id": "eurostoxx50",
@@ -822,7 +822,7 @@
         ]
       ],
       "etat": "ok",
-      "dernier_succes": "2026-11-28T13:52:20+01:00"
+      "dernier_succes": "2026-11-28T17:56:20+01:00"
     },
     {
       "id": "sp500",
@@ -1221,7 +1221,7 @@
         ]
       ],
       "etat": "ok",
-      "dernier_succes": "2026-11-28T13:52:20+01:00"
+      "dernier_succes": "2026-11-28T17:56:20+01:00"
     },
     {
       "id": "brent",
@@ -1628,7 +1628,7 @@
         ]
       ],
       "etat": "ok",
-      "dernier_succes": "2026-11-28T13:52:20+01:00"
+      "dernier_succes": "2026-11-28T17:56:20+01:00"
     },
     {
       "id": "or",
@@ -2035,7 +2035,7 @@
         ]
       ],
       "etat": "ok",
-      "dernier_succes": "2026-11-28T13:52:20+01:00"
+      "dernier_succes": "2026-11-28T17:56:20+01:00"
     },
     {
       "id": "eur-usd",
@@ -2538,7 +2538,7 @@
         ]
       ],
       "etat": "ok",
-      "dernier_succes": "2026-11-28T13:52:22+01:00"
+      "dernier_succes": "2026-11-28T17:56:21+01:00"
     },
     {
       "id": "taux-depot-bce",
@@ -3089,7 +3089,7 @@
         ]
       ],
       "etat": "ok",
-      "dernier_succes": "2026-11-28T13:52:23+01:00"
+      "dernier_succes": "2026-11-28T17:56:22+01:00"
     },
     {
       "id": "taux-10-ans-france",
@@ -3260,7 +3260,7 @@
         ]
       ],
       "etat": "ok",
-      "dernier_succes": "2026-11-28T13:52:24+01:00"
+      "dernier_succes": "2026-11-28T17:56:23+01:00"
     },
     {
       "id": "inflation-france",
@@ -3467,7 +3467,7 @@
         ]
       ],
       "etat": "ok",
-      "dernier_succes": "2026-11-28T13:52:25+01:00"
+      "dernier_succes": "2026-11-28T17:56:23+01:00"
     },
     {
       "id": "inflation-zone-euro",
@@ -3674,7 +3674,7 @@
         ]
       ],
       "etat": "ok",
-      "dernier_succes": "2026-11-28T13:52:25+01:00"
+      "dernier_succes": "2026-11-28T17:56:24+01:00"
     },
     {
       "id": "chomage-france",
@@ -3877,7 +3877,7 @@
         ]
       ],
       "etat": "ok",
-      "dernier_succes": "2026-11-28T13:52:25+01:00"
+      "dernier_succes": "2026-11-28T17:56:24+01:00"
     },
     {
       "id": "pib-france",
@@ -3992,7 +3992,7 @@
         ]
       ],
       "etat": "ok",
-      "dernier_succes": "2026-11-28T13:52:26+01:00"
+      "dernier_succes": "2026-11-28T17:56:25+01:00"
     }
   ]
 }
