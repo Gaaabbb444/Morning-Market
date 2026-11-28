@@ -1,7 +1,44 @@
 {
   "version_schema": 1,
   "notions": {
+    "notation-souveraine": [
+      {
+        "date": "2026-11-28",
+        "id": "93829894f40b",
+        "titre": "Dette : S&P abaisse la perspective de la note de la France, la récession inquiète",
+        "source": "La Tribune",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-11-27",
+        "id": "88750b95bcf6",
+        "titre": "Dette : pourquoi les agences S&P, Fitch et Moody’s sont si complaisantes envers la France",
+        "source": "Le Figaro",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-10-31",
+        "id": "558c3360d143",
+        "titre": "L’agence Fitch maintient la note de la dette souveraine de la France mais dégrade sa perspective",
+        "source": "Le Monde",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-10-23",
+        "id": "fa684d4ef153",
+        "titre": "Dette : pourquoi la note de la France devrait être dégradée par Moody’s",
+        "source": "La Tribune",
+        "contexte": "Top 5 du jour"
+      }
+    ],
     "pib-produit-interieur-brut": [
+      {
+        "date": "2026-11-28",
+        "id": "9ee677721462",
+        "titre": "La France en récession: l'économie du pays est \"à l'arrêt\", explique Michaël Zemmour, enseignant-chercheur en économie",
+        "source": "BFM Business",
+        "contexte": "Top 5 du jour"
+      },
       {
         "date": "2026-11-27",
         "id": "67cebbcfeb0d",
@@ -45,6 +82,245 @@
         "contexte": "Top 5 du jour"
       }
     ],
+    "politique-budgetaire": [
+      {
+        "date": "2026-11-28",
+        "id": "4ed76d0d1917",
+        "titre": "Roland Lescure voit un \"avertissement\" dans la décision de S&P et maintient l'objectif d'un déficit public à 5% en 2027",
+        "source": "franceinfo",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-11-26",
+        "id": "40d4984378b8",
+        "titre": "Budget de la Sécurité sociale 2027 : députés et sénateurs échouent à trouver un accord",
+        "source": "Le Figaro",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-11-22",
+        "id": "7e636f38e472",
+        "titre": "Budget : Emmanuel Macron réfléchirait à convoquer le Congrès pour instaurer une règle d'or",
+        "source": "Le Figaro",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-11-20",
+        "id": "d8fdcd3b9c02",
+        "titre": "Budget 2027 : pourquoi le Sénat doit trouver 12 milliards d’euros d'économies supplémentaires",
+        "source": "La Tribune",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-11-18",
+        "id": "be92a4fc3fa5",
+        "titre": "Programme d’Édouard Philippe : travail, retraites, impôts, ce que propose le candidat",
+        "source": "Capital",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-11-16",
+        "id": "8b6799cffb6c",
+        "titre": "Ils représentent 70 milliards d'euros par an: le gouvernement veut toucher aux allègements de cotisations sur le travail, les entreprises craignent d'être mises \"au tapis\"",
+        "source": "BFM Business",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-11-14",
+        "id": "64593d4a19c3",
+        "titre": "Allègements de cotisations : Matignon veut « maîtriser durablement » leur coût",
+        "source": "L'Opinion",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-11-13",
+        "id": "37bc7cb6c1d3",
+        "titre": "Budget 2027 : Sébastien Lecornu veut faire de l’agriculture le terrain du compromis",
+        "source": "Capital",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-11-12",
+        "id": "71683ee034e8",
+        "titre": "Allemagne : le mur de la dette à 200 milliards qui rattrape Friedrich Merz",
+        "source": "L'Opinion",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-11-05",
+        "id": "b48b3728223b",
+        "titre": "L'Assemblée nationale rejette à l'unanimité le budget de l'Etat 2027 en première lecture",
+        "source": "franceinfo",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-11-02",
+        "id": "ebb9141f734e",
+        "titre": "Le budget, pas encore adopté, est-il déjà caduc ? \"Oui\", affirme Philippe Juvin, rapporteur général de la commission des Finances à l'Assemblée nationale",
+        "source": "franceinfo",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-11-01",
+        "id": "e711d3ac219c",
+        "titre": "Livret A : une hausse du plafond à 30 000 euros envisagée pour financer les travaux dans les lycées",
+        "source": "franceinfo",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-10-29",
+        "id": "e6ca90b1ae20",
+        "titre": "\"Plus on fait d’enfants, plus l’État est présent\": Giorgia Meloni dévoile un budget axé sur la natalité et la défense, financé en partie en taxant les banques et les assurances",
+        "source": "BFM Business",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-10-27",
+        "id": "e1f84d25dee5",
+        "titre": "Où en sont les débats sur le PLF et le PLFSS 2027 ? Suivez les étapes de l'examen du budget à l'Assemblée et au Sénat",
+        "source": "franceinfo",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-10-25",
+        "id": "b74c30856b74",
+        "titre": "Healey’s first budget to include big devolution package to boost growth",
+        "source": "The Guardian",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-10-24",
+        "id": "7f6fcbdcfae8",
+        "titre": "PLFSS 2027 : à l’Assemblée, le budget de la Sécurité sociale rejeté après une saignée de 12 milliards d’euros",
+        "source": "Capital",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-10-20",
+        "id": "bc5dc2cd9f4f",
+        "titre": "Les députés ont déjà fait dérailler la trajectoire de réduction du déficit de la Sécurité sociale avant même le début des débats dans l’hémicycle sur le budget de la Sécu",
+        "source": "BFM Business",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-10-19",
+        "id": "6825d2c17a9c",
+        "titre": "Retraite, santé : la protection sociale, principal poste de dépenses de l’État",
+        "source": "Le Figaro",
+        "contexte": "Top 5 du jour"
+      }
+    ],
+    "politique-europeenne-de-concurrence": [
+      {
+        "date": "2026-11-28",
+        "id": "20a2b66b7aa3",
+        "titre": "Pratiques anticoncurrentielles, pressions sur les fournisseurs : OpenAI riposte en justice face à Apple",
+        "source": "La Tribune",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-11-26",
+        "id": "3bafa49ee210",
+        "titre": "« Pour le cartel des parfums, finalement, c’est le consommateur qui a payé l’addition »",
+        "source": "Le Monde",
+        "contexte": "Top 5 du jour"
+      }
+    ],
+    "croissance-economique": [
+      {
+        "date": "2026-11-28",
+        "id": "d2440c21253d",
+        "titre": "L'économie espagnole fait rêver toute l'Europe et pourtant les Espagnols n'en peuvent plus: comment expliquer cette colère sociale qui peut emporter le gouvernement socialiste",
+        "source": "BFM Business",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-11-20",
+        "id": "5e9b39d83381",
+        "titre": "En novembre 2026, le climat des affaires dans le commerce de détail et d’automobiles se dégrade de nouveau",
+        "source": "INSEE",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-11-18",
+        "id": "0bc9ad3e079d",
+        "titre": "L’économie française en panne dans une Europe qui tient le choc",
+        "source": "L'Opinion",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-11-17",
+        "id": "3b6b643ddb19",
+        "titre": "Prévisions économiques : la France devrait connaître la plus faible croissance de la zone euro en 2027",
+        "source": "Toute l'Europe",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-11-15",
+        "id": "f9a756ec99e2",
+        "titre": "Le lent déclin économique de la France face au reste de l’Europe",
+        "source": "Le Monde",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-11-12",
+        "id": "6ba2e3320848",
+        "titre": "Moody’s prévoit seulement 0,2 % de croissance en France pour 2026",
+        "source": "La Tribune",
+        "contexte": "Concept du jour"
+      },
+      {
+        "date": "2026-10-19",
+        "id": "beb98fa83f9b",
+        "titre": "Électricité indisponible : Microsoft abandonne un mégaprojet d'IA au Royaume-Uni",
+        "source": "La Tribune",
+        "contexte": "Top 5 du jour"
+      }
+    ],
+    "effet-boule-de-neige": [
+      {
+        "date": "2026-11-28",
+        "id": "93829894f40b",
+        "titre": "Dette : S&P abaisse la perspective de la note de la France, la récession inquiète",
+        "source": "La Tribune",
+        "contexte": "Concept du jour"
+      },
+      {
+        "date": "2026-11-11",
+        "id": "8ea8493d0266",
+        "titre": "Plus de 500 milliards d’euros en dix ans : ces fortunes englouties par la France rien que pour payer les intérêts de sa dette",
+        "source": "Le Figaro",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-11-02",
+        "id": "92a232df0d43",
+        "titre": "Croissance, dette : la France perd pied",
+        "source": "L'Opinion",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-10-23",
+        "id": "7608def25ec1",
+        "titre": "Taux d’intérêt au-delà des 5 % : une hausse qui sanctionne un débat budgétaire enlisé",
+        "source": "Le Monde",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-10-23",
+        "id": "172c63158dd5",
+        "titre": "Du «spread» à l’«effet boule de neige», ces cinq rouages derrière la très dangereuse spirale de la dette française",
+        "source": "Le Figaro",
+        "contexte": "Top 5 du jour"
+      },
+      {
+        "date": "2026-10-22",
+        "id": "68e90a15b61f",
+        "titre": "En France, la menace d'une crise financière se précise",
+        "source": "franceinfo",
+        "contexte": "Top 5 du jour"
+      }
+    ],
     "budget-de-l-union-europeenne": [
       {
         "date": "2026-11-27",
@@ -79,29 +355,6 @@
         "id": "14842b10ab78",
         "titre": "\"Tous, sans exception\": l’Allemagne exige que chaque pays de l’UE contribue équitablement au financement de l’Ukraine avant de négocier le prochain budget européen",
         "source": "BFM Business",
-        "contexte": "Top 5 du jour"
-      }
-    ],
-    "notation-souveraine": [
-      {
-        "date": "2026-11-27",
-        "id": "88750b95bcf6",
-        "titre": "Dette : pourquoi les agences S&P, Fitch et Moody’s sont si complaisantes envers la France",
-        "source": "Le Figaro",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-10-31",
-        "id": "558c3360d143",
-        "titre": "L’agence Fitch maintient la note de la dette souveraine de la France mais dégrade sa perspective",
-        "source": "Le Monde",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-10-23",
-        "id": "fa684d4ef153",
-        "titre": "Dette : pourquoi la note de la France devrait être dégradée par Moody’s",
-        "source": "La Tribune",
         "contexte": "Top 5 du jour"
       }
     ],
@@ -342,127 +595,6 @@
         "contexte": "Top 5 du jour"
       }
     ],
-    "politique-budgetaire": [
-      {
-        "date": "2026-11-26",
-        "id": "40d4984378b8",
-        "titre": "Budget de la Sécurité sociale 2027 : députés et sénateurs échouent à trouver un accord",
-        "source": "Le Figaro",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-11-22",
-        "id": "7e636f38e472",
-        "titre": "Budget : Emmanuel Macron réfléchirait à convoquer le Congrès pour instaurer une règle d'or",
-        "source": "Le Figaro",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-11-20",
-        "id": "d8fdcd3b9c02",
-        "titre": "Budget 2027 : pourquoi le Sénat doit trouver 12 milliards d’euros d'économies supplémentaires",
-        "source": "La Tribune",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-11-18",
-        "id": "be92a4fc3fa5",
-        "titre": "Programme d’Édouard Philippe : travail, retraites, impôts, ce que propose le candidat",
-        "source": "Capital",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-11-16",
-        "id": "8b6799cffb6c",
-        "titre": "Ils représentent 70 milliards d'euros par an: le gouvernement veut toucher aux allègements de cotisations sur le travail, les entreprises craignent d'être mises \"au tapis\"",
-        "source": "BFM Business",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-11-14",
-        "id": "64593d4a19c3",
-        "titre": "Allègements de cotisations : Matignon veut « maîtriser durablement » leur coût",
-        "source": "L'Opinion",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-11-13",
-        "id": "37bc7cb6c1d3",
-        "titre": "Budget 2027 : Sébastien Lecornu veut faire de l’agriculture le terrain du compromis",
-        "source": "Capital",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-11-12",
-        "id": "71683ee034e8",
-        "titre": "Allemagne : le mur de la dette à 200 milliards qui rattrape Friedrich Merz",
-        "source": "L'Opinion",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-11-05",
-        "id": "b48b3728223b",
-        "titre": "L'Assemblée nationale rejette à l'unanimité le budget de l'Etat 2027 en première lecture",
-        "source": "franceinfo",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-11-02",
-        "id": "ebb9141f734e",
-        "titre": "Le budget, pas encore adopté, est-il déjà caduc ? \"Oui\", affirme Philippe Juvin, rapporteur général de la commission des Finances à l'Assemblée nationale",
-        "source": "franceinfo",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-11-01",
-        "id": "e711d3ac219c",
-        "titre": "Livret A : une hausse du plafond à 30 000 euros envisagée pour financer les travaux dans les lycées",
-        "source": "franceinfo",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-10-29",
-        "id": "e6ca90b1ae20",
-        "titre": "\"Plus on fait d’enfants, plus l’État est présent\": Giorgia Meloni dévoile un budget axé sur la natalité et la défense, financé en partie en taxant les banques et les assurances",
-        "source": "BFM Business",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-10-27",
-        "id": "e1f84d25dee5",
-        "titre": "Où en sont les débats sur le PLF et le PLFSS 2027 ? Suivez les étapes de l'examen du budget à l'Assemblée et au Sénat",
-        "source": "franceinfo",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-10-25",
-        "id": "b74c30856b74",
-        "titre": "Healey’s first budget to include big devolution package to boost growth",
-        "source": "The Guardian",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-10-24",
-        "id": "7f6fcbdcfae8",
-        "titre": "PLFSS 2027 : à l’Assemblée, le budget de la Sécurité sociale rejeté après une saignée de 12 milliards d’euros",
-        "source": "Capital",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-10-20",
-        "id": "bc5dc2cd9f4f",
-        "titre": "Les députés ont déjà fait dérailler la trajectoire de réduction du déficit de la Sécurité sociale avant même le début des débats dans l’hémicycle sur le budget de la Sécu",
-        "source": "BFM Business",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-10-19",
-        "id": "6825d2c17a9c",
-        "titre": "Retraite, santé : la protection sociale, principal poste de dépenses de l’État",
-        "source": "Le Figaro",
-        "contexte": "Top 5 du jour"
-      }
-    ],
     "creation-monetaire": [
       {
         "date": "2026-11-26",
@@ -535,15 +667,6 @@
         "titre": "Retraite, santé : la protection sociale, principal poste de dépenses de l’État",
         "source": "Le Figaro",
         "contexte": "Concept du jour"
-      }
-    ],
-    "politique-europeenne-de-concurrence": [
-      {
-        "date": "2026-11-26",
-        "id": "3bafa49ee210",
-        "titre": "« Pour le cartel des parfums, finalement, c’est le consommateur qui a payé l’addition »",
-        "source": "Le Monde",
-        "contexte": "Top 5 du jour"
       }
     ],
     "taux-directeurs": [
@@ -820,50 +943,6 @@
         "id": "c3a9567da3a3",
         "titre": "Violences urbaines, flambée des taux d’intérêt… Le décrochage du CAC 40, un reflet des désordres français",
         "source": "Le Figaro",
-        "contexte": "Top 5 du jour"
-      }
-    ],
-    "croissance-economique": [
-      {
-        "date": "2026-11-20",
-        "id": "5e9b39d83381",
-        "titre": "En novembre 2026, le climat des affaires dans le commerce de détail et d’automobiles se dégrade de nouveau",
-        "source": "INSEE",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-11-18",
-        "id": "0bc9ad3e079d",
-        "titre": "L’économie française en panne dans une Europe qui tient le choc",
-        "source": "L'Opinion",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-11-17",
-        "id": "3b6b643ddb19",
-        "titre": "Prévisions économiques : la France devrait connaître la plus faible croissance de la zone euro en 2027",
-        "source": "Toute l'Europe",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-11-15",
-        "id": "f9a756ec99e2",
-        "titre": "Le lent déclin économique de la France face au reste de l’Europe",
-        "source": "Le Monde",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-11-12",
-        "id": "6ba2e3320848",
-        "titre": "Moody’s prévoit seulement 0,2 % de croissance en France pour 2026",
-        "source": "La Tribune",
-        "contexte": "Concept du jour"
-      },
-      {
-        "date": "2026-10-19",
-        "id": "beb98fa83f9b",
-        "titre": "Électricité indisponible : Microsoft abandonne un mégaprojet d'IA au Royaume-Uni",
-        "source": "La Tribune",
         "contexte": "Top 5 du jour"
       }
     ],
@@ -1229,43 +1308,6 @@
         "id": "f20fe6245a2b",
         "titre": "1 400 milliards de dollars de valorisation : l'ambition folle d'Anthropic pour son entrée en Bourse",
         "source": "La Tribune",
-        "contexte": "Top 5 du jour"
-      }
-    ],
-    "effet-boule-de-neige": [
-      {
-        "date": "2026-11-11",
-        "id": "8ea8493d0266",
-        "titre": "Plus de 500 milliards d’euros en dix ans : ces fortunes englouties par la France rien que pour payer les intérêts de sa dette",
-        "source": "Le Figaro",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-11-02",
-        "id": "92a232df0d43",
-        "titre": "Croissance, dette : la France perd pied",
-        "source": "L'Opinion",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-10-23",
-        "id": "7608def25ec1",
-        "titre": "Taux d’intérêt au-delà des 5 % : une hausse qui sanctionne un débat budgétaire enlisé",
-        "source": "Le Monde",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-10-23",
-        "id": "172c63158dd5",
-        "titre": "Du «spread» à l’«effet boule de neige», ces cinq rouages derrière la très dangereuse spirale de la dette française",
-        "source": "Le Figaro",
-        "contexte": "Top 5 du jour"
-      },
-      {
-        "date": "2026-10-22",
-        "id": "68e90a15b61f",
-        "titre": "En France, la menace d'une crise financière se précise",
-        "source": "franceinfo",
         "contexte": "Top 5 du jour"
       }
     ],

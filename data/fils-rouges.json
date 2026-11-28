@@ -1,6 +1,6 @@
 {
   "version_schema": 1,
-  "mis_a_jour_le": "2026-11-27T19:16:31+01:00",
+  "mis_a_jour_le": "2026-11-28T13:53:45+01:00",
   "fils": [
     {
       "id": "budget-2027",
@@ -830,6 +830,17 @@
               "url": "https://www.capital.fr/auto/malus-2027-bareme-montants-et-voitures-concernees-au-1er-janvier-1532203"
             }
           ]
+        },
+        {
+          "date": "2026-11-28",
+          "resume": "Roland Lescure qualifie la décision de S&P d'avertissement et maintient l'objectif d'un déficit public à 5 % pour 2027.",
+          "liens": [
+            {
+              "titre": "Roland Lescure voit un \"avertissement\" dans la décision de S&P et maintient l'objectif d'un déficit public à 5% en 2027",
+              "source": "franceinfo",
+              "url": "https://www.franceinfo.fr/economie/crise/crise-de-la-dette/roland-lescure-voit-un-avertissement-dans-la-decision-de-s-p-et-maintient-l-objectif-d-un-deficit-public-a-5-en-2027_8304339.html#xtor=RSS-3-%5Beconomie%5D"
+            }
+          ]
         }
       ]
     },
@@ -843,8 +854,8 @@
         "desequilibres",
         "finance"
       ],
-      "ou_en_est_on": "L'agence de notation Fitch a abaissé la perspective de la dette française de stable à négative, pointant une détérioration budgétaire, tandis que la Commission européenne exhorte la France et la Belgique à réduire leur déficit et leur dette en raison de la hausse des coûts d'emprunt. Face à ces tensions, les discussions se poursuivent sur les mécanismes d'optimisation de la gestion de la dette publique, comme l'allongement de la maturité des émissions obligataires.",
-      "ou_en_est_on_maj_le": "2026-11-26",
+      "ou_en_est_on": "L'agence de notation S&P a abaissé la perspective de la note souveraine de la France de stable à négative, rejoignant les inquiétudes exprimées par Fitch face à la détérioration budgétaire et à l'entrée du pays en récession. Tout en maintenant la note à A+, l'agence pointe les difficultés à réduire le déficit, tandis que la Banque centrale européenne se veut rassurante en écartant un scénario de type grec. Face à ces tensions sur la signature française, les débats persistent sur la trajectoire des finances publiques et les réformes structurelles nécessaires.",
+      "ou_en_est_on_maj_le": "2026-11-28",
       "evenements": [
         {
           "date": "2026-10-19",
@@ -1179,6 +1190,27 @@
               "titre": "Dette : pourquoi les agences S&P, Fitch et Moody’s sont si complaisantes envers la France",
               "source": "Le Figaro",
               "url": "https://www.lefigaro.fr/conjoncture/dette-pourquoi-les-agences-s-p-fitch-et-moody-s-sont-si-complaisantes-envers-la-france-20261127"
+            }
+          ]
+        },
+        {
+          "date": "2026-11-28",
+          "resume": "L'agence S&P maintient la note de la France à A+ mais abaisse sa perspective de stable à négative, tandis que la BCE écarte un scénario à la grecque.",
+          "liens": [
+            {
+              "titre": "Dette : S&P abaisse la perspective de la note de la France, la récession inquiète",
+              "source": "La Tribune",
+              "url": "https://www.latribune.fr/article/economie/30991424411632/dette-s-p-abaisse-la-perspective-de-la-france-la-recession-inquiete"
+            },
+            {
+              "titre": "Le numéro 2 de la Banque centrale européenne écarte un scénario à la grecque pour la dette française",
+              "source": "franceinfo",
+              "url": "https://www.franceinfo.fr/economie/crise/le-numero-2-de-la-banque-centrale-europeenne-ecarte-un-scenario-a-la-grecque-pour-la-dette-francaise_8304585.html#xtor=RSS-3-%5Beconomie%5D"
+            },
+            {
+              "titre": "S&P maintient la note de la France mais menace de la dégrader, \"la faute à une politique économique qui soigne le mal par le mal\" selon Éric Coquerel",
+              "source": "franceinfo",
+              "url": "https://www.franceinfo.fr/economie/crise/crise-de-la-dette/s-p-maintient-la-note-de-la-france-mais-menace-de-la-degrader-la-faute-a-une-politique-economique-qui-soigne-le-mal-par-le-mal-selon-eric-coquerel_8304498.html#xtor=RSS-3-%5Beconomie%5D"
             }
           ]
         }

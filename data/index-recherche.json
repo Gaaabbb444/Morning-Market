@@ -1,7 +1,250 @@
 {
   "version_schema": 1,
-  "mis_a_jour_le": "2026-11-27T19:16:15+01:00",
+  "mis_a_jour_le": "2026-11-28T13:53:22+01:00",
   "entrees": [
+    {
+      "d": "2026-11-28",
+      "i": "93829894f40b",
+      "t": "Dette : S&P abaisse la perspective de la note de la France, la récession inquiète",
+      "r": "L'agence de notation S&P a maintenu la note souveraine de la France à A+ mais a abaissé sa perspective de stable à négative, ouvrant la voie à une possible dégradation en raison de la récession technique et du dérapage des déficits.",
+      "c": "desequilibres",
+      "s": "La Tribune",
+      "f": "dette-marches"
+    },
+    {
+      "d": "2026-11-28",
+      "i": "9ee677721462",
+      "t": "La France en récession: l'économie du pays est \"à l'arrêt\", explique Michaël Zemmour, enseignant-chercheur en économie",
+      "r": "L'Insee a revu en baisse la croissance au troisième trimestre avec un recul du PIB de 0,2%, confirmant l'entrée de l'économie française en récession technique.",
+      "c": "desequilibres",
+      "s": "BFM Business",
+      "f": "conjoncture-france"
+    },
+    {
+      "d": "2026-11-28",
+      "i": "4ed76d0d1917",
+      "t": "Roland Lescure voit un \"avertissement\" dans la décision de S&P et maintient l'objectif d'un déficit public à 5% en 2027",
+      "r": "Le ministre de l'Économie Roland Lescure a qualifié la décision de S&P d'avertissement et a rappelé la nécessité de voter un budget pour ramener le déficit public à 5% du PIB en 2027.",
+      "c": "desequilibres",
+      "s": "franceinfo",
+      "f": "budget-2027"
+    },
+    {
+      "d": "2026-11-28",
+      "i": "20a2b66b7aa3",
+      "t": "Pratiques anticoncurrentielles, pressions sur les fournisseurs : OpenAI riposte en justice face à Apple",
+      "r": "OpenAI a engagé des poursuites judiciaires devant un tribunal californien contre Apple, l'accusant de vol de secrets industriels et de manœuvres anticoncurrentielles sur le marché des objets connectés.",
+      "c": "entreprises",
+      "s": "La Tribune",
+      "f": "intelligence-artificielle"
+    },
+    {
+      "d": "2026-11-28",
+      "i": "d2440c21253d",
+      "t": "L'économie espagnole fait rêver toute l'Europe et pourtant les Espagnols n'en peuvent plus: comment expliquer cette colère sociale qui peut emporter le gouvernement socialiste",
+      "r": "L'économie espagnole affiche une croissance deux fois supérieure à celle de la zone euro et une baisse du chômage, tout en faisant face à une crise du logement et à un sentiment de déclassement social.",
+      "c": "croissance",
+      "s": "BFM Business",
+      "f": null
+    },
+    {
+      "d": "2026-11-28",
+      "i": "20f26fad4593",
+      "t": "Loyers exorbitants, crise des salaires... La face cachée de la croissance espagnole",
+      "r": "L'économie espagnole affiche une forte croissance mais subit une crise des salaires et des loyers exorbitants qui nourrissent le mécontentement social.",
+      "c": "croissance",
+      "s": "franceinfo",
+      "f": null
+    },
+    {
+      "d": "2026-11-28",
+      "i": "7b2fcadf04d0",
+      "t": "Elle veut construire 10.000 km de nouvelles lignes à grande vitesse en 4 ans: la Chine continue d'étendre le plus grand réseau de la planète avec des trains qui filent à 400km/h",
+      "r": "La Chine poursuit l'extension de son réseau ferroviaire à grande vitesse dans le cadre de son plan quinquennal 2026-2030.",
+      "c": "croissance",
+      "s": "BFM Business",
+      "f": null
+    },
+    {
+      "d": "2026-11-28",
+      "i": "2c98c4a401d6",
+      "t": "« Dans cette industrie, chaque semaine compte » : à Bernin, aux portes des Alpes, le retour en grâce de Soitec, le petit poucet des puces porté par la vague IA",
+      "r": "",
+      "c": "croissance",
+      "s": "Les Echos",
+      "f": "conjoncture-france"
+    },
+    {
+      "d": "2026-11-28",
+      "i": "b5e977a04606",
+      "t": "Plus de 3% de croissance, des milliards de dollars venus de Russie et une réception d'ambassadeurs inédite depuis 30 ans: pourquoi 2026 a été une année exceptionnellement favorable pour la Corée du Nord de Kim Jong-un",
+      "r": "La Corée du Nord bénéficie en 2026 d'une croissance supérieure à 3% et d'un rapprochement avec la Russie et la Chine.",
+      "c": "croissance",
+      "s": "BFM Business",
+      "f": null
+    },
+    {
+      "d": "2026-11-28",
+      "i": "267c51e0f369",
+      "t": "Une nouvelle règle donne l’avantage aux Etats-Unis dans la course à l’IA face à la Chine",
+      "r": "Washington renforce ses règles pour limiter l'accès des entreprises chinoises aux puces Nvidia dans la course à l'intelligence artificielle.",
+      "c": "mondialisation",
+      "s": "L'Opinion",
+      "f": "intelligence-artificielle"
+    },
+    {
+      "d": "2026-11-28",
+      "i": "1c2c0f32312d",
+      "t": "« Le blé français ne doit pas devenir le souvenir d'une puissance passée »",
+      "r": "Le blé constitue un instrument de puissance géopolitique majeur dans les rapports de force internationaux, aux côtés de la Russie.",
+      "c": "mondialisation",
+      "s": "L'Opinion",
+      "f": null
+    },
+    {
+      "d": "2026-11-28",
+      "i": "b691c2cc77a9",
+      "t": "Le numéro 2 de la Banque centrale européenne écarte un scénario à la grecque pour la dette française",
+      "r": "Le numéro 2 de la Banque centrale européenne écarte tout scénario à la grecque pour la dette française après l'avis de S&P.",
+      "c": "finance",
+      "s": "franceinfo",
+      "f": "dette-marches"
+    },
+    {
+      "d": "2026-11-28",
+      "i": "7904e11e1736",
+      "t": "CAC 40, Engie, L’Oréal, Thales, Capgemini, Nvidia… les actions en Bourse au programme de Momentum",
+      "r": "La sélection d'actions de la lettre Momentum a progressé plus rapidement que le CAC 40, ce dernier bénéficiant de la hausse de Sanofi et de la baisse des taux.",
+      "c": "finance",
+      "s": "Capital",
+      "f": null
+    },
+    {
+      "d": "2026-11-28",
+      "i": "1ea821ef1674",
+      "t": "Bourse : qui a acheté Anthropic le jour de son introduction, et qui a tenu ?",
+      "r": "",
+      "c": "finance",
+      "s": "Les Echos",
+      "f": null
+    },
+    {
+      "d": "2026-11-28",
+      "i": "c3e222bc61b3",
+      "t": "Tombée en « récession technique », la France continue de payer le prix de la dissolution et de son imprévoyance",
+      "r": "Selon Le Figaro, les chiffres actualisés de l'Insee indiquent que la croissance française a été négative sur les trois derniers trimestres, plaçant le pays en récession technique.",
+      "c": "desequilibres",
+      "s": "Le Figaro",
+      "f": "conjoncture-france"
+    },
+    {
+      "d": "2026-11-28",
+      "i": "b11f0474b199",
+      "t": "Eric Heyer : « La dette doit être un instrument au service de nos objectifs collectifs »",
+      "r": "L'économiste Eric Heyer estime que des objectifs trop stricts de réduction du déficit aggraveraient les finances publiques et plaide pour une stratégie d'investissements d'avenir.",
+      "c": "desequilibres",
+      "s": "Alternatives Économiques",
+      "f": "budget-2027"
+    },
+    {
+      "d": "2026-11-28",
+      "i": "71b906427906",
+      "t": "\"Chaque année, c'est plus tendu\" : nouveau bras de fer sur les prix entre supermarchés et industriels",
+      "r": "Le PIB français recule au troisième trimestre 2026, tandis que la grande distribution appelle les industriels à agir sur les prix face au pouvoir d'achat.",
+      "c": "desequilibres",
+      "s": "franceinfo",
+      "f": "conjoncture-france"
+    },
+    {
+      "d": "2026-11-28",
+      "i": "b9ecb70902c9",
+      "t": "« Etablir une règle d’or budgétaire n’ôtera pas le besoin de relever l’âge de la retraite ou d’augmenter le temps de travail »",
+      "r": "L'adoption d'une règle d'or budgétaire ne dispense pas les responsables politiques de réformer les retraites ou d'augmenter le temps de travail, selon Sylvie Goulard.",
+      "c": "desequilibres",
+      "s": "Le Monde",
+      "f": "budget-2027"
+    },
+    {
+      "d": "2026-11-28",
+      "i": "d8d581a45831",
+      "t": "Nos voitures polluent-elles moins grâce aux règles européennes ?",
+      "r": "Le transport routier demeure une source majeure d'émissions d'oxydes d'azote et de particules fines, soulevant la question de l'efficacité des règles européennes.",
+      "c": "ue",
+      "s": "Toute l'Europe",
+      "f": null
+    },
+    {
+      "d": "2026-11-28",
+      "i": "cf5f754277e1",
+      "t": "L’horlogerie suisse rattrapée par les faiblesses de sa stratégie de montée en gamme",
+      "r": "L'horlogerie suisse fait face à des plans sociaux en raison des difficultés de sa stratégie de montée en gamme vers l'ultraluxe.",
+      "c": "entreprises",
+      "s": "Le Monde",
+      "f": null
+    },
+    {
+      "d": "2026-11-28",
+      "i": "d471358e4c50",
+      "t": "Comment BYD a remporté la bataille entre constructeurs chinois pour racheter l’usine d’Ineos Automotive en Moselle",
+      "r": "Le constructeur chinois BYD va racheter l'usine d'Ineos Automotive en Moselle pour y produire un SUV hybride dès 2027.",
+      "c": "entreprises",
+      "s": "Le Monde",
+      "f": null
+    },
+    {
+      "d": "2026-11-28",
+      "i": "12b44372b8bb",
+      "t": "Deux syndicats d'Aéroports de Paris appellent à la grève le premier week-end des vacances de Noël",
+      "r": "La CGT et FO appellent à la grève dans les aéroports parisiens le premier week-end des vacances de Noël pour réclamer des hausses de primes.",
+      "c": "entreprises",
+      "s": "franceinfo",
+      "f": null
+    },
+    {
+      "d": "2026-11-28",
+      "i": "9fcf7aa0eabf",
+      "t": "Avec sa marque Arket, H&M mise sur la montée en gamme pour tenter d’enrayer la concurrence de Shein",
+      "r": "La marque Arket du groupe H&M ouvre un nouveau point de vente à Paris pour miser sur le positionnement premium face à la concurrence.",
+      "c": "entreprises",
+      "s": "Le Monde",
+      "f": null
+    },
+    {
+      "d": "2026-11-28",
+      "i": "6cb2b4c74b91",
+      "t": "\"Les classes moyennes devront payer plus pour transmettre leur assurance vie\": un amendement adopté au Sénat pourrait alourdir la fiscalité de 10.500 euros par bénéficiaire",
+      "r": "Le Sénat a adopté un amendement au budget réduisant l'abattement fiscal de l'assurance vie de 152 500 à 100 000 euros par bénéficiaire.",
+      "c": "epargne",
+      "s": "BFM Business",
+      "f": "fiscalite-epargne-patrimoine"
+    },
+    {
+      "d": "2026-11-28",
+      "i": "5f19025e99bd",
+      "t": "Comment sont taxés les logements vides et les résidences secondaires ?",
+      "r": "Une nouvelle règle fiscale fusionnant les taxes sur les logements vacants entrera en vigueur en 2027, modifiant la fiscalité pour les propriétaires.",
+      "c": "epargne",
+      "s": "Le Monde",
+      "f": null
+    },
+    {
+      "d": "2026-11-28",
+      "i": "ebf4f93a8f8f",
+      "t": "Mutuelle, auto, habitation... Une nouvelle flambée des tarifs des assurances en 2027",
+      "r": "Les tarifs des assurances subissent une nouvelle hausse en 2027, portée notamment par le coût des intempéries et des incendies estivaux.",
+      "c": "epargne",
+      "s": "franceinfo",
+      "f": null
+    },
+    {
+      "d": "2026-11-28",
+      "i": "d8a2e2316f02",
+      "t": "Acompte sur salaire : le patron, moins cher que le banquier en fin de mois ? La chronique de Jean-Jacques Manceau",
+      "r": "L'acompte sur salaire est présenté comme un droit méconnu et une solution moins coûteuse que le découvert bancaire en fin de mois.",
+      "c": "epargne",
+      "s": "Capital",
+      "f": null
+    },
     {
       "d": "2026-11-27",
       "i": "67cebbcfeb0d",
